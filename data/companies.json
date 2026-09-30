@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 1,
+    "ric": "1U1.DE",
+    "company_name": "1&1 AG",
+    "isin": "DE0005545503",
+    "folder_name": "1and1_AG"
+  },
+  {
+    "id": 2,
+    "ric": "ADTN.OQ",
+    "company_name": "ADTRAN Holdings Inc",
+    "isin": "US00486H1059",
+    "folder_name": "ADTRAN_Holdings_Inc"
+  },
+  {
+    "id": 3,
+    "ric": "AOFG.DE",
+    "company_name": "ATOSS Software SE",
+    "isin": "DE0005104400",
+    "folder_name": "ATOSS_Software_SE"
+  },
+  {
+    "id": 4,
+    "ric": "AG1G.DE",
+    "company_name": "AUTO1 Group SE",
+    "isin": "DE000A2LQ884",
+    "folder_name": "AUTO1_Group_SE"
+  },
+  {
+    "id": 5,
+    "ric": "ADSGn.DE",
+    "company_name": "Adidas AG",
+    "isin": "DE000A1EWWW0",
+    "folder_name": "Adidas_AG"
+  },
+  {
+    "id": 6,
+    "ric": "ADVG.DE",
+    "company_name": "Adtran Networks SE",
+    "isin": "DE0005103006",
+    "folder_name": "Adtran_Networks_SE"
+  },
+  {
+    "id": 7,
+    "ric": "AIR.PA",
+    "company_name": "Airbus SE",
+    "isin": "NL0000235190",
+    "folder_name": "Airbus_SE"
+  },
+  {
+    "id": 8,
+    "ric": "AIXGn.DE",
+    "company_name": "Aixtron SE",
+    "isin": "DE000A0WMPJ6",
+    "folder_name": "Aixtron_SE"
+  },
+  {
+    "id": 9,
+    "ric": "ALVG.DE",
+    "company_name": "Allianz SE",
+    "isin": "DE0008404005",
+    "folder_name": "Allianz_SE"
+  },
+  {
+    "id": 10,
+    "ric": "AMDG.DE",
+    "company_name": "Amadeus Fire AG",
+    "isin": "DE0005093108",
+    "folder_name": "Amadeus_Fire_AG"
+  },
+  {
+    "id": 11,
+    "ric": "AT1.DE",
+    "company_name": "Aroundtown SA",
+    "isin": "LU1673108939",
+    "folder_name": "Aroundtown_SA"
+  },
+  {
+    "id": 12,
+    "ric": "NAFG.DE",
+    "company_name": "Aurubis AG",
+    "isin": "DE0006766504",
+    "folder_name": "Aurubis_AG"
+  },
+  {
+    "id": 13,
+    "ric": "BASFn.DE",
+    "company_name": "BASF SE",
+    "isin": "DE000BASF111",
+    "folder_name": "BASF_SE"
+  },
+  {
+    "id": 14,
+    "ric": "BYWGnx.DE",
+    "company_name": "BayWa AG",
+    "isin": "DE0005194062",
+    "folder_name": "BayWa_AG"
+  },
+  {
+    "id": 15,
+    "ric": "BAYGn.DE",
+    "company_name": "Bayer AG",
+    "isin": "DE000BAY0017",
+    "folder_name": "Bayer_AG"
+  },
+  {
+    "id": 16,
+    "ric": "BMWG.DE",
+    "company_name": "Bayerische Motoren Werke AG",
+    "isin": "DE0005190003",
+    "folder_name": "Bayerische_Motoren_Werke_AG"
+  },
+  {
+    "id": 17,
+    "ric": "BC8G.DE",
+    "company_name": "Bechtle AG",
+    "isin": "DE0005158703",
+    "folder_name": "Bechtle_AG"
+  },
+  {
+    "id": 18,
+    "ric": "BEIG.DE",
+    "company_name": "Beiersdorf AG",
+    "isin": "DE0005200000",
+    "folder_name": "Beiersdorf_AG"
+  },
+  {
+    "id": 19,
+    "ric": "GBFG.DE",
+    "company_name": "Bilfinger SE",
+    "isin": "DE0005909006",
+    "folder_name": "Bilfinger_SE"
+  },
+  {
+    "id": 20,
+    "ric": "BVB.DE",
+    "company_name": "Borussia Dortmund GmbH & Co KGaA",
+    "isin": "DE0005493092",
+    "folder_name": "Borussia_Dortmund_GmbH_and_Co_KGaA"
+  },
+  {
+    "id": 21,
+    "ric": "BNRGn.DE",
+    "company_name": "Brenntag SE",
+    "isin": "DE000A1DAHH0",
+    "folder_name": "Brenntag_SE"
+  },
+  {
+    "id": 22,
+    "ric": "CECG.DE",
+    "company_name": "CECONOMY AG",
+    "isin": "DE0007257503",
+    "folder_name": "CECONOMY_AG"
+  },
+  {
+    "id": 23,
+    "ric": "EVDG.DE",
+    "company_name": "CTS Eventim AG & Co KgaA",
+    "isin": "DE0005470306",
+    "folder_name": "CTS_Eventim_AG_and_Co_KgaA"
+  },
+  {
+    "id": 24,
+    "ric": "COKG.DE",
+    "company_name": "Cancom SE",
+    "isin": "DE0005419105",
+    "folder_name": "Cancom_SE"
+  },
+  {
+    "id": 25,
+    "ric": "AFXG.DE",
+    "company_name": "Carl Zeiss Meditec AG",
+    "isin": "DE0005313704",
+    "folder_name": "Carl_Zeiss_Meditec_AG"
+  },
+  {
+    "id": 26,
+    "ric": "CWCG.DE",
+    "company_name": "Cewe Stiftung & Co KGaA",
+    "isin": "DE0005403901",
+    "folder_name": "Cewe_Stiftung_and_Co_KGaA"
+  },
+  {
+    "id": 27,
+    "ric": "CBKG.DE",
+    "company_name": "Commerzbank AG",
+    "isin": "DE000CBK1001",
+    "folder_name": "Commerzbank_AG"
+  },
+  {
+    "id": 28,
+    "ric": "COP1n.H",
+    "company_name": "CompuGroup Medical SE & Co KgaA",
+    "isin": "DE000A288904",
+    "folder_name": "CompuGroup_Medical_SE_and_Co_KgaA"
+  },
+  {
+    "id": 29,
+    "ric": "CONG.DE",
+    "company_name": "Continental AG",
+    "isin": "DE0005439004",
+    "folder_name": "Continental_AG"
+  },
+  {
+    "id": 30,
+    "ric": "1COVG.DE",
+    "company_name": "Covestro AG",
+    "isin": "DE0006062144",
+    "folder_name": "Covestro_AG"
+  },
+  {
+    "id": 31,
+    "ric": "DEZG.DE",
+    "company_name": "DEUTZ AG",
+    "isin": "DE0006305006",
+    "folder_name": "DEUTZ_AG"
+  },
+  {
+    "id": 32,
+    "ric": "DWSG.DE",
+    "company_name": "DWS Group GmbH & Co KgaA",
+    "isin": "DE000DWS1007",
+    "folder_name": "DWS_Group_GmbH_and_Co_KgaA"
+  },
+  {
+    "id": 33,
+    "ric": "DTGGe.DE",
+    "company_name": "Daimler Truck Holding AG",
+    "isin": "DE000DTR0CK8",
+    "folder_name": "Daimler_Truck_Holding_AG"
+  },
+  {
+    "id": 34,
+    "ric": "DHER.DE",
+    "company_name": "Delivery Hero SE",
+    "isin": "DE000A2E4K43",
+    "folder_name": "Delivery_Hero_SE"
+  },
+  {
+    "id": 35,
+    "ric": "DMPG.DE",
+    "company_name": "Dermapharm Holding SE",
+    "isin": "DE000A2GS5D8",
+    "folder_name": "Dermapharm_Holding_SE"
+  },
+  {
+    "id": 36,
+    "ric": "DBKGn.DE",
+    "company_name": "Deutsche Bank AG",
+    "isin": "DE0005140008",
+    "folder_name": "Deutsche_Bank_AG"
+  },
+  {
+    "id": 37,
+    "ric": "DBANn.DE",
+    "company_name": "Deutsche Beteiligungs AG",
+    "isin": "DE000A1TNUT7",
+    "folder_name": "Deutsche_Beteiligungs_AG"
+  },
+  {
+    "id": 38,
+    "ric": "DB1Gn.DE",
+    "company_name": "Deutsche Boerse AG",
+    "isin": "DE0005810055",
+    "folder_name": "Deutsche_Boerse_AG"
+  },
+  {
+    "id": 39,
+    "ric": "LHAG.DE",
+    "company_name": "Deutsche Lufthansa AG",
+    "isin": "DE0008232125",
+    "folder_name": "Deutsche_Lufthansa_AG"
+  },
+  {
+    "id": 40,
+    "ric": "PBBG.DE",
+    "company_name": "Deutsche Pfandbriefbank AG",
+    "isin": "DE0008019001",
+    "folder_name": "Deutsche_Pfandbriefbank_AG"
+  },
+  {
+    "id": 41,
+    "ric": "DHLn.DE",
+    "company_name": "Deutsche Post AG",
+    "isin": "DE0005552004",
+    "folder_name": "Deutsche_Post_AG"
+  },
+  {
+    "id": 42,
+    "ric": "DWNG.DE",
+    "company_name": "Deutsche Wohnen SE",
+    "isin": "DE000A0HN5C6",
+    "folder_name": "Deutsche_Wohnen_SE"
+  },
+  {
+    "id": 43,
+    "ric": "P911_p.DE",
+    "company_name": "Dr Ing hc F Porsche AG",
+    "isin": "DE000PAG9113",
+    "folder_name": "Dr_Ing_hc_F_Porsche_AG"
+  },
+  {
+    "id": 44,
+    "ric": "EONGn.DE",
+    "company_name": "E.ON SE",
+    "isin": "DE000ENAG999",
+    "folder_name": "E.ON_SE"
+  },
+  {
+    "id": 45,
+    "ric": "EUZG.DE",
+    "company_name": "Eckert & Ziegler SE",
+    "isin": "DE0005659700",
+    "folder_name": "Eckert_and_Ziegler_SE"
+  },
+  {
+    "id": 46,
+    "ric": "ELGG.DE",
+    "company_name": "Elmos Semiconductor SE",
+    "isin": "DE0005677108",
+    "folder_name": "Elmos_Semiconductor_SE"
+  },
+  {
+    "id": 47,
+    "ric": "EVKn.DE",
+    "company_name": "Evonik Industries AG",
+    "isin": "DE000EVNK013",
+    "folder_name": "Evonik_Industries_AG"
+  },
+  {
+    "id": 48,
+    "ric": "EVTG.DE",
+    "company_name": "Evotec SE",
+    "isin": "DE0005664809",
+    "folder_name": "Evotec_SE"
+  },
+  {
+    "id": 49,
+    "ric": "FIEG.DE",
+    "company_name": "Fielmann Group AG",
+    "isin": "DE0005772206",
+    "folder_name": "Fielmann_Group_AG"
+  },
+  {
+    "id": 50,
+    "ric": "FRAG.DE",
+    "company_name": "Fraport Frankfurt Airport Services Worldwide AG",
+    "isin": "DE0005773303",
+    "folder_name": "Fraport_Frankfurt_Airport_Services_Worldwide_AG"
+  },
+  {
+    "id": 51,
+    "ric": "FREG.DE",
+    "company_name": "Fresenius SE & Co KGaA",
+    "isin": "DE0005785604",
+    "folder_name": "Fresenius_SE_and_Co_KGaA"
+  },
+  {
+    "id": 52,
+    "ric": "FPE3_p.DE",
+    "company_name": "Fuchs Se",
+    "isin": "DE000A3E5D64",
+    "folder_name": "Fuchs_Se"
+  },
+  {
+    "id": 53,
+    "ric": "G1AG.DE",
+    "company_name": "GEA Group AG",
+    "isin": "DE0006602006",
+    "folder_name": "GEA_Group_AG"
+  },
+  {
+    "id": 54,
+    "ric": "GFTG.DE",
+    "company_name": "GFT Technologies SE",
+    "isin": "DE0005800601",
+    "folder_name": "GFT_Technologies_SE"
+  },
+  {
+    "id": 55,
+    "ric": "GYC.DE",
+    "company_name": "Grand City Properties SA",
+    "isin": "LU0775917882",
+    "folder_name": "Grand_City_Properties_SA"
+  },
+  {
+    "id": 56,
+    "ric": "GLJn.DE",
+    "company_name": "Grenke AG",
+    "isin": "DE000A161N30",
+    "folder_name": "Grenke_AG"
+  },
+  {
+    "id": 57,
+    "ric": "HLE.DE",
+    "company_name": "HELLA GmbH & Co KGaA",
+    "isin": "DE000A13SX22",
+    "folder_name": "HELLA_GmbH_and_Co_KGaA"
+  },
+  {
+    "id": 58,
+    "ric": "HBH.DE",
+    "company_name": "HORNBACH Holding AG & Co KgaA",
+    "isin": "DE0006083405",
+    "folder_name": "HORNBACH_Holding_AG_and_Co_KgaA"
+  },
+  {
+    "id": 59,
+    "ric": "HABAn.DE",
+    "company_name": "Hamborner REIT AG",
+    "isin": "DE000A3H2333",
+    "folder_name": "Hamborner_REIT_AG"
+  },
+  {
+    "id": 60,
+    "ric": "HNRGn.DE",
+    "company_name": "Hannover Rueck SE",
+    "isin": "DE0008402215",
+    "folder_name": "Hannover_Rueck_SE"
+  },
+  {
+    "id": 61,
+    "ric": "HEIG.DE",
+    "company_name": "Heidelberg Materials AG",
+    "isin": "DE0006047004",
+    "folder_name": "Heidelberg_Materials_AG"
+  },
+  {
+    "id": 62,
+    "ric": "HDDG.DE",
+    "company_name": "Heidelberger Druckmaschinen AG",
+    "isin": "DE0007314007",
+    "folder_name": "Heidelberger_Druckmaschinen_AG"
+  },
+  {
+    "id": 63,
+    "ric": "HFGG.DE",
+    "company_name": "Hellofresh SE",
+    "isin": "DE000A161408",
+    "folder_name": "Hellofresh_SE"
+  },
+  {
+    "id": 64,
+    "ric": "HNKG_p.DE",
+    "company_name": "Henkel AG & Co KGaA",
+    "isin": "DE0006048432",
+    "folder_name": "Henkel_AG_and_Co_KGaA"
+  },
+  {
+    "id": 65,
+    "ric": "HAGG.DE",
+    "company_name": "Hensoldt AG",
+    "isin": "DE000HAG0005",
+    "folder_name": "Hensoldt_AG"
+  },
+  {
+    "id": 66,
+    "ric": "HOTG.DE",
+    "company_name": "Hochtief AG",
+    "isin": "DE0006070006",
+    "folder_name": "Hochtief_AG"
+  },
+  {
+    "id": 67,
+    "ric": "BOSSn.DE",
+    "company_name": "Hugo Boss AG",
+    "isin": "DE000A1PHFF7",
+    "folder_name": "Hugo_Boss_AG"
+  },
+  {
+    "id": 68,
+    "ric": "HYQGn.DE",
+    "company_name": "Hypoport SE",
+    "isin": "DE0005493365",
+    "folder_name": "Hypoport_SE"
+  },
+  {
+    "id": 69,
+    "ric": "IOSn.DE",
+    "company_name": "IONOS Group SE",
+    "isin": "DE000A3E00M1",
+    "folder_name": "IONOS_Group_SE"
+  },
+  {
+    "id": 70,
+    "ric": "INHG.DE",
+    "company_name": "Indus Holding AG",
+    "isin": "DE0006200108",
+    "folder_name": "Indus_Holding_AG"
+  },
+  {
+    "id": 71,
+    "ric": "IFXGn.DE",
+    "company_name": "Infineon Technologies AG",
+    "isin": "DE0006231004",
+    "folder_name": "Infineon_Technologies_AG"
+  },
+  {
+    "id": 72,
+    "ric": "JST.DE",
+    "company_name": "Jost Werke SE",
+    "isin": "DE000JST4000",
+    "folder_name": "Jost_Werke_SE"
+  },
+  {
+    "id": 73,
+    "ric": "JUNG_p.DE",
+    "company_name": "Jungheinrich AG",
+    "isin": "DE0006219934",
+    "folder_name": "Jungheinrich_AG"
+  },
+  {
+    "id": 74,
+    "ric": "SDFGn.DE",
+    "company_name": "K+S AG",
+    "isin": "DE000KSAG888",
+    "folder_name": "K+S_AG"
+  },
+  {
+    "id": 75,
+    "ric": "KWSG.DE",
+    "company_name": "KWS SAAT SE & Co KgaA",
+    "isin": "DE0007074007",
+    "folder_name": "KWS_SAAT_SE_and_Co_KgaA"
+  },
+  {
+    "id": 76,
+    "ric": "KGX.DE",
+    "company_name": "Kion Group AG",
+    "isin": "DE000KGX8881",
+    "folder_name": "Kion_Group_AG"
+  },
+  {
+    "id": 77,
+    "ric": "KCOGn.DE",
+    "company_name": "Kloeckner & Co SE",
+    "isin": "DE000KC01000",
+    "folder_name": "Kloeckner_and_Co_SE"
+  },
+  {
+    "id": 78,
+    "ric": "KBX.DE",
+    "company_name": "Knorr Bremse AG",
+    "isin": "DE000KBX1006",
+    "folder_name": "Knorr_Bremse_AG"
+  },
+  {
+    "id": 79,
+    "ric": "KTN.DE",
+    "company_name": "Kontron AG",
+    "isin": "AT0000A0E9W5",
+    "folder_name": "Kontron_AG"
+  },
+  {
+    "id": 80,
+    "ric": "KRNG.DE",
+    "company_name": "Krones AG",
+    "isin": "DE0006335003",
+    "folder_name": "Krones_AG"
+  },
+  {
+    "id": 81,
+    "ric": "LEGn.DE",
+    "company_name": "LEG Immobilien SE",
+    "isin": "DE000LEG1110",
+    "folder_name": "LEG_Immobilien_SE"
+  },
+  {
+    "id": 82,
+    "ric": "LXSG.DE",
+    "company_name": "Lanxess AG",
+    "isin": "DE0005470405",
+    "folder_name": "Lanxess_AG"
+  },
+  {
+    "id": 83,
+    "ric": "B4B.H",
+    "company_name": "METRO AG",
+    "isin": "DE000BFB0019",
+    "folder_name": "METRO_AG"
+  },
+  {
+    "id": 84,
+    "ric": "MTXGn.DE",
+    "company_name": "MTU Aero Engines AG",
+    "isin": "DE000A0D9PT0",
+    "folder_name": "MTU_Aero_Engines_AG"
+  },
+  {
+    "id": 85,
+    "ric": "MBGn.DE",
+    "company_name": "Mercedes-Benz Group AG",
+    "isin": "DE0007100000",
+    "folder_name": "Mercedes-Benz_Group_AG"
+  },
+  {
+    "id": 86,
+    "ric": "MRCG.DE",
+    "company_name": "Merck KGaA",
+    "isin": "DE0006599905",
+    "folder_name": "Merck_KGaA"
+  },
+  {
+    "id": 87,
+    "ric": "MORh.TRE",
+    "company_name": "MorphoSys AG",
+    "isin": "DE0006632003",
+    "folder_name": "MorphoSys_AG"
+  },
+  {
+    "id": 88,
+    "ric": "MUVGn.DE",
+    "company_name": "Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG",
+    "isin": "DE0008430026",
+    "folder_name": "Muenchener_Rueckversicherungs-Gesellschaft_in_Muenchen_AG"
+  },
+  {
+    "id": 89,
+    "ric": "NA9n.DE",
+    "company_name": "Nagarro SE",
+    "isin": "DE000A3H2200",
+    "folder_name": "Nagarro_SE"
+  },
+  {
+    "id": 90,
+    "ric": "NEKG.DE",
+    "company_name": "Nemetschek SE",
+    "isin": "DE0006452907",
+    "folder_name": "Nemetschek_SE"
+  },
+  {
+    "id": 91,
+    "ric": "DE000NWRK013.TPRM",
+    "company_name": "New Work SE",
+    "isin": "DE000NWRK013",
+    "folder_name": "New_Work_SE"
+  },
+  {
+    "id": 92,
+    "ric": "NDXG.DE",
+    "company_name": "Nordex SE",
+    "isin": "DE000A0D6554",
+    "folder_name": "Nordex_SE"
+  },
+  {
+    "id": 93,
+    "ric": "NOEJ.DE",
+    "company_name": "Norma Group SE",
+    "isin": "DE000A1H8BV3",
+    "folder_name": "Norma_Group_SE"
+  },
+  {
+    "id": 94,
+    "ric": "PNEGn.DE",
+    "company_name": "PNE AG",
+    "isin": "DE000A0JBPG2",
+    "folder_name": "PNE_AG"
+  },
+  {
+    "id": 95,
+    "ric": "TPEG.DE",
+    "company_name": "PVA TePla AG",
+    "isin": "DE0007461006",
+    "folder_name": "PVA_TePla_AG"
+  },
+  {
+    "id": 96,
+    "ric": "PATGn.DE",
+    "company_name": "Patrizia SE",
+    "isin": "DE000PAT1AG3",
+    "folder_name": "Patrizia_SE"
+  },
+  {
+    "id": 97,
+    "ric": "PV.DE",
+    "company_name": "Pfeiffer Vacuum Technology AG",
+    "isin": "DE0006916604",
+    "folder_name": "Pfeiffer_Vacuum_Technology_AG"
+  },
+  {
+    "id": 98,
+    "ric": "PSHG_p.DE",
+    "company_name": "Porsche Automobil Holding SE",
+    "isin": "DE000PAH0038",
+    "folder_name": "Porsche_Automobil_Holding_SE"
+  },
+  {
+    "id": 99,
+    "ric": "PUMG.DE",
+    "company_name": "Puma SE",
+    "isin": "DE0006969603",
+    "folder_name": "Puma_SE"
+  },
+  {
+    "id": 100,
+    "ric": "QGEN.N",
+    "company_name": "Qiagen NV",
+    "isin": "NL0015002CX3",
+    "folder_name": "Qiagen_NV"
+  },
+  {
+    "id": 101,
+    "ric": "R3NK.DE",
+    "company_name": "RENK Group AG",
+    "isin": "DE000RENK730",
+    "folder_name": "RENK_Group_AG"
+  },
+  {
+    "id": 102,
+    "ric": "AUDK.LU",
+    "company_name": "RTL Group SA",
+    "isin": "LU0061462528",
+    "folder_name": "RTL_Group_SA"
+  },
+  {
+    "id": 103,
+    "ric": "RWEG.DE",
+    "company_name": "RWE AG",
+    "isin": "DE0007037129",
+    "folder_name": "RWE_AG"
+  },
+  {
+    "id": 104,
+    "ric": "RAAG.DE",
+    "company_name": "Rational AG",
+    "isin": "DE0007010803",
+    "folder_name": "Rational_AG"
+  },
+  {
+    "id": 105,
+    "ric": "RDC.DE",
+    "company_name": "Redcare Pharmacy NV",
+    "isin": "NL0012044747",
+    "folder_name": "Redcare_Pharmacy_NV"
+  },
+  {
+    "id": 106,
+    "ric": "RHMG.DE",
+    "company_name": "Rheinmetall AG",
+    "isin": "DE0007030009",
+    "folder_name": "Rheinmetall_AG"
+  },
+  {
+    "id": 107,
+    "ric": "SAPG.DE",
+    "company_name": "SAP SE",
+    "isin": "DE0007164600",
+    "folder_name": "SAP_SE"
+  },
+  {
+    "id": 108,
+    "ric": "F3CG.DE",
+    "company_name": "SFC Energy AG",
+    "isin": "DE0007568578",
+    "folder_name": "SFC_Energy_AG"
+  },
+  {
+    "id": 109,
+    "ric": "SGCG.DE",
+    "company_name": "SGL Carbon SE",
+    "isin": "DE0007235301",
+    "folder_name": "SGL_Carbon_SE"
+  },
+  {
+    "id": 110,
+    "ric": "SMHNn.DE",
+    "company_name": "SUSS MicroTec SE",
+    "isin": "DE000A1K0235",
+    "folder_name": "SUSS_MicroTec_SE"
+  },
+  {
+    "id": 111,
+    "ric": "SFQ.F",
+    "company_name": "Saf-Holland Se",
+    "isin": "DE000SAFH001",
+    "folder_name": "Saf-Holland_Se"
+  },
+  {
+    "id": 112,
+    "ric": "SZGG.DE",
+    "company_name": "Salzgitter AG",
+    "isin": "DE0006202005",
+    "folder_name": "Salzgitter_AG"
+  },
+  {
+    "id": 113,
+    "ric": "SHA0n.DE",
+    "company_name": "Schaeffler AG",
+    "isin": "DE000SHA0100",
+    "folder_name": "Schaeffler_AG"
+  },
+  {
+    "id": 114,
+    "ric": "G24n.DE",
+    "company_name": "Scout24 SE",
+    "isin": "DE000A12DM80",
+    "folder_name": "Scout24_SE"
+  },
+  {
+    "id": 115,
+    "ric": "SIEGn.DE",
+    "company_name": "Siemens AG",
+    "isin": "DE0007236101",
+    "folder_name": "Siemens_AG"
+  },
+  {
+    "id": 116,
+    "ric": "ENR1n.DE",
+    "company_name": "Siemens Energy AG",
+    "isin": "DE000ENER6Y0",
+    "folder_name": "Siemens_Energy_AG"
+  },
+  {
+    "id": 117,
+    "ric": "SHLG.DE",
+    "company_name": "Siemens Healthineers AG",
+    "isin": "DE000SHL1006",
+    "folder_name": "Siemens_Healthineers_AG"
+  },
+  {
+    "id": 118,
+    "ric": "WAFGn.DE",
+    "company_name": "Siltronic AG",
+    "isin": "DE000WAF3001",
+    "folder_name": "Siltronic_AG"
+  },
+  {
+    "id": 119,
+    "ric": "STOG_p.DE",
+    "company_name": "Sto SE & Co KgaA",
+    "isin": "DE0007274136",
+    "folder_name": "Sto_SE_and_Co_KgaA"
+  },
+  {
+    "id": 120,
+    "ric": "SBSG.DE",
+    "company_name": "Stratec Se",
+    "isin": "DE000STRA555",
+    "folder_name": "Stratec_Se"
+  },
+  {
+    "id": 121,
+    "ric": "SAXG.DE",
+    "company_name": "Stroeer SE & Co KgaA",
+    "isin": "DE0007493991",
+    "folder_name": "Stroeer_SE_and_Co_KgaA"
+  },
+  {
+    "id": 122,
+    "ric": "SZUG.DE",
+    "company_name": "Suedzucker AG",
+    "isin": "DE0007297004",
+    "folder_name": "Suedzucker_AG"
+  },
+  {
+    "id": 123,
+    "ric": "SY1G.DE",
+    "company_name": "Symrise AG",
+    "isin": "DE000SYM9999",
+    "folder_name": "Symrise_AG"
+  },
+  {
+    "id": 124,
+    "ric": "TEGG.DE",
+    "company_name": "TAG Immobilien AG",
+    "isin": "DE0008303504",
+    "folder_name": "TAG_Immobilien_AG"
+  },
+  {
+    "id": 125,
+    "ric": "TUI1n.DE",
+    "company_name": "TUI AG",
+    "isin": "DE000TUAG505",
+    "folder_name": "TUI_AG"
+  },
+  {
+    "id": 126,
+    "ric": "TLXGn.DE",
+    "company_name": "Talanx AG",
+    "isin": "DE000TLX1005",
+    "folder_name": "Talanx_AG"
+  },
+  {
+    "id": 127,
+    "ric": "TMV.DE",
+    "company_name": "TeamViewer SE",
+    "isin": "DE000A2YN900",
+    "folder_name": "TeamViewer_SE"
+  },
+  {
+    "id": 128,
+    "ric": "8TRA.DE",
+    "company_name": "Traton SE",
+    "isin": "DE000TRAT0N7",
+    "folder_name": "Traton_SE"
+  },
+  {
+    "id": 129,
+    "ric": "UTDI.DE",
+    "company_name": "United Internet AG",
+    "isin": "DE0005089031",
+    "folder_name": "United_Internet_AG"
+  },
+  {
+    "id": 130,
+    "ric": "VAR1de.TBEM",
+    "company_name": "Varta AG",
+    "isin": "DE000A0TGJ55",
+    "folder_name": "Varta_AG"
+  },
+  {
+    "id": 131,
+    "ric": "VBKG.DE",
+    "company_name": "Verbio SE",
+    "isin": "DE000A0JL9W6",
+    "folder_name": "Verbio_SE"
+  },
+  {
+    "id": 132,
+    "ric": "VNAn.DE",
+    "company_name": "Vonovia SE",
+    "isin": "DE000A1ML7J1",
+    "folder_name": "Vonovia_SE"
+  },
+  {
+    "id": 133,
+    "ric": "VOSG.DE",
+    "company_name": "Vossloh AG",
+    "isin": "DE0007667107",
+    "folder_name": "Vossloh_AG"
+  },
+  {
+    "id": 134,
+    "ric": "WCHG.DE",
+    "company_name": "Wacker Chemie AG",
+    "isin": "DE000WCH8881",
+    "folder_name": "Wacker_Chemie_AG"
+  },
+  {
+    "id": 135,
+    "ric": "WACGn.DE",
+    "company_name": "Wacker Neuson SE",
+    "isin": "DE000WACK012",
+    "folder_name": "Wacker_Neuson_SE"
+  },
+  {
+    "id": 136,
+    "ric": "WUWGn.DE",
+    "company_name": "Wuestenrot & Wuerttembergische AG",
+    "isin": "DE0008051004",
+    "folder_name": "Wuestenrot_and_Wuerttembergische_AG"
+  },
+  {
+    "id": 137,
+    "ric": "TIMAn.DE",
+    "company_name": "ZEAL Network SE",
+    "isin": "DE000ZEAL241",
+    "folder_name": "ZEAL_Network_SE"
+  },
+  {
+    "id": 138,
+    "ric": "ZALG.DE",
+    "company_name": "Zalando SE",
+    "isin": "DE000ZAL1111",
+    "folder_name": "Zalando_SE"
+  },
+  {
+    "id": 139,
+    "ric": "ADNGk.DE",
+    "company_name": "adesso SE",
+    "isin": "DE000A0Z23Q5",
+    "folder_name": "adesso_SE"
+  },
+  {
+    "id": 140,
+    "ric": "FTKn.DE",
+    "company_name": "flatexDEGIRO AG",
+    "isin": "DE000FTG1111",
+    "folder_name": "flatexDEGIRO_AG"
+  },
+  {
+    "id": 141,
+    "ric": "FNTGn.DE",
+    "company_name": "freenet AG",
+    "isin": "DE000A0Z2ZZ5",
+    "folder_name": "freenet_AG"
+  },
+  {
+    "id": 142,
+    "ric": "YSNG.DE",
+    "company_name": "secunet Security Networks AG",
+    "isin": "DE0007276503",
+    "folder_name": "secunet_Security_Networks_AG"
+  },
+  {
+    "id": 143,
+    "ric": "TKAG.DE",
+    "company_name": "thyssenkrupp AG",
+    "isin": "DE0007500001",
+    "folder_name": "thyssenkrupp_AG"
+  },
+  {
+    "id": 144,
+    "ric": "NCH2.DE",
+    "company_name": "thyssenkrupp nucera AG & Co KgaA",
+    "isin": "DE000NCA0001",
+    "folder_name": "thyssenkrupp_nucera_AG_and_Co_KgaA"
+  },
+  {
+    "id": 145,
+    "ric": "0A9B.L",
+    "company_name": "SYNLAB Holdco GmbH",
+    "isin": "DE000A2TSL71",
+    "folder_name": "SYNLAB_Holdco_GmbH"
+  },
+  {
+    "id": 146,
+    "ric": "DRWG_p.DE",
+    "company_name": "Draegerwerk AG & Co KGaA",
+    "isin": "DE0005550636",
+    "folder_name": "Draegerwerk_AG_and_Co_KGaA"
+  },
+  {
+    "id": 147,
+    "ric": "VOWG_p.DE",
+    "company_name": "Volkswagen AG",
+    "isin": "DE0007664039",
+    "folder_name": "Volkswagen_AG"
+  },
+  {
+    "id": 148,
+    "ric": "EKTG.DE",
+    "company_name": "Energiekontor AG",
+    "isin": "DE0005313506",
+    "folder_name": "Energiekontor_AG"
+  },
+  {
+    "id": 149,
+    "ric": "DTEGn.DE",
+    "company_name": "Deutsche Telekom AG",
+    "isin": "DE0005557508",
+    "folder_name": "Deutsche_Telekom_AG"
+  },
+  {
+    "id": 150,
+    "ric": "SATG_p.DE",
+    "company_name": "Sartorius AG",
+    "isin": "DE0007165631",
+    "folder_name": "Sartorius_AG"
+  },
+  {
+    "id": 151,
+    "ric": "GXIG.DE",
+    "company_name": "Gerresheimer AG",
+    "isin": "DE000A0LD6E6",
+    "folder_name": "Gerresheimer_AG"
+  }
+]

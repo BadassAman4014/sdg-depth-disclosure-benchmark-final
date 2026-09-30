@@ -1,0 +1,6675 @@
+ANNUAL REPORT 2017
+CONSOLIDATED FINANCIAL STATEMENTS
+
+CONSOLIDATED FINANCIAL STATEMENTS 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+3
+CONSOLIDATED INCOME STATEMENT
+5
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+6
+CONSOLIDATED STATEMENT OF CASH FLOWS
+7
+STATEMENT OF CHANGES IN EQUITY
+9
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+10
+INDEPENDENT AUDITOR’S REPORT
+73
+BIG SEAN 
+1 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 2
+CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS
+
+T.1  CONSOLIDATED STATEMENT OF FINANCIAL POSITION (in € million)
+ASSETS
+Notes
+12/31/2017
+12/31/2016
+Cash and cash equivalents
+3
+415.0 
+326.7 
+Inventories
+4
+778.5 
+718.9 
+Trade receivables
+5
+503.7 
+499.2 
+Income tax receivables
+22
+26.8 
+37.4 
+Other current financial assets
+6
+66.7 
+114.1 
+Other current assets
+7
+94.1 
+69.2 
+Current assets
+1,884.8 
+1,765.4 
+Deferred income taxes
+8
+207.9 
+229.5 
+Property, plant and equipment
+9
+260.1 
+252.1 
+Intangible assets
+10
+412.9 
+423.1 
+Investments in associates
+11
+16.6 
+16.5 
+Other non-current financial assets
+12
+51.7 
+59.8 
+Other non-current assets
+12
+19.8 
+18.7 
+Non-current assets
+969.0 
+999.7 
+TOTAL ASSETS
+2,853.8 
+2,765.1 
+LIABILITIES AND SHAREHOLDERS’ EQUITY 
+Notes
+12/31/2017
+12/31/2016
+Current financial liabilities
+13
+29.0 
+25.3 
+Trade payables
+13
+646.1 
+580.6 
+Income taxes
+22
+54.7 
+41.4 
+Other current provisions
+16
+86.2 
+56.0 
+Other current financial liabilities
+13
+94.9 
+70.0 
+Other current liabilities
+13
+145.5 
+121.5 
+Current liabilities
+1,056.5 
+894.9 
+Deferred income tax liabilities
+8
+37.6 
+63.1 
+Pension provisions
+15
+29.7 
+31.6 
+Other non-current provisions
+16
+34.6 
+29.8 
+Liabilities from acquisitions
+17
+4.8 
+5.0 
+Other non-current financial liabilities
+13
+31.0 
+16.2 
+Other non-current liabilities
+13
+3.0 
+2.3 
+Non-current liabilities
+140.7 
+148.0 
+Subscribed capital
+18
+38.6 
+38.6 
+Group reserves
+18
+50.7 
+203.2 
+Retained earnings
+18
+1,566.1 
+1,496.6 
+Treasury stock
+18
+-30.0 
+-31.4 
+Equity attributable to the shareholders of the parent 
+1,625.5 
+1,706.9 
+Non-controlling interest
+18
+31.2
+15.3
+Shareholders’ equity
+1,656.7
+1,722.2
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY
+2,853.8 
+2,765.1 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+3 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 4
+CONSOLIDATED FINANCIAL STATEMENTS  | CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+CONSOLIDATED FINANCIAL STATEMENTS  | CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+
+T.2  CONSOLIDATED INCOME STATEMENT (in € million)
+Notes
+2017
+2016
+Sales
+25
+4,135.9 
+3,626.7 
+Cost of sales
+25
+-2,181.5 
+-1,970.3 
+Gross profit
+25
+1,954.3 
+1,656.4 
+Royalty and commission income
+15.8 
+15.7 
+Other operating income and expenses
+20
+-1,725.6 
+-1,544.5 
+Operating income (EBIT)
+244.6 
+127.6 
+Result from associated companies
+21
+1.6 
+1.2 
+Financial income
+21
+10.3 
+10.5 
+Financial expenses
+21
+-25.3 
+-20.4 
+Financial result
+-13.4 
+-8.7 
+Earnings before taxes (EBT)
+231.2 
+118.9 
+Taxes on income
+22
+-63.3 
+-30.5 
+Consolidated net earnings for the year
+168.0 
+88.4 
+	
+attributable to: Non-controlling interest
+ 18
+-32.2 
+-26.0 
+	
+ Equity holders of the parent (net earnings)
+135.8 
+62.4 
+Earnings per share (€)
+23
+9.09 
+4.17 
+Earnings per share (€) - diluted
+23
+9.09 
+4.17 
+Weighted average shares outstanding (million)
+23
+14.943 
+14.940 
+Weighted average shares outstanding, diluted (million)
+23
+14.943 
+14.940 
+T.3  CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (in € million)
+After tax
+2017
+Tax impact
+2017
+Before tax
+2017
+After tax
+2016
+Tax impact
+2016
+Before tax
+2016
+Net earnings before attribution
+168.0 
+168.0 
+88.4 
+88.4 
+Currency changes
+-114.9 
+-114.9 
+11.9 
+11.9 
+Cash flow hedge
+	
+Release to the income statement
+	
+Market value for cash flow hedges
+-43.8
+-55.0
+0.1
+4.2
+-43.9
+-59.1
+-17.4
+51.1
+5.2
+-0.6
+-22.6
+51.7
+Net result of available-for-sale financial assets
+3.8 
+3.8 
+4.9 
+-0.8 
+5.7 
+Share in the other comprehensive income  
+of at equity accounted investments
+ 
+-0.4 
+ 
+ 
+ 
+-0.4 
+ 
+-0.1 
+ 
+ 
+-0.1 
+Items expected to be reclassified  
+to the income statement in the future
+ 
+-210.3 
+ 
+4.2 
+ 
+-214.5 
+ 
+50.4 
+ 
+3.8 
+ 
+46.6 
+Remeasurements of the net defined  
+benefit liability
+ 
+1.0 
+ 
+-0.3 
+ 
+1.3 
+ 
+-9.1 
+ 
+2.3 
+ 
+-11.3 
+Items not expected to be reclassified  
+to the income statement in the future
+ 
+1.0 
+ 
+-0.3 
+ 
+1.3 
+ 
+-9.1 
+ 
+2.3 
+ 
+-11.3 
+Other result
+-209.3 
+3.9 
+-213.2 
+41.3 
+6.1 
+35.2 
+Comprehensive income
+	
+attributable to: Non-controlling interest  
+Equity holder of the parent
+-41.4
+29.2
+-70.6
+3.9 
+3.9
+-45.2
+29.2
+-74.5
+129.7
+26.6
+103.1
+6.1
+6.1
+123.6
+26.6
+97.0
+CONSOLIDATED INCOME STATEMENT
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+5 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 6
+CONSOLIDATED FINANCIAL STATEMENTS  | CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+CONSOLIDATED FINANCIAL STATEMENTS  | CONSOLIDATED INCOME STATEMENT
+
+T.4  CONSOLIDATED STATEMENT OF CASH FLOWS (in € million)
+Notes
+2017
+2016
+Operating activities
+Earnings before tax (EBT)
+231.2 
+118.9 
+Adjustments for:
+	
+Depreciation
+9, 10
+70.4 
+59.9 
+	
+Non-realized currency gains/losses, net
+15.7 
+-0.7 
+	
+Result from associated companies
+11
+-1.6 
+-1.2 
+	
+Financial income
+21
+-10.1 
+-10.2 
+	
+Financial expenses
+21
+18.5 
+14.0 
+	
+Changes from the sale of fixed assets
+1.7 
+0.6 
+	
+Changes to pension accruals
+15
+-0.4 
+-3.2 
+	
+Other non cash effected expenses/income
+5.6 
+4.8 
+Gross cash flow
+26
+330.9 
+182.9 
+Changes in receivables and other current assets
+5, 6, 7
+-92.8 
+-16.8 
+Changes in inventories
+4
+-117.2 
+-57.7 
+Changes in trade payables and other current liabilities
+13
+159.4 
+74.2 
+Cash inflow from operating activities
+280.3 
+182.7 
+Dividends received
+11, 12
+1.0 
+1.0 
+Interest paid
+21
+-11.6 
+-11.6 
+Income taxes paid
+22
+-42.6 
+-41.0 
+Net cash from operating activities
+26
+227.2 
+131.1 
+Notes
+2017
+2016
+Investing activities
+	
+Payment for acquisitions
+17
+0.0 
+-6.8 
+	
+Purchase of property and equipment
+9, 10
+-122.9 
+-84.3 
+	
+Proceeds from sale of property and equipment
+12.6 
+1.5 
+	
+Payment for other assets
+12
+-1.7 
+-0.5 
+	
+Interest received
+21
+1.8 
+8.8 
+Cash outflow from investing activities
+-110.3 
+-81.4 
+Financing activities
+	
+Changes in leasing liabilities
+13
+-0.2 
+-0.1 
+	
+Raising/(-) Repayment of current financial liabilities
+13
+-12.1 
+-43.4 
+	
+Raising of non-current financial liabilities
+13
+15.4 
+9.2 
+	
+Dividend payments to equity holders of the parent 
+18
+-11.2 
+-7.5 
+	
+Dividend payments to non-controlling interests
+18
+-13.4 
+-19.3 
+	
+Other changes
+-2.0 
+0.0 
+Cash outflow from financing activities
+26
+-23.4 
+-61.1 
+Exchange rate-related changes in cash flow
+-5.3 
+-0.7 
+Change in cash and cash equivalents
+88.3 
+-12.1 
+Cash and cash equivalents at beginning of the financial year
+326.7 
+338.8 
+Cash and cash equivalents at the end of the financial year
+3, 26
+415.0 
+326.7 
+CONSOLIDATED STATEMENT OF CASH FLOWS
+7 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 8
+CONSOLIDATED FINANCIAL STATEMENTS  | CONSOLIDATED STATEMENT OF CASH FLOWS
+CONSOLIDATED FINANCIAL STATEMENTS  | CONSOLIDATED STATEMENT OF CASH FLOWS
+
+T.5  STATEMENT OF CHANGES IN EQUITY (in € million)
+SUB­
+SCRIBED
+CAPITAL
+RESERVES
+RETAINED
+EARNINGS
+TREASURY
+STOCK
+EQUITY 
+BEFORE 
+NON-CON­
+TROLLING
+INTERESTS
+NON­-CON­
+TROLLING
+INTE­RESTS
+TOTAL 
+EQUITY
+Capital
+reserve
+Revenue
+reserves
+Difference
+from
+currency
+conver-
+sion
+Cash flow
+hedges
+At equity
+accounted
+invest-
+ments
+12/31/2015
+38.6 
+193.7 
+59.7 
+-112.8 
+21.2 
+0.6 1,441.7
+-31.4 1,611.3 
+8.0 1,619.3 
+Net earnings
+62.4 
+62.4 
+26.0 
+88.4 
+Net income  
+directly recognized 
+in equity
+-4.2 
+11.9 
+33.1 
+-0.1 
+40.7 
+0.6 
+41.3 
+Total comprehen-
+sive income
+-4.2 
+11.9 
+33.1 
+-0.1 
+62.4 
+103.1 
+26.6 
+129.7 
+Dividends paid to 
+equity holders of 
+the parent compa-
+ny/non-controlling 
+interests
+-7.5 
+-7.5 
+-19.3 
+-26.8 
+Changes in the 
+group of consolida-
+ted companies
+-0.0 
+-0.0 
+-0.0 
+12/31/2016
+38.6 
+193.7 
+55.6 
+-100.9 
+54.3 
+0.5 1,496.6 
+-31.4 1,706.9 
+15.3 1,722.2 
+Net earnings
+135.8 
+135.8 
+32.2 
+168.0 
+Net income  
+directly recognized 
+in equity
+4.8 
+-111.7 
+-99.1 
+-0.4 
+-206.4 
+-2.9 
+-209.3 
+Total comprehen-
+sive income
+4.8 
+-111.7 
+-99.1 
+-0.4 
+135.8 
+-70.6 
+29.2 
+-41.4 
+Dividends paid to 
+equity holders of 
+the parent compa-
+ny/non-controlling 
+interests
+-11.2 
+-11.2 
+-13.4 
+-24.6 
+Allocations to  
+revenue reserves
+55.0 
+-55.0 
+Repurchase  
+of own equity  
+instruments
+-1.8 
+-1.8 
+-1.8 
+Utilization/Issue of 
+shares
+0.8 
+1.4 
+2.2 
+2.2 
+12/31/2017
+38.6 
+192.6 
+115.3 
+-212.6 
+-44.8 
+0.2 1,566.1 
+-30.0 1,625.5 
+31.2 1,656.7 
+STATEMENT OF CHANGES IN EQUITY
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+1. GENERAL 1 
+Under the PUMA brand name, PUMA SE and its sub-
+sidiaries are engaged in the development and sale of 
+a broad range of sports and sports lifestyle prod-
+ucts, including footwear, apparel and accessories. 
+The company is a European stock corporation 
+(Societas Europaea/SE) and parent company of the 
+PUMA Group; its registered office is on PUMA WAY 1, 
+91074 Herzogenaurach, Germany. The competent 
+registry court is in Fürth (Bavaria).
+The PUMA Group is included in the consolidated 
+financial statements of Kering S.A., Paris, which are 
+available on the website www.kering.com and are 
+published by the Autorité des Marchés Financiers 
+(AMF). The Kering Group, in turn, is included in the 
+consolidated financial statements of Financière 
+Pinault S.C.A., which are not published.
+The consolidated financial statements of PUMA SE 
+and its subsidiaries (hereinafter shortly referred to 
+as the Group or PUMA) were prepared in accordance 
+with the International Financial Reporting Standards 
+(IFRS) accounting standards issued by the Interna-
+tional Accounting Standards Board (IASB), as they 
+are to be applied in the EU and the supplementary 
+accounting principles to be applied in accordance 
+with Section 315e (1) of the German Commercial 
+Code. The IASB standards and interpretations, as 
+they are to be applied in the EU, which are mandatory 
+for financial years as of January 1, 2017 have been 
+applied. 
+The following new and amended standards and 
+interpretations have been used for the first time in 
+the current financial year:
+T.6  
+Standard
+Title
+First-time adoption in the current financial year 
+Amendment IAS 12
+Recognition of Deferred Tax Assets  
+for Unrealized Losses
+Amendment IAS 7
+Disclosure Initiative
+1 G4-17
+9 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 10
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | STATEMENT OF CHANGES IN EQUITY
+
+The standards and interpretations used for the 
+first time as of January 1, 2017 did not have any sig-
+nificant effect on the consolidated financial 
+statements. 
+The following standards and interpretations have 
+been released, but will only take effect in later re-
+porting periods and are not applied earlier by the 
+group: 
+T.7  
+Standard
+Title
+Date of 
+adoption*
+Planned
+adoption
+Endorsed
+IFRS 9
+Financial Instruments
+01/01/2018
+01/01/2018
+Amendment IFRS 4
+Applying IFRS 9 Financial Instruments with  
+IFRS 4 Insurance Contracts
+01/01/2018
+01/01/2018
+IFRS 15
+Revenue from Contracts with Customers
+01/01/2018
+01/01/2018
+IFRS 16
+Leases
+01/01/2019
+01/01/2019
+Endorsement pending
+Amendment IAS 40
+Transfers of Investment Property
+01/01/2018
+01/01/2018
+Amendment IFRS 2
+Classification and Measurement of Share-based 
+Payment Transactions
+01/01/2018
+01/01/2018
+IFRIC 22
+Foreign Currency Transactions and Advanced 
+Consideration
+01/01/2018
+01/01/2018
+AIP 2014 – 2016
+Improvements to IFRS
+01/01/2018
+01/01/2018
+Amendment IAS 28
+Long-term Interests in Associates and Joint 
+Ventures
+01/01/2019
+01/01/2019
+Amendment IFRS 9
+Prepayment Features with Negative  
+Compensation
+01/01/2019
+01/01/2019
+AIP 2015 – 2017
+Improvements to IFRS
+01/01/2019
+01/01/2019
+IFRIC 23
+Uncertainty Transactions and Advance  
+Consideration
+01/01/2019
+01/01/2019
+IFRS 17
+Insurance Contracts
+01/01/2021
+01/01/2021
+*	
+Adjusted by EU endorsement, if applicable.
+ IFRS 9  contains regulations for the recognition, 
+measurement and derecognition as well as for hedge 
+accounting. This means that the accounting of finan-
+cial instruments carried out previously under IAS 39 
+(Financial Instruments: Recognition and Measure-
+ment) can now be completely replaced by accounting 
+under IFRS 9. This includes, among other things, a new 
+impairment model based on expected credit defaults. 
+IFRS 9 also contains new regulations on the applica-
+tion of hedge accounting. 
+The new standard is to be applied for financial years 
+beginning on or after January 1, 2018. PUMA will 
+apply IFRS 9 for the first time for the financial year 
+beginning on January 1, 2018; the adjustment of the 
+previous year’s figures is waived in accordance with 
+the transitional provisions of IFRS 9.
+PUMA does not expect any significant effects from 
+the first-time application of IFRS 9. With regard to the 
+new impairment model of IFRS 9 for the value adjust-
+ment of debt instruments, PUMA does not expect any 
+significant change in the amount of the value adjust-
+ments, as PUMA mainly has current trade receivables 
+with no interest component. In addition, the majority 
+of trade receivables are insured against credit risk, 
+which limits the amount of the expected loss. PUMA 
+will apply the hedge accounting rules prospectively as 
+of January 1, 2018. It is expected that all existing 
+hedge accounting relationships will also meet the re-
+quirements for hedge accounting in accordance with 
+IFRS 9. 
+The introduction of IFRS 9 is accompanied by changes 
+to IFRS 7, which will lead to additional disclosures in 
+the notes to the financial statements in the future.
+ IFRS 15  prescribes when and in what amount reve-
+nues are to be recognized. The standard provides a 
+single, principle-based, five-step model that applies 
+to all contracts with customers. In the future, the 
+date of revenue recognition will be determined by 
+the transfer of control to the customer. In each case, 
+a check must be carried out as to whether the power 
+of disposition is transferred to the customer on a 
+period or specific time basis. In addition, more com-
+prehensive disclosures in the notes to the financial 
+statements require that more informative and rele-
+vant information be made available to users of the 
+financial statements than previously. 
+The standard and the clarifications published in April 
+2016 must be applied to financial years beginning on 
+or after January 1, 2018. PUMA will apply IFRS 15 for 
+the first time for the financial year beginning on Jan-
+uary 1, 2018; the adjustment of the previous year’s 
+figures is waived in accordance with the transitional 
+provisions of the modified retrospective approach in 
+IFRS 15. The transitional facilitations available for 
+modified retrospective application are to be utilized. 
+Based on the analyses carried out, no reconciliation 
+effects are to be expected in the opening balance 
+sheet in 2018 when IFRS 15 is applied for the first 
+time. 
+Further findings in the course of the implementation 
+of IFRS 15 confirm that there will be no material ef-
+fects on the consolidated financial statements of 
+PUMA as PUMA has not concluded any long-term 
+contracts and multi-component agreements. In ad-
+dition, the following key statements can be made:
+∆	 For revenues from the sale of products, no con-
+version effects are expected, since control is 
+generally transferred to the customer when the 
+products are delivered and sales revenues and 
+thus income continue to be recognized at this 
+point in time.
+∆	 The accounting for licensing of trademark rights 
+does not result in any changes to the previous 
+accounting treatment, as the previous presen-
+tation corresponds to future regulations.
+∆	 With regard to the new requirements for the  
+disclosure of payments to customers, it is  
+expected that in individual cases there may  
+be differences in accounting, which will lead  
+to the disclosure of payments to customers as  
+a reduction in sales revenue rather than the  
+recognition of operating expenses. Overall,  
+however, this is not expected to have a signifi-
+cant effect on accounting.
+∆	 With regard to the balance sheet presentation, 
+IFRS 15 results in a shift in connection with  
+reimbursement liabilities, which were previously 
+reported under other provisions. The amount  
+of the reimbursement liabilities will continue  
+to be disclosed separately in the notes to the  
+financial statements. Overall, however, this is 
+not expected to have a significant effect on 
+accounting.
+∆	 The sales-related warranty services cannot  
+be purchased separately and do not lead to  
+services that go beyond the assurance of the 
+specifications at the time of the transfer of risk. 
+They therefore fall under assurance type war-
+ranties, which continue to be accounted for in 
+accordance with IAS 37.
+However, the new IFRS 15 will require additional 
+quantitative and qualitative disclosures in the notes. 
+The new  IFRS 16  standard will mean that in the 
+future all leases will have to be accounted for in the 
+form of a right of use and a corresponding leasing ob-
+ligation. In all cases, the presentation in the income 
+statement is made as a financing transaction, i. e.,the 
+right of use is generally depreciated on a straight-line 
+basis and the lease liability is carried forward using 
+the effective interest method. However, it is expected 
+that the application facilitation for short-term leases 
+with a term of less than 12 months and leased assets 
+of low value will be utilized.
+The new standard is to be applied for financial years 
+beginning on or after January 1, 2019. No decision 
+has been made yet with regard to the method of 
+first-time application. It is planned that PUMA will 
+make its decision on the first-time application of 
+IFRS 16 in the first half of 2018 and announce its de-
+cision in the financial report for the first half of 2018. 
+11 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 12
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+PUMA mainly concludes leasing contracts as an op-
+erating lessee. The application of IFRS 16 has the 
+following effects on the presentation of the Group’s 
+net assets, financial position and results of opera-
+tions: With regard to the minimum lease payments 
+from operating leases reported under other financial 
+obligations, the first-time application of IFRS 16 will 
+lead to an increase in non-current assets due to the 
+recognition of rights of use. Accordingly, financial li-
+abilities will increase as a result of the disclosure of 
+the corresponding liabilities. This will therefore lead 
+to a significant increase in balance sheet total and a 
+corresponding reduction in the equity ratio of the 
+PUMA Group. In addition, the nature of the expenses 
+arising from these leases will change, as IFRS 16 re-
+places the operating lease expenses previously rec-
+ognized on a straight-line basis with depreciation of 
+rights of use and interest expenses for liabilities. 
+This will therefore have a positive effect on oper-
+ating income (EBIT) in the income statement. In ad-
+dition, IFRS 16 requires the repayment share of 
+lease payments that are not classified as short-term 
+or low-value leases to be shown as part of the cash 
+flow from financing activities, with the result that 
+the cash flow from operating activities will improve.
+This year, a project group was set up to deal inten-
+sively with the effects and implementation of the 
+new requirements during the course of the project. 
+The quantitative effects on the PUMA consolidated 
+financial statements cannot yet be reliably de-
+scribed. The current operating lease volume is shown 
+under Note 28 (Other Financial Obligations: Obliga-
+tions from Operating Leases). It is currently ex-
+pected that the conversion effect will mainly affect 
+the properties leased by PUMA (retail, offices and 
+warehouses). 
+The company does not anticipate the remaining 
+standards mentioned above to have a significant im-
+pact on the consolidated financial statements.
+The preparation of the consolidated financial state-
+ments was based on historical acquisition and man-
+ufacturing costs, with the exception of the profit or 
+loss assessment of financial assets and liabilities at 
+fair value.
+The items contained in the financial statements of 
+the individual Group companies are measured based 
+on the currency that corresponds to the currency of 
+the primary economic environment in which the 
+company operates. The consolidated financial state-
+ments are prepared in euros (EUR or €). The presen-
+tation of amounts in € million with one decimal place 
+may lead to rounding differences since the calcula-
+tion of individual items is based on figures presented 
+in thousands.
+The cost of sales method is used for the income 
+statement.
+2. SIGNIFICANT CONSOLIDATION,  
+ACCOUNTING AND VALUATION  
+PRINCIPLES 
+CONSOLIDATION PRINCIPLES
+The consolidated financial statements were pre-
+pared as of December 31, 2017, the reporting date of 
+the annual financial statements of the PUMA SE 
+parent company, on the basis of uniform accounting 
+and valuation principles according to IFRS, as 
+applied in the EU. 
+Subsidiaries are companies in which the Group has 
+existing rights that give it the current ability to direct 
+the relevant activities. The main activities are those 
+that have a significant influence on the profitability 
+of the company. Control is therefore considered to 
+exist if the Group is exposed to variable returns from 
+its relationship with a company and has the power to 
+govern those returns through its control of the rele-
+vant activities. As a rule, control is based on PUMA’s 
+direct or indirect majority of the voting rights. Con-
+solidation begins at the point in time from which 
+control is possible. It ends when this no longer 
+exists.
+The capital consolidation of the subsidiaries ac-
+quired after January 1, 2005 is based on the acqui-
+sition method. Upon initial consolidation, the assets, 
+debts and contingent liabilities that can be identified 
+as part of a business combination are stated at their 
+fair value as of the acquisition date, regardless of the 
+non-controlling interests (previously referred to as 
+minority interest). At the time of the acquisition, 
+there is a separately exercisable right to vote on 
+whether the interests of the non-controlling share-
+holders are valued at fair value or at proportional net 
+asset value.
+The surplus of the acquisition costs arising from the 
+purchase that exceeds the Group’s share in the net 
+assets stated at fair value is reported as goodwill. If 
+the acquisition costs are lower than the amount of 
+the net assets stated at fair value, the difference is 
+reported directly in the income statement. 
+Pursuant to the contractual arrangement with the 
+joint venture partners, PUMA is already the beneficial 
+owner of controlling interests. The companies are fully 
+included in the consolidated financial statements and, 
+therefore, non-controlling interests are not disclosed. 
+The present value of the capital shares attributable to 
+the non-controlling shareholders and the present 
+value of the residual purchase prices expected due to 
+corporate performance are included in the capital 
+consolidation as acquisition costs for the holdings. If 
+there are any subsequent deviations, for acquisitions 
+before January 1, 2010, these lead to a subsequent 
+adjustment of the acquisition costs not affecting in-
+come. For business combinations as of Janu­ary 1, 
+2010, the costs that can be directly allocated to the 
+acquisition as well as subsequent deviations in the 
+present value of expected residual purchase prices 
+are recognized in the income statement pursuant to 
+the application of the amended IFRS 3.
+With respect to the remaining controlling interests, 
+losses attributable to non-controlling interests are 
+allocated to the latter even if this results in a nega-
+tive balance in non-controlling interests.
+Receivables within the Group are offset against in-
+ternal liabilities. As a general rule, any set-off differ-
+ences arising from exchange rate fluctuations are 
+recognized in the income statement to the extent 
+that they accrued during the reporting period. If re-
+ceivables and liabilities are long-term and capi-
+tal-replacing in nature, the currency difference is 
+recognized directly in equity and under Other Com-
+prehensive Income.
+In the course of the expense and income consolida-
+tion, inter-company sales and intra-group income are 
+offset against the expenses attributable to them. In-
+terim profits not yet realized within the Group as well 
+as intra-group investment income are eliminated by 
+crediting them in the income statement.
+GROUP OF CONSOLIDATED COMPANIES 
+In addition to PUMA SE, the consolidated financial 
+statements include all subsidiaries in which PUMA 
+SE directly or indirectly holds existing rights that 
+give it the current ability to direct the relevant activ-
+ities. At present, control of all Group companies is 
+based on a direct or indirect majority of voting rights. 
+Associated companies are accounted for in the 
+Group using the equity method. The changes in the 
+number of Group companies (including the parent 
+company PUMA SE) were as follows:
+ 
+T.8  
+As of Dec 31, 2016
+108
+Formation of companies
+2
+As of Dec 31, 2017
+110
+The following changes occurred within the group of 
+consolidated companies in financial year 2017:
+The additions to the group of consolidated compa-
+nies relate to the establishment of the companies 
+PUMA North America Accessories Canada, LLC and 
+Dobotex Nordic AB.
+Furthermore, the company PUMA Information Tech-
+nology Services Philippines Company Limited Inc. 
+was renamed PUMANILA IT Services Inc. during the 
+financial year.
+These changes in the group of consolidated compa-
+nies did not have a significant effect on the net 
+assets, financial position and results of operations.
+13 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 14
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The Group companies are allocated to regions as of December 31, 2017 as follows:
+T.9  
+No.
+Companies/Legal entities
+Country
+City
+Share­
+holder
+Share  
+in capital
+PARENT COMPANY
+1. PUMA SE
+Germany
+Herzogenaurach
+EMEA
+2. Austria PUMA Dassler Ges. m.b.H.
+Austria
+Salzburg
+direct
+100%
+3. Dobotex Austria GmbH
+Austria
+Salzburg
+indirect
+100%
+4. Wilderness Holdings Ltd.
+Botswana
+Gabarone
+direct
+20%
+5. PUMA Sport Hrvatska d.o.o.
+Croatia
+Zagreb
+indirect
+100%
+6. PUMA Czech Republic s.r.o.
+Czech Republic
+Prague
+indirect
+100%
+7. PUMA Denmark A/S
+Denmark
+Skanderborg
+indirect
+100%
+8. PUMA Estonia OÜ
+Estonia
+Tallinn
+indirect
+100%
+9. PUMA Finland Oy
+Finland
+Espoo
+indirect
+100%
+10. PUMA FRANCE SAS
+France
+Illkirch-Graffenstaden
+indirect
+100%
+11. Dobotex France SAS
+France
+Paris
+indirect
+100%
+12. PUMA International Trading GmbH
+Germany
+Herzogenaurach
+direct
+100%
+13. PUMA Europe GmbH
+Germany
+Herzogenaurach
+direct
+100%
+14. PUMA Vertrieb GmbH
+Germany
+Herzogenaurach
+direct
+100%
+15. PUMA Sprint GmbH
+Germany
+Herzogenaurach
+direct
+100%
+16. PUMA Mostro GmbH
+Germany
+Herzogenaurach
+indirect
+100%
+17. Dobotex Deutschland GmbH
+Germany
+Düsseldorf
+indirect
+100%
+18. PUMA United Kingdom Ltd.
+United Kingdom
+London
+indirect
+100%
+19. PUMA Premier Ltd.
+United Kingdom
+London
+indirect
+100%
+20. Dobotex UK Ltd.
+United Kingdom
+Manchester
+indirect
+100%
+21. Branded Sports Merchandising UK Ltd.
+United Kingdom
+London
+indirect
+100%
+22. Genesis Group International Ltd.
+United Kingdom
+Manchester
+direct
+100%*
+23. Admiral Teamsports Ltd.
+United Kingdom
+Manchester
+indirect
+100%*
+24.
+Sport Equipment Hellas S. A. of Footwear,  
+Apparel and Sportswear u.Li.
+Greece
+Athens
+direct
+100%*
+25. Sport Equipment TI Cyprus Ltd. u.Li.
+Cyprus
+Nicosia
+direct
+100%*
+26. PUMA Italia S.r.l.
+Italy
+Assago
+indirect
+100%
+*	
+Subsidiaries which are assigned to be economically 100% PUMA Group.
+No.
+Companies/Legal entities
+Country
+City
+Share­
+holder
+Share  
+in capital
+EMEA
+27. Dobotex Italia S.r.l.
+Italy
+Assago
+indirect
+100%
+28. PUMA Sport Israel Ltd. 
+Israel
+Hertzeliya
+indirect
+100%
+29. PUMA Malta Ltd.
+Malta
+St. Julians
+indirect
+100%
+30. PUMA Racing Ltd.
+Malta
+St. Julians
+indirect
+100%
+31. PUMA Benelux B.V.
+Netherlands
+Leusden
+direct
+100%
+32. PUMA International Sports Marketing B.V.
+Netherlands
+Leusden
+direct
+100%
+33. Brand Plus Licensing B.V.
+Netherlands
+’s-Hertogenbosch
+direct
+100%
+34. Dobotex International B.V.
+Netherlands
+’s-Hertogenbosch
+indirect
+100%
+35. Branded Sports Merchandising B.V.
+Netherlands
+’s-Hertogenbosch
+indirect
+100%
+36. Dobotex International B.V.
+Netherlands
+’s-Hertogenbosch
+indirect
+100%
+37. Dobo Logic B.V.
+Netherlands
+Tilburg
+indirect
+100%
+38. Dobotex Licensing Holding B.V.
+Netherlands
+’s-Hertogenbosch
+indirect
+100%
+39. PUMA Norway AS
+Norway
+Oslo
+indirect
+100%
+40. PUMA Polska Sp. z o.o.
+Poland
+Warsaw
+indirect
+100%
+41. PUMA Sports Romania Srl
+Romania
+Bucharest
+indirect
+100%
+42. PUMA-RUS o.o.o.
+Russia
+Moscow
+indirect
+100%
+43. PUMA Slovakia s.r.o.
+Slovakia
+Bratislava
+indirect
+100%
+44. PUMA Sports Distributors (Pty) Ltd.
+South Africa
+Cape Town
+indirect
+100%
+45. PUMA Sports South Africa (Pty) Ltd.
+South Africa
+Cape Town
+indirect
+100%
+46. PUMA Iberia S.L.U
+Spain
+Barcelona
+direct
+100%
+47. Dobotex Spain S.L.
+Spain
+Barcelona
+indirect
+100%
+48. Nrotert AB
+Sweden
+Helsingborg
+direct
+100%
+49. PUMA Nordic AB
+Sweden
+Helsingborg
+indirect
+100%
+50. Nrotert Sweden AB
+Sweden
+Helsingborg
+indirect
+100%
+51. Dobotex Nordic AB
+Sweden
+Helsingborg
+indirect
+100%
+52. Mount PUMA AG (Schweiz)
+Switzerland
+Oensingen
+direct
+100%
+53. PUMA Retail AG
+Switzerland
+Oensingen
+indirect
+100%
+54. Dobotex Switzerland AG
+Switzerland
+Oensingen
+indirect
+100%
+55. PUMA Spor Giyim Sanayi ve Ticaret A.S.
+Turkey
+Istanbul
+indirect
+100%
+56. PUMA Ukraine TOV
+Ukraine
+Kiev
+indirect
+100%
+57. PUMA Middle East FZ LLC
+United Arab Emirates
+Dubai
+indirect
+100%
+58. PUMA UAE LLC
+United Arab Emirates
+Dubai
+indirect
+100%*
+AMERICAS
+59. Unisol S.A.
+Argentina
+Buenos Aires
+indirect
+100%
+60. PUMA Sports Ltda.
+Brazil
+Sao Paulo
+indirect
+100%
+61. PUMA Canada, Inc. 
+Canada
+St. Laurent (Montreal)
+indirect
+100%
+62. PUMA CHILE S.A. 
+Chile
+Santiago
+direct
+100%
+63. PUMA SERVICIOS SPA
+Chile
+Santiago
+indirect
+100%
+*	
+Subsidiaries which are assigned to be economically 100% PUMA Group.
+15 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 16
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+No.
+Companies/Legal entities
+Country
+City
+Share­
+holder
+Share  
+in capital
+AMERICAS
+64. PUMA México Sport, S.A. de C.V.
+Mexico
+Mexico City
+direct
+100%
+65. Servicios Profesionales RDS, S.A. de C.V.
+Mexico
+Mexico City
+indirect
+100%
+66. Importaciones RDS, S.A. de C.V.
+Mexico
+Mexico City
+direct
+100%
+67. Dobotex de México, S.A. de C.V.
+Mexico
+Mexico City
+indirect
+100%
+68. Importationes Brand Plus Licensing, S.A. de C.V.
+Mexico
+Mexico City
+indirect
+100%
+69. Distribuidora Deportiva PUMA S.A.C.
+Peru
+Lima
+indirect
+100%
+70. Distribuidora Deportiva PUMA Tacna S.A.C.
+Peru
+Tacna
+indirect
+100%
+71. PUMA Retail Peru S.A.C.
+Peru
+Lima
+indirect
+100%
+72. PUMA Sports LA S.A.
+Uruguay
+Montevideo
+direct
+100%
+73. PUMA Suede Holding, Inc.
+USA
+Westford
+indirect
+100%
+74. PUMA North America, Inc.
+USA
+Westford
+indirect
+100%
+75. COBRA Golf Incorporated
+USA
+Carlsbad
+indirect
+100%
+76. PUMA Accessories North America, LLC
+USA
+New York
+indirect
+85%
+77. PUMA North America Accessories Canada, LLC
+USA
+New York
+indirect
+85%
+78. Janed, LLC
+USA
+New York
+indirect
+51%
+79. Janed Canada, LLC
+USA
+New York
+indirect
+51%
+80. PUMA Kids Apparel North America, LLC
+USA
+New York
+indirect
+51%
+81. PUMA Kids Apparel Canada, LLC
+USA
+New York
+indirect
+51%
+ASIA/PACIFIC
+82. PUMA Australia Pty. Ltd.
+Australia
+Melbourne
+indirect
+100%
+83. White Diamond Australia Pty. Ltd.
+Australia
+Melbourne
+indirect
+100%
+84. White Diamond Properties Pty. Ltd.
+Australia
+Melbourne
+indirect
+100%
+85. Kalola Pty. Ltd.
+Australia
+Melbourne
+indirect
+100%
+86. Liberty China Holding Ltd.
+British Virgin Islands
+Road Town, Tortola
+indirect
+100%
+87. PUMA China Ltd.
+China
+Shanghai
+indirect
+100%
+88. Dobotex China Ltd.
+China
+Shanghai
+indirect
+100%
+89.
+Guangzhou World Cat Information  
+Consulting Services Company Ltd.
+China
+Guangzhou
+indirect
+100%
+90. World Cat Ltd.
+Hongkong
+direct
+100%
+91. Development Services Ltd.
+Hongkong
+direct
+100%
+92. PUMA International Trading Services Ltd.
+Hongkong
+indirect
+100%
+93. PUMA Asia Pacific Ltd.
+Hongkong
+direct
+100%
+94. PUMA Hong Kong Ltd.
+Hongkong
+indirect
+100%
+95. Dobotex Ltd.
+Hongkong
+indirect
+100%
+96. PUMA Sports India Private Ltd.
+India
+Bangalore
+indirect
+100%
+97. PUMA India Corporate Services Private Ltd.
+India
+Bangalore
+indirect
+100%
+98. World Cat Sourcing India Private Ltd.
+India
+Bangalore
+indirect
+100%
+99. PT PUMA Cat Indonesia Ltd.
+Indonesia
+Jakarta
+indirect
+100%
+100. PUMA JAPAN K.K.
+Japan
+Tokyo
+indirect
+100%
+ 
+PUMA Vertrieb GmbH, PUMA Mostro GmbH, PUMA 
+Sprint GmbH, PUMA International Trading GmbH and 
+PUMA Europe GmbH have made use of the exemption 
+under Section 264 (3) of the HGB. 
+CURRENCY CONVERSION
+As a general rule, monetary items in foreign curren-
+cies are converted in the individual financial state-
+ments of the Group companies at the exchange rate 
+valid on the balance sheet date. Any resulting cur-
+rency gains and losses are immediately recognized 
+in the income statement. Non-monetary items are 
+converted at historical acquisition and manufac-
+turing costs.
+No.
+Companies/Legal entities
+Country
+City
+Share­
+holder
+Share  
+in capital
+ASIA/PACIFIC
+101. PUMA Korea Ltd.
+Korea (South)
+Seoul
+direct
+100%
+102. Dobotex Korea Ltd.
+Korea (South)
+Seoul
+indirect
+100%
+103. PUMA Sports Goods Sdn. Bhd.
+Malaysia
+Kuala Lumpur
+indirect
+100%
+104. PUMA New Zealand Ltd.
+New Zealand
+Auckland
+indirect
+100%
+105. PUMANILA IT Services Inc.
+Philippines
+Manila
+indirect
+100%
+106. PUMA Sports SEA Trading Pte. Ltd.
+Singapore
+indirect
+100%
+107. PUMA SEA Holding Pte. Ltd.
+Singapore
+indirect
+100%
+108. PUMA Taiwan Sports Ltd.
+Taiwan
+Taipei
+indirect
+100%
+109. World Cat Vietnam Co. Ltd.
+Vietnam
+Long An Province
+indirect
+100%
+110.
+World Cat Vietnam Sourcing & Development  
+Services Co. Ltd.
+Vietnam
+Ho Chi Minh City
+indirect
+100%
+The assets and liabilities of foreign subsidiaries, the 
+functional currency of which is not the euro, have 
+been converted to euros at the average exchange 
+rates valid on the balance sheet date. Expenses and 
+income have been converted at the annual average 
+exchange rates. Any differences resulting from the 
+currency conversion of net assets relative to ex-
+change rates that had changed in comparison with 
+the previous year, were adjusted against equity. 
+The significant conversion rates per euro are as 
+follows:
+T.10  
+2017
+2016
+CURRENCY
+Reporting date 
+exchange rate
+Average 
+exchange rate
+Reporting date 
+exchange rate
+Average 
+exchange rate
+USD
+1.1993
+1.1297
+1.0541
+1.1069
+CNY
+7.8044
+7.6290
+7.3202
+7.3522
+JPY
+135.0100
+126.7112
+123.4000
+120.1967
+GBP
+0.8872
+0.8767
+0.8562
+0.8195
+17 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 18
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+DERIVATIVE FINANCIAL INSTRUMENTS/HEDGE 
+ACCOUNTING
+Derivative financial instruments are recognized at 
+fair value at the time a contract is entered into and 
+thereafter. At the time a hedging instrument is con-
+cluded, PUMA classifies the derivatives either as 
+hedges of a planned transaction (cash flow hedge) or 
+as hedges of the fair value of a recognized asset or 
+liability (fair value hedge). 
+At the time when the transaction is concluded, the 
+hedging relationship between the hedging instru-
+ment and the underlying transaction as well as the 
+purpose of risk management and the underlying 
+strategy are documented. In addition, assessments 
+as to whether the derivatives used in the hedge ac-
+counting compensate effectively for a change in the 
+fair value or the cash flow of the underlying transac-
+tion are documented at the beginning of and contin-
+uously after the hedge accounting.
+Changes in the market value of derivatives that are 
+intended and suitable for cash flow hedges and that 
+prove to be effective are adjusted against equity, 
+taking into account deferred taxes. If there is no 
+complete effectiveness, the ineffective part is 
+re­cognized in the income statement. The amounts 
+recognized in equity are recognized in the income 
+statement during the same period in which the 
+hedged planned transaction affects the income 
+statement. If, however, a hedged future transaction 
+results in the recognition of a non-financial asset or 
+a liability, gains or losses previously recorded in eq-
+uity are included in the initial valuation of the acqui-
+sition costs of the respective asset or liability. 
+Changes in the fair value of derivatives that qualify 
+for and are designated as fair value hedges are re­
+cognized directly in the consolidated income state-
+ment, together with changes in the fair value of the 
+underlying transaction attributable to the hedged 
+risk. The changes in the fair value of the derivatives 
+and the change in the underlying transaction attri­
+butable to the hedged risk are reported in the con-
+solidated income statement under the item relating 
+to the underlying transaction. 
+The fair values of the derivative instruments used to 
+hedge planned transactions and to hedge the fair 
+value of a recognized asset or liability are shown 
+under other current financial asserts or other cur-
+rent financial liabilities.
+LEASING
+Leases are to be classified either as finance leases 
+or operating leases. Leases where the Company, in 
+its capacity as the lessee, is responsible for all signif-
+icant opportunities and risks that arise from the use 
+of the lease object are treated as finance leases. All 
+other leases are classified as operating leases. The 
+lease payments from operating leases are recorded 
+as an expense over the term of the contract.
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents include cash and bank 
+balances. To the extent that bank deposits are not 
+immediately required to finance current assets, they 
+are invested as risk-free fixed-term deposits, pres-
+ently for a term of 3 months. The total amount of 
+cash and cash equivalents is consistent with the 
+cash and cash equivalents stated in the cash flow 
+statement. 
+INVENTORIES
+Inventories are valued at acquisition or manufac-
+turing costs or at the lower net realizable values de-
+rived from the selling price on the balance sheet date. 
+As a general rule, the acquisition cost of the merchan-
+dise is determined using the average cost method. 
+Value adjustments are adequately recorded, 
+depending on age, seasonality and realizable market 
+prices, in a manner that is standard throughout the 
+Group. 
+RECEIVABLES AND OTHER ASSETS
+Receivables and other assets are initially stated at 
+fair value, taking into account transaction costs and 
+subsequently valued at amortized costs after de-
+duction of value adjustments. In the case of value 
+adjustments, all identifiable risks in the form of an 
+individual risk assessment are adequately taken into 
+account on the basis of empirical values and, if credit 
+insurance exists, this is also included in the amount 
+of the value adjustment.
+Adjustments are conducted in principle if, after the 
+entry record of the financial asset, there are objec-
+tive indications for an adjustment, which has an ef-
+fect on the expected future cash flow from that fi-
+nancial instrument. Significant financial difficulties 
+of a debtor, an increased probability that a creditor 
+becomes insolvent or enters into a clean-up proce-
+dure, as well as a breach of contract, e. g. a cancella-
+tion or delay in interest or amortization payments, 
+all count as indicators for an existing adjustment. 
+The amount of the adjustment loss corresponds to 
+the difference between the carrying amount and the 
+cash value of the expected cash flows. 
+The non-current assets contain loans and other as-
+sets. Non-taxable non-current assets are discounted 
+in principle at cash value if the resulting effect is 
+significant.
+NON-CURRENT INVESTMENTS
+The investments reported under non-current finan-
+cial assets are classified as available for sale. This 
+category includes financial instruments that do not 
+represent loans and receivables or held-to-maturity 
+investments and are not measured at fair value 
+through profit or loss. The categories held-to-matu-
+rity investments and financial assets at fair value 
+through profit or loss are not applied within the PUMA 
+Group.
+All purchases and disposals of non-current invest-
+ments are recorded on the trade date. Non-current 
+investments are initially recognized at fair value plus 
+transaction costs. They are also recognized at fair 
+value in subsequent periods if this can be reliably de-
+termined. Unrealized gains and losses are recognized 
+in the overall result, taking into account deferred 
+taxes. The gain or loss on disposal of long-term in-
+vestments is recognized in profit or loss. 
+If there is material objective evidence of impairment of 
+the non-current investments, they are written down in 
+the income statement. In the case of equity invest-
+ments categorized as available-for-sale, a significant 
+or prolonged decline in the fair value of the assets 
+below their acquisition cost is to be regarded as objec-
+tive evidence of impairment. The same applies if there 
+is no longer an active market for listed shares.
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment are stated at acquisi-
+tion costs, net of accumulated depreciation. The de-
+preciation period depends on the expected useful 
+life of the respective item. The straight-line method 
+of depreciation is applied. The useful life depends on 
+the type of the assets involved. Buildings are subject 
+to a useful life of between ten and fifty years and a 
+useful life of between three to ten years is assumed 
+for moveable assets. The acquisition costs of prop-
+erty, plant and equipment also include interest on 
+borrowings in accordance with IAS 23, insofar as 
+these accrue and the effect is significant.
+Repair and maintenance costs are recorded as an 
+expense as of the date on which they were incurred. 
+Substantial improvements and upgrades are capi-
+talized to the extent that the criteria for capitaliza-
+tion of an asset item apply. 
+As a general rule, lease objects, the contractual basis 
+of which is to be classified as a finance lease are 
+shown under property, plant and equipment; initially 
+they are accounted for at fair value or the lower 
+present value of the minimum lease payments and 
+net of accumulated depreciation in subsequent ac-
+counting periods. 
+GOODWILL 
+Goodwill resulting from a business acquisition is cal-
+culated based on the difference between the pur-
+chase price and the fair value of the acquired asset 
+and liability items. Goodwill from acquisitions is 
+largely attributable to the intangible infrastructure 
+acquired and the associated opportunity to make a 
+positive contribution to corporate value. 
+Goodwill amounts are allocated to the Group’s 
+cash-generating units that are expected to benefit 
+from the synergy effects resulting from the business 
+combination. 
+An impairment test of goodwill per cash-generating 
+unit (usually the countries) is performed once a year 
+as well as whenever there are indicators of impair-
+ment and can result in an impairment loss. There is 
+no reversal of an impairment loss for goodwill.
+OTHER INTANGIBLE ASSETS 
+Acquired intangible assets largely consist of con-
+cessions, intellectual property rights and similar 
+rights. These are valued at acquisition costs, net of 
+accumulated amortization. The useful life of intan-
+gible assets is between three and ten years. Depre-
+ciation is done on a straight-line basis.
+If the capitalization requirements of IAS 38.57 
+Intangible Assets are met cumulatively, expenses in 
+the development phase for internally generated in-
+tangible assets are capitalized at the time they arise. 
+In subsequent periods, internally generated intan-
+gible assets and acquired intangible assets are 
+measured at cost less accumulated amortization 
+and impairment losses. In the Group, own work 
+capitalized is generally depreciated on a straight-
+line basis over a useful life of three years.
+19 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 20
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The item also includes acquired trademark rights, 
+which are assumed to have an indefinite useful life in 
+light of the history of the brands and due to the fact 
+that the brands are continued by PUMA.
+IMPAIRMENT OF ASSETS
+Intangible assets with an indefinite useful life are not 
+written down according to schedule, but are sub-
+jected to an annual impairment test. Property, plant 
+and equipment and other intangible assets with finite 
+useful lives are tested for impairment if there is any 
+indication of impairment in the value of the asset con-
+cerned. In order to determine whether there is a re-
+quirement to record the impairment of an asset, the 
+recoverable amount of the respective asset (the 
+higher amount of the fair value less costs to sell and 
+value in use) is compared with the carrying amount of 
+the asset. If the recoverable amount is lower than the 
+carrying amount, the difference is recorded as an im-
+pairment loss. The test for impairment is performed, 
+if possible, at the level of the respective individual 
+asset, otherwise at the level of the cash-generating 
+unit. Goodwill, on the other hand, is tested for impair-
+ment only at the cash-generating unit level. If it is de-
+termined within the scope of the impairment test that 
+an asset needs to be written down, then the goodwill, 
+if any, of the cash- generating unit is written down 
+initially and, in a second step, the remaining amount is 
+distributed proportionately over the remaining as-
+sets. If the reason for the recorded impairment no 
+longer applies, a reversal of impairment loss is re-
+corded to the maximum amount of the written down 
+cost. There is no reversal of an impairment loss for 
+goodwill.
+Impairment tests are performed using the dis-
+counted cash flow method. For determining the fair 
+value less costs to sell and value in use, the expected 
+cash flows are based on corporate planning data. 
+Expected cash flows are discounted using an in-
+terest rate in line with market conditions. 
+HOLDINGS IN ASSOCIATED COMPANIES
+Associated companies represent shareholdings, 
+over which PUMA has a significant influence, but 
+which do not qualify as subsidiaries or joint ventures. 
+Significant influence is generally assumed when 
+PUMA holds, directly or indirectly, at least 20%, but 
+less than 50%, of the voting rights.
+Holdings in associated companies are accounted for 
+using the equity method. Here, the shares are ini-
+tially recognized at their acquisition cost and are 
+subsequently adjusted for the pro rata changes in 
+the Company’s net assets that are attributable to 
+PUMA. Any recognized goodwill is shown in the car-
+rying amount of the associated company. 
+Within the scope of the impairment test, the car-
+rying amount of a company valued at equity is com-
+pared with its recoverable amount provided that 
+there is an indication that the asset has decreased 
+in value. If the recoverable amount is lower than the 
+carrying amount, the difference is recorded as an 
+impairment loss. If the reasons for the previously re-
+corded impairment no longer apply, a write-up is 
+recognized in the income statement.
+FINANCIAL DEBT, OTHER FINANCIAL LIABILITIES  
+AND OTHER LIABILITIES
+As a general rule, these entries are recognized at their 
+acquisition cost, taking into account transaction 
+costs and subsequently recognized at amortized 
+cost. Non-interest or low-interest-bearing liabilities 
+with a term of at least one year are recognized at 
+present value, taking into account an interest rate in 
+line with market conditions and are compounded until 
+their maturity at their repayment amount. Liabilities 
+from finance lease agreements are recorded as of the 
+beginning of the lease transaction at the amount of 
+the present value of the minimum lease amount or at 
+the lower fair value and are adjusted by the repayment 
+amount of the lease installments. 
+As a general rule, current financial liabilities also 
+include those long-term loans that that have a 
+maxi­mum residual term of up to one year.
+PROVISIONS FOR PENSIONS AND SIMILAR  
+OBLIGATIONS
+In addition to defined benefit plans, some companies 
+apply defined contribution plans, which do not result 
+in any additional pension commitment other than 
+the current contributions. The pension provision 
+under defined benefit plans is generally calculated 
+using the projected unit credit method. This method 
+takes into account not only known pension benefits 
+and pension rights accrued as of the reporting date, 
+but also expected future salary and pension in-
+creases. The defined benefit obligation (DBO) is cal-
+culated by discounting expected future cash out-
+flows at the rate of return on senior, fixed-rate cor-
+porate bonds. The currencies and maturity periods 
+of the underlying corporate bonds are consistent 
+with the currencies and maturity periods of the ob-
+ligations to be satisfied. In some of the plans, the 
+obligation is accompanied by a plan asset. In that 
+case, the pension provision shown is reduced by the 
+plan asset. 
+Revaluations, consisting of actuarial profits and 
+losses, changes resulting from use of the asset 
+ceiling and return on plan assets (without interest 
+on the net debt) are immediately recorded under 
+Other Comprehensive Income. The revaluations re-
+corded in Other Comprehensive Income are part of 
+the retained earnings and are no longer reclassified 
+into calculation of profit and loss. Past service costs 
+are recorded as an expense if changes are made to 
+the plan.
+OTHER PROVISIONS 
+Provisions are recognized if the Group, as a result of 
+a past event, has a current obligation and this obli-
+gation is likely to result in an outflow of resources 
+with economic benefits, the amount of which can be 
+reliably estimated. The provisions are recognized at 
+their settlement value as determined on the basis of 
+the best possible assessment and are not offset by 
+income. Provisions are discounted if the resulting ef-
+fect is significant.
+Provisions for the expected expenses from warranty 
+obligations pursuant to the respective national sales 
+contract laws are recognized at the time of sale of 
+the relevant products, according to the best esti-
+mate in relation to the expenditure needed in order 
+to fulfill the Group’s obligation.
+Provisions are also recognized to account for 
+onerous contracts. An onerous contract is assumed 
+to exist where the unavoidable costs for fulfilling the 
+contract exceed the economic benefit arising from 
+this contract. 
+Provisions for restructuring measures are also 
+recorded if a detailed, formal restructuring plan has 
+been produced, which has created a justified expec-
+tation that the restructuring measures will be carried 
+out by those concerned due to its implementation 
+starting or its major components being announced.
+TREASURY SHARES
+Treasury stock is deducted from equity at its market 
+price as of the date of acquisition, plus incidental ac-
+quisition costs. Pursuant to the authorization of the 
+Annual General Meeting, treasury stock can be re-
+purchased for any authorized purpose, including the 
+flexible management of the Company’s capital 
+requirements. 
+EQUITY COMPENSATION PLANS/MANAGEMENT 
+INCENTIVE PROGRAM 
+In accordance with IFRS 2, stock-based compensa-
+tion systems are recognized at fair value and re-
+corded under personnel costs. PUMA has stock-based 
+compensation systems in the form of stock options 
+(SOP) involving compensation in shares and in the 
+form of virtual shares with cash compensation.
+The expenses associated with the SOP are deter-
+mined from the fair value of the options as of the 
+grant date, without taking into account the impact of 
+non-market-oriented exercise hurdles (e. g. forfeited 
+options if the eligible employee leaves the company 
+prematurely). The expense is recorded by distributing 
+it as personnel costs over the vesting period until the 
+options are vested and is recognized as a capital re-
+serve. Non-market-oriented exercise hurdles are ad-
+justed in accordance with current expectations and 
+the assessment of expected exercisable options is 
+reviewed on each balance sheet date. The resulting 
+gains and losses are recognized in the income state-
+ment and recorded through a corresponding adjust-
+ment in equity over the remaining period up to the 
+vesting date.
+For share-based remunerations with cash compen-
+sation, a liability is recorded for the services re-
+ceived and measured with its fair value upon addi-
+tion. Until the debt is cleared, its fair value is recal-
+culated on every balance sheet date and on the 
+settlement date and all changes to the fair value are 
+recognized in the income statement.
+RECOGNITION OF SALES REVENUES
+Revenues from the sale of products (sales revenues) 
+are recognized at the time of the transfer of the sig-
+nificant opportunities and risks associated with the 
+ownership of the goods and products sold to the 
+buyer if it is likely that the Group will derive the eco-
+nomic benefit from the sale. The amount of the re­
+cognized sales revenues is based on the fair value of 
+21 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 22
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+the consideration received or to be received, taking 
+into account returns, discounts and rebates.
+ROYALTY AND COMMISSION INCOME
+Income from royalties is recognized in the income 
+statement in accordance with the invoices to be 
+submitted by the license holders. In certain cases, 
+values must be estimated in order to permit ac-
+counting on an accrual basis. Commission income is 
+invoiced if the underlying purchase transaction is 
+classified as realized.
+ADVERTISING AND PROMOTIONAL EXPENSES
+Advertising expenses are recognized in the income 
+statement as of the date of their accrual. As a gen-
+eral rule, promotional expenses stretching over sev-
+eral years are recognized as an expense over the 
+contractual term on an accrual basis. Any expendi-
+ture surplus resulting from this allocation of ex-
+penses after the balance sheet date are recognized 
+in the form of an impairment of assets or a provision 
+for anticipated losses in the financial statements.
+PRODUCT DEVELOPMENT
+PUMA continuously develops new products in order 
+to meet market requirements and market changes. 
+Research costs are expensed in full at the time they 
+are incurred. Development costs are also recognized 
+as an expense when they do not meet the recogni-
+tion criteria of IAS 38 Intangible Assets.
+FINANCIAL RESULT
+The financial results include the results from asso-
+ciated companies as well as interest income from fi-
+nancial investments and interest expense from 
+loans and financial instruments. Financial results 
+also include interest expenses from discounted 
+non-current liabilities and from pension provisions 
+that are associated with acquisitions of business 
+enterprises or arise from the valuation of pension 
+commitments.
+Exchange rate effects that can be directly allocated 
+to an underlying transaction are shown in the re-
+spective income statement item.
+INCOME TAXES
+Current income taxes are determined in accordance 
+with the tax regulations of the respective countries 
+where the Company conducts its operations.
+DEFERRED TAXES 
+Deferred taxes resulting from temporary valuation 
+differences between the IFRS and tax balance 
+sheets of individual Group companies and from con-
+solidation procedures are charged to each taxable 
+entity and shown either as deferred tax assets or 
+deferred tax liabilities. Deferred tax assets may also 
+include claims for tax reductions that result from the 
+expected utilization of existing losses carried for-
+ward to subsequent years and which is sufficiently 
+certain to materialize. Deferred tax assets or liabili-
+ties may also result from accounting treatments 
+that do not affect net income. Deferred taxes are 
+calculated on the basis of the tax rates that apply to 
+the reversal in the individual countries and that are 
+in force or adopted as of the balance sheet date. 
+Deferred tax assets are shown only to the extent 
+that the respective tax advantage is likely to mate-
+rialize. Value adjustments are recognized on the 
+basis of the past earnings situation and the business 
+expectations for the foreseeable future, if this crite-
+rion is not fulfilled. 
+ASSUMPTIONS AND ESTIMATES
+The preparation of the consolidated financial state-
+ments requires some assumptions and estimates 
+that have an impact on the amount and disclosure of 
+the recognized assets and liabilities, income and ex-
+penses, as well as contingent liabilities. The as-
+sumptions and estimates are based on premises, 
+which in turn are based on currently available infor-
+mation. In individual cases, the actual values may 
+deviate from the assumptions and estimates made; 
+as a result there is a risk of adjustments to the car-
+rying amount of the assets and liabilities concerned 
+in future periods. Consequently, future periods in-
+volve a risk of adjustment to the carrying amount of 
+the assets and liabilities concerned. 
+All assumptions and estimates are continuously re-
+assessed. They are based on historical experiences 
+and other factors, including expectations regarding 
+future global and industry-related trends that ap-
+pear reasonable under the current circumstances. 
+Assumptions and estimates are made in particular in 
+the measurement of goodwill and brands, pension 
+obligations, derivative financial instruments and 
+taxes. The most significant forward-looking as-
+sumptions and sources of estimation and uncer-
+tainty as of the reporting date concerning the 
+above-mentioned items are discussed below.
+GOODWILL AND BRANDS
+A review of the impairment of goodwill is based on 
+the calculation of the value in use. In order to calcu-
+late the value in use, the Group must estimate the 
+future cash flows from those cash-generating units 
+to which the goodwill is allocated. To this end, the 
+data used were from the three-year plan, which is 
+based on forecasts of the overall economic develop-
+ment and the resulting industry-specific consumer 
+behavior. Another key assumption concerns the de-
+termination of an appropriate interest rate for dis-
+counting the cash flow to present value (discounted 
+cash flow method). The relief from royalty method 
+is used to value brands. See section 10 for further 
+information, in particular regarding the assumptions 
+used for the calculation.
+PENSION OBLIGATIONS
+Pension obligations are determined using an actu-
+arial calculation. This calculation is contingent on a 
+large number of factors that are based on assump-
+tions and estimates regarding the discount rate, the 
+expected return on plan assets, future wage and 
+salary increases, mortality and future pension 
+increases. Due to the long-term nature of the com-
+mitments made, the assumptions are subject to 
+significant uncertainties. Any change in these 
+assumptions has an impact on the carrying amount 
+of the pension obligations. The Group determines at 
+the end of each year the discount rate applied to de-
+termine the present value of future payments. This 
+discount rate is based on the interest rates of 
+corporate bonds with the highest credit rating that 
+are denominated in the currency in which the bene-
+fits are paid and the maturity of which corresponds 
+to that of the pension obligations. See section 15 for 
+further information, in particular regarding the pa-
+rameters used for the calculation.
+TAXES
+Tax items are determined taking into account the 
+various prevailing local tax laws and the relevant ad-
+ministrative opinions and, due to their complexity, 
+may be subject to different interpretations by per-
+sons subject to tax on the one hand and the tax au-
+thorities on the other hand. Differing interpretations 
+of tax laws may result in subsequent tax payments 
+for past years; depending on the management’s 
+assessment, these differing opinions may be taken 
+into account.
+The recognition of deferred taxes, in particular with 
+respect to tax losses carried forward, requires that 
+estimates and assumptions be made concerning fu-
+ture tax planning strategies as well as expected 
+dates of initial recognition and the amount of future 
+taxable income. The taxable income from the rele-
+vant corporate planning is derived for this judgment. 
+This takes into account the past financial position 
+and the business development expected in the fu-
+ture. Active deferred tax assets on losses carried 
+forward are recorded in the event of companies in-
+curring a loss only if it is highly likely that future pos-
+itive income will be achieved that can be offset 
+against these tax losses carried forward. Please see 
+section 8 for further information and detailed 
+assumptions.
+DERIVATIVE FINANCIAL INSTRUMENTS
+The assumptions used for estimating derivative fi-
+nancial instruments are based on the prevailing 
+market conditions as of the balance sheet date and 
+thus reflect the fair value. See section 24 for further 
+information.
+3. CASH AND CASH EQUIVALENTS 
+As of December 31, 2017, the Group has € 415.0 mil-
+lion (previous year: € 326.7 million) in cash and cash 
+equivalents. The average effective interest rate of 
+financial investments was 0.5% (previous year: 
+0.7%). There are no restrictions on disposition. 
+23 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 24
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+4. INVENTORIES
+Inventories are allocated to the following main groups:
+The table shows the carrying amounts of the inven-
+tories net of value adjustments. Of the value adjust-
+ments of € 51.5 million (previous year: € 44.0 mil-
+lion), approx. 69.6% (previous year approx. 69.0%) 
+were recognized as expense under costs of sales in 
+the 2017 financial year. 
+The amount of inventories recorded as an expense 
+during the period mainly includes the cost of sales 
+shown in the consolidated income statement.
+5. TRADE RECEIVABLES
+This item consists of:
+T.11  INVENTORIES (in € million)
+2017
+2016
+Raw materials, consumables and supplies
+12.2
+20.2
+Finished goods and merchandise/inventory
+	
+Footwear
+296.6
+239.7
+	
+Apparel
+191.4
+193.7
+	
+Accessories/Other
+100.2
+111.6
+Goods in transit
+178.0
+153.7
+TOTAL
+778.5
+718.9
+T.12  TRADE RECEIVABLES (in € million)
+2017
+2016
+Trade receivables, gross
+545.6
+542.0
+Less value adjustments 
+-41.8
+-42.9
+Trade receivables, net
+503.7
+499.2
+Allowances for trade receivables developed as follows:
+The age structure of the trade receivables is as follows:
+With respect to trade receivables that were not written 
+down, PUMA assumes that the debtors will satisfy 
+their payment obligations.
+T.13  TRADE RECEIVABLES (in € million)
+2017
+2016
+Status of value adjustments as of January 1
+42.9
+38.8
+Scope
+0.0
+-2.3
+Exchange rate differences 
+-1.9
+0.4
+Allocations
+10.3
+12.5
+Utilization
+-7.3
+-4.7
+Reversals
+-2.1
+-1.9
+Status of value adjustments as of December 31
+41.8
+42.9
+T.14  GROSS VALUES 2017 (in € million)
+TOTAL
+OF WHICH NOT WRITTEN DOWN
+OF WHICH 
+WRITTEN DOWN
+Not
+0 – 30 
+days 
+31 – 90 
+days
+91 – 180 
+days
+Over
+545.6
+382.5
+42.8
+17.9
+4.3
+2.7
+95.4
+T.15  GROSS VALUES 2016 (in € million)
+TOTAL
+OF WHICH NOT WRITTEN DOWN
+OF WHICH 
+WRITTEN DOWN
+Not
+0 – 30 
+days 
+31 – 90 
+days
+91 – 180 
+days
+Over
+542.0
+370.3
+37.8
+26.1
+6.8
+1.0
+100.0
+25 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 26
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+6. OTHER CURRENT FINANCIAL ASSETS
+This item consists of:
+The amount shown is due within one year. The fair 
+value corresponds to the carrying amount.
+The decrease of derivative financial instruments is 
+mainly due to the decline of the US dollar exchange 
+rate.
+7. OTHER CURRENT ASSETS
+This item consists of:
+The amount shown is due within one year. The fair 
+value corresponds to the carrying amount. 
+Other receivables mainly include VAT receivables 
+amounting to € 35.9 million (previous year: 
+€ 17.8 million).
+T.16  OTHER CURRENT FINANCIAL ASSETS (in € million)
+2017
+2016
+Fair value of derivative financial instruments
+23.5
+78.8
+Other financial assets
+43.2
+35.2
+TOTAL 
+66.7
+114.1
+T.17  OTHER CURRENT ASSETS (in € million)
+2017
+2016
+Prepaid expense relating to the subsequent period
+42.8
+31.6
+Other receivables
+51.3
+37.6
+TOTAL 
+94.1
+69.2
+8. DEFERRED TAXES
+Deferred taxes relate to the items shown below:
+ 
+T.18  DEFERRED TAXES (in € million)
+2017
+2016
+Tax loss carryforwards
+92.2
+110.3
+Non-current assets
+29.0
+30.7
+Current assets
+43.5
+38.0
+Provisions and other liabilities
+60.2
+65.7
+Deferred tax assets (before netting)
+224.8
+244.8
+Non-current assets
+42.1
+65.9
+Current assets
+5.6
+8.8
+Provisions and other liabilities
+6.8
+3.7
+Deferred tax liabilities (before netting)
+54.5
+78.4
+Deferred tax assets, net 
+170.4
+166.4
+€ 97.9 million of the deferred tax assets are current 
+(previous year: € 85.3 million) and € 10.7 million of 
+the deferred tax liabilities are current (previous year: 
+€ 11.3 million).
+As at December 31, 2017, tax losses carried forward 
+amounted to a total of € 542.9 million (previous 
+year: € 596.9 million). This results in a deferred tax 
+asset of € 148.2 million (previous year: € 171.8 mil-
+lion). Deferred tax liabilities were recognized for 
+these items in the amount at which the associated 
+tax advantages are likely to be realized in the form of 
+future profits for income tax purposes. As a result 
+deferred tax assets of € 56.0 million for tax loss car-
+ryforwards (previous year: € 61.5 million) were not 
+recognized; of this amount € 54.4 million (previous 
+year: € 59.3 million) are vested, but € 13.4 million 
+(previous year: € 13.4 million) can never be used due 
+to a lack of future expectations. The remaining un-
+recognized deferred tax assets of € 1.6 million will 
+expire within the next seven years.
+In addition, no deferred taxes were recognized for 
+deductible temporary differences amounting to 
+€ 13.9 million (previous year: € 5.0 million).
+The effects of the US tax reform finally resolved at 
+the end of 2017 on tax loss carryforwards and 
+temporary differences were taken into account 
+when measuring deferred tax assets and liabili-
+ties as of December 31, 2017. Due to the tax rate 
+reduction, an adjustment of € 0.9 million was re-
+corded in the income statement. 
+Deferred tax liabilities for withholding taxes from 
+possible dividends on retained earnings of sub­
+sidiaries that serve to cover the financing needs of 
+the respective company were not accumulated, 
+since it is most likely that such temporary diffe­
+rences will not be cleared in the near future. 
+27 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 28
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Deferred tax assets and liabilities are netted if they 
+relate to a taxable entity and can in fact be netted. 
+Accordingly, they are shown in the balance sheet as 
+follows:
+The changes in deferred tax assets were as follows:
+The changes in deferred tax liabilities were as follows:
+T.19  (in € million)
+2017
+2016
+Deferred tax assets
+207.9
+229.5
+Deferred tax liabilities
+37.6
+63.1
+Deferred tax assets, net
+170.4
+166.4
+T.20  (in € million)
+2017
+2016
+Deferred tax assets, previous year
+229.5
+219.8
+Recognition in the income statement
+-11.5
+4.2
+Adjustment against Other Comprehensive Income
+-10.0
+5.4
+Deferred tax assets
+207.9
+229.5
+T.21  (in € million)
+2017
+2016
+Deferred tax liabilities, previous year
+63.1
+64.2
+Recognition in the income statement
+-19.0
+-3.6
+Adjustment against Other Comprehensive Income
+-6.5
+2.4
+Deferred tax liabilities
+37.6
+63.1
+9. PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment at their carrying 
+amounts consist of:
+The carrying amount of property, plant and equip-
+ment is derived from the acquisition costs. Accu­
+mulated depreciation of property, plant and equip-
+ment amounted to €289.5 million (previous year: 
+€ 307.5 million).
+Other equipment, operating and office equipment in-
+cludes leased assets (finance leases) amounting to 
+€ 0.2 million (previous year: € 0.3 million) and in tech-
+nical equipment and machinery, € 0.4 million (pre-
+vious year: € 0.5 million) relates to finance leases. 
+The changes in property, plant and equipment in the 
+2017 financial year are shown in Changes in Fixed 
+Assets in Appendix 1 to the notes of the consolidated 
+financial statemens. As in the previous year, there 
+were no impairment expenses that exceed current 
+depreciation during the reporting year. 
+10. INTANGIBLE ASSETS
+This item mainly includes goodwill, intangible assets 
+with indefinite useful lives and assets associated 
+with the Company’s own retail activities. 
+Goodwill and intangible assets with indefinite useful 
+lives are not amortized according to schedule. Im-
+pairment tests were performed in the past financial 
+T.22  (in € million)
+2017
+2016
+Land and buildings, including buildings on 
+third-party land
+89.7
+108.4
+Technical equipment and machinery
+10.1
+10.4
+Other equipment, factory and office equipment
+122.0
+116.1
+Assets under construction 
+38.3
+17.3
+TOTAL 
+260.1
+252.1
+year using the discounted cash flow method. These 
+was based on data from the respective three-year 
+plan. The recoverable amount was determined on the 
+basis of the value in use. This did not result in an im-
+pairment loss.
+The cash-generating unit CPG – COBRA PUMA Golf 
+includes intangible assets in association with the 
+COBRA brand, with an indefinite useful life of 
+€ 118.6 million (previous year: € 134.9 million). The 
+carrying amount of the COBRA brand is significant in 
+comparison to the overall carrying amount of the in-
+tangible assets with an indefinite useful life. This is 
+allocated to the Central Unit segment. The recover-
+able amount of the COBRA brand (level 3) was deter-
+mined using the relief from royalty method. A dis-
+count rate of 7.3% p. a. was applied (previous year: 
+6.8% p. a.) and, unchanged from the previous year, a 
+license rate of 8% and a 3% growth rate were used. 
+In 2017, development costs in connection with 
+COBRA brand golf clubs amounting to € 1.8 million 
+(previous year: € 1.9 million) were capitalized. Devel-
+opment costs are allocated to the item Other Intan-
+gible Assets in Changes in Fixed Assets. Current 
+amortization of development costs amounted to 
+€ 0.6 million in 2017 (previous year: € 0.0 million).
+The changes in intangible assets in the 2017 finan-
+cial year are shown in Changes in Fixed Assets of 
+29 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 30
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Appendix 1 to the notes of the consolidated financial 
+statemens. Other intangible assets include advance 
+payments in the amount of € 8.7 million (previous 
+year: € 2.0 million). 
+Current amortization of intangible assets amounting 
+to € 14.3 million (previous year: € 11.3 million) are 
+included in other operating expenses. Distribution 
+expenses accounted for € 2.1 million of this amount 
+(previous year: € 2.2 million), € 0.1 million was at-
+tributable to product management/merchandising 
+Assumptions used in conducting the impairment 
+test in 2017:
+The tax rates used for the impairment test cor­
+respond to the actual tax rates in the respective 
+countries. The cost of capital (WACC) was derived 
+from observable market data. 
+In addition, a growth rate of 3% is generally as-
+sumed. A growth rate of less than 3% was only used 
+in justified exceptional cases.
+The cash-generating unit Dobotex includes goodwill 
+of € 139.4 million (previous year: € 139.4 million), 
+which is significant in comparison to the total 
+carrying amount of goodwill. The cash-generating 
+unit corresponds to a business area of PUMA which 
+is allocated to the Central Unit. The recoverable 
+amount was determined by calculating the value in 
+use using a discount rate of 7.6% p. a. (previous year: 
+6.5% p. a.) and a growth rate of 2% (previous year: 
+2%). 
+T.24  
+Tax rate (range)
+WACC before tax (range)
+WACC after tax (range)
+EEA
+17.0% – 25.0%
+8.7% – 9.6%
+7.6%
+EEMEA*
+28.0%
+17.4%
+13.3%
+EMEA
+17.0% – 28.0%
+8.7% – 17.4%
+7.6% – 13.3%
+North America*
+26.4%
+8.6%
+7.0%
+Latin America
+25.5% – 35.0%
+11.0% – 26.4%
+8.9% – 22.7%
+Americas
+25.5% – 35.0%
+8.6% – 26.4%
+7.0% – 22.7%
+Asia/Pacific
+17.0% – 30.0%
+9.0% – 10.7%
+7.6% – 8.5%
+*	
+The figures for the EEMEA and North America regions relate to only one cash-generating unit (CGU) each.
+Sensitivity analyses with regard to the impairment 
+tests carried out at the balance sheet date show that 
+an increase in discount rates of one percentage point 
+each and a reduction in growth rates of one per-
+centage point each result in an indication of impair-
+ment with regard to intangible assets with an un­
+limited or indefinite useful life of € 11.8 million. The 
+corresponding sensitivity analyses with regard to 
+goodwill do not provide any indication of impairment. 
+The sensitivity analysis with a one percentage point in-
+crease in the discount rate and the sensitivity analysis 
+with a one percentage point reduction of the growth 
+rate do not show any indication of impairment.
+ 
+expenses (previous year: € 0.0 million), € 0.6 million 
+to development (previous year: € 0.0 million) and 
+€ 11.5 million to administrative and general 
+expenses (previous year: € 9.1 million). As in the pre-
+vious year, there were no impairment expenses that 
+exceed current depreciation. 
+Goodwill is allocated to the Group’s identifiable 
+cash-generating units (CGUs) according to the 
+country where the activity is carried out. Summa-
+rized by regions, goodwill is allocated as follows:
+T.23  (in € million)
+2017
+2016
+	
+PUMA UK
+1.6
+1.7
+	
+PUMA South Africa
+2.4
+2.5
+	
+Dobotex
+139.4
+139.4
+	
+Genesis
+6.9
+7.1
+Subtotal EMEA
+150.3
+150.6
+	
+PUMA Canada
+9.5
+10.0
+	
+PUMA Argentina
+14.6
+16.6
+	
+PUMA Chile
+0.5
+0.5
+	
+PUMA Mexico
+9.6
+10.5
+	
+Janed
+1.8
+2.1
+Subtotal Americas 
+36.0
+39.7
+	
+PUMA Japan
+40.6
+44.4
+	
+PUMA China
+2.5
+2.5
+	
+PUMA Taiwan
+12.6
+13.2
+Subtotal Asia/Pacific 
+55.7
+60.1
+TOTAL 
+241.9
+250.4
+31 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 32
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table contains the assumptions for the 
+performance of the impairment test in the previous 
+year:
+A growth rate of 3% was generally assumed and a 
+growth rate of under 3% has only been used in ex-
+ceptional cases where this is justified.
+The 19.6% interest in Wilderness Holdings Ltd. is 
+shown under holdings in associated companies. It is 
+accounted for using the equity method, as there is a 
+significant influence. The carrying amount of the 
+shares amounts to € 16.6 million (previous year: 
+€ 16.5 million).
+T.25  
+Tax rate (range)
+WACC before tax (range)
+WACC after tax (range)
+EEA
+17.0% – 25.0%
+8.0% – 8.1%
+6.5% – 7.0%
+EEMEA*
+28.0%
+16.6%
+12.7%
+EMEA
+17.0% – 28.0%
+8.0% – 16.6%
+6.5% – 12.7%
+North America*
+26.4%
+8.1%
+6.5%
+Latin America
+25.5% – 35.0%
+10.3% – 26.9%
+8.3% – 23.3%
+Americas
+25.5% – 35.0%
+8.1% – 26.9%
+6.5% – 23.3%
+Asia/Pacific
+16.5% – 30.0%
+8.5% – 9.5%
+7.0% – 8.3%
+*	
+The figures for the EEMEA and North America regions relate to only one cash-generating unit (CGU) each.
+PUMA’s share of the net earnings of Wilderness 
+Holdings Ltd. amounts to € 1.6 million (previous 
+year: € 1.2 million). Dividends received amount to 
+€ 0.8 million (previous year: € 0.7 million).
+The balance sheet date of Wilderness Holdings Ltd. 
+is February 28, 2017. The above information relates 
+to the Company’s financial information as at 
+December 31. 
+12. OTHER NON-CURRENT ASSETS
+Other non-current financial and non-financial assets 
+consist of:
+ 
+The non-current investments relate to the 5.0% 
+shareholding in Borussia Dortmund GmbH & Co. 
+Kommanditgesellschaft auf Aktien (BVB) with regis-
+tered office in Dortmund, Germany. 
+Other financial assets mainly include rental deposits 
+in the amount of € 19.2 million (previous year: 
+€ 19.9 million). The other non-current non-financial 
+assets mainly include deferrals in connection with 
+promotional and advertising agreements.
+In the 2017 financial year, there were no indicators of 
+impairment of other non-current assets.
+T.27  (in € million)
+2017
+2016
+Non-current investments
+28.0
+24.2
+Fair value of derivative financial instruments
+1.6
+12.9
+Other financial assets
+22.1
+22.6
+Total of other non-current financial assets
+51.7
+59.8
+Other non-current non-financial assets
+19.8
+18.7
+Other non-current assets, total
+71.5
+78.5
+The following overview shows the aggregated 
+benchmark data of the associated companies rec-
+ognized at equity. The values represent the values 
+based on the entire company and do not relate to the 
+shares attributable to the PUMA Group.
+T.26  (in € million)
+2017
+2016
+Gains relating to continuing operations
+8.3
+5.9
+Other result
+-0.1
+-0.3
+Comprehensive income
+8.2
+5.6
+11. HOLDINGS IN ASSOCIATED COMPANIES
+33 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 34
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+13. LIABILITIES
+The residual terms of liabilities are as follows:
+PUMA has confirmed credit facilities amounting to a 
+total of € 497.1 million (previous year: € 487.6 mil-
+lion). There were no changes in the financial liabilities 
+(previous year: € 4.6 million) from lines of credit 
+granted only until further notice. Unutilized credit 
+lines totaled € 440.2 million as of December 31, 
+2017, compared to € 433.1 million the previous year. 
+T.28  LIABILITIES (in € million)
+2017
+2016
+RESIDUAL TERM OF
+RESIDUAL TERM OF
+Total
+Up to 1 
+year
+1 to 5 
+years
+Over 5 
+years
+Total
+Up to 1 
+year
+1 to 5 
+years
+Over 5 
+years
+Financial liabilities 
+56.8
+29.0
+27.9
+40.1
+25.3
+14.8
+Trade payables
+646.1
+646.1
+580.6
+580.6
+Liabilities from acquisitions
+4.8
+4.8
+5.0
+5.0
+Other liabilities
+Liabilities from other taxes
+35.6
+35.6
+33.8
+33.8
+Liabilities relating to social security 
+7.1
+7.1
+6.7
+6.7
+Payables to employees
+96.1
+96.1
+74.3
+74.3
+Liabilities from market valuation of forward 
+exchange transactions
+75.2
+72.3
+2.9
+25.8
+24.7
+1.1
+Liabilities from finance leases
+0.4
+0.3
+0.1
+0.7
+0.4
+0.2
+Other liabilities
+32.0
+29.0
+1.9
+1.2
+53.9
+51.5
+2.1
+0.3
+TOTAL
+954.3
+915.5
+37.6
+1.2
+820.8
+797.4
+23.2
+0.3
+The current financial liabilities can be repaid at any 
+time.
+The following values were determined in the previous 
+year:
+ 
+T.29  CASH FLOWS FROM NON-DERIVATIVE AND DERIVATIVE FINANCIAL LIABILITIES 2017 (in € million)
+CASH FLOW 
+2018
+CASH FLOW 
+2019
+CASH FLOW 
+2020 ET SEQ.
+Carrying 
+amount 2017
+Interest
+Repay-
+ment
+Interest
+Repay-
+ment
+Interest
+Repay-
+ment
+Non-derivative financial liabilities
+Financial liabilities
+56.8
+1.3
+29.0
+0.3
+10.1
+0.1
+17.7
+Trade payables
+646.1
+646.1
+Liabilities from finance leases
+0.4
+0.3
+0.1
+0.1
+Liabilities from acquisitions
+4.8
+ 
+ 
+4.8
+Other liabilities
+22.4
+22.3
+0.0
+Derivative financial liabilities and assets
+Cash-inflow from derivate financial  
+instruments
+2,152.9
+383.0
+Cash-outflow from derivate financial 
+instruments
+2,197.0
+380.6
+T.30  CASH FLOWS FROM NON-DERIVATIVE AND DERIVATIVE FINANCIAL LIABILITIES 2016 (in € million)
+CASH FLOW 
+2017
+CASH FLOW 
+2018
+CASH FLOW 
+2019 ET SEQ.
+Carrying 
+amount 2016
+Interest
+Repay-
+ment
+Interest
+Repay-
+ment
+Interest
+Repay-
+ment
+Non-derivative financial liabilities
+Financial liabilities
+40.1
+0.2
+25.3
+0.1
+11.8
+0.0
+3.0
+Trade payables
+580.6
+580.6
+Liabilities from finance leases
+0.7
+0.4
+0.1
+0.1
+Liabilities from acquisitions
+5.0
+ 
+ 
+5.0
+Other liabilities
+44.9
+0.3
+44.8
+0.0
+0.1
+Derivative financial liabilities and assets
+Cash-inflow from derivate financial  
+instruments
+1,886.5
+345.5
+Cash-outflow from derivate financial 
+instruments
+1,835.6
+332.1
+The effective interest rate of the financial liabilities 
+ranged between 1.0% and 14.7% (previous year: 
+1.0% to 12.25%).
+The table below shows the cash flows of the original 
+financial liabilities and of the derivative financial in-
+struments with a positive and negative fair value:
+35 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 36
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+14. ADDITIONAL DISCLOSURES ON FINANCIAL INSTRUMENTS
+ 
+T.31  (in € million)
+Measurement 
+categories under 
+IAS 39
+Carrying 
+amount 2017
+Fair value 
+2017
+Carrying 
+amount 2016
+Fair value 
+2016
+Assets
+Cash and cash equivalents
+1) LAR
+415.0
+415.0
+326.7
+326.7
+Trade receivables
+LAR
+503.7
+503.7
+499.2
+499.2
+Other current financial assets
+LAR
+43.2
+43.2
+35.2
+35.2
+Derivatives with hedging relationship 
+(fair value) (current and non- 
+current)
+n. a.
+25.0
+25.0
+91.8
+91.8
+Derivatives without hedging  
+relationship (fair value)
+HfT
+0.1
+0.1
+0.0
+0.0
+Other non-current fin. assets
+LAR
+22.1
+22.1
+22.6
+22.6
+Non-current investments
+2) AfS
+28.0
+28.0
+24.2
+24.2
+Liabilities
+Financial liabilities
+ 3) OL
+56.8
+56.8
+40.1
+40.1
+Trade payables
+OL
+646.1
+646.1
+580.6
+580.6
+Liabilities from acquisitions
+OL
+4.8
+4.8
+5.0
+5.0
+Liabilities from finance leases
+n. a.
+0.4
+0.4
+0.7
+0.7
+Other financial liabilities
+OL
+22.4
+22.4
+44.9
+44.9
+Derivatives with hedging relationship 
+(fair value) (current and non- 
+current)
+n. a.
+75.2
+75.2
+25.6
+25.6
+Derivatives without hedging  
+relationship (fair value)
+4) HfT
+0.0
+0.0
+0.3
+0.3
+Total LAR
+984.0
+984.0
+883.7
+883.7
+Total OL
+730.1
+730.1
+670.6
+670.6
+Total AfS
+28.0
+28.0
+24.2
+24.2
+1) LAR: Loans and Receivables; 
+2) AfS: Available for Sale; 
+3) OL: Other Liabilities; 
+4) HfT: Held for Trading
+Financial instruments that are measured at fair 
+value in the balance sheet were determined using 
+the following hierarchy:
+Level 1: Use of prices quoted on active markets for 
+identical assets or liabilities.
+Level 2: Use of input factors that do not involve the 
+quoted prices stated under Level 1, but can 
+be observed for the asset or liability either 
+directly (i. e., as price) or indirectly (i. e., 
+derivation of prices).
+Level 3: Use of factors for the valuation of the asset 
+or liability that are based on non-observable 
+market data.
+The fair value of financial assets classified as 
+available-for-sale was determined in accordance 
+with Level 1. The market values of derivative assets 
+or liabilities were determined on the basis of Level 2.
+Cash and cash equivalents, trade receivables and 
+other assets have a short residual maturity. Accor­
+dingly, as of the reporting date, the carrying amount 
+approximates fair value. Receivables are stated at 
+nominal value, taking into account deductions for 
+default risk.
+Accordingly, as of the reporting date, the carrying 
+amount of loans receivable approximates fair value.
+The fair values of other financial assets correspond 
+to their carrying amount, taking into account pre-
+vailing market interest rates. Other financial assets 
+include € 22.6 million (previous year: € 22.6 million) 
+that were pledged as rental deposits at usual market 
+rates. 
+The current liabilities to banks can be repaid at any 
+time. Accordingly, as of the reporting date, the car-
+rying amount approximates fair value. The non-cur-
+rent bank liabilities consist of fixed-interest loans. 
+The reported carrying amounts correspond to the 
+repayment amounts. Non-current bank loans are re-
+ported under other non-current financial liabilities.
+Trade payables have a short residual maturity. The 
+recognized values approximate fair value. 
+Pursuant to the contracts entered into, purchase 
+price liabilities associated with acquisitions of busi-
+ness enterprises lead to payments. The resulting 
+nominal amounts were discounted at a reasonable 
+market interest rate, depending on the expected 
+date of payment. As of the end of the financial year, 
+the market interest rate only affects one company 
+and is 0.6% (previous year: 0.4%). 
+The fair values of other financial liabilities are deter-
+mined based on the present values, taking into ac-
+count the prevailing interest rate parameters.
+The fair values of derivatives with a hedging relation-
+ship at the balance sheet date are determined on the 
+basis of current market parameters, i. e., reference 
+prices observable on the market, taking into account 
+forward premiums and discounts. The discounted re-
+sult of the comparison of the forward price on the re-
+porting date with the forward price on the valuation 
+date is included in the measurement. The fair values 
+are also checked for the counterparty’s non-perfor-
+mance risk. In doing this, PUMA calculates credit value 
+adjustments (CVA) or debt value adjustments (DVA) 
+on the basis of an up/down method, taking current 
+market information into account. No material devi-
+ations were found, so that no adjustments were 
+made to the fair value determined. 
+Net income by measurement categories:
+The net income was determined by taking into ac-
+count interest rates, currency exchange effects, im-
+pairment losses as well as gains and losses from 
+sales. 
+General administrative expenses include write-
+downs of receivables. 
+T.32  (in € million)
+2017
+2016
+Loans and receivables (LAR)
+-3.2
+-8.1
+Other liabilities (OL)
+-15.3
+-20.8
+Derivatives without hedging relationship
+-0.3
+1.3
+Non-current financial assets (AfS)
+3.8
+5.7
+TOTAL 
+-15.0
+-21.9
+37 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 38
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+15. PENSION PROVISIONS
+Pension provisions result from employees’ claims 
+for benefits, which are based on the statutory or 
+contractual regulations applicable in the respective 
+country, in the event of invalidity, death or when a 
+certain retirement age has been reached. Pension 
+commitments in the PUMA Group include both 
+benefit- and contribution-based pension commit-
+ments and include both obligations from current 
+pensions and rights to pensions payable in the 
+future. The pension entitlements are financed by 
+both provisions and funds.
+The risks associated with the pension commitments 
+mainly concern the usual risks of benefit-based pen-
+sion plans in relation to possible changes in the dis-
+count rate and, to a minor degree, inflation trends 
+and recipient longevity. In order to limit the risks of 
+changed capital market conditions and demographic 
+developments, plans with the maximum obligations 
+were agreed or insured a few years ago in Germany 
+and the UK for new hires. The specific risk of obliga-
+tions based on salary is low within the PUMA Group. 
+The introduction of an annual cap in 2016 for pen-
+sionable salary in the UK plan now covers this risk for 
+the highest obligations. The UK plan is therefore 
+classified as a non-salary obligation.
+T.33  (in € million)
+Germany
+UK
+Other 
+companies
+PUMA 
+Group
+Present value of pension claims 12/31/2017
+Salary-based obligations
+	
+Annuity
+0.0
+0.0
+6.5
+6.5
+	
+One-off payment
+0.0
+0.0
+6.2
+6.2
+Non-salary-based obligations
+	
+Annuity
+20.3
+41.5
+0.0
+61.8
+	
+One-off payment
+6.8
+0.0
+0.0
+6.8
+The following values were determined in the previous 
+year:
+T.34  (in € million)
+Germany
+UK
+Other 
+companies
+PUMA 
+Group
+Present value of pension claims 12/31/2016
+Salary-based obligations
+	
+Annuity
+0.0
+0.0
+6.9
+6.9
+	
+One-off payment
+0.0
+0.0
+5.9
+5.9
+Non-salary-based obligations
+	
+Annuity
+19.3
+41.6
+0.0
+60.9
+	
+One-off payment
+6.6
+0.0
+0.0
+6.6
+The main pension arrangements are described below:
+The general pension scheme of PUMA SE generally 
+provides for pension payments to a maximum 
+amount of € 127.82 per month and per eligible em-
+ployee. It was closed for new members beginning in 
+1996. In addition, PUMA SE provides individual com-
+mitments (fixed sums in different amounts) as well 
+as contribution-based individual commitments 
+(in part from salary conversion). The contribution-­
+based commitments are insured plans. There are no 
+statutory minimum funding requirements. At the 
+end of 2017, the obligation attributable to pension 
+entitlements in Germany (PUMA SE) amounted to 
+€ 27.1 million (previous year: € 25.9 million), repre-
+senting 33.3% of the total commitment. The fair 
+value of the plan assets relative to domestic obliga-
+tions amounts to € 16.4 million. The corresponding 
+pension provision amounts to € 10.7 million.
+The defined benefit plan in the United Kingdom has 
+not been available to new hires since 2006. This de-
+fined benefit plan includes salary and length of ser-
+vice-based commitments to provide old age, inva-
+lidity and surviving dependents’ retirement benefits. 
+In 2016, a growth cap of 1% p. a. was introduced on 
+the pensionable salary. Partial capitalization of the 
+old-age pension is permitted. There are statutory 
+minimum funding requirements. The obligations re-
+garding pension claims under the defined benefit 
+plan in the UK amount to € 41.5 million at the end of 
+2017 (previous year: € 41.6 million) and represents 
+51.1% of the total obligation. The obligation is cov-
+ered by assets amounting to € 32.0 million. The pro-
+vision amounts to € 9.5 million.
+The changes in the present value of pension claims 
+are as follows: 
+T.35  (in € million)
+2017
+2016
+Present value of pension claims January 1
+80.3
+74.3
+Cost of the pension claims earned in the reporting year
+3.4
+2.3
+Past service costs
+0.0
+-2.3
+(Profits) and losses from settlements
+0.0
+0.0
+Interest expense on pension claims
+1.7
+2.1
+Employee contributions
+0.2
+0.2
+Benefits paid
+-2.3
+-3.0
+Effects from transfers 
+0.2
+-0.4
+Actuarial (gains) and losses
+-0.2
+13.1
+Currency exchange effects
+-2.0
+-6.0
+Present value of pension claims December 31
+81.3
+80.3
+39 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 40
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The changes in the plan assets are as follows:
+The pension provision for the Group is derived as 
+follows:
+In 2017, benefits paid amounted to € 2.3 million (pre-
+vious year: € 3.0 million). Contributions in 2018 are 
+expected to amount to € 2.2 million. Of this, € 0.9 mil-
+lion is expected to be paid directly by the employer. 
+Contributions to external plan assets amounted to 
+€ 3.1 million in 2013 (previous year: € 1.9 million). 
+Contributions in 2018 are expected to amount to 
+€ 1.7 million.
+T.36  (in € million)
+2017
+2016
+Plan assets January 1
+48.8
+50.7
+Interest income on plan assets
+1.1
+1.5
+Actuarial gains and losses (-)
+1.1
+1.7
+Employer contributions
+3.1
+1.9
+Employee contributions
+0.2
+0.2
+Benefits paid
+-1.4
+-2.0
+Effects from transfers 
+0.0
+-0.3
+Currency exchange effects
+-1.4
+-5.0
+Plan assets December 31
+51.6
+48.7
+T.37  (in € million)
+2017
+2016
+Present value of pension claims from benefit plans
+81.3
+80.3
+Fair value of plan assets
+-51.6
+-48.7
+Financing status
+29.7
+31.6
+Amounts not recorded due to the maximum  
+limit applicable to assets
+0.0
+0.0
+Pension provision December 31
+29.7
+31.6
+The changes in pension provisions are as follows:
+The expenses in the 2017 financial year are struc-
+tured as follows:
+In addition to the defined benefit pension plans, PUMA 
+also makes contributions to defined contribution 
+plans. Payments for the financial year 2017 amounted 
+to € 11.7 million (previous year: € 11.0 million).
+T.38  (in € million)
+2017
+2016
+Pension provision January 1
+31.6
+23.6
+Pension expense
+4.0
+0.6
+Actuarial gains (-) and losses recorded in  
+Other Comprehensive Income 
+-1.3
+11.4
+Employer contributions
+-3.1
+-1.9
+Direct pension payments made by the employer 
+-0.9
+-0.9
+Transfer values
+0.2
+-0.2
+Currency exchange differences
+-0.7
+-1.0
+Pension provision December 31
+29.7
+31.6
+	
+of which assets
+0.0
+0.0
+	
+of which liabilities
+29.7
+31.6
+T.39  (in € million)
+2017
+2016
+Cost of the pension claims earned in the reporting year
+3.4
+2.3
+Past service costs
+0.0
+-2.3
+Income (-) and expenses from plan settlements
+0.0
+0.0
+Interest expense on pension claims
+1.7
+2.1
+Interest income on plan assets
+-1.1
+-1.5
+Administration costs
+0.0
+0.1
+Expenses for defined benefit plans
+4.0
+0.7
+	
+of which personnel costs
+3.4
+0.1
+	
+of which financial costs
+0.6
+0.6
+41 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 42
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Actuarial gains and losses recorded in Other Compre-
+hensive Income: 
+Plan assets investment classes:
+T.40  (in € million)
+2017
+2016
+Revaluation of pension commitments
+0.0
+0.0
+	
+Actuarial gains (-) and losses resulting from  
+changes in demographic assumptions
+-0.6
+-0.7
+	
+Actuarial gains (-) and losses resulting from  
+changes in financial assumptions
+-0.1
+13.3
+	
+Actuarial gains (-) and losses due to adjustments  
+based on experience
+0.5
+0.5
+Revaluation of plan assets
+-1.1
+-1.7
+Amounts not recorded due to the maximum  
+limit applicable to assets
+0.0
+0.0
+Adjustment of administration costs
+0.0
+0.0
+Total revaluation amounts recorded directly in  
+other comprehensive income
+-1.3
+11.4
+T.41  (in € million)
+2017
+2016
+Cash and cash equivalents
+0.3
+0.1
+Equity instruments
+0.0
+0.1
+Bonds
+1.3
+12.4
+Investment funds
+18.5
+17.2
+Derivatives
+7.1
+0.0
+Real estate
+3.5
+3.7
+Insurance
+16.4
+14.2
+Other
+4.5
+1.0
+Total plan assets
+51.6
+48.7
+Of which investment classes with a quoted market 
+price:
+Plan assets still do not include the Group’s own 
+financial instruments or real estate used by Group 
+companies. 
+The plan assets are used exclusively to fulfill defined 
+pension commitments. Legal requirements exist in 
+some countries for the type and amount of financial 
+resources that can be chosen; in other countries (for 
+example Germany) they can be chosen freely. In the 
+UK, a board of trustees made up of Company repre-
+sentatives and employees is in charge of asset man-
+agement. Its investment strategy is aimed at long-
+term profits and low volatility. It was revised in 2017 
+and the risk profile was reduced.
+The following assumptions were used to determine 
+pension obligations and pension expenses:
+T.42  (in € million)
+2017
+2016
+Cash and cash equivalents
+0.3
+0.2
+Equity instruments
+0.0
+0.1
+Bonds
+1.3
+12.4
+Investment funds
+18.3
+16.9
+Derivatives
+7.1
+0.0
+Real estate
+3.2
+3.4
+Insurance
+0.0
+0.0
+Other
+4.5
+1.0
+Plan assets with a quoted market price
+34.7
+34.0
+T.43  (in %)
+2017
+2016
+Discount rate 
+2.30
+2.18
+Future pension increases
+2.42
+2.46
+Future salary increases
+1.55
+1.50
+43 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 44
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The indicated values are weighted average values. 
+A standard interest rate of 1.75% was applied for the 
+eurozone (previous year: 1.25%).
+16. OTHER PROVISIONS
+The warranty/return provision is determined on the 
+basis of the historical value of sales generated during 
+the past six months. It is expected that the majority 
+of these expenses will fall due within the first six 
+months of the next financial year. The warranty/ 
+return provision does not include any non-current 
+provisions (previous year: € 1.9 million).
+Purchasing risks relate primarily to materials and 
+molds that are required for the manufacturing of 
+shoes. 
+17. LIABILITIES FROM THE ACQUISITION 
+OF BUSINESS ENTITIES
+Pursuant to the contracts entered into, purchase 
+price liabilities associated with acquisitions of busi-
+ness enterprises lead to payments. The resulting 
+nominal amounts were discounted at a reasonable 
+market interest rate, depending on the expected 
+date of payment. 
+T.46  (in € million)
+2017
+2016
+Due within one year
+0.0
+0.0
+Due in more than one year
+4.8
+5.0
+TOTAL
+4.8
+5.0
+T.47
+2017
+2016
+Circulating shares as of January 1 
+Shares
+14,939,913
+14,939,913
+Issue of treasury stock
+Shares
+6,443
+0
+Stock buyback
+Shares
+0
+0
+Circulating shares as of December 31 
+Shares
+14,946,356
+14,939,913
+T.44  (in € million)
+2017
+2016
+Effect on present value of pension claims if
+	
+the discount rate were 50 basis points higher
+-7.4
+-7.4
+	
+the discount rate were 50 basis points lower
+6.0
+6.3
+T.45  (in € million)
+2016
+Currency 
+adjust-
+ments, 
+retransfers
+Addition
+Utilization
+Reversal
+2017
+Provisions for:
+	
+Warranties/Returns
+12.6
+-0.5
+46.7
+-7.8
+-0.2
+50.7
+	
+Purchasing risks
+8.5
+-0.1
+7.2
+-7.9
+-0.4
+7.2
+Other
+64.8
+-9.5
+27.6
+-15.0
+-5.0
+62.9
+TOTAL
+85.9
+-10.1
+81.5
+-30.8
+-5.6
+120.8
+The existing purchase price liability relates to the 
+acquisition of Genesis Group International Ltd. and is 
+made up as follows:
+18. SHAREHOLDERS’ EQUITY
+SUBSCRIBED CAPITAL
+The subscribed capital corresponds to the sub-
+scribed capital of PUMA SE. As of the balance sheet 
+date, the subscribed capital amounted to € 38.6 mil-
+lion and is divided into 15,082,464 bearer shares. 
+Each no-par-value share corresponds to € 2.56 of 
+the subscribed capital (share capital). 
+Changes in the circulating shares:
+Salary and pension trends have only a negligible 
+effect on the present value of pension claims due to 
+the structure of the benefit plans.
+The weighted average duration of pension commit-
+ments is 19 years.
+The following overview shows how the present value 
+of pension claims from benefit plans would have 
+been affected by changes to significant actuarial 
+assumptions.
+The other provisions consist of risks in connection 
+with litigation amounting to € 30.0 million (previous 
+year: € 28.7 million) and provisions for anticipated 
+losses from pending transactions and other risks in 
+the amount of € 32.9 million (previous year: € 36.1 mil­
+lion). Other provisions include € 34.6 million (previous 
+year: € 27.9 million) in non-current provisions.
+Short-term provisions are expected to be paid out 
+in the following year, while long-term provisions 
+are not expected to be paid out until the end of the 
+following year at the earliest.
+45 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 46
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+CAPITAL RESERVE
+The capital reserve includes the premium from 
+issuing shares, as well as amounts from the grant, 
+conversion and expiration of share options.
+RETAINED EARNINGS AND NET PROFIT
+Retained earnings and net profit include the net 
+income of the financial year as well as the income of 
+the companies included in the consolidated financial 
+statements achieved in the past to the extent that it 
+was not distributed.
+RESERVE FROM THE DIFFERENCE RESULTING FROM 
+CURRENCY CONVERSION
+The equity item for currency conversion serves to 
+record the differences from the conversion of the fi-
+nancial statements of subsidiaries with non-euro 
+accounting compared to the date of first consolida-
+tion of the subsidiaries.
+CASH FLOW HEDGES
+The cash flow hedges item includes the market valu-
+ation of derivative financial instruments. The item in 
+the amount of € -44.8 million (previous year: 
+€ 54.3 million) is offset by deferred taxes in 
+the amount of € 3.7 million (previous year: 
+€ -0.5 million). 
+TREASURY STOCK
+The resolution adopted by the Annual General 
+Meeting on May 6, 2015 authorized the company to 
+purchase treasury shares up to a value of 10% of the 
+share capital until May 5, 2020. If purchased through 
+the stock exchange, the purchase price per share 
+may not exceed or fall below 10% of the closing price 
+T.48
+2017
+2016
+Net income of PUMA SE as of December 31 in € million
+268.1
+205.6
+Net income available for distribution in € million
+268.1
+205.6
+Dividend per share €
+12.50
+0.75
+Number of circulating shares * share
+14,946,356
+14,939,913
+Total dividend * in € million
+186.8
+11.2
+Carried forward to the new accounting period * in € million
+81.3
+194.4
+* Previous year’s values adjusted to the outcome of the Annual General Meeting
+for the Company’s shares with the same attributes 
+in the XETRA trading system (or a comparable suc-
+cessor system) during the last 3 trading days prior to 
+the date of purchase. 
+The Company did not make use of the authorization 
+to purchase treasury stock during the reporting pe-
+riod. As of the balance sheet date, the Company 
+holds a total of 136,108 PUMA shares in its own 
+portfolio, which corresponds to 0.9% of the sub-
+scribed capital.
+AUTHORIZED CAPITAL
+As of December 31, 2017, the Company’s Articles of 
+Association provide for authorized capital totaling 
+€ 15,000,000: 
+Pursuant to Section 4.2. of the Articles of Associa-
+tion, the Administrative Board is authorized to in-
+crease the Compan’s share capital by April 11, 2022 
+by up to € 15,000,000 (Authorized Capital 2017) by 
+issuing new no-par value bearer shares against cash 
+and/or non-cash contributions on one or more occa-
+sions. In the event of capital increases against cash 
+contributions, the new shares can also be acquired 
+in whole or in part by one or several banks as deter-
+mined by the Administrative Board, subject to the 
+obligation to offer these to the shareholders for sub-
+scription (indirect subscription right). The share-
+holders are basically entitled to a subscription right. 
+However, the Administrative Board is authorized to 
+exclude shareholders’ subscription rights in whole or 
+in part in the cases specified in Paragraph 4.2. of the 
+Articles of Association. 
+The Administrative Board of PUMA SE did not make 
+use of the existing authorized capital in the current 
+reporting period.
+DIVIDENDS
+The amounts eligible for distribution relate to the net 
+income of PUMA SE, which is determined in accor-
+dance with German Commercial Law.
+The Managing Directors and the Administrative 
+Board will propose to the Annual General Meeting 
+that a one-off dividend of € 12.50 per circulating 
+share or a total of € 186.8 million (with respect to 
+the circulating shares as of December 31), be dis-
+tributed to the shareholders from the net income of 
+PUMA SE for the 2017 financial year. 
+Appropriation of the Net Income of PUMA SE:
+NON-CONTROLLING INTERESTS 
+The non-controlling interests remaining as of the bal-
+ance sheet date relate to PUMA Accessories North 
+America, LLC with €4.9 million (previous year: 
+€ 1.1 million), Janed, LLC with € 21.3 million (previous 
+year: € 11.9 million), PUMA Kids Apparel North 
+America, LLC with € 1.3 million (previous year: 
+€ 0.6 million), Janed Canada, LLC, with € 2.4 million 
+(previous year: € 0.8 million), PUMA North America 
+Accessories Canada, LLC with € 0.5 million and PUMA 
+Kids Apparel Canada, LLC, with € 0.8 million (previous 
+year: € 0.9 million).
+CAPITAL MANAGEMENT
+The Group’s objective is to retain a strong equity 
+base in order to maintain both investor and market 
+confidence and to strengthen future business 
+performance.
+Capital management relates to the consolidated 
+equity of PUMA. This is shown in the consolidated 
+balance sheet as well as the reconciliation state-
+ment concerning Changes in Equity. 
+47 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 48
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+T.50  SOP
+2008 
+Tranche I
+2008 
+Tranche II
+2008 
+Tranche III
+2008 
+Tranche IV
+2008 
+ Tranche V
+Issue date
+7/21/2008
+4/14/2009
+4/22/2010
+4/15/2011
+4/30/2012
+Amount issued
+113,000
+139,002
+126,184
+151,290
+145,375
+Exercise price
+€0.00
+€0.00
+€2.56
+€2.56
+€2.56
+Residual term
+0.00 years
+0.00 years
+0.00 years
+0.00 years
+0.00 years
+Circulating as of 1/1/2017
+0
+0
+0
+0
+98,484
+Exercised
+0
+0
+0
+0
+0
+Ø Share price when exercised
+€ 220.83
+€ 214.57
+n. a.
+n. a.
+n. a.
+Compensated/Expired
+0
+0
+0
+0
+-98,484
+Circulating as of 12/31/2017
+0
+0
+0
+0
+0
+Exercisable options as of the 
+reporting date
+0
+0
+0
+0
+0
+T.49  SOP
+2008 
+Tranche I
+2008 
+Tranche II
+2008 
+Tranche III
+2008 
+Tranche IV
+2008 
+Tranche V
+Share price as of  
+the date granted
+€199.27
+€147.27
+€250.50
+€199.95
+€265.00 
+Expected volatility
+29.1%
+47.7%
+34.5%
+29.2%
+26.8%
+Expected dividend payment
+1.50%
+2.31%
+1.30%
+1.30%
+0.8%
+Risk-free interest  
+rate, former members  
+of the Board of  
+Management/current  
+Managing Directors
+4.60%
+1.97%
+1.60%
+2.40%
+0.3%
+Risk-free interest rate, 
+executive staff
+4.60%
+1.97%
+1.60%
+2.40%
+0.3%
+19. EQUITY COMPENSATION PLANS/ 
+MANAGEMENT INCENTIVE PROGRAM
+In order to provide long-term incentives and thereby 
+retain the management staff in the Company, PUMA 
+uses share-based compensation systems in the 
+form of stock option programs (SOP) and in the form 
+of virtual shares with cash compensation. 
+The current programs are described below:
+EXPLANATION OF “SOP” 
+Pursuant to the resolution of the Annual General 
+Meeting of April 22, 2008, a stock option program, 
+SOP 2008, was accepted in the form of a Perfor-
+mance Share Program. Conditional capital was cre-
+ated for this purpose and the Supervisory Board and 
+the Board of Management of PUMA AG (as of July 25, 
+2011 change of form into SE) were authorized to 
+grant subscription rights to the members of the 
+Board of Management and other executives of the 
+Company and of affiliated subsidiary companies for 
+five years (after the registration of the conditional 
+capital in the commercial register), but for at least 
+three months after the end of the Annual General 
+Meeting in 2013. 
+The term of the subscription rights issued and to be 
+issued is five years and these subscription rights can 
+be exercised after two years at the earliest, pro-
+vided, however, that the price of the PUMA share has 
+increased by at least 20% as of the date granted. In 
+contrast to traditional stock option programs, the 
+equivalent amount of the increase in value of the 
+PUMA share since the date granted is serviced with 
+shares, whereby the beneficiary pays an option price 
+of € 2.56 per share granted if the share was issued 
+as part of a capital increase. If employees leave the 
+company, then their options rights expire.
+Furthermore, pursuant to the authorization, the 
+Administrative Board, in accordance with the 
+recommendations of the Corporate Governance 
+Code, may limit, fully or partially, the scope and con-
+tents of subscription rights issued to the company’s 
+Managing Directors in the event of extraordinary, 
+unforeseen developments. This option is also avail-
+able to the Board of Management with respect to the 
+other executives concerned. 
+The programs were valued using a binomial model or 
+a Monte Carlo simulation.
+The following parameters were used to determine 
+the fair value: 
+The historical volatility during the year prior to the 
+date of valuation was used to determine the expected 
+volatility.
+Changes in the SOP during the financial year:
+Pursuant to Section 5 of the Option Terms and Condi-
+tions, every year the options are subject to a vesting 
+period from December 15 for up to ten trading days 
+after the Annual General Meeting. Accordingly, no op-
+tions can be exercised as of the reporting date.
+As of the date of allocation, the average fair value per 
+option was € 49.44 for Tranche I – 2008. Taking into 
+account the vesting period, there are no expenses 
+for the current financial year. Of the options in circu-
+lation, 0 options belong to the previous members of 
+the Board of Management of PUMA AG or the current 
+Managing Directors. 
+Pursuant to the allocation, the average fair value per 
+option was € 53.49 for Tranche II – 2008. Taking into 
+account the vesting period, there are no expenses 
+for the current financial year. Of the options in circu-
+lation, 0 options belong to the previous members of 
+the Board of Management of PUMA AG or the current 
+Managing Directors. 
+Pursuant to the allocation, the average fair value per 
+option was € 61.81 for Tranche III – 2008. Taking into 
+account the vesting period, there are no expenses 
+for the current financial year. Of the options in circu-
+lation, 0 options belong to the previous members of 
+the Board of Management of PUMA AG or the current 
+Managing Directors. 
+Pursuant to the allocation, the average fair value per 
+option was € 40.14 for Tranche IV – 2008. Taking into 
+account the vesting period and the expiration, there 
+are no expenses for the current financial year. A total 
+of 0 options belong to the previous members of the 
+Board of Management of PUMA AG or the current 
+Managing Directors at the end of the year. 
+Pursuant to the allocation, the average fair value per 
+option was € 44.59 for Tranche V – 2008. Taking into 
+account the vesting period, there are no expenses 
+for the current financial year. Tranche V was termi-
+nated against payment of a cash settlement. A total 
+of 0 options belonged to the current Managing Direc-
+tors at the end of the year. 
+49 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 50
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+T.51  VIRTUAL SHARES (monetary units)
+Issue date
+1/1/2013
+1/1/2014
+1/1/2015
+1/1/2016
+1/1/2017
+Term
+Years
+5
+5
+5
+5
+5
+Vesting period
+Years
+3
+3
+3
+3
+3
+Base price component 1
+EUR/share
+224.00
+232.00
+174.00
+200.00
+240.00
+Base price component 2
+EUR/share
+152.00
+144.00
+167.00
+166.00
+249.00
+Reference value component 1  
+at the end of the financial year
+EUR/share
+240.20
+240.00
+371.00
+220.13
+96.46
+Reference value component 2  
+at the end of the financial year
+EUR/share
+401.00
+592.00
+592.00
+352.10
+153.94
+Participants in year of issue
+People
+4
+3
+3
+3
+3
+Participants at the end of the  
+financial year
+People
+2
+3
+3
+3
+3
+Number of monetary units  
+component 1 as of 1/1/2017
+Shares
+2,406
+5,501
+7,965
+6,300
+6,519
+Number of monetary units  
+component 1 exercised in the FY
+Shares
+-2,406
+-251
+0
+0
+0
+Final number of monetary units  
+component 1 as of 12/31/2017
+Shares
+0
+5,250
+7,965
+6,300
+6,519
+Number of monetary units  
+component 2 as of 1/1/2017
+Shares
+1,520
+3,799
+3,692
+3,393
+2,693
+Number of monetary units  
+component 2 exercised in the FY
+Shares
+-943
+-591
+0
+0
+0
+Final number of monetary units  
+component 2 as of 12/31/2017
+Shares
+577
+3,208
+3,692
+3,393
+2,693
+The SOP 2008 stock option program expired at the 
+end of the 2017 financial year.
+EXPLANATION OF “VIRTUAL SHARES,” TERMED  
+“MONETARY UNITS”
+Monetary units were granted on an annual basis in 
+2013 as part of a management incentive program. 
+Monetary units are based on the PUMA and Kering 
+share performance. Each of these monetary units en-
+titles the holder to a cash payment at the end of the 
+term. This is dependent on the year-end price deter-
+mined for the PUMA share (component 1), which is 
+weighted at 70% and on the year-end price deter-
+mined for the Kering share (component 2), which is 
+weighted at 30%. Component 1 compares the suc-
+cess with the average virtual stock appreciation 
+rights of the last 30 days of the previous year. Compo-
+nent 2, on the other hand, measures success by com-
+paring the performance of the Kering share against 
+the average performance of a reference portfolio in 
+the luxury and sports sector over the same period. 
+These monetary units are subject to a vesting period 
+of three years. After that, there is an exercise period 
+of two years (in the period in April and October) which 
+can be freely used by participants for the purposes of 
+execution. The fundamental exercise condition after 
+the vesting period is the existence of an active em-
+ployment relationship with PUMA. 
+In the financial year 2017, an expense of € 8.4 million 
+was established for this purpose on the basis of the 
+employment contract commitments to the man-
+aging directors. 
+This commitment consisting of share-based remu-
+neration transactions with cash compensation is re-
+corded as personnel provisions and revalued on every 
+balance sheet date at fair value. Expenses are like-
+wise recorded over the vesting period. Based on the 
+market price on the balance sheet date, the provi-
+sion for both programs amounts to € 12.2 million at 
+the end of the financial year. 
+EXPLANATION OF THE “GAME CHANGER 2017” 
+PROGRAM
+In addition, another global long term incentive pro-
+gram called Game Changer 2017 was launched in 
+2014. Participants in this program consist mainly of 
+top executives reporting to the managing directors 
+and individual key positions in the PUMA Group. The 
+aim of this program is to bind this group of em-
+ployees to the company on a long-term basis and to 
+allow them to share in the medium-term success of 
+the Company. 
+The term of the program is 3 years and is based on 
+the medium-term objectives of the PUMA Group in 
+terms of EBIT (70%), working capital (15%) and 
+gross profit margin (15%). For this purpose, a corre-
+sponding provision is set up each year when the re-
+spective currency-adjusted targets are met. The re-
+sulting savings were paid out to the participants in 
+March 2017. The payment was subject to the condi-
+tion that the individual participant was in an unter-
+minated employment relationship with a company of 
+the PUMA Group as of December 31, 2016. No further 
+expenses were incurred for this program in the year 
+under review.
+EXPLANATION OF THE “GAME CHANGER 2018” 
+PROGRAM
+In 2015, the global Game Changer 2018 program was 
+launched, which is subject to the same parameters 
+as the Game Changer 2017 program (employment 
+relationship until 12/31/2017 and payout March 
+2018). Provisions of €1.0 million were set aside for 
+this program in the year under review. 
+EXPLANATION OF THE “GAME CHANGER 2019” 
+PROGRAM
+In 2016, the global Game Changer 2019 program was 
+launched, which is subject to the same parameters 
+as the Game Changer 2017 program (employment 
+relationship until 12/31/2018 and payout March 
+2019). Provisions of € 1.4 million were set aside for 
+this program in the year under review. 
+EXPLANATION OF THE “GAME CHANGER 2020” 
+PROGRAM
+In 2017, the global Game Changer 2020 program was 
+launched, which is subject to the same parameters 
+as the Game Changer 2017 program (employment 
+relationship until 12/31/2019 and payout March 
+2020). Provisions of € 1.4 million were set aside for 
+this program in the year under review. 
+EXPLANATION OF THE MOMENTUM 2020 PROGRAM
+In addition, a global program called Momentum was 
+launched in 2017, which is subject to the same pa-
+rameters (employment until December 31, 2019 and 
+payout in March 2020) as the Game Changer pro-
+grams. The difference to the Game Changer pro-
+grams lies in the different participants. While the 
+participants in the Game Changer programs consist 
+of top executives, the Momentum program includes 
+employees who are not part of this group. Provisions 
+of € 0.9 million were set aside for this program in the 
+year under review.
+20. OTHER OPERATING INCOME  
+AND EXPENSES 
+According to the respective functions, other oper-
+ating income and expenses include personnel, adver-
+tising, sales and distribution expenses as well as 
+rental and leasing expenditure, travel costs, legal and 
+consulting expenses and other general expenses. 
+Typical operating income that is associated with 
+operating expenses was offset. Rental and lease ex-
+penses associated with the Group’s own retail stores 
+include sales-dependent rental components.
+51 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 52
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Of this, € 0.7 million is allocated to auditing expenses 
+(previous year: € 0.6 million), € 0.2 million to other 
+assurance services (previous year: € 0.2 million) and 
+€ 0.0 million to tax advisory services (previous year: 
+€ 0.1 million). 
+Other operating income includes other income of 
+€ 0.3 million (previous year: € 0.2 million). In the pre-
+vious year, this item also included allocations of de-
+velopment costs amounting to € 0.7 million.
+Overall, other operating expenses include personnel 
+costs, which consist of:
+In addition, cost of sales includes personnel costs 
+in the amount of € 12.8 million (previous year: 
+€ 15.3 million).
+The average number of employees for the year was as 
+follows:
+As of the end of the year, a total of 11,787 individuals 
+were employed (previous year: 11,495). 
+21. FINANCIAL RESULT
+This financial result consists of:
+Income from associated companies results exclu-
+sively from the shareholding in Wilderness Holdings 
+Ltd. (see also section 11).
+Other operating income and expenses are allocated 
+based on functional areas as follows:
+Within the sales and distribution expenses, mar-
+keting/retail expenses account for a large proportion 
+of the operating expenses. In addition to advertising 
+and promotional expenses, they also include ex-
+penses associated with the Group’s retail activities. 
+Other sales and distribution expenses include logistic 
+expenses and other variable sales and distribution 
+expenses.
+Administrative and general expenses include ex-
+penses for the statutory auditor of PUMA SE in the 
+amount of € 0.9 million (previous year: € 0.9 
+million). 
+T.52  (in € million)
+2017
+2016
+Sales and distribution expenses
+1,320.4
+1,182.4
+Product management/merchandising
+45.1
+41.7
+Research and development
+53.4
+52.0
+Administrative and general expenses
+307.0
+269.3
+Other operating expenses
+1,725.9
+1,545.4
+Other operating income
+0.3
+0.9
+Total
+1,725.6
+1,544.5
+	
+Of which scheduled depreciation
+70.3
+59.9
+	
+Of which impairment expenses
+0.0
+0.0
+T.53  (in € million)
+2017
+2016
+Wages and salaries
+428.3
+398.9
+Social security contributions
+57.3
+50.7
+Expenses from share-based remuneration  
+with cash compensation
+8.4
+2.1
+Expenses for retirement pension and other  
+personnel expenses
+55.1
+41.3
+TOTAL
+549.1
+493.1
+T.54  
+2017
+2016
+Marketing/retail/sales
+7,986
+7,527
+Research & Development/product management
+891
+882
+Administrative and general units
+2,511
+2,719
+TOTAL ANNUAL AVERAGE
+11,389
+11,128
+T.55  (in € million)
+2017
+2016
+Income from associated companies
+1.6
+1.2
+Financial income
+10.3
+10.5
+Interest expense
+-17.8
+-13.4
+Interest accrued on liabilities from acquisitions 
+0.0
+0.0
+Valuation of pension plans
+-0.6
+-0.6
+Expenses from currency-conversion differences, net
+-6.9
+-6.4
+Financial expenses
+-25.3
+-20.4
+Financial result
+-13.4
+-8.7
+53 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 54
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Financial income includes only interest income.
+Interest expenses result from financial liabilities and 
+expenses in connection with currency derivatives.
+Moreover, the financial result includes a total of 
+€ 6.9 million in expenses from currency conversion 
+differences (previous year: expense of € 6.4 million), 
+which are attributable to financing activities.
+22. INCOME TAXES
+In general, PUMA SE and its German subsidiaries are 
+subject to corporate income tax, plus a solidarity sur-
+charge and trade tax. Thus, a weighted mixed tax rate 
+of 27.22% continued to apply for the financial year.
+Reconciliation of the theoretical tax expense with 
+the effective tax expense:
+T.56  (in € million)
+2017
+2016
+Current income taxes
+	
+Germany
+9.3
+3.5
+	
+Other countries
+61.5
+34.8
+Total current income taxes
+70.7
+38.3
+Deferred taxes
+-7.5
+-7.8
+TOTAL
+63.3
+30.5
+T.57  (in € million)
+2017
+2016
+Earnings before income tax
+231.2
+118.9
+Theoretical tax expense 
+	
+Tax rate of the SE = 27.22% (previous year: 27.22%)
+62.9
+32.4
+Taxation difference with respect to other countries
+-7.1
+-8.1
+Other tax effects:
+	
+Income tax for previous years
+4.1
+1.9
+	
+Losses and temporary differences for  
+which no tax claims were recognized
+4.0
+5.0
+	
+Changes in tax rate
+8.7
+0.1
+Non-deductible expenses for tax purposes  
+and non-taxable income and other effects
+-9.3
+-0.8
+Effective tax expense
+63.3
+30.5
+Effective tax rate
+27.4%
+25.7%
+The tax effect resulting from items that are directly 
+credited or debited to equity is shown directly in the 
+statement of comprehensive income.
+Other effects include withholding tax expenses 
+in the amount of € 9.7 million (previous year: 
+€ 11.0 million).
+T.58  
+2017
+2016
+Net earnings in € million
+135.8
+62.4
+Average number of circulating shares
+14,943,161
+14,939,913
+Diluted number of shares
+14,943,161
+14,939,913
+Earnings per share €
+9.09
+4.17
+Earnings per share, diluted €
+9.09
+4.17
+23. EARNINGS PER SHARE
+The earnings per share are determined in accordance 
+with IAS 33 by dividing the consolidated annual sur-
+plus (consolidated net earnings) attributable to the 
+shareholder of the parent company by the average 
+number of circulating shares. 
+The calculation is shown in the table below:
+T.59  
+2017
+2016
+Currency forward contracts, assets  
+(see section 6 and 12)
+25.1
+91.8
+Currency forward contracts, liabilities  
+(see sections 13 and 14)
+-75.2
+-25.8
+Net
+-50.1
+66.0
+24. MANAGEMENT OF THE CURRENCY RISK
+In the 2017 financial year, PUMA designated forward 
+purchase USD currency derivatives as cash flow 
+hedges in order to hedge the amount payable of pur-
+chases denominated in USD, which is converted to 
+euros.
+The nominal amounts of open rate-hedging trans-
+actions, which relate mainly to cash flow hedges, 
+refer to currency forward transactions in a total 
+amount of € 2,287.4 million (previous year: € 1,850.6 
+million). These underlying transactions are expected 
+to generate cash flows in 2018 and 2019. For further 
+information, please refer to Note 13.
+The market values of open rate-hedging transactions 
+on the balance sheet date consist of:
+55 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 56
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The changes in effective cash flow hedges are shown 
+in the schedule of changes in shareholders’ equity 
+and the statement of comprehensive income. 
+In order to disclose market risks, IFRS 7 requires 
+sensitivity analyses that show the effects of hypo-
+thetical changes in relevant risk variables on earn-
+ings and equity. The periodic effects are determined 
+by relating the hypothetical changes caused by the 
+risk variables to the balance of the financial instru-
+ments held as of the balance sheet date. The under-
+lying assumption is that the balance as of the bal-
+ance sheet date is representative for the entire year.
+Currency risks as defined by IFRS 7 arise on account 
+of financial instruments being denominated in a cur-
+rency that is not the functional currency and is mon-
+etary in nature. Differences resulting from the con-
+version of the individual financial statements to the 
+Group currency are not taken into account. All 
+non-functional currencies in which PUMA employs 
+financial instruments are generally considered to be 
+relevant risk variables.
+Currency sensitivity analyses are based on the fol-
+lowing assumptions:
+Material primary monetary financial instruments 
+(cash and cash equivalents, receivables, interest-­
+bearing debt, liabilities from finance leases, non-­
+interest-bearing liabilities) are either denominated 
+directly in the functional currency or transferred into 
+the functional currency through the use of currency 
+forward contracts. 
+Currency forward contracts used to hedge against 
+payment fluctuations caused by exchange rates are 
+part of an effective cash-flow hedging relationship 
+pursuant to IAS 39. Changes in the exchange rate of 
+the currencies underlying these contracts have an 
+effect on the hedge reserve in equity and the fair 
+value of these hedging contracts.
+If, as of December 31, 2017, the USD had appreciated 
+(devalued) against all other currencies by 10%, the 
+hedge reserve in equity and the fair value of the 
+hedging contracts would have been € 120.4 million 
+higher (lower) (December 31, 2016: € 106.2 million 
+higher (lower)).
+Currency risks and other risk and opportunity cate-
+gories are discussed in greater detail in the Com-
+bined Management Report under the Risk and Op-
+portunity Management section as well as in sections 
+2 and 13 of the Notes to the consolidated financial 
+statements.
+25. SEGMENT REPORTING
+Segment reporting is based on geographical regions 
+in accordance with our internal reporting structure. 
+Sales revenues and operating income (EBIT) are 
+shown according to the head office of the respective 
+Group company of the corresponding region. The in-
+ter-company sales of the respective region are elim-
+inated. The allocation of the remaining segment in-
+formation is also determined on the basis of the re-
+spective Group company’s head office. The totals 
+equal the amounts at the time in the income state-
+ment and the balance sheet.
+The regions are subdivided into EMEA (Europe, 
+Middle East and Africa), Americas (North and Latin 
+America) and Asia/Pacific. 
+The segments’ internal sales are generated on the 
+basis of market prices. They are not considered in 
+the representation, as they are not relevant for 
+controlling.
+Investments and depreciation/amortization relate 
+to additions and depreciation/amortization of prop-
+erty, plant and equipment and intangible assets 
+during the current financial year. As in the previous 
+year, no total impairment losses were recognized in 
+the segments.
+Since PUMA is active in only one business area, the 
+sports equipment industry, products are allocated 
+according to the footwear, apparel and accessories 
+product segments in accordance with the internal 
+reporting structure. According to this reporting 
+structure, except the allocation of sales revenue and 
+of the gross profit, there is no other allocation of the 
+operating result as well as of the asset and liability 
+items.
+OPERATING SEGMENTS 1-12/2017
+T.60  REGIONS (in € million)
+EXTERNAL SALES
+EBIT 
+INVESTMENTS
+1-12/2017
+1-12/2016
+1-12/2017
+1-12/2016
+1-12/2017
+1-12/2016
+EMEA
+1,522.1
+1,281.4
+236.6
+145.7
+35.7
+27.2
+Americas
+1,370.6
+1,218.5
+190.4
+166.0
+13.8
+20.1
+Asia/Pacific
+821.5
+733.7
+167.2
+113.7
+30.7
+17.3
+Central units/ 
+consolidation*
+421.6
+393.0
+-349.6
+-297.7
+42.7
+19.7
+TOTAL
+4,135.9
+3,626.7
+244.6
+127.6
+122.9
+84.3
+*	
+Includes CPG (COBRA PUMA Golf Business), Brandon, Dobotex, Branded Sports Merchandising, as well as central expenses for  
+marketing, sourcing and other central functions.
+57 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 58
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+26. NOTES TO THE CASH FLOW STATEMENT
+The cash flow statement was prepared in accordance 
+with IAS 7 and is structured based on cash flows from 
+operating, investment and financing activities. The 
+indirect method is used to determine the cash out-
+flow/inflow from ongoing operating activities. The 
+gross cash flow, derived from earnings before in-
+come tax and adjusted for non-cash income and ex-
+pense items, is determined within the cash flow from 
+ongoing operating activities. Cash outflow/inflow 
+from operating activities, reduced by investments in 
+property, plant and equipment as well as intangible 
+assets is referred to as free cash flow.
+The financial resource fund reported in the cash flow 
+statement includes all payment methods and equiv-
+alent payment methods shown under Cash and cash 
+equivalents, i. e., cash in hand, checks and current 
+bank balances.
+The following table shows the cash and non-cash 
+changes in financial liabilities in accordance with IAS 
+7.44A:
+T.64  RECONCILIATION OF FINANCIAL LIABILITIES ARISING FROM FINANCING ACTIVITIES (in € million)
+CASH  
+NEUTRAL
+CASH  
+EFFECTIVE
+Notes
+Opening 
+Jan. 1, 2017
+Change in 
+group of 
+consolidated 
+companies
+Currency 
+effects
+Closing 
+Dec. 31, 2017
+Financial liabilities
+Liabilities from  
+finance leases
+13
+0.7
+0.0
+0.0
+-0.2
+0.4
+Current financial liabilities
+13
+44.3
+0.0
+-3.2
+-12.1
+29.0
+Non-current financial 
+liabilities
+13
+14.8
+0.0
+-2.3
+15.4
+27.9
+TOTAL
+59.7
+0.0
+-5.6
+3.1
+57.3
+T.61  REGIONS (in € million)
+DEPRECIATION
+INVENTORIES
+TRADE RECEIVABLES (3rd)
+1-12/2017
+1-12/2016
+1-12/2017
+1-12/2016
+1-12/2017
+1-12/2016
+EMEA
+14.6
+13.3
+342.7
+281.9
+184.3
+173.0
+Americas
+17.5
+15.5
+244.5
+247.1
+166.3
+176.1
+Asia/Pacific
+17.8
+12.8
+136.4
+115.1
+83.1
+79.5
+Central units/ 
+consolidation*
+20.4
+18.2
+54.9
+74.8
+70.0
+70.5
+TOTAL
+70.3
+59.9
+778.5
+718.9
+503.7
+499.2
+*	
+Includes CPG (COBRA PUMA Golf Business), Brandon, Dobotex, Branded Sports Merchandising, as well as central expenses for marketing, 
+ sourcing and other central functions.
+T.62  PRODUCT (in € million)
+EXTERNAL SALES
+GROSS PROFIT MARGIN
+1-12/2017
+1-12/2016
+1-12/2017
+1-12/2016
+Footwear
+1,974.5
+1,627.0
+45.5%
+42.5%
+Apparel
+1,441.4
+1,333.2
+49.0%
+48.4%
+Accessories
+719.9
+666.5
+48.5%
+47.9%
+TOTAL
+4,135.9
+3,626.7
+47.3%
+45.7%
+T.63  BRIDGE TO EBT (in € million)
+1-12/2017
+1-12/2016
+EBIT
+244.6
+127.6
+Financial result
+-13.4
+-8.7
+EBT
+231.2
+118.9
+Lease liabilities of € 0.4 million are divided into 
+short-term lease liabilities (€ 0.3 million), other 
+short-term financial liabilities and long-term lease 
+liabilities (€ 0.1 million), which are part of other long-
+term financial liabilities. Non-current financial liabil-
+ities of € 27.9 million are part of other non-current 
+financial liabilities.
+27. CONTINGENCIES AND  
+CONTINGENT LIABILITIES
+CONTINGENCIES
+As in the previous year, there were no reportable 
+contingencies.
+CONTINGENT LIABILITIES
+As in the previous year, there were no reportable 
+contingent liabilities.
+59 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 60
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+T.65  (in € million)
+2017
+Under rental and lease agreements:
+	
+2018 (2017)
+128.1
+	
+2019 – 2022 (2018 – 2021)
+286.6
+	
+from 2023 (from 2022)
+86.8
+TOTAL
+501.4
+28. OTHER FINANCIAL OBLIGATIONS 
+OBLIGATIONS FROM OPERATING LEASE
+The Group rents and leases offices, warehouses, 
+facilities and fleets of vehicles and sales rooms for 
+its own retail business. Rental agreements for the 
+retail business are concluded for terms of between 
+five and fifteen years. The remaining rental and lease 
+agreements typically have residual terms of be-
+tween one and five years. Some agreements include 
+options to renew and price adjustment clauses.
+T.66  (in € million)
+2017
+Under license, promotional and advertising agreements:
+	
+2018 (2017)
+181.8
+	
+2019 – 2022 (2018 – 2021)
+542.6
+	
+from 2023 (from 2022)
+367.6
+TOTAL
+1,092.0
+Total expenses resulting from these agreements 
+amounted in 2017 to € 163.2 million (previous year: 
+€ 149.9 million) and € 19.9 million (previous year: 
+€ 16.2 million) were sales-dependent.
+As of the balance sheet date, the obligations from 
+future minimum rental payments for operating lease 
+agreements are as follows:
+FURTHER OTHER FINANCIAL OBLIGATIONS
+Furthermore, the Company has other financial obliga-
+tions associated with license, promotional and adver-
+tising agreements, which give rise to the following 
+financial obligations as of the balance sheet date:
+As is customary in the industry, the promotional and 
+advertising agreements provide for additional pay-
+ments on reaching pre-defined goals (e. g. medals, 
+championships). Although these are contractually 
+agreed upon, they naturally cannot be exactly fore-
+seen in terms of their timing and amount.
+In addition, there are other financial obligations 
+totaling € 26.1 million, of which € 13.1 million relate 
+to the years from 2019. These include service agree-
+ments of € 25.5 million and other obligations of 
+€ 0.6 million. 
+29. MANAGING DIRECTORS AND  
+ADMINISTRATIVE BOARD
+Disclosures pursuant to Section 314 (1)(6) of the 
+HGB (German Commercial Code)
+In accordance with the Act on Disclosure of Manage-
+ment Board Compensation of August 3, 2005, the 
+disclosure of the individual earnings of the members 
+of the Board of Management and Managing Directors 
+may be dispensed with for a period of 5 years pur-
+suant to Section 285(9)(a) sentences 5 – 8; Section 
+314 (1)(6)(a) sentences 5 – 8 of the HGB, if the 
+Annual General Meeting passes a resolution in this 
+regard by a 75% majority.
+Pursuant to the resolution of the Annual General 
+Meeting of May 7, 2013, the Company was authorized 
+to refrain from disclosures pursuant to Section 
+285(9)(a) sentences 5 – 8 and Section 314 (1)(6)(a) 
+sentences 5 – 8 of the HGB with respect to the finan-
+cial year beginning on January 1, 2013 and all sub­
+sequent financial years ending December 31, 2017 
+at the latest.
+The Managing Directors and the Administrative 
+Board are of the opinion that the shareholders’ jus-
+tified interest in information is sufficiently ac-
+counted for by the disclosure of the total compensa-
+tion of the Managing Directors. The Administrative 
+Board will ensure that individual compensation is 
+appropriate in accordance with its statutory duties.
+THE MANAGING DIRECTORS
+The compensation of the Managing Directors, which 
+is determined by the Administrative Board, consists 
+of non-performance-based and performance-based 
+components. The non-performance-based compo-
+nents consist of a fixed salary and non-cash compen-
+sation, whereas the performance-based components 
+consist of bonuses and components with a long-term 
+incentive effect. Along with job assignments and per-
+formance of each individual Managing Director, the 
+criteria for calculating the total remuneration are the 
+economic situation, long-term strategic planning and 
+related targets, the long-term durability of targeted 
+results and the company’s long-term prospects.
+A fixed salary is paid out monthly as non-perfor-
+mance-based basic compensation. In addition, the 
+Managing Directors receive non-cash compensa-
+tion, such as company cars, pension contributions 
+and insurance premiums. In principle, these benefits 
+are granted to all Managing Directors in an equal 
+manner and are included in the non-perfor-
+mance-based compensation. The fixed compensa-
+tion for the three Managing Directors amounted to 
+€ 2.1 million in the financial year (previous year: 
+€ 1.9 million). Non-cash compensation totaled 
+€ 0.1 million (previous year: € 0.1 million).
+The bonus component of performance-related com-
+pensation is mainly based on the PUMA Group’s op-
+erating income (EBIT) and free cash flow and is stag-
+gered according to the degree to which targets are 
+met. In addition, qualitative individual goals are set. 
+An upper limit is also agreed. In the financial year, 
+variable bonuses came to € 3.9 million (previous 
+year: € 2.5 million). 
+Pro-rata provisions totaling € 8.4 million (previous 
+year: € 2.1 million) were set up for the existing com-
+pensation program (virtual share/monetary units) 
+with long-term incentives (from the years 2014 to 
+2017) for Managing Directors in financial year 2017 
+according to the vesting periods. Under the perfor-
+mance-based program, 70% of the compensation will 
+be based on the medium-term performance of 
+PUMA SE’s share and 30% will be based on the medi-
+um-term performance of Kering S.A.’s share in rela-
+tion to benchmark companies. Further information on 
+this program can be found in Section 19 of the Notes 
+to the Consolidated Financial Statements. In addition, 
+a payment of € 0.4 million (previous year: € 0.0 mil-
+lion) was made in connection with the Stock Option 
+Program 2012, which expired at the end of April 2017. 
+61 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 62
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+T.67  (in € million)
+DELIVERIES AND SERVICES  
+RENDERED
+DELIVERIES AND SERVICES  
+RECEIVED
+2017
+2016
+2017
+2016
+Artémis-Group consolidated 
+companies
+0.0
+0.0
+0.0
+0.0
+Kering-Group consolidated 
+companies
+3.6
+3.3
+5.7
+6.7
+Other related parties
+0.3
+0.1
+16.6
+16.5
+TOTAL
+3.9
+3.4
+22.4
+23.2
+T.68  (in € million)
+NET RECEIVABLES FROM
+PAYABLES TO
+2017
+2016
+2017
+2016
+Artémis-Group consolidated 
+companies
+0.0
+0.0
+0.0
+0.0
+Kering-Group consolidated 
+companies
+1.3
+1.3
+2.3
+19.7
+Other related parties
+0.1
+0.0
+2.8
+0.1
+TOTAL
+1.4
+1.3
+5.1
+19.8
+Managing Directors have pension commitments as 
+part of deferred compensation, which are paid from 
+the aforementioned performance-based and/or 
+non-performance-based remuneration for which 
+the company has taken out reinsurance for pension 
+commitments. The proportion of the pension capital 
+that is already financed through contributions to the 
+pension liability insurance is deemed to be vested. 
+During the financial year, € 0.4 million was allocated 
+for Managing Directors (previous year: € 0.4 million). 
+The present value of the pension benefits granted to 
+active Managing Directors in the amount of 
+€ 4.5 million as of Sunday, December 31, 2017 (pre-
+vious year: € 2.6 million) was offset against the 
+pledged asset value of the pension liability insurance 
+policy, which was of an equal amount.
+There are performance-based pension obligations 
+to former members of the Board of Management and 
+their widows/widowers amounting to € 3.3 million 
+(previous year: € 3.5 million and contribution-based 
+pension obligations in association with deferred 
+payment from previous members of the Board of 
+Management and Managing Directors of € 10.3 mil-
+lion (previous year: € 10.0 million). Both items are 
+accordingly recognized as liabilities under pension 
+provisions, unless they are offset against asset 
+values of an equal amount. Pension obligations to 
+former members of the Board of Management and 
+their widows/widowers amounted to € 0.2 million 
+(previous year: € 0.2 million).
+ADMINISTRATIVE BOARD
+In accordance with the Articles of Association, the 
+Administrative Board has at least three members; it 
+currently consists of six members. The compensa-
+tion of the Administrative Board is comprised of a 
+fixed and a performance-based component. The 
+total fixed compensation amounted to € 0.3 million 
+(previous year: € 0.3 million).
+In accordance with the Articles of Association, each 
+member of the Administrative Board receives a fixed 
+annual compensation in the amount of € 25.0 thou-
+sand. The fixed compensation is increased by an ad-
+ditional fixed annual amount of € 25.0 thousand for 
+the Chairman of the Administrative Board, 
+€ 12.5 thousand for the Vice-Chairman of the Ad-
+ministrative Board, € 10.0 thousand for each com-
+mittee chairman (excluding the Nominating Com-
+mittee) and € 5.0 thousand for each committee 
+member (excluding the Nominating Committee). 
+In addition, each Administrative Board member re-
+ceives performance-based compensation equal to 
+€ 20.00 for each € 0.01 by which the earnings per share 
+figure exceeds a minimum amount of € 16.00 per 
+share. The performance-based compensation 
+amounts to a maximum of € 10.0 thousand per year. 
+The Chairman of the Administrative Board receives 
+twice this amount (maximum € 20.0 thousand) and the 
+Vice Chairman receives one and a half times this 
+amount (maximum € 15.0 thousand) in compensation. 
+Since earnings per share are below the minimum 
+amount in the financial year, no performance-based 
+compensation will be paid. 
+30. RELATED PARTY RELATIONSHIPS
+In accordance with IAS 24, relationships to related 
+companies and parties that control or are controlled 
+by the PUMA Group must be reported, unless such 
+related parties are already included as consolidated 
+companies in the consolidated financial statements 
+of PUMA SE. Control is defined as the ability to deter-
+mine an entity’s financial and business policies and 
+benefit from its activities.
+At the balance sheet date, SAPARDIS SE, Paris, a 
+wholly owned subsidiary of Kering S.A., holds over 
+75% of the subscribed capital of PUMA SE. Kering S.A. 
+is controlled by Artémis S.A., Paris, which in turn is a 
+wholly-owned subsidiary of Financière Pinault S.C.A., 
+Paris. Consequently, all companies that are directly or 
+indirectly controlled by Artémis S.A. and are not in-
+cluded in the consolidated financial statements of 
+PUMA SE are considered related companies.
+In addition, the disclosure obligation pursuant to IAS 
+24 extends to transactions with associated compa-
+nies as well as transactions with other related com-
+panies and parties. These include non-controlling 
+shareholders in particular. 
+Transactions with related companies and parties 
+largely concern the sale of goods and services. These 
+sales were concluded under normal market condi-
+tions that are also customary with third parties.
+The following overview illustrates the scope of the 
+business relationships:
+63 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 64
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+In addition, dividend payments of € 13.3 million were 
+made to non-controlling shareholders in the finan-
+cial year 2017 (previous year: € 19.3 million).
+Apart from dividend income of € 0.8 million (pre-
+vious year: € 0.7 million) there were no further trans-
+actions with associated companies.
+Receivables from related companies and parties are, 
+with one exception, not subject to value adjustments. 
+Only with respect to the receivables from a non-con-
+trolling shareholder and its group of companies were 
+gross receivables in the amount of € 52.2 million ad-
+justed in value for a subsidiary of PUMA SE in Greece 
+as of December 31, 2017 (previous year: € 52.2 mil-
+lion). As in the previous year, no expenses were re-
+corded in this respect in the financial year 2017. 
+As of December 31, 2017, there were no liabilities to 
+companies included in the Kering Group arising from 
+financing activities (previous year: € 19.0 million). In 
+the previous year, this item was reported under 
+other current financial liabilities. 
+The Managing Directors as well as the members of 
+the Administrative Board of the PUMA Group are re-
+lated parties within the meaning of IAS 24. The ser-
+vices and compensation of this group of individuals 
+is shown in section 29.
+As part of consulting, service and employment con-
+tracts, members of the Administrative Board re-
+ceived compensation from PUMA in the amount of 
+€ 0.1 million (previous year: € 0.3 million). 
+31. CORPORATE GOVERNANCE 
+In November 2017, the Managing Directors and the 
+Administrative Board submitted the required com-
+pliance declaration with respect to the recommen-
+dations issued by the Government Commission 
+German Corporate Governance Code pursuant to 
+Section 161 of the AktG (Aktiengesetz, German 
+Stock Corporation Act) and published it on the Com-
+pany’s website (www.PUMA.com). Please also refer 
+to the Corporate Governance Report in the Combined 
+Management Report of PUMA SE.
+32. EVENTS AFTER THE BALANCE  
+SHEET DATE
+There were no events after the balance sheet date 
+that had any material impact on the net assets, finan-
+cial position and results of operations of the PUMA 
+Group.
+With regard to the future development of PUMA’s 
+shareholder structure, we refer to the ad hoc an-
+nouncement of PUMA SE on January 11, 2018.
+33. DECLARATION BY THE  
+LEGAL REPRESENTATIVES
+We state to the best of our knowledge that the con-
+solidated financial statements give a true and fair 
+view of the net assets, financial position and results 
+of operations of the Group in accordance with the 
+applicable accounting principles and the manage-
+ment report summarized in the management report 
+of the parent company for the 2017 financial year 
+provides a true and fair view of the course of the de-
+velopment and performance of the business and the 
+position of the Group, together with a description of 
+the principal risks and opportunities associated with 
+the expected performance of the Group.
+DATE OF RELEASE 
+The Managing Directors of PUMA SE released the con-
+solidated financial statements on February 9, 2018 
+for distribution to the Administrative Board. The task 
+of the Administrative Board is to review the consoli-
+dated financial statements and state whether it 
+approves them. 
+Herzogenaurach, February 9, 2018
+THE MANAGING DIRECTORS
+Gulden
+Lämmermann
+Sørensen
+65 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 66
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+APPENDIX 1 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+T.69  CHANGES IN FIXED ASSETS 2016 (in € million)
+ PURCHASE COSTS
+ACCUMULATED DEPRECIATION
+CARRYING AMOUNTS
+Balance 
+1/1/2016
+Currency 
+changes 
+and other
+changes
+Additions/
+retransfers
+Changes
+in group of 
+consolidated
+companies
+Disposals
+Balance 
+12/31/2016
+Balance 
+1/1/2016
+Currency 
+changes 
+and other
+changes
+Additions/
+retransfers 1)
+Changes
+in group of 
+consolidated
+companies
+Disposals
+Balance 
+12/31/2016
+Balance 
+12/31/2016
+Balance 
+12/31/2015
+PROPERTY. PLANT AND EQUIPMENT
+Land. land rights and buildings including  
+buildings on third party land
+167.2
+-0.2
+3.0
+ 
+-2.9
+167.1
+-55.6
+-0.1
+-6.0
+ 
+3.0
+-58.8
+108.4
+111.6
+Technical equipment and machines
+18.0
+-1.0
+1.0
+0.2
+-0.4
+17.9
+-6.1
+0.3
+-1.8
+-0.1
+0.3
+-7.5
+10.4
+11.9
+Other equipment. factory and office equipment
+324.0
+7.9
+48.3
+0.9
+-23.6
+357.4
+-218.9
+-3.9
+-40.7
+-0.6
+22.9
+-241.3
+116.1
+105.1
+Payments on account and assets under construction
+4.0
+-2.3
+16.2
+ 
+-0.6
+17.3
+0.0
+0.0
+ 
+ 
+0.0
+0.0
+17.3
+4.0
+TOTAL
+513.2
+4.4
+68.5
+1.1
+-27.6
+559.7
+-280.6
+-3.7
+-48.6
+-0.7
+26.1
+-307.5
+252.1
+232.6
+INTANGIBLE ASSETS
+Goodwill 
+291.4
+2.1
+ 
+3.7
+-0.1
+297.1
+-51.1
+0.0
+ 
+4.3
+ 
+-46.7
+250.4
+240.3
+Intangible fixed assets with an unlimited  
+or indefinite useful life	
+ 
+148.3
+4.3
+ 
+ 
+ 
+152.6
+-17.7
+0.0
+ 
+ 
+ 
+-17.7
+134.9
+130.6
+Other intangible fixed assets
+123.2
+0.8
+15.8
+0.4
+-5.5
+134.7
+-90.8
+-0.6
+-11.3
+0.5
+5.3
+-96.9
+37.8
+32.4
+TOTAL
+562.9
+7.2
+15.8
+4.0
+-5.6
+584.4
+-159.6
+-0.5
+-11.3
+4.8
+5.3
+-161.3
+423.1
+403.3
+1) There was no impairment for fixed assets and intangible assets in the financial year 2016, see chapters 9 and 10.
+T.70  CHANGES IN FIXED ASSETS 2017 (in € million)
+ PURCHASE COSTS
+ACCUMULATED DEPRECIATION
+CARRYING AMOUNTS
+Balance 
+1/1/2017
+Currency 
+changes 
+and other
+changes
+Additions/
+retransfers
+Changes
+in group of 
+consolidated-
+companies
+Disposals
+Baance 
+12/31/2017
+Balance 
+1/1/2017
+Currency 
+changes 
+and other
+changes
+Additions/
+retransfers 2)
+Changes
+in group of 
+consolidated
+companies
+Disposals
+Balance 
+12/31/2017
+Balance 
+12/31/2017
+Balance 
+12/31/2016
+PROPERTY. PLANT AND EQUIPMENT
+Land. land rights and buildings including  
+buildings on third party land
+167.1 
+-8.4 
+2.0 
+ 
+-29.0 
+131.8 
+-58.8
+3.4
+-5.3
+ 
+18.5
+-42.1
+89.7
+108.4
+Technical equipment and machines
+17.9 
+0.4 
+1.9 
+-0.9 
+19.2 
+-7.5
+-0.1
+-2.1
+0.6
+-9.1
+10.1
+10.4
+Other equipment. factory and office equipment
+357.4 
+-21.0 
+62.4 
+ 
+-38.5 
+360.2 
+-241.3
+15.1
+-48.7
+36.6
+-238.2
+122.0
+116.1
+Payments on account and assets under construction
+17.3 
+-4.5 
+25.6 
+ 
+-0.1 
+38.3 
+0.0
+0.0
+ 
+ 
+-0.0
+0.0
+38.3
+17.3
+TOTAL
+559.7 
+-33.6 
+92.0 
+0.0 
+-68.5 
+549.5 
+-307.5
+18.5
+-56.1
+0.0
+55.7
+-289.5
+260.1
+252.1
+INTANGIBLE ASSETS
+Goodwill 
+297.1 
+-8.9 
+ 
+ 
+ 
+288.2 
+-46.7 
+0.4 
+ 
+ 
+ 
+-46.3 
+241.9 
+250.4 
+Intangible fixed assets with an unlimited  
+or indefinite useful life	
+ 
+152.6 
+-16.3 
+ 
+ 
+ 
+136.3 
+-17.7 
+ 
+ 
+ 
+ 
+-17.7
+118.5 
+134.9
+Other intangible fixed assets
+134.7 
+-3.6 
+31.0 
+ 
+-6.1 
+156.0 
+-96.9 
+2.9 
+-14.3 
+ 
+4.6 
+-103.7 
+52.4
+37.8
+TOTAL
+584.4 
+-28.8 
+31.0 
+0.0 
+-6.1 
+580.5 
+-161.3 
+3.3 
+-14.3 
+0.0
+4.6 
+-167.7 
+412.8 
+423.1
+2) There was no impairment for fixed assets and intangible assets in the financial year 2017, see chapters 9 and 10.	
+67 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 68
+CONSOLIDATED FINANCIAL STATEMENTS  | APPENDIX 1 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | APPENDIX 1 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+APPENDIX 3 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+ADMINISTRATIVE BOARD
+JEAN-FRANÇOIS PALUS 
+(Chairman) 
+London, United Kingdom  
+Group Managing Director and member of the  
+Administrative Board of Kering S.A., Paris/France,  
+responsible for Strategy, Operations and 
+Organization
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Kering Americas, Inc., New York/USA
+∆	 Volcom, LLC., Costa Mesa/USA
+∆	 Kering Tokyo Investment Ltd., TokyowJapan
+∆	 Pomellato S.p.A, Milan/Italy
+∆	 Volcom Luxembourg Holding S.A.,  
+Luxembourg/Luxembourg
+∆	 Sowind Group S.A., La Chaux-de-Fonds/
+Switzerland
+∆	 Guccio Gucci SpA., Florence/Italy
+∆	 Gucci America, Inc., New York/USA
+∆	 Christopher Kane Ltd., London/United Kingdom
+∆	 Manufacture et fabrique de montres et  
+chronomètres Ulysse Nardin Le Locle S.A.,  
+Le Locle/Switzerland
+∆	 Kering Eyewear S.p.A., Padua/Italy
+∆	 Yugen Kaisha Gucci LLC, Tokyo/Japan
+∆	 Birdswan Solutions Ltd., Haywards Heath/ 
+West Sussex/United Kingdom
+∆	 Paintgate Ltd., Haywards Heath/ 
+West Sussex/United Kingdom
+∆	 Stella McCartney Ltd., Haywards Heath/ 
+West Sussex/United Kingdom
+∆	 Kering Asia Pacific Ltd., Hong Kong/China
+∆	 Kering South East Asia PTE Ltd.,  
+Singapore/Singapore 
+∆	 Altuzarra LLC, New York/USA
+∆	 Tomas Maier Holding LLC, New York/USA
+∆	 Tomas Maier Distribution LLC, New York/USA
+∆	 Tomas Maier LLC, New York/USA
+FRANÇOIS-HENRI PINAULT
+(Deputy Chairman until April 12, 2017) 
+Paris, France 
+CEO and Chairman of the Administrative Board of 
+Kering S.A., Paris/France  
+Member until April 12, 2017
+ 
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Artémis S.A., Paris/France
+∆	 Collection Pinault, Paris/France
+∆	 Financière Pinault S.C.A., Paris/France
+∆	 Société Civile du Vignoble de Château  
+Latour S.C., Pauillac/France
+∆	 Sonova Mangement (SAS), Paris/France
+∆	 Sonova SCS, Paris/France
+∆	 Soft Computing S.A., Paris/France
+∆	 Yves Saint Laurent S.A.S., Paris/France
+∆	 Sapardis SE, Paris/France
+∆	 Volcom, LLC, Costa Mesa/USA
+∆	 Stella McCartney Ltd., Haywards Heath/ 
+West Sussex/United Kingdom
+∆	 Kering International Ltd., London/ 
+United Kingdom
+∆	 Manufacture et fabrique de montres et  
+chronomètres Ulysse Nardin Le Locle S.A.,  
+Le Locle/Switzerland 
+∆	 Kering Eyewear S.p.A., Padua/Italy
+∆	 Kering UK Services Ltd., London/United Kingdom
+∆	 Bucheron Holding SAS, Paris/France
+APPENDIX 2 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+MANAGING DIRECTORS
+MICHAEL LÄMMERMANN
+Chief Financial Officer (CFO)
+LARS RADOOR SØRENSEN
+Chief Operating Officer (COO)  
+ 
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Scandinavian Brake Systems A/S, Svendborg/Denmark
+∆	 Hoyer Group A/S, Copenhagen/Denmark
+BJØRN GULDEN
+Chief Executive Officer (CEO) 
+ 
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Tchibo GmbH, Hamburg/Germany
+∆	 Borussia Dortmund GmbH & Co. KGaA,  
+Dortmund/Germany
+∆	 Dansk Supermarked A/S, Højbjerg/Denmark
+∆	 Pandora A/S, Copenhagen/Denmark
+69 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 70
+CONSOLIDATED FINANCIAL STATEMENTS  | APPENDIX 3 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | APPENDIX 2 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+THORE OHLSSON
+(Deputy Chairman since April 12, 2017) 
+Falsterbo, Sweden 
+President of Elimexo AB, Falsterbo/Sweden 
+ 
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Docktricks AB, Uppsala/Sweden
+∆	 Elite Hotels AB, Stockholm/Sweden
+∆	 Tomas Frick AB, Vellinge/Sweden
+∆	 Tjugonde AB, Malmö/Sweden
+∆	 Dahlqvists Fastighetsförvaltning AB,  
+Kristianstad/Sweden
+TODD HYMEL
+Santa Ana, USA 
+Chief Executive Officer (CEO) of Volcom LLC,  
+Costa Mesa/USA 
+Member until April 12, 2017
+JEAN-MARC DUPLAIX
+Paris, France 
+Chief Financial Officer (CFO) of Kering S.A.,  
+Paris/France 
+ 
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Sapardis SE, Paris/France, 
+∆	 Redcats S.A., Paris/France
+∆	 E_lite S.p.A., Milan/Italy
+∆	 Kering Italia S.p.A., Florence/Italy
+∆	 Pomellato S.p.A., Milan/Italy
+∆	 Kering Japan Ltd., Tokyo/Japan
+∆	 Kering Tokyo Investment Ltd., Tokyo/Japan
+∆	 Kering Luxembourg S.A.,  
+Luxembourg/Luxembourg
+∆	 Qeelin Holding Luxembourg S.A.,  
+Luxembourg/Luxembourg
+∆	 E-Kering Lux S.A., Luxembourg/Luxembourg
+∆	 Luxury Fashion Luxembourg S.A.,  
+Luxembourg/Luxembourg
+∆	 Kering Spain S.L. (previously named  
+Noga Luxe S.L.), Barcelona/Spain
+∆	 Kering Eyewear S.p.A., Padua/Italy
+∆	 GPo Holding S.A.S., Paris/France
+∆	 Design Management Srl, Florence/Italy
+∆	 Design Management 2 Srl, Florence/Italy
+∆	 Kering Studio S.A.S., Paris/France
+∆	 Balenciaga Asia Pacific Ltd., Hong Kong/China
+∆	 Kering Eyewear Japan Ltd., Tokyo/Japan
+∆	 Redcats International Holding S.A.S.,  
+Paris/France
+∆	 Redcats Management Services S.A.S.,  
+Paris/France
+∆	 Balenciaga S.A., Paris/France
+∆	 Kering Investments Europe B.V.,  
+Amsterdam/Netherlands 
+∆	 Altuzarra LLC, New York/USA
+BÉATRICE LAZAT, 
+Paris, France 
+Human Resources Director, Kering S.A.,  
+Paris/France  
+ 
+Membership of other supervisory boards and  
+controlling bodies:
+∆	 Sapardis SE, Paris/France
+∆	 Castera S.A.R.L., Luxembourg/Luxembourg
+∆	 Luxury Goods Services S.A., Cadempino/
+Switzerland
+∆	 Augustin S.A.R.L., Paris/France
+∆	 Prodistri S.A., Paris/France
+∆	 Conseil et Assistance S.N.C., Paris/France
+MARTIN KÖPPEL
+(Employees’ Representative) 
+Weisendorf, Germany 
+Chairman of the Works Counsel of PUMA SE
+GERNOT HEINZEL
+(Employees’ Representative) 
+Hausen, Germany 
+Key Account Manager Shoe Chains  
+Germany South  
+Member since April 12, 2017
+BERND ILLIG
+(Employees’ Representative) 
+Bechhofen, Germany 
+Administrator IT Systems of PUMA SE 
+Member until April 12, 2017
+GUY BUZZARD
+(Employees’ Representative) 
+West Kirby, United Kingdom 
+Field Account Manager at PUMA  
+United Kingdom Ltd. 
+Member until March 12, 2017
+ADMINISTRATIVE BOARD COMMITTEES
+PERSONNEL COMMITTEE
+Jean-François Palus (Chairman)
+Béatrice Lazat
+Martin Köppel
+AUDIT COMMITTEE
+Thore Ohlsson (Chairman)
+Jean-Marc Duplaix
+Gernot Heinzel
+SUSTAINABILITY COMMITTEE
+Jean-François Palus (Chairman)
+Béatrice Lazat
+Martin Köppel
+NOMINATING COMMITTEE
+Jean-François Palus (Chairman)
+Jean-Marc Duplaix
+Béatrice Lazat
+This is a translation of the German version. In case of doubt, the German version shall apply.
+71 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 72
+CONSOLIDATED FINANCIAL STATEMENTS  | APPENDIX 3 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED FINANCIAL STATEMENTS  | APPENDIX 3 OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+TO PUMA SE, HERZOGENAURACH
+REPORT ON THE AUDIT OF THE CONSOLIDATED 
+FINANCIAL STATEMENTS AND OF THE COMBINED 
+MANAGEMENT REPORT
+AUDIT OPINIONS
+We have audited the consolidated financial state-
+ments of PUMA SE, Herzogenaurach and its subsid-
+iaries (the Group), which comprise the consolidated 
+balance sheet as of December 31, 2017 the consoli-
+dated income statement, the consolidated state-
+ment of comprehensive income, the consolidated 
+statement of changes in equity and the consolidated 
+cash flow statement for the financial year from Jan-
+uary 1 to December 31, 2017 as well as the notes to 
+the consolidated financial statements, including a 
+summary of significant accounting policies. In addi-
+tion, we have audited the combined management re-
+port of PUMA SE for the financial year from January 
+1 to December 31, 2017. In accordance with the 
+German legal requirements, we have not audited the 
+content of those parts of the notes to the consoli-
+dated financial statements and of the combined 
+management report as specified in the Chapter 
+Other information of our independent auditor´s 
+report.
+In our opinion, on the basis of the knowledge obtained 
+in the audit
+∆	 the accompanying consolidated financial state-
+ments comply, in all material respects, with the 
+International Financial Reporting Standards 
+(IFRS) as adopted by the EU and the additional 
+requirements of German commercial law pur-
+suant to Section 315e (1) German Commercial 
+Code (HGB) and, in compliance with these  
+requirements, give a true and fair view of the  
+assets, liabilities and financial position of the 
+Group as of December 31, 2017 and of its finan-
+cial performance for the financial year from  
+January 1 to December 31, 2017 and
+∆	 the accompanying combined management re-
+port as a whole provides an appropriate view of 
+the Group’s position. In all material respects, this 
+combined management report is consistent with 
+the consolidated financial statements, complies 
+with German legal requirements and appropri-
+ately presents the opportunities and risks of  
+future development. 
+we do not provide a separate audit opinion on these 
+matters.
+In the following we present the key audit matters we 
+have determined in the course of our audit:
+1. Recoverability of goodwill
+2. Recoverability of the COBRA brand
+3. Deferred taxes on tax loss carry forwards
+Our presentation of these key audit matters has been 
+structured as follows:
+a. Description (including reference to corresponding in-
+formation in the consolidated financial statements)
+b. Auditor’s response
+1. RECOVERABILITY OF GOODWILL
+a. The consolidated financial statements of PUMA SE 
+show goodwill in the amount of € 241.9 million 
+corresponding to approximately 8.5% of the con-
+solidated balance sheet total or 14.6% of the 
+group equity.
+Each financial year or in case of respective signs of 
+impairment, goodwill is subject to impairment 
+tests. The impairment tests are performed by 
+PUMA SE by applying the discounted cash flow 
+method. The valuation is based on the present 
+values of the future cash flows. The company’s 
+valuation model is based on future cash flows, 
+which are in turn based on the effective three-year 
+plan and valid at the date of the impairment test. 
+This detailed planning phase is extended with the 
+assumption of long-term growth rates. The dis-
+counting is performed using the weighted average 
+cost of capital (WACC). Here, the realizable 
+amount is determined on the basis of the value in 
+use and a possible need for impairment is deter-
+mined by comparing the value in use with the car-
+rying amount. 
+The outcome of this valuation highly depends on the 
+managing directors’ assessment of future cash 
+flows, the WACC rate applied and the long-term 
+growth rate and therefore involves uncertainties 
+and discretion. Thus, the assessment of the recov-
+erability of the goodwill was classified as a key audit 
+matter within the scope of our audit. 
+Our audit opinions on the consolidated financial 
+statements and on the combined management re-
+port do not cover the content of those parts of the 
+notes to the consolidated financial statements and 
+of the combined management report as specified in 
+the Chapter Other information of our independent 
+auditor´s report.
+Pursuant to Section 322 (3) Sentence 1 German 
+Commercial Code (HGB), we declare that our audit 
+has not led to any reservations relating to the legal 
+compliance of the consolidated financial statements 
+and of the combined management report.
+BASIS FOR THE AUDIT OPINIONS
+We conducted our audit of the consolidated financial 
+statements and of the combined management 
+report in accordance with Section 317 German Com-
+mercial Code (HGB) and the EU Audit Regulation (No. 
+537/2014; referred to subsequently as EU Audit 
+Regulation) and in compliance with German Gener-
+ally Accepted Standards for Financial Statement 
+Audits promulgated by the Institut der Wirtschafts-
+prüfer (IDW). Our responsibilities under those 
+requirements and principles are further described in 
+the Auditor’s Responsibilities for the Audit of the 
+Consolidated Financial Statements and of the Com-
+bined Management Report section of our auditor’s 
+report. We are independent of the group entities in 
+accordance with the requirements of European law 
+and German commercial and professional law and 
+we have fulfilled our other German professional 
+responsibilities in accordance with these require-
+ments. In addition, in accordance with Article 10 (2) 
+Point (f) of the EU Audit Regulation, we declare that 
+we have not provided non-audit services prohibited 
+under Article 5 (1) of the EU Audit Regulation. We 
+believe that the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our 
+audit opinions on the consolidated financial state-
+ments and on the combined management report.
+KEY AUDIT MATTERS IN THE AUDIT OF THE  
+CONSOLIDATED FINANCIAL STATEMENTS
+Key audit matters are those matters that, in our pro-
+fessional judgment, were of most significance in our 
+audit of the consolidated financial statements for 
+the financial year from January 1 to December 31, 
+2017. These matters were addressed in the context 
+of our audit of the consolidated financial statements 
+as a whole and in forming our audit opinion thereon; 
+Information on the goodwill, provided by the man-
+aging directors, is disclosed in Chapter 2 Significant 
+Consolidation, Accounting and Valuation Principles 
+and in Chapter 10 Intangible Assets of the notes to 
+the consolidated financial statements.
+b. Within the scope of our audit, we gained an under-
+standing of the systematic approach applied when 
+performing the impairment test. We assessed 
+whether the valuation model adequately presents 
+the requirements of the relevant standards, 
+whether the necessary input data are completely 
+and accurately determined and whether the cal-
+culations within the model are performed cor-
+rectly. We satisfied ourselves of the appropriate-
+ness of the future cash flows used for the compu-
+tation by reconciling these cash flows particularly 
+with the effective three-year plan as well as by in-
+terviewing the managing directors with regard to 
+the material assumptions underlying this plan. In 
+addition, we performed a critical assessment of 
+the plan under consideration of general and 
+industry-­specific market expectations.
+Since a material portion of the value in use results 
+from the forecasted cash flows for the period 
+after the three-year plan (phase of perpetuity), we 
+in particular critically assessed the sustainable 
+growth rate used within the perpetuity phase by 
+means of general and industry-specific market 
+expectations. Since relatively low changes of the 
+discounting rate may materially affect the amount 
+of the realizable value, we have also checked the 
+parameters used when determining the WACC rate 
+involving internal valuation experts from the fi-
+nancial advisory sector and reproduced the com-
+putation scheme.
+Due to the material significance and taking into 
+account the fact that the assessment of the good-
+will also depends on the economic framework con-
+ditions that cannot be influenced by the Group, we 
+performed in addition a critical assessment of the 
+sensitivity analyses performed by PUMA SE for the 
+cash-generating units (so-called CGUs) with low 
+headroom (present values compared to the car-
+rying amount) in order to be able to assess a pos-
+sible impairment risk in case of change of a mate-
+rial valuation assumption. 
+INDEPENDENT AUDITOR’S REPORT
+73 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 74
+CONSOLIDATED FINANCIAL STATEMENTS  | INDEPENDENT AUDITOR’S REPORT
+CONSOLIDATED FINANCIAL STATEMENTS  | INDEPENDENT AUDITOR’S REPORT
+
+2. RECOVERABILITY OF THE COBRA BRAND
+a. The consolidated financial statements of PUMA SE 
+disclose for the COBRA brand a brand value of 
+€ 118.6 million corresponding to approximately 
+4.2% of the consolidated balance sheet total or 
+7.2% of the group equity. 
+The COBRA brand is subject to an impairment test 
+conducted annually or in case of a triggering 
+event. The impairment test is conducted by 
+PUMA  SE based on the relief from royalty method. 
+According to this approach, the value of the brand 
+results from future royalty that a company would 
+have to pay for the use of the brand if they had to 
+license it. The approach uses forecasted revenue 
+generated with the COBRA brand based on the ef-
+fective three-year plan, valid at the time the im-
+pairment test is conducted. Subsequently, the 
+projection period is extended assuming long-term 
+growth rates. The discounting is performed by 
+means of the weighted average cost of capital 
+(WACC). The recoverable amount and the need for 
+impairment is determined by comparing the value 
+in use with the carrying amount.
+The outcome of this valuation highly depends on 
+the managing directors’ assumption of future rev-
+enue to be generated with the COBRA brand, the 
+royalty rate and the long-term growth rate as well 
+as the WACC rate applied and therefore involves 
+uncertainties and discretion. Thus, the assess-
+ment of the recoverability of the COBRA brand was 
+classified as key audit matter within the scope of 
+our audit.
+Information on the COBRA brand, provided by the 
+managing directors, is disclosed in Chapter 2 Sig-
+nificant Consolidation, Accounting and Valuation 
+Principles and in Chapter 10 Intangible Assets of 
+the notes to the consolidated financial state- 
+ments.
+b. Within the scope of our audit, we gained an under-
+standing of the systematic approach applied to the 
+impairment test. We assessed whether the valua-
+tion model adequately reflects the concept re-
+quirements of the relevant standards, whether the 
+necessary input data are completely and accu-
+rately determined and whether the calculations ap-
+plied to the model are made correctly. We satisfied 
+Information on the deferred tax assets on tax loss 
+carry forwards, provided by the managing direc-
+tors, is disclosed in Chapter 2 Significant Consoli-
+dation, Accounting and Valuation Principles and in 
+Chapter 8 Deferred Taxes of the notes to the con-
+solidated financial statements.
+b. Within the scope of our audit of the tax facts, we 
+assessed the recognition and valuation of the de-
+ferred taxes under involvement of our internal tax 
+experts. In doing so, we evaluated the established 
+internal processes and controls for the recogni-
+tion of tax facts as well as for the determination of 
+the tax loss carry forwards. We assessed the re-
+coverability of the deferred tax assets on tax loss 
+carry forwards based on the current corporate 
+plan and internal forecasts taking into account 
+the future tax income situation of the concerned 
+group companies and valued the appropriateness 
+of the applied assumptions. Furthermore, we re-
+produced the reconciliation of the taxable income 
+and the arithmetical correctness. In addition, we 
+checked the completeness and accuracy of the 
+disclosures required under IAS 12. 
+OTHER INFORMATION
+The managing directors are responsible for the other 
+information. The other information comprises:
+∆	 the Group’s statement on corporate governance 
+pursuant to Section 315d German Commercial 
+Code (HGB) specified in Chapter Corporate  
+Governance Report including the Statement on 
+Corporate Governance of the combined manage-
+ment report,
+∆	 the corporate governance report pursuant to No. 
+3.10 of the German Corporate Governance Code 
+specified in Chapter Corporate Governance  
+Report including the Statement on Corporate 
+Governance of the combined management report,
+∆	 the managing directors’ confirmation relating to 
+the consolidated financial statements and to the 
+combined management report pursuant to  
+Section 297 (2) Sentence 4 and Section 315 (1) 
+Sentence 5 German Commercial Code (HGB),  
+respectively, as included in the notes to the  
+consolidated financial statements,
+∆	 the combined non-financial report which will  
+be published after the issuance of this auditor´s  
+report and
+ourselves of the appropriateness of the assumed 
+future revenue underlying the computation 
+(COBRA branded sales) by reconciling these sales 
+particularly with the effective three-year plan as 
+well as by interviewing the managing directors 
+with regard to the material assumptions under-
+lying this plan. In addition, we performed a critical 
+assessment of the plan taking into account gen-
+eral and industry-specific market expectations. 
+Since a material portion of the value in use results 
+from the forecasted revenue for the period fol-
+lowing the three-year plan (phase of perpetuity), 
+we particularly reviewed the sustainable growth 
+rate applied to the perpetuity phase by means of 
+general and industry-specific market expecta-
+tions. As even relatively small changes of the ex-
+pected royalty rate and the used discount rate 
+may have a material effect on the value in use, we 
+also assessed the parameters involved in the as-
+sumed royalty rate and determination of the 
+discount rate involving internal valuation experts 
+from the financial advisory sector and recal­
+culated the computation scheme. Additionally, we 
+reviewed the applied royalty rate based on 
+industry-­specific average rates. 
+Due to the material significance and as the mea-
+surement of the brand also depends on general 
+economic conditions that are beyond the Group’s 
+control, we additionally reviewed the sensitivity 
+analyses concerning the COBRA brand originally 
+conducted by PUMA SE in order to be able to deter-
+mine a potential impairment risk in case a material 
+assumption underlying the measurement changes.
+3. DEFERRED TAXES ON TAX LOSS CARRY FORWARDS
+a. Within the consolidated financial statements of 
+PUMA SE, the deferred tax assets include a total 
+amount of € 92.2 million for tax losses carried for-
+ward. The Group assesses the future utilization of 
+the tax losses carried forward based on the tax plans 
+for the respective companies. The tax plan is derived 
+from the corporate plan prepared by the managing 
+directors. From our point of view, the deferred tax 
+assets were of special importance, since the corpo-
+rate plan as basis for the recoverability of the de-
+ferred tax assets strongly depends on the assess-
+ment and assumptions of the managing directors 
+and is thus subject to uncertainties and discretion. 
+∆	 the remaining parts of the Annual Report which 
+will be published after the issuance of this audi-
+tor´s report, with the exception of the audited 
+consolidated financial statements and com-
+bined management report and our auditor’s 
+report.
+Our audit opinions on the consolidated financial 
+statements and on the combined management report 
+do not cover the other information and consequently 
+we do not express an audit opinion or any other form 
+of assurance conclusion thereon.
+In connection with our audit, our responsibility is 
+to read the other information and, in so doing, to 
+consider whether the other information
+∆	 is materially inconsistent with the consolidated 
+financial statements, with the combined  
+management report or our knowledge obtained 
+in the audit or
+∆	 otherwise appears to be materially misstated. 
+RESPONSIBILITIES OF THE MANAGING DIRECTORS 
+AND THE ADMINISTRATIVE BOARD FOR THE  
+CONSOLIDATED FINANCIAL STATEMENTS AND THE 
+COMBINED MANAGEMENT REPORT
+The managing directors are responsible for the 
+preparation of the consolidated financial state-
+ments that comply, in all material respects, with 
+IFRSs as adopted by the EU and the additional re-
+quirements of German commercial law pursuant to 
+Section 315e (1) German Commercial Code (HGB) 
+and that the consolidated financial statements, in 
+compliance with these requirements, give a true and 
+fair view of the assets, liabilities, financial position 
+and financial performance of the Group. In addition, 
+the managing directors are responsible for such in-
+ternal control as they have determined necessary to 
+enable the preparation of consolidated financial 
+statements that are free from material misstate-
+ment, whether due to fraud or error. 
+In preparing the consolidated financial statements, 
+the managing directors are responsible for assessing 
+the Group’s ability to continue as a going concern. 
+They also have the responsibility for disclosing, as ap-
+plicable, matters related to going concern. In addition, 
+they are responsible for financial reporting based on 
+the going concern basis of accounting unless there is 
+75 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 76
+CONSOLIDATED FINANCIAL STATEMENTS  | INDEPENDENT AUDITOR’S REPORT
+CONSOLIDATED FINANCIAL STATEMENTS  | INDEPENDENT AUDITOR’S REPORT
+
+an intention to liquidate the Group or to cease opera-
+tions or there is no realistic alternative but to do so.
+Furthermore, the managing directors are respon-
+sible for the preparation of the combined manage-
+ment report that, as a whole, provides an appro-
+priate view of the Group’s position and is, in all mate-
+rial respects, consistent with the consolidated 
+financial statements, complies with German legal 
+requirements and appropriately presents the oppor-
+tunities and risks of future development. In addition, 
+the managing directors are responsible for such ar-
+rangements and measures (systems) as they have 
+considered necessary to enable the preparation of a 
+combined management report that is in accordance 
+with the applicable German legal requirements and 
+to be able to provide sufficient appropriate evidence 
+for the assertions in the combined management 
+report.
+The Administrative Board is responsible for over-
+seeing the Group’s financial reporting process for 
+the preparation of the consolidated financial state-
+ments and of the combined management report.
+AUDITOR’S RESPONSIBILITIES FOR THE AUDIT OF THE 
+CONSOLIDATED FINANCIAL STATEMENTS AND OF THE 
+COMBINED MANAGEMENT REPORT
+Our objectives are to obtain reasonable assurance 
+about whether the consolidated financial state-
+ments as a whole are free from material misstate-
+ment, whether due to fraud or error and whether the 
+combined management report as a whole provides 
+an appropriate view of the Group’s position and, in all 
+material respects, is consistent with the consoli-
+dated financial statements and the knowledge ob-
+tained in the audit, complies with the German legal 
+requirements and appropriately presents the oppor-
+tunities and risks of future development, as well as 
+to issue an auditor’s report that includes our audit 
+opinions on the consolidated financial statements 
+and on the combined management report.
+Reasonable assurance is a high level of assurance, 
+but is not a guarantee that an audit conducted in ac-
+cordance with Section 317 German Commercial 
+Code (HGB) and the EU Audit Regulation and in com-
+pliance with German Generally Accepted Standards 
+for Financial Statement Audits promulgated by the 
+Institut der Wirtschaftsprüfer (IDW) will always de-
+tect a material misstatement. Misstatements can 
+arise from fraud or error and are considered material 
+∆	 Evaluate the overall presentation, structure and 
+content of the consolidated financial statements, 
+including the disclosures and whether the consol-
+idated financial statements present the under-
+lying transactions and events in a manner that 
+the consolidated financial statements give a true 
+and fair view of the assets, liabilities, financial po-
+sition and financial performance of the Group in 
+compliance with IFRSs as adopted by the EU and 
+with the additional requirements of German com-
+mercial law pursuant to Section 315e (1) German 
+Commercial Code (HGB).
+∆	 Obtain sufficient appropriate audit evidence re-
+garding the financial information of the entities or 
+business activities within the Group to express 
+audit opinions on the consolidated financial 
+statements and on the combined management 
+report. We are responsible for the direction, su-
+pervision and performance of the group audit. We 
+remain solely responsible for our audit opinions.
+∆	 Evaluate the consistency of the combined man-
+agement report with the consolidated financial 
+statements, its conformity with German law  
+and the view of the Group’s position it provides.
+∆	 Perform audit procedures on the prospective 
+information presented by the executive direc-
+tors in the combined management report. On the 
+basis of sufficient appropriate audit evidence we 
+evaluate, in particular, the significant assump-
+tions used by the executive directors as a basis 
+for the prospective information and evaluate the 
+proper derivation of the prospective information 
+from these assumptions. We do not express a 
+separate audit opinion on the prospective infor-
+mation and on the assumptions used as a basis. 
+There is a substantial unavoidable risk that  
+future events will differ materially from the  
+prospective information.
+We communicate with those charged with gover-
+nance regarding, among other matters, the planned 
+scope and timing of the audit and significant audit 
+findings, including any significant deficiencies in 
+internal control that we identify during our audit.
+We also provide those charged with governance with 
+a statement that we have complied with the relevant 
+independence requirements and communicate with 
+them all relationships and other matters that may 
+reasonably be thought to bear on our independence 
+and where applicable, the related safeguards.
+if, individually or in the aggregate, they could reason-
+ably be expected to influence the economic deci-
+sions of users taken on the basis of these consoli-
+dated financial statements and this combined man-
+agement report.
+We exercise professional judgment and maintain pro-
+fessional skepticism throughout the audit. We also:
+∆	 Identify and assess the risks of material mis-
+statement of the consolidated financial state-
+ments and of the combined management report, 
+whether due to fraud or error, design and per-
+form audit procedures responsive to those risks 
+and obtain audit evidence that is sufficient and 
+appropriate to provide a basis for our audit opin-
+ions. The risk of not detecting a material mis-
+statement resulting from fraud is higher than 
+for one resulting from error, as fraud may involve 
+collusion, forgery, intentional omissions,  
+misrepresentations or the override of internal 
+control.
+∆	 Obtain an understanding of internal control rele-
+vant to the audit of the consolidated financial 
+statements and of arrangements and measures 
+relevant to the audit of the combined manage-
+ment report in order to design audit procedures 
+that are appropriate in the circumstances, but 
+not for the purpose of expressing an audit 
+opinion on the effectiveness of these systems.
+∆	 Evaluate the appropriateness of accounting  
+policies used by the managing directors and the 
+reasonableness of estimates made by the  
+managing directors and related disclosures.
+∆	 Conclude on the appropriateness of the managing 
+directors’ use of the going concern basis of  
+accounting and, based on the audit evidence  
+obtained, whether a material uncertainty exists 
+related to events or conditions that may cast sig-
+nificant doubt on the Group’s ability to continue 
+as a going concern. If we conclude that a material 
+uncertainty exists, we are required to draw atten-
+tion in the auditor’s report to the related disclo-
+sures in the consolidated financial statements 
+and in the combined management report or, if 
+such disclosures are inadequate, to modify our 
+respective audit opinions. Our conclusions are 
+based on the audit evidence obtained up to the 
+date of our auditor’s report. However, future 
+events or conditions may cause the Group to 
+cease to be able to continue as a going concern.
+From the matters communicated with those charged 
+with governance, we determine those matters that 
+were of most significance in the audit of the consoli-
+dated financial statements of the current period and 
+are therefore the key audit matters. We describe 
+these matters in our auditor’s report unless law or 
+regulation precludes public disclosure about the 
+matter.
+OTHER LEGAL AND REGULATORY REQUIREMENTS
+Further information pursuant to Article 10 of the EU 
+Audit Regulation
+We were elected as group auditor by the annual gen-
+eral meeting on April 12, 2017. We were engaged by 
+the administrative board on October 20, 2017. We 
+have been the group auditor of PUMA SE, Herzoge-
+naurach, without interruption, since the financial 
+year 2012.
+We declare that the audit opinions expressed in this 
+auditor’s report are consistent with the additional re-
+port to the audit committee pursuant to Article 11 of 
+the EU Audit Regulation (long form audit report).
+GERMAN PUBLIC AUDITOR RESPONSIBLE  
+FOR THE ENGAGEMENT
+The German Public Auditor responsible for the 
+engagement is Stefan Otto.
+Munich, February 9, 2018
+Deloitte GmbH 
+Wirtschaftsprüfungsgesellschaft
+Otto 
+Wirtschaftsprüfer 
+(German Public Auditor)
+Stadter 
+Wirtschaftsprüfer 
+(German Public Auditor)
+77 |   PUMA Annual Report 2017
+PUMA Annual Report 2017  | 78
+CONSOLIDATED FINANCIAL STATEMENTS  | INDEPENDENT AUDITOR’S REPORT
+CONSOLIDATED FINANCIAL STATEMENTS  | INDEPENDENT AUDITOR’S REPORT

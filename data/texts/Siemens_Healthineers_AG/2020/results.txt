@@ -1,0 +1,2545 @@
+Siemens Healthineers AG
+Annual financial 
+statements as of 
+September 30,
+2020
+siemens-healthineers.com
+
+Table of content
+Combined Management Report
+The Management Report of Siemens Healthineers AG has been combined with the Management Report of the Siemens Healthineers 
+Group in accordance with Section 315 para. 5 together with Section 298 para. 2 of the German Commercial Code (Handelsgesetzbuch) 
+and is published in the 2020 Annual Report of the Siemens Healthineers Group.
+The Annual Financial Statements and the Combined Management Report of Siemens Healthineers AG for the fiscal year 2020 are filed 
+with the operator of the German Federal Gazette and published in the German Federal Gazette.
+The Annual Financial Statements of Siemens Healthineers AG as well as the Annual Report for the fiscal year 2020 are also available for 
+download on the Internet at:
+www.corporate.siemens-healthineers.com/investor-relations/presentations-financial-publications
+A. Annual financial 
+statements
+B. Additional 
+Information
+S. 4
+S. 23
+A.1
+Income Statement
+B.1
+Responsibility Statement
+S. 5
+S. 24
+A.2
+Balance Sheet
+B.2
+Independent Auditor’s 
+Report
+S. 6
+S. 28
+A.3
+Notes
+B.3
+Further Information
+
+03
+A.
+Annual financial 
+statements
+S. 4
+A.1
+Income Statement
+S. 5
+A.2
+Balance Sheet
+S. 6
+A.3
+Notes
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Income Statement
+04
+A.1 Income Statement
+Fiscal year
+Fiscal year
+(in millions of €)
+Notes
+2020
+2019
+Revenue
+1
+16
+14
+Cost of Sales
+−15
+−13
+Gross profit
+1
+1
+General administrative expenses
+−27
+−23
+Other operating income
+2
+1
+6
+Other operating expenses
+2
+−29
+0
+Income from operations
+−54
+−16
+Income from investments
+3
+1,535
+1,415
+Interest income
+0
+0
+Interest expenses
+4
+−18
+−9
+Other financial income (expenses), net
+5
+−1
+−1
+Income from business activity
+1,463
+1,389
+Income taxes
+6
+−327
+−356
+Income after taxes / Net income
+1,135
+1,034
+Appropriation of net income
+Net income
+1,135
+1,034
+Profit carried forward
+259
+24
+Unappropriated net income
+1,394
+1,057
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Balance Sheet
+05
+A.2 Balance Sheet
+Sept 30,
+Sept 30,
+(in millions of €)
+Notes
+2020
+2019
+Assets
+Non-current assets 
+7
+19,209
+16,185
+Property, plant and equipment 
+0
+0
+Financial assets
+19,209
+16,185
+Current assets
+1,583
+1,529
+Receivables and other assets
+8
+1,583
+1,524
+Receivables from affiliated companies
+1,508
+1,428
+Other receivables and other assets
+75
+96
+Cash and cash equivalents
+0
+4
+Prepaid expenses
+9
+45
+33
+Active difference resulting from offsetting
+0
+‐
+Total assets
+20,837
+17,747
+Shareholders´ equity and liabilities 
+Shareholders´ equity
+11
+15,868
+12,811
+Subscribed capital
+1,075
+1,000
+Treasury shares
+−1
+−1
+Issued capital
+1,074
+999
+Capital reserve
+13,400
+10,754
+Unappropriated net income
+1,394
+1,057
+Provisions
+217
+162
+Provision for pensions and similar commitments
+12
+22
+19
+Other provisions
+13
+195
+143
+Liabilities
+14
+4,752
+4,774
+Trade payables
+7
+0
+Liabilities to affiliated companies
+4,740
+4,759
+Other liabilities
+5
+15
+Total shareholders´ equity and liabilities
+20,837
+17,747
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+06
+A.3 Notes
+A.3.1 General Disclosures
+Siemens Healthineers AG has its registered office in Munich, 
+Germany, where it is registered under number HRB 237558 in the 
+register of the Munich Local Court. 
+The Company was formed in December 2017 and serves as the 
+management holding company for the Siemens Healthineers 
+Group, providing central administrative services. As of September 
+30, 2020, the Siemens Group held an interest of approximately 
+79% (previous year: 85%) in Siemens Healthineers AG. Siemens 
+Healthineers AG shares are traded on the Regulated Market 
+(Prime Standard) of the Frankfurt Stock Exchange under the ticker 
+symbol SHL.
+The annual financial statements as of September 30, 2020, were 
+prepared in accordance with Section 264(1) of the German 
+Commercial Code (Handelsgesetzbuch—HGB), in conjunction 
+with Section 267(3) and Section 264d of the HGB, on the basis of 
+the provisions of the HGB governing financial reporting by large 
+corporations as well as the provisions of the German Stock 
+Corporation Act (Aktiengesetz—AktG). Amounts are generally 
+presented in millions of euros (millions of €). Some figures may 
+not add up precisely to the totals presented because of rounding.
+The Income Statement was prepared using the cost of sales 
+method. 
+In August 2020, Siemens Healthineers and Varian Medical 
+Systems Inc., U.S.A. (“Varian”), a global company active in the 
+field of oncology treatment, entered into an agreement under 
+which Siemens Healthineers will acquire all shares of Varian for 
+US$177.50 per share in cash. This corresponds to a purchase 
+price of approximately US$16.4 billion (€14.0 billion as of 
+September 30, 2020). The acquisition of Varian is expected to be 
+closed in the first half of calendar year 2021, subject to approval 
+by the relevant authorities, and other customary closing 
+conditions. Siemens Healthineers AG will not itself acquire the 
+shares of Varian. Instead, they will be acquired by Siemens 
+Healthineers Holding I GmbH, Röttenbach, to which Siemens 
+Healthineers AG has issued an unrestricted letter of support 
+committing to provide the corresponding financial resources. In 
+this context, Siemens Healthineers Holding I GmbH has entered 
+into a deal contingent forward with Siemens AG in the notional 
+amount of €7,500 million to hedge the foreign currency risk from 
+part of the purchase price obligation for the planned acquisition 
+of Varian. The costs of the hedging transaction are not expected 
+to exceed €148 million. 
+A €15.2 billion credit facility agreement (bridge facility) was 
+entered into with Siemens Finance B.V., The Hague/Netherlands, 
+in the course of financing the acquisition of Varian. The credit 
+facility (bridge facility) has now been reduced to €12.5 billion. 
+Nonrecurring fees were incurred for this facility that will be 
+amortized over the period until the expected refinancing and are 
+presented as interest expense.
+A capital increase amounting to 7.5% of subscribed capital was 
+implemented in September 2020 as a step towards financing the 
+acquisition of Varian. Shareholders’ preemptive rights were 
+disapplied. 
+A.3.2 Accounting policies and methods
+Proceeds from management services for affiliated companies are 
+recognized as revenue. 
+Distributions by other entities are presented as income from 
+investments if they do not demonstrably relate to reserves arising 
+prior to the acquisition of the investee or a repayment of previous 
+capital increases or additional capital contributions.
+Financial assets acquired by way of contributions in kind from 
+shareholders are generally recognized in the amount issued 
+according to the resolution to increase the share capital, up to a 
+maximum of their fair value at the time of the contribution. 
+Contributions in kind to other entities are carried as acquisition 
+costs either at their carrying amount or at the fair value of the 
+asset contributed, up to a maximum of the fair value, on a case-
+by-case basis, exercising the option provided under the principles 
+governing exchanges of assets. Grants made to affiliated com-
+panies without consideration are capitalized as acquisition costs 
+only when the grant increases the intrinsic value of the equity 
+investment. Distributions from other entities are recognized as 
+repayment of capital or a reduction in acquisition costs to the 
+extent to which distributions demonstrably relate to reserves 
+arising prior to the acquisition of the investment and therefore 
+included in the acquisition costs, or the distributions involve 
+previously executed capital increases or additional capital 
+contributions. Distributions of liquidity by partnerships are 
+generally treated as repayment of capital. Impairment losses are 
+recognized if the decline in value is presumed to be other than 
+temporary. This applies when objective evidence, particularly 
+events or changes in circumstances, indicate a significant or other 
+than temporary decline in value. If relevant, the COVID-19 
+pandemic and the associated significant uncertainty was taken 
+into account when measuring long-term financial assets. The 
+COVID-19 pandemic did not lead to any need to adjust the 
+carrying amounts of long-term financial assets in fiscal year 2020. 
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+07
+The Company exercises the option to recognize debt discounts as 
+prepaid expenses.
+Pensions and similar obligations: Siemens Healthineers AG 
+measures its pension obligations using the necessary settlement 
+amount calculated with the actuarial projected unit credit method 
+on the basis of biometric probabilities. Entitlements resulting 
+from plans based on asset returns are generally measured at the 
+fair value of the underlying assets at the reporting date. If the 
+performance of the underlying assets is lower than a guaranteed 
+return, the pension obligation is measured by projecting forward 
+the contributions at the guaranteed fixed return and discounting 
+back to a present value. The discount rate used for discounting 
+pension obligations corresponds to the average market interest 
+rate for instruments with an assumed remaining maturity of 15 
+years as published by Deutsche Bundesbank. Siemens mortality 
+tables (Siemens Bio 2017/2020) were applied in fiscal year 2020.
+Other provisions are recognized in an appropriate and sufficient 
+amount to cover individual obligations for all identifiable risks 
+relating to uncertain liabilities, taking account of price and cost 
+increases expected to arise in the future. Material provisions with 
+a remaining term of more than one year are discounted using a 
+discount rate which corresponds to the average market interest 
+rate appropriate for the remaining term of the obligations, as 
+calculated and published by Deutsche Bundesbank.
+Foreign currency translation: Receivables, other assets, cash and 
+cash equivalents, provisions and liabilities as well as commit-
+ments and contingencies denominated in foreign currency are 
+generally translated applying the spot exchange rate on the 
+balance sheet date.
+The option of applying hedge accounting is exercised on a case by 
+case basis. All derivative financial instruments in these annual 
+financial statements were used for hedging purposes and com-
+bined with the hedged items into hedges. Hedges are recognized 
+using the net hedge presentation method (Einfrierungsmethode). 
+Forward exchange contracts are generally designated in full as 
+hedging instruments. In this case, when hedge accounting is 
+applied, the changes in the value of the hedged items and of the 
+spot components of the forward exchange contracts are offset. 
+Only a net negative amount from the ineffective portion of the 
+change in market value is recognized as a provision. The 
+unrealized gains and losses from the effective portion offset each 
+other and are not recognized either in the balance sheet or in the 
+income statement. The forward component of forward exchange 
+contracts at the moment when the forward exchange contracts 
+are entered into, which are accounted for as a hedge against the 
+risks of an interest-bearing liability, is recognized pro rata 
+temporis over the term of the forward exchange contracts as an 
+adjustment of interest expenses. If the forward component in this 
+case results in a discount from the spot rate, this is reported 
+under other assets provided that the presentation as a receivable 
+from affiliated companies does not take precedent.
+Deferred taxes are calculated for timing differences between the 
+carrying amounts of assets, liabilities, prepaid expenses, and 
+deferred income in the financial statements and their tax base. 
+Any resulting tax liability is recognized as a deferred tax liability in 
+the balance sheet. In the case of a tax benefit, the recognition 
+option is not exercised and no deferred tax asset is recognized.
+Classification of items in the annual financial statements: Siemens 
+Healthineers AG aggregates individual line items in the income 
+statement and in the balance sheet if the individual line item is 
+not material for providing a true and fair view of the Company’s 
+financial position and if such an aggregation improves clarity of 
+presentation. Siemens Healthineers AG discloses these items 
+separately in the notes.
+As in the previous year, the list of shareholdings generally 
+discloses amounts from the annual financial statements of the 
+company concerned in accordance with local GAAP.
+A.3.3 Notes to the Income Statement
+Note 1 Revenue
+Revenue in the amount of €16 million (previous year: €14 million) 
+resulted solely from providing management services to affiliated 
+companies.
+Revenue was generated entirely from affiliated companies in 
+Germany.
+Note 2  Other operating income and 
+expenses
+Other operating income included in particular reimbursements  
+by Siemens AG in the amount of €1 million (previous year:          
+€1 million) for the cost of share-based payments awarded to 
+employees of Siemens Healthineers AG as part of the IPO 
+Incentive. The associated expenses are presented as functional 
+cost or personnel expenses.
+In fiscal year 2020, other operating expenses related nearly 
+exclusively to incidental transaction costs incurred in connection 
+with the capital increase and the share buyback program 
+completed in this financial year.
+Note 3  Income from investments
+Income from investments was attributable to the profit and loss 
+transfer agreement with Siemens Healthcare GmbH, Munich, in 
+the amount of €1,459 million (previous year: €1,415 million) and 
+to profit of €76 million (previous year: €0 million) withdrawn 
+from Siemens Healthineers Beteiligungen GmbH & Co. KG, 
+Röttenbach, and hence solely attributable to affiliated companies. 
+The profit and loss transfer agreement between Siemens 
+Healthineers AG and Siemens Healthcare GmbH was entered into 
+in February 2018 with effect from April 1, 2018, and for an 
+indefinite duration. The agreement was entered in the Commer-
+cial Register on April 16, 2018, and may be terminated for 
+convenience on three months’ notice, but not earlier than the end 
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+08
+of the day on September 30, 2023. It includes an obligation to 
+assume the losses of Siemens Healthcare GmbH as provided in 
+Section 302 of the German Stock Corporation Act as amended.
+Note 4 Interest expenses
+Interest expenses primarily included incidental financing costs of 
+€5 million (previous year: €0 million) for the bridge facility 
+referred to above and incurred in connection with the planned 
+acquisition of Varian. Interest expenses were reduced by €36 
+million (previous year: €12 million) due to the recognition pro 
+rata temporis of the forward components of forward exchange 
+contracts included in hedges. Interest expenses did not include 
+any positive interest due on borrowings.
+Note 5  Other financial income (expenses), 
+net
+Other financial income/expenses, net, primarily included net 
+interest expenses of €1 million (previous year: €1 million) from 
+the measurement of pension provisions. The interest component 
+of the change in pension provisions represents expenses from the 
+discounting of provisions. 
+Note 6 Income taxes
+Income taxes related solely to current income taxes resulting from 
+corporate income tax and trade tax because the excess deferred 
+tax assets were not recognized due to the exercise of the option 
+under Section 274(1) sentence 2 of the HGB.
+A.3.4 Notes to the Balance Sheet
+Note 7 Non-current assets
+Acquisition costs
+Accumulated Impairment
+Carrying amount
+(in millions of €)
+01/10/2019
+Additions
+Disposals
+30/09/2020
+01/10/2019
+Depreciation/ 
+amortization
+30/09/2020
+30/09/2020
+30/09/2019
+Property, plant and equipment 
+Other equipment, plant and office 
+equipment 
+0
+0
+‐
+0
+0
+0
+0
+0
+0
+Summary
+0
+0
+‐
+0
+0
+0
+0
+0
+0
+Financial assets
+Shares in affiliated companies
+16,185
+3,024
+‐
+19,209
+‐
+‐
+‐
+19,209
+16,185
+Loans
+0
+‐
+0
+0
+‐
+‐
+‐
+0
+0
+Summary
+16,185
+3,024
+0
+19,209
+-
+-
+‐
+19,209
+16,185
+In order to establish an independent Siemens Healthineers Group 
+structure, all companies that conduct Siemens Healthineers 
+business were bundled under Siemens Healthineers AG and its 
+subsidiaries in 2018. The Siemens Healthineers Group’s business 
+is conducted by Siemens Healthcare GmbH and Siemens 
+Healthineers Beteiligungen GmbH & Co. KG together with their 
+directly and indirectly controlled subsidiaries.
+In the course of fiscal year 2020, Siemens Healthineers AG 
+acquired Siemens Healthineers Holding I GmbH for the purpose of 
+conducting the acquisition of Varian. On the basis of the existing 
+unrestricted letter of support, Siemens Healthineers AG was 
+required to make an additional capital contribution of €24 million.
+In addition, on the basis of the shareholder resolution of 
+September 29, 2020, Siemens Healthineers AG made a 
+commitment to Siemens Healthineers Beteiligungen GmbH & Co. 
+KG, which was called by the subsidiary, to contribute €3,000 
+million to the latter’s Capital Account II. This contribution can be 
+made by way of an additional cash payment, a contribution in 
+kind, or a mixture of the two types of contributions.
+Note 8 Receivables and other assets
+As in the previous year, receivables from affiliated companies did 
+not include any trade receivables. Instead, this item exclusively 
+comprised other receivables and other assets and included 
+receivables of €21 million (previous year: €12 million) with a 
+remaining term of more than one year. Receivables from affiliated 
+companies included receivables from shareholders amounting to 
+€49 million (previous year: €13 million). 
+As in the previous year, all other receivables and other assets had 
+a remaining term of less than one year at the reporting date
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+09
+Note 9 Accruals and deferrals
+Prepaid expenses included debt discounts of €21 million (previous 
+year: €33 million). These discounts arose in the course of the 
+assumption of two loans in 2019 from Siemens Healthineers 
+Beteiligungen GmbH & Co. KG because the fair value of the loans 
+assumed, which was recognized as the cost of the shares of the 
+subsidiary, was below their settlement amount at which they 
+were recognized as a liability. The debt discounts are being 
+amortized over the respective terms of the loans, i.e., by 
+September 2021 and 2023.
+In conjunction with the bridge facility for securing the financing 
+for the Varian acquisition mentioned in section  A.3.1 General 
+Disclosures, nonrecurring fees were incurred in fiscal year 2020 for 
+the closing and syndication. These nonrecurring fees are being 
+amortized as expenses similar to interest expenses over the 
+period until the expected refinancing of the bridge facility. This 
+resulted in prepaid expenses of €24 million.
+Note 10 Deferred tax assets
+The calculation of deferred taxes yielded an excess of deferred tax 
+assets, which was not recognized because the Company exercised 
+the option under Section 274(1) sentence 2 of the German 
+Commercial Code. 
+A tax rate of 29.20% was applied to the measurement of deferred 
+taxes. Nonwithstanding, for partnerships a tax rate of 15.83% was 
+applied for temporary differences of assets, liabilities and prepaid/ 
+deferred items. 
+Two indirect subsidiaries were added to the consolidated income 
+tax group in fiscal year 2020, with the result that their deferred 
+taxes are recognized at Siemens Healthineers AG. Taxable 
+temporary differences resulted from intangible fixed assets, 
+goodwill, shares in affiliated companies, investments, and plan 
+assets offset against provisions of tax group subsidiaries of 
+Siemens Healthineers AG. Deductible temporary differences result 
+from the pension provisions of Siemens Healthineers AG and the 
+tax group subsidiaries up to the amount of taxable temporary 
+differences. Further deductible temporary differences related 
+primarily to shares in affiliated companies of Siemens 
+Healthineers AG and to other provisions, inventories, intangible 
+fixed assets, and current liabilities of tax group subsidiaries. 
+Note 11 Equity
+(in millions of €)
+01/10/2019
+Share 
+buybacks
+Issuance of treasury 
+shares under share-
+based payments
+Dividend 2019
+Capital increase
+Net income
+30/09/2020
+Subscribed capital
+1,000
+‐
+‐
+‐
+75
+‐
+1,075
+Treasury shares
+−1
+−2
+1
+‐
+‐
+‐
+−1
+Issued capital
+999
+−2
+1
+‐
+75
+‐
+1,074
+Capital reserve
+10,754
+−60
+50
+‐
+2,655
+‐
+13,400
+Unappropriated net income
+1,057
+‐
+‐
+−798
+‐
+1,135
+1,394
+Shareholders' equity
+12,811
+−61
+52
+−798
+2,730
+1,135
+15,868
+Subscribed capital
+As of September 30, 2020, the subscribed capital of Siemens 
+Healthineers AG was composed of 1,075,000,000 registered no-
+par value shares with a notional value of €1.00 per share. The 
+shares are fully paid up. Each share conveys one vote at the 
+Annual Shareholders’ Meeting and governs the shareholder’s 
+interest in the Company’s net income after taxes. All shares carry 
+the same rights and obligations. 
+A capital increase amounting to 7.5% of subscribed capital was 
+implemented in September 2020. Shareholders’ preemptive rights 
+were disapplied. 75,000,000 new shares were placed, resulting in 
+proceeds of €2.73 billion before commissions and costs. The 
+funds received are planned to be used for the partial financing of 
+the announced acquisition of Varian.
+Authorized capital
+As of September 30, 2020, Siemens Healthineers AG had 
+authorized capital of €425 million that may be used to issue a 
+maximum of 425,000,000 new registered no-par value shares on 
+one or more occasions on or before February 18, 2023, in return 
+for contributions in cash and/or in kind (Authorized Capital 2018). 
+The capital increase implemented in September used a part of the 
+Authorized Capital 2018.
+Conditional capital
+Additionally, as of September 30, 2020, Siemens Healthineers AG 
+had conditional capital of €100 million or 100,000,000 shares. 
+This capital may be used to service convertible bonds or warrants 
+from bonds with attached warrants issued on or before February 
+18, 2023 (Conditional Capital 2018).
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+10
+Capital reserve
+As of September 30, 2020, the capital reserves amounted to 
+€13,400 million (previous year: €10,754 million).
+Due to the capital increase, an inflow of €2,655 million was 
+recognized within capital reserves in September 2020. The 
+issuance of treasury shares in connection with employee share 
+programs resulted in a further addition to the capital reserves 
+totalling €50 million.
+An amount of €60 million was withdrawn from distributable 
+capital reserves for the repurchase of treasury shares. 
+As of September 30, 2020, €338 million of the capital reserves 
+was distributable (previous year: €350 million) before consid-
+eration of amounts subject to restrictions on distribution.
+Treasury Shares
+Fiscal year
+(in numbers of shares)
+2020
+Treasury shares, beginning of fiscal year
+651,158
+Share buyback
+1,550,474
+Issuance under share-based payments
+−1,303,383
+Treasury shares, end of fiscal year
+898,249
+The Extraordinary Shareholders’ Meeting held on February 19, 
+2018, authorized the Managing Board to buy back treasury shares 
+until February 18, 2023, equal to up to 10% of the share capital at 
+the date of the resolution, or at the date of the exercise of the 
+authorization if that value is lower, for any permissible purpose.  
+The 898,249 treasury shares held by Siemens Healthineers AG as 
+of September 30, 2020, correspond to a notional amount of 
+€898,249, or 0.08% of the share capital. During fiscal year 2020, 
+Siemens Healthineers AG repurchased a total of 1,550,474 of its 
+own shares under this share buyback program. This corresponds 
+to a notional amount of €1,550,474, or 0.14% of the share 
+capital. A total of €61 million (excluding incidental transaction 
+costs) was spent for this purpose during this period; this 
+represents a weighted average price of €38.88 per share. All of 
+the shares were purchased during the reporting period on 50 
+Xetra trading days during the months of October to December 
+2019 and January 2020, by a bank instructed by Siemens 
+Healthineers AG, on the electronic trading platform of the 
+Frankfurt Stock Exchange (Xetra). The average trading volume on 
+these trading days was about 498,433 shares. In each of these 
+transactions, the purchase price per repurchased share (excluding 
+incidental transaction costs) could not exceed the price of 
+Siemens Healthineers shares, as determined in the opening 
+auction in Xetra trading on the trade date, by more than 10% or 
+be more than 20% below that price.
+In fiscal year 2020, 1,186,962 shares were sold as investment 
+shares to participants in employee share programs at a weighted 
+average price of €38.27 per share; the purchase price was 
+determined on the basis of the closing price in Xetra trading on 
+the transfer date of the shares. Siemens Healthineers AG received 
+a total of €47 million from the sale of these shares. This amount 
+was generally freely available to the Company and reduced 
+liabilities to affiliated companies. The other 116,241 shares issued 
+during the reporting period were bonus shares awarded as part of 
+the base share program that were issued in February 2020. 
+Siemens Healthineers AG launched a new share buyback program 
+in October 2020. It will run until February 2021 and has a volume 
+of €160 million. 
+Information on amounts subject to restrictions on 
+distribution
+The difference between the carrying amount of provisions for 
+post-retirement benefit obligations in line with the corresponding 
+average market interest rate over the preceding ten years and the 
+corresponding rate over the preceding seven years, which is 
+subject to a restriction on distribution under Section 253(6) 
+sentence 2 of the HGB, amounted to €2 million (previous year:   
+€2 million).
+The profit of €1,459 million (previous year: €1,415 million) trans-
+ferred by Siemens Healthcare GmbH, as the tax group subsidiary, 
+to the tax group parent company for the past fiscal year also 
+included – pursuant to the wording of Section 301 of the AktG – 
+the amount of €118 million (previous year: €124 million) that is 
+subject to a restriction on distribution under Section 253(6) 
+sentence 2 of the HGB.
+The amounts subject to a restriction on distribution were coun-
+tered by distributable capital reserves of €338 million (previous 
+year: €350 million). Therefore, there was no restriction on 
+distribution relating to the unappropriated net income of €1,394 
+million (previous year: €1,057 million). 
+Disclosures on holdings of the capital of Siemens 
+Healthineers AG
+As of September 30, 2019, the following information on share-
+holdings subject to reporting requirements was available to the 
+Company pursuant to Section 160 (1) no. 8 of the AktG:
+Siemens AG notified us on March 20, 2018, because of the first 
+admission of Siemens Healthineers AG stock for trading on an 
+organized market, that the percentage of voting rights in Siemens 
+Healthineers AG that it held either directly or indirectly on March 
+15, 2018, amounted to 85.00% of the voting rights (850,000,000 
+voting rights). At that time, moreover, there was a claim for rede-
+livery under a securities loan, as a result of the Greenshoe option 
+for Siemens Beteiligungsverwaltung GmbH & Co. OHG with refer-
+ence to 19,565,217 voting rights, or 1.96%.
+As neither Siemens AG nor any of its affiliated companies partici-
+pated in the capital increase in September 2020, the voting rights 
+held by the Siemens Group dropped to approximately 79%. As the 
+voting rights did not fall below any reporting threshold, there was 
+therefore no requirement to file a new notification about the 
+holding in Siemens Healthineers AG.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+11
+Note 12 Provisions for pensions and similar 
+obligations
+In Germany, Siemens Healthineers AG generally provides pension 
+benefits through the Siemens Healthineers BSAV (Beitragsorien-
+tierte Siemens Altersvorsorge) defined contribution plan, frozen 
+legacy plans, and deferred compensation plans. The majority of 
+the Company’s active employees participate in the Siemens 
+Healthineers BSAV. The benefits from this plan are predominantly 
+based on notional contributions and the related investment 
+income, whereby the Company guarantees a minimum return. 
+For benefits provided under the frozen legacy plans, the effects of 
+compensation increases were substantially eliminated, so that 
+valuation assumptions for salary and pension increases, including 
+career trends, are no longer of material significance for the 
+pension obligations of Siemens Healthineers AG. 
+The settlement amount of the provisions for pensions and similar 
+obligations was €22 million as of the reporting date (previous 
+year: €19 million). The actuarial valuation of the settlement 
+amount was based substantially on the following parameters: 
+The 10-year average interest rate (2.41%) pursuant to Section 
+253(2) of the HGB was applied to the pension obligations. For the 
+other obligations, the 7-year average interest rate (1.71%) was 
+used.
+The measurement difference under Section 253(6) of the German 
+Commercial Code from discounting pension provisions at the 10-
+year average interest rate and the 7-year average interest rate 
+was €2 million at the reporting date (previous year: €2 million). A 
+pension progression rate of 1.50% per year and an 
+income progression rate of 2.25% per year were applied to the 
+pension obligations. Siemens mortality tables (Siemens Bio 
+2017/2020) were applied in fiscal year 2020.
+Note 13 Other provisions
+Other provisions included miscellaneous provisions of €17 million 
+(previous year: €7 million) and tax provisions of €178 million 
+(previous year: €136 million).
+Miscellaneous provisions related primarily to provisions of €13 
+million for personnel expenses (previous year: €5 million).
+For information about the method used to measure the provision 
+for stock awards, please refer to the disclosures in  Note 17 
+Share-based payment.
+Note 14 Liabilities
+(in millions of €)
+Sept. 30, 
+2020
+up to 1 year
+1 year up to 
+5 years
+thereof 
+maturities 
+more than 5 
+years
+Sept. 30, 
+2019
+up to 1 year
+1 year up to 
+5 years
+thereof 
+maturities 
+more than 5 
+years
+Trade payables
+7
+7
+‐
+‐
+0
+0
+‐
+‐
+Liabilities to affiliated companies
+4,740
+4,074
+667
+‐
+4,759
+3,282
+1,437
+‐
+Other liabilities
+5
+5
+‐
+‐
+15
+15
+‐
+‐
+therein from taxes
+0
+0
+‐
+‐
+0
+0
+‐
+‐
+therein for social security
+0
+0
+‐
+‐
+0
+0
+‐
+‐
+Liabilities
+4,752
+4,086
+667
+‐
+4,774
+3,297
+1,437
+‐
+Tax liabilities as of September 30, 2020, amounted to €347 
+thousand (previous year: €340 thousand), and liabilities for social 
+security amounted to €23 thousand (previous year: €22 
+thousand). Liabilities to affiliated companies related to liabilities 
+of €195 million (previous year: €2,222 million) to Siemens 
+Healthcare GmbH for cash pooling within the Siemens 
+Healthineers Group, loans from Siemens Finance B.V. including 
+interest liabilities amounting to €1,438 million (previous year: 
+€1,438 million), the liability from the contribution to Capital 
+Account II of Siemens Healthineers Beteiligungen GmbH & Co. KG 
+pledged and called up in fiscal year 2020 amounting to €3,000 
+million (previous year: €1,000 million from the additional capital 
+payment pledged and called up in fiscal year 2019), and other 
+liabilities of €80 million 
+(previous year: €99 million) resulting from the consolidated value 
+added tax group with several subsidiaries, and from amounts 
+collected for subsidiaries. Furthermore, liabilities from the 
+pledged and called up capital contribution to Siemens 
+Healthineers Holding I GmbH amounting to €24 million were 
+recognized for the first time as well as trade payables to Siemens 
+Healthcare GmbH amounting to €3 million. The sharp decline of 
+liabilities to affiliated companies from cash pooling is attributable 
+to the capital increase in September 2020. The proceeds after 
+deduction of fees withheld directly by the banks of €2,710 million 
+were included in the regular cash pooling. However, these are 
+invested with Siemens AG separately from the revolving multi-
+currency credit line between Siemens Healthcare GmbH and 
+Siemens AG in order to ensure the availability of the proceeds for 
+the acquisition of Varian.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+12
+A.3.5 Other disclosures
+Note 15 Material expenses
+Fiscal   
+year
+Fiscal 
+year
+(in millions of €)
+2020
+2019
+Expenses for raw materials, supplies and purchased 
+merchandise 
+−0.1
+−0.2
+Costs of purchased services
+−10.4
+−2.5
+Material expenses
+−10.6
+−2.7
+Note 16 Personnel expenses
+Personnel expenses did not include the expense from unwinding 
+the discount on provisions for pensions and personnel expenses, 
+which is reported in other financial income/expenses, net.
+Fiscal   
+year
+Fiscal 
+year
+(in millions of €)
+2020
+2019
+Wages and salaries
+−21
+−22
+Social security contributions and expenses for other 
+employee benefits
+−1
+−1
+Expenses for pensions
+−2
+−1
+Personnel expenses
+−24
+−23
+The Company had an average of 52 employees in fiscal year 
+2020, all of whom were engaged in administrative functions. The 
+average percentage of women was 20%.
+Note 17 Share-based payments
+Siemens Healthineers AG allows employees and members of the 
+Managing Board to participate in share-based payment programs. 
+For the purpose of servicing share-based payment programs, 
+Siemens Healthineers AG also delivers Siemens Healthineers 
+shares that have been granted by affiliated companies.
+Stock awards
+Siemens Healthineers AG grants stock awards to members of the 
+Managing Board, members of the senior management, and other 
+eligible employees. 
+Stock awards to beneficiaries of Siemens Healthineers AG are 
+expensed as incurred over the vesting period and are measured at 
+the intrinsic value (= price of Siemens Healthineers AG shares) at 
+the reporting date on a pro rata basis for the proportion of the 
+vesting period expired, considering the estimated target 
+attainment at the balance sheet date. In the reporting period, 
+stock awards were also granted for the first time without any 
+performance conditions, i.e., with a service condition only, one 
+quarter of which vest annually. This results in a higher expense 
+recognition in the first years of the vesting period before consid-
+ering share price performance.
+The following table shows changes in the stock awards held by 
+members of the Managing Board, senior management, and other 
+eligible employees of Siemens Healthineers AG:
+Fiscal year
+(in number of shares)
+2020
+Non-vested, beginning of fiscal year
+596,224
+Granted
+412,576
+Forfeited
+−152,580
+Settled
+−10,618
+Non-vested, end of fiscal year
+845,602
+The pro rata intrinsic value of all stock awards issued to beneficia-
+ries of Siemens Healthineers AG amounted to €9 million at the 
+balance sheet date.
+Share Matching program
+The employees of Siemens Healthineers AG have several options 
+for participating in the Share Matching program: the base share 
+program and the share matching plan. Plan participants have the 
+right to receive one Siemens Healthineers share without payment 
+of consideration (matching share) for every three investment 
+shares held over the vesting period. Matching shares awarded to 
+beneficiaries of Siemens Healthineers AG are expensed as in-
+curred over the vesting period and are measured on a pro rata 
+basis for the proportion of the vesting period expired at the 
+intrinsic value (= price of Siemens Healthineers AG shares) at the 
+reporting date.
+The following table shows the changes in entitlements of ben-
+eficiaries of Siemens Healthineers AG to matching shares:
+Fiscal year
+(in number of shares)
+2020
+Outstanding, beginning of fiscal year
+8,467
+Granted
+8,927
+Forfeited
+-304
+Settled
+-165
+Outstanding, end of fiscal year
+16,925
+The pro rata intrinsic value of all matching shares issued to 
+beneficiaries of Siemens Healthineers AG was €0 million at the 
+balance sheet date.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+13
+Note 18 Guarantees and other 
+commitments 
+Under the terms of an unrestricted letter of support issued in 
+favor of Siemens Healthineers Holding I GmbH, Siemens 
+Healthineers AG has agreed to be responsible for all existing and 
+future liabilities of that subsidiary in connection with the 
+acquisition of Varian by providing that subsidiary with equity in 
+the corresponding amount ("Einstands- und Ausstattungspflicht"). 
+This obligation also extends to ensuring the fulfillment of 
+obligations under the agreement to acquire Varian and 
+obligations under a derivative instrument entered into for the 
+purpose of hedging currency effects. As a result, Siemens 
+Healthineers AG is indirectly required to pay the purchase price of 
+US$16.4 billion (€14.0 billion) and to finance the repayment of all 
+amounts outstanding under an existing credit agreement of 
+Varian, which has a maximum volume of US$1.2 billion (€1.0 
+billion). The acquisition of Varian is considered to be highly 
+probable. In the unlikely event that the acquisition of Varian does 
+not happen, contractual penalties of US$450 million, up to a 
+maximum of US$925 million may be incurred, which Siemens 
+Healthineers AG is also obliged to pay indirectly. Under the terms 
+of the letter of support, Siemens Healthineers AG has also agreed 
+to contribute sufficient equity to Siemens Healthineers Holding I 
+GmbH to ensure that it does not incur any deficit not covered by 
+equity.
+Additionally, Siemens Healthineers AG issued a guarantee to 
+Siemens AG in the form of an independent payment obligation 
+relating to payments that Siemens Healthineers Holding I GmbH is 
+required to make under the terms of the deal contingent forward. 
+The nominal amount of the deal contingent forward to be paid 
+amounts to €7.5 billion. 
+Further, as of September 30, 2020, there is an indemnity 
+agreement for an unlimited amount and indefinite term entered 
+into with an affiliated company to take advantage of disclosure 
+simplification options abroad. This affiliated company reported 
+liabilities in the amount of €27 million as of September 30,2020. 
+An indemnity agreement existing in the previous year that was 
+entered into with an affiliated company to take advantage of 
+disclosure simplifications option abroad was terminated in fiscal 
+year 2020. Claims under the terminated indemnity agreement 
+will expire by 2025.
+Additionally delivery-related guarantee obligations amounting to 
+€306 million were issued, including utilized bank guarantees in 
+the amount of €20 million.
+Siemens Healthineers AG enters into contingent liabilities only 
+after careful consideration of the risks concerned. The Company 
+currently assumes that, with the exception of Siemens 
+Healthineers Holding I GmbH, the subsidiaries concerned can 
+fulfill their obligations from their own resources. This assessment 
+is based on a continuous evaluation of the risk situation relating 
+to the contingent liabilities it has entered into and reflects 
+insights gained up to the date of the preparation of these 
+financial statements. With the exception of the letter of support 
+issued in favor of Siemens Healthineers Holding I GmbH, the 
+Company therefore regards as unlikely the risk of claims being 
+asserted in relation to the contingent liabilities described above. 
+Because the closing of the acquisition of Varian is estimated to be 
+highly probable, we consider as highly likely the utilization of the 
+above mentioned obligation to be responsible for all existing and 
+future liabilities of Siemens Healthineers Holding I GmbH and to 
+provide that subsidiary with equity in the corresponding amount. 
+Furthermore it is possible that Siemens Healthineers AG will have 
+to make further additional capital payments to Siemens 
+Healthineers Holding I GmbH under the letter of support in order 
+to compensate any deficit not covered by equity.
+Note 19 Financial payment obligations 
+under leasing and rental 
+arrangements
+At the balance sheet date, leasing and rental agreements resulted 
+in payment obligations of €0.3 million (previous year: €0.0 
+million) to an affiliated company.
+Note 20 Other financial obligations
+There were no other financial obligations at the balance sheet 
+date.
+Note 21 Derivative financial instruments 
+and hedge accounting
+As in the previous year, Siemens Healthineers AG was exposed to 
+significant foreign currency risk from the loan liabilities to 
+Siemens Finance B.V. assumed from Siemens Healthineers 
+Beteiligungen GmbH & Co. KG in fiscal year 2019 because these 
+loans are denominated in U.S. dollars. Since the loans carry fixed 
+rates of interest, there is no interest rate risk. Siemens 
+Healthineers AG has entered into forward exchange contracts 
+with Siemens AG to hedge this foreign currency risk. 
+As of September 30, 2020, the Company held forward exchange 
+contracts with a notional volume of €1,383 million and a positive 
+fair value of €19 million. The notional volume equals the total 
+value of the contracts. The fair value of the forward exchange 
+contracts is measured on the basis of exchange rate movements.
+If the conditions are met and a decision has been made to 
+exercise this option, derivative financial instruments are com-
+bined with the hedged items to form hedges. Hedge effectiveness 
+was assessed both prospectively as well as retrospectively, based 
+on the critical terms match method, because the Company only 
+had micro hedges in fiscal year 2020, i.e., the risk resulting from a 
+single hedged item is hedged by a single derivative financial 
+instrument. For this assessment, changes in the spot component 
+of the forward exchange contracts were compared with changes 
+in the value or cash flows of the hedged items from exchange 
+rate movements. The forward component is recognized pro rata 
+temporis over the term of the relevant forward exchange con-
+tracts and reported as an adjustment to interest expenses.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+14
+Hedge accounting for currency risks
+In accordance with the Company’s policy, each Siemens 
+Healthineers unit is responsible for documenting, measuring, and 
+monitoring its foreign currency risk exposure. The net foreign 
+currency position of each unit serves as the key performance 
+indicator and must be hedged in a range of no less than 75% but 
+no more than 100%, generally with corporate Treasury of 
+Siemens Group. 
+A separate hedge was designated for each payment due for the 
+loan liabilities. The hedges for the loan liabilities have terms up to 
+September 15, 2021, or September 15, 2023. Based on the 
+interest period of six months, the hedges for the interest pay-
+ments had a term of between 5.5 months up to a maximum of 
+11.5 months or 35.5 months, respectively, as of the balance 
+sheet date.
+(in millions of US$)
+Sep 30, 2020
+Foreign currency risk from liabilities
+1,603
+Foreign currency risk from firm commitments and forecast 
+transactions
+65
+Net foreign currency position (before hedging)
+1,668
+Foreign currency exchange contracts with affiliated 
+companies
+1,668
+Net foreign currency position (after hedging)
+0
+No provisions for contingent losses were recognized because no 
+hedge ineffectiveness was determined for the hedged foreign 
+currency risks.
+Carrying amounts of derivative financial instruments 
+required to be recognized
+Because there was no requirement to recognize provisions for 
+contingent losses, only the forward component of forward 
+exchange contracts not yet due that was recognized pro rata 
+temporis was reflected in the balance sheet. Its carrying amount 
+was €47 million as of September 30, 2020, and was reported in 
+receivables from affiliated companies.  
+Note 22 Proposal for the appropriation of 
+net income
+The Supervisory Board and the Managing Board propose that the 
+unappropriated net income of Siemens Healthineers AG for the 
+past fiscal year 2020 amounting to €1,394 million be appropri-
+ated as follows: Distribution of a dividend of €0.80 per no-par 
+value share entitled to the dividend, and carry-forward of the 
+remaining amount. The 75 million new no-par value shares issued 
+due to the capital increase are entitled to a dividend as of October 
+1, 2019.
+Note 23 Remuneration of the members of 
+the Managing Board and the 
+Supervisory Board
+Remuneration of the members of the Managing Board
+Members of the Managing Board received cash compensation of 
+€3.3 million. The fair value of share-based payments granted in 
+fiscal year 2020 amounted to €3.0 million for 139,006 stock 
+awards. The Company granted contributions (including nonre-
+curring special contributions) to the Siemens Healthineers BSAV 
+pension plan to members of the Managing Board amounting to 
+€1.1 million. 
+The total remuneration and other benefits granted to members of 
+the Managing Board therefore amounted to €7.4 million. 
+Aggregate benefits of former members of the 
+Managing Board
+The Managing Board member who stepped down at 2019 fiscal 
+year-end was awarded a severance payment of €2.4 million in 
+fiscal year 2019 that was paid in fiscal year 2020. Besides, former 
+Managing Board members and their surviving dependents 
+received total benefits within the meaning of Section 285 (1) 
+no. 9 lit. b HGB in the amount of €37 thousand in fiscal year 
+2020.
+Siemens Healthineers AG has not recognized any pension 
+provisions for pension commitments to former Managing Board 
+members. There are only non-forfeitable commitments of a 
+subsidiary for which this subsidiary recognized a pension 
+provision.
+Remuneration of the members of the Supervisory 
+Board
+The remuneration of the members of the Supervisory Board 
+comprises a basic compensation and additional compensation for 
+committee work, and totaled €1.2 million, including meeting 
+fees, in fiscal year 2020. 
+Information about the individual remuneration of the members of 
+the Managing Board and Supervisory Board is disclosed in the 
+Compensation Report, which is part of the Combined Manage-
+ment Report (Section A.8).
+Note 24 Declaration of Compliance with the 
+German Corporate Governance 
+Code
+As of September 30, 2020, the Managing Board and the Super-
+visory Board of Siemens Healthineers AG issued the mandatory 
+statement pursuant to Section 161 of the AktG, and made it 
+accessible to the public on the Company’s website at 
+www.corporate.siemens-healthineers.com/investor-relations/corporate-
+governance.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+15
+Note 25 Group affiliation
+Siemens Healthineers AG itself prepares consolidated financial 
+statements for the smallest group of consolidated companies to 
+which it belongs. Pursuant to Section 290 (1) of the HGB, it is also 
+included in the consolidated financial statements of its parent 
+company, Siemens AG (registered offices in Munich and Berlin, 
+Munich Local Court HRB 6684 and Berlin Charlottenburg Local 
+Court HRB 12300), which are the consolidated financial state-
+ments for the largest group of consolidated companies Siemens 
+Healthineers AG belongs to.
+The consolidated financial statements are both published in the 
+German Federal Gazette.
+Note 26 Events after the balance sheet date
+The following event of particular significance occurred after the 
+balance sheet date:
+On October 6, 2020, Siemens Healthineers AG assumed a loan 
+from Siemens Healthineers Beteiligungen GmbH & Co. KG subject 
+to debt assumption and discharge of transferor from all liability 
+and ex ante waiver of any recourse claims. This related to another 
+loan liability to Siemens Finance B.V., in the amount of US$1,689 
+million (€1,544 million). The loan, which has a term until October 
+15, 2026, was originally made to Siemens Medical Solutions USA, 
+Inc., Wilmington/United States. Accrued interest payable of 
+€17 million (US$20 million) was transferred together with the 
+loan. Interest payments outstanding up to the end of the term 
+amounted to US$275 million. Siemens Healthineers AG also 
+assumed the related forward exchange contracts from Siemens 
+Healthineers Beteiligungen GmbH & Co. KG at their fair value of 
+€62 million on the same day.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+16
+Note 27 Members of the Supervisory Board and Managing Board and their mandates
+Members of the Managing Board
+The Managing Board had the following members in fiscal year 2020 and in the period up to the preparation of these annual financial 
+statements:
+Memberships in supervisory boards whose establishment is 
+required by law or in comparable domestic or foreign controlling 
+bodies of business enterprises
+Name
+Year of birth
+First appointed
+Term expires
+External positions
+(as of September 30, 2020)
+Group company positions
+(as of September 30, 2020)
+Dr. Bernhard Montag
+1969
+2018
+2026
+None
+None
+Chief Executive Officer
+Dr. Jochen Schmitz
+1966
+2018
+2026
+German positions:
+None
+Chief Financial Officer
+• Universitätsklinikum
+   Augsburg
+Dr. Christoph Zindel
+1961
+2019
+2022
+None
+None
+Member of the Managing Board
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+17
+Members of the Supervisory Board
+The Supervisory Board of Siemens Healthineers AG has nine 
+members. All members were appointed by the Annual 
+Shareholders’ Meeting and represent the shareholders. Under the 
+German rules for employee co-determination in companies, 
+Siemens Healthineers AG is not required to appoint a Supervisory 
+Board that includes employee representatives, as Siemens 
+Healthineers AG has fewer than the required number of 
+employees. In line with the German requirements governing 
+employee co-determination in companies, employees at other 
+entities of the Group are not attributed to Siemens Healthineers 
+AG.
+The Supervisory Board had the following members in fiscal 
+year 2020:
+Name
+Occupation
+Year of birth
+Member since
+Memberships in supervisory boards whose establishment 
+is required by law or in comparable domestic or foreign 
+controlling bodies of business enterprises
+(as of September 30, 2020)
+Prof. Dr. Ralf P. Thomas 
+Member of the 
+1961
+2018
+German positions:
+Chairman
+Managing Board of 
+• Siemens Energy AG
+Siemens Aktiengesellschaft 
+• Siemens Gas and Power Management GmbH
+(Chief Financial Officer)
+• Siemens Healthcare GmbH (Chairman)
+Positions outside Germany:
+• Siemens Proprietary Ltd., South Africa
+Dr. Norbert Gaus
+Executive Vice President 
+1961
+2018
+German positions:
+Deputy Chairman
+Corporate Technology of 
+• Siemens Healthcare GmbH
+Siemens Aktiengesellschaft
+Dr. Roland Busch
+Member of the 
+1964
+2020
+German positions:
+(since 02/12/2020)
+Managing Board of 
+• ESMT European School of Management and 
+Siemens Aktiengesellschaft
+Technology GmbH
+(Deputy 
+• Siemens Mobility GmbH (Chairman)
+Chief Executive Officer)
+Positions outside Germany:
+• Arabia Electric Ltd. (Equipment), Saudi Arabia
+• Siemens Ltd., Saudi Arabia
+• Siemens W.L.L., Qatar
+Dr. Marion Helmes
+Supervisory board member 
+1965
+2018
+German positions:
+• ProSiebenSat.1 Media SE (Vice Chairwoman)
+Positions outside Germany:
+• British American Tobacco p.l.c., United Kingdom
+• Heineken N.V., The Netherlands
+Dr. Andreas C. Hoffmann
+General Counsel of 
+1964
+2018
+German positions:
+Siemens Aktiengesellschaft
+• Siemens Healthcare GmbH
+Positions outside Germany:
+• Siemens Ltd., China
+Dr. Philipp Rösler 
+Supervisory board member 
+1973
+2018
+German positions:
+• Brainloop AG
+Positions outside Germany:
+• Fortum Corporation, Finland
+• Loc Troi Group, Vietnam
+Michael Sen 
+Member of the 
+1968
+2018
+Positions outside Germany:
+(until 02/12/2020)
+Managing Board of 
+• Siemens Gamesa Renewable Energy, S.A., Spain
+as of 02/12/2020
+Siemens Aktiengesellschaft
+Dr. Nathalie von Siemens
+Supervisory board member 
+1971
+2018
+German positions:
+• Messer Group GmbH
+• Siemens Aktiengesellschaft
+• Siemens Healthcare GmbH
+• TÜV SÜD AG
+Dr. Gregory Sorensen 
+Founder and CEO of 
+1962
+2018
+Positions outside Germany:
+DeepHealth, Inc. (artificial
+• Fusion Healthcare Staffing, LLC, USA
+intelligence division of
+• Invicro, LLC, USA
+RadNet, Inc.) and
+• DFP Healthcare Acquisitions Corp., USA
+Executive Chairman of IMRIS
+(Deerfield Imaging, Inc.)
+Karl-Heinz Streibich
+President of acatech – 
+1952
+2018
+German positions:
+Deutsche Akademie der 
+• Deutsche Telekom AG
+Technikwissenschaften
+• Münchener Rückversicherungs-Gesellschaft AG
+• Software AG (Chairman)
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+18
+Prof. Dr. Ralf P. Thomas
+• stepped down from his Supervisory Board appointment at Siemens Aktiengesellschaft Österreich, Austria, as of 12/17/2019.
+• stepped down from his Supervisory Board appointment at Siemens Gamesa Renewable Energy, S.A., Spain, as of 11/27/2019.
+• assumed a Supervisory Board appointment at Siemens Energy AG on 09/25/2020.
+• assumed a Supervisory Board appointment at Siemens Gas and Power Management GmbH on 09/25/2020.
+• assumed a Supervisory Board appointment at Siemens Proprietary Ltd., South Africa, on 03/01/2020.
+Dr. Norbert Gaus 
+• stepped down from his Supervisory Board appointment at evosoft GmbH as of 12/01/2019.
+• stepped down from his Supervisory Board appointment at evosoft kft, Hungary, as of 12/01/2019.
+• assumed a Supervisory Board appointment at Siemens Healthcare GmbH on 11/27/2019.
+Dr. Roland Busch 
+• stepped down from his Supervisory Board appointment at OSRAM GmbH as of 07/28/2020.
+• stepped down from his Supervisory Board appointment at OSRAM Licht AG as of 07/28/2020.
+• stepped down from his Supervisory Board appointment at Siemens Postal, Parcel & Airport Logisitcs GmbH, as of 05/01/2020.
+• stepped down from his Supervisory Board appointment at ISCOSA Industries and Maintenance Ltd., Saudi Arabia, as of 09/25/2020.
+• stepped down from his Supervisory Board appointment at VA TECH T&D Co. Ltd., Saudi Arabia, as of 09/25/2020.
+Dr. Marion Helmes stepped down from her Supervisory Board appointment at Uniper SE as of 04/03/2020.
+Dr. Andreas C. Hoffmann 
+• assumed a Supervisory Board appointment at Siemens Healthcare GmbH on 11/27/2019.
+• assumed a Supervisory Board appointment at Siemens Gas and Power Management GmbH on 03/17/2020 and stepped down on
+09/25/2020.
+• assumed a Supervisory Board appointment at Siemens Gamesa Renewable Energy, S.A., Spain. on 11/27/2019 and stepped down on
+09/28/2020.
+Dr. Philipp Rösler 
+• stepped down from his Supervisory Board appointment at Arabesque S-Ray GmbH as of 06/30/2020.
+• assumed a Supervisory Board appointment at Brainloop AG on 07/01/2020.
+• assumed a Supervisory Board appointment at Loc Troi Group, Vietnam, on 07/01/2020.
+Michael Sen stepped down from his Supervisory Board appointment at Siemens Healthcare GmbH as of 11/27/2019.
+Dr. Nathalie von Siemens assumed a Supervisory Board appointment at TÜV SÜD AG on 07/10/2020.
+Dr. Gregory Sorensen
+• stepped down from his Supervisory Board appointment at DFB Healthcare Acquisitions Corp. as of 11/07/2019.
+• assumed a Supervisory Board appointment at DFP Healthcare Acquisitions Corp. on 03/10/2020.
+Karl-Heinz Streibich 
+• stepped down from his Supervisory Board appointment at Dürr AG as of 05/28/2020.
+• assumed a Supervisory Board appointment at Software AG on 06/26/2020.
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+19
+Note 28 List of subsidiaries and associated companies of Siemens Healthineers AG 
+pursuant to Section 285 para. 11 of the German Commercial Code
+September 30, 2020
+Net income in 
+millions of €¹
+Equity in 
+millions of €¹
+Equity 
+interest in %
+Germany (13 companies)
+Befund24 GmbH, Erlangen / Germany
+-1
+1
+85
+Dade Behring Grundstücks GmbH, Kemnath / Germany
+1
+21
+94
+MeVis BreastCare GmbH & Co. KG, Bremen / Germany
+0
+3
+49
+NEO New Oncology GmbH, Cologne / Germany
+131
+667
+100
+Siemens Healthcare Diagnostics Products GmbH, Marburg / Germany
+‐
+13
+89
+13
+100
+Siemens Healthcare GmbH, Munich / Germany
+‐
+13
+2,710
+13
+100
+Siemens Healthineers Beteiligungen GmbH & Co. KG, Röttenbach / Germany
+113
+13,551
+100
+Siemens Healthineers Holding I GmbH, Röttenbach / Germany
+−24
+11
+0
+11
+100
+Siemens Healthineers Innovation GmbH & Co. KG, Röttenbach / Germany
+22
+12
+22
+12
+100
+Siemens Medical Solutions Health Services GmbH, Grünwald / Germany
+1
+31
+100
+Siemens Real Estate GmbH & Co. KG, Kemnath / Germany
+16
+91
+94
+Zeleni Holding GmbH, Kemnath / Germany
+0
+5
+5
+5
+100
+Zeleni Real Estate GmbH & Co. KG, Kemnath / Germany
+0
+6
+5
+6
+100
+Europe, Commonwealth of Independent States (C. I. S.), Africa, Middle East (EMEA) 
+(without Germany) (53 companies)
+Fast Track Diagnostics Ltd, Sliema / Malta
+25
+33
+100
+FAST TRACK DIAGNOSTICS LUXEMBOURG S.à r.l., Esch-sur-Alzette / Luxembourg
+1
+4
+100
+FTD Europe Ltd, Sliema / Malta
+0
+1
+100
+Impilo Consortium (Pty.) Ltd., La Lucia / South Africa
+−10
+47
+31
+ITH icoserve technology for healthcare GmbH, Innsbruck / Austria
+0
+1
+69
+Medical Systems S.p.A., Genoa / Italy
+1
+4
+110
+4
+45
+PETNET Solutions SAS, Lisses / France
+2
+0
+100
+Screenpoint Medical B.V., Nijmegen / Netherlands
+−2
+4
+1
+4
+21
+Siemens Healthcare (Private) Limited, Lahore / Pakistan
+−1
+−2
+100
+Siemens Healthcare A/S, Ballerup / Denmark
+3
+8
+8
+8
+100
+Siemens Healthcare AB, Solna / Sweden
+6
+9
+100
+Siemens Healthcare AG, Zurich / Switzerland
+11
+80
+100
+Siemens Healthcare AS, Oslo / Norway
+3
+13
+100
+Siemens Healthcare d.o.o. Beograd, Belgrade / Serbia
+1
+1
+100
+Siemens Healthcare d.o.o., Ljubljana / Slovenia
+1
+2
+100
+Siemens Healthcare d.o.o., Zagreb / Croatia
+2
+4
+100
+Siemens Healthcare Diagnostics GmbH, Vienna / Austria
+2
+39
+100
+Siemens Healthcare Diagnostics Ltd., Frimley, Surrey / United Kingdom
+4
+38
+100
+Siemens Healthcare Diagnostics Manufacturing Limited, Swords, County Dublin / Ireland
+−4
+0
+100
+Siemens Healthcare Diagnostics Manufacturing Ltd, Frimley, Surrey / United Kingdom
+6
+26
+100
+Siemens Healthcare Diagnostics Products Ltd, Frimley, Surrey / United Kingdom
+4
+46
+100
+Siemens Healthcare EOOD, Sofia / Bulgaria
+1
+4
+4
+4
+100
+Siemens Healthcare FZ LLC, Dubai / United Arab Emirates
+3
+21
+100
+SIEMENS HEALTHCARE INDUSTRIAL AND COMMERCIAL SINGLE MEMBER SOCIETE ANONYME, Chalandri / 
+Greece
+4
+18
+100
+Siemens Healthcare Kft., Budapest / Hungary
+2
+4
+100
+Siemens Healthcare L.L.C., Dubai / United Arab Emirates
+9
+56
+49
+SIEMENS HEALTHCARE LIMITED LIABILITY COMPANY, Kiev / Ukraine
+2
+4
+0
+4
+100
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+20
+September 30, 2020
+Net income in 
+millions of €¹
+Equity in 
+millions of €¹
+Equity 
+interest in %
+Siemens Healthcare Limited Liability Company, Moscow / Russian Federation
+8
+4
+11
+4
+100
+Siemens Healthcare Limited Liability Partnership, Almaty / Kazakhstan
+1
+4
+2
+4
+100
+Siemens Healthcare Limited, Frimley, Surrey / United Kingdom
+30
+212
+100
+Siemens Healthcare Limited, Riyadh / Saudi Arabia
+15
+35
+51
+Siemens Healthcare Logistics LLC, Cairo / Egypt
+0
+0
+100
+Siemens HealthCare Ltd., Rosh HaAyin / Israel
+0
+3
+100
+Siemens Healthcare Medical Solutions Limited, Swords, County Dublin / Ireland
+3
+6
+100
+Siemens Healthcare NV, Beersel / Belgium
+6
+19
+100
+Siemens Healthcare Oy, Espoo / Finland
+4
+24
+100
+Siemens Healthcare Proprietary Limited, Halfway House / South Africa
+3
+20
+75
+Siemens Healthcare S.A.E., Cairo / Egypt
+5
+9
+100
+Siemens Healthcare S.R.L., Bucharest / Romania
+1
+8
+100
+Siemens Healthcare S.r.l., Milan / Italy
+6
+68
+100
+Siemens Healthcare s.r.o., Bratislava / Slovakia
+1
+4
+100
+Siemens Healthcare Saglik Anonim Sirketi, Istanbul / Turkey
+−3
+40
+100
+Siemens Healthcare SARL, Casablanca / Morocco
+0
+3
+100
+Siemens Healthcare SAS, Saint-Denis / France
+11
+65
+100
+Siemens Healthcare Sp. z o.o., Warsaw / Poland
+5
+24
+100
+SIEMENS HEALTHCARE, S.L.U., Getafe / Spain
+−1
+146
+100
+Siemens Healthcare, s.r.o., Prague / Czech Republic
+3
+9
+100
+SIEMENS HEALTHCARE, UNIPESSOAL, LDA, Amadora / Portugal
+3
+27
+100
+Siemens Healthineers Holding III B.V., The Hague / Netherlands
+88
+4,994
+100
+Siemens Healthineers Nederland B.V., The Hague / Netherlands
+−14
+1,046
+100
+Siemens Medicina d.o.o., Sarajevo / Bosnia and Herzegovina
+0
+0
+100
+Steiermärkische Medizinarchiv GesmbH, Graz / Austria
+1
+2
+52
+TRIXELL SAS, Moirans / France
+16
+4
+31
+4
+25
+Americas (28 companies)
+Corindus, Inc., Wilmington, DE / United States
+−46
+3,9
+571
+3,9
+100
+Dade Behring Hong Kong Holdings Corporation, Tortola / Virgin Islands, British
+3
+3,8
+41
+3,8
+100
+Dedicated2Imaging LLC, Wilmington, DE / United States
+−4
+3,8
+−2
+3,8
+80
+ECG Acquisition, Inc., Wilmington, DE / United States
+5
+3,8
+167
+3,8
+100
+ECG TopCo Holdings, LLC, Wilmington, DE / United States
+−28
+3,8
+144
+3,8
+75
+EPOCAL INC., Toronto / Canada
+1
+86
+100
+Executive Consulting Group, LLC, Wilmington, DE / United States
+3
+3,8
+26
+3,8
+100
+Imricor Medical Systems, Inc., Dover, DE / United States
+−11
+4
+6
+4
+7
+P.E.T.NET Houston, LLC, Austin, TX / United States
+3
+3,8
+8
+3,8
+51
+PETNET Indiana, LLC, Indianapolis, IN / United States
+0
+3,8
+3
+3,8
+50
+2
+PETNET Solutions Cleveland, LLC, Wilmington, DE / United States
+1
+3,8
+2
+3,8
+63
+PETNET Solutions, Inc., Knoxville, TN / United States
+17
+3,8
+179
+3,8
+100
+PhSiTh LLC, New Castle, DE / United States
+N/A
+14,15
+N/A
+14,15
+33
+Siemens Healthcare Diagnósticos Ltda., São Paulo / Brazil
+23
+47
+100
+Siemens Healthcare Diagnostics Inc., Los Angeles, CA / United States
+−81
+3,8
+7,093
+3,8
+100
+Siemens Healthcare Diagnostics S.A., San José / Costa Rica
+0
+2
+100
+Siemens Healthcare Diagnostics, S. de R.L. de C.V., Mexico City / Mexico
+4
+4
+30
+4
+100
+Siemens Healthcare Equipos Médicos Sociedad por Acciones, Santiago de Chile / Chile
+1
+12
+100
+Siemens Healthcare Laboratory, LLC, Wilmington, DE / United States
+0
+6
+3,8
+100
+Siemens Healthcare Limited, Oakville / Canada
+7
+166
+100
+
+Siemens Healthineers AG Annual financial statements 2020
+Annual financial statements – Notes
+21
+September 30, 2020
+Net income in 
+millions of €¹
+Equity in 
+millions of €¹
+Equity 
+interest in %
+Siemens Healthcare S.A., Buenos Aires / Argentina
+−5
+6
+100
+Siemens Healthcare S.A.C., Surquillo / Peru
+0
+4
+1
+4
+100
+Siemens Healthcare S.A.S., Tenjo / Colombia
+-2
+4
+7
+4
+100
+Siemens Healthcare Servicios S. de R.L. de C.V., Mexico City / Mexico
+1
+4
+3
+4
+100
+Siemens Healthcare, Sociedad Anonima, Antiguo Cuscatlán / El Salvador
+1
+4
+2
+4
+100
+Siemens Medical Solutions USA, Inc., Wilmington, DE / United States
+123
+3,8
+9,968
+3,8
+100
+Siemens S.A., Montevideo / Uruguay
+0
+1
+100
+Siemens-Healthcare Cia. Ltda., Quito / Ecuador
+0
+4
+3
+4
+100
+Asia, Australia (26 companies)
+Acrorad Co., Ltd., Okinawa / Japan
+2
+20
+96
+PETNET Radiopharmaceutical Solutions Pvt. Ltd., Mumbai / India
+0
+3
+100
+PT Siemens Healthineers Indonesia, Jakarta / Indonesia
+0
+3,8
+13
+3,8
+100
+Siemens Healthcare Diagnostics K.K., Tokyo / Japan
+1
+63
+100
+Siemens Healthcare Diagnostics Manufacturing Ltd., Shanghai, Shanghai / China
+−7
+4
+41
+4
+100
+Siemens Healthcare Inc., Manila / Philippines
+0
+21
+100
+Siemens Healthcare K.K., Tokyo / Japan
+37
+207
+100
+Siemens Healthcare Limited, Auckland / New Zealand
+−2
+7
+100
+Siemens Healthcare Limited, Bangkok / Thailand
+-1
+6
+100
+Siemens Healthcare Limited, Ho Chi Minh City / Viet Nam
+1
+3
+100
+Siemens Healthcare Limited, Hong Kong / Hong Kong
+5
+9
+100
+Siemens Healthcare Limited, Taipei / Taiwan, Province of China
+4
+21
+100
+Siemens Healthcare Ltd., Dhaka / Bangladesh
+0
+8
+3
+8
+100
+Siemens Healthcare Private Limited, Mumbai / India
+17
+7
+−7
+7
+100
+Siemens Healthcare Pte. Ltd., Singapore / Singapore
+2
+21
+100
+Siemens Healthcare Pty. Ltd., Melbourne / Australia
+4
+77
+100
+Siemens Healthcare Sdn. Bhd., Petaling Jaya / Malaysia
+3
+9
+100
+Siemens Healthineers Diagnostics (Shanghai) Co., Ltd., Shanghai / China
+37
+4
+330
+4
+100
+Siemens Healthineers Digital Technology (Shanghai) Co., Ltd., Shanghai / China
+−1
+3,8
+6
+3,8
+100
+Siemens Healthineers India LLP, Bangalore / India
+0
+10
+3
+10
+100
+Siemens Healthineers Ltd., Seoul / Korea, Republic of
+12
+61
+100
+Siemens Healthineers Ltd., Shanghai / China
+96
+4
+148
+4
+100
+Siemens Shanghai Medical Equipment Ltd., Shanghai / China
+71
+4
+112
+4
+100
+Siemens Shenzhen Magnetic Resonance Ltd., Shenzhen / China
+76
+4
+105
+4
+100
+Siemens Technology Development Co., Ltd. of Beijing, Beijing / China
+3
+4
+4
+4
+90
+Siemens X-Ray Vacuum Technology Ltd., Wuxi, Wuxi / China
+3
+23
+4
+100
+1
+5
+10
+Financial data for the short fiscal year January 23, 2019 – September 
+30, 2019.
+Financial data for the short fiscal year December 31, 2019 – March 31, 
+2020.
+6
+11
+The financial data essentially corresponds to the figures in the 
+annual financial statements after profit transfer, if any, prepared 
+according to locally applicable accounting rules for the fiscal year 
+from October 1, 2018, to September 30, 2019.
+Financial data for the short fiscal year February 12, 2019 – 
+September 30, 2019.
+Financial data for the short fiscal year July 10, 2020 – September 30, 
+2020.
+2
+Control due to a majority of voting rights.
+7
+12
+3
+Financial data for the fiscal year April 1, 2019 – March 31, 2020.
+Financial data for the short fiscal year August 24, 2020 – September 
+30, 2020.
+The values correspond to the annual financial statements according 
+to the consolidated IFRS-closing.
+8
+13
+A profit transfer agreement was in place in the fiscal year listed.
+4
+Financial data for the fiscal year October 1, 2019 – September 30, 
+2020.
+14
+Financial data for the fiscal year January 1, 2019 – December 31, 
+2019.
+9
+Usage of the exemption in accordance with Section 286 para. 3 
+sentence 2 German Commercial Code.
+Financial data for the short fiscal year October 29, 2019 – 
+September 30, 2020.
+15
+N/A = No data available.
+
+22
+B.
+Additional information
+S. 23
+B.1
+Responsibility Statement
+S. 24
+B.2
+Independent Auditor’s
+Report
+S. 28
+B.3
+Further Information
+
+Siemens Healthineers AG Annual financial statements 2020
+Additional information – Responsibility Statement
+23
+B.1 Responsibility Statement
+To the best of our knowledge, and in accordance with the applicable reporting principles, the annual financial statements give a true 
+and fair view of the net assets, financial position, and results of operations of the Company, and the Management Report of Siemens 
+Healthineers AG, which has been combined with the Group Management Report, includes a fair review of the development and 
+performance of the business and the position of the Company, together with a description of the material opportunities and risks 
+associated with the expected development of the Company.
+Munich, November 19, 2020
+Siemens Healthineers AG
+The Managing Board
+Dr. Bernhard Montag
+Dr. Jochen Schmitz
+Dr. Christoph Zindel
+
+Siemens Healthineers AG Annual financial statements 2020
+Additional information – Independent Auditor’s Report
+24
+B.2 Independent Auditor’s Report
+To Siemens Healthineers AG, Munich
+Report on the audit of the annual financial statements and of the 
+management report
+Opinions
+We have audited the annual financial statements of Siemens 
+Healthineers AG, Munich, which comprise the income statement 
+for the fiscal year from October 1, 2019 to September 30, 2020, 
+the balance sheet as of September 30, 2020 and the notes to the 
+financial statements, including the recognition and measurement 
+policies presented therein. In addition, we have audited the 
+management report of Siemens Healthineers AG, which is 
+combined with the group management report for the fiscal year 
+from October 1, 2019 to September 30, 2020. In accordance with 
+the German legal requirements we have not audited the content 
+of chapter A.7.4 “Corporate Governance statement” of the 
+Combined Management Report, including chapter C.4.2 
+“Corporate Governance statement pursuant to Sections 289f and 
+315d of the German Commercial Code” of the Annual Report 
+2020 referred to in chapter A.7.4 “Corporate Governance 
+statement”.
+In our opinion, on the basis of the knowledge obtained in the 
+audit, 
+• the accompanying annual financial statements comply, in all
+material respects, with the requirements of German
+commercial law applicable to business corporations and give a
+true and fair view of the assets, liabilities and financial position
+of the Company as of September 30, 2020 and of its financial
+performance for the fiscal year from October 1, 2019 to
+September 30, 2020 in compliance with German legally
+required accounting principles, and
+• the accompanying management report as a whole provides an
+appropriate view of the Company’s position. In all material
+respects, this management report is consistent with the annual
+financial statements, complies with German legal require-
+ments and appropriately presents the opportunities and risks
+of future development. Our opinion on the management
+report does not cover the content of the Corporate
+Governance statement referred to above.
+Pursuant to Sec. 322 (3) Sentence 1 HGB [“Handelsgesetzbuch”: 
+German Commercial Code], we declare that our audit has not led 
+to any reservations relating to the legal compliance of the annual 
+financial statements and of the management report.
+Basis for the opinions
+We conducted our audit of the annual financial statements and of 
+the management report in accordance with Sec. 317 HGB and the 
+EU Audit Regulation (No 537/2014, referred to subsequently as 
+“EU Audit Regulation”) and in compliance with German Generally 
+Accepted Standards for Financial Statement Audits promulgated 
+by the Institut der Wirtschaftsprüfer [Institute of Public Auditors in 
+Germany] (IDW). In conducting the audit of the annual financial 
+statements we also complied with International Standards on 
+Auditing (ISA). Our responsibilities under those requirements, 
+principles and standards are further described in the “Auditor’s 
+responsibilities for the audit of the annual financial statements 
+and of the management report” section of our auditor’s report. 
+We are independent of the Company in accordance with the 
+requirements of European law and German commercial and 
+professional law, and we have fulfilled our other German 
+professional responsibilities in accordance with these require-
+ments. In addition, in accordance with Art. 10 (2) f) of the EU 
+Audit Regulation, we declare that we have not provided non-audit 
+services prohibited under Art. 5 (1) of the EU Audit Regulation. 
+We believe that the audit evidence we have obtained is sufficient 
+and appropriate to provide a basis for our opinions on the annual 
+financial statements and on the management report.
+Key audit matters in the audit of the annual financial 
+statements
+Key audit matters are those matters that, in our professional 
+judgment, were of most significance in our audit of the annual 
+financial statements for the fiscal year from October 1, 2019 to 
+September 30, 2020. These matters were addressed in the 
+context of our audit of the annual financial statements as a 
+whole, and in forming our opinion thereon; we do not provide a 
+separate opinion on these matters. 
+Below, we describe what we consider to be the key audit matters:
+Impairment of non-current financial assets
+Reasons why the matter was determined to be a key audit matter: The 
+impairment test of non-current financial assets was a key audit 
+matter, as in particular shares in affiliated companies entail a 
+significant risk of material misstatement due to the materiality of 
+these assets as well as the judgment involved in assessing 
+whether there is objective evidence to indicate a lower net 
+realizable value and permanent impairment. The valuations of 
+non-current financial assets also depend to a large extent on the 
+assessment of future cash inflows, especially considering 
+potential impacts from the COVID-19 pandemic, and the discount 
+rate applied.
+Auditor’s response: In order to assess the recoverability of non-
+current financial assets, we examined the processes related to the 
+
+Siemens Healthineers AG Annual financial statements 2020
+Additional information – Independent Auditor’s Report
+25
+planning of future cash flows and the determination of net 
+realizable values of shares in affiliated companies. We assessed 
+the underlying valuation models for the determination of net 
+realizable value in terms of methodology and reperformed the 
+calculations with the assistance of internal valuation specialists. 
+We further obtained explanations from management regarding 
+material value drivers of the planning, including the potential 
+impact of the COVID-19 pandemic, and examined whether the 
+budget reflects general and industry-specific market expectations.
+Forecast accuracy was assessed on a sample basis using budget-
+to-actual comparisons of historically forecast data with the actual 
+results. The parameters used to estimate net realizable value such 
+as the estimated growth rates and the weighted average cost of 
+capital rates were assessed by comparing them to publicly 
+available market data and considering changes in significant 
+assumptions, including future market conditions. We also 
+performed sensitivity analyses to assess the impairment risk in 
+case of changes in significant assumptions.
+Our audit procedures did not lead to any reservations relating to 
+the impairment of non-current financial assets.
+Reference to related disclosures: With regard to the recognition and 
+measurement policies applied for the impairment of non-current 
+financial assets, refer to chapter A.3.2 “Accounting policies and 
+methods” in the notes to the financial statements.
+Other information
+The Supervisory Board is responsible for the Report of the Super-
+visory Board in the Annual Report 2020. In all other respects, 
+management is responsible for the other information.
+The other information, of which we received a version prior to 
+issuing this auditor’s report, includes:
+• the Responsibility Statement according to Sec. 264 (2)
+Sentence 3 and Sec. 289 (1) Sentence 5 HGB in chapter B.1
+“Responsibility Statement” of the report “Annual financial
+statements as of September 30, 2020”,
+• the notes in chapter B.3 “Further Information” of the report
+“Annual financial statements as of September 30, 2020”,
+• the Responsibility Statement in chapter C.1 “Responsibility
+statement” of the Annual Report 2020,
+• the Report of the Supervisory Board in chapter C.3 “Report of
+the Supervisory Board” in the Annual Report 2020,
+• Corporate Governance in chapter C.4 “Corporate Governance”
+of the Annual Report 2020, and
+• Notes and forward-looking statements in chapter C.5 “Notes
+and forward-looking statements” of the Annual Report 2020.
+Our opinions on the annual financial statements and on the 
+management report do not cover the other information, and 
+consequently we do not express an opinion or any other form of 
+assurance conclusion thereon.
+In connection with our audit, our responsibility is to read the 
+other information and, in so doing, to consider whether the other 
+information
+• is materially inconsistent with the annual financial statements,
+with the management report or our knowledge obtained in the
+audit, or
+• otherwise appears to be materially misstated.
+If, based on the work we have performed, we conclude that there 
+is a material misstatement of this other information, we are 
+required to report that fact. We have nothing to report in this 
+regard.
+Responsibilities of management and the Supervisory 
+Board for the annual financial statements and the 
+management report
+Management is responsible for the preparation of the annual 
+financial statements that comply, in all material respects, with the 
+requirements of German commercial law applicable to business 
+corporations, and that the annual financial statements give a true 
+and fair view of the assets, liabilities, financial position and 
+financial performance of the Company in compliance with 
+German legally required accounting principles. In addition, 
+management is responsible for such internal control as it, in 
+accordance with German legally required accounting principles, 
+has determined necessary to enable the preparation of annual 
+financial statements that are free from material misstatement, 
+whether due to fraud or error.
+In preparing the annual financial statements, management is 
+responsible for assessing the Company’s ability to continue as a 
+going concern. It also has the responsibility for disclosing, as 
+applicable, matters related to going concern. In addition, it is 
+responsible for financial reporting based on the going concern 
+basis of accounting, provided no actual or legal circumstances 
+conflict therewith.
+Furthermore, management is responsible for the preparation of 
+the management report that, as a whole, provides an appropriate 
+view of the Company’s position and is, in all material respects, 
+consistent with the annual financial statements, complies with 
+German legal requirements and appropriately presents the 
+opportunities and risks of future development. In addition, 
+management is responsible for such arrangements and measures 
+(systems) as management has considered necessary to enable the 
+preparation of a management report that is in accordance with 
+the applicable German legal requirements, and to be able to 
+provide sufficient appropriate evidence for the assertions in the 
+management report.
+The Supervisory Board is responsible for overseeing the 
+Company’s financial reporting process for the preparation of the 
+annual financial statements and of the management report.
+Auditor’s responsibilities for the audit of the 
+annual financial statements and of the management 
+report
+Our objectives are to obtain reasonable assurance about whether 
+the annual financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and whether the 
+management report as a whole provides an appropriate view of 
+the Company’s position and, in all material respects, is consistent 
+
+Siemens Healthineers AG Annual financial statements 2020
+Additional information – Independent Auditor’s Report
+26
+with the annual financial statements and the knowledge obtained 
+in the audit, complies with the German legal requirements and 
+appropriately presents the opportunities and risks of future 
+development, as well as to issue an auditor’s report that includes 
+our opinions on the annual financial statements and on the 
+management report.
+Reasonable assurance is a high level of assurance, but is not a 
+guarantee that an audit conducted in accordance with Sec. 317 
+HGB and the EU Audit Regulation as well as in compliance with 
+German Generally Accepted Standards for Financial Statement 
+Audits promulgated by the IDW and in supplementary compliance 
+with ISA will always detect a material misstatement. Misstate-
+ments can arise from fraud or error and are considered material if, 
+individually or in the aggregate, they could reasonably be 
+expected to influence the economic decisions of users taken on 
+the basis of these annual financial statements and this 
+management report.
+We exercise professional judgment and maintain professional 
+skepticism throughout the audit. We also:
+• Identify and assess the risks of material misstatement of the
+annual financial statements and of the management report,
+whether due to fraud or error, design and perform audit
+procedures responsive to those risks, and obtain audit
+evidence that is sufficient and appropriate to provide a basis
+for our opinions. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one
+resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of
+internal control.
+• Obtain an understanding of internal control relevant to the
+audit of the annual financial statements and of arrangements
+and measures (systems) relevant to the audit of the manage-
+ment report in order to design audit procedures that are
+appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of these systems of
+the Company.
+• Evaluate the appropriateness of accounting policies used by
+management and the reasonableness of estimates made by
+management and related disclosures.
+• Conclude on the appropriateness of management’s use of the
+going concern basis of accounting and, based on the audit
+evidence obtained, whether a material uncertainty exists
+related to events or conditions that may cast significant doubt
+on the Company’s ability to continue as a going concern. If we
+conclude that a material uncertainty exists, we are required to
+draw attention in the auditor’s report to the related disclosures
+in the annual financial statements and in the management
+report or, if such disclosures are inadequate, to modify our
+respective opinions. Our conclusions are based on the audit
+evidence obtained up to the date of our auditor’s report.
+However, future events or conditions may cause the Company
+to cease to be able to continue as a going concern.
+• Evaluate the overall presentation, structure and content of the
+annual financial statements, including the disclosures, and
+whether the annual financial statements present the under-
+lying transactions and events in a manner that the annual
+financial statements give a true and fair view of the assets,
+liabilities, financial position and financial performance of the
+Company in compliance with German legally required 
+accounting principles.
+• Evaluate the consistency of the management report with the
+annual financial statements, its conformity with German law,
+and the view of the Company’s position it provides.
+• Perform audit procedures on the prospective information
+presented by management in the management report. On the
+basis of sufficient appropriate audit evidence we evaluate, in
+particular, the significant assumptions used by management as
+a basis for the prospective information, and evaluate the
+proper derivation of the prospective information from these
+assumptions. We do not express a separate opinion on the
+prospective information and on the assumptions used as a
+basis. There is a substantial unavoidable risk that future events
+will differ materially from the prospective information.
+We communicate with those charged with governance regarding, 
+among other matters, the planned scope and timing of the audit 
+and significant audit findings, including any significant deficien-
+cies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement 
+that we have complied with the relevant independence require-
+ments, and communicate with them all relationships and other 
+matters that may reasonably be thought to bear on our indepen-
+dence and where applicable, the related safeguards.
+From the matters communicated with those charged with 
+governance, we determine those matters that were of most 
+significance in the audit of the annual financial statements of the 
+current period and are therefore the key audit matters. We 
+describe these matters in our auditor’s report unless law or 
+regulation precludes public disclosure about the matter.
+Other legal and regulatory requirements
+Further information pursuant to Art. 10 of the EU Audit 
+Regulation
+We were elected as auditor by the Annual Shareholders’ Meeting 
+on February 12, 2020. We were engaged by the Supervisory 
+Board on March 3, 2020. We have been the auditor of Siemens 
+Healthineers AG without interruption since the short fiscal year 
+from December 1, 2017 to September 30, 2018.
+We declare that the opinions expressed in this auditor’s report are 
+consistent with the additional report to the Audit Committee 
+pursuant to Art. 11 of the EU Audit Regulation (long-form audit 
+report).
+In addition to the financial statement audit, we have provided to 
+the Company or entities controlled by it the following services 
+that are not disclosed in the annual financial statements or in the 
+management report: In addition to auditing the statutory 
+financial statements of Siemens Healthineers AG, we performed 
+the statutory audit of the Siemens Healthineers’ consolidated 
+financial statements, audits of financial statements of subsidiaries 
+of Siemens Healthineers AG, reviews of interim financial 
+statements being integrated into the audit and project-
+accompanying IT audits. 
+
+Siemens Healthineers AG Annual financial statements 2020
+Additional information – Independent Auditor’s Report
+27
+Other attestation services include primarily attestation services 
+required by law, contractually agreed or requested on a voluntary 
+basis. 
+German Public Auditor responsible for the engagement
+The German Public Auditor responsible for the engagement is 
+Thomas Spannagl.
+Munich, November 19, 2020
+Ernst & Young GmbH
+Wirtschaftsprüfungsgesellschaft
+Spannagl
+Tropschug
+Wirtschaftsprüfer 
+Wirtschaftsprüferin
+[German Public Auditor]
+[German Public Auditor]
+
+Siemens Healthineers AG Annual financial statements 2020
+Additional information – Further Information
+28
+B.3 Further Information
+Due to rounding, numbers presented throughout this and other documents may not add up precisely to the totals provided and 
+percentages may not precisely reflect the absolute figures.
+This document is an English translation of the German financial report. In the case of discrepancies, the German document prevails.
+For technical reasons, there may be differences in formatting between the accounting records appearing in this document and those 
+published pursuant to legal requirements.  
+To facilitate readability mainly the masculine form is used in this report. However, this always relates to male and female persons alike.
+Internet: www.siemens-healthineers.com
+Press: www.siemens-healthineers.com/press-room
+Investor Relations: www.corporate.siemens-healthineers.com/investor-relations
+
+Siemens Healthineers AG
+Henkestraße 127
+D-91052 Erlangen
+Phone +49 9131 84-3385
+siemens-healthineers.com
+© Siemens Healthineers AG, 2020

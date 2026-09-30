@@ -1,0 +1,1643 @@
+purpose
+with
+Progressing
+Airbus Annual Report
+ Overview 2022
+
+In 2022, we made progress on objectives that 
+support our purpose to pioneer sustainable 
+aerospace for a safe and united world. 
+We focused on navigating a complex operating 
+environment while at the same time moving forward 
+with our priorities. This included the development of 
+new products, improving our industrial set-up and 
+securing contracts that help nations protect their 
+values, citizens and sovereignty.
+It was a year of progressing with purpose.
+We pioneer 
+sustainable 
+aerospace 
+for a safe and 
+united world
+Where applicable, ‘Airbus’ refers to commercial aircraft and 
+the integrated functions while ‘the Company’ refers to Airbus 
+SE together with its subsidiaries.
+Rounding
+Due to rounding, numbers presented may not add up 
+precisely to the totals provided and percentages may not 
+precisely reflect the absolute figures.
+Contents 
+02	 Airbus SE at a glance
+04	 Chairman’s message
+06	 CEO interview
+08	 Purpose in action
+12	 Strategy
+13	 Sustainability
+15	 Airbus
+16	 Airbus Helicopters
+17	 Airbus Defence and Space
+18	 CFO interview 
+20	 Share information
+01
+Airbus  /  Annual Report – Overview 2022
+
+The year saw many significant events across the Company. 
+These included contract signings and programme milestones 
+as well as progress on decarbonisation.
+Financial
+Revenues (€ million)
+58,763
+(2021: 52,149)
+EBIT Adjusted (€ million)
+5,627
+(2021: 4,865)
+EBIT Reported (€ million)
+5,325
+(2021: 5,342)
+Reported earnings per share (1) (€)
+5.40
+(2021: 5.36)
+Order intake (€ million)
+82,521
+(2021: 62,007)
+Non-Financial(2)
+Energy consumption (GWh)
+2,594
+(From stationary sources and electricity)
+CO2e Scope 1 & 2 emissions (ktons)
+762
+(CO2 equivalent)
+Total employee training (millions of hours)
+1.79
+(1 Oct. 2021 to 30 Sept. 2022)
+Ethics & Compliance e-learning sessions
+290,178
+(1 Oct. 2021 to 30 Sept. 2022)
+Number of employees
+134,267
+(End 2021: 126,495)
+(1)	 FY2022 average number of shares 787,080,579 compared to 785,326,074 in FY2021.
+(2)	For further information see the Non-Financial Information section of the Universal Registration Document 2022.
+ 2022
+Safeguarding future security 
+in Europe 
+Key defence contracts were signed 
+with governments and between 
+industry partners that will help 
+safeguard Europe’s long-term 
+security and its strategic autonomy. 
+These included Demonstrator Phase 
+1B of the Future Combat Air System 
+programme (pictured), the Eurodrone 
+global contract and Spain’s order for 
+20 latest-generation Eurofighter jets.
+A321XLR flight testing 
+gets underway 
+The A321XLR flew for the first time, 
+with three prototype aircraft involved 
+in the flight testing campaign by 
+the end of the year. It will provide 
+operators with longer range for 
+single-aisle commercial aircraft  
+and offer lower fuel consumption  
+per seat compared to previous-
+generation aircraft. 
+02
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Airbus SE at a glance
+
+External revenue split
+Airbus 
+Airbus Helicopters
+Airbus Defence 
+and Space 
+11%
+69%
+€ 58.8bn
+(2021: € 52.1bn)
+19%
+Order book in value by region
+Europe
+Asia Paciﬁc
+North America
+Middle East
+Latin America
+Other
+29%
+31%
+€ 449bn
+(2021: € 398bn)
+22%
+5% 6%
+8%
+Further progress for the H160 helicopter 
+The innovative twin-engined H160 helicopter 
+entered into service, representing a key landmark 
+for the programme. Showing its multi-role 
+capability, an H160 started operating in Japan as 
+an ‘eye in the sky’ for television stations while the 
+first ever ACH160 variant was delivered in Brazil. 
+Meanwhile, the French Navy received its first 
+H160 for search and rescue missions (pictured).
+Summit showcases international cooperation
+The Airbus Summit 2022 brought together business 
+leaders, partners and industry experts to evaluate 
+progress on sustainability in the field of aviation. 
+Panel events focusing on decarbonisation, disruptive 
+technologies and hydrogen sat alongside discussions 
+on the need for robust European defence and security 
+and what’s next in Space (pictured, featuring Airbus 
+employee and ESA-selected astronaut Pablo 
+Álvarez Fernández).
+Airshows highlight industry’s recovery 
+and priorities 
+Against a backdrop of rising passenger traffic, the 
+aerospace industry reconnected at the Farnborough 
+Airshow for the first time since the COVID pandemic. 
+The UK event (pictured) was also an opportunity for 
+Airbus to display products and showcase its ambition 
+to decarbonise. The ILA Berlin Air Show took place 
+for the first time since 2018, including a strong focus 
+on defence.
+New outsize transport 
+service launched 
+Airbus launched a new transport 
+service for outsized freight based 
+on the BelugaST and aimed at 
+customers worldwide. The BelugaST 
+fleet is progressively being made 
+available as the larger BelugaXLs 
+increasingly serve Airbus’ own 
+internal transport requirements. 
+An Airbus Eurostar Neo satellite 
+being delivered to the Kennedy 
+Space Center in Florida (pictured) 
+shows the aircraft’s capability.
+03
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Airbus SE at a glance
+
+Russia’s invasion of Ukraine has been a 
+wake-up call for Europe. It has not only 
+highlighted the essential role that defence plays 
+in society but also how European nations need 
+to work closely together and achieve even higher 
+levels of strategic autonomy in this critical area. 
+They have to remain strong and reliable partner 
+countries within NATO and for other allies. Close 
+cooperation is also required to ensure that 
+Europe remains competitive in the rapidly 
+evolving Space sector. 
+Reflecting on the year for our industry, the 
+lingering effects of the COVID pandemic, 
+combined with the war in Ukraine, led to global 
+disruption and underscored the need to ensure 
+a robust supply chain, not overly dependent on 
+any single source. Soaring energy prices and 
+inflation impacted the global economy and 
+forced central banks to raise interest rates 
+sharply. This all led to stark increases in the cost 
+of living for people around the world. Heightened 
+geopolitical tensions outside of Europe also 
+compounded the complex operating 
+environment. Nevertheless, passenger traffic 
+continued to recover globally, demonstrating 
+the vital role air travel plays in connecting people 
+and driving international trade.
+At Airbus, commercial aircraft deliveries 
+increased year-on-year, although fewer aircraft 
+were delivered than originally targeted amid the 
+difficult operating environment. In a promising 
+development, some important defence contracts 
+were signed that will safeguard EU nations’ 
+sovereignty over the coming decades, including 
+the next phase of the Future Combat Air System. 
+Meanwhile, the helicopters business had 
+another successful year with higher deliveries. 
+Overall, the Company reported increased 
+revenues, free cash flow and EBIT Adjusted. 
+Against this backdrop, the Board and its 
+Committees met frequently during 2022. There 
+were dedicated sessions to discuss topics of 
+note, including the defence strategy, safety and 
+cybersecurity. The Board also closely monitored 
+developments in various legal proceedings and 
+together with the Audit Committee supported 
+management as it adjusted the 2022 guidance 
+during the year. The Remuneration, Nomination 
+and Governance Committee supported the 
+search for a new Chief Financial Officer and 
+new non-executive directors. 
+Recruiting people with key skills and retaining 
+them – particularly in emerging technologies 
+and cybersecurity – was a topic that we revisited 
+several times. Airbus recognises the power of 
+diversity, which drives creativity, innovation and 
+problem solving, and continues to strive to be a 
+competitive employer. Attracting the best talent 
+will be of great importance in the years to come. 
+Sustainability was a key theme that continued 
+to resonate for the Board, specifically at 
+meetings of the Ethics, Compliance and 
+Sustainability Committee. Important topics such 
+as Ethics and Compliance, our decarbonisation 
+agenda, Human Rights and Inclusion and 
+Diversity were frequently addressed at the 
+highest level. Airbus is dedicated to leading 
+the journey towards sustainable aerospace 
+and coalescing a supportive ecosystem that 
+embraces alternative fuels and enables 
+disruptive technologies. We can’t do this 
+alone. The right frameworks and incentives at 
+a government level will be needed to improve 
+both appetite and capacity for sustainable 
+aviation fuel. However, the direction of travel 
+is clear: at the ICAO 41st Assembly, Member 
+States achieved an historic alignment with 
+aviation industry bodies such as IATA and ATAG, 
+adopting the long-term aspirational goal to reach 
+‘net-zero carbon emissions by 2050’. 
+René Obermann outlines the Company’s 
+operating environment and performance 
+in 2022. He also highlights the Board’s 
+activities and resolutions at the 2023 AGM.
+Dear Shareholders, dear Stakeholders,
+2022 proved to be a year of considerable 
+geopolitical and economic uncertainty. In my 
+remarks last year, I referenced what was then 
+an emerging crisis on Europe’s eastern 
+borders. Regrettably, the conflict continues, 
+demonstrating the fragility of global peace 
+and underscoring the need for a renewed 
+focus on defence as a prerequisite for 
+sustainability and prosperity. 
+2022 Dividend (€ per share)
+ 1.80
+To be proposed to the 2023 AGM
+focused
+René Obermann
+Chairman of the Board
+Staying
+in uncertain times
+Overview  /  Chairman’s message
+04
+Airbus  /  Annual Report – Overview 2022
+
+Board Members were highly motivated to take 
+a closer look at certain Airbus facilities. A Board 
+meeting took place on the Broughton site in the 
+UK while visits were organised at Defence and 
+Space facilities in Getafe (Spain), Manching 
+(Germany) and Labège (France). These visits 
+provide valuable insight into the hard work 
+undertaken by employees to deliver on the 
+Company’s priorities.
+With the easing of health and travel protocols, 
+members of the Board and management team 
+were pleased to welcome shareholders in 
+person at the 2022 Annual General Meeting 
+in Amsterdam. This meeting approved Irene 
+Rummelhoff’s appointment to the Board as a 
+non-executive director, bringing expertise in the 
+fields of energy transition and renewables. Lord 
+Drayson resigned from the Board on the date 
+of the 2022 AGM to focus on his political and 
+business interests, and we thank him for his 
+engagement during his five years as a non-
+executive director. 
+At this year’s AGM, the Board mandates of 
+Ralph Crosby Jr., Mark Dunkerley and Stephan 
+Gemkow are due for renewal and we are 
+proposing a three-year term for Antony Wood. 
+Antony replaced Lord Drayson on the Board in 
+December 2022 and brings with him extensive 
+experience of the aerospace industry and 
+defence sector. Through our staggered director 
+renewal process, we aim to ensure the Board 
+has the right skills going forward.
+In 2022, Airbus resumed paying dividends 
+after a two-year hiatus that was necessary to 
+maintain the Company’s liquidity and financial 
+strength during the COVID crisis. At this year’s 
+AGM, we will propose the payment of a higher 
+gross dividend of € 1.80 per share, reflecting 
+our commitment towards sustainable 
+dividend growth. 
+Finally, on behalf of the Board I salute the strong 
+engagement of Airbus employees globally, from 
+members of the Executive Committee setting 
+the strategy right through to those joining at the 
+very start of their careers. Together, we aim to 
+ensure that Airbus remains resilient and 
+continues to progress – with purpose.
+René Obermann
+Chairman of the Board
+2022 proved to be a year 
+of considerable geopolitical 
+and economic uncertainty... 
+I salute the strong engagement 
+of Airbus employees.”
+  Audit Committee
+  Remuneration, Nomination and Governance Committee
+  Ethics, Compliance and Sustainability Committee
+Board of Directors
+As of 31 December 2022
+René Obermann
+Chairman of the Board 
+of Directors, Airbus SE
+Amparo Moraleda
+Chair of Remuneration, 
+Nomination and 
+Governance Committee 
+Ralph D. Crosby, Jr.
+Guillaume Faury
+Chief Executive Officer 
+Airbus SE
+Claudia Nemat
+Mark Dunkerley
+Victor Chu
+Irene Rummelhoff
+Stephan Gemkow
+Antony Wood
+Jean-Pierre Clamadieu
+Chairman of Ethics, 
+Compliance and 
+Sustainability Committee
+Catherine Guillouard
+Chair of Audit Committee 
+Overview  /  Chairman’s message
+05
+Airbus  /  Annual Report – Overview 2022
+
+energy prices. The pandemic also continued to 
+cast a long shadow in some parts of the world.
+However, we came together as Team Airbus 
+to address these challenges and make progress 
+on our strategic priorities. This combined effort 
+meant we achieved our financial targets even 
+though we had to reduce our commercial 
+aircraft delivery targets.
+Q. What were the main operational and 
+commercial developments?
+The number of commercial aircraft deliveries 
+rose by eight percent year-on-year to 661, 
+although as stated this was less than we had 
+aimed for. Nevertheless, it was a successful 
+year on the sales front, with the 1,078 gross 
+and 820 net orders reflecting the broad 
+strength, competitiveness and efficiency  
+of our product line. 
+We set out our A320 Family production plans 
+with an objective to reach a monthly rate of 
+75 aircraft in 2026. To support this we are 
+modernising and upgrading our industrial 
+set-up globally, including upgrading our A320 
+Family final assembly facilities to all be capable 
+of producing the in-demand A321 model. We 
+established two new entities in the year for our 
+reorganised and streamlined aerostructures 
+operations. Probably the most significant 
+operational landmark was the maiden flight of 
+our A321XLR, which will open up new routes 
+for single-aisle aircraft operators.
+Helicopters saw a solid performance with higher 
+deliveries, and a book-to-bill above 1 by units 
+and value. It was particularly pleasing to see the 
+H160 enter into service and mark further delivery 
+milestones, while securing additional orders. 
+Highlights on the military side included the 
+launch of a major upgrade to the Tiger 
+helicopter for France and Spain.
+Defence and Space achieved a book-to-bill by 
+value above 1, driven by some major defence 
+projects that are critical to Europe’s ambitions 
+for strategic autonomy. This included a major 
+advance in the Future Combat Air System 
+programme, with the signing of the 
+Demonstrator Phase 1B contract, and 
+additionally there was the global Eurodrone 
+agreement. Operational highlights in Space 
+included a successful Moon-orbiting mission 
+for the Orion spacecraft, which relied on the 
+Airbus-built European Service Module. 
+Q. How was the financial performance?
+We delivered a solid underlying financial 
+performance overall despite the adverse 
+and complex operating environment. Airbus 
+‘Commercial’ and the Helicopters activities each 
+reported higher EBIT Adjusted, while Defence 
+and Space’s performance reflected various 
+headwinds including the loss of two Pléiades 
+Neo satellites and the Ariane 6 delay. 
+Overall, we ended the year with an EBIT Adjusted 
+of € 5.6 billion, representing a 16 percent increase 
+year-on-year. Free cash flow before M&A and 
+customer financing improved to € 4.7 billion and 
+was supported by the favourable foreign 
+exchange environment. 
+The Board has been able to recommend the 
+payment of a 2022 dividend of € 1.80 per share, 
+up from € 1.50 in 2021, and representing an 
+improved payout ratio.
+Guillaume Faury outlines Airbus’ performance 
+in 2022, including the key operational and 
+financial takeaways. He also discusses the 
+priorities for the Company.
+Q. How would you assess Airbus’ year?
+Even though there were some notable 
+successes, 2022 proved to be more difficult 
+than expected. We began the year full of 
+optimism, in anticipation of finally putting 
+COVID-19 behind us. Demand for commercial 
+aviation had rebounded in most parts of the 
+world and airlines had high expectations of 
+Airbus to provide them with the aircraft they 
+needed. However, after two years dominated 
+by a pandemic-driven demand crisis, we faced 
+the opposite challenge: a crisis of supply. 
+There were various macroeconomic headwinds 
+to navigate, and Russia’s invasion of Ukraine – 
+plus the related sanctions – added to the 
+adverse operating environment. The industry 
+faced many constraints over the supply of 
+labour, raw materials and electronic components 
+against a backdrop of sharply rising inflation and 
+Guillaume Faury
+Chief Executive Officer
+Staying the
+course
+We delivered a solid 
+underlying financial 
+performance.”
+06
+Airbus  /  Annual Report – Overview 2022
+Overview  /  CEO interview
+
+Q. What are the key priorities for this year 
+and beyond?
+We already know that 2023 will be another year 
+characterised by geopolitical and macroeconomic 
+challenges. As a company we have to be 
+prepared for that. The so-called VUCA world is a 
+reality for all businesses now, but I am confident 
+we can still thrive thanks to the pride, ingenuity 
+and commitment of the teams here at Airbus, 
+with our solid foundation of safety, quality, 
+integrity, compliance and security. 
+This year we need to remain focused on meeting 
+our commitments for both our civil and military 
+customers. We want to deliver on our commercial 
+aircraft backlog over the coming years as there 
+is strong demand globally for more fuel-efficient 
+aircraft. Therefore, one of our principal operational 
+priorities is to ramp-up single-aisle aircraft 
+production. To achieve this we will need to 
+remain vigilant against pressures on our supply 
+chain and work closely with our partners. 
+Having the right skills and resources internally 
+is vital if we are to meet these growth ambitions, 
+progress with our decarbonisation roadmap and 
+transform the Company. This transformation will 
+usher in the next generation of products and 
+services, including technologies that will be 
+critical for the huge defence projects we are 
+working on. Aside from more traditional technical 
+and manufacturing profiles, we need expertise in 
+areas such as new energies, cyber and digital. 
+Our human resources function is leading the 
+search for the best talent. 
+As we highlighted at our second Airbus Summit, 
+which took place in late 2022, we have continued 
+to play a leading role in setting the sustainability 
+agenda for the aerospace sector. We made 
+progress on our decarbonisation strategy and 
+through collaboration and partnerships are now 
+seeing our ambitions give way to real progress. 
+Sustainable aviation fuel (SAF) is a key 
+decarbonisation solution, and we were pleased 
+to announce a partnership with Neste, one of 
+the world’s leading SAF producers, to promote 
+the take-up of SAF. We continued to mature 
+new technologies that could power the next 
+generation of commercial aircraft, and 
+announced partnerships that support the 
+development of a hydrogen ecosystem. The 
+aviation industry was buoyed further in 2022 by 
+the announcement that the International Civil 
+Aviation Organization had adopted a long-term 
+aspirational goal to reach ‘net-zero carbon 
+emissions by 2050’. 
+In 2022, we submitted near-term greenhouse gas 
+emission reduction targets to the Science Based 
+Targets initiative (SBTi) for validation. These 
+targets, which cover the entire scope of our 
+emissions, have now been validated. They will 
+help us to provide greater transparency and 
+accountability, and ensure we are doing what 
+we say we will do.
+Our aim is to stay the course and continue 
+pioneering sustainable aerospace for a safe 
+and united world. We know what we need to 
+do, and will remain focused on delivering 
+operational excellence and adapting to meet 
+future challenges. 
+(1)	 Dominik Asam left the Company 
+in March 2023. See page 19 for 
+details on his successor.
+Guillaume Faury
+Chief Executive Officer 
+Airbus SE
+Sabine Klauke
+Chief Technical Officer
+Alberto Gutiérrez
+Chief Operating Officer
+Dominik Asam(1)
+Chief Financial Officer
+Philippe Mhun
+Executive Vice President 
+Programmes and Services
+John Harrison
+General Counsel
+Thierry Baril
+Chief Human 
+Resources Officer
+Christian Scherer
+Chief Commercial Officer 
+and Head of Airbus 
+International 
+Catherine Jestin
+Executive Vice President 
+Digital and Information 
+Management
+Michael Schoellhorn
+Chief Executive Officer 
+Airbus Defence and Space
+Bruno Even
+Chief Executive Officer 
+Airbus Helicopters
+Julie Kitcher
+Executive Vice President 
+Communications and 
+Corporate Affairs
+Executive Committee
+As of 31 December 2022
+07
+Airbus  /  Annual Report – Overview 2022
+Overview  /  CEO interview
+
+Unite
+Guided by the purpose
+Airbus pioneers sustainable aerospace for  
+a safe and united world. The following pages 
+illustrate how this purpose is embedded into 
+everything the Company does. 
+Valuing people and 
+their contribution to 
+Airbus’ success.
+2022 was a year of milestone anniversaries. 
+Airbus has been connecting people with its 
+commercial aircraft for many decades and 
+celebrated the 50th anniversary of the first 
+A300 flight during the year. 2022 also marked 
+the 30th anniversary of the creation of 
+Eurocopter, the foundation for what is now 
+Airbus Helicopters. To celebrate this milestone, 
+Airbus Helicopters hosted Airbus Pioneer Days in 
+France, Germany and Spain, inviting employees 
+and their close family and friends for a day of 
+activities. Airbus also continued to break ground 
+in 2022 with new projects, such as the maiden 
+flight of the A321XLR in June. 
+Airbus’ 130,000 colleagues care deeply about the 
+communities where the Company operates and 
+are united by a shared commitment to maximise 
+their positive impact on people and the planet. 
+Airbus is pleased to support its employees and 
+the causes they care about through the launch 
+of a new community impact platform, +impact. 
+The Company also hosted events to raise funds 
+for specific partner organisations. For example, 
+Airbus hosted a charity run in October (pictured) 
+2022 at its Blagnac and Saint-Martin sites in aid 
+of Airbus Foundation partner Alliance pour 
+l’Education – United Way. This charity supports 
+equal opportunities and schooling for young 
+people in priority areas in Toulouse, France. 
+08
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Purpose in action
+
+Innovate
+Developing the SAF 
+ecosystem and bolstering 
+in-house research.
+In 2022, Airbus continued to advance its 
+decarbonisation agenda, particularly with the 
+use of sustainable aviation fuel (SAF). The year 
+saw several key milestones in the usage of SAF, 
+with the world’s first helicopter flight (an H225) 
+solely powered by SAF in June, October’s first 
+commercial aircraft delivery flight in China using 
+a SAF-blend, and the first 100% SAF flight using 
+an in-service military aircraft (an A330 MRTT) in 
+November. Airbus signed a Memorandum of 
+Understanding (MOU) with Neste, one of the 
+world’s leading SAF producers, to promote the 
+aviation sector’s transition to SAF. The Company 
+also used 30% SAF on the BelugaST transporting 
+an Airbus-built telecommunications satellite to 
+the Kennedy Space Center in October. 
+Airbus continued to invest in its in-house research 
+capabilities, particularly those which explore 
+disruptive technologies. The year concluded 
+with a collaboration agreement signed between 
+wholly-owned subsidiary Airbus UpNext and 
+CERN, the European laboratory for particle 
+physics, to mature superconducting technologies 
+and their potential application in future aircraft.
+09
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Purpose in action
+
+Protect
+Helping nations protect 
+their citizens, values 
+and infrastructure.
+Airbus products, services and systems are in 
+continuous use by armed forces and public 
+authorities to help nations protect their people, 
+borders and critical assets. Defence is a 
+prerequisite for a safer and more secure world. 
+This was clearly shown in 2022 as major conflict 
+continued on Europe’s eastern borders. 
+Airbus-built military aircraft such as the 
+Eurofighter, A330 MRTT, C295 and A400M 
+fulfil critical roles while Airbus satellites provide 
+secure communications for armed forces and 
+connectivity and intelligence solutions to 
+governments. Airbus helicopters perform critical 
+parapublic roles such as search and rescue, law 
+enforcement and emergency medical services 
+while military models such as the H225M and 
+NH90 serve armed forces worldwide.
+Airbus Defence and Space successfully tested 
+a removable firefighting kit on the A400M in Spain 
+(pictured), showing the aircraft’s wide-ranging 
+capabilities. This innovation was a response to the 
+increasing threat presented by wildfires, as seen 
+so dramatically in parts of Europe and elsewhere 
+during 2022. The Airbus solution comprises a 
+roll-on/roll-off kit that requires no modification 
+to existing aircraft and therefore enables a rapid 
+response to unforeseen fires. These innovations 
+complement Airbus helicopters that are already 
+extensively used in firefighting missions.
+10
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Purpose in action
+
+Explore
+Expanding human 
+knowledge of Earth 
+and the Universe.
+The purpose is clearly demonstrated in the 
+Company’s pioneering Space activities, from 
+satellites that connect people and monitor climate 
+change on Earth through to spacecraft and 
+instruments that expand human knowledge of the 
+Universe. In 2022, the uncrewed Orion spacecraft 
+(pictured) successfully orbited the Moon before 
+The James Webb Space Telescope – 
+which includes the Airbus-built Near Infrared 
+Spectrograph or NIRSpec instrument – started 
+sending images and data back to Earth in 
+2022. NIRSpec was designed, developed, and 
+integrated on the telescope by a team of more 
+than 70 people at Airbus sites in Ottobrunn and 
+Friedrichshafen, Germany, as well as Toulouse, 
+France – with support from NASA and a 
+number of European subcontractors.
+returning safely as part of NASA’s Artemis I 
+mission. Under the full Artemis programme,  
+a lunar landing is planned and would represent 
+humankind’s first return to the Moon in over  
+50 years. Orion relies on Airbus technology for 
+essential functions that the astronauts will need to 
+stay alive through the European Service Module 
+(ESM) which sits just underneath the Crew 
+Module. Under a European Space Agency 
+contract, Airbus in Bremen, Germany, is 
+responsible for building the ESM, which both 
+propels and manoeuvres Orion and provides 
+the spacecraft’s crew with water and oxygen. 
+11
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Purpose in action
+
+Grow Airbus as an aerospace 
+and defence leader
+The Company’s ability to grow in the future will 
+be earned through continuous innovation, both 
+in and around its current portfolio, as well as 
+when preparing the future generation of 
+products and related services. 
+Increase capacity to invest 
+for the future
+The right combination of growth, profitability and 
+resilience is vital to the Company’s long-term 
+competitiveness. Continuous improvement is 
+essential to further support the Company’s 
+resilience and prepare for future investments.
+Leverage European roots 
+to pursue global reach
+Over 50 years, the Company has built on its 
+strong European heritage to become truly 
+international. Continued investment in its 
+global footprint is a key strength when 
+addressing international markets.
+Lead the transformation 
+of the aerospace industry
+Meaningful reductions in carbon emissions 
+are within reach. Through a resilient business 
+model, the Company will continue to lead the 
+decarbonisation of the aerospace sector while 
+meeting international ESG standards.
+The Airbus Strategy is based on four key near-term 
+areas of focus that will enable the Company to deliver 
+on its purpose. These areas of focus are drawn from the 
+major trends that influence our operating environment: 
+geopolitics, sovereignty, resilience and sustainability.
+by our strategy
+Driven
+  For further details of 
+the strategy see the Universal 
+Registration Document.
+12
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Strategy
+
+Airbus’ purpose is to pioneer sustainable 
+aerospace for a safe and united world. 
+The Company is deeply aware of its 
+responsibility to society and future 
+generations, and contributes to the UN 
+Sustainable Development Goals (“SDGs”) 
+through its core business and how it 
+operates. The Company approaches 
+sustainability by respecting the planet, 
+valuing people and enabling prosperity. 
+These guiding principles are embedded 
+in its operations and activities. 
+The Company strives to respect the planet, 
+improving its products as well as addressing 
+its environmental impact. 2022 saw many 
+milestones in the deployment of sustainable 
+aviation fuel, as well as efforts to reduce emissions 
+on Airbus sites and in the service life of Airbus 
+products. In order to hold itself accountable to 
+making continuous improvement in this area, 
+in 2022 Airbus established robust, clearly-defined 
+targets in line with climate science and submitted 
+them to the Science Based Targets initiative (SBTi) 
+for validation, which were approved by the SBTi 
+in January 2023. 
+The Company is committed to valuing people, 
+with a business built on a foundation of safety, 
+sustainability
+focus
+Continuing the 
+Commitment to the UN SDGs 
+Through its business activities and sustainability commitments, the Company contributes to at 
+least eight of the United Nations Sustainable Development Goals.
+Quality education
+Ensure inclusive and equitable quality 
+education and promote lifelong learning 
+opportunities for all.
+Gender equality
+Achieve gender equality and empower 
+all women and girls.
+Decent work and economic growth
+Promote sustained, inclusive and sustainable 
+economic growth, full and productive 
+employment and decent work for all.
+Industry, innovation, and infrastructure
+Build resilient infrastructure, promote inclusive 
+and sustainable industrialisation and 
+foster innovation.
+Responsible consumption and production
+Ensure sustainable consumption and 
+production patterns.
+Climate action
+Take urgent action to combat climate change 
+and its impacts.
+Peace, justice and strong institutions
+Promote peaceful and inclusive societies for 
+sustainable development, provide access to 
+justice for all and build effective, accountable 
+and inclusive institutions at all levels.
+Partnerships for the goals
+Strengthen the means of implementation 
+and revitalise the global partnership for 
+sustainable development.
+quality, integrity, compliance and security. 
+Valuing people also means supporting 
+humanitarian efforts and global resilience. 
+Global events in 2022, notably the war in 
+Ukraine, saw the relationship between 
+sustainability and security, and the ways in 
+which safety, defence and sustainability 
+mutually reinforce each other, come to the fore. 
+The Company enables prosperity, and 
+recognises the way in which it can help to unite 
+cultures, connect economies and encourage 
+global cooperation. Some of the many 
+agreements signed during the course of 2022 
+included: partnerships with engine manufacturer 
+CFM International to ground- and flight-test a 
+hydrogen combustion engine and a flight‑test 
+demonstrator for advanced open fan 
+architecture; a partnership to advance the 
+ecosystem for alternative propulsion technologies 
+with Renault; research on superconductivity that 
+could be applied to future electric or hydrogen-
+powered aircraft; and a partnership with HyPort 
+to create one of the first airport production and 
+distribution stations for low-carbon hydrogen. 
+The Company’s sustainability strategy 
+remains aligned with four priority sustainability 
+commitments which correspond to the relevant 
+UN SDGs (see table): to lead the journey towards 
+clean aerospace; to build our business on the 
+foundation of safety and quality; to respect 
+human rights and foster inclusion; and to 
+exemplify business integrity. The Universal 
+Registration Document provides detailed 
+disclosures on each of these commitments.
+13
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Sustainability
+
+Strengthening our corporate approach 
+to community impact
+In 2022, Airbus SE strengthened its approach 
+to community impact by launching a new 
+Community Impact Policy, with an emphasis 
+on supporting communities in a sustainable, 
+equitable and measurable way, and focusing 
+on three principle themes: supporting and 
+developing vulnerable communities, youth and 
+quality education, and safeguarding the future 
+of the planet. The Company also launched a new 
+dedicated digital platform, +impact, to empower 
+employees to donate, fundraise and volunteer for 
+causes they care about. To tie in with the launch 
+of this platform, a donation-matching campaign 
+supported impact-projects that had existing 
+partnerships with Airbus: this initiative reached 
+over 60 organisations across 15 countries 
+including the UK, France, Germany, Spain, 
+Kenya, USA, and several countries in the 
+Latin America and Asia Pacific regions.
+Throughout the year, Airbus also developed 
+several corporate giving partnerships, prioritising 
+projects which respond to specific community 
+needs and create lasting positive impact. 
+Examples of projects that were undertaken in 
+2022 included constructing transitional houses in 
+Latin America; securing access to early education 
+opportunities for children from underserved 
+communities in the Philippines and mentoring 
+girls in STEM subjects in Latin America; and 
+biodiversity restoration projects such as 
+rejuvenating two lakes in Bangalore and Manesar 
+(India) and rebuilding a wildlife pond in Bristol (UK).
+Amplifying our impact via the  
+Airbus Foundation
+The Airbus Foundation facilitates philanthropic 
+initiatives worldwide by providing access to 
+Airbus’ unique portfolio of high-tech products, 
+services and know-how. 
+In 2022, the Airbus Foundation continued to 
+work with its partners to provide humanitarian 
+response, carrying more than 175 tons of aid 
+and chartering 302 flight hours in response to 
+flooding and famine crises, among others, in 
+countries like the Philippines, Madagascar and 
+Somalia. The Foundation provided 27,419 km² 
+of satellite imagery coverage to its partners 
+worldwide to facilitate assessment and 
+response planning.
+The Airbus Foundation enriched its offering 
+for young people by launching a new, free-to-
+access website featuring STEM content in four 
+languages: the Airbus Foundation Discovery 
+Space. In 2022, the Foundation’s youth 
+programmes reached 9,000 students across 
+17 locations.
+The Airbus Foundation provided 2,453 km² of 
+satellite imagery to the Connected Conservation 
+Foundation, to support the preservation of wildlife 
+and natural ecosystems in South Africa and 
+Kenya. It also provided imagery and technical 
+data and project management services to the 
+International Union for Conservation of Nature, 
+supporting validation of their Restoration 
+Barometer, which monitors the progress 
+of forest restoration projects. 
+The following examples represent a selection 
+of the sustainability activities which took 
+place across the Company in 2022.
+Reducing energy consumption  
+and emissions on our sites
+The Company is committed to taking 
+environmental responsibility seriously and is 
+actively replacing energy-intensive assets and 
+optimising energy consumption. A portfolio of 
+measures is currently being phased in. This 
+includes low-energy lighting; improved 
+insulation; voltage management; optimised 
+heating, cooling and ventilation systems; and 
+renewable energy production either on site 
+or nearby, such as photovoltaic panels for 
+electricity and biogas or biomass for heating. 
+In Broughton, UK, Paint Shops were placed 
+on automatic standby during weekends and 
+shutdowns, leading to energy savings of 
+340 MWh. 17,500 fixed phones were removed 
+across European sites, which in France 
+represented electricity savings of 920 MWh. 
+There are also other levers to be deployed: 
+switching to lower-emission vehicles where 
+possible and better planning of internal flights 
+and logistics. New Beluga jigs and tools have 
+enabled each logistic flight to transport two 
+A350 wings instead of one. Airbus also began 
+to use SAF in its internal flight test activities, 
+and in December 2022 launched its first test 
+campaign to explore the use of renewable 
+fuel for its fleet of maritime vessels.
+Investing in innovation and research
+2022 saw Airbus make a number of investments 
+in innovation and research, putting its weight 
+behind renewable energy technologies. Airbus 
+invested as Limited Partner in Hy24’s Clean H2 
+Infra Fund, which aims to “scale up the global 
+hydrogen economy and end-to-end value chain” 
+by investing in hydrogen infrastructure projects 
+worldwide. Airbus’ participation allows it to 
+support the broader hydrogen ecosystem and 
+promote more widespread use of hydrogen on 
+a cross-industry basis. Airbus also continued 
+to explore operational improvements, with the 
+conclusion of the pan-European ALBATROSS 
+project in November, which explored how to 
+improve air traffic management processes using 
+the latest technologies and data science. 
+The Company invested in Carbon Engineering 
+Ltd., a Canadian-based climate tech company 
+that develops Direct Atmosphere Carbon Capture 
+(DACC) licensed technology. The investment will 
+support R&T efforts in developing advanced 
+technology at Carbon Engineering’s largest 
+DACC Research & Development facility. Airbus 
+also signed an agreement with 1PointFive for the 
+offtake purchase of 400,000 tons of carbon 
+removal credits as a way of bringing carbon 
+removals to the aviation industry – a move that 
+attracted interest from a number of major airlines. 
+14
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Sustainability
+
+A350F
+External revenues by activity
+Platforms
+Services
+8%
+92%
+Revenues (€ million)
+41,428
+(2021: 36,164)
+of which 24 were A350F freighters. Across all 
+product ranges, the total order backlog stood 
+at 7,239 aircraft at the end of 2022. 
+A total of 661(1) commercial aircraft were delivered 
+(2021: 611(2) aircraft) and by aircraft type 
+comprised 53 A220 Family, 516 A320 Family, 
+32 A330 Family and 60 A350 Family. Revenues 
+increased 15% to € 41,428 million (2021: € 36,164 
+million), mainly reflecting the higher number of 
+deliveries and the strengthening of the US dollar. 
+EBIT Adjusted increased to € 4,600 million (2021: 
+€ 3,570 million), reflecting the delivery increase 
+and supported by some non-recurring elements 
+partly offset by a less favourable currency 
+hedge rate compared to 2021. The non-
+recurring elements included positive impacts 
+from retirement obligations and compliance-
+related topics, partly offset by the impact from 
+international sanctions against Russia. 
+Airbus
+Key events 2022 
+•	Deliveries rise 8% to 661(1) aircraft
+•	Book-to-bill significantly above 1
+•	A321XLR flight testing begins
+•	Sustainable aviation fuel flights continue
+Commercial aircraft orders and 
+deliveries rose year-on-year, with a 
+solid increase in revenues and earnings. 
+2022 included a number of operational 
+and sustainability milestones.
+Gross orders increased to 1,078 commercial 
+aircraft (2021: 771 aircraft), with net orders 
+rising to 820 aircraft (2021: 507 aircraft) and 
+corresponding to a book-to-bill ratio by units 
+well above 1. Increasing momentum was seen 
+for widebodied aircraft, with 63 gross orders 
+Operational developments
+To support the A320 Family ramp-up, Airbus is 
+upgrading its industrial set-up including making 
+all A320 Family aircraft final assembly lines 
+A321-capable. The A321XLR programme began 
+its flight-test campaign, paving the way for the 
+certification of the long-range capable aircraft. 
+By the end of 2022, three prototype A321XLRs 
+were involved in flight-testing.
+A new transport service began operations in 
+2022, using Airbus A300-600ST ‘BelugaST’ 
+aircraft to deliver special payloads for 
+customers worldwide.
+During 2022, Airbus continued to test the 
+potential for higher proportions of sustainable 
+aviation fuel in its commercial aircraft. All Airbus 
+aircraft can currently fly using a 50% blend of 
+SAF. Airbus’ ambition is for all of its aircraft to 
+be capable of flying on 100% SAF by 2030.
+Deliveries (units)
+661
+(1)
+(2021: 611(2))
+Net order intake (units)
+820
+(2021: 507)
+EBIT Adjusted (€ million)
+4,600 
+(2021: 3,570)
+(1)	 After a reduction of two aircraft previously recorded as sold 
+in December 2021 for which a transfer was not possible due 
+to international sanctions against Russia.
+(2)	Two A330s delivered on operating lease.
+15
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Airbus
+
+H160
+External revenues by activity
+Platforms
+Services
+45%
+55%
+Deliveries (units)
+344
+(2021: 338)
+Net order intake (units)
+362 
+(2021: 414)
+Revenues (€ million)
+ 7,048
+(2021: 6,509)
+EBIT Adjusted (€ million)
+639
+(2021: 535)
+The Division contributed positively to the 
+Company’s overall financial performance, 
+with higher revenues and earnings. 
+Deliveries increased and milestones 
+were achieved on programmes and 
+decarbonisation initiatives.
+Airbus Helicopters’ order intake was well 
+spread across programmes, with the overall 
+total of 362 net orders (2021: 414 units) 
+including 12 H160s. The book-to-bill ratio was 
+above 1 both in units and value. Significant 
+orders included a major upgrade of the Tiger 
+helicopter for the French and Spanish armies 
+and a follow-up support contract for the US 
+Army’s entire fleet of UH-72A and UH-72B 
+Lakota utility and training helicopters.
+Deliveries increased to 344 units (2021: 338 
+units) with the Division retaining its strong market 
+position. On the H160 programme, the first 
+ACH160 was delivered to a Brazilian customer 
+while the French Navy took delivery of the 
+first H160 for search and rescue operations. 
+Meanwhile, the first ever H160 went into 
+service globally, with a Japanese customer.
+Revenues increased by 8% to € 7,048 million 
+(2021: € 6,509 million), mainly reflecting growth 
+in services and a favourable mix in programmes. 
+EBIT Adjusted increased to € 639 million (2021: 
+€ 535 million), reflecting the higher services and 
+programme execution. Non-recurring elements 
+included the positive impact related to retirement 
+obligations booked in Q1. The EBIT Adjusted 
+margin increased to 9.1% from 8.2% in 2021.
+Sustainability and innovation 
+Further progress was made to reduce the 
+carbon footprint of current and future aircraft, 
+with a focus on using sustainable aviation fuel, 
+hybridisation and electrification.
+The DisruptiveLab demonstrator was unveiled at 
+the Airbus Summit and uses a clean sheet design 
+to test technologies destined to improve aircraft 
+performance and reduce helicopters’ CO2 
+emissions. Several partnerships were announced 
+to support the entry-into-service of the CityAirbus 
+NextGen electric vertical take-off and landing 
+prototype. During 2022, an H225 performed the 
+first ever helicopter flight solely powered by 
+sustainable aviation fuel.
+Airbus Helicopters continued to innovate for 
+military applications, with the VSR700 unmanned 
+aerial system beginning trials for autonomous 
+take-off and landing capabilities at sea.
+Key events 2022 
+•	Book-to-bill above 1 
+•	Deliveries increase to 344 units
+•	H160 goes into operation
+•	Progress on sustainability roadmap 
+Airbus  
+Helicopters
+16
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Airbus Helicopters
+
+Eurodrone
+External revenues by activity
+Platforms
+Services
+33%
+67%
+The Division achieved some key defence 
+contract wins while earnings reflected the 
+difficult operating environment. Progress 
+was made on sustainability initiatives.
+Airbus Defence and Space’s net order intake was 
+stable at € 13,660 million (2021: € 13,656 million), 
+corresponding to a book-to-bill ratio of around 
+1.2. Included were the Eurodrone global contract, 
+Demonstrator Phase 1B of Europe’s Future 
+Combat Air System and 20 latest-generation 
+Eurofighters for the Spanish Air Force. These 
+agreements will support Europe’s security 
+requirements and strategic autonomy. In Space 
+Systems, contracts included the supply of two 
+high-performance optical Earth observation 
+satellites and related services for Poland.
+Revenues increased 11% to € 11,259 million 
+(2021: € 10,186 million), mainly driven by higher 
+volume in Military Aircraft and Eurodrone. 
+Underlying profitability, or EBIT Adjusted, 
+decreased to € 384 million (2021: € 696 million), 
+mainly reflecting impairments related to the loss 
+of two Pléiades Neo satellites in December and 
+delays to the Ariane 6 launcher, as well as the 
+impact of rising inflation. This was partly offset by 
+higher volume in Military Aircraft, the ramp-up in 
+Eurodrone and the positive impact related to 
+retirement obligations booked in Q1. 
+Operational and sustainability highlights 
+A total of 10 A400M military airlifters were 
+delivered during the year. The A330 MRTT 
+became the world’s first tanker aircraft to be 
+certified for automatic air-to-air refuelling boom 
+operations. Telecommunications satellites 
+were successfully placed into orbit while the 
+Airbus-built European Service Module powered 
+the Orion spacecraft as part of the Artemis I 
+Moon-orbiting mission. 
+The first test flights of A400M and C295 aircraft 
+partly powered by sustainable aviation fuel (SAF) 
+took place during the year. Separately, Airbus 
+worked with the UK’s Royal Air Force and industry 
+partners to conduct a test flight of an in-service 
+A330 MRTT using 100% SAF in both of its 
+engines. Military aircraft played an important role in 
+helping nations to protect their citizens and strongly 
+contributed to various humanitarian missions 
+around the world in 2022. In Space Systems, a 
+number of satellites are in development to support 
+climate change monitoring.
+Airbus 
+Defence 
+and Space
+Key events 2022 
+•	Book-to-bill by value around 1.2
+•	Signing of FCAS, Eurodrone contracts
+•	Airbus-built ESM powers Orion spacecraft
+•	Progress on sustainability initiatives
+Order book (€ million)
+38,426
+(2021: 36,131)
+Revenues (€ million)
+11,259 
+(2021: 10,186)
+Net order intake (€ million)
+13,660 
+(2021: 13,656)
+EBIT Adjusted (€ million)
+384
+(2021: 696)
+17
+Airbus  /  Annual Report – Overview 2022
+Overview  /  Airbus Defence and Space
+
+Q: How was the underlying financial 
+performance?
+The year was characterised by a complex 
+operating environment. We met our financial 
+targets and delivered solid results, but were 
+confronted by multiple disruptions in the supply 
+chain that meant we had to adapt our operations 
+during the year. Commercial aircraft deliveries, 
+which are a key driver of the financial 
+performance, rose by 8% but that was only 
+around half of the increase initially planned. 
+Looking firstly at the top-line, consolidated 
+revenues rose by 13% year-on-year to € 58.8 
+billion and mainly reflected the higher commercial 
+aircraft deliveries, increased contributions from 
+Airbus Helicopters and Airbus Defence and 
+Space, along with the appreciation of the US 
+dollar. EBIT Adjusted, which measures our 
+underlying earnings, increased by 16% to 
+€ 5.6 billion reflecting the aircraft deliveries, 
+competitiveness efforts and the overall net 
+positive impact of non-recurring elements. These 
+included positive effects related to retirement 
+obligations and progress on compliance topics, 
+and negative effects resulting from international 
+sanctions against Russia and the loss of the two 
+Pléiades Neo satellites in December 2022.
+Across the business lines, EBIT Adjusted for 
+the commercial aircraft activities increased by 
+29% to € 4.6 billion, reflecting the deliveries and 
+supported by some non-recurring elements, 
+but partially offset by a less favourable currency 
+hedging rate compared to 2021. Airbus 
+Helicopters made a positive contribution to the 
+Company’s overall performance with a 19% 
+increase in EBIT Adjusted to € 639 million, 
+reflecting higher services and good programme 
+execution. The Division’s profit margin increased 
+to 9.1% from 8.2% in 2021. Airbus Defence and 
+Space’s EBIT Adjusted however declined 45% 
+to € 384 million, mainly due to the loss of the 
+Pléiades Neo satellites, delays to the Ariane 6 
+launcher, as well as the impact of rising inflation.
+Q: What was the reported performance like?
+Consolidated EBIT reported was € 5.3 billion, 
+stable compared to 2021, with Adjustments 
+totalling a net negative € 0.3 billion. The largest 
+positive adjustment was from the technical dollar 
+pre-delivery payment mismatch and balance 
+sheet revaluation while on the negative side it was 
+related to a charge on the A400M programme. 
+As far as the bottom line goes, net income 
+amounted to € 4.2 billion and was broadly in line 
+with 2021, with reported earnings per share of 
+€ 5.40 compared to € 5.36 in 2021. The solid net 
+income performance was a factor that enabled 
+the Board to propose a higher dividend payout 
+for the year.
+Q: Can you explain the cash performance 
+in 2022?
+If we start with the gross cash flow from 
+operations of € +5.5 billion, this mainly reflected 
+the EBIT Adjusted outcome. Working capital 
+included a positive phasing impact from the 
+timing of receipts and payments and was 
+supported by the strong US dollar. Capital 
+expenditure during the year amounted to around 
+€ 2.5 billion compared to € 1.9 billion in 2021 
+as we focused on our main operational priorities 
+including the production ramp-up. 
+Solid
+in a complex year
+performance
+Dominik Asam
+Former Chief Financial Officer
+The year was characterised 
+by a complex operating 
+environment.”
+Dominik Asam, who left the Company in 
+March 2023, explains the key drivers behind 
+the 2022 financial performance, focusing on 
+earnings and cash flow.
+18
+Airbus  /  Annual Report – Overview 2022
+Overview  /  CFO interview
+
+Free cash flow before M&A and customer 
+financing totalled € 4.7 billion, up 33% year‑on‑year, 
+and was supported by the working capital phasing 
+impact and the dollar appreciation. The cash 
+evolution during the year also reflected the payment 
+of the 2021 dividend totalling € 1.2 billion and 
+pension contributions of € 0.6 billion. It’s worth 
+noting that the net pension deficit was reduced 
+during the course of 2022, mainly driven by rises 
+in interest rates. 
+The Company ended the year with an improved 
+net cash position of € 9.4 billion compared to 
+€ 7.7 billion at the end of 2021. The total liquidity 
+position further strengthened to € 31.6 billion. 
+Revenues (€ million)
+58,763
+(2021: 52,149)
+EBIT Adjusted (€ million)
+5,627 
+(2021: 4,865)
+EBIT Reported (€ million)
+5,325
+(2021: 5,342)
+Net income (€ million)
+4,247
+(2021: 4,213)
+Reported earnings per share(1) (€)
+5.40
+(2021: 5.36)
+Free cash flow before M&A and 
+customer financing (€ million)
+4,680
+(2021: 3,515)
+CFO succession
+Airbus SE announced in February 2023 
+that Thomas Toepfer (pictured) will succeed 
+Dominik Asam as Chief Financial Officer and 
+join the Company on 1 September 2023. 
+Toepfer has been CFO of Covestro AG – 
+a DAX 40 company and one of the world’s 
+leading suppliers of premium polymers – since 
+April 2018. Dominik Asam left Airbus in March 
+2023 and Xavier Tardy is ensuring continuity 
+during the interim period in addition to his role 
+as Executive Vice President Finance for 
+Airbus Defence and Space.
+(1)	 FY2022 average number of shares 787,080,579 
+compared to 785,326,074 in FY2021.
+Q: How would you summarise your time 
+at Airbus?
+There was obviously quite a steep learning curve 
+to begin with when I joined Airbus from the world 
+of semiconductors back in 2019. However, 
+these are both technology- and innovation-led 
+industries and I’m grateful for my colleagues in 
+Finance and beyond for quickly bringing me up 
+to speed. Looking back, the Company had to 
+weather some major challenges to its balance 
+sheet, including the pandemic and the 
+compliance settlement payments, but it still 
+closed 2022 with a strong liquidity position. 
+Finally, I’d like to wish my successor all the best 
+and no doubt I’ll have a sense of pride every 
+time I step onto an Airbus aircraft in the future!
+19
+Airbus  /  Annual Report – Overview 2022
+Overview  /  CFO interview
+
+ Airbus SE
+ DAX 40
+ CAC 40
+ MSCI World Aerospace and Defence Index
+Dec
+2019
+2020
+2021
+2022
+130%
+120%
+110%
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+Dec
+2020
+Dec
+2021
+Dec
+2022
+Free ﬂoat(1)
+SOGEPA (French State)
+GZBV (German State)
+SEPI (Spanish State)
+(1) Includes shares held by the Company itself.
+11%
+4%
+11%
+74%
+Shareholding structure 
+As of 31 December 2022
+Annual General Meeting: 
+19 April 2023
+E-mail: ir@airbus.com 
+Website: www.airbus.com
+Share price evolution
+although defence stocks surged amid the 
+announcement of defence budget increases, 
+and as investors started to reconsider their 
+stance towards the sector. 
+In the second quarter, while global equity markets 
+were volatile in line with the aforementioned 
+macro environment, Airbus SE’s announcement 
+that it would increase the monthly production rate 
+of the A320 Family to 75 supported the share 
+price, as did the solid financials for the first 
+quarter. Later, the Airbus SE share price was 
+impacted by lower-than-expected deliveries, 
+suppliers’ comments on production delays and 
+concerns around the potential impact of energy 
+shortages on Airbus production. 
+In the third quarter, equity markets partially 
+recovered before retreating from mid-August due 
+to inflationary pressures, central banks’ monetary 
+policy decisions and growing fears of recession. 
+Airbus SE’s share price was also under pressure 
+following the A320 Family production ramp-up 
+In 2022, the Airbus SE share price was 
+rather volatile and closed at € 111.02, 
+down 1.2%. 
+After opening at € 113.60 in January, the Airbus 
+SE share price started the year in positive 
+territory, supported by the full-year 2021 
+commercial aircraft orders and deliveries 
+performance. Later in the first quarter, Airbus 
+SE’s share price – in line with global equity 
+markets – suffered from overall supply chain 
+tensions, inflationary pressures and the COVID-19 
+resurgence in China. This was aggravated from 
+mid-February by Russia’s invasion of Ukraine, 
+adjustment announced in the Company’s first-half 
+results, despite a strong financial performance. 
+In the fourth quarter, besides following the 
+upward trend of global markets, supported by 
+signs of cooling inflation and slower tightening 
+of interest rate policy, Airbus SE’s share price 
+reacted positively to the Company’s increased 
+free cash flow guidance. This guidance raised 
+investors’ expectations for higher shareholder 
+returns. Towards the end of the year, though, 
+Airbus SE’s share price experienced turbulence 
+after rumours about delivery delays in 2023, and 
+following the withdrawal of delivery guidance for 
+the 2022 financial year, alongside the ramp-up 
+adjustment announcement. 
+With a stable performance throughout 2022 
+(-1%), Airbus SE shares outperformed the 
+CAC 40 index (-9%) and the DAX 40 index (-12%), 
+but underperformed the aerospace and defence 
+sector (MSCI World Aerospace and Defence 
+Index +11%).
+information
+Share
+Overview  /  Share information
+20
+Airbus  /  Annual Report – Overview 2022
+
+Designed and produced by Superunion
+www.superunion.com
+Image credits
+Cover © Airbus SAS 2022
+p.2 © Airbus Defence and Space GmbH 2019
+p.2 © Airbus SAS 2022
+p.3 © Airbus SAS 2022
+p.3 © Airbus SAS 2022
+p.3 © Airbus SAS 2022
+p.3 © Airbus Helicopters 2022 Anthony PECCHI
+p.4 © Airbus SAS 2022
+p.5 Victor Chu, Jean-Pierre Clamadieu © Airbus 
+SAS 2019, René Obermann, Guillaume Faury, 
+Ralph D. Crosby, Jr., Mark Dunkerley, Stephan 
+Gemkow, Catherine Guillouard, Amparo 
+Moraleda, Irene Rummelhoff, Antony Wood © 
+Airbus SAS 2022, Claudia Nemat © Airbus SAS
+p.6 © Airbus SAS 2022
+p.7 © Airbus SAS
+p.8 © Airbus SAS 2022
+p.9 © Neste 2022
+p.10 © Airbus Defence and Space GmbH 2022
+p.11 © NASA
+p.12 © Airbus Defence and Space GmbH 2022
+p.13 © Airbus SAS 2004
+p.13 © Airbus SAS 2022
+p.14 © Renata Ahumada 2022
+p.14 © Airbus Defence and Space GmbH 2022
+p.14 © Airbus SAS 2019
+p.14 © Airbus SAS 2019
+p.15 © Airbus SAS 2021
+p.16 © Airbus Helicopters 2019 Eric RAZ - 
+IMAGINR
+p.17 © Airbus Defence and Space GmbH 2021
+p.18 © Airbus SAS 2019
+p.19 © Covestro
+p.20 © Airbus SAS 2021
+All rights reserved.
+Safe Harbour Statement
+This document includes forward-looking 
+statements. Words such as “anticipates”, 
+“believes”, “estimates”, “expects”, “intends”, 
+“plans”, “projects”, “may” and similar expressions 
+are used to identify these forward-looking 
+statements. Examples of forward-looking 
+statements include statements made about 
+strategy, ramp-up and delivery schedules, 
+introduction of new products and services and 
+market expectations, as well as statements 
+regarding future performance and outlook. By 
+their nature, forward-looking statements involve 
+risk and uncertainty because they relate to future 
+events and circumstances and there are many 
+factors that could cause actual results and 
+developments to differ materially from those 
+expressed or implied by these forward-
+looking statements.  
+These factors include but are not limited to:
+•	Changes in general economic, political or 
+market conditions, including the cyclical 
+nature of some of Airbus’ businesses; 
+•	Significant disruptions in air travel (including 
+as a result of the spread of disease or 
+terrorist attacks);
+•	Currency exchange rate fluctuations, in 
+particular between the Euro and the US dollar;
+•	The successful execution of internal 
+performance plans, including cost reduction 
+and productivity efforts;
+•	Product performance risks, as well as 
+programme development and 
+management risks;
+•	Customer, supplier and subcontractor 
+performance or contract negotiations, 
+including financing issues;
+•	Competition and consolidation in the 
+aerospace and defence industry;
+•	Significant collective bargaining labour 
+disputes;
+•	The outcome of political and legal processes, 
+including the availability of government 
+financing for certain programmes and the size 
+of defence and space procurement budgets;
+•	Research and development costs in connection 
+with new products;
+•	Legal, financial and governmental risks 
+related to international transactions;
+•	Legal and investigatory proceedings and other 
+economic, political and technological risks 
+and uncertainties;
+•	Changes in societal expectations and 
+regulatory requirements about climate change;
+•	The full impact of the COVID-19 pandemic 
+and the resulting health and economic crisis;
+•	Aggravation of adverse geopolitical events, 
+including Russia’s invasion of Ukraine and 
+the resulting imposition of export control 
+restrictions and international sanctions, 
+and rising military tensions around the world.
+ 
+As a result, Airbus SE’s actual results may differ 
+materially from the plans, goals and expectations 
+set forth in such forward-looking statements. 
+For more information about the impact of Russia’s 
+invasion of Ukraine, see also note 2 “Ukraine 
+Crisis” of the Notes to the Airbus SE Unaudited 
+Condensed IFRS Consolidated Financial 
+Statements published 16 February 2023. 
+For more information about the impact of the 
+Macroeconomic Environment, see also note 3 
+“Macroeconomic Environment” of the Notes 
+to the Airbus SE Unaudited Condensed IFRS 
+Consolidated Financial Statements published 
+16 February 2023. For more information about 
+factors that could cause future results to differ 
+from such forward-looking statements, see 
+Airbus SE’s annual reports, including its Report 
+of the Board of Directors, Universal Registration 
+Document and the most recent Risk Factors. 
+Any forward-looking statement contained in 
+this document speaks as of the date of this 
+document. Airbus SE undertakes no obligation 
+to publicly revise or update any forward-looking 
+statements in light of new information, future 
+events or otherwise.
+21
+Airbus  /  Annual Report – Overview 2022
+
+Airbus SE
+Mendelweg 30
+2333 CS Leiden
+The Netherlands

@@ -1,0 +1,830 @@
+Combined Management Report ___ Report on Risks and Opportunities 
+81 
+Merck Annual Report 2024 
+As a global science and technology enterprise, identifying risks and opportunities is an intrinsic part of 
+making our businesses resilient and generating value. We operate in a highly complex, global and 
+interconnected business environment that further necessitates the competent management of risks and 
+opportunities. Therefore, managing risks and opportunities is an imperative and a core component of our 
+internal business planning and forecasting. We have processes, tools and responsibilities in place to enable 
+the early identification of risks and to supply effective and efficient mitigation strategies.  
+In our internal risk reporting framework, we define risks as potential future events or developments that 
+could result in unfavorable deviations from our financial and non-financial targets. Risk parameters in this 
+context are the probability of financial (quantitative) impact (EBITDA pre/operating cash flow) or non-
+financial (qualitative) impact (reputation/brand; strategy; operations; and, environment, social and 
+governance (ESG) in relation to workforce, ethics and other factors). 
+Opportunities imply favorable deviations from targets. Future events and expected developments are 
+considered in internal planning if a likely occurrence can be assumed within the planning period. The 
+following section presents the risks and opportunities that could result in favorable and unfavorable 
+deviations from existing plans and targets. 
+The following report is relevant from the perspective of both Merck KGaA and the overarching Merck 
+Group. For additional information and details regarding the non-financial topics, please refer to the Non-
+Financial Statement.  
+Three Lines of Defense  
+To organize risk management and controls, we use the well-established “Three Lines of Defense Model”, which 
+was developed by the Federation of European Risk Management Associations (FERMA), the European 
+Confederation of Institutes of Internal Auditing (ECIIA) and the Institute of Internal Auditors (IIA). The model 
+divides our company functions for controlling risks properly and effectively into three areas, the so-called lines 
+of defense:  
+The first line of defense consists of all functions that are responsible for the operational business and whose 
+day-to-day business risks can have an impact. Risk owners (i.e. the heads of the business units, enabling 
+Group functions and local Managing Directors) establish processes in accordance with the requirements set by 
+the second line of defense to identify, assess and monitor risks and to develop measures for proper risk 
+mitigation. Results of these assessments are regularly communicated to the Executive Board.  
+The second line of defense includes enabling functions at both Group and local level that control and monitor 
+the operational business (first line of defense). This includes, among other things, the design and 
+implementation of methods and procedures for risk management and the internal control system (financial and 
+non-financial) as well as its regular monitoring. 
+The third line of defense is our Internal Auditing function. As an objective and independent auditing body, it 
+examines both the operational business (first line of defense) and the controls and monitoring functions 
+(second line of defense) to ensure that risks are effectively identified, evaluated and controlled vis-à-vis the 
+Executive Board and the Supervisory Board.  
+Both the second and third line of defense functions regularly report to the Executive Board and the Audit 
+Committee of the Supervisory Board. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+82 
+Merck Annual Report 2024 
+Internal control system 
+Internal control system for the (Group) financial reporting process 
+The objective of the internal control system for the financial reporting process is to implement controls 
+that provide assurance that the financial statements are prepared in compliance with the relevant 
+accounting laws and standards. This system covers measures designed to ensure the complete, correct 
+and timely reporting and presentation of information that is relevant for the preparation of the 
+Consolidated Financial Statements and the Combined Management Report. 
+Our internal control system for financial reporting is based on the COSO (Committee of Sponsoring 
+Organizations of the Treadway Commission) framework, a globally recognized standard divided into five 
+components: control environment, risk assessment, control activities, information and communication as 
+well as monitoring activities. Each of these components is regularly documented, reviewed and/or 
+assessed. This control system aims to ensure the accuracy of the consolidated accounting process through 
+functioning internal controls with reasonable assurance. 
+The Group Financial Reporting function centrally steers the preparation of the Consolidated Financial 
+Statements of Merck KGaA as the parent company of the Merck Group. This Group function defines the 
+reporting requirements that all companies of the Group must meet. At the same time, the function steers 
+and monitors the scheduling and process-related requirements of the Consolidated Financial Statements. 
+The Business Services organization manages all changes to the equity holding structure and 
+correspondingly adapts the Group’s scope of consolidation. The consolidation process ensures the proper 
+elimination of intragroup transactions. Group-wide accounting guidelines form the basis for the 
+preparation of the financial statements in accordance with the International Financial Reporting Standards 
+(IFRS), which are submitted to Group Financial Reporting; the guidelines are adapted in a timely manner 
+to reflect changes in the financial regulatory environment and are updated to reflect internal reporting 
+requirements. For special issues, such as the accounting treatment of intangible assets within the scope of 
+business combinations in accordance with IFRS 3 or defined benefit obligations, external experts are 
+additionally involved where necessary. 
+The individual legal entities, including Merck KGaA, have a local internal control system within a global 
+framework. Where financial processes are handled by the Business Services organization, the internal 
+control system of the Business Services organization is additionally applied. Both ensure that accounting 
+complies with IFRS and with the Group accounting guidelines. 
+Group Financial Reporting provides support to the local contacts and ensures a consistently high quality of 
+reporting throughout the entire reporting process. 
+For Group financial reporting purposes, most of our subsidiaries use standard SAP software. Consolidation 
+software from SAP is also used for the elimination of intragroup transactions. A detailed authorization 
+concept ensures the segregation of duties with respect to both single entity reporting and the 
+Consolidated Financial Statements. The accounting process is generally designed to ensure that all units 
+involved adhere to the principle of dual control.  
+The operational effectiveness of our internal financial control system is regularly tested within the scope of 
+self-assessments by our legal entities and enabling Group functions. The quality is systematically reviewed 
+by a dedicated Group function for internal controls and governance. Control deficiencies are properly 
+recorded and, wherever necessary, adequate countermeasures are taken to remediate them in a timely 
+manner. 
+The overall effectiveness of our internal financial control system with regard to accounting and the 
+compliance of the relevant individual companies’ financial reporting is confirmed by both the local 
+Managing Director and the local Chief Financial Officer by signing the single entity reporting and a 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+83 
+Merck Annual Report 2024 
+separate confirmation regarding the effectiveness of the control system. For the accounting treatment of 
+balance sheet items, Group Financial Reporting closely cooperates with Risk Management to correctly 
+reflect potential risks in the balance sheet. 
+All the structures and processes described in the foregoing relate to the Group Financial Reporting 
+procedures and are subject to regular review by Group Internal Auditing based on an annual audit plan set 
+out by the Executive Board. 
+The results of the self-assessments, quality reviews and internal audits are dealt with by the Executive 
+Board, the Supervisory Board and the Audit Committee. Our internal financial control system makes it 
+possible to lower the risk of material misstatements in accounting. However, residual risk cannot be 
+entirely ruled out as no internal control system is infallible, irrespective of its design. 
+Non-financial internal control system and overall evaluation* 
+In the context of constantly evolving external and internal requirements for the management of non-
+financial risks, work continued in fiscal 2024 on the development of a procedural and organizational 
+concept as well as a roadmap for expanding non-financial risk management.  
+The non-financial internal control system aligns with the sustainability strategy and is set up corresponding to 
+the requirements of the CSRD regulation. The goal is to continuously prepare for regulatory compliance 
+pursuant to upcoming CSRD requirements by implementing organization-wide measures and controls. In 
+comparison with the previous year, the internal controls for sustainability reporting were further formalized, 
+and integration into the overall internal control system was initiated. 
+The aim of our internal control system is therefore to prevent and reduce potential risks and to actively 
+steer risks in business processes. In this way, it helps ensure that the company’s activities comply with 
+laws and regulations. The entire internal control system and the applied methods are continuously refined. 
+Responsibility for the effectiveness of the internal control system and the further development of the non-
+financial key metrics lies with the respective senior leaders or risk and process owners. 
+In 2024, all relevant aspects for evaluating the overall effectiveness of the internal control system and risk 
+management were integrated in a single confirmation process. This process included respective 
+confirmations of effectiveness by the Group functions, the local Managing Director, the local Chief 
+Financial Officer, and the business functions. The results of this assessment were presented to the 
+Executive Board, considering the recommended opportunities for improvement where applicable.  
+Given the multi-layered process landscape and the comprehensive changes regarding the catalog of 
+requirements for non-financial information, the maturity of the non-financial internal control system was 
+enhanced. Based on risk-based assessments of the financial and non-financial internal control system, 
+compliance and risk management, stakeholder confirmations, and regular general audits by Internal 
+Auditing, as of December 31, 2024, the Executive Board was not aware of any indications with regard to 
+material issues that this system is not appropriate or effective. 
+ 
+ 
+ 
+ 
+* The contents of this chapter or section are voluntary and therefore not audited. However, our auditor has read the text critically. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+84 
+Merck Annual Report 2024 
+Risk and opportunity management 
+Group Risk Management provides the organizational framework for risk management and reports to the Group 
+Chief Financial Officer. We have established a holistic risk management system aimed at safeguarding the long-
+term achievement of our Group's goals and addressing risks to ensure our continued existence and future 
+success. Within the scope of audits, Group Internal Auditing regularly reviews the performance of risk 
+management processes within the units at the local level and, at the same time, the communication of relevant 
+risks from the operating businesses to Group Risk Management. Additionally, the external auditor examines the 
+risk early warning system in accordance with section 317 (4) of the German Commercial Code (HGB) as part of 
+the year-end audit of Merck KGaA.  
+Our risk management activities aim to continuously and promptly identify, assess, and manage risks so that 
+appropriate measures can be implemented to mitigate their potential negative impact. The responsibilities, 
+objectives and procedures of risk management are outlined in our internal group standard for risk 
+management. The designated risk owners, including business heads, managing directors of the subsidiaries and 
+the heads of enabling Group functions, are responsible for overseeing and running local risk management 
+processes. These processes encompass various requirements, such as identifying risks considering internal and 
+external factors (impacting both financial and non-financial targets), analyzing risks, implementing appropriate 
+mitigation actions, establishing preventive measures and contingency plans if applicable, and documenting risks 
+and mitigation efforts. 
+The risk owners continuously assess the status of risks and report their risk portfolio to Group Risk Management 
+twice a year. To facilitate and support these activities, we employ dedicated risk management tools. Group Risk 
+Management coordinates and supervises the bottom-up risk reporting process. This includes validating the 
+plausibility of the reported risks, assessing the effectiveness of mitigation measures and time frames, and 
+determining the residual risk. The net risk is then presented in the internal risk report. 
+For the internal bottom-up risk reporting process, reporting is based on defined thresholds, and a variety of 
+distribution functions are used to reflect scenarios with varied occurrence probabilities. Risks below the global 
+reporting threshold are managed and monitored at a local level. The time frame applied for internal risk and 
+opportunity reporting is five years. It may extend beyond this time frame in specific cases, such as for 
+regulatory risks related to climate change. The outlined risks and their evaluation are based on respective 
+annual values within the reporting period. The assessment of the risks presented relates to December 31, 2024. 
+No significant changes occurred after the balance sheet date that would necessitate an amended presentation 
+of the Group’s risk situation.  
+Group Risk Management analyzes the reported information to determine the current risk portfolio of the Group. 
+This assessment is presented in a comprehensive report, accompanied by detailed explanations, to the 
+Executive Board, the Supervisory Board and relevant committees twice a year. This also encompasses a 
+quantitative aggregation of risks at Group level, using a Monte Carlo simulation. Moreover, any notable changes 
+in the assessment of existing risks or the identification of new significant risks can be reported at any time and 
+promptly communicated to the Executive Board. 
+Our internal controlling processes incorporate the opportunity management process, which is aligned with the 
+Group’s strategy within the operating units. As part of the strategy and planning processes, the business 
+sectors analyze and evaluate possible business-related opportunities. In this context, investment opportunities 
+are carefully examined and prioritized primarily in terms of their potential value proposition, ensuring optimal 
+resource allocation. We target investment in growth markets to leverage the opportunities of dynamic 
+development and customer proximity at a local level. 
+Identified opportunities that are deemed likely to occur are integrated into the business plans and forecasts. 
+Additionally, trends and events that have the potential to positively impact EBITDA pre or operating cash flow 
+are considered. These opportunities have the potential to have a positive effect on our medium-term prospects. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+85 
+Merck Annual Report 2024 
+Risk and opportunity assessment 
+The significance of a risk is evaluated based on its potential unfavorable deviation from our financial and non-
+financial targets in conjunction with the probability of occurrence of the respective risk. 
+The underlying scales for measuring these factors are shown below: 
+Probability of 
+occurrence 
+Probability of occurrence 
+Explanation 
+<1% 
+Highly improbable 
+1 – 5% 
+Improbable 
+5 – 20% 
+Possible 
+20 – 50% 
+Likely 
+>50% 
+More likely than not 
+ 
+Degree of impact 
+Degree of impact 
+Explanation 
+>€ 500 million 
+Critical negative impact on EBITDA pre and/or operating cash flow 
+€ 100 – 500 million 
+Significant negative impact on EBITDA pre and/or operating cash flow 
+€ 25 – 100 million 
+Moderate negative impact on EBITDA pre and/or operating cash flow 
+€ 10 – 25 million 
+Minor negative impact on EBITDA pre and/or operating cash flow 
+<€ 10 million 
+Immaterial negative impact on EBITDA pre and/or operating cash flow 
+ 
+To enable a thorough evaluation of both financial and non-financial risks, a qualitative rating scale is available 
+to evaluate the indirect financial impact. The use scale includes dimensions like Environmental, Social and 
+Governance (ESG), reputational, strategic, and operational aspects and is mandatory for the assessment of 
+non-quantifiable and qualitative risks. The scale categorizes the risks as low, moderate, significant, or critical 
+and provides a comprehensive reference for assessment.  
+Opportunities are assessed within their respective business environment. During short-term and strategic 
+planning, general measures of business functions are quantified, typically in relation to EBITDA pre (earnings 
+before interest, taxes, depreciation, and amortization) and operating cash flow. In addition, we identify and 
+leverage opportunities as part of our regular business operations and through our daily observation of internal 
+processes and markets.  
+Investment opportunities are primarily evaluated and prioritized using metrics such as net present value, 
+internal rate of return, return on capital employed (ROCE), and the payback period of the investment. These 
+indicators are used to assess the potential of investment projects and prioritize them accordingly. Similarly, 
+scenarios are used to simulate the impact of possible fluctuations and changes in the respective parameters on 
+results. 
+ 
+ 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+86 
+Merck Annual Report 2024 
+Business-related risks and opportunities 
+Political and regulatory risks and opportunities 
+As a global corporate group, we face political and regulatory changes in a large number of countries and markets. 
+Risk of more restrictive regulatory requirements regarding drug pricing and reimbursement as well 
+as pricing-related opportunities 
+Our business is affected by numerous regulations that are continuously changing – and could even become 
+more stringent. For example, in the Healthcare business sector, the known trend towards increasingly 
+restrictive requirements in terms of drug pricing, reimbursement and the expansion of rebate groups is 
+continuing. With globally rising healthcare expenditures, both in absolute amounts and relative to GDP, 
+healthcare budgets around the world face increasing pressure. These developments can negatively influence the 
+profitability of our products, as can market referencing between countries, and the success of market launches. 
+Foreseeable effects are considered as far as possible in the business sector’s plans. Close communication with 
+health and regulatory authorities serves as a preventive measure to avert such risks. The remaining risks 
+beyond the current plans resulting from restrictive regulatory requirements are possible to likely with an up to 
+significant impact. Additionally, an event with moderate impact could occur more likely than not. While we 
+consider the possibility of resulting price cuts in our forecasts, there is also an opportunity in the case that price 
+pressure from healthcare systems worldwide is less pronounced than expected or materializes at a later point in 
+time versus the base assumption. Additionally, as a global specialty innovator that pursues a focused leadership 
+approach in attractive therapeutic areas, we are positioned to benefit from attractive pricing schemes for 
+demonstrated major therapeutic improvements.  
+Risk of stricter regulations for the manufacturing, testing and marketing of products 
+We must adhere to a multitude of regulatory requirements regarding the manufacturing, testing and marketing 
+of many of our products. Specifically, in the European Union, we are subject to the EU chemicals regulation 
+REACH. Similar regulations are emerging globally in relevant markets, particularly in Asia. These regulations 
+demand comprehensive tests for chemicals. Moreover, the use of chemicals, such as per- and polyfluorinated 
+alkyl substances (PFAS), in production and final products could be restricted, which would negatively impact the 
+ability to manufacture and market certain products. With the EU Chemicals Strategy for Sustainability, an 
+initiative of the European Green Deal, we expect increasing demands concerning the substitution of specific 
+hazardous substances. We are constantly pursuing research and development (R&D) in substance 
+characterization and the possible substitution of critical substances so as to mitigate this risk. Further, 
+additional regulatory requirements could potentially lead to additional efforts and/or costs. Nevertheless, risks 
+of stricter regulations are classified as possible to likely with moderate impacts. 
+Risk of negative political and macroeconomic developments 
+Merck operates in an increasingly fragmented global landscape, shaped by protectionist trade policies, regional 
+competition and shifting alliances among major players such as the United States, the EU, China, and emerging 
+economies including Mexico as well as Brazil, India and other countries from the BRICS organization. The EU’s 
+2024-2025 work program, the U.S. administration’s domestic priorities, China’s push for economic self-
+sufficiency, and the rising influence of BRICS nations will fundamentally redefine global supply chains and trade 
+flows in the years to come. 
+In this complex environment, escalating geopolitical tensions add layers of uncertainty and risk. The Russia-
+Ukraine war has disrupted European supply chains and raised energy costs, influencing regional stability and 
+complicating business operations industry-wide. The Middle East conflict has intensified concerns around 
+stability in a key region for trade and innovation, raising the risk of wider regional spillovers that could impact 
+global trade. Meanwhile, rising tensions between mainland China and Taiwan add further complexity, as 
+potential disruptions to the East Asian tech and manufacturing hubs could pose challenges for our supply chain 
+and require heightened risk management efforts. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+87 
+Merck Annual Report 2024 
+The U.S. administration’s “Made in America” agenda, coupled with tightened export controls in biopharma and 
+electronics in particular, is reshaping our strategic positioning in North America. In parallel, Europe is pushing 
+for “technological sovereignty” under the European Commission’s latest initiatives. For instance, in the 
+Electronics business sector, a strong local presence in China enables us to remain competitive in the country 
+while our global footprint could provide opportunities to capture the demand shifting from Asia to other regions 
+such as the United States and Europe. Although individual industry players are delaying ongoing expansions in 
+the United States and Europe, the general trend toward a geographical shift remains, especially with regard to 
+capacities for the production of advanced microchips. 
+China’s pursuit of economic self-reliance in sectors such as pharmaceuticals, biotechnology and advanced 
+electronics remains a challenge. The country’s dual circulation strategy emphasizes local innovation and 
+domestic demand, potentially raising regulatory barriers for foreign companies. Meanwhile, other major 
+markets, including Mexico alongside Brazil, India and other countries from the BRICS organization, are taking 
+on increasingly influential roles in global trade and industry standards. India’s focus on becoming a 
+manufacturing and pharmaceutical powerhouse has led to significant investments in healthcare and tech 
+infrastructure. 
+In addition to individual market dynamics, the BRICS organization is advocating for multipolar trade 
+frameworks that aim to reduce dependency on Western-centric systems and foster stronger South-South 
+cooperation. As BRICS expands its influence on global trade policies, we are closely monitoring these 
+developments to ensure that our supply chains and regulatory strategies remain flexible and aligned with this 
+emerging trade ecosystem. 
+The evolving regional focus across these markets is likely to lead to higher operational costs and inflationary 
+pressures, particularly for companies dependent on global logistics and high-tech manufacturing. Our response 
+involves a dual approach: enhancing cost efficiency while making targeted investments in critical regions to 
+align with local regulatory landscapes and market demands. 
+Our robust risk management framework continuously monitors geopolitical and economic indicators across all 
+major regions, enabling us to adapt swiftly to new developments. This real-time monitoring capability supports 
+a proactive approach, enabling us to align with diverse regulatory priorities and mitigate disruptions across our 
+core sectors. 
+Looking forward, our strategy emphasizes resilience through regional diversification, regulatory alignment and 
+tailored investments in key regions. Besides ensuring operational continuity, this approach puts us in an ideal 
+position for long-term stability and growth across a globally interconnected and increasingly multipolar 
+economic landscape. 
+The net risks of negative geopolitical and macroeconomic developments are seen as possible and might have 
+significant to critical effects. However, our assumptions on geopolitical developments exclude scenarios with 
+severe escalation of tension. The materialization of such scenarios would jeopardize entire industries and the 
+balance of political and economic structures, posing a substantial challenge for us, as for any other company. 
+Further details on the macroeconomic development can be found under “Macroeconomic and Sector-
+Specific Environment”. 
+ 
+ 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+88 
+Merck Annual Report 2024 
+Market risks and opportunities 
+Risks and opportunities in life science 
+Our Science & Lab Solutions business unit serves customers in various sectors including the biotech and 
+pharmaceutical industries in the areas of production, testing and research, as well as public authorities and 
+research institutions. Despite current headwinds – a complex macroeconomic environment and softer market 
+demand, especially in the United States and China – the business unit is well positioned to deliver long-term, 
+profitable growth. We aim to offer our customers a streamlined experience and a comprehensive portfolio of 
+offerings to facilitate their research and analytical processes. This includes several customer solutions in 
+innovative digitalization and automation.  
+The Process Solutions business unit offers its comprehensive bioprocessing product portfolio to biotech and 
+pharma customers that are focused on developing and manufacturing traditional and novel therapies. Our 
+portfolio includes filtration devices, chromatography resins, single-use assemblies and systems, and excipients. 
+We have strategically positioned ourselves to capture numerous opportunities from the industry’s shift towards 
+biologics, coupled with the growing demand for bioproduction driven by numerous drug candidates and 
+regulatory approvals. In addition, we are well prepared to benefit from our customers’ investments in 
+expanding bioreactor capacity. Our commitment to innovation and our customer-focused approach positions us 
+to advance the field of biomanufacturing.  
+The growing use of biologics is creating a need for more efficient and higher-yield manufacturing processes. 
+This represents an opportunity for us to enable continuous and intensified processing through our ongoing 
+innovation in single-use technologies and advancements in bioproduction. Acceleration of the pharmaceutical 
+development process could lead to faster market growth and a more positive direction compared with our latest 
+plan. Conversely, a deceleration of pharmaceutical R&D activities may result in slower than anticipated market 
+development. Demand growth is expected to normalize as funding levels stabilize and the pipeline of drugs in 
+development remains robust and diverse. 
+Our Life Science Services business unit fully integrates its services as a contract development and 
+manufacturing organization (CDMO) to meet the evolving needs of our global customers across all stages of 
+drug development, from preclinical to commercialization. Our CDMO services cover a wide range of modalities, 
+including monoclonal antibodies (mAbs), high-potency active pharmaceutical ingredients (HP-APIs), antibody-
+drug conjugates (ADCs), viral and gene therapies (VGTs), and end-to-end mRNA offerings. We continually 
+invest in expanding our portfolio and production capabilities to offer specialized solutions for both traditional 
+and innovative therapies. This positions us to capitalize on the potential of the growing biopharmaceutical 
+market by providing leading CTMO services to our customers. Through quicker establishment of novel 
+modalities on the market in combination with our broad and integrated portfolio, we can increase the potential 
+beyond the assumptions reflected in our plan. For emerging biotechnology companies, the timing and 
+magnitude of a sustained return to growth of funding (venture capital and IPOs) will determine the pace of 
+growth in R&D spending, presenting both a risk and an opportunity to life science suppliers. 
+The market risks for the Life Science Services business unit are assessed as likely with moderate to significant 
+impact. 
+Further details on the industry, market developments and associated risks can be found under “Risks due to 
+increased competition and customer technology changes as well as related opportunities” and 
+“Macroeconomic and Sector-Specific Environment”. 
+Risks and opportunities in the semiconductor industry 
+Our Semiconductor Solutions business unit leverages a broad portfolio of independent technologies. This 
+enables us to supply products for every key step in wafer processing, helping our customers to achieve their 
+technology roadmaps. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+89 
+Merck Annual Report 2024 
+The underlying semiconductor industry is cyclical by nature. The current downturn has been exacerbated by a 
+recession in the wake of the Covid-19 pandemic. The economic slowdown has led to a temporary weakness of 
+the traditional industry growth drivers such as PCs, smartphones and traditional data centers, while the new 
+growth drivers, such as AI and automotive, are still too small to compensate for these effects. The multilayered 
+macroeconomic effects and poor transparency throughout the supply chain cause a certain degree of 
+uncertainty when estimating the timing and shape of the industry recovery. This uncertainty is reinforced by 
+the current dynamic around the trade conflict between the United States and China. External and internal 
+assumptions on the shape of the industry recovery and the future escalation of the trade conflict (e.g. further 
+trade restrictions) can deviate either positively or negatively. Such deviations present both an inherent 
+opportunity and a risk to our base plan.  
+Irrespective of the current turbulent macroeconomic situation, the positive medium- and long-term growth 
+prospects of our markets remain unchanged. We see long-term growth opportunities in the semiconductor 
+market due to the significantly accelerating global demand for innovative semiconductor materials with 
+potential growth upside, driven by a faster market adaptation and penetration. This demand is driven by 
+exponential data growth and highly impactful technology trends such as autonomous driving, electric vehicles, 
+Internet of Things (IoT) and 5G. We will benefit from the high material requirement, particularly of chips 
+powering AI applications, and are working with our customers on almost all of these groundbreaking 
+technological innovations in the semiconductor sector. That is why we are investing in our highly attractive 
+growth markets and purposefully expanding production capacities with a smart localization of our footprint to 
+further boost customer proximity and ensure supply stability. Having the right capacity in the right place to 
+bring new products and higher volumes to our customers enables us to stay flexible about the timing of the 
+market upswing and can serve as a competitive advantage. 
+The aforementioned trends and the continued announcements of major capacity expansions in the industry in 
+the coming years also benefit our DS&S business. With this portfolio of gas and chemical cabinets and the 
+potential to provide our largest customers with turnkey solutions for the delivery of bulk gases in the 
+manufacturing process, we are well positioned to capture upcoming opportunities.  
+The market risks for the Semiconductor Solutions business unit are likely with up to significant impact. 
+Additionally, an event with minor impact could occur more likely than not. 
+Risks due to increased competition and customer technology changes as well as related opportunities 
+In the Healthcare business sector, both our biopharmaceutical products and classic pharmaceutical business are 
+exposed to increased competition from other rival products, especially in the form of biosimilars and generics 
+but also in innovative R&D. We compete with other pharmaceutical companies in various therapeutic indications 
+and rely on high quality data to successfully market our products. For this reason, we closely observe our 
+competitive landscape and make assumptions with regard to future competitor entries that pose competition to 
+our products. Due to the uncertainty that is inherent to clinical trials, there is the possibility that competitor 
+trials fail to meet primary endpoints in their studies or deliver inferior data than we initially anticipated. If there 
+are no new competing products or if our competitors deliver less promising data, this could represent 
+opportunities for us in therapeutic areas in which we are active. 
+In the Life Science and Electronics business sectors, risks are posed by not only cyclical business fluctuations but 
+also changes in the technologies used or customer sourcing strategies. We use close customer relationships and 
+in-house further developments as well as market proximity, including precise market analyses, as mitigating 
+measures. Overall, the occurrence of these risks is possible to likely and could have a significant impact. 
+The risks due to increased competition and customer technology changes are assessed as possible to likely with 
+up to significant impacts. 
+Further details on the industry and market development can be found under “Macroeconomic and Sector-
+Specific Environment”. 
+ 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+90 
+Merck Annual Report 2024 
+Risks and opportunities of research and development  
+Innovation driven by R&D is a major element of the Group strategy – including fostering innovation at the 
+intersection of our business sectors – and is particularly important in the Healthcare business sector. In regular 
+portfolio management reviews, we continually evaluate and, if necessary, realign research areas and R&D 
+pipeline projects to focus our investments in areas where patient needs are served best. Nevertheless, R&D 
+projects can experience delays, expected budgets can be exceeded, or targets can remain unmet. Sometimes, 
+development projects are discontinued after high levels of investment at a late phase of clinical development. 
+Decisions – such as those relating to the transition to the next clinical phase – are taken with a view to balance 
+risks and opportunities.  
+In addition to in-house R&D efforts, strategic alliances with external partners and the in- and out-licensing of 
+programs also form part of the catalog of measures to develop innovative medicine and ensure the efficient 
+allocation of resources. Strategic alliances with partners as well as in- and out-licensing transactions always 
+follow a stringent selection process along clear strategic and financial decision criteria. An example of such in-
+licensing deals is the partnership with Jiangsu Hengrui Pharmaceuticals Co. Ltd. for a next-generation selective 
+PARP1 (poly (ADP-ribose) polymerase 1) inhibitor and ADC (antibody-drug conjugate), which was announced in 
+early 2024. The partnership represents a strong strategic fit, leveraging our internal DNA damage response 
+expertise and in-house ADC capabilities. This agreement provides the opportunity to advance more therapeutic 
+options for patients with difficult-to-treat cancers. In general, however, forecasting the exact number of 
+transactions per year is challenging, and furthermore, it is possible that we may not be able to identify a 
+sufficient number of in-licensing assets on financially acceptable terms. 
+The aforementioned development opportunities are associated with different types of risks. There is the risk 
+that regulatory authorities either do not grant or delay approval or grant only restricted approval. The risk that 
+undesirable side effects of a pharmaceutical product could remain undetected until after approval or registration 
+could result in a restriction of approval or withdrawal from the market. Furthermore, we cannot guarantee that 
+all the assets we are currently developing will achieve the desired commercial success. The failure to meet 
+targets in this area could have significant effects, for example due to lower net sales or the non-occurrence of 
+milestone payments from collaboration agreements. These risks are evaluated with probabilities ranging from 
+possible to likely.  
+Moreover, in Electronics, we will also continue to invest heavily in R&D in leading-edge material solutions. The 
+aim is to seize growth opportunities arising from the increasing global demand for innovative semiconductors. 
+Promising opportunities for innovation are constantly arising throughout our Semiconductor Solutions business. 
+We work closely with our customers to exploit these. Technology inflection points bring opportunities to our 
+material solutions and the chance to differentiate ourselves from the competition. 
+In addition, we see opportunities in organic light-emitting diode (OLED) materials in high-quality display 
+applications. We have been conducting R&D in the area of OLED technology for more than 15 years and have 
+grown into a well-positioned material supplier for OLEDs. Through our semiconductor and display knowledge, 
+we will be able to contribute to the new display devices including foldable displays and Augmented Reality/ 
+Virtual Reality applications, which require a broad set of materials. The increasing convergence of optical and 
+semiconductor technologies allows us to leverage existing competencies in these fields and benefit from 
+growing demands. With the acquisition of Unity-SC, we now master all key interactions of light and materials – 
+generating, modulating, guiding, and analyzing light – within one unified group. 
+More detailed descriptions on our R&D activities worldwide can be found under “Research and Development” 
+in “Fundamental Information about the Group”. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+91 
+Merck Annual Report 2024 
+Risks and opportunities related to the quality and availability of products 
+Opportunities arising from capacity expansion 
+We make targeted investments worldwide to expand our regional capacities and drive sustainable growth in all 
+three of our business sectors. 
+In fiscal 2024, we announced several new investments to expand capacity and product capabilities at facilities 
+around the world. These include investments in new state-of-the-art research and quality control labs in 
+Germany, a new bioprocessing manufacturing facility in Korea, new ADC manufacturing capabilities in St. Louis, 
+Missouri, USA, and distribution centers in Brazil and Germany. Having the right capacity in the right place 
+secures a more reliable and effective supply chain, helps meet customer demand and offers the opportunity for 
+us to capture a higher market share and a competitive advantage. However, market dynamics naturally 
+influence our expansion activities as well as utilization. We therefore review our expansion plans regularly and 
+adapt them accordingly. 
+Risks arising from project execution 
+In today’s dynamic business environment, we prioritize innovation and growth. Projects are essential for 
+achieving our strategic objectives, such as driving innovation or expansion and promoting sustainable 
+development. To effectively support further business growth and enhance efficiency, we continuously invest in 
+production facilities and equipment, IT systems, distribution centers, office buildings, and other projects. 
+However, project execution involves significant capital expenditures, making effective project management 
+critical to avoid delays and higher spending. Inadequate planning, execution errors and ineffective change 
+management can lead to inefficiencies and disruptions, resulting in increased costs and lower sales. 
+In a rapidly evolving market, delaying or deferring investments poses a risk of missing out on market growth 
+and development. To mitigate this risk, we actively monitor industry trends, conduct market research and 
+maintain a flexible project portfolio. By aligning our investment decisions with market dynamics, we aim to 
+capture opportunities and minimize the risk of being left behind. This is particularly important in industries like 
+semiconductors, where market cycles present substantial risks. Overall, the risks are possible to likely and 
+could have a moderate impact. 
+To proactively address project execution risks, we apply well-established project planning and internal control 
+practices, collaborate closely with stakeholders and conduct regular project reviews through teams and steering 
+committees. This approach enables us to detect risks early on and implement corrective actions or discontinue 
+projects that are unlikely to succeed. Through comprehensive planning, accurate cost estimations and re-
+evaluations, we monitor costs and ensure efficient resource allocation. Effective project governance and 
+prioritization further contribute to desired project outcomes.  
+Risk of a temporary ban on products/production facilities or of non-registration of products due to 
+non-compliance with quality standards 
+We are required to comply with the highest standards of quality in the manufacturing of pharmaceutical 
+products (Good Manufacturing Practice or official pharmacopoeia). In this regard, we are subject to the 
+supervision of the regulatory authorities. Conditions imposed by national regulatory authorities could result in a 
+temporary ban on products/production facilities and possibly affect new registrations with the respective 
+authority. We make the utmost effort to ensure compliance with regulations, regularly perform own internal 
+audits and carry out external inspections. Thanks to these quality assurance processes, the occurrence of a risk 
+with a moderate impact is possible; however, a significant impact cannot be entirely ruled out and depends on 
+the product concerned and the severity of the objection. 
+Risks of production availability 
+Further risks include operational failures due to fire or force majeure, for example natural disasters such as 
+floods, droughts or earthquakes, which could lead to a substantial interruption or restriction of business 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+92 
+Merck Annual Report 2024 
+activities. As far as possible and economically viable, the Group limits its damage risks with insurance coverage, 
+the nature and extent of which is constantly adapted to current requirements. Likewise, we are exposed to risks 
+of production outages and the related supply bottlenecks that can be triggered by technical problems in 
+production facilities with very high-capacity utilization. Furthermore, there are risks of supply bottlenecks due 
+to a lack or disappearance of capacity. We work towards continual mitigation of such risks by making regular 
+investments, setting up alternative sourcing options and maintaining sufficient inventory levels.   
+The occurrence of these risks with a moderate impact is considered possible, while a highly improbable 
+individual extreme event could have a critical negative effect.  
+Supply Chain Integrity  
+In 2024, we successfully navigated a complex landscape of challenges, including ongoing geopolitical tensions, 
+supply chain disruptions due to natural disasters and evolving regulatory environments. Our commitment to 
+building resilient supply chains has been pivotal in ensuring uninterrupted service across all business sectors. 
+In the Healthcare business sector, we have effectively managed the supply of our medicines, ensuring that 
+patients have access to essential therapies even as competitors faced shortages. Through proactive measures 
+such as diversifying sourcing options, building safety stocks and maintaining close relationships with suppliers, 
+we have fortified our supply reliability. 
+In Life Science, our supply resilience activities have enabled us to monitor several potential impact events 
+closely, ensuring that we remain responsive to challenges rooted in geopolitical challenges and regulatory 
+changes. Our proactive engagement with suppliers has been crucial in maintaining service continuity and 
+adapting to evolving circumstances. 
+In Electronics, events such as the earthquake in Taiwan early in the year and recent typhoons in the Pacific 
+region have tested our supply chains. However, thanks to our strong supplier relationships and ongoing efforts 
+to enhance resilience, we have avoided major disruptions. Our focus on diversifying sourcing and strengthening 
+partnerships has positioned us to navigate these challenges effectively. 
+While we acknowledge that certain vulnerabilities persist, we are committed to investing in our supply chain 
+resilience across all sectors. Overall, the likely risks could have a moderate to significant impact while single 
+improbable events could have a critical negative effect. 
+Risks due to product-related crime 
+As a leading global science and technology company and manufacturer of innovative products, we face various 
+security and crime-related risks due to the complexities of international trade and global supply chains. Our 
+products are vulnerable to counterfeiting, theft, illegal diversion, and misuse. If unaddressed, these risks could 
+lead to financial loss, reputational damage and business disruption and even compromise patient safety. To 
+mitigate these threats, we have implemented technical, operational and procedural measures to protect our 
+product integrity and supply chains while ensuring that emerging threats are managed effectively. 
+Overall, the threat resulting from product-related crime is likely with a moderate impact.  
+Risks from the use of social media 
+We and our employees are active on numerous social media platforms. The consistent and legally compliant use 
+of such platforms and their content is important in terms of increasing awareness of our brand, among other 
+things. We take all necessary precautions and have implemented processes to ensure awareness regarding the 
+proper handling of social media as well as actively managing and controlling our publications and 
+communication.  
+Nevertheless, reputational risks could result, for instance through public dialogues on social media. On the 
+qualitative rating scale, we thus rate this risk as significant. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+93 
+Merck Annual Report 2024 
+Financial risks and opportunities 
+As we operate internationally, and due to our presence in the capital markets, we are exposed to various 
+financial risks and opportunities. Above all, these are liquidity and counterparty risks, financial market risks and 
+opportunities, and risks of fluctuations in the market values of operational tangible and intangible assets as well 
+as risks and opportunities from pension obligations. 
+In the area of financial risks and opportunities, we use an active management strategy to reduce the effects of 
+fluctuations in exchange and interest rates. The management of financial risks and opportunities by using 
+derivatives is regulated through extensive guidelines. Speculation is prohibited, and derivative transactions are 
+subject to constant risk controls. The strict separation of functions between trading, settlement and control 
+functions is ensured. 
+Liquidity risks 
+To ensure continued existence, we must be able to fulfill our commitments arising from operating and financial 
+activities at any time. Therefore, to reduce potential liquidity risks, we have a central Group-wide liquidity 
+management system in place and a balanced maturity profile. The maturities of our financial liabilities are 
+aligned with our planned free cash flow. Furthermore, we have a syndicated loan facility of € 2.5 billion with a 
+term until 2029, which ensures continuing solvency if any liquidity bottlenecks occur. As our loan agreements 
+do not contain any financial covenants, these agreed lines of credit can be accessed even if our credit rating 
+should deteriorate. Additionally, we have a commercial paper program with a maximum volume of € 2.5 billion. 
+The occurrence of liquidity risk is assessed as highly improbable and with only immaterial impact. 
+Counterparty risks 
+Counterparty risks arise from the potential default by a partner in connection with financial investments, loans 
+and financing commitments on the one hand and receivables in operating business on the other.  
+As for counterparty risks from financial transactions, we review all central positions relating to trading partners 
+and their credit ratings daily. We manage financial risks of default by diversifying our financial positions and 
+through the related active management of our trading partners. Significant financial transactions involving 
+credit risk are entered into with banks and industrial companies that have a good credit rating. Moreover, our 
+large banking syndicate – the renewed syndicated loan facility of € 2.5 billion was syndicated among 15 banks 
+in 2024 – reduces possible losses in the event of default. 
+The solvency and operational development of trading partners are regularly reviewed as part of the 
+management of operational counterparty risks. Sovereign risks are also analyzed. The volume of receivables of 
+each customer is capped in line with their credit ratings. Risk-mitigating measures, such as credit insurance, 
+are used as appropriate. Nevertheless, defaults by isolated trading partners, even those with outstanding credit 
+ratings, cannot be entirely ruled out, although rated as unlikely. 
+Counterparty risks are classified as possible risks and might have moderate effects.  
+Financial market risks and opportunities 
+As a result of our international business activities and global corporate structure, we are exposed to risks 
+and opportunities from fluctuations in exchange rates. These result from financial transactions, operating 
+receivables and liabilities as well as future cash flows from sales and expenses in foreign currency. We use 
+derivatives to manage these risks and opportunities (further information can be found under “Derivative 
+financial instruments” in the “Notes to the Consolidated Financial Statements”). Foreign exchange 
+rate risks are rated as possible with a significant effect on EBITDA pre or operating cash flow. 
+Variable interest and current financial liabilities are exposed to the risks and opportunities of interest rate 
+fluctuations. Interest rate risks have a negative impact, are considered possible and pose a moderate risk overall. 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+94 
+Merck Annual Report 2024 
+Risks of impairment of balance sheet items 
+The carrying amounts of individual balance sheet items are subject to the risk of changing market and business 
+conditions and thus to changes in fair values as well. Necessary impairments could have a significant negative 
+non-cash impact on earnings and affect the accounting ratios. This applies specifically to the high level of 
+intangible assets including goodwill, which mainly derive from the purchase price allocations made in connection 
+with past acquisitions (further information can be found under “Goodwill” and “Other intangible assets” in 
+the “Notes to the Consolidated Financial Statements”). This qualitative risk might have a significant effect 
+on reputation.   
+Risks and opportunities from pension obligations 
+We have commitments in connection with pension obligations. The present value of defined benefit 
+obligations can be significantly increased or reduced by changes in the relevant valuation parameters, for 
+example, the interest rate or future salary increases. Pension obligations are regularly assessed as part of 
+annual actuarial reports. The obligations are covered by the pension provisions reported in the balance 
+sheet based on the assumptions as of the balance sheet date. Some of these obligations are funded by 
+plan assets (further information can be found under “Provisions for pensions and other post-
+employment benefits” in the “Notes to the Consolidated Financial Statements”).  
+To the extent that pension obligations are covered by plan assets consisting of interest-bearing securities, shares, 
+real estate, and other financial assets, decreasing or negative returns on these assets can adversely affect the fair 
+value of plan assets and thus result in further additions to pension provisions. By contrast, rising returns increase 
+the value of plan assets, thereby resulting in excess cover of plan liabilities. We increase the opportunities of 
+fluctuations in the market value of plan assets on the one hand and reduce the risks on the other by using a 
+diversified investment strategy. The possible risk due to pension obligations could have minor effects. 
+Assessment by independent rating agencies 
+The capital market uses the assessments published by rating agencies to help lenders assess the risks of 
+financial instruments used by us. We are currently rated by Standard & Poor’s and Moody’s. Standard & Poor’s 
+has issued a long-term credit rating of A with a stable outlook and Moody’s a rating of A3 with a stable outlook. 
+In line with market procedures, our financing conditions are closely tied to our rating. The better the rating, the 
+more favorably we can generally raise funds on the capital market or from banks. 
+Overview of Rating Development 
+ 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+95 
+Merck Annual Report 2024 
+Risks due to the divestment, acquisition and integration of companies and 
+businesses 
+The successful acquisition and integration of new businesses inherently involve risks, due primarily to the 
+uncertainty of meeting business objectives and synergy targets as well as adhering to the planned integration 
+budget. Conversely, divestments may result in liabilities and additional expenses arising from potential 
+indemnifications and commitments assured in the sale transaction or from separation costs exceeding 
+expectations. We mitigate transaction-related risks by leveraging our robust track record, conducting rigorous 
+due diligence and employing representations and warranties insurance in our merger and acquisition 
+transactions. Furthermore, we ensure seamless integration through strategic planning and execution, 
+facilitating the alignment of the acquired entities with our organizational goals. At present, only minor negative 
+impacts are likely, and we are not aware of any other risks in this domain.  
+Tax risks 
+Merck and its subsidiaries operate worldwide and are consequently subject to different national tax laws and 
+regulations. National tax audits of our entities are conducted on an ongoing basis by the tax authorities of the 
+respective countries in which we operate. Tax risks originate particularly from the changes in national tax laws 
+and regulations, and case laws and interpretations by national tax authorities as well as from significant 
+transactions such as acquisitions, divestments and reorganizations.  
+Findings of the national audit authorities of the various countries may lead to higher tax expenses and 
+payments and may also have an impact on the amount of tax receivables, and tax liabilities as well as on 
+deferred tax assets and liabilities.  
+Our tax function regularly and systematically assesses the relevant tax risks. Appropriate standards are put in 
+place to identify tax risks at an early stage in order to review, assess and mitigate them effectively and efficiently. 
+Group Tax coordinates mitigation measures with the subsidiaries. Risks in addition to those already accounted for 
+in the balance sheet are classified as improbable to possible with moderate to significant impact. 
+Information on the accounting and measurement policies for income taxes can be found under “Income tax” 
+in the “Notes to the Consolidated Financial Statements”.
+Legal risks 
+Generally, we strive to minimize and control our legal risks. To this end, we have taken the necessary 
+precautions to identify threats and defend our rights where necessary. Nevertheless, we are still exposed to 
+risks from litigations or legal proceedings. In particular, these include risks in the areas of product liability, 
+competition and antitrust law, pharmaceutical law, patent law, trademark law, data protection law, tax law, and 
+environmental protection. As a research-based company, we have a valuable portfolio of industrial property 
+rights, patents and brands that could become the target of attacks and infringements. The outcome of future 
+proceedings or those currently pending is difficult to foresee. For instance, we are currently involved in litigation 
+with Merck & Co. Inc., Rahway, New Jersey (USA) (outside the United States and Canada: MSD), against whom 
+we have filed lawsuits in various countries. This company has also sued us in the United States for trademark 
+infringement, among other things.  
+Due to long statutes of limitations or in some cases the absence thereof, it is not possible to rule out that we 
+will face third-party claims arising from the same issue despite the conclusion of legal proceedings. Court or 
+official rulings or settlements that we consider as “highly improbable” to “more likely than not” could lead to 
+expenses with a significant to critical impact on our business and earnings. Despite extensive precautionary 
+measures, non-compliance with laws and regulations leading to related consequences can never be completely 
+excluded. In our opinion, the lawsuit described below is the most significant legal risk, however this should not 
+be seen as an exhaustive overview of all legal disputes currently ongoing.  
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+96 
+Merck Annual Report 2024 
+Product liability risks 
+We are exposed to product liability risks, which can lead to considerable claims for damages and defense costs. In 
+view of this, we have taken out liability insurance to mitigate such risks. However, it could be that the insurance 
+coverage is insufficient for individual cases. Although the occurrence of product liability claims in excess of the 
+existing insurance coverage is considered improbable, individual cases could still have a critical effect. 
+Human resources risks 
+The company’s future growth relies on its innovative strength, making employee expertise and engagement 
+essential for its success in all business sectors. The market for qualified specialists and talented young staff is 
+characterized by fierce competition, while the company is also faced with the challenge of being viewed as an 
+attractive employer. To retain critical skills and expertise, it is important to proactively identify and address 
+country- and industry-specific fluctuation risks. 
+The company prioritizes recruiting and retaining specialists and talent through strategies such as employer 
+branding initiatives, global talent management, succession planning, and competitive compensation packages. 
+However, there are potential employee-related risks that could affect business activities, which are assessed as 
+having a moderate impact on a qualitative rating scale. 
+Information technology risks 
+We use a variety of IT systems and processes to optimally support our globalization. Trends in information 
+technology offer various opportunities but also harbor risks.  
+Risks due to cybercrime and the failure of business-critical applications  
+Increasing international networking and the related possibility of IT system abuse are resulting in cybercrime 
+risks for us, such as the failure of central IT systems, the loss of the data integrity or the disclosure of 
+confidential data from R&D as well as business activities, the manipulation of IT systems in process control, or 
+an increased burden or adverse impact on IT systems as a result of virus attacks.  
+We maintain and operate an information protection management system based on ISO 27001. Our governance 
+framework contains organizational, process-related and technical information security countermeasures based 
+on recognized international standards. In addition, we employ harmonized electronic and physical security 
+controls (e.g. access control and security monitoring) to bolster our ability to handle sensitive data, such as 
+trade secrets.  
+Cyber Security is part of our Group Corporate Security Office. In addition, we have a Group Chief Information 
+Security Officer and a network of Information Security Officers within the business sectors, each supported by 
+dedicated networks. The individual sectors hold risk ownership and act as our first line of cyber security 
+defense. Our Global Cyber Security function acts as a second line of defense and has responsibilities regarding 
+cyber security risk governance and oversight. Our third line of defense consists of internal audits.  
+Globally used IT applications form the basis for the contractual delivery of products and solutions. The failure of 
+business-critical IT applications could therefore have a direct influence on our ability to deliver and on the 
+quality of our products. This also applies to the failure of a data center. To achieve the required service quality, 
+we use a quality management system certified to ISO 9001 that also applies to the provision of IT. In addition, 
+to reduce the risk of failure, we operate several redundantly designed data centers. Furthermore, insurance 
+solutions for cybercrime offenses are in place at Group level.  
+Likewise, complications with the changeover of IT systems could negatively impact the earnings situation. Close 
+monitoring of critical IT projects serves to mitigate this risk.  
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+97 
+Merck Annual Report 2024 
+The effects of cybercrime or the failure of business-critical IT applications and their influence on EBITDA pre 
+and operating cash flow are considered to be likely and with a significant impact, while unlikely events could 
+lead to critical impacts.  
+Environmental, climate-related and safety risks  
+As a company with global production operations, we are exposed to risks of possible damage to personnel, 
+goods and our reputation. These include physical risks from droughts, storms, floods, extreme heat, and wind. 
+Mitigation measures such as audits, consultations and training on environmental protection, occupational health 
+and safety minimize these risks to people and the environment. We monitor these risks at our sites and those 
+of our suppliers and contract manufacturers, ensuring continuity of plant and equipment. By adhering to high 
+technical standards, our rules of conduct and all legal requirements in environmental protection and 
+occupational health and safety, we preserve goods and assets, with comprehensive insurance policies providing 
+further financial protection.  
+We continuously monitor regulatory risks associated with the transition to a low-carbon economy, which could 
+materialize through rising carbon prices via emissions trading systems, taxes or energy legislation. We aim to 
+mitigate these risks through comprehensive strategies, including our energy and CO2 management initiatives 
+and efforts to reduce process emissions, all of which are included in the implementation of our inaugural 
+transition plan. Mainly, we classify these as likely risks with moderate impacts. However, a critical impact on 
+EBITDA pre or operating cash flow cannot be fully ruled out. 
+In 2022, we performed a qualitative climate risk and vulnerability assessment covering upstream and 
+downstream activities and our own operations. In 2023 and 2024, in alignment with the recommendations of 
+the Task Force on Climate-related Financial Disclosures (TCFD), we conducted quantitative climate scenario 
+analyses focusing on upstream activities and our own operations. These assessments identified climate-related 
+risks and opportunities considering two climate pathways: the Paris Agreement-aligned 1.5°C scenario and the 
+Representative Concentration Pathway (RCP) 8.5, which corresponds to a 4°C scenario, across different time 
+horizons (2030 and 2050). We evaluated the potential effects of physical risks on our key sites, assessing 
+vulnerabilities and implementing necessary safeguards. 
+In line with our commitment to risk mitigation, we continue to develop innovative and sustainable approaches, 
+foreseeing no relevant short-term deviations from our expectations regarding impacts on EBITDA pre or 
+operating cash flow.  
+For further details on climate-related risks, please see our “TCFD Report”. 
+ 
+ 
+
+ 
+Combined Management Report ___ Report on Risks and Opportunities 
+98 
+Merck Annual Report 2024 
+Overall view of the risk and opportunity situation and management 
+assessment 
+The most significant individual risks or risk clusters have been outlined in this report, with business- and 
+market-related risks being the most significant alongside IT, supply chain and legal risks. Of particular 
+significance are the still ongoing global macroeconomic and geopolitical developments, increasing existing risks 
+related to more restrictive regulatory requirements regarding drug pricing and reimbursement, the demand for 
+our products, business interruptions at our production sites, lack of availability of good quality materials or 
+services, and risks related to R&D. 
+By implementing risk mitigation measures such as continually improving management actions (organizational 
+responsibilities and process improvements), utilizing existing insurance coverage and taking accounting 
+precautions, we have successfully taken counteraction, particularly against significant individual risks.  
+The overall risk of the Group, which is derived from the probability-weighted aggregation of the identified risks, 
+leads to the assessment that an existence-threatening risk-scenario, for which coverage and financing of the 
+losses are questionable, is improbable. We are convinced that we will also successfully manage the 
+aforementioned challenges in the future and benefit from diversification through our different products and 
+markets. 
+Based on our assessment, we believe that the most promising opportunities arise from business-related 
+opportunities. The activities described hold significant opportunities for us in the medium to long term, beyond 
+the forecast period. We actively pursue the opportunities that arise and specify their expected effects in the 
+forecast development of EBITDA pre and operating cash flow. Additionally, we proactively seek out new 
+opportunities, assess their feasibility and drive them forward where appropriate. If opportunities arise in 
+addition to the forecast developments, or these occur more quickly than anticipated, this could have positive 
+effects on our EBITDA pre or operating cash flow.

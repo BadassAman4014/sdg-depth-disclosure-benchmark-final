@@ -1,0 +1,2459 @@
+Annual financial statements  
+of Carl Zeiss Meditec AG (HGB)
+Fiscal year 2022/23
+
+Contents
+Summary management report	
+3
+ 
+Balance sheet (HGB)	
+4
+ 
+Income statement (HGB)	
+6
+ 
+Notes to the annual financial statements	
+7
+General information and explanatory notes 
+to the annual financial statements	
+7
+Notes to individual items in the balance sheet	
+14
+Notes to individual items in the 
+income statement	
+21
+Other mandatory disclosures	
+23
+ 
+Declaration by the legal representatives	
+31
+Independent Auditor’s report	
+32
+Financial calendar	
+39
+Imprint/Disclaimer	
+39
+
+3
+Summary management report
+The management report of Carl Zeiss Meditec AG and the Group management report have been  
+consolidated pursuant to Section 315 (3) HGB, in conjunction with Section 298 (3) HGB,  
+and published in the 2022/23 Annual Report.
+The annual financial statements and summary management report for Carl Zeiss Meditec AG  
+and the Group for fiscal year 2022/23 are submitted electronically to the authority maintaining  
+the company register for inclusion in the company register.
+They are also available for inspection on Carl Zeiss Meditec AG’s website at  
+https://www.zeiss.com/meditec-ag/home.html.
+
+4
+Carl Zeiss Meditec AG, Jena
+Balance sheet (HGB)
+as of 30 September 2023
+Note
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+ASSETS
+A. Fixed assets
+(5)
+I. Intangible fixed assets
+1. Purchased concessions, industrial and similar rights and assets, and licenses in such rights and assets
+16,578
+24,502
+2. Goodwill
+14,668
+22,002
+3. Prepayments
+4,842
+3,693
+36,088
+50,197
+II. Tangible assets
+1. Land, land rights and buildings, including buildings on third-party land
+1,795
+1,867
+2. Technical equipment and machinery
+22,383
+13,877
+3. Other office equipment, fixtures and fittings
+26,073
+20,890
+4. Payments on account and assets under construction
+35,842
+19,356
+86,093
+55,990
+III. Financial assets
+1. Shares in affiliated companies
+609,698
+589,752
+2. Loans to affiliates
+81,432
+36,194
+3. Investments
+13,345
+11,956
+4. Long-term securities
+1,772
+1,772
+5. Other loans
+4,171
+1,637
+710,418
+641,311
+832,599
+747,498
+B. Current assets
+I. Inventories
+(6)
+1. Raw materials, consumables and supplies
+154,507
+110,878
+2. Unfinished goods
+43,341
+36,229
+3. Finished goods and merchandise
+122,072
+73,226
+4. Prepayments
+367
+-
+5. Payments received on account of orders
+-2,790
+-3,139
+317,497
+217,194
+II. Receivables and other assets
+1. Trade receivables
+(7)
+19,222
+17,804
+2. Receivables from affiliated companies
+(8)
+1,010,731
+1,031,385
+3. Other assets
+(9)
+41,743
+29,035
+1,071,696
+1,078,224
+III. Cash-in-hand and bank balances
+(10)
+47
+55
+1,389,240
+1,295,473
+C. Prepaid expenses
+(11)
+2,760
+2,315
+Total ASSETS
+2,224,599
+2,045,286
+
+5
+Note
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+EQUITY AND LIABILITIES
+A. Equity
+(12)
+I. Subscribed capital
+89,441
+89,441
+II. Capital reserve
+954,942
+954,942
+III. Revenue reserves
+Other sales reserves
+2,940
+2,940
+IV. Net retained profits
+722,641
+601,487
+1,769,964
+1,648,810
+B. Special item for investment subsidies
+595
+-
+C. Provisions
+(13)
+1. Provisions for pensions and similar obligations
+68,932
+46,018
+2. Provisions for taxes
+12,259
+14,573
+3. Other provisions
+142,876
+154,998
+224,067
+215,589
+D. Liabilities
+(14)
+1. Trade payables
+109,409
+78,816
+2. Liabilities to affiliated companies
+107,196
+91,171
+3. Other liabilities
+11,710
+9,214
+228,315
+179,201
+E. Deferred income
+(15)
+1,658
+1,686
+Total EQUITY AND LIABILITIES
+2,224,599
+2,045,286
+Carl Zeiss Meditec AG, Jena 
+Balance sheet (HGB)
+as of 30 September 2023
+
+6
+Carl Zeiss Meditec AG, Jena
+Income statement (HGB)
+from 1 October 2022 to 30 September 2023
+Note
+2022/23 
+1 Oct 22 to 
+30 Sep 23
+2021/22 
+1 Oct 21 to 
+30 Sep 22
+Change
+€k 
+€k 
+in %
+Sales
+(17)
+1,485,204
+1,353,273
+9.7 %
+Increase in inventories of finished goods and work in progress
+39,297
+11,192
+251.1 %
+Other own work capitalized
+26,014
+8,309
+213.1 %
+Other operating income
+(18)
+95,338
+45,853
+107.9 %
+Cost of materials
+-686,647
+-542,790
+26.5 %
+a) Cost of raw materials and supplies, and of purchased merchandise
+-678,570
+-535,185
+26.8 %
+b) Cost of purchased services
+-8,077
+-7,605
+6.2 %
+Personnel expenses
+-256,526
+-199,278
+28.7 %
+a) Wages and salaries
+-203,448
+-157,181
+29.4 %
+b) Social security and other pension costs
+-53,078
+-42,097
+26.1 %
+- thereof in respect of post-employment benefits
+-22,673
+-18,284
+24.0 %
+Amortization on intangible assets and depreciation of tangible assets
+-27,015
+-25,603
+5.5 %
+Other operating expenses
+(19)
+-374,407
+-354,228
+5.7 %
+Income from long-term equity investments
+(20)
+2,283
+3,602
+-36.6 %
+of which from affiliated companies
+2,283
+3,602
+-36.6 %
+Income from profit transfer agreements
+(21)
+-
+640
+-100.0 %
+Expenses from loss transfers
+(21)
+-542
+-
+Income from long-term loans
+1,979
+470
+321.1 %
+of which from affiliated companies
+1,562
+470
+232.3 %
+Other interest and similar income
+17,318
+949
+1,724.9 %
+of which from affiliated companies
+17,094
+387
+4,317.1 %
+Write-downs of long-term financial assets and securities classified as current assets
+-4,931
+-12,549
+-60.7 %
+Interest and similar expenses
+(22)
+-1,615
+-16,777
+-90.4 %
+thereof to affiliated companies
+-
+-
+Result before tax
+315,750
+273,063
+15.6 %
+Income taxes
+(23)
+-95,834
+-107,277
+-10.7 %
+Result after tax
+219,916
+165,786
+32.7 %
+Other taxes
+(24)
+-377
+-307
+22.8 %
+Net income for the fiscal year
+219,539
+165,479
+32.7 %
+
+7
+Notes to the annual financial statements for  
+fiscal year 2022/23
+GENERAL INFORMATION AND EXPLANATORY NOTES TO THE  
+ANNUAL FINANCIAL STATEMENTS
+1 Description of operations
+Carl Zeiss Meditec AG, Jena (“Company”) is engaged in the development, manufacture and marketing of products 
+and systems as well as the rendering of services for diagnosis and treatment in the field of medical technology. 
+Carl Zeiss Meditec AG's headquarters are located in 07745 Jena, Germany (Göschwitzer Straße 51-52), Germany’s 
+traditional center of excellence for optical and optical-related technologies. Additional operating facilities are  
+located in Oberkochen, Berlin and Munich. The Company has major subsidiaries in the USA, France, Japan, 
+Spain, the United Kingdom, Turkey and Germany. Together, these form the Carl Zeiss Meditec Group.
+Users of the Company’s products are primarily physicians, particularly surgeons, in various fields and hospitals 
+worldwide. Global distribution is handled by the Company’s own distribution companies or the distribution 
+network of Carl Zeiss AG, Oberkochen.
+Carl Zeiss Meditec AG is recorded in the commercial register of Jena Local Court under HRB 205623.
+2 Foundation, stock exchange listing
+Carl Zeiss Meditec AG was originally founded on 4 October 1995 as AESCULAPMEDITEC GmbH with its registered 
+office in Jena.
+On 10 November 1999 AESCULAP-MEDITEC GmbH changed its legal form to a stock corporation (Aktien- 
+gesellschaft). The Company went public on 22 March 2000 and was listed on the Frankfurt Stock Exchange.
+3 Annual financial statements according to HGB and AktG,  
+consolidated financial statements
+The figures in the annual financial statements of Carl Zeiss Meditec AG for the fiscal year ending on  
+30 September 2023 are stated in thousands of euros (€k) – unless specified otherwise - in accordance with the 
+provisions of the German Commercial Code (HGB) and the German Stock Corporation Act (AktG). As of the 
+balance sheet date, 30 September 2023, the Company is a large stock corporation as defined by Section 267 (3) 
+and (4) HGB.
+In order to give a better insight into the Company’s net assets and financial position, the classifications in the 
+balance sheet have been expanded in accordance with Section 265 (5) HGB to include the liabilities-side item 
+“Special item for investment subsidies”. Contrary to prior fiscal years, the income statement has been prepared 
+using the total cost format. Details on this can be found in chapter 4 “Information and explanatory notes on 
+accounting and valuation principles” in the section “Income statement”.
+The Company is included in the consolidated financial statements of Carl Zeiss AG, Oberkochen, Germany, 
+which prepares the consolidated financial statements for the largest and, at the same time, smallest group of 
+companies, and publishes them in the business register.
+The Company also prepares consolidated financial statements according to the International Financial Reporting 
+Standards (IFRSs). The consolidated financial statements of Carl Zeiss Meditec AG are published in the business 
+register. The consolidated financial statements can also be obtained from Carl Zeiss Meditec AG in Jena on 
+
+8
+NOTE
+request. They are also available for inspection on Carl Zeiss Meditec AG’s website at https://www.zeiss.com/
+meditec-ag/home.html.
+The following accounting and valuation principles were mainly applied unchanged for the preparation of the 
+annual financial statements.
+For better clarity and transparency, the disclosures to be made in accordance with the statutory provisions for 
+the items in the balance sheet and income statement, as well as the optional disclosures to be made in the 
+balance sheet and income statement, are for the most part included in the notes accompanying the financial 
+statements.
+4 Information and explanatory notes on accounting and valuation  
+principles
+Fixed assets
+Intangible fixed assets
+Purchased intangible fixed assets are carried at cost less scheduled straight-line amortization in accordance 
+with their expected useful life. The underlying estimated useful lives range between three and seventeen years. 
+Extraordinary write-downs to the lower of cost or market are performed where impairments are expected to be 
+permanent. Internally generated intangible fixed assets are not recognized.
+The goodwill arising from the merger transactions on 1 October 2010 is amortized in accordance with the 
+expected useful life. This is more than 5 years, provided that the purchased assets can be expected to make 
+a positive contribution to earnings over a longer period. The estimated useful life of goodwill of the former 
+companies Carl Zeiss Surgical GmbH, *AcriTec GmbH and Carl Zeiss Medical Software GmbH was determined 
+to be 15 years. The Company made use of the option under the German Accounting Law Modernization Act 
+(Bilanzrechtsmodernisierungsgesetz, BilMoG), as the investment is considered a long-term investment. Points of 
+reference for estimating the individual useful operating life include the continually expanding market for medical 
+technology, the positive economic and business conditions, the very low levels of employee turnover at the 
+acquired companies and the life cycles of the products which, thanks to patent protection, etc., range between 
+10 and 20 years.
+As of 30 September 2023 no development expenses were capitalized due to the recognition option.
+Tangible fixed assets
+Tangible fixed assets are carried at cost less scheduled depreciation.
+In addition to direct material costs and direct production costs, the production costs of internally generated 
+assets also include an appropriate portion of the material and production overheads, as well as the pro rata 
+depreciation of the fixed assets in production.
+Tangible fixed assets are depreciated in accordance with their expected useful life. Movable items of tangible 
+fixed assets added before the enactment of the BilMoG, are – as a general rule – subject to the sliding-scale 
+method of depreciation. A transition shall be made to the straight-line method in the year in which the  
+straight-line method results in higher annual depreciation amounts for the first time. Applying the straight-line  
+depreciation method to these assets would have resulted in only minor deviations in fiscal year 2022/23. The 
+other assets are depreciated on a straight-line basis. Low-value assets up to a value of € 800.00 are written off 
+in full in the year of acquisition. Additions to tangible fixed assets are depreciated pro rata temporis.
+
+9
+NOTE
+The depreciable assets were depreciated on a straight-line basis in accordance with their expected useful lives. 
+The following useful lives were applied:
+ » Buildings, including buildings on third-party land	
+2 to 33 years
+ » Technical equipment and machinery: 	
+2 to 21 years
+ » Other office equipment, fixtures and fittings:	
+2 to 23 years
+Extraordinary write-downs to the lower of cost or market are performed where impairments are expected to 
+be permanent. If the reasons for an extraordinary write-down no longer exist, the impairment loss shall be 
+reversed up to a maximum of the depreciated cost.
+Prepayments are recognized at nominal value.
+Financial assets
+Under long-term financial assets, shares in affiliated companies, other long-term equity investments and  
+securities are recognized at cost and loans are recognized at nominal value. Appropriate valuation allowances 
+are made for potential risks and impairment of financial assets.
+Current assets
+Inventories
+Raw materials, consumables and supplies are valued at cost or moving average price. The lower of cost or 
+market principle is strictly applied for this valuation.
+Work in progress and finished goods are measured at cost. In addition to direct material costs and direct 
+production costs, these also include an appropriate portion of the material and production overheads, as well 
+as the pro rata depreciation of the fixed production assets. Inventory risks relating to the storage period or 
+reduced marketability were taken into account by write-downs using a combination of the lower of cost or 
+market test, marketability discounts and loss-free valuation, and by special individual write-downs.
+Trade goods are valued at the lower of cost or market as of the balance sheet date.
+Prepayments and payments received on account of orders are recognized, respectively, at their nominal value 
+and settlement amount.
+Receivables and other assets
+Receivables and other assets are stated at their nominal amount. Appropriate individual valuation allowances 
+have been set up for discernible individual risks. The general credit risk on trade receivables has been taken into 
+account by a general bad debt allowance.
+Receivables due after more than one year are discounted.
+Equity
+Subscribed capital
+This is measured at the nominal amount.
+
+10
+NOTE
+Authorized capital
+Authorized Capital 2022
+Pursuant to Art. 4 (5) of the Articles of Association of Carl Zeiss Meditec AG, the Company has an Authorized 
+Capital. Subject to the approval of the Supervisory Board, the Management Board is accordingly authorized 
+to increase the share capital, on one or several occasions in the period until 29 March 2027, by up to a total 
+of € 26,500,000.00. New no-par value bearer shares can be issued against cash and/or contributions in kind 
+for this. The Management Board was authorized, subject to the approval of the Supervisory Board, to exclude 
+shareholders’ statutory subscription rights in the following cases: 
+ » to balance out fractional amounts,
+ » if the capital increase is effected against cash contributions and the new shares, for which the subscription  
+rights are excluded, are equivalent to no more than 10% of the share capital, neither on the date the increase 
+becomes effective, nor on the date this authorization is exercised, and the issuing price of the new shares 
+is not significantly lower than the market price of shares of the same type and structure already publicly 
+quoted. Sales of own shares on the basis of other authorizations pursuant to Section 186 (3) sentence 4 
+AktG must be taken into account in the restriction to 10% of the share capital. 
+ » for capital increases against contributions in kind to grant shares for the purpose of acquiring companies, 
+parts thereof or interests in a company. 
+The Management Board is authorized, subject to the approval of the Supervisory Board, to specify the further 
+details of capital increases from Authorized Capital.
+Treasury shares
+Based on the resolution of the Annual General Meeting of Carl Zeiss Meditec AG on 6 August 2020, the 
+Management Board is authorized to purchase own shares. This authorization is valid until 5 August 2025. The 
+shares may be purchased, subject to the approval of the Supervisory Board:
+ » to offer them for purchase to employees of the Company and the companies affiliated with the Company 
+within the meaning of Section 15 et seqq. German Stock Corporation Act (AktG) – noting that the right of 
+shareholders to subscribe to own shares is excluded – or
+ » as a (part-)consideration within the scope of business combinations or to acquire companies, investments 
+in companies or parts of companies and other assets, for example, land or buildings or receivables from the 
+Company or companies affiliated with it within the meaning of Section 15 et seqq AktG – whereby the right 
+of shareholders to subscribe to own shares is also excluded – or
+ » to recall them.
+This authorization is limited to the purchase of shares equivalent to a proportionate amount of the share 
+capital of €8,940,000.00. The shares shall be purchased at the stock exchange. The consideration paid by 
+the Company per share (excluding incidental purchase costs) may not be more than 10% above or below the 
+closing rate of the shares in Xetra trading (or an equivalent successor system to the Xetra trading system) at 
+the Frankfurt Stock Exchange on the previous day of trading. At no time may the purchased shares, together 
+with other own shares held by the Company and ascribable to it pursuant to Section 71a et seqq. AktG, 
+exceed 10% of the share capital.
+The Company did not make use of these authorizations during fiscal year 2022/23.
+
+11
+NOTE
+Special reserve for investment subsidies
+This special item includes investment subsidies recognized as liabilities. The reversal through profit or loss 
+corresponds to the average useful life of the respective assets.
+Provisions and liabilities
+Provisions
+Provisions for pensions and similar obligations are calculated based on future wage/salary and pension trends 
+using the projected unit credit method. The calculation of the present values of the pension obligations is 
+based on the average market discount rate for an assumed residual period of 15 years. The obligations are 
+measured using Prof. Dr. Klaus Heubeck's 2018 G mortality tables.
+As of 30 September 2023 measurement is based on the following accounting principles:
+2022/23
+2021/22
+Discount rate pursuant to the German Regulation on the Discounting of Provisions  
+(Rückstellungsabzinsungsverordnung)
+1.81 %
+1.78 %
+Pension growth
+2.25 %
+2.25 %
+Salary growth
+3.00 %
+3.00 %
+Fluctuation factor
+approx. 2.00%
+approx. 2.00%
+The assets that are withheld from access to all other creditors and that are exclusively used to fulfill liabilities 
+arising from pension commitments or similar long-term commitments (plan assets in the sense of  
+Section 246 (2) Sentence 2 HGB), are recognized at fair value and offset against the relevant pension or other 
+long-term commitments.
+If there is no active market that can be used as a basis for calculating the fair value, the fair value is determined 
+using the following valuation methods: present value method and option pricing model.
+Provisions for anniversary bonuses and partial retirement were valued according to actuarial principles.
+The Company contracted out the funding of pension obligations. This outsourcing is based on the model of 
+a contractual trust arrangement (CTA). Thus the pension obligations are primarily covered by external plan 
+assets and are separate from the Company’s other operating assets. Access to the assets by the employer or 
+other third parties is generally excluded. In the event of the Company becoming insolvent, employees shall 
+have a direct claim against the pension fund.
+The Company also contracted out the financing of partial retirement obligations. As with the pension  
+commitments for the entitled group of employees, Carl Zeiss Meditec AG transferred the appropriate funds to 
+the Trustee. For further information, please refer to the notes on plan assets for pension provisions.
+The provision for deferred compensation commitments corresponds to the asset values of the reinsurance 
+policy.
+The expenses and income from discounting and compounding the above obligations and from the plan assets 
+to be offset are offset against each other (Section 246 (2) sentence 2 HGB) and recognized under other interest 
+and similar expenses.
+
+12
+NOTE
+The other provisions set up provide adequate cover for discernible risks, uncertain obligations and impending 
+losses from pending transactions. The amount to be allocated to these provisions is determined using prudent 
+commercial judgment. Cost increases not expected to have an effect until the future, up until fulfillment of 
+the obligation, were recognized for the first time. Long-term provisions are measured at their net present 
+value using the discount rates appropriate for the term in accordance with the German Regulation on the 
+Discounting of Provisions (Rückstellungsabzinsungsverordnung).
+Liabilities
+Liabilities are stated at their respective amounts payable.
+Trade payables
+These include the usual obligations in the form of trade payables to outside suppliers and accrued commissions.
+Foreign currency translation
+Receivables and liabilities denominated in foreign currency are translated using the exchange rate prevailing 
+on the date of the transaction. Exchange rate gains/losses are recognized for short-term receivables and 
+liabilities, in accordance with Section 256a HGB, through remeasurement at the average spot exchange rate 
+at the balance sheet date. In the case of a remaining term of more than one year, this shall apply only if the 
+translation results in a lower amount, for receivables, or a higher amount, for liabilities.
+Deferred taxes
+Deferred taxes are calculated on the basis of temporary and quasi-permanent differences between the carrying  
+amounts of assets, liabilities and prepaid expenses/deferred income under commercial law and their tax bases 
+using the tax rates applicable to the individual companies (29.87%, prior year: 29.87%) at the time the  
+differences are reduced, without discounting the resulting tax burden or relief. Deferred taxes result mainly 
+from the following: Valuation of intangible fixed assets, valuation of receivables (foreign currency), valuation 
+of pension commitments, valuation of other provisions and valuation of liabilities (foreign currency). Deferred 
+tax assets and liabilities are offset. Any surplus of deferred taxes is not capitalized due to exercise of the  
+recognition option that exists for this.
+Amounts excluded from distribution
+The payout block is calculated as follows:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Fair valuation of plan assets pursuant to Section 268 (8) HGB
+19,197
+21,787
+Difference in recognition of pension obligations pursuant to Section 253 (6) HGB
+8,046
+18,510
+Payout block
+27,243
+40,297
+This is offset by sufficient reserves, and therefore there is no blocking effect as a result of the payout block for 
+the net income for fiscal year 2022/23.
+Derivative financial instruments
+As a company with global operations, Carl Zeiss Meditec is exposed to the effects of exchange rate fluctuations  
+and enters into currency forward contracts to hedge against its currency risks based on planned transactions 
+in foreign currencies as hedges for peaks after natural hedge of receivables and liabilities. The aim of currency  
+hedging is to fix prices on the basis of hedging rates, to protect against future unfavorable exchange rate 
+fluctuations. These contracts generally have a term of twelve months. The fair value of currency forward 
+contracts is calculated based on the average spot exchange rate as of the balance sheet date, adjusted for 
+
+13
+NOTE
+forward premiums and discounts for the respective residual term of the contract, compared with the con-
+tracted forward exchange rate.
+As of 30 September 2023, the values of currency forward contracts were as follows:
+Market value
+Nominal value
+€k 
+€k 
+Derivatives with a negative market value
+-12,309
+441,864
+Provision for onerous contracts
+12,309
+441,864
+Currency forward contracts with a positive market value
+19,853
+544,313
+Income statement
+Contrary to prior fiscal years, the income statement for fiscal year 2022/23 has been prepared in using the  
+total cost format. This change is due, on the one hand, to a uniform, Group-wide procedure for the preparation  
+of annual financial financial statements in accordance with HGB, and, on the other, to a change in cost  
+accounting in accordance with HGB, which means it is no longer possible to apply the cost of sales format.
+An income statement comparable to the prior year prepared using the cost of sales format would look as 
+follows:
+Note
+2022/23 
+1 Oct 22 to 
+30 Sep 23
+2021/22 
+1 Oct 21 to 
+30 Sep 22
+Change
+€k 
+€k 
+in %
+Sales
+(17)
+1,485,204
+1,353,236
+9.8 %
+Cost of sales
+-643,167
+-532,927
+20.7 %
+Gross profit on sales
+842,037
+820,309
+2.6 %
+Selling expenses
+-192,719
+-150,663
+27.9 %
+General and administrative expenses
+-43,458
+-46,263
+-6.1 %
+R&D costs
+-329,591
+-258,437
+27.5 %
+Other operating income
+(18)
+95,338
+45,021
+111.8 %
+Other operating expenses
+(19)
+-70,349
+-113,239
+-37.9 %
+Income from long-term equity investments
+(20)
+2,283
+3,602
+-36.6 %
+of which from affiliated companies
+2,283
+3,602
+-36.6 %
+Income from profit transfer agreements
+(21)
+-
+640
+-100.0 %
+Expenses from loss transfer
+(21)
+-542
+-
+Income from long-term loans
+1,979
+470
+321.1 %
+of which from affiliated companies
+1,979
+470
+321.1 %
+Other interest and similar income
+17,318
+949
+1,724.9 %
+of which from affiliated companies
+17,094
+387
+4,317.1 %
+Write-downs of long-term financial assets and securities 
+classified as current assets
+-4,931
+-12,549
+-60.7 %
+Interest and similar expenses
+(22)
+-1,615
+-16,777
+-90.4 %
+thereof to affiliated companies
+-
+-
+Result before tax
+315,750
+273,063
+15.6 %
+Income taxes
+(23)
+-95,834
+-107,277
+-10.7 %
+Result after tax
+219,916
+165,786
+32.7 %
+Other taxes
+(24)
+-377
+-307
+22.8 %
+Net income for the fiscal year
+219,539
+165,479
+32.7 %
+
+14
+NOTE
+NOTES TO INDIVIDUAL ITEMS IN THE BALANCE SHEET
+5 Fixed assets
+The addition to intangible assets is mainly attributable to the acquisition of computer software. Investments 
+in tangible fixed assets in the fiscal year under review relate in particular to tools, production facilities and test 
+equipment, as well as modifications in production.
+The addition to shares in affiliated companies is mainly attributable to the acquisition of additional shares in  
+Audioptics Medical Inc., Halifax, Canada and the capital increase at CZ Meditec Holding Shanghai, Shanghai, 
+China. Write-downs to the amount of €176k relate to InfiniteVision Optics S.A.S., Strasbourg, France. The 
+increase in loans to affiliated companies relates to the new issue of expired loans to Atlantic S.A.S, Périgny/La 
+Rochelle, France, Carl Zeiss Meditec Iberia S.A., Tres Cantos, Spain and to HYALTECH Ltd., Livingston, United 
+Kingdom. Loans were also issued to Carl Zeiss Meditec S.A.S., Périgny/La Rochelle, France and Vibrosonic GmbH, 
+Mannheim, Germany. The addition to other long-term equity investments mainly results from the purchase of 
+shares in Vibrosonic GmbH, Mannheim, Germany and the acquisition of new shares in Precise Bio, Inc.,  
+Winston-Salem, USA. The write-downs on other long-term equity investments in the amount of €4,755k relate  
+to the investment in Photono Oy, Helsinki, Finland.
+The statement of changes in fixed assets is as follows:
+Acquisition and production costs
+1 Oct 2022
+Additions
+Reclassifica-
+tions
+Disposals
+€k 
+€k 
+€k 
+€k 
+Intangible fixed assets
+Purchased concessions, industrial and similar rights and assets, and licenses in such rights 
+and assets
+167,163
+538
+250
+-
+Goodwill
+110,012
+-
+-
+-
+Prepayments
+3,693
+1,399
+(250)
+-
+280,868
+1,937
+-
+-
+Tangible fixed assets
+Land, land rights and buildings, including buildings on third-party land
+4,653
+73
+-
+-
+Technical equipment and machinery
+27,032
+5,986
+5,261
+490
+Other office equipment, fixtures and fittings
+73,542
+11,849
+1,758
+1,100
+Payments on account and assets under construction
+19,356
+23,505
+(7,019)
+-
+124,583
+41,413
+-
+1,590
+Financial assets
+Shares in affiliated companies
+606,801
+19,381
+741
+-
+Loans to affiliates
+47,194
+86,632
+-
+44,394
+Investments
+11,956
+7,140
+(741)
+255
+Long-term securities
+1,772
+-
+-
+-
+Other loans
+1,637
+2,534
+-
+-
+669,360
+115,687
+-
+44,649
+1,074,811
+159,037
+-
+46,239
+
+15
+NOTE
+Accumulated depreciation and amortization
+Net book value
+30 Sep 2023
+1 Oct 2022
+Depreciation, 
+amortization 
+and write-
+downs 
+in the fiscal 
+year
+Disposals
+Reclassifica-
+tions
+Reversal of 
+impairment 
+losses
+30 Sep 2023
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+€k 
+€k 
+€k 
+€k 
+€k 
+€k 
+€k 
+167,951
+142,661
+8,712
+-
+-
+-
+151,373
+16,578
+24,502
+110,012
+88,010
+7,334
+-
+-
+-
+95,344
+14,668
+22,002
+4,842
+-
+-
+-
+-
+-
+-
+4,842
+3,693
+282,805
+230,671
+16,046
+-
+-
+-
+246,717
+36,088
+50,197
+4,726
+2,786
+145
+-
+-
+-
+2,931
+1,795
+1,867
+37,789
+13,155
+2,526
+280
+5
+-
+15,406
+22,383
+13,877
+86,049
+52,652
+8,298
+969
+(5)
+-
+59,976
+26,073
+20,890
+35,842
+-
+-
+-
+-
+-
+-
+35,842
+19,356
+164,406
+68,593
+10,969
+1,249
+-
+-
+78,313
+86,093
+55,990
+626,923
+17,049
+176
+-
+-
+-
+17,225
+609,698
+589,752
+89,432
+11,000
+-
+-
+-
+3,000
+8,000
+81,432
+36,194
+18,100
+-
+4,755
+-
+-
+-
+4,755
+13,345
+11,956
+1,772
+-
+-
+-
+-
+-
+-
+1,772
+1,772
+4,171
+-
+-
+-
+-
+-
+-
+4,171
+1,637
+740,398
+28,049
+4,931
+-
+-
+3,000
+29,980
+710,418
+641,311
+1,187,609
+327,313
+31,946
+1,249
+-
+3,000
+355,010
+832,599
+747,498
+
+16
+NOTE
+6 Inventories
+Inventories comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Inventories
+317,497
+217,194
+of which valuation allowances
+26,582
+24,352
+7 Trade receivables
+Trade receivables comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Trade receivables
+19,222
+17,804
+of which cumulative specific and global valuation allowances
+3,647
+3,551
+Discounted trade receivables due in > 1 year
+-
+18
+8 Receivables from affiliated companies
+Receivables from affiliated companies comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Trade receivables
+263,944
+254,934
+Treasury receivables from Group treasury of the ZEISS Group
+742,928
+773,314
+Other receivables
+3,859
+3,137
+Receivables from affiliated companies
+1,010,731
+1,031,385
+9 Other assets
+Other assets comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Receivables from tax office
+35,617
+27,472
+Receivables for prepayments
+4,548
+1,171
+Receivables from creditors with debit balances
+61
+141
+Other
+1,517
+251
+Other assets
+41,743
+29,035
+As in the prior fiscal year, all receivables and other assets are due within one year or less.
+
+17
+NOTE
+10 Cash-in-hand and bank balances
+Cash refers solely to bank balances. Cash investments are made with the Group treasury of the ZEISS Group 
+and are recognized under "Receivables from affiliated companies".
+11 Prepaid expenses
+Prepaid expenses comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Vacation pay
+930
+746
+Agreed supplementary payments (T-ZUG)
+795
+497
+License payments/royalties
+301
+407
+Other
+734
+665
+Prepaid expenses
+2,760
+2,315
+12 Equity
+Subscribed capital
+Carl Zeiss Meditec AG's subscribed capital amounts to €89,440,570 and is composed of 89,440,570 no-par 
+value ordinary bearer shares (no-par value shares), each with a theoretical interest in the share capital of 
+€1.00 per no-par value share. This is stated at the nominal value.
+Capital reserve
+As of 30 September 2023 capital reserves still amounted to €954,942k. 
+Revenue reserves
+As of 30 September 2023 revenue reserves still amounted to €2,940k. 
+Net retained profits
+As of 30 September 2023, net retained profits amount to:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Net income for the fiscal year
+219,539
+165,479
+Retained profits brought forward
+601,487
+516,505
+Dividend payment
+-98,385
+-80,497
+Net retained profits
+722,641
+601,487
+
+18
+NOTE
+13 Provisions
+Provisions for pensions and similar obligations
+The assets that have been transferred in trust to Carl Zeiss Pensions-Treuhand e.V., Oberkochen, as part of a 
+CTA are are therefore earmarked assets for the fulfillment of pension commitments to active employees of the 
+Company, are plan assets in the sense of Section 246 (2) Sentence 2 HGB and are therefore offset at fair value 
+against the respective pension commitments.
+Information on offsetting pursuant to Section 246 (2) Sentence 2 HGB:
+30 Sep 2023
+€k 
+Amount payable for pensions and similar obligations
+210,527
+Acquisition costs for plan assets
+123,031
+Fair value of plan assets
+142,229
+The difference between the recognition of pension provisions with a 10-year average market interest rate and 
+the recognition of pension provisions with a 7-year average market interest rate amounts to €8,046k  
+(prior year: €18,510k) ).
+The corresponding personnel expenses are included under pension costs; the interest expenses of the obligations,  
+the current income from the plan assets and the income or expenses arising from changes in the fair value of the  
+plan assets are carried under interest income. Details can be found in Section 22 “Interest and similar expenses”.
+Provisions for taxes
+This item includes for provisions for corporation and trade tax.
+Other provisions
+Other provisions comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Remaining purchase price components from company acquisitions
+44,979
+44,291
+Other provisions for employee benefits
+26,573
+20,321
+Outstanding invoices
+25,597
+25,886
+Currency forward contracts
+12,309
+37,231
+Special payments to employees
+10,170
+8,134
+Vacation entitlements and flexitime balances
+9,384
+7,133
+Warranties
+2,825
+1,705
+Litigation risks
+2,691
+2,691
+Losses on supply and purchase commitments
+1,811
+3,023
+Anniversary bonuses
+968
+909
+Contributions to employers’ liability insurance association
+669
+556
+Year-end costs
+538
+487
+Partial retirement benefits
+513
+345
+Supervisory Board remuneration
+488
+411
+Sundry other provisions
+3,361
+1,875
+Other provisions
+142,876
+154,998
+
+19
+NOTE
+Partial retirement arrangements
+The amount payable for provisions for partial retirement arrangements is €1,124k as of 30 September 2023. 
+The fair value of the CTA plan assets against which these provisions were offset is €611k. The resulting interest 
+expenses amount to €-1k.
+14 Liabilities
+Liabilities comprise the following:
+30 Sep 2023
+30 Sep 2022
+€k 
+€k 
+Trade payables
+109,409
+78,816
+Liabilities to affiliated companies
+107,196
+91,171
+Trade receivables
+106,634
+88,478
+Other liabilities
+561
+2,693
+of which liabilities to the majority shareholder
+29,721
+26,421
+Other liabilities, 
+including liabilities to other long-term investees and investors
+11,710
+9,214
+thereof from taxes
+4,171
+2,724
+of which customs and import sales tax
+6,998
+6,146
+Liabilities
+228,315
+179,201
+As in the prior year, all liabilities are due in less than one year.
+Based on the control and profit and loss transfer agreement concluded on 30 May 2017, the wholly owned 
+subsidiary Carl Zeiss Meditec Asset Management Verwaltungsgesellschaft mbH, Jena, Germany, assumed a 
+loss (prior year: profit) of €-542k (prior year: €640k) from Carl Zeiss Meditec AG in fiscal year 2022/23.
+15 Deferred income
+This item relates to deferred income for service and maintenance contracts extending beyond the end of the 
+fiscal year.
+16 Contingent liabilities and other financial obligations
+Contingent liabilities
+As of the balance sheet date there were guarantees in favor of affiliated companies for which a noted item in 
+the amount of €1 is recognized, as a quantitative value does not seem possible at the current time.
+Utilization of this liability is considered unlikely. Equity investments are tested regularly for impairment – and 
+revalued, if necessary – particularly within the scope of preparing the annual financial statements. These tests 
+did not identify any risks that jeopardize the continuation of operations of the equity investments or their 
+ability to meet their obligations.
+
+20
+NOTE
+Off-balance-sheet transactions/Other financial commitments
+Off-balance-sheet transactions in the area of rental and leasing obligations mainly relate to rent for buildings, 
+motor vehicle and bicycle leases and office equipment leases. These contracts provide an alternative source 
+of financing that essentially avoids liquidity and equity being tied up as well as the assumption of major 
+economic risks. In addition, they offer planning and costing reliability in terms of the fixed lease conditions 
+for the term of the lease. There is a risk that the Company may not have unrestricted access to the assumed 
+properties, particularly in the case of underutilization of capacity. Rental and leasing obligations were  
+calculated on the basis of the earliest possible termination dates or the end of the contractual term. The 
+nominal amounts were used.
+Rental agreements give rise to the following financial obligations:
+30 Sep 2023
+€k 
+due 2023/24
+9,611
+thereof to affiliated companies
+2,472
+due 2024/25 to 2027/28
+21,917
+thereof to affiliated companies
+363
+due after 2028/29
+6,752
+thereof to affiliated companies
+-
+The financial commitments arising from rental agreements mainly relate to rental agreements with Carl Zeiss AG, 
+Oberkochen, for rented production and office space in Jena and Oberkochen, as well as externally rented 
+production and office space in Munich and Berlin.
+The following financial commitments exist due to leases:
+30 Sep 2023
+€k 
+due 2023/24
+888
+thereof to affiliated companies
+-
+due 2024/25 to 2027/28
+-
+thereof to affiliated companies
+-
+due after 2028/29
+-
+thereof to affiliated companies
+-
+These are primarily leases for motor vehicles and bicycles.
+Purchase commitments
+The purchase commitment for investments gives rise to financial commitments of €32,072k (prior year: €58,216k).
+
+21
+NOTE
+NOTES TO INDIVIDUAL ITEMS IN THE INCOME STATEMENT
+17 Sales
+The tables below show a breakdown of sales:
+2022/23
+2021/22
+Sales by region
+€k 
+€k 
+Germany
+71,079
+68,332
+Europe, Middle East and Africa
+297,308
+246,138
+Asia/Pacific region
+901,106
+845,393
+Americas
+215,711
+193,410
+Total
+1,485,204
+1,353,273
+2022/23
+2021/22
+Sales by strategic business unit
+€k 
+€k 
+Microsurgery SBU
+374,416
+319,488
+Ophthalmic Devices SBU
+1,110,788
+1,033,785
+Total
+1,485,204
+1,353,273
+18 Other operating income
+Other operating income comprise the following:
+2022/23
+2021/22
+€k 
+€k 
+Income from foreign currency translation
+81,075
+37,136
+Reversals of write-downs of long-term financial assets
+3,000
+-
+On-charging to Group companies
+5,231
+2,786
+Prior-period income from the reversal of provisions
+3,679
+4,142
+Other
+2,353
+1,789
+Other operating income
+95,338
+45,853
+19 Other operating expenses
+Other operating expenses include expenses from foreign currency translation of €-57,464k (prior year: 
+€-102,885k).
+20 Income from long-term equity investments
+Income from long-term equity investments amounts to €2,283k (prior year: €3,602k).
+
+22
+NOTE
+21 Income from profit transfer agreements, expenses from loss transfers
+Carl Zeiss Meditec AG has a control and profit and loss transfer agreement with its wholly owned subsidiary, 
+Carl Zeiss Meditec Asset Management Verwaltungsgesellschaft mbH. In fiscal year 2022/23, this agreement 
+resulted in a loss (prior year: profit) of €-542k (prior year: €640k).
+22 Interest and similar expenses
+Other interest and similar expenses comprise the following:
+2022/23
+2021/22
+Other interest and similar expenses:
+€k 
+€k 
+from provisions for pensions
+-1,709
+-11,930
+from plan assets
+2,926
+387
+from fair value adjustment
+-2,640
+-5,048
+from compounding
+-
+-21
+from other interest expenses
+-192
+-165
+Other interest and similar expenses
+-1,615
+-16,777
+Non-current provisions, which are based on acquisition transactions (acquisition of shareholdings), are  
+compounded against the respective shares without affecting acquisition costs.
+23 Income taxes
+As in the prior year, taxes on income do not include any effects from the change in deferred taxes recognized.
+24 Other taxes
+Other taxes comprise the following:
+2022/23
+2021/22
+€k 
+€k 
+Employee-related taxes
+-319
+-278
+Vehicle tax
+-20
+-20
+Foreign input tax
+-24
+-12
+Refund of foreign input tax
+16
+3
+Other
+-30
+-
+Other taxes
+-377
+-307
+
+23
+NOTE
+OTHER MANDATORY DISCLOSURES
+25 Auditors' fees
+The Annual General Meeting on 23 March 2023 appointed PricewaterhouseCoopers GmbH Wirtschafts- 
+prüfungsgesellschaft as auditor for fiscal year 2022/23. To total fee charged by PricewaterhouseCoopers GmbH 
+Wirtschaftsprüfungsgesellschaft for the fiscal year can be seen in the corresponding notes accompanying the 
+consolidated financial statements.
+26 Disclosures on the existence of an equity interest in the Company
+Since September 2003 Carl Zeiss AG, Oberkochen, Germany, has held a direct and indirect majority interest 
+in the Company’s voting capital below the threshold of 75% pursuant to Section 33 (1) German Securities 
+Trading Act (WpHG).
+Carl Zeiss AG, Oberkochen, Germany informed the Company on 27 October 2006 that the share of the voting 
+rights held by its wholly owned subsidiary Carl Zeiss, Inc., Thornwood, USA in Carl Zeiss Meditec AG fell 
+below the threshold of 10% on 27 October 2006 and amounts to 7.47% (6,074,256 ordinary shares) from 
+this date.
+Carl Zeiss AG, Oberkochen, Germany informed the Company on 27 October 2006 that the share of the voting 
+rights held by its subsidiary Carl Zeiss Beteiligungs-GmbH, Oberkochen, Germany in Carl Zeiss Meditec AG fell 
+below the threshold of 10% on 27 October 2006 and amounts to 7.47% (6,074,256 ordinary shares) from 
+this date. All these voting rights are allocated pursuant to Section 34 (1) Sentence 1 No. 1 WpHG.
+The Capital Group, Los Angeles, USA, informed the Company on 14 February 2023 that the share of voting 
+rights held by Capital Research and Management Company, Los Angeles, USA, a subsidiary of The Capital 
+Group Companies, Inc., Los Angeles, USA, in Carl Zeiss Meditec AG exceeded the threshold of 5% on  
+13 February 2023 and amounts to 4.99% (4,464,153 ordinary shares) as of this date. 
+The Capital Group, Los Angeles, USA, informed the Company on 12 May 2023 that the share of voting rights 
+held by Capital Research and Management Company, Los Angeles, USA, a subsidiary of The Capital Group 
+Companies, Inc., Los Angeles, USA, in Carl Zeiss Meditec AG exceeded the threshold of 3% on 10 May 2023 
+and amounts to 2.94% (2,631,569 ordinary shares) as of this date.
+According to our knowledge, the remaining shares are in free float.
+
+24
+NOTE
+27 Information on shareholdings
+Information on shareholdings (consolidated companies)
+Name and registered office of the company
+in local 
+currency:
+Share of voting 
+capital (in %)
+Equity 
+30 Sep 2023
+thereof profit/loss for 
+fiscal year 2022/23
+in local currency 
+(k)
+in €k translated 
+at market rate at 
+end of reporting 
+period
+in local currency 
+(k)
+in €k translated 
+at average 
+annual 
+exchange rate
+Carl Zeiss Meditec Asset Management  
+Verwaltungsgesellschaft mbH, Jena, Germany*
+€
+100
+68,394
+68,394
+0
+0
+Atlantic S.A.S., Périgny/ La Rochelle, France
+€
+100
+61,447
+61,447
+2,256
+2,256
+Carl Zeiss Meditec S.A.S., Périgny/La Rochelle, France
+€
+100
+31,909
+31,909
+1,349
+1,349
+Carl Zeiss Meditec Vertriebsgesellschaft mbH,  
+Oberkochen, Germany*
+€
+100
+23,428
+23,428
+0
+0
+Carl Zeiss Meditec France S.A.S., Marly-le-Roi, France
+€
+100
+14,092
+14,092
+1,854
+1,854
+France Chirurgie Instrumentation S.A.S., Paris, France
+€
+100
+9,005
+9,005
+3,763
+3,763
+Carl Zeiss Meditec Iberia S.A., Tres Cantos, Spain
+€
+100
+6,749
+6,749
+738
+738
+France Chirurgie Instrumentation SUD Ltd., 
+Quatre Bornes, Mauritius
+€
+100
+3,253
+3,253
+202
+202
+Carl Zeiss Meditec Portugal Unipessoal Lda., Lisbon, 
+Portugal
+€
+100
+2,735
+2,735
+45
+45
+Preceyes B.V., Eindhoven, Netherlands
+€
+100
+403
+403
+-74
+-74
+HYALTECH Ltd., Livingston, United Kingdom
+GBP
+100
+-349
+-404
+-5,106
+-5,863
+Carl Zeiss Meditec Medikal Çözümler Ticaret ve Sanay A.S., 
+Istanbul, Turkey
+TRY
+100
+91,424
+3,147
+37,576
+1,648
+Audioptics Medical, Inc., Halifax, Canada
+CAD
+100
+19,772
+13,897
+0
+0
+Carl Zeiss Meditec Inc., Dublin, USA
+USD
+100
+601,338
+567,621
+13,936
+13,054
+Carl Zeiss Meditec USA Inc., Dublin, USA
+USD
+100
+83,383
+78,708
+32,030
+30,002
+Carl Zeiss Meditec Production LLC, Ontario, USA
+USD
+100
+21,149
+19,963
+379
+355
+Kogent Surgical LLC, Chesterfield, USA
+USD
+100
+8,331
+7,864
+-950
+-890
+Katalyst Surgical LLC, Chesterfield, USA
+USD
+100
+6,532
+6,166
+-2,339
+-2,191
+France Chirurgie Instrumentation Ophthalmics Inc., 
+Pembroke, USA
+USD
+100
+4,936
+4,659
+2,497
+2,339
+Carl Zeiss Meditec Digital Innovation risks LLC, Temple, USA
+USD
+100
+915
+864
+0
+0
+Carl Zeiss Meditec Cataract Technology, Inc., Reno, USA
+USD
+100
+-28,223
+-26,641
+-11,791
+-11,044
+Carl Zeiss Meditec (Shanghai) Holding Co. Ltd., Shanghai, 
+China
+CNY
+100
+69,608
+8,999
+-776
+-103
+Carl Zeiss Meditec Guangzhou Ltd., Guangzhou, China
+CNY
+100
+47,814
+6,181
+-4,837
+-642
+Carl Zeiss Meditec (Suzhou) Ltd., Suzhou, China
+CNY
+100
+3,056
+395
+-611
+-81
+Carl Zeiss Meditec Co. Ltd. Tokyo, Japan
+JPY
+51
+4,010,864
+25,369
+493,783
+3,332
+* Pursuant to Section 264 (3) HGB, these entities are exempted from the duty to publish their annual financial statements
+The figures shown in the tables above represent the values determined in accordance with country-specific  
+accounting regulations.
+Information on shareholdings (unconsolidated companies)
+Name and registered office of the company
+Currency
+Share of voting 
+capital (in %)
+InfiniteVision Optics S.A.S., Strasbourg, France
+€
+100
+Emmetropia, Inc., Princeton, USA
+USD
+100
+Preceyes, Inc., New York, USA
+USD
+100
+
+25
+NOTE
+28 Information on employees
+Number of employees
+In fiscal year 2022/23 the Company had an average of 2,128 employees (prior year: 1,712 employees),  
+plus 0 trainees (prior year: 4 trainees). This number does not include the members of the Management Board 
+of Carl Zeiss Meditec AG.
+The table below shows the average distribution of employees during the year across the following areas:
+Number
+Production
+701
+Sales
+429
+Administration
+194
+Research and development
+804
+Total
+2,128
+As of the balance sheet date, 30 September 2023, the Company had a workforce of 2,235 employees,  
+plus 0 trainees, plus two Management Board members.
+
+26
+NOTE
+29 Information on the Company’s executive bodies
+Management Board
+The following were appointed as members of the Management Board of Carl Zeiss Meditec AG in fiscal year 
+2022/23 and entered in the commercial register:
+Member of Management Board
+Membership of statutory supervisory 
+boards and similar supervisory bodies at 
+companies within the Carl Zeiss Group:
+Membership of statutory supervisory 
+boards and similar supervisory 
+bodies at other companies
+Dr. Markus Weber
+President and CEO of Carl Zeiss Meditec AG  
+ 
+Area of responsibility: 
+Ophthalmology SBU, Microsurgery SBU, 
+Operations, Group functions Human 
+Resources, Communications, Strategy & 
+Ventures, Digital Transformation 
+ 
+First appointed 2022 
+ 
+In addition: 
+Member of the Executive Board of  
+Carl Zeiss AG, Oberkochen, Germany
+ 
+» Member of the Board of Directors of 
+Carl Zeiss Meditec Co. Ltd., Tokyo, Japan
+» Member of the Board of Directors of 
+Carl Zeiss Co., Ltd., Tokyo, Japan; 
+ 
+» Member of the University Council of 
+Universität Ulm, Ulm, Germany
+» Member of the Administrative Board of 
+the Deutsches Museum München, 
+Munich, Germany 
+Justus Felix Wehmer 
+ 
+Area of responsibility:  
+Corporate functions Finance & Controlling, 
+Investor Relations, IT, Quality, 
+Regulatory & Clinical Affairs, Sustainability, 
+Compliance, Legal 
+ 
+First appointed 2018
+ 
+» Member of the Board of Directors of  
+Carl Zeiss Meditec Inc., Dublin, USA
+» Member of the Board of Directors of 
+Carl Zeiss Meditec Cataract Technology, 
+Reno, USA
+» Member of the Board of Directors of 
+Carl Zeiss Meditec USA, Inc., Dublin, USA
+» Member of the Board of Directors of 
+Carl Zeiss Iberia, S.L., Tres Cantos, Spain
+» Chairman of the Board of Directors of 
+Carl Zeiss Meditec Iberia S.A., Tres Cantos, 
+Spain
+» Member of the Board of Directors of  
+Carl Zeiss Meditec Co. Ltd., Tokyo, Japan
+» Chairman of the Board of Directors of 
+Carl Zeiss Meditec (Guangzhou) Ltd., 
+Guangzhou, China
+» Chairman of the Board of Directors of 
+Carl Zeiss Meditec Holding (Shanghai) Ltd., 
+Shanghai, China
+» Member of the Supervisory Board of 
+Carl Zeiss Microscopy GmbH, Jena, Germany
+» Supervisor of the Management Board of 
+Carl Zeiss Meditec (Suzhou) Co. Ltd.,  
+Suzhou, China 
+(from 19 Jan 2023)
+ 
+» Member of the Executive Board of 
+Spectaris e.V., Berlin, Germany
+» Member of Management Board of 
+Ernst Abbe Foundation, Jena, Germany
+Remuneration paid to the active members of the Management Board in financial year 2022/23
+The total remuneration paid to the active members of the Management Board pursuant to Section 285 
+No. 9a HGB amounted to €3,516k in fiscal year 2022/23 (prior year: €3,645k).
+Projected unit credits for pensions for former members of the Company’s Management Board amounted to 
+€1,515k (prior year: €1,263k).
+
+27
+NOTE
+Supervisory Board
+The Supervisory Board of Carl Zeiss Meditec AG had the following members in fiscal year 2022/23:
+Member of the Supervisory Board
+Membership of statutory supervisory 
+boards and similar supervisory bodies at 
+companies within the Carl Zeiss Group:
+Membership of statutory supervisory 
+boards and similar supervisory 
+bodies at other companies
+Dr. Karl Lamprecht 
+Chairman 
+ 
+Member of the Supervisory Board since 2020 
+ 
+Chairman of the Executive Board of Carl Zeiss 
+AG, Oberkochen, Germany 
+ 
+» Member of the Board of Directors of 
+Carl Zeiss Holding Co., Ltd. China, Shanghai, 
+China
+» Member of the Board of Directors of 
+Carl Zeiss (Shanghai ) Co. Ltd., Shanghai, 
+China
+» Chairman of the Supervisory Board of 
+Carl Zeiss SMT GmbH, Oberkochen, Germany
+» Chairman of the Board of Directors of 
+Carl Zeiss Far East Co., Ltd., Kwai Fong, NT./
+Hong Kong, China
+» Chairman of the Board of Directors  
+of Carl Zeiss India (Bangalore) Pte. Ltd., 
+Bangalore, India
+» Member of the Board of Directors of  
+Carl Zeiss Pte. Ltd. Ltd., Singapore, Singapore
+» Chairman of the Board of Directors of 
+tooz technologies, Inc., White Plains, USA 
+(until 3 Aug 2023)
+ 
+» Member of the Supervisory Board of 
+Körber AG, Hamburg, Germany
+Dr. Christian Müller  
+Member of the Supervisory Board  
+until 30 Sep 2023 
+ 
+Member of the Executive Board (CFO) of 
+Carl Zeiss AG, Oberkochen, Germany  
+(until 30 Sep 2023)
+ 
+» Member of the Management Board of 
+Carl Zeiss Pensions-Treuhand e.V.,  
+Oberkochen, Germany 
+(until 30 Sep 2023)
+» Chairman of the Board of Directors of 
+Carl Zeiss Inc., White Plains, USA  
+(until 1 Dec 2022)
+» Member of the Management Board of 
+Carl Zeiss Pensions Trust Properties,  
+White Plains, USA 
+(until 30 Sep 2023) 
+ 
+none
+Torsten Reitze  
+Member of the Supervisory Board since 2021  
+ 
+Member of the Management Board (CFO) of 
+Carl Zeiss SMT GmbH, Oberkochen, Germany 
+ 
+» Member of the Supervisory Board of  
+Carl Zeiss IMT GmbH, Oberkochen, Germany
+» Member of the Board of Directors of 
+Carl Zeiss SMS Ltd., D.N. Misgav, Israel
+» Chairman of the Board of Directors of 
+Carl Zeiss SMT, Inc., Peabody, USA
+» Member of the Board of Directors of 
+Carl Zeiss SBE LLC, White Plains, USA
+ 
+none
+Tania von der Goltz 
+Deputy Chairwoman until 22 Mar 2023 
+ 
+Member of the Supervisory Board since 2018 
+ 
+Member of the Management Board (CFO) of 
+Heidelberger Druckmaschinen AG, Heidelberg, 
+Germany 
+ 
+none
+ 
+» Member of the Advisory Board of 
+Veonet Vision GmbH, Munich, Germany
+Isabel De Paoli 
+Member of the Supervisory Board since 2020 
+  
+Partner Private Equity - Healthcare Sector,  
+EQT Partners GmbH, Munich, Germany 
+ 
+none
+ 
+none
+Peter Kameritsch  
+Member of the Supervisory Board since 2021 
+ 
+Member of the Management Board (CFO) of 
+MTU Aero Engines AG, Munich, Germany 
+ 
+none
+ 
+none
+
+28
+Member of the Supervisory Board
+Membership of statutory supervisory 
+boards and similar supervisory bodies at 
+companies within the Carl Zeiss Group:
+Membership of statutory supervisory 
+boards and similar supervisory 
+bodies at other companies
+Renè Denner* 
+Member of the Supervisory Board since 2019 
+ 
+Chairman of the Works Council of 
+Carl Zeiss Meditec AG, Jena, Chairman of the 
+General Works Council of Carl Zeiss Meditec AG, 
+Jena, Germany and 3rd Deputy Chairman of 
+the Works Council of the Carl Zeiss Group,  
+Germany 
+ 
+none
+ 
+none
+Jeffrey Marx* 
+Member of the Supervisory Board since 2020 
+ 
+Process Engineer, Deputy Chairman of the 
+Works Council of Carl Zeiss Meditec AG, 
+Berlin, Germany
+ 
+none
+ 
+none
+Brigitte Koblizek* 
+Member of the Supervisory Board since 2022 
+ 
+Industrial engineer, Deputy Chairwoman of 
+the Works Council of Carl Zeiss Meditec AG, 
+Oberkochen, Germany 
+ 
+none
+ 
+none
+Falk Bindheim* 
+Member of the Supervisory Board since 
+22 Mar 2023 
+ 
+Trade Union Secretary at  
+IG Metall Jena-Saalfeld and Gera, Jena, 
+Germany 
+ 
+none
+ 
+none
+Heike Madan* 
+Member of Supervisory Board since 
+22 Mar 2023 
+ 
+2nd Representative and Managing Director of 
+IG Metall Aalen 
+ 
+none
+ 
+» Member of the Supervisory Board of  
+ZF Automotive Germany GmbH,  
+Alfdorf, Germany
+» Member of the Supervisory Board of  
+MTU Aero Engines AG, Munich, 
+Germany 
+(until 11 May 2023)
+» Member of the Supervisory Board of  
+KONE GmbH, Hanover, Germany  
+(until 24 Feb 2023)
+Dr. Christian Münster* 
+Member of the Supervisory Board since 
+22 Mar 2023 
+ 
+Head of Regulatory and Clinical Affairs at 
+Carl Zeiss Meditec AG, Jena, Germany 
+ 
+» Member of the Supervisory Board of  
+Carl Zeiss Jena GmbH, Jena, Germany 
+(until 20 Jun 2023)
+ 
+none
+*elected employee representatives
+NOTE
+
+29
+Committees of the Supervisory Board
+Members
+General and Personnel Committee
+Dr. Karl Lamprecht, Chairman 
+Renè Denner (since 22 Mar 2023) 
+Dr. Christian Müller (until 30 Sep 2023) 
+Dr. Christian Münster (since 22 Mar 2023) 
+Tania von der Goltz (until 22 Mar 2023)
+Audit Committee
+Peter Kameritsch, Chairman 
+Renè Denner 
+Heike Madan (since 22 Mar 2023) 
+Torsten Reitze
+Nominating Committee
+Dr. Christian Müller, Chairman (until 30 Sep 2023) 
+Isabel De Paoli 
+Dr. Karl Lamprecht
+Mediation Committee
+(new since 22 Mar 2023)
+Dr. Karl Lamprecht, Chairman (since 22 Mar 2023) 
+Renè Denner (since 22 Mar 2023) 
+Jeffrey Marx 
+Torsten Reitze
+Remuneration of the active members of the Supervisory Board in fiscal year 2022/23
+The remuneration of the active members of the Supervisory Board amounted to €488k for fiscal year 2022/23 
+(prior year: €410k). 
+Advances/loans and contingent liabilities in favor of members of executive bodies
+No advances or loans were granted to members of the executive bodies. The Company did not enter into any 
+contingent liabilities in favor of members of the Management Board or Supervisory Board.
+30 Supplementary Report
+No further events of material significance for the Company's net assets, financial position and earnings  
+occurred after the end of financial year 2022/23.
+31 German Corporate Governance Code/Declaration according to  
+Section 161 AktG (German Stock Corporation Act)
+The Management Board and Supervisory Board have issued the declaration required in accordance with  
+Section 161 AktG, stating that the Company conforms and plans to conform in future to the recommendations 
+of the Government Commission on the German Corporate Governance Code, as published by the German 
+Federal Ministry of Justice in the official section of the Federal Gazette (Bundesanzeiger), and have made it 
+permanently accessible to shareholders on Carl Zeiss Meditec AG’s website at https://www.zeiss.de/med-
+itec-ag/investor-relations/corporate-governance.html. The statement also cited which recommendations the 
+Company does not yet comply with.
+NOTE
+
+30
+NOTE
+32 Appropriation of profits for fiscal year 2022/23
+Fiscal year 2022/23 closes with net income for the year of €219,538,576.53. The Management Board proposes  
+utilizing the net retained profits of €722,640,689.82 for fiscal year 2022/23 as follows:
+Payment of a dividend of €1.10 per no-par value share for 89,440,570 no-par-value shares: €98,384,627.00
+Carryforward of residual profit to new account: €624,256,062.82.
+Jena, 29 November 2023
+Carl Zeiss Meditec AG
+Dr. Markus Weber 
+President and CEO
+Justus Felix Wehmer 
+Member of the Management Board
+
+31
+DECLARATION
+Declaration by the legal representatives
+pursuant to Section 297 (2) Sentence 4 HGB and  
+Section 315 (1) Sentence 5 HGB
+To the best of our knowledge, and in accordance with the applicable reporting principles, the annual financial 
+statements of Carl Zeiss Meditec AG provide a true and fair view of the Company's net assets, financial 
+position and results of operations, and the consolidated management report includes a fair review of the 
+development and performance of the business and the position of the Company, together with a description 
+of the principal opportunities and risks associated with the expected development of Carl Zeiss Meditec AG.
+Jena, 29 November 2023
+Carl Zeiss Meditec AG
+Dr. Markus Weber 
+President and CEO
+Justus Felix Wehmer 
+Member of the Management Board
+
+32
+Independent Auditor’s report
+To Carl Zeiss Meditec AG, Jena
+Report on the audit of the annual financial statements and of the management report
+Audit Opinions
+We have audited the annual financial statements of Carl Zeiss Meditec AG, Jena, which comprise the balance 
+sheet as at September 30, 2023, and the statement of profit and loss for the financial year from October 1, 2022 
+to September 30, 2023, and notes to the financial statements, including the presentation of the recognition 
+and measurement policies. In addition, we have audited the management report of Carl Zeiss Meditec AG, 
+which is combined with the group management report, for the financial year from October 1, 2022 to  
+September 30, 2023.
+In our opinion, on the basis of the knowledge obtained in the audit,
+ » the accompanying annual financial statements comply, in all material respects, with the requirements of German 
+commercial law and give a true and fair view of the assets, liabilities and financial position of the Company 
+as at September 30, 2023 and of its financial performance for the financial year from October 1, 2022 to 
+September 30, 2023 in compliance with German Legally Required Accounting Principles, and
+ » the accompanying management report as a whole provides an appropriate view of the Company's position.  
+In all material respects, this management report is consistent with the annual financial statements, complies  
+with German legal requirements and appropriately presents the opportunities and risks of future 
+development.
+Pursuant to § [Article] 322 Abs. [paragraph] 3 Satz [sentence] 1 HGB [Handelsgesetzbuch: German Commercial  
+Code], we declare that our audit has not led to any reservations relating to the legal compliance of the annual 
+financial statements and of the management report.
+Basis for the Audit Opinions
+We conducted our audit of the annual financial statements and of the management report in accordance with 
+§ 317 HGB and the EU Audit Regulation (No. 537/2014, referred to subsequently as "EU Audit Regulation") in 
+compliance with German Generally Accepted Standards for Financial Statement Audits promulgated by the 
+Institut der Wirtschaftsprüfer [Institute of Public Auditors in Germany] (IDW). Our responsibilities under those 
+requirements and principles are further described in the "Auditor's Responsibilities for the Audit of the Annual 
+Financial Statements and of the Management Report" section of our auditor's report. We are independent of  
+the Company in accordance with the requirements of European law and German commercial and professional 
+law, and we have fulfilled our other German professional responsibilities in accordance with these requirements.  
+In addition, in accordance with Article 10 (2) point (f) of the EU Audit Regulation, we declare that we have 
+not provided non-audit services prohibited under Article 5 (1) of the EU Audit Regulation. We believe that the 
+audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions on the 
+annual financial statements and on the management report.
+Key Audit Matters in the Audit of the Annual Financial Statements
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit 
+of the annual financial statements for the financial year from October 1, 2022 to September 30, 2023.  
+These matters were addressed in the context of our audit of the annual financial statements as a whole, and 
+in forming our audit opinion thereon; we do not provide a separate audit opinion on these matters.
+In our view, the matter of most significance in our audit was as follows:
+
+33
+AUDITOR’S REPORT
+1 Measurement of shares in affiliated companies and other equity investments 
+Our presentation of this key audit matter has been structured as follows:
+1 Matter and issue 
+2 Audit approach and findings
+3 Reference to further information
+Hereinafter we present the key audit matter:
+1	Measurement of shares in affiliated companies and other equity investments 
+In the annual financial statements of the Company shares in affiliated companies and other equity investments 
+amounting to EUR 623,043 thousand (28.0% of total assets; 35,2% of equity) are reported in the "Financial 
+assets" balance sheet item. 
+Shares in affiliated companies and other equity investments are measured in accordance with German  
+commercial law at the lower of cost and fair value. The fair values of the material equity investments are 
+calculated using discounted cash flow models as the present values of the expected future cash flows 
+according to the planning projections prepared by the executive directors. These also factor in expectations 
+relating to future market developments and assumptions about the development of macroeconomic factors 
+affecting the affiliated companies and companies in which equity investments are held. The discount rate 
+used is the individually determined cost of capital for the relevant financial investment. On the basis of the 
+values determined and supplementary documentation, write-downs amounting in total to EUR 5,186 thousand 
+were required for the financial year. 
+The outcome of this valuation is dependent to a large extent on the estimates made by the executive directors 
+of the future cash flows, and on the respective discount rates and rates of growth used. The valuation is 
+therefore subject to material uncertainties. Against this background and due to the highly complex nature 
+of the valuation and its material significance for the Company's assets, liabilities and financial performance, 
+this matter was of particular significance in the context of our audit. 
+2	As part of our audit, we assessed the methodology used for the purposes of the valuation, among other 
+things. In particular, we assessed whether the fair values of the material equity investments had been 
+appropriately determined using discounted cash flow models in compliance with the relevant measurement 
+standards. We based our assessment, among other things, on a comparison with general and sector-specific  
+market expectations as well as on the executive directors' detailed explanations regarding the key value 
+drivers underlying the expected cash flows. In the knowledge that even relatively small changes in the discount 
+rate applied can have a material impact on the value of the entity calculated in this way, we focused our 
+testing in particular on the parameters used to determine the discount rate applied, and assessed the  
+calculation model.
+In our view, taking into consideration the information available, the valuation parameters and underlying 
+assumptions used by the executive directors are appropriate overall for the purpose of appropriately  
+measuring the shares in affiliated companies and other equity investments.
+3	The Company's disclosures relating to financial assets are contained in the "Accounting policies" and "Notes 
+to the individual items of the balance sheet" sections of the notes to the financial statements.
+
+34
+AUDITOR’S REPORT
+Other Information
+The executive directors are responsible for the other information.
+The other information comprises
+ » the statement on corporate governance pursuant to § 289f HGB and § 315d HGB
+ » the separate non-financial report to comply with §§ 289b to 289e HGB and with §§ 315b to 315c HGB
+Our audit opinions on the annual financial statements and on the management report do not cover the other 
+information, and consequently we do not express an audit opinion or any other form of assurance conclusion 
+thereon.
+In connection with our audit, our responsibility is to read the other information mentioned above and, in so 
+doing, to consider whether the other information
+ » is materially inconsistent with the annual financial statements, with the management report disclosures 
+audited in terms of content or with our knowledge obtained in the audit, or
+ » otherwise appears to be materially misstated.
+Responsibilities of the Executive Directors and the Supervisory Board for the Annual Financial 
+Statements and the Management Report
+The executive directors are responsible for the preparation of the annual financial statements that comply, in all 
+material respects, with the requirements of German commercial law, and that the annual financial statements 
+give a true and fair view of the assets, liabilities, financial position and financial performance of the Company  
+in compliance with German Legally Required Accounting Principles. In addition, the executive directors are  
+responsible for such internal control as they, in accordance with German Legally Required Accounting Principles, 
+have determined necessary to enable the preparation of annual financial statements that are free from  
+material misstatement, whether due to fraud (i.e., fraudulent financial reporting and misappropriation of 
+assets) or error.
+In preparing the annual financial statements, the executive directors are responsible for assessing the Company's 
+ability to continue as a going concern. They also have the responsibility for disclosing, as applicable, matters 
+related to going concern. In addition, they are responsible for financial reporting based on the going concern 
+basis of accounting, provided no actual or legal circumstances conflict therewith.
+Furthermore, the executive directors are responsible for the preparation of the management report that, as 
+a whole, provides an appropriate view of the Company's position and is, in all material respects, consistent 
+with the annual financial statements, complies with German legal requirements, and appropriately presents 
+the opportunities and risks of future development. In addition, the executive directors are responsible for 
+such arrangements and measures (systems) as they have considered necessary to enable the preparation of a 
+management report that is in accordance with the applicable German legal requirements, and to be able to 
+provide sufficient appropriate evidence for the assertions in the management report.
+The supervisory board is responsible for overseeing the Company's financial reporting process for the preparation 
+of the annual financial statements and of the management report.
+
+35
+AUDITOR’S REPORT
+Auditor's Responsibilities for the Audit of the Annual Financial Statements and of the  
+Management Report
+Our objectives are to obtain reasonable assurance about whether the annual financial statements as a whole 
+are free from material misstatement, whether due to fraud or error, and whether the management report as a 
+whole provides an appropriate view of the Company's position and, in all material respects, is consistent with 
+the annual financial statements and the knowledge obtained in the audit, complies with the German legal 
+requirements and appropriately presents the opportunities and risks of future development, as well as to issue 
+an auditor's report that includes our audit opinions on the annual financial statements and on the management 
+report.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance 
+with § 317 HGB and the EU Audit Regulation and in compliance with German Generally Accepted Standards 
+for Financial Statement Audits promulgated by the Institut der Wirtschaftsprüfer (IDW) will always detect a 
+material misstatement. Misstatements can arise from fraud or error and are considered material if, individually 
+or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on 
+the basis of these annual financial statements and this management report.
+We exercise professional judgment and maintain professional skepticism throughout the audit. We also:
+ » Identify and assess the risks of material misstatement of the annual financial statements and of the  
+management report, whether due to fraud or error, design and perform audit procedures responsive to those 
+risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our audit opinions. 
+The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from 
+error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal controls.
+ » Obtain an understanding of internal control relevant to the audit of the annual financial statements and of 
+arrangements and measures (systems) relevant to the audit of the management report in order to design 
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an audit 
+opinion on the effectiveness of these systems of the Company.
+ » Evaluate the appropriateness of accounting policies used by the executive directors and the reasonableness 
+of estimates made by the executive directors and related disclosures.
+ » Conclude on the appropriateness of the executive directors' use of the going concern basis of accounting  
+and, based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we 
+conclude that a material uncertainty exists, we are required to draw attention in the auditor's report to the 
+related disclosures in the annual financial statements and in the management report or, if such disclosures 
+are inadequate, to modify our respective audit opinions. Our conclusions are based on the audit evidence 
+obtained up to the date of our auditor's report. However, future events or conditions may cause the  
+Company to cease to be able to continue as a going concern.
+ » Evaluate the overall presentation, structure and content of the annual financial statements, including the 
+disclosures, and whether the annual financial statements present the underlying transactions and events 
+in a manner that the annual financial statements give a true and fair view of the assets, liabilities, financial 
+position and financial performance of the Company in compliance with German Legally Required Accounting 
+Principles.
+
+36
+AUDITOR’S REPORT
+ » Evaluate the consistency of the management report with the annual financial statements, its conformity 
+with German law, and the view of the Company's position it provides.
+ » Perform audit procedures on the prospective information presented by the executive directors in the  
+management report. On the basis of sufficient appropriate audit evidence, we evaluate in particular the  
+significant assumptions used by the executive directors as a basis for the prospective information, and 
+evaluate the proper derivation of the prospective information from these assumptions. We do not express 
+a separate audit opinion on the prospective information and on the assumptions used as a basis. There is a 
+substantial unavoidable risk that future events will differ materially from the prospective information.
+We communicate with those charged with governance regarding, among other matters, the planned scope 
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control 
+that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with the relevant 
+independence requirements, and communicate with them all relationships and other matters that may  
+reasonably be thought to bear on our independence, and where applicable, actions taken to eliminate threats 
+to independence or safeguards applied.
+From the matters communicated with those charged with governance, we determine those matters that were 
+of most significance in the audit of the annual financial statements of the current period and are therefore the 
+key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public 
+disclosure about the matter.
+Other Legal and Regulatory Requirements
+Report on the Assurance on the Electronic Rendering of the Annual Financial Statements and the 
+Management Report Prepared for Publication Purposes in Accordance with § 317 Abs. 3a HGB
+Assurance Opinion
+We have performed assurance work in accordance with § 317 Abs. 3a HGB to obtain reasonable assurance 
+as to whether the rendering of the annual financial statements and the management report (hereinafter the 
+"ESEF documents") contained in the electronic file “ZEISS_2023_EA_ZLB.zip” and prepared for publication 
+purposes complies in all material respects with the requirements of § 328 Abs. 1 HGB for the electronic 
+reporting format ("ESEF format"). In accordance with German legal requirements, this assurance work extends 
+only to the conversion of the information contained in the annual financial statements and the management 
+report into the ESEF format and therefore relates neither to the information contained within these renderings 
+nor to any other information contained in the electronic file identified above.
+In our opinion, the rendering of the annual financial statements and the management report contained in the 
+electronic file identified above and prepared for publication purposes complies in all material respects with the 
+requirements of § 328 Abs. 1 HGB for the electronic reporting format. Beyond this assurance opinion and our 
+audit opinions on the accompanying annual financial statements and the accompanying management report 
+for the financial year from October 1, 2022 to September 30, 2023 contained in the "Report on the Audit  
+of the Annual Financial Statements and of the Management Report" above, we do not express any assurance 
+opinion on the information contained within these renderings or on the other information contained in the 
+electronic file identified above.
+
+37
+AUDITOR’S REPORT
+Basis for the Assurance Opinion
+We conducted our assurance work on the rendering of the annual financial statements and the management 
+report contained in the electronic file identified above in accordance with § 317 Abs. 3a HGB and the IDW 
+Assurance Standard: Assurance Work on the Electronic Rendering of Financial Statements and Management 
+Reports, Prepared for Publication Purposes in Accordance with § 317 Abs. 3a HGB (IDW AsS 410 (06.2022)) 
+and the International Standard on Assurance Engagements 3000 (Revised). Our responsibility in accordance 
+therewith is further described in the "Auditor's Responsibilities for the Assurance Work on the ESEF Documents" 
+section. Our audit firm has applied the IDW Standard on Quality Management 1: Requirements for Quality 
+Management in the Audit Firm (IDW QMS 1 (09.2022)).
+Responsibilities of the Executive Directors and the Supervisory Board for the ESEF Documents
+The executive directors of the Company are responsible for the preparation of the ESEF documents including 
+the electronic renderings of the annual financial statements and the management report in accordance with 
+§ 328 Abs. 1 Satz 4 Nr. [number] 1 HGB.
+In addition, the executive directors of the Company are responsible for such internal control as they have  
+considered necessary to enable the preparation of ESEF documents that are free from material non-compliance 
+with the requirements of § 328 Abs. 1 HGB for the electronic reporting format, whether due to fraud or error.
+The supervisory board is responsible for overseeing the process for preparing the ESEF documents as part of 
+the financial reporting process.
+Auditor's Responsibilities for the Assurance Work on the ESEF Documents
+Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material 
+non-compliance with the requirements of § 328 Abs. 1 HGB, whether due to fraud or error. We exercise  
+professional judgment and maintain professional skepticism throughout the assurance work. We also:
+ » Identify and assess the risks of material non-compliance with the requirements of § 328 Abs. 1 HGB, 
+whether due to fraud or error, design and perform assurance procedures responsive to those risks, and 
+obtain assurance evidence that is sufficient and appropriate to provide a basis for our assurance opinion.
+ » Obtain an understanding of internal control relevant to the assurance work on the ESEF documents in 
+order to design assurance procedures that are appropriate in the circumstances, but not for the purpose of 
+expressing an assurance opinion on the effectiveness of these controls.
+ » Evaluate the technical validity of the ESEF documents, i.e., whether the electronic file containing the ESEF 
+documents meets the requirements of the Delegated Regulation (EU) 2019/815 in the version in force at the 
+date of the annual financial statements on the technical specification for this electronic file.
+ » Evaluate whether the ESEF documents provide an XHTML rendering with content equivalent to the audited 
+annual financial statements and to the audited management report.
+Further Information pursuant to Article 10 of the EU Audit Regulation
+We were elected as auditor by the annual general meeting on March 22, 2023. We were engaged by the 
+supervisory board on September 26, 2023. We have been the auditor of Carl Zeiss Meditec AG, Jena, without 
+interruption since the financial year 2022/2023.
+We declare that the audit opinions expressed in this auditor's report are consistent with the additional report 
+to the audit committee pursuant to Article 11 of the EU Audit Regulation (long-form audit report).
+
+38
+AUDITOR’S REPORT
+Reference to an other Matter – Use of the Auditor's Report
+Our auditor's report must always be read together with the audited annual financial statements and the 
+audited management report as well as the assured ESEF documents. The annual financial statements and the 
+management report converted to the ESEF format – including the versions to be filed in the company register 
+– are merely electronic renderings of the audited annual financial statements and the audited management 
+report and do not take their place. In particular, the "Report on the Assurance on the Electronic Rendering of 
+the Annual Financial Statements and the Management Report Prepared for Publication Purposes in Accordance 
+with § 317 Abs. 3a HGB" and our assurance opinion contained therein are to be used solely together with the 
+assured ESEF documents made available in electronic form.
+German Public Auditor Responsible for the Engagement
+The German Public Auditor responsible for the engagement is Carl Erik Daum.
+Leipzig, November 29, 2023
+(sgd. Marcus Nickel)	
+(sgd. Carl Erik Daum) 
+Wirtschaftsprüfer	
+Wirtschaftsprüfer 
+(German Public Auditor)	
+(German Public Auditor)
+
+39
+Financial calendar 2023/24
+Publication of interim report Q1  
+and conference call  
+9 February 2024
+Annual General Meeting Jena, virtual 
+21 March 2024
+Publication of Half-Year Financial Report 
+and conference call  
+8 May 2024
+Publication of interim report 9M  
+and conference call  
+6 August 2024
+Publication of annual financial statements 
+and Analyst Conference  
+11 December 2024
+Imprint/Disclaimer
+Carl Zeiss Meditec AG
+Investor Relations 
+Sebastian Frericks 
+Phone: +49 3641 220 116 
+Fax: +49 3641 220 117 
+investors.meditec@zeiss.com
+Design: Carl Zeiss AG
+This report was published on  
+12 December 2023.
+The Annual Report 2022/23 of  
+Carl Zeiss Meditec AG was published in 
+German and English.
+Both versions and the key figures  
+contained in this report can be  
+downloaded from the following address:  
+https://www.zeiss.com/meditec-ag/inves-
+tor-relations.html
+Disclaimer
+This report contains certain forward-looking 
+statements concerning the development 
+of Carl Zeiss Meditec AG. At the present 
+time, Carl Zeiss Meditec AG assumes that 
+these forward-looking statements are 
+realistic. However, such forward-looking 
+statements are based both on assumptions 
+and estimates that are subject to risks and  
+uncertainties, which may lead to the actual  
+results differing significantly from the 
+expected results. Carl Zeiss Meditec AG 
+can therefore assume no liability for 
+such a deviation. There are no plans to 
+update the forward-looking statements 
+for events that occur after the end of the 
+reporting period.
+Apparent addition discrepancies may 
+arise throughout this interim report due 
+to mathematical rounding.
+This is a translation of the original  
+German language annual financial  
+statements of the Carl Zeiss Meditec AG. 
+Carl Zeiss Meditec shall not assume any 
+liability for the correctness of this  
+translation. If the texts differ, the German
+report shall take precedence.
+Financial calendar
+
+Carl Zeiss Meditec AG	
+Phone: +49 3641 220 115
+Göschwitzer Straße 51– 52	
+Fax: +49 3641 220 117
+07745 Jena	
+investors.meditec@zeiss.com
+Germany	
+www.zeiss.com/meditec-ag/investor-relations.html

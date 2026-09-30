@@ -1,0 +1,3195 @@
+ANNUAL REPORT 2014 OF J.P. MORGAN AG
+
+indicators j.p. morgan ag
+€m
+2014
+2013
+2012
+2011
+Net Revenue
+118.7
+105.7
+100.1
+99.0
+Net interest income
+13.6
+13.9
+10.0
+25.4
+Net commission income
+63.3
+59.8
+50.1
+44.4
+Total expenses
+105.3
+89.7
+77.6
+84.7
+Income before Tax and extraordinary items
+13.5
+16.1
+22.5
+14.3
+Net income
+10.9
+9.8
+22.5
+14.3
+Equity
+621
+611
+275
+275
+Return on Equity (RoE)
+1.80%
+2.21%
+8.16%
+5.19%
+Cost-Income Ratio
+88.71%
+84.78%
+77.55%
+85.55%
+Pre-tax profit margin
+11.37%
+15.22%
+22.45%
+14.45%
+Tier 1 capital ratio
+115.13%
+87.90%
+37.80%
+17.18%
+Total capital ratio
+143.92%
+112.70%
+71.90%
+32.17%
+high value payments
+> PAGE 3: treasury services
+€BN
+Monthly data
+850
+800
+750
+700
+650
+600
+550
+500
+450
+400
+2011
+2012
+2013
+2014
+assets under custody
+> PAGE 4: Investor Services
+€BN
+Monthly data
+275
+250
+225
+200
+175
+150
+125
+100
+75
+50
+25
+2011
+2012
+2013
+2014
+1,000 transactions
+
+content
+Annual Report 2014
+Management Report
+2
+Assurance by the Management Board
+22
+Balance Sheet of J.P. Morgan AG, Frankfurt am Main
+24
+Income Statement  
+of J.P. Morgan AG, Frankfurt am Main
+28
+Notes of J.P. Morgan AG, Frankfurt am Main
+30
+Auditor’s Report
+50
+Report of the Supervisory Board
+52
+
+2
+Management Report
+For its meetings, the Supervisory Board receives an up-to-date 
+summary of the topics discussed in the Management Board 
+meetings, in order to gain a detailed overview of the course 
+of business, financial development, risk capacity, regulatory 
+discussion, the status of current projects, and the work of 
+Corporate Functions, for the purposes of discussion, consid-
+eration, and passing resolutions. Supervisory Board meeting 
+minutes are kept by the Head of the Legal Department or an 
+external lawyer.
+The Supervisory Board’s Audit Committee normally meets 
+with the auditor twice a year to discuss the audit plan as well 
+as the annual financial statements and audit report. Minutes 
+of the meeting of the Supervisory Board’s Audit Committee 
+are recorded by a Legal Department employee.
+Further, the Supervisory Board has set up a Compensation 
+Committee, which met twice in 2014 but has yet to meet in 
+2015. 
+The Bank has a full banking license pursuant to Section 1 
+(1) of the KWG [Kreditwesengesetz – German Banking Act] 
+(Nos. 1 to 5 and 7 to 9) and conducts banking business with 
+institutional clients, banks, corporate clients and clients from 
+the public sector.
+INTERNAL CONTROL SYSTEM
+In addition to regular meetings of the Management Board and 
+the Supervisory Board, the Local Operating Committee, repre-
+senting all functions subordinated to the Back Office Manage-
+ment Board, manages corporate governance in everyday busi-
+ness on behalf of the Management Board. J.P. Morgan AG’s 
+corporate functions continue to support not only the Bank’s 
+business segments but also all other Group units in Frankfurt 
+am Main. The Treasury Services and Investor Services seg-
+Business and General Conditions
+ORGANISATION AND LEGAL STRUCTURE
+J.P. Morgan AG with its registered office in Frankfurt am Main 
+is a 100% indirect subsidiary of JPMorgan Chase & Co. with 
+its registered office in Columbus, Ohio, in the United States 
+of America. J.P. Morgan AG works on various levels, mainly in 
+liquidity management and in the business segments, closely 
+with different Group affiliates, and provides services to and 
+receives them from various Group affiliates. The shares of J.P. 
+Morgan AG are held directly by the J.P. Morgan International 
+Finance Limited with its registered office in Newark, United 
+States of America.
+J.P. Morgan AG is led by a three-member Management Board 
+and controlled by a six-member Supervisory Board. The Man-
+agement Board generally convenes on a monthly basis, with 
+the Supervisory Board meeting at least four times per year. 
+In 2015, the Supervisory Board has held two meetings, and 
+the Audit Committee has held one meeting as of the present. 
+On a quarterly basis, the Supervisory Board receives a written 
+MaRisk [Minimum Requirements for Risk Management]-com-
+pliant risk report. The names of the members of the Manage-
+ment Board and the Supervisory Board are listed in the Notes.
+For the Management Board meetings, a detailed presentation 
+is prepared by the divisions Treasury Services and Investor 
+Services, which contains all the transactions essential to dis-
+cussion of the course of business in the past month, as well 
+as the development of the divisions’ KPIs and KRIs. Likewise 
+the meeting contains material on financial development, a 
+detailed risk report, and a report from Corporate Functions 
+for discussion, consideration and passing of resolutions. The 
+minutes of the Management Board meetings are kept by an 
+employee from the Legal Department.
+MANAGEMENT REPORT AS OF DECEMBER 31, 2014
+
+3
+Management Report
+J.P. Morgan’s global Treasury Services and Investor Services 
+segments of the Group’s Corporate & Investment Bank plays a 
+crucial role, as it provides us with the necessary international 
+network to deliver client services that do justice to J.P. Morgan’s 
+mission “First class business in a first class way”. In 2014, the 
+Bank continued to concentrate on its core business, in order to 
+fulfil its roles from Frankfurt am Main as a central bank of the 
+Group for € payment transactions and as a Global Custodian 
+for the German investment market.
+Thus in 2014, in close collaboration with our clients, we 
+successfully concluded the implementation of the technical 
+framework conditions for the transition to SEPA, as well as the 
+implementation of the regulatory requirements of the Kapital-
+anlagegesetzbuch (KAGB) [German Investment Code]. This is 
+the essential foundation of our existing product portfolio for 
+the upcoming business years, in order to open up new areas 
+of business.
+Treasury Services
+J.P. Morgan AG is globally responsible for the € Clearing Oper-
+ations division. In the coming years, in view of an increasing 
+unification of the European payment transactions and due 
+to our high investments in technology, we expect to deliver 
+our leading global technology and our client service in the 
+mass payment market centrally from J.P. Morgan AG and in 
+close cooperation with our sister companies both to corpo-
+rate clients and to financial institutions throughout Europe. 
+We are continually expanding our top position as a € Clearer 
+in TARGET2 and EBA by offering improved features to our 
+multinational corporate clients and financial institutions both 
+domestically and abroad.
+On the basis of these infrastructure services, our sales teams 
+offer highly advanced solutions in the areas of cash, treasury 
+ments are each managed by one Member of the Board [Front 
+Office] and controlled by a Member of the Management Board 
+[Back Office]. 
+In addition to the key controlling variables of net interest 
+income and net commission income, a conservative risk policy 
+that in particular limits the possible credit and counterparty 
+risk, provides the basis for successful management of J.P. 
+Morgan AG by the Management Board.
+All aspects of the business segments are transparently covered 
+by a wide-ranging set of scorecards and controlled in particu-
+lar by the means of trend analysis and key performance indica-
+tors on a monthly basis in meetings of the Business Control 
+Committees, comprised of Sales, Operations and control func-
+tions, with the inclusion of the international chief risk officers 
+of the Group. Additionally, treasury activities are discussed 
+and monitored in a monthly Asset & Liability Committee. The 
+Management Board is thus enabled to identify changes or 
+risks in the business performance in a timely manner and 
+to make appropriate decisions and implement the necessary 
+measures.
+Moreover, comprehensive reports on all data representing 
+loan utilisation, overdrafts, condition of collateral and key 
+COREP figures are produced on a daily basis by the Finance 
+and Credit Division for the Management Board. These reports 
+are continuously being developed to meet the increasing regu-
+latory requirements.
+SEGMENTS AND ESSENTIAL PRODUCTS AND  
+PROCESSES
+J.P. Morgan AG is an integral part of the global J.P. Morgan 
+Group and forms the backbone of the J.P. Morgan Group’s 
+operations in Germany. The full integration of the Bank into 
+
+4
+Management Report
+Through the controls exercised by J.P. Morgan AG and inde-
+pendent of the Investment Management Company (IMC) – in 
+particular, controls for the review of legality (control over the 
+directives of the IMC), controls of the share value and net 
+asset value determined by the IMC, investment compliance, 
+property review duty, monitoring of cash flows, controls as 
+part of network management (inter alia monitoring of sub-
+depositaries), controls regarding share transactions and the 
+appropriation of income as well as control of securities – in 
+the end, we ensure that reasonable and coherent procedures 
+and processes (among others, including reasonable valuation 
+principles and procedures for the asset value of the investment 
+funds) exist at the IMC, and are continually applied in respect 
+of the relevant investment fund.
+In addition to services in connection with securities custody 
+and settlement of trading transactions, a comprehensive range 
+of products, additional services, and above all, client report-
+ing is provided.
+In our function as a custodian for investment funds, we can 
+determine that institutional investors (e. g. insurance and 
+pension funds) are very flexible in the quest for returns, and 
+can review as well as implement alternative investment solu-
+tions. In the low-interest environment, infrastructure loans 
+and financing form a wide field with a broad range of appli-
+cation. In this regard, the search for solutions for a suitable 
+investment strategy reveals a heightened interest in so-called 
+infrastructure debts. As permissible asset items, such invest-
+ments can be acquired in principle for an investment fund, 
+and are very interesting for institutional investors due to their 
+long maturities. As a custodian, J.P. Morgan AG has adopted 
+this strategic orientation and the challenges arising from it, 
+in particular in the assessment, the representation and the 
+and trade finance management for corporate clients, insur-
+ance companies, asset managers, and financial institutions. 
+Advanced technology and expansion of the Group’s locations 
+within the scope of the Global Corporate Banking concept 
+enable our sales teams to offer ever more comprehensive 
+global cash management solutions that provide notable 
+advantages in the management of liquidity, particularly for 
+our international clients. Together with our highly developed 
+service concept, this allowed us to continue to grow with 
+selected, international target clients, above all in global cash 
+management and in trade finance management.
+Investor Services
+In the global business sector of Investor Services of the Group, 
+J.P. Morgan AG of Frankfurt am Main acts as a fully-licensed 
+and regulated custodian, which has been offering global cus-
+tody and custodian bank services to institutional clients in 
+Germany since 1995. In this function, J.P. Morgan AG is cur-
+rently managing 175 investment funds with 794 segments 
+(administrative units) for its circle of clients, with a value of 
+€ 161 billion.
+In addition to the custody of assets or the keeping of an up-to-
+date inventory (in regard to valuables that cannot be held in 
+custody), as well as the processing of instructed transactions, 
+one of our core missions is the rendering of various oversight 
+functions to protect investment assets and the investor as 
+well. As part of our control functions, we ensure as a custo-
+dian that the ongoing activity of the investment management 
+company is promptly supported in the relevant details, and to 
+verify conformity with the statutory regulations, supervisory 
+provisions and contractual conditions, as well as to secure 
+the continued existence of the assets belonging to the invest-
+ment funds. 
+
+5
+Management Report
+Mumbai (India) and in Manila (Philippines), J.P. Morgan AG 
+services clients from various countries where the J.P. Morgan 
+Group operates. In its function as € Clearer in TARGET2 and 
+EBA, J.P. Morgan AG is among the largest providers of pay-
+ment services in Germany in terms of the volume of payments 
+settled daily.
+In the Investor Services sector we currently offer our ser-
+vices as a custodian bank and custodian institution primarily 
+to special funds according to the Investment Act and Alterna-
+tive Investment Funds (AIF), subject to the KAGB, as well as 
+and for direct investments by institutional clients (especially 
+insurance companies, pension provision institutions, pension 
+funds, and church institutions), corporate clients and public 
+sector clients in Germany. This also includes subsidiaries or 
+branches based in Germany whose parent companies have 
+their headquarters in other countries. J.P. Morgan AG is one 
+of the leading deposit and custodian banks in Germany.
+J.P. Morgan AG benefits from the strong product and technol-
+ogy leadership of the J.P. Morgan Group, and is able to win 
+various important clients in the Treasury Services and Investor 
+Services sector, emphasising the commitment of J.P. Morgan 
+AG and the J.P. Morgan Group to client-oriented and innovative 
+product solutions, using economies of scale for standardised 
+processes. In addition, the strong capital base of J.P. Morgan 
+AG and the successful A+ Rating by Standard & Poor’s has 
+reflected the positive feedback of our clients, underlining the 
+Group’s commitment to J.P. Morgan AG and the German office.
+KEY LEGAL AND ECONOMIC INFLUENCE FACTORS
+The implementation of the Single Euro Payments Area (SEPA) 
+is one of the important regulations under which J.P. Morgan 
+AG is able to position itself as a flexible solutions partner 
+property inspection, procedurally handled, in order to help 
+clients make the appropriate investments.
+A similar growth potential in so-called alternative assets can 
+be observed in the area of Private Equity and Real Estate. For 
+this class of investments, J.P. Morgan offers comprehensive 
+end-to-end solutions for administration as well as in regard 
+to the reporting system on the Private Equity and Real Estate 
+Platform (PeReS), which can be connected with the appropriate 
+depositary function. The gaining of a German pension fund as 
+a client in 2013 successfully substantiates the claim to be per-
+ceived as a multifunctional service provider by our client base.
+Within the J.P. Morgan Group, the execution of OTC derivatives 
+subject to clearing is offered through central counterparties 
+(so-called CCPs). Clients are supported in observing and com-
+plying with regulatory provisions efficiently and adequately. 
+The opportunity to select J.P. Morgan as a clearing member 
+provides a good chance to influence business activities in a 
+positive manner.
+MARKETS AND COMPETITIVE POSITION
+In Treasury Services, there is a need to differentiate between 
+relationship management and our function as global operating 
+hub for € Clearing Operations. In relationship management, 
+J.P. Morgan AG is responsible for institutional clients, banks, 
+corporate clients and public sector clients primarily based 
+in Germany or Austria. In the area of banking, this includes 
+subsidiary companies based in Germany or Austria whose 
+parent companies have their headquarters in other countries.
+Based on our global responsibility for the € Clearing Opera-
+tions division resting with the core team in Frankfurt am 
+Main, as well as teams in sister companies of the Group in 
+
+6
+Management Report
+which can be found at the following website: http://www.
+jpmorgan.com/pages/international/germany
+BUSINESS DEVELOPMENT
+The economic development had essentially positive effects 
+in 2014 on the business of J.P. Morgan AG. Our results still 
+suffer from the low interest policy of the Central Banks; how-
+ever, the net commission income was able to grow in both 
+segments by an average of over 5.6% as compared with the 
+previous year. Thus, the positive trend from the previous years 
+continued in 2014.
+Unfortunately, due to higher project expenses, both segments 
+showed an increased expenditure of around 15%, which had 
+a sustained impact on the operative result in both Treasury 
+Services and Investor Services, so that J.P. Morgan AG in total 
+is contemplating a satisfying yet slightly diminishing pre-tax 
+result for 2014 – thanks to above-budget proceeds for the 
+assets for the hedging of pension obligations. 
+The Income before Tax and extraordinary items is 16% lower 
+than the previous year’s value, at € 13.5 million.
+Vis-à-vis the planning for the business year, the net interest 
+income for 2014 is clearly more strongly represented than 
+expected, while the net commission income in the context 
+of set expectations was likewise able to rise in a clear-cut 
+matter. The balance sheet total as of December 31, 2014, 
+clearly increased versus the reporting date as of December 
+31, 2013, however this cannot be interpreted as an indicator 
+of business expansion.
+From an overall perspective, we judge the year 2014 as cau-
+tiously positive. The business development of our core activities 
+in Treasury Services and Investor Services meet our expecta-
+towards its clients due to its important investments in tech-
+nology and products. Similarly, J.P. Morgan AG provides sup-
+port to its clients also in the implementation of new require-
+ments under the KAGB and the necessary migration of funds. 
+Potential new business areas result from this for the Investor 
+Services sector, which we will analyse in the coming year in 
+detail in terms of their appeal.
+In the past business year, the European Central Bank intro-
+duced a negative interest rate policy. However, through the 
+new business orientation, a minor improvement of the interest 
+margin can be achieved. 
+PERSONNEL DEVELOPMENT
+The number of employees of J.P. Morgan AG increased in 
+2014 from 244 to an average of 262, in contrast to the previ-
+ous year. In 2014, the turnover rate was 12%; it thus rose 
+slightly in contrast to the rate of 10% for 2013. 20% of the 
+total number of employees made use of flexible work arrange-
+ments. This corresponds to an increase of 2% vis-à-vis the 
+previous year.
+In line with our business concept, we continue to put the 
+highest emphasis on the qualitative selection of new hires 
+and continued training and education programs for our 
+staff.
+The J.P. Morgan AG human resources policy focuses on the 
+highest level of quality and diversity among employees, and 
+is simultaneously committed to adjusting to the needs of our 
+employees.
+The underlying features of J.P. Morgan AG’s remuneration 
+system are presented in a separate Remuneration Report 
+
+7
+Management Report
+FINANCIAL POSITION
+Principles and Objectives
+J.P. Morgan AG’s balance sheet is driven by deposits pro-
+vided by their institutional clients and banks through the 
+€ Clearing segment and the custodian bank business, and 
+continued to show an unchanged positive financial position 
+in 2014. Clients are enabled to utilise credits solely in the 
+form of intra-day lines and short-term overnight overdrafts 
+in the event of incorrect trades in both business segments. 
+Excess liquidity generated by these deposit-driven business 
+policies is invested mainly in reverse repo-transactions with 
+JPMorgan Chase Bank, N.A., and in investments in bonds from 
+top-quality issuers. Appropriate risk limits for monitoring the 
+security portfolio were set up.
+J.P. Morgan AG held sufficient liquidity at all times in 2014. 
+The liquidity ratio is managed conservatively. As of December 
+31, 2014, it reached 1.95 and averaged 1.73.
+Capital Structure
+The liable equity increased in comparison to December 31, 
+2013, by the accumulated profit of the previous year. With the 
+balance as of December 31, 2014, the result is a Tier 1 capital 
+ratio of 115.13% and a total capital ratio of 143.92%. With 
+this amount of capital available, J.P. Morgan AG remains in 
+a comfortable position to support existing business, as well 
+as the planned business growth as required with capital. J.P. 
+Morgan AG’s regulatory equity was composed of the following 
+components as at the reporting date of December 31, 2014:
+Tier 1: 	
+€ 657	million share capital, reserves and 
+funds for general banking risks
+Upper Tier 2:	
+€ 0	
+million
+Lower Tier 2:	
+€ 186	million subordinated loans
+Total Tier 2:	
+€ 186	million
+tions, thanks to the acquisition of important new clients. Beyond 
+this, our measures are effective in stabilising the net interest 
+income despite a very conservative investment strategy.
+Earnings, Financial and Assets Position
+EARNINGS
+Due to continued business growth, J.P. Morgan AG managed 
+in 2014 to raise its net commission income. During the busi-
+ness year, the net commission income was 6% higher than 
+the previous year’s value, with a total of € 63.3 million. As 
+compared to the previous year, the net interest income was 
+slightly negative, and at € 13.6 million stands € 0.3 million 
+lower than in the previous year. The main influencing factor 
+on the net interest income is the increase in the bond portfo-
+lio, consisting of first-class securities. The estimates for 2014 
+were outperformed in the net interest income, while the net 
+commission income is in line with the planning. The remain-
+ing operational revenues rose by 30.3% to the current € 41.8 
+million for the year 2014. In particular, income from service 
+charges within the Group as well as the valuation resulted in 
+the change in the fair value of the cover assets and the expen-
+ditures from the discounting of pension reserves contributed 
+to this result.
+The personnel and administrative expenses increased by 
+16.5% compared to the previous year. This rise was primarily 
+driven by increased project costs. The Income before Tax and 
+extraordinary items was thus diminished by 16.5% to € 13.5 
+million. The annual surplus for business year 2014 amounted 
+to € 10.9 million after taxes.
+This result means a return on equity of 1.8% after 2.2% in 
+the previous year.
+
+8
+Management Report
+ASSET SITUATION
+The receivables from our clients increased, due to a higher 
+utilisation of short-term overdraft loans and available liquidity 
+as at the reporting date, by € 112 million to € 214 million, and 
+deposits increased by € 612 million to € 6,735 million as at 
+the reporting date. The receivables of the credit institutions 
+increased due to the high treasury activities by € 3,141 mil-
+lion to € 12,800 million (of which, credit with central banks 
+of € 2,947 million) and the liabilities by € 3,258 million to 
+€ 6,847 million as at the reporting date. The balance sheet 
+total of J.P. Morgan AG thus increased, reaching € 14,471 
+million as at the reporting date. The total capital ratio as per 
+December 31, 2014, was 143.92, amounting to an average of 
+121.27 for the year 2014.
+The securities portfolio with first-class debtor securities was 
+further developed, and in comparison to December 31, 2013, 
+was gradually increased by € 495 million to € 1,386 million. 
+Due to the good credit worthiness of the debtors, the asset situ-
+ation remains exceptionally positive. Due to repayments on the 
+one hand and maturity on the other hand of the listed securities, 
+the preconditions of § 264 d HGB [German Commercial Code] 
+do not apply. Thus, as of December 31, 2014, J.P. Morgan AG 
+is no longer a company oriented towards the capital markets.
+Financial and Non-financial Performance 
+Indicators
+FINANCIAL PERFORMANCE INDICATORS
+Financial performance indicators, defined for internal control 
+of J.P. Morgan AG, comprise in particular absolute KPIs (Key 
+Performance Indicators) such as the net interest income, net 
+commission income, and Income before Tax and extraordi-
+nary items. In addition, return on equity, cost-income ratio, 
+Off-Balance Sheet Business
+Within the division of Trade Finance, most credit risk exposure 
+in the form of contingent liabilities taken on J.P. Morgan AG’s 
+own books continues to be directly collateralised within the 
+Group. For the issues made by J.P. Morgan AG, we completed 
+total return swaps with JPMorgan Chase Bank, N.A., for hedg-
+ing purposes, as well as for hedging of interest rate change 
+risks from the rate swaps securities portfolio.
+Cash Flow Statement
+€t
+2014
+2013
+Cash and cash equivalents position at 
+the end of previous period
+590,340
+8,717,117
+Cash flow from operating activities
+2,379,238
+–8,088,590
+Cash flow from investment activities
+–22,371
+75,881
+Cash flow from financing activities
+–109
+–114,068
+Effects of exchange rate changes
+–
+–
+Cash and cash equivalents position at 
+the end of the period
+2,947,098
+590,340
+Cash flow from operating activities covers payment transac-
+tions (incoming and outgoing) in connection with receivables 
+from credit institutions and clients, as well as other assets. 
+Additions and disposals from liabilities to credit institutions 
+and clients, securitised liabilities, and other liabilities are also 
+part of the operating business activities. Interest and dividend 
+payments resulting from operating business activities are also 
+reflected in the cash flow from operating business activities, 
+along with income tax payments or refunds.
+Cash flow from investment activities shows payment transac-
+tions for financial investments as well as tangible assets.
+
+9
+Management Report
+ther improvement in the result. Growth in custodian banking 
+at 4% lay under the optimistic expectations of 8%; in the TS 
+division, it was possible to avoid stagnation in 2014.
+The net income goal of € 104 million could be clearly outper-
+formed on the basis of positive development in the pensions 
+area with € 118 million.
+As compared with the timeframe for the previous year, the 
+operational result worsened nevertheless, by around 16% in 
+comparison with the previous year. 
+The change was brought about by increased, mostly project-
+related costs, which could not be compensated by the ris-
+ing net commission income and the positive effects from the 
+valuation of pension obligations. Because of this the cost-
+income ratio rose to 88.71% and the pre-tax profit margin 
+went down to 11.37%. This corresponds to the budgeted 
+figures for 2014.
+The return on equity (ROE) fell by 2.2% in the previous year 
+to 1.8%, and thus lay under 2% as forecast. The Tier 1 and 
+total capital ratio rose sharply, and at the reporting date were 
+clearly over the budgeted values in which an unchanged figure 
+was anticipated.
+NON-FINANCIAL PERFORMANCE INDICATORS 
+Non-financial performance indicators are guided by the role 
+of J.P. Morgan AG as a transaction bank in € payment trans-
+actions and as a Global Custodian. Along with the actual vol-
+umes settled by J.P. Morgan AG for its clients, we focus on 
+the degree of automation and the actual losses from opera-
+tive errors. In addition, we measure the fluctuation rate as an 
+indicator of stability of our operative platform from the point 
+of view of employees.
+and the pre-tax profit margin are used to measure perfor-
+mance. The KPIs are derived directly from the information 
+in the balance sheet and the income statement in the annual 
+financial statement, and for the current and previous financial 
+years amount to the following:
+€m
+2014
+2013
+Net Revenue
+118.7
+105.7
+Net interest income
+13.6
+13.9
+Net commission income
+63.3
+59.8
+Total expenses
+105.3
+89.7
+Income before Tax and extraordinary 
+items
+13.5
+16.1
+Net income
+10.9
+9.8
+Equity
+621
+611
+Return on equity (RoE) (Net income/
+average equity)
+1.8%
+2.21%
+Cost-income ratio (total expenses/net 
+revenue)
+88.71%
+84.78%
+Pre-tax profit margin (income from  
+regular business activity/net revenue)
+11.37%
+15.22%
+Tier 1 capital ratio
+115.13%
+87.90%
+Total capital ratio
+143.92%
+112.70%
+The decline in the net interest income of approximately 2.3% 
+compared to the previous year turned out to be pleasingly 
+meagre, in view of the interest policy of the ECB. This can 
+substantially be attributed to the increase in the bond portfolio 
+consisting of first-class securities as well as the positive net 
+interest income from foreign currency holdings.
+The development of the net commission income was positive. 
+Rising income from payment transactions and gaining new 
+clients in the custodian banking business contributed to fur-
+
+10
+Management Report
+2014
+2013
+Number of payment instructions –  
+High Value
+9.9 million
+8.9 million
+Number of payment instructions –  
+Low Value
+162.1 million
+38.8 million
+Straight-Through-Processing-Rate
+98.35%
+98.17%
+Assets under Custody (in € bn.)
+274
+230
+Customer satisfaction – custodian bank 
+(internal score)
+2,751
+2,550
+Operative losses (in € m)
+0.2
+–
+Fluctuation rate
+12% 
+8% 
+S&P Rating
+A +
+A +
+The non-financial performance indicators describing the busi-
+ness volumes of J.P. Morgan AG could be further improved in 
+2014 due to the strong customer orientation and the invest-
+ments made in products, systems and procedures, worth not-
+ing is the rise in our settlement volumes for both high-value 
+and low-value payments upon a simultaneous improvement in 
+our straight through processing rate, which stood at 98.3% 
+even at the reporting date. We work further with our clients 
+on their further increase, as greater automation goes hand in 
+hand with increases in efficiency and cost-saving as well as 
+with a reduction of sources of error. 
+Even though the internal scoring model reflected an improve-
+ment in overall customer satisfaction, in 2014 we experienced 
+an increased number of customer complaints in the Inves-
+tor Services segment. Here we were temporarily unable to 
+do justice to the J.P. Morgan business principle of “Excellent 
+Client Service,” yet we introduced decisive measures to meet 
+the expectations of our customers or even to exceed them. 
+Operational losses remained within an acceptable framework 
+in 2014, in particular in consideration of the sharply increased 
+business volumes in both segments. “Operational excellence” 
+remains our guiding principle, and is connected with our 
+efforts to achieve constant improvement in our technology 
+platform, the internal control systems and the ongoing train-
+ing of our employees. 
+In regard to our employees, in 2014 we could observe an 
+increased fluctuation rate with a number of causes, but also 
+the expression of intensified competition for talents at the 
+Frankfurt financial centre. It is becoming more important for 
+us to convince through a “Great Team & Winning Culture”.
+In 2015 we expect an increase in the number of payment 
+instructions in the High Value field and Assets under Custody. 
+By contrast, we expect a decrease in the Low Value field. The 
+Straight Through Processing Rate and Customer Satisfaction 
+should increase modestly. In the fluctuation rate we expect a 
+decrease to the 2013 level.
+BUSINESS PRINCIPLES “HOW WE DO BUSINESS”
+J.P. Morgan AG is completely integrated into the corporate 
+culture of JPMorgan Chase & Co, whose guiding principles are 
+convincingly described by the four pillar of the Group-wide 
+business principles:
+– Exceptional Client Service
+– Operational Excellence
+– A Commitment to Integrity, Fairness and Responsibility
+– A Great Team and Winning Culture
+For further details please visit the website of JPMorgan 
+Chase & Co.: 
+http://www.jpmorganchase.com/corporate/About-JPMC/
+business-principles.htm
+
+11
+Management Report
+supported by a sustainable rise in productivity. For the euro 
+space, we expect an ongoing consolidating environment with 
+moderate growth, also due to the sharp decrease in energy 
+prices, and with that a slight improvement in the deficit. 
+The dynamics of the global economy will also strengthen 
+in the coming years, where there will be clear-cut regional 
+differences. Here the fall in the oil price and the overall 
+declining prices for commodities play a decisive role, as 
+well as shifts in exchange rate relations and the geopolitical 
+environment.
+Also over the next years we expect to see a continuation of the 
+trend towards professionalising cash management in com-
+panies, pension funds and insurers, with the goal of further 
+integration of the value-added chain in the liquidity manage-
+ment of a company for continued income optimisation. In 
+view of the negative interest environment, which in our opin-
+ion will not significantly change in 2015, and in view of the 
+expansive monetary policy, the opportunity for banks to raise 
+“non-operating liquidity” of customers, and the income and 
+risk targets of our customers, are the focus of the dialogue 
+between banks and customers. As part of the custodial func-
+tions, in 2014 we already positioned ourselves accordingly 
+to be able to represent alternative investment strategies in 
+our processes.
+Furthermore, we see a further high demand for investment 
+for banks to be able to realise competitive advantages in the 
+market from taking advantage of the implementation of the 
+Single Euro Payments Area (SEPA). In this we are assisted 
+by the leading global position of our parent company as 
+well as the worldwide investments in the technology behind 
+our business. For the next 2 to 3 years, we also see further 
+changes in the competitive environment through the imple-
+Relationships with Related Companies and 
+Persons
+With regard to the related companies of J.P. Morgan AG, we 
+have identified our parent company JPMorgan Chase Bank, 
+N.A., as well as J.P. Morgan International Finance Ltd. We 
+consider the members of the Management Board and the 
+Supervisory Board of J.P. Morgan AG and their family mem-
+bers as related persons.
+The following financial transactions are carried out with 
+related companies:
+− Money market transactions, investing and borrowing money
+− Transactions in Total Return Swaps 
+− Reverse Repos
+− Nostro accounts
+− Provision of subordinated capital
+− Purchasing and supplying corporate services
+All transactions have been closed on normal market terms. 
+There are no transactions conducted with related persons.
+Outlook
+SIGNIFICANT OPPORTUNITIES AND RISKS FOR THE 
+UPCOMING FINANCIAL YEARS
+Our outlook from recent years substantially retains its validity 
+for the coming year:
+In regard to economic development in Germany, we proceed 
+from sustainably positive development of the gross domes-
+tic product, affected by an expansive monetary policy and 
+
+12
+Management Report
+EXPECTATIONS FOR THE BANK’S FUTURE  
+PERFORMANCE
+Thanks to our consistent conservative risk policy, we do not 
+expect any risk-related losses for the next two years.
+For 2015 we expect a renewed increase in our net commis-
+sion income in Investor Services, while the net commission 
+income in Treasury Services will decrease slightly due to the 
+de-risking strategy. For 2015 we expect net interest income 
+on the level of the previous year despite customer deposits 
+being slightly down.
+Notwithstanding sustained disciplined cost management, we 
+expect that the costs will remain on the level of the previ-
+ous year, so that the planned result – without considering the 
+effects from pension obligations – will lie between € 8 million 
+and € 14 million. 
+ASSUMPTIONS
+These expectations are based on the assumptions of a stable 
+political situation in Germany and in Europe, with successful 
+crisis management and a stagnating economic performance 
+of the European countries in the next two years. However, 
+we believe that Germany will continue to have an above-
+average development rate, as compared to other European 
+countries. With respect to the global economy, we assume 
+that the dynamic development of the emerging countries of 
+the past years will continue to decline, and with it, emphasis 
+will be placed again on the significance of the established 
+industrial countries. Moreover, we assume that the ECB will 
+maintain its negative-interest policy in 2015, and that it will 
+continue in 2016.
+mentation of TARGET2 Securities (T2S), which is to be done 
+in phases. J.P. Morgan AG is already very well positioned here 
+as a provider of euro payment transactions within the Group.
+The trend for the large institutional investors to adapt their 
+investments to the altered image of an economy which is 
+becoming more and more global and the resulting demand 
+for Global Custodian services will be sustained in 2015.
+The Global Corporate Banking Organisation, which has been 
+built up in the last few years and which provides us with a 
+strongly expanded presence in the core markets around the 
+world, has made a substantial contribution here in intensifying 
+customer proximity, developing customer-specific solutions, 
+and realising cross-selling opportunities.
+We view the disproportionate regulation of the financial mar-
+kets as presenting continued risk for our business; however, 
+we continue to assume that regulators worldwide will develop 
+and implement a coordinated and measured concept for the 
+regulation. Above all, we see here a further encumbrance by 
+an intensification of control tasks and reporting requirements, 
+which must be compensated by cost savings in the opera-
+tional divisions in order not to impair the income situation of 
+J.P. Morgan AG in a lasting manner. 
+Possibilities of passing on these costs to our customers are 
+not possible in view of the increasing price pressure in the 
+transactional business with many competitors.
+We see further risks in the political destabilisation of some 
+countries or regions, which could lead to a clear deteriora-
+tion of the market situation, with potential negative effects on 
+solvency of our clients, and resulting sustained losses.
+
+13
+Management Report
+AG’s Supervisory Board. J.P. Morgan AG classifies a risk as a 
+potential loss or a failure to realise a profit due to internal or 
+external factors.
+Independent control functions are in charge of the operational 
+implementation of the risk control and monitoring, taking into 
+account the Group-wide infrastructure and policies. They 
+report directly to the Management Board “Back Office” as 
+the Chief Risk Officer (CRO).
+These include, in particular, the Market and Credit Risk Officer 
+for the risk monitoring of credit and market price risks, the 
+Governance Officer as risk controller, the Treasury & Credit 
+Control for the monitoring of liquidity and market price risks, 
+and the Local Oversight and Control Lead for monitoring the 
+operational risks.
+RISK STRATEGY AND RISK MANAGEMENT
+The risk strategy is derived directly from J.P. Morgan AG’s 
+business strategy. It is defined by the general management 
+of J.P. Morgan AG and is approved each year by the Super-
+visory Board.
+The risk strategy defines how J.P. Morgan AG will manage the 
+risks it has taken as part of its business activities. By limiting 
+and managing the risks, risk-bearing capability and liquidity 
+are ensured at all times. The risk strategy covers all main 
+risks and is, if necessary, further specified for individual risk 
+categories in the form of partial risk strategies and then made 
+concrete and operational using policies, guidelines and work-
+ing instructions. The completeness and suitability of the risk 
+strategy is reviewed during the annual risk assessment. This 
+ensures that the risk strategy takes all relevant risks faced by 
+J.P. Morgan AG into consideration.
+DEVELOPMENT OF SEGMENTS
+In the budget for the upcoming years, we assume a growth of 
+total income in the Investor Services division of 8% p. a. for 
+2015 and 2016, while we expect stable revenues as compared 
+to the previous year for the Treasury Services division.
+In 2015, we expect net revenues amounting to € 108 mil-
+lion, according to planning. This reflects our conservative 
+expectation about the interest rates and a decrease of other 
+income due to the change in the calculatory rate for pension 
+obligations. In the operative business, we expect moderate 
+increases in revenue both in Treasury Services and in the 
+Investor Services division.
+Thus, in 2015, the return on equity will be below 2%, the 
+profit margin is expected to be 11%, and the cost-income 
+ratio will remain steady at 88%. We expect the Tier 1 capital 
+ratio and the total capital ratio to be unchanged in the current 
+financial year.
+FINANCIAL SOLVENCY
+J.P. Morgan AG is solvent at all times owing to the business 
+model-driven structure of our balance sheet. In addition, the 
+Bank manages a high liquidity ratio (1.95 on 12/31/2014), 
+and operates a very strictly limited maturity transformation to 
+achieve an additional interest rate margin.
+Risk Report
+MANAGEMENT & CONTROLLING
+The Management Board of the “Back Office” is responsible 
+for risk management at J.P. Morgan AG, with regular report-
+ing to the general management, as well as to J.P. Morgan 
+
+14
+Management Report
+responds to the underlying assumptions of the Going-Concern 
+approach, risk coverage potential and the economic capital 
+model are configured accordingly. The observation period 
+lasts one year. As a secondary control circuit, a Gone-Concern 
+approach is observed in parallel, with a confidence level of 
+99.9%.
+According to the risk inventory credit risks, market risks, busi-
+ness risks and operational risks are quantified as relevant risk 
+categories in the risk-bearing capacity. Liquidity risks are part 
+of the integrated stress testing. 
+The risk coverage potential is defined primarily based on the 
+retained earnings of J.P. Morgan AG, § 340 (g) HGB – The 
+reserve for general banking risks, and the pension surplus. 
+Retained earnings, the targeted profit for the business year, 
+and the budgeted profit for the following years, form a com-
+ponent of the risk coverage potential if it is certain that they 
+are not distributed.
+In the entire year 2014 we developed the risk bearing capabil-
+ity concept of J.P. Morgan AG further in several steps. Above 
+all, this affects the inclusion of pension risks, the quantifying 
+of operational and credit risks, and the introduction of a Gone-
+Concern approach as secondary control circuit.
+The quantifying of capital requirement for the occurring risks 
+takes place through internal, institute-specific calculation 
+approaches. The calculation of the risk bearing capability 
+takes place on a quarterly basis. As per December 31, 2014, 
+utilisation stood at 44.3%. As part of the integrated stress 
+testing, the risk bearing capability was guaranteed at any 
+time.
+The classification of individual risk categories as a relevant 
+risk is based on whether the occurrence of the risk could have 
+a serious negative effect on J.P. Morgan AG’s risk-bearing 
+capability. The analysis also defines the risk appetite by allo-
+cating the available risk covering potential to the individual 
+risk categories. This facilitates compliance with the limits, 
+and allows for the monitoring of that compliance throughout 
+the financial year.
+The following principles also apply for the risk management 
+and monitoring:
+− There are clearly defined organisational structures and doc-
+umented processes for all risk affected business areas, from 
+which the responsibilities and competencies of all functions 
+involved are derived.
+− There is a clear segregation of duties between Front Office 
+and Back Office in order to avoid potential conflicts of inter-
+est.
+− For the risk identification, measuring, aggregating, manag-
+ing, monitoring and communicating of the risk categories, 
+suitable procedures are defined and implemented at J.P. 
+Morgan AG, including the Group-wide infrastructure.
+− Appropriate limits for all significant risk categories have 
+been adequately defined and are effectively controlled.
+RISK-BEARING CAPABILITY AND STRESS TESTING
+The risk-bearing capability analysis is a core component of 
+the overall bank control of J.P. Morgan AG, with the goal of 
+guaranteeing a suitable risk profile and adequate capital at all 
+times. J.P. Morgan AG decided on a Going-Concern approach, 
+whereby it could continue the core business activities even if 
+all items of the defined risk covering potential were consumed 
+through exposure to risks. The confidence level of 95% cor-
+
+15
+Management Report
+who hold their payment transactions accounts for € Clearing 
+or Global Custody activities with J.P. Morgan AG. Depending 
+on the credit rating of the client, the allocation of overdraft 
+facilities is accompanied by the implementation of defined 
+risk-mitigation steps (e. g., the provision of collateral).
+Within the division of Trade Finance, the credit risks in the 
+form of contingent liabilities taken on J.P. Morgan AG’s own 
+books continue to be for the most part directly collateralised 
+within the Group. There are no significant call risks. Due to 
+the business model, the main credit risk concentrations are 
+transactions within the Group. We do not expect to see any 
+changes in the creditworthiness here.
+Since J.P. Morgan AG does not run an active trading book, 
+issuer risk, replacement risk, and settlement risk play an 
+extremely minor role.
+By means of its credit risk strategy, which is derived from the 
+general business and risk strategy, the Management Board 
+defines the risk profile in regard to its clients and credit prod-
+ucts. Moreover, structural organisation and processes for 
+risk steering, potential measures to minimise risk and risk 
+For verification of the risk bearing capability, stress scenarios 
+are defined for each risk category. These engage with each 
+other as part of integrated macroeconomic stress scenarios.
+They are analysed in part on a monthly, otherwise quarterly 
+basis. The risk bearing capability concept and the stress tests 
+are validated annually, building on the risk inventory.
+The regulatory capital requirement for the individual risk cat-
+egories is monitored by the Chief Financial Officer (CFO) on a 
+daily basis and is shown in the table below (all figures given 
+in million €). The economic capital requirement pursuant to 
+the Going-Concern and Gone-Concern approaches is currently 
+calculated by Risk Management on a quarterly basis. In 2015 
+we will continue to develop the risk bearing capability concept 
+further; however we do not anticipate any substantial changes 
+as in 2014.
+RISK CATEGORIES
+Credit risk
+Credit (or counterparty default) risk is the most significant risk 
+category in J.P. Morgan AG due to its core activities, as a result 
+of the potential drawdown of overdraft facilities by clients 
+Regulatory
+Economic
+€t
+12/31/2013
+06/30/2014
+12/31/2014
+12/31/2013
+06/30/2014
+12/31/2014
+Risk category
+Credit risk
+38.1
+60.0
+25.8
+5.9
+10.8
+15.7
+Operational risk
+14.4
+14.4
+15.2
+6.5
+7.7
+4.6
+Market risk
+7.4
+7.8
+4.6
+0.4
+6.0
+17.5
+Pension risk
+25.0
+Capital requirement
+ 59.9
+80.1
+45.7
+12.9
+24.5
+62.8
+Risk coverage pool
+843.2
+821.6
+821.3
+69.6
+61.5
+141.9
+
+16
+Management Report
+and all new accounts and lines and/or all changes of exist-
+ing lines is being presented daily for approval to the Credit 
+Risk Officer as well as the general management. Moreover, 
+compliance with the approved limit structure, the monitoring 
+of the risk-bearing capability as well as the analysis of the 
+portfolio structure (e. g., maturities, credit products, segments 
+and countries) including concentration risk is summarised in 
+monthly or quarterly reports to the Management Board.
+The chart on the next page shows the division and country 
+risk concentrations as per December 31, 2014.
+Procedures for intensified loan management as well as the 
+treatment of problematic loans exist but did not require appli-
+cation during the financial year 2014.
+Operational risk
+Operational risk is defined under supervisory regulations as 
+the risk of loss resulting from inadequate or failed internal pro-
+cesses or systems of people or as a consequence of external 
+events. This definition also covers legal risks and compliance 
+risks. The legal department is generally involved in case of 
+legal risks. The legal department decides whether an external 
+law firm needs to be mandated.
+The necessary processes for identifying, measuring, aggregat-
+ing, managing, monitoring and communicating risks are stip-
+ulated in Group-wide risk policies and guidelines and stated 
+in the J.P. Morgan AG Operational Risk Manual, for which 
+Risk Management and the Local Operational Risk Manager 
+are jointly responsible.
+J.P. Morgan AG uses a redistribution of AMA (Advanced Mea-
+surement Approach) results for calculating the capital require-
+reporting are defined more closely in the Group-wide policies 
+and in the J.P. Morgan AG MaRisk Guidelines. The Manage-
+ment Board makes credit decisions on the basis of the clearly 
+defined separate responsibilities for “Front Office” and “Back 
+Office”.
+J.P. Morgan AG uses an unexpected loss model with a con-
+fidence level of 95% (99.91% in Gone-Concern) to calcu-
+late the economic capital requirement. As the basis for the 
+Exposure at Default (EAD) the client’s drawing behaviour is 
+estimated for the payment transactions accounts on the basis 
+of historical data, or otherwise market value positions per 
+reporting date are taken into consideration. EAD, Probability 
+of Default (PD), and Loss Given Default (LGD) are the important 
+input parameters for the risk model.
+A series of different scenarios are considered within the scope 
+of the credit risk stress test that assume that client ratings, 
+income from securities, drawing behaviour, portfolio concen-
+trations or correlations could significantly worsen over the 
+course of time. There is thus a regular validation of the stress 
+tests and their results.
+J.P. Morgan AG uses the credit risk standard approach (KSA) 
+for the regulatory quantification of the credit risk.
+Daily monitoring of counterparty default risk at the individual 
+client level is done by Treasury & Credit Control, using the 
+Group-wide credit limit control system, which records indi-
+vidual limits and utilisation at account level and/or at the level 
+of single borrower units. The system does not allow unau-
+thorised intra-day limits. In essence, the main focus is on the 
+monitoring of so-called intraday lines of credit and overdraft 
+facility usage. A corresponding report of daily exposures 
+
+17
+Management Report
+results is presented to the Management Board as part of the 
+quarterly MaRisk reports.
+A risk limit on operational risks fundamentally occurs only in 
+the context of business continuity, which should guarantee the 
+orderly operation of critical processes in order to safeguard 
+J.P. Morgan AG against damages threatening its existence. 
+The threat scenarios considered include the unavailability of 
+employees, the breakdown of support systems, and the inabil-
+ity to use the building. The appropriate emergency plans were 
+developed with the inclusion of Group-wide infrastructure and 
+are regularly tested.
+ments for operational risks as part of the risk-bearing capabil-
+ity considerations. This is modelled on loss events specific to 
+J.P. Morgan.
+Information from the institutionalised loss event database, the 
+qualitative results from the regular Control Self Assessments, 
+the definition of the risk-based Outsourcing Controlling, the 
+results from the Internal Audit, as well as the Control Test-
+ing by the Compliance Department and the Local Operational 
+Risk Manager are then used within the framework of the sce-
+nario analysis (Stress Test) at product level. A summary of the 
+€m
+Sectors
+7,000
+ 100%
+6,000
+5,000
+4,000
+ 50%
+3,000
+2,000
+1,000
+Banks & 
+Finance
+Asset  
+Managers
+Automotive
+Central Govt
+Others
+Securities 
+Firms & 
+Exchanges
+Machinery & 
+Equipment 
+Mfg
+Telecom  
+Services
+ 0%
+ 75%
+ 25%
+6,324
+662
+600
+552
+121
+310
+282
+4,677
+€m
+Countries
+7,000
+ 100%
+6,000
+5,000
+4,000
+ 50%
+3,000
+2,000
+1,000
+Germany
+USA
+Spain
+Japan
+Russia
+Others
+ 0%
+ 75%
+ 25%
+6,213
+1,574
+1,236
+986
+858
+1,296
+
+18
+Management Report
+Market price risk
+J.P. Morgan AG defines market price risk as the risk of poten-
+tial loss due to changed market price risks. Given J.P. Morgan 
+AG’s business activities, only interest rate risks as well as 
+exchange-rate risks have an impact, if a limited one, while 
+share price and commodity price risks have no importance 
+whatsoever for the Bank’s risk profile.
+Market price risks arise from a portfolio of variable and fixed-
+interest rate securities of public issuers. This so-called stra-
+tegic investment portfolio is currently being developed. The 
+first securities were acquired in January 2014. The impact 
+on the risk profile of J.P. Morgan AG can be discerned from 
+the sharply rising value at risk. See J.P. Morgan’s published 
+analyses for assessing interest rate and currency develop-
+ments.
+Since J.P. Morgan AG has no active trading book, interest rate 
+risks arise essentially in the treasury management of € liquid-
+ity. Currency risks are generated through the settlement of 
+foreign currency payments on behalf of clients who hold a 
+payment transaction or deposit account with J.P. Morgan AG 
+and from intra-Group settlements in US $.
+The scope for managing market price risks is defined by the 
+Management Board in the business and risk strategy and 
+defined more closely in the Asset Limits and the Triggers 
+Policy. Risk positions may only be employed within approved 
+limits; these positions are valued and accordingly monitored 
+on an ongoing basis.
+Market risks are quantified by means of the value-at-risk 
+approach. This is based on the historical simulation with a 
+95% confidence level and one-day holding period.
+Liquidity risk
+J.P. Morgan AG defines liquidity risk as the risk of loss arising 
+from the firm’s inability to meet its current or future payment 
+commitments in total or when they are due. At J.P. Morgan 
+AG there are refinancing risks and market liquidity risks due 
+to the business model but these are only very limited.
+In the business and risk strategy, the J.P. Morgan AG Man-
+agement Board defines the management of liquidity risks, 
+which are specified in detail in the Liquidity Risk Policy. The 
+risk mitigating instruments here include warning thresholds 
+and escalation mechanisms to the Management Board. The 
+policy defines a number of stress scenarios which analyse 
+the effects of sudden withdrawals of liquidity on the liquidity 
+situation and thus J.P. Morgan AG’s capacity to act. The stress 
+scenarios include both the sudden outflow of liquidity as well 
+as a sudden increase in utilisation of credit lines both calcu-
+lated assuming the day of lowest excess liquidity in the given 
+quarter. In both scenarios, J.P. Morgan AG’s liquidity needs 
+are covered. Moreover, J.P. Morgan AG performs a series 
+of simulations to analyse the intra-day liquidity situation, in 
+which a changed payment pattern by market participants and 
+clients is assumed.
+Liquidity management is handled by the J.P. Morgan AG Trea-
+sury Function in compliance with Group-wide policies and 
+J.P. Morgan AG’s Liquidity Risk Policy. Compliance with this 
+policy is ensured by the Treasury & Credit Control department 
+which reports to the CRO.
+Liquidity risk is not quantified as a risk category in the risk 
+sustainability model. However, liquidity costs of stress sce-
+narios are taken into account as a deduction position of risk 
+coverage potential in the scope of stress testing.
+
+19
+Management Report
+Risks from financial instruments are incurred by the Bank 
+mainly from the acquisition of debentures from public issu-
+ers and from issued products that are hedged by the total 
+return swaps.
+Pension risk
+J.P. Morgan AG defines pension risk as the risk of observing 
+significant P&L volatilities through valuation-related effects, 
+changes in value of pension assets, and risks inherent to the 
+plan. Pension risk is thus the potential necessity of increasing 
+pension reserves. Pension risks are determined on the basis 
+of a VaR model. 
+Business risk
+J.P. Morgan AG defines business risk as the risk of observ-
+ing significant deviations from planned and actual income or 
+costs. Regular plan monitoring and if necessary the appropri-
+ate adjustments ensure that these deviations are minimised.
+Reputation risk
+The outstanding reputation of J.P. Morgan is an invaluable, 
+but fragile asset in the interaction with its client base, but 
+also in its interaction with other market participants as well 
+as governmental regulators and authorities.
+In this context, J.P. Morgan AG stresses the importance of 
+Compliance, Risk Management, the Legal Department, Finan-
+cial Control and Internal Audit, and the necessity of their 
+active representation in various governance meetings in order 
+to ensure compliance with internal J.P. Morgan procedures 
+and/or regulatory requirements. It also ensures that these 
+units are involved as soon as possible in any escalation pro-
+cesses with clients.
+Value at Risk (in US $)
+$T
+12/31/2014
+12/31/2013
+Reporting date
+1,773
+194
+60-day trend
+2,129
+211
+One-year average
+1,937
+350
+To calculate interest rate change risk for its investment book, 
+J.P. Morgan AG uses the price value of a basis point interest 
+approach. Exceeded limits are generally escalated to the Man-
+agement Board. In addition to the year-end value, the table 
+below also shows the maximum, minimum and average value 
+(always absolute values) of a basis point interest approach for 
+the market risk in the course of the second half of 2013 and 
+the first half of 2014.
+$
+Basis point interest 
+approach
+12/31/2014
+6,561
+Minimum 2014
+11
+Maximum 2014
+44,219
+Average 2014
+3,320
+The impact of a shift of 200 basis points of the interest rate 
+risks is reviewed as a stress scenario. To limit the currency 
+risks, only limits for the spot positions are defined due to the 
+low significance.
+Daily monitoring and the reporting of market price risks are 
+done by the Treasury and Credit Control division. Daily adher-
+ence to limits and the impacts on the risk capacity are sum-
+marised in reports to the Management Board on a monthly 
+and quarterly basis.
+
+20
+Management Report
+Bank, N.A., London, is generally involved when this type of 
+audit is performed.
+DEFINITION OF LIMITS
+In addition to regulatory limits, the Management Board at J.P. 
+Morgan AG defined a series of indicators, threshold values 
+and limits, which are monitored daily and in a timely man-
+ner. These limits are defined in limit and trigger guidance 
+and include aspects such as recovery indicators, credit limits, 
+deposit guidance limits, bidding limits, position limits as well 
+as J.P. Morgan AG minimum liquidity warning thresholds.
+All risk-based policies of J.P. Morgan AG are approved by 
+the Management Board and updated on a regular basis. 
+They define roles and responsibilities as well as escalation 
+procedures in the event of threshold excesses or even limit 
+breaches.
+CHANGE PROCESSES
+The introduction of new products and the expansion of busi-
+ness into new markets occurs in line with the Group-wide 
+“New Business Initiative Policy”. Under the responsibility of 
+the “Back Office” Management Board in its role as COO, there 
+is an analysis of the potential risks, the design of the operative 
+processes, their regulatory impact, and their impact on J.P. 
+Morgan AG’s risk capacity. If the product involves an expan-
+sion of trading activities, the CRO shall also ensure there is a 
+sufficient test phase prior to introduction in real production.
+Integrating various functions such as Financial Control, Tax, 
+Legal, Compliance Internal Review and Risk as coordinated 
+by the CRO guarantees a review of the planned product launch 
+independent of the trading function. This committee docu-
+ments its findings along with a recommendation for approval, 
+Summarising Presentation
+The conservative risk policy and the solid capital resources 
+ensure the very comfortable risk position of J.P. Morgan AG 
+going forward.
+The quantification of the capital requirement for the occurring 
+risks takes place through internal, institute-specific calcula-
+tion approaches. The calculation of the risk bearing capabil-
+ity takes place on a quarterly basis. As per December 31, 
+2014, utilisation stood at 44.3%. As part of the integrated 
+stress testing, the risk bearing capability was guaranteed at 
+any time.
+In 2014 J.P. Morgan AG did not observe any credit default.
+RISK CONTROL AND MONITORING
+Timely, independent and risk-based reporting the risk catego-
+ries credit risk, market price risk, liquidity risk and operational 
+risk is provided to the Management Board on a daily, weekly 
+and monthly basis; Risk Management summarises said reports 
+as part of the quarterly MaRisk reports.
+The various control functions at J.P. Morgan AG – mainly the 
+Internal Audit, Compliance and Risk Management depart-
+ments – create an annual review and audit plan based on 
+the results of the risk assessment of the operational risks, 
+particularly in order to ensure the effectiveness of the defined 
+controlling measures.
+The Internal Audit department reports directly to the Chair-
+person of the Management Board and is responsible for the 
+review of the business operations at J.P. Morgan AG based on 
+a risk-oriented audit approach, which covers all activities and 
+processes at J.P. Morgan AG and thus the outsourced activities 
+as well. The Group auditing department of JPMorgan Chase 
+
+21
+Management Report
+department are involved in the internal monitoring system in 
+the form of process-independent audit measures. The audit 
+of the annual financial statements constitutes a key element 
+of process-independent monitoring.
+With a view to the accounting, the risk management system is 
+geared to identify, evaluate and communicate risks from faulty 
+bookkeeping, accounting, and reporting in a timely manner.
+IT USE
+The software used in the Bank to input accounting processes 
+is made up of the IT systems used throughout the Group. The 
+orderly functioning of the programs and interfaces utilised is 
+regularly assessed and confirmed. As part of the examination 
+of our IT, the group auditors check the due operation of the 
+accounting-related applications at all computer centre loca-
+tions. The complete IT system, including that for accounting, 
+is secured against unauthorised access.
+KEY REGULATIONS AND CONTROL ACTIVITIES TO 
+ENSURE DUE, ORDERLY AND RELIABLE ACCOUNTING
+The internal control system’s structure and measures ensure 
+that business transactions are entered swiftly and completely 
+in line with the statutory and the internal regulations and that 
+assets and liabilities are accurately calculated, valued and car-
+ried in the annual financial statements. The booking docu-
+mentation provides a reliable information base and a clear 
+paper trail.
+The regulations of the Financial Accounting Standards Board 
+are applied within the J.P. Morgan Group as uniform valua-
+tion and accounting principles according to US-GAAP, supple-
+mented and commented on by the Group’s “Accounting Poli-
+cies” section. Here, again, stipulations are made with regards 
+which are then submitted for discussion to the general man-
+agement. Only after approval is the initiative integrated into 
+real production at J.P. Morgan AG.
+Internal control system
+GENERAL REMARKS
+Please refer to the explanations provided in the risk report for 
+a presentation of the risks and the measures for limiting risks. 
+The internal control system (ICS) and the risk management 
+system, which cover the J.P. Morgan AG accounting process, 
+focus on the guidelines, procedures and measures taken to 
+ensure the efficacy, economic viability and orderliness of the 
+accounting as well guaranteeing adherence to the key statu-
+tory regulations. The internal control system consists of two 
+areas, Control and Monitoring. In organisational terms, the 
+Financial Control & Tax division is responsible for the control.
+The monitoring measures consist of elements integrated into 
+the process and external, independent elements. Among other 
+things, the integrated measures include a monthly control 
+process covering all the Bank’s activities, during which the 
+balance sheet as at that date and the income statement are 
+examined to assess and confirm their correct presentation 
+and risks. Moreover, in all instances the four-eye principle 
+is applied, along with technical controls, mainly by software-
+controlled audit mechanisms. Furthermore, qualified staff 
+members with due expertise and specialist functions such as 
+Financial Control & Tax take part in the process-integrated 
+monitoring and control functions.
+The Management Board and the Supervisory Board (in par-
+ticular the Audit Committee) as well as the internal audit 
+
+22
+Management report     Assurance by the Management Board
+Assurance by the Management Board
+We hereby assure that to the best of our knowledge and in 
+line with the applicable accounting principles for financial 
+reporting, this report offers a fair picture of the Bank’s assets, 
+financial/liquidity and earnings situation that corresponds to 
+the facts and that the course of business, the business results 
+and the Bank’s position are presented in such a way as to 
+convey a true and fair picture, and that the material opportu-
+nities and risks of the Bank’s presumable future performance 
+in the remainder of the current business year are described.
+Frankfurt am Main, April 22, 2015
+J.P. Morgan AG 
+Frankfurt am Main 
+The Management Board
+Burkhard Kübel-Sorger                 Stefan Behr
+Michelle Grundmann
+to the intra-Group settlement policies. As part of the prepara-
+tion of the individual financial statements of J.P. Morgan AG, 
+a reconciliation statement is prepared from US-GAAP to the 
+annual financial statements in accordance with the German 
+Commercial Code. Here, local work directives cover the details 
+of the formal requirements and the tangible data for the indi-
+vidual financial statements.
+Pursuant to the country-specific reporting under § 26a Para. 
+1 S. 2 KWG, J.P. Morgan AG has neither foreign branch offices 
+nor subsidiaries in this sense.
+
+23
+financial statements
+Financial statements 2014 of J.P. Morgan AG
+
+24
+Balance sheet
+ASSETS
+€
+ 
+Notes
+2014
+€
+2013
+€t
+Cash reserves
+– Cash on hand
+100
+–
+– Credits with central banks
+2,947,097,675
+590,340
+including: with Deutsche Bundesbank
+EUR
+2,947,097,675
+590,340
+2.1.
+2,947,097,775
+590,340
+Debt instruments of public agencies and 
+bills of exchange, eligible for refinancing 
+with central banks:
+– Treasury bills, discounted treasury notes 
+and similar debt instruments issued by 
+public-sector institutions
+–
+–
+including: eligible for refinancing with 
+Deutsche Bundesbank
+EUR
+–
+–
+– Bill of exchange
+–
+–
+including: eligible for refinancing with 
+Deutsche Bundesbank
+EUR
+–
+–
+–
+Receivables from credit institutions
+– due daily
+9,853,012,769
+8,915,218
+– other receivables
+18,017
+153,724
+2.2.
+9,853,030,786
+9,068,942
+Receivables from clients
+2.3.
+213,616,396
+101,986
+including: secured by mortgage
+EUR
+–
+–
+including: municipal credits
+EUR
+–
+–
+Bonds and other fixed-interest securities
+– Money market instruments
+from public issuers
+–
+–
+including: eligible as collateral at 
+Deutsche Bundesbank
+EUR
+–
+–
+–
+from other issuers
+–
+–
+including: eligible as collateral at 
+Deutsche Bundesbank
+EUR
+–
+–
+–
+–
+–
+– bonds and debt securities
+from public issuers
+1,385,730,992
+890,602
+including: eligible as collateral at 
+Deutsche Bundesbank
+EUR
+1,385,730,992
+890,602
+from other issuers
+–
+–
+including: eligible as collateral at 
+Deutsche Bundesbank
+EUR
+–
+–
+–
+1,385,730,992
+890,602
+– own debt securities
+–
+Nominal amount
+EUR
+–
+–
+–
+2.5. 1,385,730,992
+890,602
+Annual BALANCE SHEET AS AT DECEMBER 31, 2014 
+OF J.P. MORGAN AG, FRANKFURT AM MAIN
+
+25
+Balance sheet
+ASSETS (CONTINUED)
+€
+ 
+Notes
+2014
+€
+2013
+€t
+Shares and other non-fixed  
+interest securities
+–
+–
+Investments
+2.4.
+248,368
+248
+including: in credit institutions
+EUR
+88,965
+89
+including: in financial services  
+institutions
+EUR
+–
+–
+Shares in affiliated companies
+including: in credit institutions
+EUR
+–
+–
+including: in financial services  
+institutions
+EUR
+–
+–
+Trust assets
+–
+including: fiduciary loans
+EUR
+–
+–
+Tangible assets
+2.6.
+12,337,152
+3,618
+Other assets
+2.7.
+5,069,533
+7,186
+Accrued and deferred expenses
+2.8.
+822,189
+698
+Excess of plan assets over pension  
+liabilities
+2.9.
+52,881,870
+41,039
+Total assets
+14,470,835,061
+10,704,659
+
+26
+Balance sheet
+LIABILITIES
+€
+ 
+Notes
+2014
+€
+2013
+€t
+Liabilities due to credit institutions
+– due daily
+2,722,109,929
+2,165,325
+– with agreed maturity or notice period
+4,124,538,849
+1,423,760
+2.11. 6,846,648,778
+3,589,085
+Liabilities due to clients
+– savings deposits
+with agreed notice period of three 
+months
+–
+–
+with agreed notice period of more than 
+three months
+–
+–
+–
+–
+– other liabilities
+due daily
+6,516,765,793
+5,781,506
+with agreed maturity or notice period
+218,348,201
+341,478
+6,735,113,994
+2.12.
+6,735,113,994
+6,122,984
+Securitised liabilities
+– issued debt instruments
+–
+114,614
+– other securitised liabilities
+–
+–
+2.13. 
+–
+114,614
+including: money market instruments
+EUR
+–
+–
+including: own acceptances and  
+promissory notes outstanding
+EUR
+–
+–
+Trust liabilities
+–
+–
+including: fiduciary loans
+EUR
+–
+–
+Other liabilities
+2.14.
+10,501,499
+8,342
+Deferred income
+76,891
+61
+Provisions
+– Provisions for pensions and similar  
+obligations
+–
+–
+– Tax provisions
+2,436,241
+3,486
+– other provisions
+12,310,853
+13,105
+2.15.
+14,747,094
+16,591
+Subordinated liabilities
+2.16.
+185,879,939
+185,989
+Profit participation right
+–
+–
+incl.: maturity after less than two years
+EUR
+–
+–
+–
+
+27
+Balance sheet
+LIABILITIES (CONTINUED)
+€
+ 
+Notes
+2014
+€
+2013
+€t
+Fund for general banking risks
+2.17.
+56,300,000
+56,300
+Equity
+– Called-in capital
+Subscribed capital
+160,000,000
+2.18.
+160,000
+minus unclaimed outstanding deposits
+–
+–
+– Capital reserves
+411,122,704
+2.18.
+411,123
+– Retained earnings
+Legal reserves
+6,000,000
+6,000
+Reserve for interests in a dominant or 
+majority stake holding company
+–
+–
+Reserves as stated in the Articles of 
+Association
+–
+–
+other revenue reserves
+23,777,629
+23,778
+29,777,629
+– Balance sheet profit
+20,666,533
+9,792
+621,566,866
+610,693
+Total liabilities
+14,470,835,061
+10,704,659
+Contingent liabilities
+– Contingent liabilities from rediscounted, 
+settled bills
+–
+–
+– Liabilities from guarantees and  
+indemnity agreements
+44,058,691
+43,338
+– Collateral provided for third-party  
+liabilities
+–
+–
+2.21.
+44,058,691
+43,338
+Other commitments
+– Repurchase obligations under reverse 
+repurchasing agreements
+–
+–
+– Placement and underwriting obligations
+–
+–
+– Irrevocable loan commitments
+–
+–
+–
+–
+
+28
+INCOME STATEMENT
+FOR THE PERIOD FROM JANUARY 1, 2014, until December 31, 2014
+€
+ 
+Notes
+2014
+€
+2013
+€t
+Interest income from
+– lending and money-market transactions
+14,595,664
+15,717
+– fixed-income securities and debt  
+register claims
+19,053,119
+33,648,783
+8,131
+Interest expenses
+20,071,377
+9,951
+3.1.
+13,577,406
+13,897
+Current income from
+– equities and other non-fixed-income 
+securities
+–
+7
+– investments
+4,367
+1
+– shares in affiliated companies
+–
+–
+4,367
+8
+Commissions income
+64,959,052
+60,844
+Commissions expenses
+1,633,943
+1,093
+3.2.
+63,325,109
+59,751
+Net income from trading portfolio
+–
+–
+Other operating income
+3.3.
+41,803,977
+32,091
+General administrative expenses
+– Personnel expenses
+Wages and salaries
+25,216,424
+25,024
+Social security contributions and 
+expenses for pension provisions and 
+benefits
+6,031,180
+31,247,604
+6,445
+including: for retirement benefits
+EUR
+3,195,627
+3,865
+– other administrative expenses
+67,405,408
+53,310
+3.4.
+98,653,012
+84,779
+Depreciation, amortisation and  
+write-downs of intangible and tangible 
+fixed assets
+2.6.
+2,871,395
+2,470
+Other operating expenses
+3.5.
+3,793,968
+2,279
+Depreciation and value adjustments in 
+respect of receivables and specific  
+securities and allocations to provisions  
+for credit risks
+–
+3.7.
+127
+Income from allocations to receivables 
+and specific securities as well as  
+allocations to loan transaction accruals
+127,054
+3.6.
+–127
+127,054
+–127
+INCOME STATEMENT 
+OF J.P. MORGAN AG, FRANKFURT AM MAIN
+
+29
+INCOME STATEMENT
+FOR THE PERIOD FROM JANUARY 1, 2014, until December 31, 2014 (CONTINUED)
+€
+ 
+Notes
+2014
+€
+2013
+€t
+Depreciation, amortisation and write-
+downs of equity investments, shares in 
+affiliated companies and securities  
+classified as fixed assets
+–
+–
+Income from reversals of investments, 
+shares in affiliated companies and  
+securities classified as fixed assets
+–
+–
+–
+–
+Income before Tax and extraordinary 
+items
+13,519,539
+16,092
+Extraordinary income
+–
+–
+Extraordinary expenses
+–
+–
+Extraordinary result
+–
+–
+Taxes on income and revenue
+2,631,277
+6,286
+including changes in deferred taxes:
+EUR
+–
+Other taxes, not indicated under other 
+operating expenses
+13,351
+14
+3.8.
+–2,644,628
+–6,300
+Profit transferred on the basis of profit 
+pooling, profit and loss transfer, or partial 
+profit transfer agreements
+–
+–
+Annual net profit
+10,874,910
+9,792
+Profit/loss carried forward
+9,791,623
+–
+Retained profit
+20,666,533
+9,792
+
+Notes
+30
+1. General remarks
+1.1. GENERAL PRINCIPLES
+J.P. Morgan AG, Frankfurt am Main, is a registered stock corporation under German law active 
+in Germany in the main segments of transaction banking, securities custody and deposit and 
+loan business.
+The J.P. Morgan AG annual financial statement has been prepared according to the regulations 
+of the German Commercial Code and the Decree on Accounting for Banks and Financial Service 
+Providers.
+The structure of the balance sheet and the income statement is unchanged over the prior year.
+1.2. CHANGED ACCOUNTING AND VALUATION METHODS
+The accounting and valuation methods adopted in the 2013 annual financial statements were 
+used as for the previous year.
+1.3. FOREIGN CURRENCY CONVERSION
+Foreign-currency receivables and liabilities have been converted using the European Central Bank 
+reference rates applicable at the reporting date. Transactions denominated in foreign currency 
+are translated at the end-of-month rate for the month in which the business was transacted. 
+Exchange gains/losses are reported in profit or loss under other income.
+J.P. Morgan AG, Frankfurt am Main  
+Notes to the Annual Financial Statement 2014
+
+Notes
+31
+2. Key accounting and valuation principles and explanations
+2.1. CASH RESERVES
+€t
+12/31/2014
+12/31/2013
+Cash reserves
+2,947,098
+590,340
+Cash on hand
+–
+–
+Credit with central banks
+2,947,098
+590,340
+including: with Deutsche Bundesbank
+2,947,098
+590,340
+Liquid funds are reported at nominal value. As at the reporting date, there is € 100 in liquid funds 
+in the cash on hand, and liquidity was invested with Deutsche Bundesbank.
+2.2. RECEIVABLES FROM CREDIT INSTITUTIONS
+€t
+12/31/2014
+12/31/2013
+Receivables from credit institutions
+9,853,031
+9,068,942
+including: receivables from affiliated companies
+9,826,389
+8,838,937
+Breakdown by remaining maturity:
+a) due daily
+9,853,013
+8,915,218
+b) other receivables
+18
+153,724
+1. up to three months,
+18
+153,724
+2. more than three months to one year,
+–
+–
+3. more than one year to five years,
+–
+–
+4. more than five years
+–
+–
+Receivables from banks are reported at the nominal value or at the lower cost of acquisition plus 
+accrued interest.
+
+Notes
+32
+2.3. RECEIVABLES FROM CLIENTS
+€t
+12/31/2014
+12/31/2013
+Receivables from clients
+213,616
+101,986
+including: receivables from affiliated companies
+70,061
+10,981
+Breakdown by remaining maturity:
+a) due daily
+31,231
+10,194
+b) undefined maturity
+181,814
+91,038
+c) other receivables
+571
+754
+1. up to three months,
+–
+–
+2. more than three months to one year,
+–
+–
+3. more than one year to five years,
+571
+754
+4. more than five years
+–
+–
+Receivables from clients are reported at nominal value or at the lower cost of acquisition plus 
+accrued interest.
+2.4. INVESTMENTS
+€t
+12/31/2014
+12/31/2013
+Investments
+248
+248
+including: in credit institutions
+89
+89
+The investments are reported at acquisition cost. There is a contingent obligation to make an 
+additional contribution of € 600,000 under an investment in a credit institution.
+
+Notes
+33
+2.5. BONDS AND OTHER FIXED-INTEREST SECURITIES
+€t
+12/31/2014
+12/31/2013
+Bonds and other fixed-interest securities
+1,385,731
+890,602
+maturing in the following year
+200,087
+690,415
+Bonds and debt securities
+from public issuers
+1,385,731
+890,602
+including: eligible as collateral with Deutsche Bundesbank
+1,385,731
+890,602
+including marketable securities
+1,385,731
+890,602
+listed on the stock exchange
+1,385,731
+890,602
+not listed on the stock exchange
+–
+–
+This position includes only listed bonds. Bonds and other fixed-income securities are valued at 
+acquisition with the acquisition cost.
+Since 2013 the securities have been a component of the liquidity reserves. The securities are 
+assessed according to the strict lowest value principle pursuant to § 253, Para. 4 HGB. Deprecia-
+tions and write-ups of the securities in the liquidity reserve are reported in the income statement 
+under “Depreciation and value adjustments in respect of receivables and specific securities and 
+allocations to provisions for credit risks” as well as “Allocations to loans-transaction accruals” 
+or “Income from allocations to receivables and specific securities” as well as “Reversal of loans-
+transaction accruals”.
+For securities already existing before 2013, premiums paid and discounts received were activated 
+at the acquisition costs, and are depreciated in straight-line fashion over their remaining term. 
+The depreciation is shown in the net interest income.
+For hedging interest rate change risks, the securities were partially combined with interest rate 
+hedging instruments to form micro-valuation units. 
+The bonds are listed on the Luxembourg Stock Exchange, Luxembourg, and the German Stock 
+Exchanges in Frankfurt and Berlin.
+
+Notes
+34
+2.6. CHANGE IN FIXED ASSETS
+€t
+Other equipment and 
+office equipment
+Technical equipment and 
+machinery
+Total
+Cumulative acquisition costs  
+as at 01/01/2014
+20,818
+5,358
+26,176
+Additions
+10,301
+2,321
+12,622
+Disposals
+–20,598
+–4,989
+–25,587
+Cumulative acquisition costs  
+as at 12/31/2014
+10,521
+2,690
+13,211
+Scheduled depreciation in the 
+current year
+2,601
+377
+2,978
+Cumulated depreciation  
+as at 12/31/2014
+442
+432
+874
+Residual value  
+as at 12/31/2014
+10,079
+2,258
+12,337
+Residual value  
+as at 12/31/2013
+2,539
+1,079
+3,618
+Tangible assets are valued at acquisition cost minus scheduled straight-line depreciation.
+2.7. OTHER ASSETS
+€t
+12/31/2014
+12/31/2013
+Other assets
+5,070
+7,186
+This is mainly sales tax receivables in the amount of € 1.9 million, as well as tax receivables from 
+corporate tax of € 0.6 million and trade tax of € 0.7 million, as well as € 0.3 million from the fair 
+value of reinsurance policies and receivables from payment transaction services of € 0.3 million.
+
+Notes
+35
+2.8. ACCRUED AND DEFERRED EXPENSES
+€t
+12/31/2014
+12/31/2013
+Accrued and deferred expenses
+822
+698
+Accrued and deferred expenses include € 819,000 for the monthly pension payments already 
+made in 2014 for accounting reasons.
+2.9. EXCESS OF PLAN ASSETS OVER PENSION LIABILITY 
+In line with § 246 Para. 2 S. 2 HGB, assets that serve to cover debts from pension obligations 
+and similar long-term obligations were netted against the liabilities. The excess carrying value 
+of the balance is then entered under the item for “Positive consolidation difference from asset 
+offsetting”. The actuarial report was calculated using the mortality tables of Prof. Dr. Klaus 
+Heubeck 2005 G.
+The evaluation was carried out in accordance with the accepted principles of actuarial mathemat-
+ics using the so-called “Projected Unit Credit Method” (PUC method).
+€t
+12/31/2014
+12/31/2013
+Valuation parameters (BilMoG [Bilanzrechtsmodernisierungsgesetz – 
+German Accounting Law Modernisation Act])
+Pension obligations:
+Actuarial interest rate
+4.53%
+4.88%
+Future increase of benefits
+3.00%
+3.00%
+Increase of pension
+2.00%
+2.00%
+In order to account for fluctuation, age-specific and  
+gender-specific fluctuation probabilities were used
+Mercer 
+Standard
+Mercer 
+Standard
+Partial retirement:
+Actuarial interest rate
+4.54%
+4.88%
+Future increase of benefits
+3.00%
+3.00%
+Increase of pension
+0.00%
+0.00%
+
+Notes
+36
+€
+12/31/2014
+Pension obligations
+01/01/2014
+131,632,477
+Allocations
+12,819,840
+Allocations from deferred compensation
+0
+Consumption (pension payments)
+–5,487,605
+Pension obligations
+12/31/2014
+138,964,712
+Assets
+01/01/2014
+172,671,473
+Additions
+813,166
+Disposals
+0
+Reversal of impairment on part values that have 
+risen again
+0
+Market valuation in relation to acquisition costs 
+(under other operating income)
+18,361,171
+Assets
+12/31/2014
+191,845,810
+Excess of plan assets over pension liability
+01/01/2014
+41,038,999
+Excess of plan assets over pension liability
+12/31/2014
+52,881,870
+Acquisition costs of assets
+01/01/2014
+118,708,758
+Acquisition costs of assets
+12/31/2014
+119,534,711
+Trend for allocations to pension provisions
+Allocations
+	 	
+12,819,840
+Proof of expenses for partial retirement under 
+“Wages and salaries”
+–67,913
+Proof of change in the discount rate and  
+discounting/compounding of pension liabilities 
+under other operative income
+–10,668,227
+Allocations to pension provisions
+01/01/ – 12/31/2014
+2,083,700
+
+Notes
+37
+2014
+Asset investment measures pursuant to  
+§ 285 No. 26
+– Special Institutional Funds
+JPMC I Universal Fund
+Legal basis:
+Risk management approach:
+Basis of the calculation:
+Market value (NAV) of assets
+Reinvestment:
+Capitalisation funds
+§ 253 Para. 3 S. 4:
+No amortisation, 
+as valued under § 246 Para. 2 HGB 
+Term:
+No restriction on the daily return
+Valuation as per §§ 168, 278 KAGB [Capital Invest-
+ment Act] or comparable foreign law as at balance 
+sheet date:
+T€ 168,547; shares 1,078,462
+Capital assets:
+Not eligible for listing on the 
+ stock exchange/unlisted
+– Mutual funds
+JPMorgan Funds – Global Unconstrained Equity
+Legal basis:
+Luxembourg law
+Basis of the calculation:
+Market value (NAV) of assets
+Reinvestment:
+capitalisation funds
+§ 253 Para. 3 S. 4:
+No amortisation, 
+as valued under § 246 Para. 2 HGB
+Term:
+No restriction on the daily return
+Valuation as per §§ 168, 278 KAGB or comparable 
+foreign law as at balance sheet date:
+T€ 161,700; shares 13,985,975
+Capital assets:
+Not eligible for listing on the 
+stock exchange/unlisted
+All pension assets are held to hedge pension benefits granted to employees. The primary invest-
+ment target of the funds is to cover long term financial obligations.
+The fund unit prices are calculated as follows: A net asset value (NAV) is allocated to each share 
+class – this is the value of the assets of a share class minus the liabilities for that class. The NAV 
+is then divided by the total number of current shares belonging to that share class to arrive at 
+the unit price.
+
+Notes
+38
+2.10. OTHER ACCOUNTING AND VALUATION METHODS
+Other assets are valued under consideration of the strict lowest value principle.
+Expenses and income deferrals have been formed and allocated to the respective balance sheet item.
+Liabilities are carried at the sums repayable and securitised liabilities are held at their nominal value.
+Appropriate provisions have been made for uncertain liabilities. There were no imminent losses 
+from pending transactions.
+Interest driven business, in the banking book, was valued using the periodical approach (P & L 
+based method) for loss free valuation. In accordance with this method, it was not required to 
+form a threatened loss reserve.
+Provisions were valued at the settlement amount, factoring in expected increases in prices and costs.
+Provisions with a remaining term of more than one year have been discounted/revalued at the 
+average market interest rates as calculated and announced by Deutsche Bundesbank (§ 253 Para. 
+2 HGB). Income and expenses from discounting and revaluing were entered not netted, depend-
+ing on whether the provisions were made for loan business or for non-banking business, under 
+the interest income/interest expense item (§ 277 Para. 5 HGB) or in other operating income/ 
+expenses (§ 340a Para. 2 in connection with § 277 Para. 5 HGB).
+Deferred taxes are calculated for temporary differences between the commercial valuations of 
+assets, liabilities and deferred income and their taxable value and tax loss. The underlying tem-
+porary differences are mainly due to different valuations of securities, pension obligations and 
+the valuation of plan assets and provisions and lead to a net deferred tax asset (surplus). For 
+the calculation of deferred taxes, a corporate income tax rate including solidarity surcharge of 
+15.825% and an industrial tax rate of 16.10% were assumed. The right available under § 274, 
+Para. 1, S. 2, HGB for activation of deferred taxes is not exercised.
+Valuation units were set up for registered bonds, bearer bonds and debentures issued that are 
+hedged by total return swaps (TRS) against market price risk. Moreover, parts of the fixed-interest 
+securities were combined with interest rate swaps as a hedge into a valuation unit.
+
+Notes
+39
+The TRS and the interest rate swaps were combined at a single transaction level with the underly-
+ing transactions in a clear hedging relationship and their effectiveness was tested.
+Owing to the clear hedging relationship, the transactions involved are Micro-Hedges that rep-
+resent an efficient and perfect hedging relationship for the entire term. The fair values covered 
+by the Total Return Swaps in relation to the underlying liabilities are calculated using customary 
+valuation models. Efficiency is measured by using the dollar offset method, or with the use of 
+suitable statistical procedures such as regression analysis.
+The fair value of all Total Return Swaps as at December 31, 2014, was € 554,000. The value 
+of the Interest Rate Swaps as at the reporting date came to € 117,104,000. Valuation was car-
+ried out using internal valuation procedures. The Group uses valuation procedures to establish 
+the fair value of financial instruments where prices quoted in active markets are not available. 
+Therefore, where possible, parameter inputs to the valuation procedures are based on observ-
+able data derived from prices of relevant financial instruments traded in an active market. The 
+use of these models involves some level of management estimation and judgment, the degree 
+of which will depend on the price transparency for the financial instrument and its market and 
+the instrument’s complexity.
+The term of the individual TRS matches that of the liabilities hedged and was as follows as at 
+December 31, 2014:
+€t
+Total Return 
+Swaps
+Liabilities
+Total Return Swaps Overview (Nominal)
+Maturity
+2015
+67,214
+67,214
+2016
+16,145
+16,145
+2018
+25,000
+25,000
+2020
+–
+–
+2022
+110,000
+110,000
+In total, 9 valuation units were formed, and 9 Total Return Swaps established to cover 9 liability items.
+
+Notes
+40
+The term structure of the Interest Rate Swaps in connection with bonds is presented in the fol-
+lowing table:
+€t
+Interest Rate 
+Swaps
+Bonds
+Interest Rate Swap overview (nominal)
+Maturity
+2021
+97,000
+100,000
+2022
+70,000
+70,000
+2023
+246,000
+250,000
+2024
+735,000
+750,000
+The effective portion of the valuation units formed is presented according to the freezing method.
+2.11. LIABILITIES TO CREDIT INSTITUTIONS
+€t
+12/31/2014
+12/31/2013
+Liabilities to credit institutions
+6,846,649
+3,589,085
+including: liabilities to affiliated companies
+5,091,628
+2,294,588
+Maturity structure:
+a) due daily
+ 2,722,110
+2,165,326
+b) with agreed duration or termination notice
+4,124,539
+1,423,760
+1. up to three months,
+3,833,356
+1,137,504
+2. more than three months to one year,
+41,183
+–
+3. more than one year to five years,
+–
+36,256
+4. more than five years
+250,000
+250,000
+2.12. LIABILITIES TO CLIENTS
+€t
+12/31/2014
+12/31/2013
+Liabilities to clients
+6,735,114
+6,122,984
+including: liabilities to affiliated companies
+91,473
+18,697
+Maturity structure:
+a) due daily
+6,516,766
+5,781,506
+b) with agreed duration or termination notice
+218,348
+341,478
+1. up to three months,
+130,395
+39,227
+2. more than three months to one year,
+52,953
+237,252
+3. more than one year to five years,
+25,000
+25,000
+4. more than five years
+10,000
+40,000
+
+Notes
+41
+2.13. SECURITISED LIABILITIES
+€t
+12/31/2014
+12/31/2013
+Securitised liabilities
+–
+114,614
+including: acceptances outstanding and promissory notes in circulation
+Maturity structure:
+issued debt instruments
+–
+114,614
+maturing in the following year
+–
+114,614
+Other securitised liabilities with agreed maturity or notice period
+–
+–
+1. up to three months,
+–
+–
+2. more than three months to one year,
+–
+–
+3. more than five years
+–
+–
+Securitised liabilities resulting from bearer debentures issued, which were completely paid back 
+in 2014. 
+2.14. OTHER LIABILITIES
+€t
+12/31/2014
+12/31/2013
+Other liabilities
+10,501
+8,342
+consisting of:
+– Profit transfer
+0
+0
+– Interest for profit participation rights  
+(J.P. Morgan Beteiligungs- und Verwaltungsgesellschaft  
+[J.P.Morgan Holding and Management Corporation] mbH)
+0
+0
+– Value added tax
+5,755
+3,365
+– Liabilities from deliveries and services
+1,149
+2,323
+– other liabilities
+3,597
+2,654
+The other liabilities mainly include liabilities from deliveries and services, as well as value added 
+tax liabilities.
+
+Notes
+42
+2.15. PROVISIONS
+€t
+12/31/2014
+12/31/2013
+Provisions
+14,747
+16,590
+consisting of:
+– tax provisions
+2,436
+3,485
+– other provisions
+12,311
+13,105
+The provisions carried contain all obligations discernible on the reporting date relating to past 
+business transactions or past occurrences, valued in line with § 253 HGB.
+Provisions for anniversaries contained in the figure were calculated using an actuarial report 
+and on the basis of the mortality tables of Prof. Dr. Klaus Heubeck 2005 G and in line with the 
+valuation method as per § 253 Para. 1 HGB.
+Other provisions consist for the most part of provisions regarding personnel expenditure and 
+asset retirement obligations for the leased office building.
+2.16. SUBORDINATED LIABILITIES
+€t
+12/31/2014
+12/31/2013
+Subordinated liabilities
+185,880
+185,989
+including: subordinated liabilities to affiliated companies
+185,880
+185,989
+The subordinated capital posted at the end of the financial year 2014 comprises a subordinate 
+loan of € 150,000,000 taken out on December 21, 2009, as well as another subordinate loan of 
+€ 35,790,432, which was transferred to J.P. Morgan AG within the scope of the merger between 
+J.P. Morgan Beteiligungs- und Verwaltungsgesellschaft mbH and J.P. Morgan AG.
+Interest payments are made quarterly starting on December 21, 2009, or for the capital gained 
+within the context of the merger, on a semi-annual basis. Interest to be paid is calculated on the 
+basis of the respective three-month EURIBOR (European InterBank Offered Rate) or rather six-
+month EURIBOR interest rate. The subordinated capital to the amount of € 150,000,000 is due on 
+December 21, 2039. The subordinated loan to the amount of € 35,790,000 has no term with an 
+option for termination at any time with a notice period of two years. In the event of insolvency, all 
+remaining lenders will be serviced in order of priority. There are no early repayment obligations.
+The subordinated liabilities meet the requirements of § 10 Para. 5a of KWG [Kreditwesengesetz 
+– German Banking Act].
+
+Notes
+43
+2.17. FUNDS FOR GENERAL BANKING RISKS
+€t
+12/31/2014
+12/31/2013
+Status as of 01/01/2014
+56,300
+56,300
+Additions
+–
+–
+Disposals
+–
+–
+Status as of 12/31/2014
+56,300
+56,300
+2.18. SUBSCRIBED CAPITAL AND CAPITAL RESERVE
+The share capital amounts to € 160,000,000 divided into 160,000,000 shares. The shares are 
+100% paid-in.
+2.19. OTHER ITEMS DUE TO AFFILIATED COMPANIES
+€t
+12/31/2014
+12/31/2013
+Other items due to affiliated companies
+Other assets
+0
+5
+Other liabilities
+425
+2,098
+Liabilities from profit transfer
+0
+0
+2.20. FOREIGN CURRENCY ASSETS AND LIABILITIES
+€t
+12/31/2014
+12/31/2013
+Foreign currency assets and liabilities
+Assets
+1,499,773
+1,186,739
+Liabilities
+1,502,159
+1,167,155
+2.21. CONTINGENT LIABILITIES
+€t
+12/31/2014
+12/31/2013
+Contingent liabilities
+Liabilities from guarantees and indemnity agreements
+44,059
+43,338
+Guarantees were secured using cash collateral to the amount of € 8,236.55.
+The guarantees are generally covered by counter-guarantees. 
+There are no significant call risks.
+
+Notes
+44
+3. Explanatory Notes to the Income Statement
+3.1. NET INTEREST INCOME
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+ Interest income (net)
+13,577
+13,897
+Interest income from:
+33,649
+23,848
+a) Lending and money-market transactions
+14,596
+15,717
+b) Fixed-income securities and debt register claims
+19,053
+8,132
+Interest expenses:
+20,071
+9,951
+The net interest income has slightly declined by 2.3% in comparison with the previous year.
+The rise in interest income is largely due to higher average bond inventories. 
+3.2. NET COMMISSION INCOME
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Commission income (net)
+63,325
+59,751
+The net commission income increased by 6% in comparison to the previous year. In particular, 
+increasing income from payment transactions and new customer acquisition in the custodian 
+bank business have contributed positively to this increase.
+3.3. OTHER OPERATING INCOME
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Other operating income
+41,804
+32,091
+including:
+– Services rendered for Group entities
+32,522
+29,767
+– Miscellaneous other operating income
+9,282
+2,324
+The increase in other operating income of 30.3% as compared to the previous year can primarily 
+be attributed to the valuation result of € 7,689,000 (2013: € 545,000) from changes in the fair 
+value and income from the assets, the change in the calculatory interest and effects of discount-
+ing/compounding of pension liabilities. Further, other income included services to companies 
+of the Group.
+
+Notes
+45
+3.4. GENERAL ADMINISTRATIVE EXPENSES
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+General administrative expenses
+98,653
+84,779
+including:
+Personnel expenses
+31,248
+31,469
+– Wages and salaries
+25,216
+25,024
+– Social security contributions and expenses for  
+pension provisions and benefits
+6,032
+6,445
+• of which for retirement
+3,196
+3,865
+other administrative expenses
+67,405
+53,310
+The increase in general administrative expenses results mainly from increased expenses on 
+services to companies of the Group.
+3.5. OTHER OPERATING EXPENSES
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Other operating expenses
+3,794
+2,279
+Other operating expenses primarily cover expenses on payment transactions, increased depre-
+ciation of business and office equipment, and expenses on currency conversion amounting 
+to € 92,000.
+3.6. INCOME FROM ALLOCATION TO RECEIVABLES AND CERTAIN  
+SECURITIES AS WELL AS FROM REVERSAL OF ACCRUALS IN LENDING BUSINESS
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Income from allocations
+127
+0
+On the reporting date expenses arising from the evaluation of the debt allocations based on the 
+strict lowest value principle were reported at € 127,000 in the income statement.
+
+Notes
+46
+3.7. WRITE-OFFS AND VALUE IMPAIRMENTS ON RECEIVABLES AND SPECIFIC 
+SECURITIES AS WELL AS ALLOCATIONS TO ACCRUALS IN LENDING BUSINESS
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Write-offs of securities in the liquidity reserve
+0
+127
+On the reporting date there were no expenses arising from the evaluation of the debt securities 
+based on the strict lowest value principle.
+3.8. TAX ON INCOME AND REVENUE AND OTHER TAXES
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Taxes
+2,644
+6,300
+Industrial tax
+1,351
+3,404
+Corporate tax
+1,280
+2,883
+Other
+13
+14
+In the fiscal year out-of-period tax expenses of € 13,000 were recorded.
+
+Notes
+47
+4. Other data
+Market value on 12/31/2014
+Market value on 12/31/2013
+Market value on 12/31/2012
+€t
+positive
+negative
+positive
+negative
+positive
+negative
+Total Return Swaps
+14,205
+13,651
+35,834
+56,247
+27,420
+92,720
+Interest Rate Swaps
+–
+117,104
+–
+–
+–
+–
+Forward transactions which were not yet settled at the reporting date consisted of Total Return 
+Swaps and Interest Rate Swaps. The Total Return Swaps and Interest Rate Swaps were concluded 
+to hedge against market risks.
+4.1. RELATIONS WITH AFFILIATED COMPANIES
+The sole shareholder of J.P. Morgan AG is J.P. Morgan International Finance Limited, Newark/ 
+Delaware, USA. A dependency report pursuant to § 312 AktG [Aktiengesetz – German Stock 
+Corporations Act] is issued.
+JPMorgan Chase & Co, JPMorgan Chase Bank, National Association, J.P. Morgan International Inc 
+and Bank One International Holdings Corporation informed us by their letter of January 26, 2015, 
+that there exists an indirect stake of 100%. J.P. Morgan International Finance Limited informed 
+us by its letter of January 26, 2015, that there exists an indirect stake of 100%.
+The consolidated annual financial statements for the smallest and largest group of companies is 
+disclosed by JPMorgan Chase & Co., New York, whose shares are traded on the New York Stock 
+Exchange and on some European and Asian exchanges. The consolidated annual financial state-
+ments can be obtained on request from J.P. Morgan AG, Frankfurt am Main.
+The Bank is a member of the Deposit Protection Fund of the Association of German Banks.
+4.2. NUMBER OF EMPLOYEES
+On average for the year there were 262 employees, distributed as follows:
+Number
+12/31/2014
+12/31/2013
+Yearly average
+262
+244
+Distribution of employees
+Authorised signatories
+13
+14
+Authorised officers
+123
+118
+Commercial employees
+126
+112
+Employees sent overseas are not included in this chart.
+
+Notes
+48
+4.3. TOTAL REMUNERATION OF THE ACTIVE MEMBERS OF THE BOARDS
+The remuneration paid to members of the Management Board amounted to € 1,925,000. A portion 
+of this came from restricted stock units which had a fair value on their grant date of € 328,000.
+The remuneration paid to members of the Supervisory Board amounted to € 10,000 in 2014.
+No loans were granted to Board members during the business year.
+4.4. TOTAL PAYMENTS TO FORMER BOARD MEMBERS AND THEIR DEPENDENTS
+Pension provisions for these persons totalled € 23,080,000 as at December 31, 2014. The total 
+remuneration for former members of the Management Board and their dependents amounted to 
+€ 716,000 as at December 31, 2014.
+4.5. FEE EXPENSES¹
+€t
+01/01/ – 12/31/2014
+01/01/ – 12/31/2013
+Total fee expenses for the financial year  
+calculated by the auditors for
+202
+267
+Financial document auditing services
+144
+189
+of which, for the previous year
+–15
+–2
+of which, expenses in the current financial year
+0
+of which, expenses for creating provisions
+160
+192
+Other confirmation services
+58
+78
+of which, for the previous year
+–9
+–3
+of which, expenses in the current financial year
+0
+0
+of which, expenses for creating provisions
+67
+81
+Tax advisory services
+0
+0
+of which, for the previous year
+0
+0
+of which, expenses in the current financial year
+0
+0
+of which, expenses for creating provisions
+0
+0
+¹ Net expenses, excluding VAT
+4.6. EXPLANATORY NOTES ON OTHER FINANCIAL COMMITMENTS
+The Company utilises services from various Group member companies as part of its outsourcing 
+functions. The business procurement contracts have a notice period of three months.
+The rental contract for the business premises runs until September 30, 2024.
+
+Notes
+49
+Management Board
+Burkhard Kübel-Sorger
+Chairperson of the Management Board, Managing Director, J.P. Morgan AG
+Michelle Grundmann
+Managing Director, J.P. Morgan AG
+Stefan Behr
+Managing Director, J.P. Morgan AG
+Supervisory Board
+Mark S. Garvin
+Chairperson, Chairman, Managing Director, J.P. Morgan Europe Limited, London
+Frédéric P. Mouchel
+Vice Chairperson, Managing Director, JPMorgan Chase Bank, N.A., London Branch
+Melanie Martin (from February 5, 2014)
+Managing Director, JPMorgan Chase Bank, N.A., London Branch
+Karl-Georg Altenburg (until February 13, 2014)
+Senior Country Officer Germany, Austria & Switzerland, Managing Director, JPMorgan Chase Bank, N.A.,
+Frankfurt Branch
+Martin Wiesmann (from February 25, 2014)
+Senior Country Officer Germany, Managing Director, J.P.Morgan Securities plc, Frankfurt Branch
+Thomas Freise
+Employee Representative, J.P. Morgan AG
+Christoph Fickel
+Employee Representative, J.P. Morgan AG
+Frankfurt am Main, April 22, 2015
+J.P. Morgan AG 
+Frankfurt am Main 
+The Management Board
+BURKHARD KÜBEL-SORGER	 	
+Stefan behr	
+	
+MICHELLE GRUNDMANN
+
+50
+AUDITOR’S REPORT
+AUDITOR’S REPORT
+We have audited the annual ﬁnancial statements comprising the balance sheet, the income 
+statement, the notes to the ﬁnancial statements, together with the bookkeeping system, and the 
+management report of J.P. Morgan AG, Frankfurt am Main, for the business year from January 1, 
+to December 31, 2014. The maintenance of the books and records and the preparation of the 
+annual ﬁnancial statements and management report in accordance with German commercial 
+law are the responsibility of the Company’s Management Board. Our responsibility is to express 
+an opinion on the annual ﬁnancial statements, together with the bookkeeping system, and the 
+management report based on our audit.
+We conducted our audit of the annual ﬁnancial statements in accordance with Section 317 HGB, 
+and the generally accepted standards for the audit of ﬁnancial statements established by IDW 
+(Institut der Wirtschaftsprüfer [Institute of Public Auditors in Germany]). Those standards require 
+that we plan and perform the audit such that misstatements materially affecting the presenta-
+tion of the net assets, ﬁnancial position and results of operations in the annual ﬁnancial state-
+ments in accordance with the principles of proper accounting and in the management report are 
+detected with reasonable assurance. Knowledge of the business activities and the economic and 
+legal environment of the Company and expectations as to possible misstatements are taken into 
+account in the determination of audit procedures. The effectiveness of the accounting-related 
+internal control system and the evidence supporting the disclosures in the books and records, 
+the annual ﬁnancial statements and the management report are examined primarily on a test 
+basis within the framework of the audit. The audit includes assessing the accounting principles 
+used and signiﬁcant estimates made by the Management Board, as well as evaluating the overall 
+presentation of the annual ﬁnancial statements and management report. We believe that our audit 
+provides a reasonable basis for our opinion.
+Our audit has not led to any reservations.
+
+51
+AUDITOR’S REPORT
+In our opinion based on the ﬁndings of our audit, the annual ﬁnancial statements comply with 
+the legal requirements and give a true and fair view of the net assets, ﬁnancial position and 
+results of operations of the Company in accordance with the principles of proper accounting. The 
+management report is consistent with the annual ﬁnancial statements and as a whole provides 
+a suitable view of the Company’s position and suitably presents the opportunities and risks of 
+future development.
+Frankfurt am Main, on April 22, 2015
+PricewaterhouseCoopers
+Stock Company
+Audit Company
+EVA HANDRICK	
+	
+PPA. Fatih Agirman
+Auditor	 	
+	
+Auditor
+
+52
+report of the Supervisory Board
+Supervision and control
+The Supervisory Board monitored the Management Board continuously throughout the year 
+on the basis of written and oral reports and performed its duties in accordance with the law. 
+Important matters of business management were examined by the Supervisory Board in regard 
+to the Bank’s economic situation, the business policy, liquidity, capital and risk management. 
+Moreover, the Supervisory Board was informed in detail on the risk management by means of 
+the quarterly MaRisk reports.
+Personnel changes in the Management Board
+No personnel changes took place in the Management Board during fiscal year 2014.
+Personnel changes in the Supervisory Board
+In fiscal year 2014 the Supervisory Board was composed of the following persons: Mark S. Garvin 
+(Chairperson), Frédéric Mouchel (Vice Chairperson), Martin Wiesmann, and Melanie Martin, with 
+Christoph Fickel and Thomas Freise as employee representatives.
+At the beginning of fiscal year 2014, Ms Alison Livesey departed as of December 31, 2013, with 
+Mr Karl-Georg Altenburg leaving as of February 13, 2014. The Supervisory Board welcomed 
+Ms Melanie Martin (née Wells) as of February 5, 2014, with Mr Martin Wiesmann joining as of 
+February 25, 2014.
+Audit Committee
+On April 27, 2015, in the financial year, the Audit Committee discussed the annual financial 
+statements and the audit report, and on November 26, 2014, the audit plan.
+The Audit Committee is responsible for checking the accounting process, the effectiveness of the 
+internal control system, the effectiveness of the risk management system and the effectiveness 
+of the internal audit system as well as the statutory audit, in particular, the independence of the 
+auditor and any additional services performed by the auditor.
+On the basis of the recommendation of the Audit Committee (§ 124, Para. 3, S. 2 AktG) it was 
+proposed at the Annual General Meeting to elect PricewaterhouseCoopers AG, Frankfurt am 
+Main, as statutory auditor for the Annual Financial Statements and the Management Report for 
+the 2015 financial year.
+report of the Supervisory Board
+
+53
+report of the Supervisory Board
+Annual Financial Statement
+The Annual Financial Statement and the Management Board Report for the 2014 financial year 
+have been examined by the auditing firm selected at the Annual General Meeting, Pricewater-
+houseCoopers AG, Frankfurt am Main. The auditing firm issued an unqualified audit opinion.
+The Annual Financial Statements and the Management Report were discussed and reviewed with 
+the auditors by the Audit Committee during the meeting on April 27, 2015. Based on the final 
+result of the Audit Committee’s investigation, the Supervisory Board did not raise any objections. 
+Financial statements and the Management Report per December 31, 2014, presented by the 
+Management Board were approved by the Supervisory Board today. The Annual Financial State-
+ments, as submitted by the Management Board, are hereby approved and established.
+The Supervisory Board would like to express its sincere gratitude to the Management Board and 
+all employees of the Bank for their dedication and joint hard work.
+April 29, 2015
+The Supervisory Board
+MARK S. GARVIN
+Chairperson
+
+54
+imprint
+PUBLISHER
+J.P. Morgan AG, Frankfurt am Main
+Taunustor 1
+60310 Frankfurt am Main
+LAYOUT/ DESIGN
+Heisters & Partner, Corporate & Brand Communication, Mainz
+PRINTED BY
+Koch. Prepress Print Media GmbH, Wiesbaden
+
+
+J.P. Morgan AG, Frankfurt am Main 
+Taunustor 1
+60310 Frankfurt am Main

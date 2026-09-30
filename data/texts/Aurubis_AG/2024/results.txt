@@ -1,0 +1,3384 @@
+Financial Statements 
+of Aurubis AG
+2024/25
+Our magazine and the full online report are available online at: 
+ annualreport2024-25.aurubis.com
+
+The Management Report of Aurubis AG is combined with the Management Report of the Aurubis Group in 
+accordance with Section 315 (3) of the German Commercial Code (HGB) and is presented in the Aurubis 
+Group’s Annual Report.
+The annual financial statements and the Combined Management Report of Aurubis AG for fiscal year 
+2024/25 are published in the German electronic company register.
+Contents
+Balance Sheet
+3
+Income Statement
+4
+Notes to the Financial Statements
+5
+General disclosures
+5
+Accounting policies
+5
+Notes to the balance sheet
+8
+Notes to the income statement
+14
+Other disclosures
+18
+Changes in fixed assets
+28
+Investments
+29
+Independent Auditor’s Report
+31
+Responsibility Statement
+38
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+2
+
+as at September 30
+Assets
+Fixed assets
+Purchased concessions, industrial property rights, and similar 
+rights and assets, and licenses for such rights and assets
+ 
+74  
+75 
+Goodwill
+ 
+0  
+0 
+Payments on account
+ 
+3  
+8 
+Intangible assets
+ 
+77  
+83 
+Land and buildings
+ 
+282  
+305 
+Technical equipment and machinery
+ 
+493  
+522 
+Other equipment, factory and office equipment
+ 
+28  
+30 
+Payments on account and assets under construction
+ 
+330  
+164 
+Property, plant and equipment
+ 
+1,133  
+1,021 
+Share interests in affiliated companies
+ 
+1,736  
+1,738 
+Investments
+ 
+0  
+13 
+Financial fixed assets
+ 
+1,736  
+1,751 
+1 
+2,946  
+2,855 
+Current assets
+Raw materials and supplies
+ 
+448  
+546 
+Work in process
+ 
+436  
+447 
+Finished goods, merchandise
+ 
+294  
+255 
+Payments on account
+ 
+1  
+1 
+Inventories
+2 
+1,179  
+1,249 
+Trade accounts receivable
+ 
+443  
+424 
+Receivables from affiliated companies
+ 
+384  
+212 
+Receivables from companies in which investments are held
+ 
+14  
+13 
+Other assets
+ 
+67  
+67 
+Receivables and other assets
+3 
+908  
+716 
+Cash and bank balances
+4 
+303  
+310 
+ 
+2,390  
+2,275 
+Prepaid expenses and deferred charges
+ 
+19  
+19 
+Total assets
+ 
+5,355  
+5,149 
+ 
+in € million
+Note
+9/30/2025
+9/30/2024
+Equity and liabilities
+Equity 
+Issued capital
+Subscribed capital
+– Conditional capital €12 million (previous year: €12 million)
+ 
+115  
+115 
+Less nominal value of treasury shares
+ 
+-3  
+-3 
+ 
+112  
+112 
+Additional paid-in capital
+ 
+349  
+349 
+Revenue reserves
+Legal reserve
+ 
+6  
+6 
+Other revenue reserves
+ 
+1,397  
+1,316 
+ 
+1,403  
+1,323 
+Unappropriated earnings
+ 
+227  
+211 
+5 
+2,091  
+1,995 
+Provisions and accrued liabilities
+Pension provisions and similar obligations
+ 
+233  
+239 
+Provisions for taxes
+ 
+6  
+3 
+Other provisions and accruals
+ 
+251  
+232 
+6 
+490  
+474 
+Liabilities
+Bank borrowings
+– of which with a residual term up to one year: €45 million (previous year: €136 
+million)
+ 
+404  
+335 
+Trade accounts payable
+– of which with a residual term up to one year: €1,178 million (previous year: 
+€932 million)
+ 
+1,178  
+932 
+Payables to affiliated companies
+– of which with a residual term up to one year: €532 million
+(previous year: €745 million)
+ 
+1,078  
+1,325 
+Payables to companies in which investments are held
+– of which with a residual term up to one year: €4 million (previous year: €5 
+million)
+ 
+4  
+5 
+Other liabilities
+– of which for taxes: €7 million (previous year: €7 million)
+– of which for social security contributions: €16 million (previous year: €7 million)
+– of which with a residual term up to one year: €59 million (previous year: €37 
+million)
+ 
+59  
+37 
+7 
+2,723  
+2,634 
+Deferred income
+ 
+51  
+46 
+Total equity and liabilities
+ 
+5,355  
+5,149 
+ 
+in € million
+Note
+9/30/2025
+9/30/2024
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+3
+Balance Sheet
+
+for the period from October 1 to September 30
+Revenues
+10 
+13,441  
+12,520 
+Increase in inventories of finished goods and work in process
+ 
+28  
+23 
+Own work capitalized
+11 
+14  
+19 
+Other operating income
+12 
+81  
+129 
+Cost of materials:
+13
+a) Cost of raw materials, supplies and merchandise
+ 
+12,370  
+11,559 
+b) Cost of purchased services
+ 
+443  
+425 
+ 
+12,813  
+11,984 
+Personnel expenses:
+14
+a) Wages and salaries
+ 
+291  
+277 
+b) Social security contributions, pension and other benefit expenses
+– of which for pensions: €-6 million (previous year: €0 million)
+ 
+49  
+49 
+ 
+340  
+326 
+Depreciation of property, plant and equipment and amortization of intangible assets
+15 
+89  
+75 
+Other operating expenses
+16 
+216  
+267 
+Income from investments and write-ups of share interests in affiliated companies
+– of which from affiliated companies €134 million (previous year: €133 million)
+17 
+134  
+133 
+Other interest and similar income
+– of which from affiliated companies: €15 million (previous year: €21 million)
+18 
+28  
+33 
+Write-downs of financial assets and securities classified as current assets
+19 
+15  
+7 
+Interest and similar expenses
+– of which to affiliated companies: €33 million (previous year: €32 million)
+20 
+59  
+60 
+Income taxes
+21 
+31  
+-1 
+Earnings after income taxes
+ 
+163  
+139 
+Other taxes
+ 
+2  
+1 
+Net income for the year
+ 
+161  
+138 
+Retained profit brought forward from the prior year
+ 
+146  
+142 
+Allocations to other revenue reserves
+ 
+81  
+69 
+Unappropriated earnings
+ 
+227  
+211 
+ 
+in € million
+Note
+2024/25
+2023/24
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+4
+Income Statement
+
+General disclosures
+The financial statements of Aurubis AG, Hamburg, for the fiscal year from October 1, 2024 to 
+September 30, 2025 have been prepared in accordance with the requirements of the German Commercial 
+Code (Handelsgesetzbuch, HGB) for large corporations and the relevant provisions of the German Stock 
+Corporation Act (Aktiengesetz, AktG) and prepared in € million. The income statement has been prepared 
+using the nature of expense format.
+The annual financial statements of Aurubis AG, the Aurubis notes to the financial statements, and the 
+Combined Management Report for Aurubis AG and the Aurubis Group for fiscal year 2024/25 have been 
+published together with the report of the Supervisory Board and the suggested appropriation of earnings in 
+the German electronic company register at  https://www.unternehmensregister.de/en. The declaration on the 
+German Corporate Governance Code required under Section 161 of the German Stock Corporation Act 
+(AktG) has been issued by the Executive Board and the Supervisory Board and has been made permanently 
+accessible to the shareholders on the company’s website.
+Aurubis AG, headquartered in Hamburg, Germany, is registered with the District Court of Hamburg under 
+Commercial Register number HR B No. 1775.
+The values are presented for the first time in € million for clarity. The following appendix may include slight 
+deviations in the totals and in percentage calculations due to rounding. The accounting records are 
+maintained in euros with precision to the cent.
+Accounting policies
+Fixed assets
+Intangible assets are recognized at their costs of acquisition or generation and are amortized on a 
+scheduled pro rata temporis basis. The costs of generation include directly allocable costs and a 
+proportionate share of overheads. Scheduled amortization is charged on a straight-line basis over their 
+expected useful lives of between three and eight years.
+Property, plant and equipment are measured at acquisition or construction cost. The construction cost of 
+self-constructed assets includes directly allocable costs and a proportionate share of attributable overheads. 
+Movable fixed assets are generally depreciated on a straight-line basis over their normal operational useful 
+lives.
+The following useful lives were mainly applied:
+Useful life
+Buildings
+25 to 40 years
+Site installations
+10 to 25 years
+Technical equipment and machinery
+5 to 20 years
+Factory and office equipment
+3 to 20 years
+ 
+Based on tax regulations, assets costing individually up to €250 are recognized in profit or loss in the year 
+of acquisition. A collective item has been set up for low-value assets with individual acquisition or 
+construction costs of between €250 and €1,000. This collective item is depreciated on a straight-line basis 
+over a period of five years. Impairment losses are recorded if assets need to be recognized at a lower value. 
+Spare parts and maintenance equipment assets that are used for longer than one period are recorded as 
+items of property, plant and equipment.
+Financial fixed assets are stated at acquisition cost or their lower fair value. Rights under pension liability 
+insurance policies for Executive Board members are netted with the provisions for pension entitlement.
+Current assets
+Inventories are measured at acquisition/production cost or at fair value as at the balance sheet date, if 
+lower. Production cost includes all direct costs attributable to the production process, as well as a 
+systematically allocated share of the production-related overheads.
+The acquisition costs of copper concentrates and raw materials for recycling are determined by deducting 
+the treatment and refining charges negotiated with the supplier from the purchase value of the metal. 
+Treatment and refining charges are fees typical for the industry that are charged for processing copper 
+concentrates and raw materials for recycling into copper and precious metals.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+5
+Notes to the Financial Statements
+
+Work in process is measured by initially measuring the metal content. The equivalent cost of the processing 
+that is still required for production of the fine metal is deducted from this figure. In this manner, the costs 
+incurred during the production process are successively recognized as a component of the production cost. 
+This procedure applies to metal production.
+When it comes to the production of copper products, in addition to the metal components, the incurred 
+costs of further processing copper into special formats such as wire rod, shapes and rolled products are 
+taken into consideration for the measurement of finished goods by way of a calculation surcharge.
+Metal inventories are accounted for using the LIFO method.
+Receivables and other assets are generally recognized at their nominal value. Aurubis monitors all risks 
+associated with receivables. If circumstances become known which lead to a conclusion that any particular 
+receivables are subject to risks that exceed the normal credit risk, then Aurubis accounts for such risks by 
+setting up specific and general allowances.
+Emission rights that have been allocated without payment are recognized in current assets at a pro 
+memoria value.
+Cash and bank balances are accounted for at their nominal values.
+Expenditures incurred before the balance sheet date that represent expenses for a definite period after this 
+date are recognized as prepaid expenses and deferred charges.
+Subscribed capital
+The subscribed capital is accounted for at nominal value.
+The nominal value of acquired treasury shares is openly deducted from the subscribed capital in the balance 
+sheet. The difference between the nominal value and the acquisition costs of the treasury shares has been 
+offset against the other revenue reserves. Expenses that represent incidental acquisition costs are included 
+in the expenses for the fiscal year.
+Provisions and liabilities
+Aurubis AG’s pension obligations deriving from entitlements and current pensions are calculated at the 
+present value of their settlement amounts by applying the projected unit credit method, using an interest 
+rate of 2.02 % and the “Heubeck-Richttafeln 2018 G” mortality tables published by Heubeck Richttafeln 
+GmbH. The interest rate is based on the average market interest rate for the past 10 years, assuming a 
+residual term of 15 years, as published by the German Federal Bank. Expected future increases in pensions 
+and remuneration of 2.75 % p.a. and 3.00 % p.a., respectively, were also taken into account, as well as a 
+fluctuation probability of 0.00 % to 10.00 % depending on the age structure.
+Pensions are provided to a great extent through pension and support funds whose assets may solely be 
+utilized to satisfy Aurubis AG’s pension obligations. Both the pension and support funds receive allocations, 
+as permitted by German tax regulations. Provisions have been set up to cover the unfunded portion of 
+these fund obligations. The same calculation parameters were used for this purpose as were used for the 
+other pension provisions. In determining the provision, the securities held as fund assets are recognized at 
+current market value and leased property is valued by applying a capitalized earnings procedure.
+Reinsurance arrangements with life insurance companies exist for the defined contribution plans of the 
+Executive Board members. These are considered to be asset coverage for the related obligations and are 
+measured at fair value. The fair value of the life insurance policies corresponds to the value of the assets for 
+tax purposes.
+The company pension plan was converted to the form of a defined contribution plan for employees hired 
+after September 29, 2003. Since then, processing has been carried out by an external pension fund and an 
+insurance company.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+6
+
+The other provisions and accruals cover all identifiable risks and uncertain obligations, including potentially 
+onerous transactions; they are recognized in the balance sheet with their settlement amount pursuant to 
+Section 253 (1) sentence 2 clause 2 of the German Commercial Code (HGB).
+Provisions with a residual term of more than one year were discounted pursuant to Section 253 (2) 
+sentence 1 of the German Commercial Code (HGB) in conjunction with Section 253 (2) sentences 4 and 5 
+of the German Commercial Code (HGB), applying an average interest rate for the past seven fiscal years, as 
+published by the German Federal Bank. For further information concerning the measurement of anniversary 
+provisions and provisions for transitional allowances, with the exception of the applied interest rate, please 
+refer to the accounting and measurement assumptions that are disclosed in respect of pension provisions.
+The top-up amounts for the provisions for partial retirement are calculated using the FIFO method. The 
+underlying assumptions are identical to those of the provisions previously described.
+All liabilities are stated at their settlement amounts.
+Receipts before the balance sheet date that represent income for a definite period after this date are 
+recognized as deferred income.
+Currency conversion
+Bank balances designated in foreign currencies are measured at the mean rate of exchange as at the 
+balance sheet date.
+Current foreign currency receivables and payables (with a term of up to one year) are accounted for at the 
+exchange rate at the time they occur, taking into consideration any gains and losses deriving from rate 
+changes as at the balance sheet date. Non-current foreign currency receivables and payables (with a term of 
+over one year) are recognized at the exchange rate at the time they occur, taking into consideration any 
+losses deriving from rate changes as at the balance sheet date.
+Foreign exchange gains and losses deriving from the realization of foreign currency receivables and 
+payables are recognized in other operating income and expenses, respectively.
+Deferred taxes
+Deferred taxes are derived from temporary differences between the carrying amounts of assets, liabilities, 
+prepaid expenses and deferred charges, and also from provisions and accruals recognized for German 
+commercial law accounting purposes and those recognized for tax-based accounting purposes, as well as 
+from tax losses carried forward. 
+Any overall tax burden is recognized in the balance sheet as a deferred tax liability. Any overall tax relief 
+may be recognized in the balance sheet as a deferred tax asset. Deferred tax assets and liabilities are offset 
+against one another for balance sheet disclosure purposes. 
+Deferred tax liabilities arising from differences between the amounts recognized for German commercial 
+law purposes for property, plant and equipment and current liabilities and their tax-based amounts were 
+offset against deferred tax assets resulting from differences between the amounts recognized for pension 
+provisions and other provisions and their tax-based equivalents. Any surplus of deferred tax assets in excess 
+of those that could be offset were not recognized, in accordance with the option provided for in Section 
+274 (1) sentence 2 of the German Commercial Code (HGB).
+Derivatives and measurement units
+Aurubis AG and the Aurubis Group companies are exposed to currency, interest rate, and commodity price 
+risks in the course of their business. The company deploys derivative financial instruments to hedge these 
+risks. The use of derivative financial instruments is limited to the hedging of the Group’s operating business, 
+as well as associated monetary investments and financing transactions.
+Currency risks are primarily hedged through the deployment of forward foreign exchange contracts and 
+foreign currency options. Interest rate swaps are particularly used to hedge interest rate risks. Aurubis AG 
+contracts derivative financial instruments with external contractual partners in the context of the hedging 
+of commodity price risks in order to hedge the market prices of raw materials and the energy required for 
+operational business purposes. 
+The deployment of derivative financial instruments has the objective of reducing, to a large extent, the 
+impacts on earnings and cash flows that can result from changes in exchange rates, interest rates, and 
+commodity prices.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+7
+
+Derivative financial instruments are subject to a price change risk due to the possibility of fluctuations in 
+the underlying parameters such as currencies, interest rates, and commodity prices. For this reason, use is 
+made of the possibility to compensate losses in value by means of the contrary effects deriving from the 
+hedged items.
+The nominal volume of the derivative financial instruments is determined as the sum of all purchase and 
+sales contracts. The market values of forward foreign currency contracts are determined on the basis of 
+current European Central Bank reference rates, taking into account the forward premiums or discounts, and 
+those for metal future contracts on the basis of LME price quotations. Foreign exchange options are valued 
+using price quotations or option price models. The market values of the interest hedging transactions are 
+determined by discounting future expected cash flows, using the market interest rates applicable for the 
+remaining term of the financial instruments.
+The non-ferrous metal transactions used to hedge the metal prices, as well as the forward exchange 
+contracts connected with these, are included in the measurement of the respective measurement units for 
+each type of metal. These financial instruments therefore also influence the measurement of trade accounts 
+receivable and payable, as well as inventories.
+Notes to the balance sheet
+1
+Fixed assets
+Intangible assets include usage rights acquired for consideration, primarily in connection with a long-term 
+electricity supply contract. Intangible assets are amortized on a scheduled basis over their remaining useful 
+lives. 
+Additions of €201 million were recorded under intangible assets and property, plant and equipment. These 
+primarily include investments related to the Complex Recycling Hamburg project, the construction of a new 
+facility for processing precious metals, and the expansion of the system for reducing diffuse emissions at 
+the Hamburg site. In addition, grants totaling €44 million for the Industrial Heat Hamburg project and 
+€2 million for the expansion of the system to reduce diffuse emissions at the Hamburg site were recognized 
+at fair value in the fiscal year. In this context, the acquisition costs for land and buildings was reduced by 
+€14 million, technical equipment and machinery by €32 million, and factory and office equipment by 
+€0.3 million. In  Changes in fixed assets , acquisition costs and government grants are shown on a net basis.
+Aurubis Product Sales GmbH, Hamburg, was fully liquidated during the fiscal year. This resulted in a 
+disposal in financial fixed assets amounting to €25 thousand. 
+As the ultimate Group holding company, Aurubis AG monitors any signs of impairment in its financial fixed 
+assets. On the basis of current multi-year plans, Aurubis undertook a review of the investment carrying 
+amounts. This resulted in write-downs for impairment of €13 million on the investment carrying amounts 
+for LIBREC AG, Biberist, Switzerland, and €2 million for azeti GmbH, Hamburg. 
+The changes in fixed assets are shown in the notes to the  Changes in fixed assets.
+2
+Inventories
+in € million
+9/30/2025
+9/30/2024
+Raw materials and supplies
+ 
+448  
+546 
+Work in process
+ 
+436  
+447 
+Finished goods, merchandise
+ 
+294  
+255 
+Payments on account
+ 
+1  
+1 
+Total
+ 
+1,179  
+1,249 
+ 
+Inventories decreased by a total of €70 million during the fiscal year compared to the previous year.
+For raw materials, recycling inventories, which could not be consumed as scheduled in the previous year 
+due to technical problems when restarting production following the major shutdown at the Hamburg site, 
+decreased by €98 million. For work in progress, inventories were also reduced by €11 million through the 
+consumption of anodes that had been built up in the previous year for the planned shutdown of an anode 
+furnace at the Lünen site. Conversely, finished goods and merchandise increased by €39 million particularly 
+due to higher precious metal inventories.
+Write-downs to lower market value as at the balance sheet date, amounting to €10 million, relate in 
+particular to write-downs of rhodium amounting to €5 million (previous year: €9 million), rhenium 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+8
+
+amounting to €4 million (previous year: €4 million), and selenium amounting to €2 million (previous year: 
+€0 million).
+The difference between the fair value as at the reporting date and the value of metal inventories 
+determined by applying the LIFO method was €2,431 million (previous year: €1,873 million).
+3
+Receivables and other assets
+Residual term
+Total
+in € million
+less than
+ 1 year
+more than 
+1 year
+9/30/2025
+Trade accounts receivable
+ 
+443  
+0  
+443 
+Receivables from affiliated companies
+ 
+356  
+28  
+384 
+Receivables from companies in which investments are held
+ 
+5  
+9  
+14 
+Other assets
+ 
+67  
+0  
+67 
+ 
+871  
+37  
+908 
+ 
+Residual term
+Total
+in € million
+less than 
+1 year
+more than 
+1 year
+9/30/2024
+Trade accounts receivable
+ 
+424  
+0  
+424 
+Receivables from affiliated companies
+ 
+152  
+60  
+212 
+Receivables from companies in which investments are held
+ 
+4  
+9  
+13 
+Other assets
+ 
+67  
+0  
+67 
+ 
+647  
+69  
+716 
+ 
+At €443 million, trade accounts receivable increased by €19 million compared to the previous year 
+(€424 million). Receivables for precious metals increased, while receivables for copper products decreased. 
+The total amount of receivables sold within the scope of factoring agreements decreased slightly by 
+€8 million compared to fiscal year 2023/24, and amounted to €280 million as at the balance sheet date 
+(previous year: €288 million). Aurubis AG uses factoring arrangements to finance receivables.
+Receivables from affiliated companies and from companies in which investments are held, amounting to 
+€398 million in total (previous year: €225 million), are made up of trade accounts receivable of €33 million 
+(previous year: €32 million) and receivables deriving from financial transactions of €365 million (previous 
+year: €193 million).
+Almost all of the outstanding trade accounts receivable had been settled by the time of preparation of the 
+financial statements.
+Other assets reduced by €0.2 million to a level of €67 million in the fiscal year reported (previous year: €67 
+million). They include tax receivables of €31 million (previous year: €26 million), receivables of €9 million 
+from factoring partners for security retentions (previous year: €13 million), and receivables of €0.4 million 
+from brokers for security deposits (previous year: €1 million) as at the balance sheet date. In addition, other 
+assets include outstanding receivables of €30 million, of which €15 million are impaired. 
+Prepaid expenses and deferred charges included payments on account of €15 million made in respect of a 
+contract for the delivery of oxygen to the site in Lünen.
+4
+Cash and bank balances
+This item includes cash on hand, balances at banks, and commercial paper with a term of up to one month.
+5
+Equity
+The subscribed capital (share capital) of Aurubis AG amounts to €115,089,210.88 and was divided into 
+44,956,723 no-par-value bearer shares, each with a proportionate notional value per share of the subscribed 
+capital amounting to €2.56.
+The Executive Board is authorized, subject to the approval of the Supervisory Board, to increase the 
+company’s share capital until February 16, 2027, by up to €23,017,840.64, in one or several installments 
+(Authorized Capital 2022).
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+9
+
+The share capital has been conditionally increased by up to €11,508,920.32 by issuing up to 4,495,672 new 
+no-par-value shares with a proportionate notional value per share of the share capital of €2.56 (Conditional 
+Capital 2022). It will be used to grant shares to the holders or creditors of conversion and/or option rights 
+from convertible bonds, bonds with warrants, profit participation rights, or participating bonds (or 
+combinations of these instruments) that can be issued in the period up to February 16, 2027.
+On March 18, 2020, the Executive Board passed a resolution enabling a share buyback program. The basis 
+for the acquisition of treasury shares was provided by the authorization issued on March 3, 2018 and 
+covered a planned volume of up to 10 % of the existing share capital (i.e., 4,495,672 shares), up to a volume 
+of €200 million, in multiple tranches. The buyback program started on March 19, 2020 and ended on 
+September 17, 2021. The company’s purchase of its own shares served to create treasury stock for possible 
+acquisitions or future financing needs. An unchanged total of 1,297,693 own shares had been purchased as 
+at 9/30/2025 for a total value of €60,204,151.91. In the process, €3,322,094.08 was openly deducted from 
+the subscribed capital and €56,821,853.72 was offset against other revenue reserves.
+An amount of €80,600,000 has been allocated from the net income for the year to other revenue reserves. 
+The required legal reserve of €6,391,148.51, amounting to 10 % of the subscribed capital, is included in the 
+revenue reserves, with the residual amount included in the additional paid-in capital. The remaining amount 
+of the equity is made up by the share premium that is disclosed as additional paid-in capital.
+The amendment of the discount rate for the pension provision pursuant to Section 253 (6) sentence 1 of 
+the German Commercial Code (HGB) has resulted in a difference of €-7 million. This amount is subject to a 
+dividend distribution restriction pursuant to Section 253 (6) sentence 2 of the German Commercial Code 
+(HGB) if no other free reserves are available and are not negative. 
+The unappropriated earnings as at 9/30/2025 include the retained profit of €145,894,976.48 brought 
+forward from the prior year.
+6
+Provisions and accrued liabilities
+in € million
+9/30/2025
+9/30/2024
+Pension provisions and similar obligations
+ 
+233  
+239 
+Provisions for taxes
+ 
+6  
+3 
+Personnel-related
+ 
+99  
+92 
+Environmental protection measures
+ 
+26  
+17 
+Onerous contracts
+ 
+58  
+62 
+Sundry provisions and accruals
+ 
+68  
+61 
+Other provisions and accruals
+ 
+251  
+232 
+ 
+490  
+474 
+ 
+The pension provisions were measured at the present value of their settlement amount by applying the 
+projected unit credit method, taking into account expected future increases in pensions and remuneration.
+The following parameters also served as the basis for calculating the pension obligations:
+Discount rate
+ 2.02 % 
+Expected income development
+ 3.00 % 
+Expected pension development
+ 2.75 % 
+Staff fluctuation rate
+(varies depending on the age structure)
+0.00 % to 10.00 %
+ 
+The difference between the measurement of the pension provision applying the 10-year average interest 
+rate and applying the 7-year average interest rate pursuant to Section 253 (6) sentence 1 of the German 
+Commercial Code (HGB) amounts to €-7 million (previous year: €-2 million). The losses disclosed in the 
+previous year were only distributable to the extent that the freely available reserves plus any retained profit 
+carried forward, or less any loss carryforward, which remains after the distribution, was at least equal to this 
+difference.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+10
+
+Expenses deriving from the pension scheme are included in personnel expenses. The expense deriving from 
+the change to the discount rate and any income arising from the change in the current market value of the 
+fund assets are also accounted for in personnel expenses. In contrast, any interest expenses deriving from 
+the obligation are included in the financial result.
+Expenses of €-2 million, deriving from the unwinding of discount on the pension obligations, are disclosed 
+net of €8 million in income due to a change in the discount rate. 
+To the extent that the pension obligations for Executive Board members and employees have been 
+reinsured, the fair value of the reinsurance claims is offset against them. In this context, the fair value of the 
+fund assets was €115 million as at the reporting date (previous year: €122 million) and their amortized cost 
+was €63 million (previous year: €63 million). Thus, the amount required to settle the total pension 
+obligations was €347 million as at the balance sheet date (previous year: €360 million). This results in a loss 
+of €7 million (previous year: a gain of €3 million) deriving from the fund assets and income of €13 million 
+(previous year: income of €4 million) deriving from the change to the pension provision.
+Personnel-related provisions increased by a total of €7 million as at 9/30/2025. While on the one hand 
+higher provisions for performance-based compensation had to be set up in the amount of €7 million due to 
+the improved earnings situation, provisions for partial retirement decreased on the other hand by €1 million 
+due to their prior utilization during the passive phase.
+The fund assets associated with the personnel-related provisions amounted to €13 million as at the 
+reporting date (previous year: €11 million) and corresponded to their amortized cost. These were netted 
+with the related settlement amounts. The amount required to settle the personnel-related obligations was 
+€15 million as at the balance sheet date (previous year: €13 million).
+Provisions for environmental protection measures at the Lünen site increased by €10 million due to higher 
+costs for fulfilling the associated remediation obligations. 
+The provisions for impending losses from onerous contracts decreased by €4 million, mainly due to 
+provisions connected with the measurement of a long-term electricity supply agreement.
+The sundry provisions and accruals primarily contain accruals for outstanding invoices, amounting to 
+€65 million (previous year: €57 million). The increase is primarily connected to the current investment 
+measures at the Hamburg site and the related outstanding invoices.
+7
+Liabilities
+Residual term
+Total
+in € million
+less than 1 year
+1 to 5 years
+more than
+5 years
+9/30/2025
+Bank borrowings
+ 
+45  
+327  
+32  
+404 
+Trade accounts payable
+ 
+1,178  
+0  
+0  
+1,178 
+Payables to affiliated companies
+ 
+532  
+546  
+0  
+1,078 
+Payables to companies in which investments are 
+held
+ 
+4  
+0  
+0  
+4 
+Other liabilities
+ 
+59  
+0  
+0  
+59 
+– of which for taxes
+ 
+7  
+0  
+0  
+7 
+– of which for social security contributions
+ 
+16  
+0  
+0  
+16 
+ 
+1,818  
+873  
+32  
+2,722 
+ 
+Residual term
+Total
+in € million
+less than 1 year
+1 to 5 years
+more than
+5 years
+9/30/2024
+Bank borrowings
+ 
+136  
+160  
+40  
+335 
+Trade accounts payable
+ 
+932  
+0  
+0  
+932 
+Payables to affiliated companies
+ 
+745  
+580  
+0  
+1,325 
+Payables to companies in which investments are 
+held
+ 
+5  
+0  
+0  
+5 
+Other liabilities
+ 
+37  
+0  
+0  
+37 
+– of which for taxes
+ 
+7  
+0  
+0  
+7 
+– of which for social security contributions
+ 
+7  
+0  
+0  
+7 
+ 
+1,855  
+740  
+40  
+2,634 
+ 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+11
+
+Bank borrowings increased by €69 million to €404 million in comparison to the previous year. Publicly 
+funded loans were taken up to finance investment projects covering new equipment to process precious 
+metals and the extension of our facility to reduce diffuse emissions at the Hamburg site. A bonded loan 
+(Schuldscheindarlehen) of €103 million was repaid during the fiscal year.
+Trade accounts payable increased by €246 million to €1,178 million (previous year: €932 million). The 
+increase is primarily connected to higher liabilities for concentrate deliveries and for the purchase of 
+cathodes at the Hamburg site. 
+In addition to trade accounts payable of €311 million (previous year: €286 million), payables to affiliated 
+companies and participations totaling €1,082 million (previous year: €1,330 million) include payables of 
+€771 million deriving from financial transactions with subsidiaries (previous year: €1,044 million).
+Other liabilities increased particularly due to the supplier finance arrangement amounting to €35 million 
+(previous year: €19 million). This leads to derecognition of the original trade accounts payable, as a payment 
+by the contract partner eliminating the liability has been made to settle the corresponding trade accounts 
+payable. In addition, liabilities to pension plans increased by €8 million. 
+Deferred income included €44 million in subsidies that were recognized in connection with the Industrial 
+Heat stage 2 project in Hamburg. These will be recognized in profit and loss over the term of the energy 
+supply contract of 27 years. 
+8
+Derivatives and measurement units
+Derivative financial instruments used to hedge currency risks
+Aurubis AG uses forward foreign exchange contracts and foreign currency options to hedge currency risks. 
+A focus of the hedging measures is to hedge the risk of changes in value deriving from futures transactions 
+(hedged transactions). This is achieved using macro-hedges. Aurubis AG concluded forward foreign 
+exchange contracts with a nominal volume of €618 million to hedge currency risks from LME exchange 
+transactions designated in USD. They have a residual term of up to 2 months. Their positive fair market 
+value as at the balance sheet date amounted to € 1 million (net). They are matched by changes in value 
+from the hedged items included in the measurement unit in the same amount.
+They are accounted for by applying the net hedge presentation method, and as a result were not recognized 
+in the balance sheet. The effectiveness of the measurement unit is determined by comparing the net 
+position of the hedged transactions included in the macro-hedge with the net position of the forward 
+foreign exchange contracts included in the portfolio. Ineffectiveness is recorded if a net loss results from 
+the cumulated changes in value of the hedged transactions and the cumulated changes in value of the 
+hedges. In this case, a provision for onerous contracts is set up in the amount of the net loss. Net gains are 
+not recognized.
+Forward foreign exchange contracts and foreign currency options in the form of micro-hedges were 
+concluded to hedge highly probable revenues from treatment and refining charges, copper premiums, and 
+product surcharges designated in USD against the risk of changes in the cash flow. They have a residual 
+term of up to 24 months, a nominal volume of €254 million, and a net positive market value of €10 million. 
+They are matched by changes in value from the hedged items included in the measurement unit in the same 
+amount. The expected volume of treatment charge revenues, copper premiums, and product surcharges in 
+USD is based on an annual budget reflecting expected business trends, which is authorized by the 
+company’s Executive Board. Thus, a high probability that these transactions will occur can be presumed. A 
+comparison of hedged and actual revenues designated in USD for earlier years has demonstrated that it is 
+highly unlikely that the volumes hedged in advance will exceed the planned revenues as a result of the 
+hedging strategy.
+They are accounted for by applying the net hedge presentation method. As a result, the portion of the 
+changes in value included in the measurement unit was not recognized in the balance sheet. The 
+effectiveness of the measurement unit is determined by using the cumulative dollar-offset method.
+Further measurement units were set up separately for each currency pair in the form of portfolio hedges to 
+hedge currency risks at Group companies deriving from traded-on forward foreign exchange contracts and 
+foreign currency options, as well as for forward foreign exchange contracts concluded to hedge the open 
+currency risk position determined on each day of trading. 
+The latter items hedge the respective net risk position for a day of trading on the exchanges so that a 1:1 
+allocation to the respective hedged transactions (e.g., trade accounts receivable and trade accounts payable, 
+advance payments made and received) is not possible.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+12
+
+For the EUR/USD currency pair, this portfolio held traded-on foreign currency options with a residual term 
+of up to twelve months. They include the respective purchase and sale options for US$25 million with an 
+equivalent value of €21 million.
+They are accounted for by applying the net hedge presentation method. Since the foreign currency options 
+included in this measurement unit are in each case 1:1 mirrored transactions, the portion of the changes in 
+value included in the measurement unit was not recognized in the balance sheet. Furthermore, in this 
+portfolio, forward foreign exchange contracts with a residual term of up to twelve months existed for this 
+currency pair. Respective USD purchases and sales of US$765 million respectively are counterbalanced by 
+contracted EUR purchases and sales of €656 million within this measurement unit. They are accounted for 
+by applying the net hedge presentation method.
+The effectiveness of the measurement unit is determined for the positions concluded in foreign currency by 
+matching these with the contracted EUR amounts that are to be later used to process the forward foreign 
+exchange contracts. Additional measurement units existed for other currency pairs, which do not represent 
+a significant risk position for the company, but their volume was immaterial.
+Minor provisions were set up to cover anticipated losses deriving from forward exchange transactions.
+Derivative financial instruments used to hedge interest rate fluctuation risks
+Interest rate swaps in the form of payer swaps were concluded to hedge cash flow risks deriving from 
+floating-rate financing under factoring agreements. These have a residual term to November 2027. They 
+have a nominal volume of €100 million and a negative market value of €0.3 million. They were included in 
+the form of micro-hedges in measurement units covering the anticipated cash flows from the factoring 
+programs. The fair values of the interest rate swaps are matched by changes in the value of the hedged 
+items included in the measurement unit in the same amount. They are accounted for by applying the net 
+hedge presentation method. As a result, the portion of the changes in value included in the measurement 
+unit was not recognized in the balance sheet. The effectiveness of the measurement unit is determined by 
+using the cumulative dollar-offset method.
+Derivative financial instruments used to hedge metal price and other price risks
+Aurubis AG used futures contracts to hedge metal price risks. These mainly relate to copper.
+A main focus of the hedging measures is to hedge price-fixed, pending purchase and sales delivery 
+transactions against the risk of changes in value due to a change in the metal price. This is achieved using a 
+macro-hedge. Aurubis AG concluded LME futures contracts with a nominal volume of €3 billion in order to 
+hedge metal price risks deriving from pending delivery transactions. They have a residual term of up to 
+24 months. Their negative fair market value as at the balance sheet date amounted to €5 million (net). To 
+the extent that this is not offset by changes in the value of the hedged items included in the measurement 
+unit in the same amount, this is taken into account in the measurement of the delivery purchases and sales 
+also included in the measurement unit which have already been delivered but not price-fixed. The closed 
+position is accounted for by applying the net hedge presentation method. The effectiveness of the 
+measurement unit is determined by comparing the volumes and prices of the hedged items and hedging 
+instruments included in the macro-hedge.
+Provisions of €0.2 million have been set up to cover anticipated losses from metal delivery transactions.
+Aurubis AG uses commodity futures and commodity swaps to hedge other price risks.
+In the context of hedging other price risks, variable price components included in the procurement of 
+electricity and gas were particularly hedged in the form of micro-hedges against the risk of changes in cash 
+flows. Commodity futures and commodity swaps existed with a residual term to December 2027 and a 
+nominal volume of €38 million and a net positive market value of €2 million. They are matched by changes 
+in value from the hedged items included in the measurement unit in the same amount. They are accounted 
+for by applying the net hedge presentation method. As a result, they were not recognized in the balance 
+sheet. Evidence of the effectiveness of the measurement unit is provided in that the critical contract terms 
+for the hedged items and the hedging instruments are an exact match (critical terms match).
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+13
+
+The commodity swaps traded-on to hedge energy price risks in Group companies are combined in a 
+measurement unit, constituting a micro-hedge. There can be no ineffectiveness within the measurement 
+unit, as the fair values of the hedged items included fully compensate each other. As at the balance sheet 
+date, traded-on commodity swaps existed with a nominal volume of €51 million and a residual term of up to 
+27 months.
+The measurement of part of a long-term electricity supply contract with a nominal volume of €142 million 
+led to a negative net fair value of €58 million at the balance sheet date. The fair value is calculated using the 
+discounted cash flow method. The derivative is not included in a measurement unit and is accounted for 
+according to the imparity principle. If the derivative shows a negative fair value as at the balance sheet date, 
+it is recorded under other provisions and accruals.
+9
+Contingent liabilities and other financial commitments
+in € million
+9/30/2025
+9/30/2024
+Contingent liabilities
+Letters of comfort
+ 
+32.4  
+79.6 
+– of which for affiliated companies
+ 
+32.4  
+79.6 
+Other financial commitments
+Capital expenditure commitments
+ 
+253.9  
+294.3 
+Sundry other financial commitments
+ 
+31.0  
+52.6 
+ 
+317.3  
+426.5 
+ 
+Contingent liabilities decreased due to lower agreed guarantees relating to the new recycling site of Aurubis 
+Richmond LLC, Augusta, US. Unchanged guarantees remain in place for Aurubis Olen NV, Olen, Belgium.
+The nominal values disclosed for contingent liabilities did not lead to recognition as liabilities, as a claim is 
+not expected due to the contractual partners’ economic development.
+Other financial commitments of €16 million relate to long-term transport and handling agreements with a 
+residual term of 2 years (previous year: €29 million). Other financial commitments of €3 million relate to 
+long-term tank storage handling agreements with a residual term of 2 years (previous year: €5 million).
+Furthermore, an agreement is in place with an energy utility for the cost-based procurement of one billion 
+kilowatt hours of electricity per annum over a term of 30 years, commencing in 2010. Based on the last 
+fiscal year, the expense will amount to €99 million. In addition, there are two long-term agreements for the 
+supply of technical gases (oxygen and nitrogen). The annual charge from this amounts to €25 million.
+Transactions not included in the balance sheet
+Off-balance-sheet transactions exist for Aurubis AG in the form of factoring agreements to finance 
+receivables, amounting to a total of €280 million as at 9/30/2025, and in the form of a pension fund to 
+finance employees’ pension entitlements, for which the fair value of assets is higher than the settlement 
+amounts and that is therefore not recognized in the balance sheet. The over-funding amounted to €54 
+million as at the balance sheet date.
+Notes to the income statement
+10 Revenues
+in € million
+2024/25
+2023/24
+Analysis by product group
+Copper cathodes
+ 
+2,367  
+2,121 
+Wire rod
+ 
+4,505  
+4,043 
+Shapes
+ 
+1,139  
+1,015 
+Precious metals
+ 
+4,921  
+4,150 
+Sulfuric acid
+ 
+92  
+54 
+Other
+ 
+417  
+1,137 
+ 
+13,441  
+12,520 
+ 
+In the year reported, 34 % of the revenues were generated in the German market, 48 % in other European 
+countries, 5 % in Asia, 8 % in North America, and 5 % in other countries. The higher revenues are due in 
+particular to increased metal prices for copper and gold; in contrast, all metals were subject to negative 
+volume effects. Moreover, revenues include proceeds from the sale of our own and intragroup carbon 
+credits amounting to €40 million (previous year: €7 million). 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+14
+
+11 Own work capitalized
+Own work capitalized amounting to €14 million (previous year: €19 million) mainly comprises personnel 
+and material costs in connection with the construction of property, plant and equipment and the generation 
+of intangible assets. In the fiscal year, this resulted to a large extent from activities in connection with the 
+Complex Recycling Hamburg project, the construction of the new facility for processing precious metals, 
+and the second expansion stage of ridge turret suctioning at the Hamburg site. The decrease compared to 
+the previous year resulted from the routine maintenance shutdown at the Hamburg site in 2024.
+12 Other operating income
+in € million
+2024/25
+2023/24
+Income deriving from the reversal
+of provisions and accrued liabilities
+ 
+5  
+41 
+Foreign exchange gains
+ 
+41  
+70 
+Miscellaneous other income
+ 
+35  
+18 
+ 
+81  
+129 
+ 
+Other operating income includes €36 million (previous year: €57 million) of income relating to prior 
+periods. Contributing items were electricity price compensation payments amounting to €32 million 
+(previous year: €15 million), which were recognized in miscellaneous other income, as well as, in particular, 
+income deriving from the reversal of provisions and accrued liabilities amounting to €5 million. Lower 
+foreign exchange differences deriving from the measurement and realization of foreign currency receivables 
+and payables, mainly in US dollars, are counterbalanced by foreign exchange losses in the amount of 
+€41 million (previous year: €70 million) included in other operating expenses. 
+13 Cost of materials
+in € million
+2024/25
+2023/24
+Raw materials, supplies and merchandise
+ 
+12,370  
+11,559 
+Purchased services
+ 
+443  
+425 
+ 
+12,813  
+11,984 
+ 
+The cost of materials increased by €749 million in a manner corresponding to the increase in revenues, 
+mainly due to the strong increase in metal prices for raw materials during the fiscal year. However, the cost-
+of-materials ratio decreased by 0.4 % to 95.1 % in the fiscal year reported. This is particularly attributable to 
+a significantly higher metal result year-over-year, due in part to metal prices and volumes, especially for 
+precious metals, that exceeded expectations. Moreover, higher sulfuric acid revenues positively influenced 
+the cost-of-materials ratio. The increase in purchased services results from the purchase of carbon credits 
+for Aurubis Bulgaria AD, Pirdop, Bulgaria. 
+14 Personnel expenses
+in € million
+2024/25
+2023/24
+Wages and salaries
+ 
+291  
+277 
+Social security contributions,
+pension and other benefit expenses
+ 
+49  
+49 
+– of which for pensions
+ 
+-6  
+0 
+ 
+340  
+326 
+ 
+Personnel expenses increased by €14 million to €340 million in the fiscal year reported. This is due to 
+higher salary payments owing to wage and salary increases deriving from collective wage agreements and 
+an increase in the number of employees. Furthermore, additions to provisions for earnings-dependent 
+compensation also increased. Pension expenses decreased, owing especially to the development of actuarial 
+parameters related to interest rate, pension and salary trends and led to income of €6 million (previous 
+year: expenses of €0.1 million). 
+The average number of employees during the year was as follows:
+2024/25
+2023/24
+Blue collar
+1,468
+1,394
+White collar
+1,824
+1,806
+3,292
+3,200
+ 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+15
+
+15 Depreciation of property, plant and equipment and amortization of intangible 
+assets
+Depreciation of property, plant and equipment and amortization of intangible assets increased, by a total of 
+€14 million compared to the previous year, to €89 million. The main increases were in the areas of technical 
+equipment and machinery, as well as buildings, due to the completion of investment projects. The 
+depreciation and amortization of intangible assets and property, plant and equipment of €94 million 
+disclosed in the table showing changes in fixed assets includes depreciation on investments made in 
+connection with an electricity supply contract, amounting to €5 million, which is disclosed under the cost of 
+materials. 
+16 Other operating expenses
+Other operating expenses of €216 million (previous year: €267 million) primarily include administrative and 
+marketing expenses, fees, insurance, as well as rents and leasing expenses.
+The reduction in other operating expenses is mainly the result of lower consulting expenses of €42 million 
+(previous year: €55 million) and lower litigation and legal expenses of €1 million (previous year: €5 million), 
+which in the previous year were connected to the clarification of criminal activities in fiscal year 2022/23. 
+The expenses deriving from the derecognition of receivables, as well as from allowances recognized against 
+receivables decreased by €11 million, to €4 million. As a countereffect, allocations to provisions increased 
+by €10 million due to cost increases for environmental measures at the Lünen site. Furthermore, other 
+operating expenses include other expenses relating to prior periods of €6 million (previous year: 
+€20 million). In contrast, foreign exchange losses deriving from the measurement and realization of 
+foreign currency receivables and payables in the amount of €41 million decreased (previous year: €71 
+million). The foreign exchange losses deriving from the valuation and realization of foreign currency 
+receivables and payables are counterbalanced by foreign exchange gains included in other operating 
+income.
+17 Income from investments and write-ups of share interests in affiliated companies
+in € million
+2024/25
+2023/24
+Income from investments
+ 
+134  
+133 
+– of which from affiliated companies
+ 
+134  
+133 
+ 
+134  
+133 
+ 
+The income from investments comprises €105 million (previous year: €111 million) deriving from foreign 
+investments and €29 million (previous year: €22 million) deriving from investments in Germany.
+18 Other interest and similar income
+in € million
+2024/25
+2023/24
+Other interest and similar income
+ 
+28  
+33 
+– of which from affiliated companies
+ 
+15  
+21 
+ 
+28  
+33 
+ 
+Interest and similar income decreased by €5 million to €28 million, due in particular to fallen interest rates 
+for financial receivables due from affiliated companies, amounting to €6 million. Interest income from 
+banks increased by €3 million and had a counteracting effect.
+19 Write-downs of financial assets and securities classified as current assets
+Write-downs of financial assets include €13 million in impairment losses recognized against the carrying 
+amount for LIBREC AG, Biberist, Switzerland, as well as €2 million in impairment losses recognized against 
+the carrying amount for azeti GmbH, Hamburg.  Please refer to our explanations regarding fixed assets in 
+the balance sheet. Write-downs in the previous year impacted Aurubis Beerse NV, Beerse, Belgium, in the 
+amount of €4 million, and Aurubis Italia Srl., Avellino, Italy, in the amount of €3 million.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+16
+
+20 Interest and similar expenses
+in € million
+2024/25
+2023/24
+Interest and similar expenses
+ 
+59  
+60 
+– of which to affiliated companies
+ 
+33  
+32 
+ 
+59  
+60 
+ 
+Other interest and similar expenses decreased overall by €1 million to €59 million. While bank-related 
+interest expense increased by €4 million due to a higher credit volume and higher interest rates during the 
+fiscal year, the interest expense deriving from factoring agreements reduced by €5 million. Interest expense 
+deriving from financial liabilities due to affiliated companies increased by €1 million. 
+Interest expense includes expenses deriving from the unwinding of discount on other provisions in the 
+amount of €1 million (previous year: €1 million), as well as €7 million deriving from the unwinding of 
+discount on pension provisions (previous year: €7 million).
+21 Income taxes
+The net income for the year includes tax expenses of €31 million (previous year: tax credits of €1 million).
+Impacts of the Minimum Tax Act (MinStG)
+The Aurubis Group is a multinational organization with annual revenues of more than €750 million and is 
+therefore subject to application of the global minimum taxation regulations (“Pillar Two”). The Pillar Two 
+legislation took effect in Germany in the form of the Minimum Tax Act (“MinStG”). Aurubis AG was subject 
+to the Minimum Tax Act in Germany commencing with fiscal year 2024/25.
+The global minimum taxation regulations require Aurubis AG as group head to determine the effective tax 
+rate in every country in which constituent entities, as defined by the Minimum Tax Act, are maintained. In 
+accordance with the Minimum Tax Act, as the ultimate parent entity of the Group, it is obligated to pay the 
+(primary) top-up tax with respect to its low-taxed foreign subsidiaries if these subsidiaries are not obligated 
+themselves to pay based on a qualified domestic top-up tax in the respective countries.
+Taking the transitional country-by-country safe harbor rules into account, Aurubis AG as the group head 
+does not expect any additional tax expense to arise in the form of the primary top-up tax. The Group has an 
+effective tax rate of more than 15 % in all jurisdictions in which it operates, with the exception of Aurubis 
+Bulgaria. Bulgaria has introduced a domestic top-up tax (the qualified minimum top-up tax) levied directly 
+at the level of the Bulgarian company. This eliminates the need for any primary top-up tax to be levied at 
+the level of the group head, Aurubis AG in Germany.
+The actual tax expense in fiscal year 2024/25 does not include any taxes in connection with global 
+minimum taxation.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+17
+
+Other disclosures
+Declaration of conformity with the German Corporate Governance Code in accordance 
+with Section 161 of the German Stock Corporation Act (AktG)
+The declaration required under Section 161 of the German Stock Corporation Act (AktG) has been issued 
+by the Executive Board and the Supervisory Board and has been made permanently accessible to the 
+shareholders on the company’s website  www.aurubis.com/en/about-us/corporate-governance.
+Notification pursuant to Section 160 (1) No. 8 of the 
+German Stock Corporation Act (AktG)
+Up to the date of preparation of the financial statements, Aurubis AG had received the following voting 
+rights notifications from shareholders with respect to exceeding and falling below the relevant notification 
+thresholds, in accordance with Section 33 (1) of the German Securities Trading Act (WpHG):
+Bank of America Corporation, Wilmington, Delaware, US1
+ 1.55 
+ 3.62 
+ 5.16 
+10/21/2025
+10/24/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 1.39 
+ 3.63 
+ 5.02 
+10/28/2025
+10/30/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 1.19 
+ 4.08 
+ 5.27 
+10/31/2025
+11/4/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 0.74 
+ 4.29 
+ 5.03 
+11/10/2025
+11/13/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 1.18 
+ 4.29 
+ 5.47 
+11/11/2025
+11/14/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 0.74 
+ 4.30 
+ 5.04 
+11/12/2025
+11/17/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 1.16 
+ 4.29 
+ 5.45 
+11/13/2025
+11/18/2025
+Bank of America Corporation, Wilmington, Delaware, US1
+ 0.72 
+ 4.30 
+ 5.02 
+11/14/2025
+11/19/2025
+BlackRock, Inc., Wilmington, DE, US¹
+ 2.90 
+ 0.27 
+ 3.18 
+2/2/2024
+2/8/2024
+BlackRock, Inc., Wilmington, DE, US¹
+ 3.12 
+ 1.28 
+ 4.40 
+10/24/2025
+10/30/2025
+BlackRock, Inc., Wilmington, DE, US¹
+ 2.93 
+ 1.23 
+ 4.16 
+10/30/2025
+11/5/2025
+BlackRock, Inc., Wilmington, DE, US¹
+ 3.04 
+ 1.20 
+ 4.24 
+10/31/2025
+11/6/2025
+BlackRock, Inc., Wilmington, DE, US¹
+ 2.43 
+ 1.21 
+ 3.64 
+11/3/2025
+11/7/2025
+BNP PARIBAS SA, Paris, France1
+ 5.21 
+ 0.83 
+ 6.04 
+10/15/2025
+10/20/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 7.72 
+ 7.50 
+ 15.23 
+10/8/2024
+10/11/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 10.15 
+ 6.95 
+ 17.10 
+11/6/2024
+11/8/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 10.61 
+ 10.11 
+ 20.72 
+11/12/2024
+11/18/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 10.44 
+ 8.94 
+ 19.39 
+11/15/2024
+11/19/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 12.35 
+ 7.72 
+ 20.06 
+12/9/2024
+12/12/2024
+Shareholders
+Proportion of voting rights for shares 
+pursuant to Sections 33 and 34 of 
+the German Securities Trading Act 
+(WpHG) in %
+Proportion of voting rights for 
+instruments pursuant to Section 38 
+(1) of the German Securities Trading 
+Act (WpHG) in %
+Total shares in %
+Relevant threshold 
+date
+Date of publication
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+18
+
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 12.05 
+ 7.61 
+ 19.66 
+12/19/2024
+12/24/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 7.21 
+ 5.38 
+ 12.59 
+12/20/2024
+12/24/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 8.68 
+ 4.49 
+ 13.17 
+12/27/2024
+12/30/2024
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 10.01 
+ 2.34 
+ 12.35 
+1/21/2025
+1/23/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 9.92 
+ 3.51 
+ 13.43 
+3/14/2025
+3/20/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+ 10.01 
+ 2.34 
+ 12.35 
+5/28/2025
+5/30/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+Pursuant to Section 43 of the WpHG³
+5/28/2025
+6/11/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+11.61
+ 3.45 
+ 15.06 
+9/11/2025
+9/16/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+11.19
+ 3.34 
+ 14.53 
+9/19/2025
+9/25/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+11.34
+ 3.66 
+ 15.01 
+9/29/2025
+10/2/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+12.87
+ 5.12 
+ 17.98 
+10/29/2025
+11/5/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+13.65
+ 6.45 
+ 20.10 
+11/14/2025
+11/18/2025
+Rossmann Beteiligungs GmbH, Burgwedel, DE
+15.01
+ 7.34 
+ 22.35 
+11/25/2025
+11/26/2025
+Salzgitter Mannesmann GmbH, Salzgitter, DE²
+ 25.0000006 
+ 0.00 
+ 25.0000006 
+12/12/2018
+12/13/2018
+Salzgitter Mannesmann GmbH, Salzgitter, DE²
+Pursuant to Section 43 of the WpHG³
+12/19/2018
+12/19/2018
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 2.30 
+ 8.35 
+ 10.65 
+10/15/2024
+10/17/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.96 
+ 8.48 
+ 9.44 
+10/16/2024
+10/18/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.99 
+ 9.07 
+ 10.07 
+11/4/2024
+11/6/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.63 
+ 9.26 
+ 9.90 
+11/5/2024
+11/7/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.80 
+ 9.27 
+ 10.07 
+11/5/2024
+11/8/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.88 
+ 10.03 
+ 10.91 
+12/3/2024
+12/6/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 1.35 
+ 9.16 
+ 10.51 
+12/19/2024
+12/23/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 4.78 
+ 5.02 
+ 9.80 
+12/20/2024
+12/23/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 1.07 
+ 5.16 
+ 6.23 
+12/27/2024
+12/31/2024
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 2.30 
+ 4.81 
+ 7.11 
+3/21/2025
+3/25/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.42 
+ 2.02 
+ 2.43 
+3/24/2025
+3/26/2025
+Shareholders
+Proportion of voting rights for shares 
+pursuant to Sections 33 and 34 of 
+the German Securities Trading Act 
+(WpHG) in %
+Proportion of voting rights for 
+instruments pursuant to Section 38 
+(1) of the German Securities Trading 
+Act (WpHG) in %
+Total shares in %
+Relevant threshold 
+date
+Date of publication
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+19
+
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.41 
+ 6.26 
+ 6.67 
+5/13/2025
+5/15/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.04 
+ 1.57 
+ 1.57 
+5/16/2025
+5/20/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.47 
+ 6.14 
+ 6.61 
+5/23/2025
+5/27/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.30 
+ 6.65 
+ 6.95 
+6/5/2025
+6/10/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.31 
+ 6.54 
+ 6.84 
+6/11/2025
+6/13/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.29 
+ 6.59 
+ 6.89 
+6/16/2025
+6/18/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.57 
+ 6.42 
+ 6.99 
+6/17/2025
+6/19/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 1.13 
+ 4.82 
+ 5.95 
+6/20/2025
+6/24/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.79 
+ 5.12 
+ 5.90 
+6/24/2025
+6/26/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.46 
+ 5.68 
+ 6.15 
+6/25/2025
+6/27/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.00 
+ 1.40 
+ 1.40 
+6/30/2025
+7/2/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.26 
+ 6.30 
+ 6.56 
+7/4/2025
+7/8/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.00 
+ 1.40 
+ 1.40 
+7/10/2025
+7/14/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.06 
+ 6.36 
+ 6.42 
+7/11/2025
+7/15/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.20 
+ 6.47 
+ 6.67 
+7/16/2025
+7/18/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.11 
+ 6.34 
+ 6.45 
+7/18/2025
+7/22/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 0.15 
+ 6.64 
+ 6.79 
+7/31/2025
+8/4/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 1.04 
+ 8.98 
+ 10.02 
+10/15/2025
+10/17/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 1.10 
+ 8.80 
+ 9.91 
+10/17/2025
+10/21/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 1.81 
+ 8.52 
+ 10.33 
+10/31/2025
+11/4/2025
+SIH Partners, LLLP, Wilmington, Delaware, US¹
+ 2.28 
+ 10.92 
+ 13.20 
+11/19/2025
+11/20/2025
+Silchester International Investors LLP, London, UK¹
+ 4.96 
+ 0.00 
+ 4.96 
+10/29/2025
+10/30/2025
+Silchester International Investors International Value Equity Trust, Wilmington, Delaware, US¹
+ 3.04 
+ 0.00 
+ 3.04 
+1/3/2024
+1/5/2024
+Shareholders
+Proportion of voting rights for shares 
+pursuant to Sections 33 and 34 of 
+the German Securities Trading Act 
+(WpHG) in %
+Proportion of voting rights for 
+instruments pursuant to Section 38 
+(1) of the German Securities Trading 
+Act (WpHG) in %
+Total shares in %
+Relevant threshold 
+date
+Date of publication
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+20
+
+Silchester International Investors International Value Equity Trust, Wilmington, Delaware, US¹
+ 2.99 
+ 0.00 
+ 2.99 
+9/8/2025
+9/10/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.98 
+ 5.58 
+ 6.56 
+9/24/2024
+10/1/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 1.10 
+ 8.02 
+ 9.12 
+10/1/2024
+10/8/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.18 
+ 7.09 
+ 7.27 
+10/2/2024
+10/8/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.01 
+ 8.96 
+ 8.97 
+10/11/2024
+10/17/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.38 
+ 8.64 
+ 9.02 
+10/15/2024
+10/23/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.14 
+ 9.44 
+ 9.58 
+10/17/2024
+10/24/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.21 
+ 9.82 
+ 10.03 
+10/21/2024
+10/28/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.25 
+ 11.13 
+ 11.38 
+10/23/2024
+10/30/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.12 
+ 9.99 
+ 10.11 
+10/25/2024
+11/1/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.11 
+ 11.81 
+ 11.92 
+10/30/2024
+11/6/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.28 
+ 12.86 
+ 13.14 
+11/5/2024
+11/12/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.01 
+ 16.54 
+ 16.56 
+11/6/2024
+11/13/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.44 
+ 16.79 
+ 17.24 
+11/8/2024
+11/15/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.24 
+ 9.15 
+ 9.39 
+11/14/2024
+11/21/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.19 
+ 10.01 
+ 10.20 
+12/6/2024
+12/13/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.58 
+ 9.92 
+ 10.50 
+12/9/2024
+12/16/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.01 
+ 10.39 
+ 10.41 
+12/10/2024
+12/17/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.25 
+ 9.91 
+ 10.16 
+12/20/2024
+12/30/2024
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 1.85 
+ 7.30 
+ 9.15 
+12/24/2024
+1/2/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.48 
+ 8.67 
+ 9.15 
+12/27/2024
+1/3/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.10 
+ 7.17 
+ 7.26 
+1/22/2025
+1/28/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 1.18 
+ 5.17 
+ 2.17 
+4/2/2025
+4/9/2025
+Shareholders
+Proportion of voting rights for shares 
+pursuant to Sections 33 and 34 of 
+the German Securities Trading Act 
+(WpHG) in %
+Proportion of voting rights for 
+instruments pursuant to Section 38 
+(1) of the German Securities Trading 
+Act (WpHG) in %
+Total shares in %
+Relevant threshold 
+date
+Date of publication
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+21
+
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.12 
+ 4.46 
+ 4.46 
+4/3/2025
+4/10/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.19 
+ 5.10 
+ 5.29 
+7/10/2025
+7/17/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.49 
+ 8.64 
+ 9.13 
+10/3/2025
+10/10/2025
+The Goldman Sachs Group, Inc., Wilmington, Delaware, US¹
+ 0.47 
+ 11.14 
+ 11.60 
+10/7/2025
+10/14/2025
+1 Held directly or indirectly through subsidiaries.
+2 The shares are attributable to Salzgitter AG, Salzgitter.
+3 Notification obligations for those with significant shareholdings.
+Shareholders
+Proportion of voting rights for shares 
+pursuant to Sections 33 and 34 of 
+the German Securities Trading Act 
+(WpHG) in %
+Proportion of voting rights for 
+instruments pursuant to Section 38 
+(1) of the German Securities Trading 
+Act (WpHG) in %
+Total shares in %
+Relevant threshold 
+date
+Date of publication
+The voting rights notifications are available online at  
+ www.aurubis.com/en/about-us/corporate-governance/voting-rights-notifications.
+Fees and services rendered by the auditor
+The following fees were recorded as expenses in fiscal year 2024/25 for services rendered by the auditors:
+in € thousand
+2024/25
+Financial statement auditing services
+ 
+1,001 
+Other assurance services
+ 
+495 
+Other services
+ 
+76 
+ 
+1,572 
+ 
+The fee for the financial statement auditing services rendered by Deloitte GmbH 
+Wirtschaftsprüfungsgesellschaft related to the audit of the consolidated financial statements of the Aurubis 
+Group, as well as the separate financial statements of Aurubis AG. 
+Investments
+The full list of  investments is disclosed here.
+Subsequent events
+On October 12, 2025, the “Law for Improved Climate Protection (Climate Protection Improvement Act)” bill 
+was passed as part of a referendum in Hamburg. This places an obligation on the city of Hamburg to be 
+carbon neutral by 2040. Based on the ongoing political developments and decisions, Aurubis will 
+continuously analyze the resulting impacts on the Hamburg site, particularly as they relate to future 
+investment activity and the job situation, as well as impacts on the Group.
+On November 13, 2025, the German governing coalition adopted a resolution to enact an industrial 
+electricity price in Germany. Aurubis is currently analyzing the impacts on Aurubis AG and the other 
+German Group sites.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+22
+
+Disclosures concerning the Executive Board and Supervisory Board
+Executive Board
+Dr. Toralf Haag, Hamburg
+Born: March 29, 1966, German citizen
+Executive Board Chairman and Director of Industrial Relations
+Appointed from September 1, 2024 until August 31, 2027
+» Qiagen N.V., Venlo, Netherlands
+Member of the Supervisory Board
+» N.V. Bekaert SA, Zwevegem, Belgium
+Member of the Supervisory Board
+» Aurubis Bulgaria AD, Pirdop, Bulgaria1
+Member of the Board of Directors until September 19, 2025
+Steffen Alexander Hoffmann, Stuttgart
+Born: April 1, 1970, German citizen
+Chief Financial Officer
+Appointed from October 1, 2024 until September 30, 2027
+Inge Hofkens, Hoogstraten, Belgium
+Born: September 24, 1970, Belgian citizen
+COO Multimetal Recycling
+Appointed from January 1, 2023 until December 31, 2028
+» Aurubis Olen NV, Olen, Belgium1
+Chairman of the Board of Directors 
+» Aurubis Beerse NV, Beerse, Belgium1
+Chairman of the Board of Directors
+» Aurubis Berango S.L.U., Berango, Spain1
+Chairman of the Board of Directors
+Tim Kurth, Sofia, Bulgaria
+Born: July 8, 1967, German citizen
+COO Custom Smelting & Products
+Appointed from September 1, 2024 until August 31, 2027
+» Aurubis Bulgaria AD, Pirdop, Bulgaria1
+Member of the Board of Directors (Chairman of the Board as of October 1, 2025)
+» Aurubis Italia Srl, Avellino, Italy1
+Chairman of the Board of Directors 
+» Aurubis Turkey Kimya Anonim Sirketi, Istanbul, Turkey1 
+Chairman of the Board
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+23
+1 Group companies of Aurubis AG.
+
+Supervisory Board
+Detailed CVs of the Supervisory Board members are available on our Group 
+website  www.aurubis.com/en/about-us/management/supervisory-board.
+Prof. Dr. Fritz Vahrenholt, Hamburg
+Supervisory Board Chairman
+Currently no professional occupation
+» Encavis AG, Hamburg1
+Member of the Supervisory Board until June 30, 2025
+Jan Koltze, Hamburg2
+Deputy Chairman of the Supervisory Board
+District Manager of the Mining, Chemical, and Energy Industrial Union Hamburg/Harburg
+» Beiersdorf AG, Hamburg1
+Member of the Supervisory Board
+» ExxonMobil Central Europe Holding GmbH, Hamburg
+Member of the Supervisory Board
+» Maxingvest AG, Hamburg
+Member of the Supervisory Board 
+Deniz Filiz Acar, Hamburg2
+Works Council member relieved of duty and Chairwoman of the Works Council of Aurubis AG, Hamburg
+Deputy Head of Training in the HR Training department
+No further offices
+Kathrin Dahnke, Bielefeld 
+Independent business consultant
+» Fraport AG, Frankfurt am Main1 
+Member of the Supervisory Board
+» B. Braun SE, Melsungen
+Member of the Supervisory Board
+» Knorr-Bremse AG, Munich1
+Member of the Supervisory Board
+» Jungheinrich AG, Hamburg1
+Member of the Supervisory Board
+Christian Ehrentraut, Lünen2
+Works Council member relieved of duty and Chairman of the Works Council of Aurubis AG in Lünen
+Deputy Chairman of the General Works Council 
+Deputy Shift Leader in the Smelting Department, KRS/MZO
+No further offices
+Gunnar Groebler, Hamburg
+Chairman of the Executive Board of Salzgitter AG, Salzgitter1
+» Ilsenburger Grobblech GmbH, Ilsenburg3
+Chairman of the Supervisory Board
+» KHS GmbH, Dortmund3
+Chairman of the Supervisory Board
+» Mannesmann Precision Tubes GmbH, Mülheim/Ruhr3
+Chairman of the Supervisory Board
+» Peiner Träger GmbH, Peine3
+Chairman of the Supervisory Board
+» Salzgitter Flachstahl GmbH, Salzgitter3
+Chairman of the Supervisory Board
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+24
+1 Quoted company.
+2 Elected by the employees.
+3 Group company of Salzgitter AG.
+
+» Salzgitter Mannesmann Grobblech GmbH, Mülheim/Ruhr3
+Chairman of the Supervisory Board
+» Salzgitter Mannesmann Handel GmbH, Düsseldorf3
+Chairman of the Supervisory Board
+» Heidelberg Material AG, Heidelberg1
+Member of the Supervisory Board
+» Hansaport Hafenbetriebsgesellschaft mbH, Hamburg3
+Chairman of the Supervisory Board
+Prof. Dr. Markus Kramer, Heidelberg 
+Executive Director of KMH Optimum GmbH, Heidelberg
+» BCT Technology AG, Willstätt
+Member of the Supervisory Board
+Dr. Stephan Krümmer, Hamburg
+Currently no professional occupation
+No further offices
+Dr. Elke Lossin, Buchholz in der Nordheide2
+Manager of the Analytical Laboratory at Aurubis AG, Hamburg
+No further offices
+Daniel Mrosek, Stolberg2 
+Works Council member relieved of duty and Chairman of the Works Council 
+of Aurubis Stolberg GmbH & Co. KG, Stolberg
+Process Mechanic
+No further offices
+Dr. Sandra Reich, Gräfelfing
+Independent business consultant for sustainable finance
+» Talanx AG, Hanover1
+Member of the Supervisory Board
+» GLS Gemeinschaftsbank eG, Bochum
+Member
+Stefan Schmidt, Lüdinghausen2
+Head of Operations at the Aurubis AG Recycling Center, Lünen 
+No further offices 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+25
+1 Quoted company.
+2 Elected by the employees.
+3 Group company of Salzgitter AG.
+
+Supervisory Board committees 
+Conciliation Committee in accordance with Section 27 (3) of the German Codetermination Act
+Prof. Dr. Fritz Vahrenholt (Chairman)
+Jan Koltze (Deputy Chairman) 
+Gunnar Groebler
+Dr. Elke Lossin
+Audit Committee
+Dr. Stephan Krümmer (Chairman) 
+Deniz Filiz Acar
+Kathrin Dahnke 
+Jan Koltze
+Dr. Elke Lossin
+Dr. Sandra Reich
+Personnel/Compensation Committee 
+Prof. Dr. Markus Kramer (Chairman) 
+Deniz Filiz Acar
+Christian Ehrentraut 
+Gunnar Groebler 
+Jan Koltze
+Dr. Sandra Reich
+Stefan Schmidt 
+Prof. Dr. Fritz Vahrenholt
+Nomination Committee 
+Kathrin Dahnke (Chairman)
+Gunnar Groebler 
+Prof. Dr. Markus Kramer 
+Dr. Stephan Krümmer
+Investment/Innovation Committee (formerly the Technology Committee)
+Prof. Dr. Fritz Vahrenholt (Chairman)
+Christian Ehrentraut 
+Gunnar Groebler
+Dr. Stephan Krümmer
+Daniel Mrosek
+Stefan Schmidt
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+26
+
+Total compensation
+The total compensation of the active Executive Board in fiscal year 2024/25 amounts to 
+€4,357,627 (previous year: €15,539,165) and for the past fiscal year includes, in addition to a fixed 
+component in the amount of €2,160,000 (previous year: €2,690,833), fringe benefits of €62,632 (previous 
+year: €94,106) and a variable component of €1,184,995 (previous year: €2,956,859). In addition, total 
+compensation includes pension provisions of €800,000 (previous year: €716,667) as well as compensation 
+and severance payments amounting to €150,000 (previous year: €9,080,700).
+Former members of the Executive Board and their surviving dependents received a total of €2,301,928 
+(previous year: €2,148,488). A total of €27,733,664 has been provided for their pension entitlement 
+(previous year: €29,151,680).
+The compensation of the Supervisory Board for fiscal year 2024/25 amounted in total to €1,601,500 
+(previous year: €1,695,386).
+Details of the individual compensation of the members of the Executive Board and the Supervisory Board 
+are presented and explained in the Compensation Report.
+Reportable securities transactions
+Director’s dealings
+In accordance with Art. 19 of the Market Abuse Regulation (EU No. 596/2014), the members of the 
+Executive Board and the Supervisory Board of Aurubis AG and certain employees in management positions 
+and those closely related to them must disclose the acquisition and sale of shares in the company and 
+related financial instruments. This does not apply if the total transactions per person do not exceed €20,000 
+per calendar year.
+No directors’ dealings subject to disclosure in accordance with Article 19 of the Market Abuse Regulation 
+were reported in fiscal year 2024/25.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+27
+
+Changes in fixed assets
+from October 1, 2024 to September 30, 2025 
+in € million
+Costs of 
+acquisition, 
+generation or 
+construction 
+10/1/2024
+Additions
+Disposals
+Transfers
+Costs of 
+acquisition, 
+generation or 
+construction 
+9/30/2025
+Accumulated 
+depreciation, 
+amortization and 
+write-downs 
+10/1/2024
+Depreciation, 
+amortization 
+and write-
+downs in the 
+current fiscal 
+year
+Disposals
+Accumulated 
+depreciation, 
+amortization 
+and write-downs 
+as at 9/30/2025
+Carrying 
+amount 
+9/30/2025
+Carrying 
+amount 
+9/30/2024
+Purchased concessions, industrial
+property rights, and similar rights and assets,
+and licenses for such rights and assets
+ 
+172  
+2  
+1  
+5  
+178  
+97  
+8  
+1  
+104  
+74  
+75 
+Goodwill
+ 
+7  
+0  
+7  
+0  
+0  
+7  
+0  
+7  
+0  
+0  
+0 
+Payments on account
+ 
+8  
+0  
+0  
+-5  
+3  
+0  
+0  
+0  
+0  
+3  
+8 
+Intangible assets
+ 
+187  
+2  
+8  
+0  
+181  
+104  
+8  
+8  
+104  
+77  
+83 
+Land and buildings
+ 
+685  
+-7  
+3  
+5  
+680  
+380  
+21  
+3  
+398  
+282  
+305 
+Technical equipment and machinery
+ 
+1,463  
+-2  
+17  
+31  
+1,475  
+941  
+57  
+16  
+982  
+493  
+522 
+Other equipment, factory and office equipment
+ 
+101  
+5  
+2  
+1  
+105  
+71  
+8  
+2  
+77  
+28  
+30 
+Payments on account and assets under 
+construction
+ 
+164  
+203  
+0  
+-37  
+330  
+0  
+0  
+0  
+0  
+330  
+164 
+Property, plant and equipment
+ 
+2,413  
+199  
+22  
+0  
+2,590  
+1,392  
+86  
+21  
+1,457  
+1,133  
+1,021 
+Share interests in affiliated companies
+ 
+1,755  
+0  
+0  
+0  
+1,755  
+17  
+2  
+0  
+19  
+1,736  
+1,738 
+Investments
+ 
+16  
+0  
+0  
+0  
+16  
+3  
+13  
+0  
+16  
+0  
+13 
+Financial fixed assets
+ 
+1,771  
+0  
+0  
+0  
+1,771  
+20  
+15  
+0  
+35  
+1,736  
+1,751 
+Fixed assets
+ 
+4,371  
+201  
+30  
+0  
+4,542  
+1,516  
+109  
+29  
+1,596  
+2,946  
+2,855 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+28
+
+Investments
+pursuant to Section 285 No. 11 of the German Commercial Code (HGB) as at September 30, 2025
+1
+Aurubis AG, Hamburg
+Fully consolidated companies
+2
+Aurubis Olen NV, Olen, Belgium
+ 100 
+1 
+1,193,718  
+59,139 
+*
+3
+Aurubis Finland Oy, Pori, Finland
+ 100 
+2 
+96,420  
+12,639 
+*
+4
+Aurubis Holding USA LLC, Buffalo, US
+ 100 
+2 
+558,153  
+1,120 
+*/**
+5
+Cumerio Austria GmbH, Vienna, Austria
+ 100 
+1 
+857,804  
+68,018 
+*
+6
+Aurubis Bulgaria AD, Pirdop, Bulgaria
+ 99.86 
+5 
+880,660  
+204,879 
+*
+7
+Aurubis Engineering EAD, Sofia, Bulgaria
+ 100 
+5 
+59  
+8 
+*
+8
+Aurubis Italia Srl, Avellino, Italy
+ 100 
+1 
+16,008  
+1,207 
+*
+9
+Aurubis Stolberg GmbH & Co. KG, Stolberg
+ 100 
+1 
+150,091  
+30,097 
+*
+10
+Aurubis Stolberg Asset GmbH & Co. KG, Stolberg
+ 100 
+9 
+45,622  
+6,235 
+****
+11
+Peute Baustoff GmbH, Hamburg
+ 100 
+1 
+2,516  
+448 
+*
+12
+RETORTE GmbH Selenium Chemicals & Metals, Röthenbach
+ 100 
+1 
+4,610  
+916 
+*
+13
+E.R.N. Elektro-Recycling NORD GmbH, Hamburg
+ 100 
+1 
+3,428  
+-462 
+*
+14
+Deutsche Giessdraht GmbH, Emmerich
+ 100 
+1 
+11,050  
+1,121 
+*
+15
+Aurubis Beerse NV, Beerse, Belgium
+ 100 
+1 
+388,861  
+16,326 
+*
+16
+Aurubis Berango S. L. U., Berango, Spain
+ 100 
+15 
+36,004  
+3,907 
+*
+17
+Aurubis Richmond LLC, Augusta, US
+ 100 
+4 
+517,063  
+-35,260 
+*/**
+Companies accounted for using the equity method
+18
+Schwermetall Halbzeugwerk GmbH & Co. KG, Stolberg
+ 50 
+9 
+210,475  
+27,730 
+*
+19
+Cablo GmbH, Gelsenkirchen
+ 40 
+1 
+5,266  
+-3,840 
+***
+20
+LIBREC AG, Biberist, Switzerland
+ 33.5 
+1 
+17,041  
+-3,504 
+**/***
+Non-consolidated companies
+21
+azeti GmbH, Hamburg
+ 100 
+1 
+2,600  
+616 
+****
+22
+Aurubis Holding Sweden AB, Stockholm, Sweden
+ 100 
+2 
+30,497  
+141 
+**/****
+23
+Aurubis Sweden AB, Finspång, Sweden
+ 100 
+22 
+42,866  
+50 
+**/****
+24
+Aurubis Stolberg Verwaltungs-GmbH, Stolberg
+ 100 
+1 
+48  
+2 
+***
+25
+Aurubis Stolberg Asset Verwaltungs-GmbH, Stolberg
+ 100 
+9 
+29  
+2 
+***
+No.
+Company name and registered office
+% of capital held directly
+and indirectly
+Held by
+Equity in € thousand
+Annual result
+in € thousand
+Note
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+29
+
+26
+Aurubis Hong Kong Ltd., Hong Kong, China
+ 100 
+2 
+-33  
+-16 
+**/***
+27
+Aurubis Metal Products (Shanghai) Co., Ltd, Shanghai, China
+ 100 
+26 
+2,774  
+1,024 
+**/***
+28
+Schwermetall Halbzeugwerk GmbH, Stolberg
+ 50 
+9 
+123  
+19 
+****
+29
+Aurubis Turkey Kimya Anonim Sirketi, Istanbul, Turkey
+ 100 
+6 
+38  
+5 
+**/***
+30
+Aurubis Middle East DMCC, Dubai
+ 100 
+1 
+0  
+0 
+*****
+No.
+Company name and registered office
+% of capital held directly
+and indirectly
+Held by
+Equity in € thousand
+Annual result
+in € thousand
+Note
+*    The disclosed equity and annual result are based on the IFRS reporting package as German or local statutory financial statements are not yet available.
+**   Local currency amounts are converted into EUR at the applicable closing rate or average rate as at September 30, 2025.
+***     Disclosed on the basis of the annual financial statements as at September 30, 2025 or the annual financial statements under commercial law, or territory-specific law, as at December 31, 2024.
+****   Disclosed on the basis of the annual financial statements as at September 30, 2024.
+***** The company was incorporated on July 18, 2024. The annual financial statements as at the December 31, 2024 reporting date thus do not include the full fiscal year. Complete annual financial statements for a full fiscal year will be prepared as at December 
+31, 2025.
+Proposed appropriation of earnings
+€
+2024/25
+Net income for the year of Aurubis AG
+ 
+161,317,014.35 
+Retained profit brought forward from the prior year
+ 
+145,894,976.48 
+Allocations to other revenue reserves
+ 
+80,600,000.00 
+Unappropriated earnings
+ 
+226,611,990.83 
+ 
+A proposal will be made to the Annual General Meeting that Aurubis AG’s unappropriated earnings of 
+226,611,990.83 € are used to pay a dividend of €1.60 per no-par-value share and that €156,757,542.83 be 
+carried forward. The freely available shares at the balance sheet date, which numbered 43,659,030 
+(= €69,854,448.00), were taken as a basis. 
+Hamburg, December 2, 2025
+Executive Board
+Dr. Toralf Haag
+Tim Kurth
+Steffen Alexander Hoffmann
+Inge Hofkens
+Chairman
+Member
+Member
+Member
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+30
+
+To Aurubis AG, Hamburg/Germany
+Report on the audit of the annual financial statements and of the 
+combined management report
+Audit Opinions
+We have audited the annual financial statements of Aurubis AG, Hamburg/Germany, which comprise the 
+balance sheet as at 30 September 2025, and the income statement for the financial year from 1 October 
+2024 to 30 September 2025, and the notes to the financial statements, including the presentation of the 
+recognition and measurement policies. In addition, we have audited the combined management report for 
+the parent and the group of Aurubis AG, Hamburg/Germany, for the financial year from 1 October 2024 to 
+30 September 2025. In accordance with the German legal requirements, we have not audited the content of 
+the combined corporate governance statement, referred to in the section “Legal Disclosures” of the 
+combined management report, as well as the combined sustainability statement contained in the section 
+“(Group) Sustainability Statement”. In addition, we have not audited the content of the executive directors’ 
+statements on the appropriateness and the effectiveness of the entire internal control system and of the 
+risk management system, which are contained in the section “Part of the management report not subject to 
+mandatory auditing” of the combined management report, the section “Environmental protection and 
+occupational health” in the combined management report, the disclosures on expected earnings 
+contributions from strategic projects as well as on the reduction and generation of CO2 emissions made in 
+the sections “Strategic direction” and “Executive Board assessment of the Aurubis Group’s 2024/25 fiscal 
+year” of the combined management report, the disclosures on the supply chain and on the reduction and 
+generation of CO2 emissions, respectively, made in the “Sustainability” risk cluster and in the “Energy and 
+climate” risk cluster, respectively, of the risk and opportunity report in the combined management report, 
+and the ESG rating results referred to in the section “Executive Board assessment of the Aurubis Group’s 
+2024/25 fiscal year” of the combined management report.
+In our opinion, on the basis of the knowledge obtained in the audit,
+» the accompanying annual financial statements comply, in all material respects, with the requirements of 
+German commercial law applicable to business corporations and give a true and fair view of the assets, 
+liabilities and financial position of the Company as at 30 September 2025 and of its financial 
+performance for the financial year from 1 October 2024 to 30 September 2025 in compliance with 
+German Legally Required Accounting Principles, and 
+» the accompanying combined management report as a whole provides an appropriate view of the 
+Company’s position. In all material respects, this combined management report is consistent with the 
+annual financial statements, complies with German legal requirements and appropriately presents the 
+opportunities and risks of future development. Our audit opinion on the combined management report 
+does not cover the content of the statements referred to above and of the disclosures extraneous to 
+management reports.
+Pursuant to Section 322 (3) sentence 1 German Commercial Code (HGB), we declare that our audit has not 
+led to any reservations relating to the legal compliance of the annual financial statements and of the 
+combined management report.
+Basis for the Audit Opinions
+We conducted our audit of the annual financial statements and of the combined management report in 
+accordance with Section 317 HGB and the EU Audit Regulation (No. 537/2014; referred to subsequently as 
+“EU Audit Regulation”) and in compliance with German Generally Accepted Standards for Financial 
+Statement Audits promulgated by the Institut der Wirtschaftsprüfer (IDW). Our responsibilities under those 
+requirements and principles are further described in the “Auditor’s Responsibilities for the Audit of the 
+Annual Financial Statements and of the Combined Management Report” section of our auditor’s report. We 
+are independent of the Company in accordance with the requirements of European law and German 
+commercial and professional law, and we have fulfilled our other German professional responsibilities in 
+accordance with these requirements. In addition, in accordance with Article 10 (2) point (f) of the EU Audit 
+Regulation, we declare that we have not provided non-audit services prohibited under Article 5 (1) of the 
+EU Audit Regulation. We believe that the audit evidence we have obtained is sufficient and appropriate to 
+provide a basis for our audit opinions on the annual financial statements and on the combined management 
+report.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+31
+Independent Auditor’s Report
+
+Key Audit Matters in the Audit of the Annual Financial Statements
+Key audit matters are those matters that, in our professional judgement, were of most significance in our 
+audit of the annual financial statements for the financial year from 1 October 2024 to 30 September 2025. 
+These matters were addressed in the context of our audit of the annual financial statements as a whole and 
+in forming our audit opinion thereon; we do not provide a separate audit opinion on these matters.
+In the following we present the key audit matters we have determined in the course of our audit:
+1) Valuation of shares in affiliated companies
+2) Financial instruments – hedge accounting
+Our presentation of these key audit matters has been structured as follows:
+a) description (including reference to corresponding information in the annual financial statements and 
+in the combined management report)
+b) auditor’s response
+1) Valuation of shares in affiliated companies 
+a) As at 30 September 2025, shares in affiliated companies of mEUR 1,736 (32.4% of total assets) were 
+reported in the annual financial statements of Aurubis AG. In the financial year 2024/2025, write-
+downs of mEUR 2 were made on shares in affiliated companies. No write-ups were made. 
+Aurubis AG determines the fair values according to the discounted cash flow method, under which the 
+present values of the expected future cash flows resulting from the planning accounts prepared by the 
+executive directors are discounted. The result of the valuations depends on the estimated future cash 
+inflows, in particular the derivation of the perpetual annuity by the executive directors, and the 
+discount and growth rates used in each case. In this light and given the high complexity of the 
+valuation method as well as discretions on the part of the executive directors in view of the valuation, 
+we classified this matter as a key audit matter as part of our audit. 
+The information provided by the executive directors on the valuation of the shares in affiliated 
+companies is included in the “Recognition and Measurement Policies” and “Notes to the Balance 
+Sheet” sections of the notes to the financial statements.
+b) Within the scope of our audit, we obtained an understanding of the arrangements and measures 
+designed to ensure a proper planning process, and, with the assistance of our internal Financial 
+Advisory specialists, evaluated whether the valuation technique underlying the determination of the 
+fair values appropriately corresponds to the conceptual requirements conferred by professional 
+standards, and whether the calculations made using this technique are correct. We have assessed 
+whether the underlying expected future cash inflows as estimated by executive directors and the 
+capital costs recognised, as a whole, represent a proper basis for the valuation. Among other factors, 
+our opinion is based on a direct comparison of general and industry-specific market expectations and 
+explanations given by the executive directors concerning the significant value drivers and assumptions 
+underlying the planning. We have examined whether the fair values determined in this way were 
+subject to an accurate direct comparison with the respective book values in order to determine 
+whether any write-downs or reversals of such write-downs need to be recognised. 
+2) Financial instruments – hedge accounting
+a) Aurubis AG has concluded a large number of contracts for various derivative financial instruments to 
+hedge against foreign exchange rate, interest rate and commodity price risks arising from ordinary 
+business activities with external contractors and group companies based on the hedging policy defined 
+by the executive directors and documented in the relevant internal guidelines. The aim of using 
+derivative financial instruments is to mitigate volatility in relation to earnings and cash flows resulting 
+from changes in exchange rates – mainly in respect to foreign currency revenues and cost of materials, 
+and in the metal price in the context of purchasing and selling metal. 
+The nominal volume of the derivative instruments concluded with external contractors totals bEUR 3.9 
+as at 30 September 2025. The nominal amount of derivatives concluded with group companies is 
+bEUR 1.4. The determination of the fair values of the derivative financial instruments takes into 
+account the market information (market values) at the measurement date. As at 30 September 2025, 
+these amount to mEUR +5.5 net, of which an amount of mEUR -0.2 is recognised as a provision. To the 
+extent possible, hedging relationships are recognised in connection with the respective underlying 
+transactions pursuant to Section 254 HGB, as a result of which the hedging instruments, in applying 
+the net hedge presentation method (Einfrierungsmethode), will not be reflected in the balance sheet 
+over the duration of the hedging relationship to the extent that the hedging relationship remains 
+effective. In our opinion and in light of the high complexity and the number of transactions as well as 
+the extensive requirements concerning accounting and disclosures to be made in the notes to the 
+financial statements, these matters were considered significant in our audit.
+The information provided by the Company concerning the recognition of derivative financial 
+instruments and hedge accounting are included under the recognition and measurement policies in 
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+32
+
+section 8 of the notes to the balance sheet in the notes to the financial statements, as well as in the 
+risk and opportunity report of the combined management report.
+b) Within the scope of our audit and in consultation with our internal specialists from the Financial Risk 
+function, we reviewed, inter alia, the contractual and financial basis, and obtained an understanding of 
+the accounting, including the application of hedge accounting. In concert with these specialists, we 
+reviewed the Company’s system of internal control as regards derivative financial instruments, 
+including internal monitoring of compliance with the hedging policy, and the controls on design, 
+implementation and effectiveness. Moreover, in auditing the fair value measurement of the financial 
+instruments, we assessed the measurement methods and reconstructed the evaluation on the basis of 
+market data for a representative set of samples. We analysed the methods applied as well as their 
+appropriate systemic implementation to assess the effectiveness of the hedging relationships. Our 
+assessment of the completeness of the recognised transactions and the assessment of the fair values 
+of the recognised transactions were based on confirmations from banks and brokers. As regards the 
+expected cash flows and the assessment of the effectiveness of the hedges, we evaluated the levels of 
+hedging carried out in the past on a mainly retrospective basis. We have audited the completeness and 
+accuracy of the disclosures made in the notes to the financial statements. 
+Other Information
+The executive directors and/or the supervisory board are responsible for the other information. The other 
+information comprises
+» the corporate governance statement pursuant to Section 289f HGB combined with the consolidated 
+corporate governance statement pursuant to Section 315d HGB, referred to in the section “Legal 
+Disclosures” of the combined management report,
+» the combined sustainability statement included in the section “(Group) Sustainability Statement” of the 
+combined management report, which contains disclosures of the combined non-financial reporting in 
+accordance with Sections 289b to 289e, 315b and 315c HGB,
+» the executive directors’ statements on the appropriateness and the effectiveness of the entire internal 
+control system and of the risk management system, which are contained in the section “Part of the 
+management report not subject to mandatory auditing” of the combined management report,
+» the section “Environmental protection and occupational health” in the combined management report,
+» the disclosures on expected earnings contributions from strategic projects as well as on the reduction 
+and generation of CO2 emissions and on energy made in the sections “Strategic direction” and 
+“Executive Board assessment of the Aurubis Group’s 2024/25 fiscal year” of the combined management 
+report,
+» the ESG rating results referred to in the section “Executive Board assessment of the Aurubis Group’s 
+2024/25 fiscal year” of the combined management report, 
+» the disclosures on the supply chain made in the “Sustainability” risk cluster of the risk and opportunity 
+report in the combined management report,
+» the disclosures on the reduction and generation of CO2 emissions and on energy made in the “Energy 
+and Climate” risk cluster in the risk and opportunity report of the combined management report,
+» the executive directors’ confirmations pursuant to Section 264 (2) sentence 3 and Section 289 (1) 
+sentence 5 HGB regarding the annual financial statements and the combined management report,  
+The executive directors and the supervisory board are responsible for the statement according to Section 
+161 German Stock Corporation Act (AktG) concerning the German Corporate Governance Code, which is 
+part of the corporate governance statement combined with the consolidated corporate governance 
+statement. Otherwise the executive directors are responsible for the other information.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+33
+
+Our audit opinions on the annual financial statements and on the combined management report do not 
+cover the other information, and consequently we do not express an audit opinion or any other form of 
+assurance conclusion thereon.
+In connection with our audit, our responsibility is to read the other information identified above and, in 
+doing so, to consider whether the other information
+» is materially inconsistent with the annual financial statements, with the audited content of the 
+disclosures in the combined management report or our knowledge obtained in the audit, or
+» otherwise appears to be materially misstated.
+Responsibilities of the Executive Directors and the Supervisory Board for the Annual 
+Financial Statements and the Combined Management Report
+The executive directors are responsible for the preparation of the annual financial statements that comply, 
+in all material respects, with the requirements of German commercial law applicable to business 
+corporations, and that the annual financial statements give a true and fair view of the assets, liabilities, 
+financial position and financial performance of the Company in compliance with German Legally Required 
+Accounting Principles. In addition, the executive directors are responsible for such internal control as they, 
+in accordance with German Legally Required Accounting Principles, have determined necessary to enable 
+the preparation of annual financial statements that are free from material misstatement, whether due to 
+fraud (i.e. fraudulent financial reporting and misappropriation of assets) or error.
+In preparing the annual financial statements, the executive directors are responsible for assessing the 
+Company’s ability to continue as a going concern. They also have the responsibility for disclosing, as 
+applicable, matters related to going concern. In addition, they are responsible for financial reporting based 
+on the going concern basis of accounting, provided no actual or legal circumstances conflict therewith.
+Furthermore, the executive directors are responsible for the preparation of the combined management 
+report that as a whole provides an appropriate view of the Company’s position and is, in all material 
+respects, consistent with the annual financial statements, complies with German legal requirements, and 
+appropriately presents the opportunities and risks of future development. In addition, the executive 
+directors are responsible for such arrangements and measures (systems) as they have considered necessary 
+to enable the preparation of a combined management report that is in accordance with the applicable 
+German legal requirements, and to be able to provide sufficient appropriate evidence for the assertions in 
+the combined management report.
+The supervisory board is responsible for overseeing the Company’s financial reporting process for the 
+preparation of the annual financial statements and of the combined management report. 
+Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of the 
+Combined Management Report
+Our objectives are to obtain reasonable assurance about whether the annual financial statements as a 
+whole are free from material misstatement, whether due to fraud or error, and whether the combined 
+management report as a whole provides an appropriate view of the Company’s position and, in all material 
+respects, is consistent with the annual financial statements and the knowledge obtained in the audit, 
+complies with the German legal requirements and appropriately presents the opportunities and risks of 
+future development, as well as to issue an auditor’s report that includes our audit opinions on the annual 
+financial statements and on the combined management report.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in 
+accordance with Section 317 HGB and the EU Audit Regulation and in compliance with German Generally 
+Accepted Standards for Financial Statement Audits promulgated by the Institut der Wirtschaftsprüfer (IDW) 
+will always detect a material misstatement. Misstatements can arise from fraud or error and are considered 
+material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these annual financial statements and this combined management 
+report.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+34
+
+We exercise professional judgement and maintain professional scepticism throughout the audit. We also
+» identify and assess the risks of material misstatement of the annual financial statements and of the 
+combined management report, whether due to fraud or error, design and perform audit procedures 
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis 
+for our audit opinions. The risk of not detecting a material misstatement resulting from fraud is higher 
+than the risk of not detecting a material misstatement resulting from error, as fraud may involve 
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+» obtain an understanding of internal control relevant to the audit of the annual financial statements and 
+of arrangements and measures relevant to the audit of the combined management report in order to 
+design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing 
+an audit opinion on the effectiveness of internal control or these arrangements and measures of the 
+Company.
+» evaluate the appropriateness of accounting policies used by the executive directors and the 
+reasonableness of estimates made by the executive directors and related disclosures.
+» conclude on the appropriateness of the executive directors’ use of the going concern basis of accounting 
+and, based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the Company’s ability to continue as a going concern. If we 
+conclude that a material uncertainty exists, we are required to draw attention in the auditor’s report to 
+the related disclosures in the annual financial statements and in the combined management report or, if 
+such disclosures are inadequate, to modify our respective audit opinions. Our conclusions are based on 
+the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions 
+may cause the Company to cease to be able to continue as a going concern.
+» evaluate the overall presentation, structure and content of the annual financial statements, including the 
+disclosures, and whether the annual financial statements present the underlying transactions and events 
+in a manner that the annual financial statements give a true and fair view of the assets, liabilities, 
+financial position and financial performance of the Company in compliance with German Legally 
+Required Accounting Principles.
+» evaluate the consistency of the combined management report with the annual financial statements, its 
+conformity with German law, and the view of the Company’s position it provides.
+» perform audit procedures on the prospective information presented by the executive directors in the 
+combined management report. On the basis of sufficient appropriate audit evidence we evaluate, in 
+particular, the significant assumptions used by the executive directors as a basis for the prospective 
+information, and evaluate the proper derivation of the prospective information from these assumptions. 
+We do not express a separate audit opinion on the prospective information and on the assumptions used 
+as a basis. There is a substantial unavoidable risk that future events will differ materially from the 
+prospective information.
+We communicate with those charged with governance regarding, among other matters, the planned scope 
+and timing of the audit and significant audit findings, including any significant deficiencies in internal 
+control that we identify during our audit. 
+We provide those charged with governance with a statement that we have complied with the relevant 
+independence requirements, and communicate with them all relationships and other matters that may 
+reasonably be thought to bear on our independence, and where applicable, the actions taken or safeguards 
+applied to eliminate independence threats.
+From the matters communicated with those charged with governance, we determine those matters that 
+were of most significance in the audit of the annual financial statements for the current period and are 
+therefore the key audit matters. We describe these matters in the auditor’s report unless law or regulation 
+precludes public disclosure about the matter.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+35
+
+Other legal and regulatory requirements
+Report on the Assurance on the Electronic Reproductions of the Annual Financial 
+Statements and of the Combined Management Report Prepared for Publication 
+Pursuant to Section 317 (3a) HGB
+Assurance Opinion
+We have performed assurance work in accordance with Section 317 (3a) HGB to obtain reasonable 
+assurance whether the electronic reproductions of the annual financial statements and of the combined 
+management report (hereinafter referred to as “ESEF documents”) prepared for publication, contained in 
+the file, which has the SHA-256 value 
+1da055d4934e3ea6c9669570c4baaddd11a6599abdc6dc46f7b52715ccfea872, meet, in all material 
+respects, the requirements for the electronic reporting format pursuant to Section 328 (1) HGB (“ESEF 
+format”). In accordance with the German legal requirements, this assurance work only covers the 
+conversion of the information contained in the annual financial statements and the combined management 
+report into the ESEF format, and therefore covers neither the information contained in these electronic 
+reproductions nor any other information contained in the file identified above.
+In our opinion, the electronic reproductions of the annual financial statements and of the combined 
+management report prepared for publication contained in the file identified above meet, in all material 
+respects, the requirements for the electronic reporting format pursuant to Section 328 (1) HGB. Beyond 
+this assurance opinion and our audit opinions on the accompanying annual financial statements and on the 
+accompanying combined management report for the financial year from 1 October 2024 to 30 September 
+2025 contained in the “Report on the Audit of the Annual Financial Statements and of the Combined 
+Management Report” above, we do not express any assurance opinion on the information contained within 
+these electronic reproductions or on any other information contained in the file identified above.
+Basis for the Assurance Opinion
+We conducted our assurance work on the electronic reproductions of the annual financial statements and 
+of the management report contained in the file identified above in accordance with Section 317 (3a) HGB 
+and on the basis of the IDW Assurance Standard: Assurance Work on the Electronic Reproductions of 
+Financial Statements and Management Reports Prepared for Publication Purposes Pursuant to Section 317 
+(3a) HGB (IDW AsS 410 (06.2022)). Our responsibilities in this context are further described in the 
+“Auditor’s Responsibilities for the Assurance Work on the ESEF Documents” section. Our audit firm has 
+applied the requirements of the IDW Quality Management Standards.
+Responsibilities of the Executive Directors and the Supervisory Board for the ESEF Documents
+The executive directors of the Company are responsible for the preparation of the ESEF documents based 
+on the electronic files of the annual financial statements and of the combined management report 
+according to Section 328 (1) sentence 4 no. 1 HGB.
+In addition, the executive directors of the Company are responsible for such internal control that they have 
+considered necessary to enable the preparation of ESEF documents that are free from material intentional 
+or unintentional non-compliance with the requirements for the electronic reporting format pursuant to 
+Section 328 (1) HGB.
+The supervisory board is responsible for overseeing the process for preparing the ESEF documents as part of 
+the financial reporting process.
+Auditor’s Responsibilities for the Assurance Work on the ESEF Documents
+Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material 
+intentional or unintentional non-compliance with the requirements of Section 328 (1) HGB. We exercise 
+professional judgement and maintain professional scepticism throughout the assurance work. We also
+» identify and assess the risks of material intentional or unintentional non-compliance with the 
+requirements of Section 328 (1) HGB, design and perform assurance procedures responsive to those 
+risks, and obtain assurance evidence that is sufficient and appropriate to provide a basis for our 
+assurance opinion.
+» obtain an understanding of internal control relevant to the assurance on the ESEF documents in order to 
+design assurance procedures that are appropriate in the circumstances, but not for the purpose of 
+expressing an assurance opinion on the effectiveness of these controls.
+» evaluate the technical validity of the ESEF documents, i.e. whether the file containing the ESEF 
+documents meets the requirements of the Delegated Regulation (EU) 2019/815, in the version in force 
+at the balance sheet date, on the technical specification for this electronic file.
+» evaluate whether the ESEF documents enable an XHTML reproduction with content equivalent to the 
+audited annual financial statements and to the audited combined management report.
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+36
+
+Further Information Pursuant to Article 10 of the EU Audit Regulation
+We were elected as auditor by the general meeting on 3 April 2025. We were engaged by the supervisory 
+board on 3 April 2025. We have been the auditor of Aurubis AG, Hamburg/Germany, without interruption 
+since the financial year 2018/2019.
+We declare that the audit opinions expressed in this auditor’s report are consistent with the additional 
+report to the audit committee pursuant to Article 11 of the EU Audit Regulation (long-form audit report).
+In addition to the financial statement audit, we have provided to the audited Company or its controlled 
+entities the following services that are not disclosed in the annual financial statements or in the combined 
+management report:
+» Assurance engagement in accordance with ISAE 3000 (Revised) to obtain limited assurance on the 
+combined consolidated non-financial sustainability statement 
+» EMIR audit of Aurubis AG 
+» Pre-acceptance engagement of the project to transition to SAP S4/HANA at the Beerse/Belgium site 
+» Pre-acceptance engagement of the project to transition to the MES Neo materials management system 
+at the Hamburg/Germany site
+» Engage in consultation during BaFin’s examination of the consolidated and annual financial statements 
+for the year ended 30 September 2023
+ 
+Other matter – Use of the auditor’s report
+Our auditor’s report must always be read together with the audited annual financial statements and the 
+audited combined management report as well as with the assured ESEF documents. The annual financial 
+statements and the combined management report converted into the ESEF format – including the versions 
+to be submitted for inclusion in the Company Register – are merely electronic reproductions of the audited 
+annual financial statements and the audited combined management report and do not take their place. In 
+particular, the ESEF report and our assurance opinion contained therein are to be used solely together with 
+the assured ESEF documents made available in electronic form.
+German public auditor responsible for the engagement
+The German Public Auditor responsible for the engagement is Dr Claus Buhleier.
+Hamburg/Germany, 2 December 2025
+Deloitte GmbH 
+Wirtschaftsprüfungsgesellschaft
+Dr. Claus Buhleier
+Maximilian Freiherr v. Perger
+Wirtschaftsprüfer
+(German Public Auditor)
+Wirtschaftsprüfer
+(German Public Auditor)
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+37
+
+We confirm to the best of our knowledge that, in accordance with the applicable reporting principles, the 
+financial statements give a true and fair view of the assets, liabilities, financial position, and financial 
+performance of the company, and that the Combined Management Report provides a true and fair view of 
+the development and performance of the business and the position of the company, together with a 
+description of the principal opportunities and risks associated with the expected development of the 
+company.
+Hamburg, December 2, 2025
+Executive Board
+Dr. Toralf Haag
+Tim Kurth
+Steffen Alexander Hoffmann
+Inge Hofkens
+Chairman
+Member
+Member
+Member
+☰
+@ h i
+Balance Sheet
+Income Statement
+Notes
+Independent Auditor’s Report
+Responsibility Statement
+Aurubis AG · Financial Statements 2024/25
+38
+Responsibility Statement
+
+aurubis.com
+EN_25/12
+Aurubis AG
+Hovestrasse 50
+20539 Hamburg, Germany
+Phone +49 40 7883-0
+info@aurubis.com

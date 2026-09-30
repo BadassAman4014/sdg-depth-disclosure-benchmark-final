@@ -1,0 +1,2698 @@
+1
+HAMBORNER REIT AG
+Jahresabschluss 2019
+und ergänzende Informationen
+
+2
+KENNZAHLENÜBERSICHT ZUM HANDELSRECHTLICHEN JAHRESABSCHLUSS
+2019
+2018
+2017
+T€
+T€
+T€
+Ergebnisdaten
+Miet- und Pachterlöse
+85.059
+83.402
+74.096
+Betriebsergebnis
+30.632
+33.550
+33.386
+Finanzergebnis
+-15.224
+-15.275
+-15.116
+EBITDA
+67.863
+68.170
+62.451
+EBIT
+30.632
+33.550
+33.386
+Jahresüberschuss
+15.408
+18.275
+18.270
+Entnahme aus der Kapitalrücklage
+10.726
+0
+0
+Entnahme aus den anderen Gewinnrücklagen
+11.333
+18.395
+17.603
+Bilanzgewinn
+37.467
+36.670
+35.873
+Bilanzdaten
+Anlagevermögen
+1.210.250
+1.198.337
+1.112.048
+Umlaufvermögen einschl. Rechnungsabgrenzungsposten
+12.313
+10.725
+60.842
+Eigenkapital
+511.981
+533.244
+550.842
+Eigenkapitalquote in %
+41,9
+44,1
+47,0
+Fremdkapital
+710.582
+675.818
+622.048
+Bilanzsumme
+1.222.563
+1.209.062
+1.172.890
+Investitionen
+50.778
+131.263
+224.906
+Sonstige Daten
+Dividende je Stückaktie in €
+0,47
+0,46
+0,45
+Börsenkurse je Stückaktie in €
+Höchstkurs
+9,82
+10,08
+9,94
+Tiefstkurs
+8,38
+8,40
+8,77
+Jahresschlusskurs
+9,76
+8,41
+9,90
+Dividendenrendite
+bezogen auf den Jahresschlusskurs in %
+4,8
+5,5
+4,5
+Anzahl der Mitarbeiter zum Jahresende einschließlich Vorstand
+42
+40
+37
+
+3
+JAHRESABSCHLUSS
+BILANZ....................................................................................................................................................4
+GEWINN- UND VERLUSTRECHNUNG............................................................................................6
+KAPITALFLUSSRECHNUNG..............................................................................................................7
+EIGENKAPITALSPIEGEL ....................................................................................................................8
+ANHANG ZUM JAHRESABSCHLUSS..............................................................................................9
+Allgemeine Grundlagen ...................................................................................................................................9
+Bilanzierungs- und Bewertungsmethoden ....................................................................................................9
+Erläuterungen zur Bilanz ...............................................................................................................................11
+Erläuterungen zur Gewinn- und Verlustrechnung......................................................................................13
+Erläuterungen zur Kapitalflussrechnung .....................................................................................................15
+Sonstige Erläuterungen und Pflichtangaben ..............................................................................................15
+Organe der Gesellschaft und deren Mandate ............................................................................................18
+Vorschlag zur Gewinnverwendung ..............................................................................................................19
+VERSICHERUNG DER GESETZLICHEN VERTRETER .............................................................20
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS......................21
+
+4
+BILANZ
+zum 31. Dezember 2019
+Aktiva
+Anhang
+31.12.2019
+31.12.2018
+T€
+T€
+A. Anlagevermögen
+(1)
+I.
+Immaterielle Vermögensgegenstände
+Entgeltlich erworbene Lizenzen und ähnliche Rechte
+574
+599
+II. Sachanlagen
+1. Grundstücke, grundstücksgleiche Rechte und Bauten
+einschließlich der Bauten auf fremden Grundstücken
+1.193.271
+1.197.414
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung
+303
+321
+3. Geleistete Anzahlungen
+16.102
+0
+1.209.676
+1.197.735
+III. Finanzanlagen
+Sonstige Ausleihungen
+0
+3
+1.210.250
+1.198.337
+B. Umlaufvermögen
+I.
+Forderungen und sonstige Vermögensgegenstände
+(2)
+1. Forderungen aus Lieferungen und Leistungen
+1.940
+1.063
+2. Sonstige Vermögensgegenstände,
+davon mit einer Restlaufzeit von mehr als einem Jahr 1.238 T€ (Vorjahr: 1.174 T€)
+1.444
+1.319
+3.384
+2.382
+II. Kassenbestand, Guthaben bei Kreditinstituten
+(3)
+8.358
+7.783
+11.742
+10.165
+C. Aktiver Rechnungsabgrenzungsposten
+(4)
+571
+560
+Summe Aktiva
+1.222.563
+1.209.062
+
+5
+Passiva
+Anhang
+31.12.2019
+31.12.2018
+T€
+T€
+A. Eigenkapital
+(5)
+I.
+Gezeichnetes Kapital
+79.718
+79.718
+II. Kapitalrücklage
+394.796
+405.522
+III. Gewinnrücklagen
+Andere Gewinnrücklagen
+0
+11.333
+IV. Bilanzgewinn
+37.467
+36.670
+511.981
+533.243
+B. Rückstellungen
+(6)
+1. Rückstellungen für Pensionen
+5.211
+5.187
+2. Rückstellungen für Bergschäden
+2.627
+2.477
+3. Sonstige Rückstellungen
+6.108
+6.190
+13.946
+13.854
+C. Verbindlichkeiten
+(7)
+1. Verbindlichkeiten gegenüber Kreditinstituten
+689.533
+651.136
+2. Verbindlichkeiten aus Lieferungen und Leistungen
+391
+229
+3. Sonstige Verbindlichkeiten,
+davon aus Steuern 938 T€ (Vorjahr: 4.598 T€)
+5.788
+9.371
+695.712
+660.736
+D. Passiver Rechnungsabgrenzungsposten
+(8)
+924
+1.229
+Summe Passiva
+1.222.563
+1.209.062
+
+6
+GEWINN- UND VERLUSTRECHNUNG
+für die Zeit vom 1. Januar bis 31. Dezember 2019
+2019
+2018
+Anhang
+T€
+T€
+1. Erlöse aus der Grundstücks- und Gebäudebewirtschaftung
+(9)
+a) Erlöse aus Mieten und Pachten
+85.059
+83.402
+b) Erlöse aus der Weiterberechnung von Nebenkosten an Mieter
+14.141
+13.469
+99.200
+96.871
+2. Sonstige betriebliche Erträge
+(10)
+a) Erträge aus dem Abgang von Gegenständen des
+Anlagevermögens
+0
+1.648
+b) Übrige
+1.421
+1.152
+1.421
+2.800
+Summe betriebliche Erträge
+100.621
+99.671
+3. Aufwendungen für Grundstücks- und Gebäudebewirtschaftung
+(11)
+a) Laufende Betriebsaufwendungen
+-18.131
+-17.818
+b) Grundstücks- und Gebäudeinstandhaltung
+-6.546
+-5.866
+-24.677
+-23.684
+4. Personalaufwand
+(12)
+a) Löhne und Gehälter
+-4.414
+-3.948
+b) Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung,
+davon: für Altersversorgung -77 T€ (Vorjahr: -307 T€)
+-555
+-726
+-4.969
+-4.674
+5.
+(13)
+-37.231
+-34.620
+6. Sonstige betriebliche Aufwendungen
+(14)
+-3.112
+-3.143
+Summe betriebliche Aufwendungen
+-69.989
+-66.121
+7. Betriebsergebnis
+30.632
+33.550
+8. Finanzergebnis
+(15)
+a) Sonstige Zinsen und ähnliche Erträge
+0
+84
+b) Zinsen und ähnliche Aufwendungen,
+davon: Aufwendungen aus Aufzinsung -581 T€ (Vorjahr: -445 T€)
+-15.224
+-15.359
+-15.224
+-15.275
+9. Jahresüberschuss
+15.408
+18.275
+10. Entnahme aus der Kapitalrücklage
+10.726
+0
+11. Entnahme aus den anderen Gewinnrücklagen
+11.333
+18.395
+12. Bilanzgewinn
+37.467
+36.670
+Abschreibungen auf immaterielle Vermögensgegenstände
+des Anlagevermögens und Sachanlagen
+
+7
+KAPITALFLUSSRECHNUNG
+für die Zeit vom 1. Januar bis 31. Dezember 2019
+2019
+2018
+T€
+T€
+Cashflow aus der laufenden Geschäftstätigkeit
+Jahresüberschuss
+15.408
+18.275
+Finanzergebnis
+15.224
+15.275
+Abschreibungen / Zuschreibungen (-)
+37.231
+34.620
+Zunahme / Abnahme der Rückstellungen
+-267
+772
+Buchgewinne / -verluste (saldiert) aus dem Abgang von Gegenständen des
+Anlagevermögens
+31
+-1.648
+Veränderung der Forderungen und sonstigen Vermögensgegenstände, die nicht der
+Investitions- oder Finanzierungstätigkeit zuzuordnen sind
+-1.001
+-252
+Veränderung der Verbindlichkeiten, die nicht der Investitions- oder
+Finanzierungstätigkeit zuzuordnen sind
+-246
+-647
+66.380
+66.395
+Cashflow aus der Investitionstätigkeit
+Investitionen in das Sachanlagevermögen und immaterielle Anlagevermögen
+-54.495
+-132.423
+Einzahlungen aus Abgängen von Gegenständen des Sachanlagevermögens und
+immateriellen Anlagevermögens
+1.600
+11.996
+Einzahlungen aus Abgängen von Gegenständen des Finanzanlagevermögens
+3
+5
+-52.892
+-120.422
+Cashflow aus der Finanzierungstätigkeit
+Dividendenauszahlung
+-36.670
+-35.873
+Mittelzufluss aus der Aufnahme von Finanzverbindlichkeiten
+60.636
+96.389
+Mittelabfluss zur Tilgung von Finanzverbindlichkeiten
+-22.216
+-41.914
+Einzahlungen für Barsicherheiten für Finanzverbindlichkeiten
+4.191
+0
+Zinsauszahlungen
+-14.663
+-14.897
+-8.722
+3.705
+Zahlungswirksame Veränderung des Finanzmittelfonds
+4.766
+-50.322
+Finanzmittelfonds am 1. Januar
+3.592
+53.914
+Bankguthaben und Kassenbestände (mit einer Laufzeit bis zu drei Monaten)
+3.592
+53.914
+Verfügungsbeschränkte Bankguthaben und Kassenbestände
+4.191
+4.191
+Kassenbestand, Guthaben bei Kreditinstituten am 1. Januar
+7.783
+58.105
+Finanzmittelfonds am 31. Dezember
+8.358
+3.592
+Bankguthaben und Kassenbestände (mit einer Laufzeit bis zu drei Monaten)
+8.358
+3.592
+Verfügungsbeschränkte Bankguthaben und Kassenbestände
+0
+4.191
+Kassenbestand, Guthaben bei Kreditinstituten am 31. Dezember
+8.358
+7.783
+
+8
+EIGENKAPITALSPIEGEL
+Gezeichnetes
+Kapital
+T€
+Kapitalrücklage
+T€
+Gewinn-
+rücklagen
+T€
+Eigenkapital
+gesamt
+T€
+Andere
+Gewinn-
+rücklagen
+Vortrag
+Überschuss
+Entnahme
+aus der
+Kapital-
+rücklage
+Entnahme
+aus den
+anderen
+Gewinn-
+rücklagen
+Stand 1. Januar 2018
+79.718
+405.522
+29.728
+0
+18.270
+0
+17.603
+550.841
+Vortrag auf neue Rechnung
+35.873
+-18.270
+-17.603
+0
+Gezahlte Dividende
+-35.873
+-35.873
+Entnahme aus den anderen Gewinnrücklagen
+-18.395
+18.395
+0
+Jahresüberschuss 01.01.-31.12.2018
+18.275
+18.275
+Stand 31. Dezember 2018
+79.718
+405.522
+11.333
+0
+18.275
+0
+18.395
+533.243
+Vortrag auf neue Rechnung
+36.670
+-18.275
+-18.395
+0
+Gezahlte Dividende
+-36.670
+-36.670
+Entnahme aus der Kapitalrücklage
+-10.726
+10.726
+0
+Entnahme aus den anderen Gewinnrücklagen
+-11.333
+11.333
+0
+Jahresüberschuss 01.01.-31.12.2019
+15.408
+15.408
+Stand 31. Dezember 2019
+79.718
+394.796
+0
+0
+15.408
+10.726
+11.333
+511.981
+Bilanzgewinn
+T€
+
+9
+ANHANG ZUM JAHRESABSCHLUSS
+Allgemeine Grundlagen
+Die HAMBORNER REIT AG („HAMBORNER“) ist eine
+börsennotierte Kapitalgesellschaft (WKN 601300)
+mit Sitz in Duisburg / Deutschland. Sie ist im
+Handelsregister beim Amtsgericht Duisburg unter
+HRB 4 eingetragen. Als REIT-Gesellschaft unterliegt
+sie auch den
+Vorschriften
+des
+Gesetzes
+über
+deutsche
+Immobilien-Aktiengesellschaften
+mit
+börsennotierten Anteilen (REITG).
+Der
+handelsrechtliche
+Jahresabschluss
+der
+HAMBORNER wird beim Betreiber des Bundesanzei-
+gers eingereicht. Er steht auf der Internetseite der
+Gesellschaft www.hamborner.de zur Verfügung und
+kann von dort heruntergeladen werden. Zudem
+kann
+er
+bei
+der
+HAMBORNER
+REIT
+AG,
+Goethestraße 45, 47166 Duisburg, angefordert wer-
+den.
+Die HAMBORNER REIT AG erwirbt Eigentum oder
+dingliche Nutzungsrechte an beweglichem oder
+unbeweglichem Vermögen im Sinne von § 3 REITG
+zur
+Nutzung,
+Verwaltung
+oder
+Verwertung.
+Beteiligungen
+an
+Personen-
+und
+Kapitalgesell-
+schaften im Sinne von § 3 REITG können ebenfalls
+erworben,
+gehalten,
+verwaltet
+und
+verwertet
+werden. Als REIT AG ist HAMBORNER sowohl von
+der
+Körperschaftsteuer
+als
+auch
+von
+der
+Gewerbesteuer befreit.
+Als börsennotierte REIT-Aktiengesellschaft erstellt
+und veröffentlicht die HAMBORNER REIT AG einen
+Einzelabschluss i. S. d. § 325 Abs. 2a HGB nach den
+Vorschriften der International Financial Reporting
+Standards (IFRS). Der Lagebericht nach § 289 HGB
+wird mit dem IFRS-Einzelabschluss im Bundesanzei-
+ger bekannt gemacht.
+Der vorliegende Jahresabschluss wird in Euro (€)
+und
+unter
+Beachtung
+der
+handelsrechtlichen
+Rechnungslegungsgrundsätze, der aktienrechtlichen
+Vorschriften sowie des REITG aufgestellt.
+Alle Beträge werden – soweit nicht anders darge-
+stellt – in Tausend Euro (T€) angegeben. Aufgrund
+von Rundungen können sich in diesem Bericht bei
+Summenbildungen und bei prozentualen Angaben
+geringfügige Abweichungen ergeben.
+Der
+Jahresabschluss
+enthält
+nach
+§ 264 Abs. 1
+S. 2 HGB
+eine
+Kapitalflussrechnung
+und
+einen
+Eigenkapitalspiegel. Bei deren Aufstellung wurden
+die Deutschen Rechnungslegungsstandards (DRS)
+Nr. 21 bzw. Nr. 22 entsprechend beachtet.
+Bilanz und Gewinn- und Verlustrechnung folgen in
+Aufbau und Gliederung den handelsrechtlichen
+Vorschriften. Zur Verbesserung der Klarheit des
+Jahresabschlusses wurden Bezeichnungen in der
+Gewinn- und Verlustrechnung an die branchen-
+spezifischen
+Besonderheiten
+eines
+Immobilien-
+unternehmens
+angepasst.
+Darüber
+hinaus
+sind
+einzelne Posten weiter untergliedert. Die Gewinn-
+und
+Verlustrechnung
+ist
+nach
+dem
+Gesamt-
+kostenverfahren aufgestellt worden.
+Bilanzierungs- und
+Bewertungsmethoden
+Die
+entgeltlich
+erworbenen
+immateriellen
+Vermögensgegenstände sind zu Anschaffungskosten
+abzüglich
+planmäßiger
+linearer
+Abschreibungen
+bewertet. Die Abschreibungen erfolgen über die
+wirtschaftliche Nutzungsdauer, die grundsätzlich
+drei
+bis
+acht
+Jahre
+beträgt.
+Im
+Falle
+der
+Abschreibung
+eines
+Namensrechts
+beträgt
+die
+Nutzungsdauer 33 Jahre.
+Das
+Sachanlagevermögen
+wird
+mit
+den
+Anschaffungs- oder Herstellungskosten abzüglich
+der
+planmäßigen
+und
+ggf.
+außerplanmäßigen
+handelsrechtlichen Abschreibungen ausgewiesen.
+Die planmäßigen Abschreibungen der Anschaffungs-
+oder Herstellungskosten des Sachanlagevermögens
+werden linear auf die Geschäftsjahre verteilt, in
+denen der Vermögensgegenstand voraussichtlich
+genutzt werden kann.
+Der Immobilienbestand wird zwischen 33 und 50
+Jahren abgeschrieben. Grundsätzlich wird seit 2007
+bei Erwerb einer Immobilie eine Nutzungsdauer des
+Gebäudes von 33 Jahren angesetzt. Sollten die
+tatsächlichen Umstände (z.B. aufgrund von Alter,
+Beschaffenheit, wirtschaftlicher Nutzungsmöglich-
+keit
+des
+Gebäudes)
+gegen
+diesen
+Grundsatz
+sprechen, wird die Nutzungsdauer entsprechend
+abweichend eingeschätzt. Eine Überprüfung der
+Restnutzungsdauer
+erfolgt
+darüber
+hinaus
+im
+Rahmen größerer Modernisierungsmaßnahmen.
+
+10
+Immobilien des Altbestands mit einem Zugangs-
+zeitpunkt vor 2007 werden mit einer Nutzungsdauer
+von 40 bzw. 50 Jahren abgeschrieben.
+Den
+Abschreibungen
+des
+beweglichen
+Sachanlagevermögens liegt eine betriebsgewöhn-
+liche Nutzungsdauer zwischen drei und fünfzehn
+Jahren zugrunde.
+Außerplanmäßige
+Abschreibungen
+werden
+bei
+Vorliegen
+einer
+dauerhaften
+Wertminderung
+vorgenommen.
+Bei den sonstigen Ausleihungen handelt es sich um
+Arbeitgeberdarlehen,
+die
+entsprechend
+ihrer
+Restlaufzeit abgezinst sind.
+Die
+Posten
+des
+Umlaufvermögens
+sind
+zu
+Nennwerten bzw. zu Anschaffungskosten angesetzt.
+Erkennbaren
+Risiken
+wird
+durch
+Bildung
+von
+Wertberichtigungen angemessen Rechnung getra-
+gen. Uneinbringliche Forderungen werden in vollem
+Umfang abgeschrieben.
+Der aktive Rechnungsabgrenzungsposten enthält
+Zahlungen
+für
+vereinbarte
+zukünftige
+Aufwen-
+dungen der Gesellschaft. Sie werden zum Zeitpunkt
+des Geldflusses abgegrenzt und über die Laufzeit
+der Vereinbarungen erfolgswirksam aufgelöst.
+Die
+Rückstellungen
+für
+Pensionsverpflichtungen
+werden
+den
+Vorschriften
+des
+Handelsrechts
+entsprechend nach anerkannten Grundsätzen der
+Versicherungsmathematik
+auf
+Basis
+der
+sogenannten Projected-Unit-Credit-Methode (PUC-
+Methode) bewertet. Der Rückstellungsbedarf ist
+dabei unter Einbeziehung der zukünftigen Renten-
+entwicklung ermittelt worden. Der bei Abzinsung
+der
+Pensionsverpflichtungen
+verwendete
+Rechnungszinssatz
+wurde
+als
+durchschnittlicher
+Marktzins der vergangenen zehn Jahre mit einer
+Duration
+von
+elf
+Jahren
+ermittelt,
+die
+der
+voraussichtlichen
+durchschnittlichen
+Laufzeit
+unserer Rentenverpflichtungen entspricht.
+Als biometrische Rechnungsgrundlage werden die
+„Richttafeln 2018 G“ von Prof. Dr. Klaus Heubeck
+verwendet.
+Der Bewertung liegen die folgenden Annahmen
+zugrunde:
+31.12.2019
+31.12.2018
+T€
+T€
+Rechnungszins
+2,43%
+2,92%
+Rententrend p.a.
+2,00%
+2,00%
+Soweit aus der Bewertung der Pensionsrückstellung
+neben den im Zinsaufwand erfassten Zinseffekten
+im Saldo ein Auflösungsbetrag resultiert, wird dieser
+Saldo
+in
+den
+sonstigen
+betrieblichen
+Erträgen
+ausgewiesen. Andernfalls erfolgt der Ausweis des
+Saldos im Personalaufwand.
+Die Dotierung der Bergschäden- und der übrigen
+Rückstellungen berücksichtigt alle aus heutiger Sicht
+erkennbare Risiken angemessen. Die Rückstellungen
+werden mit dem nach vernünftiger kaufmännischer
+Beurteilung geschätzten notwendigen Erfüllungs-
+betrag
+bewertet
+und
+ausgewiesen.
+Rückstel-
+lungsbeträge, deren Restlaufzeit mehr als ein Jahr
+beträgt, werden mit dem von der Bundesbank
+veröffentlichten, ihrer Restlaufzeit entsprechenden
+durchschnittlichen Marktzinssatz der vergangenen
+sieben Jahre abgezinst.
+Die Verbindlichkeiten gegenüber Kreditinstituten
+sowie die übrigen Verbindlichkeiten werden mit
+ihren
+Erfüllungsbeträgen
+angesetzt.
+Eine
+im
+Zusammenhang
+mit
+einem
+Immobilienerwerb
+übernommene Rentenverpflichtung wurde mit dem
+ihrer
+erwarteten
+Restlaufzeit
+entsprechenden
+durchschnittlichen Marktzinssatz abgezinst.
+HAMBORNER setzt derivative Finanzinstrumente in
+Form von Zinsswaps zur Absicherung des Zinsrisikos
+ein. Da die Voraussetzungen erfüllt sind, werden die
+Sicherungs- und Grundgeschäfte zu einer Bewer-
+tungseinheit gemäß § 254 HGB zusammengefasst
+und nach der Einfrierungsmethode bilanziert.
+Unter dem passiven Rechnungsabgrenzungsposten
+werden
+im
+Wesentlichen
+vereinnahmte
+Miet-
+vorauszahlungen, die erst in Perioden nach dem
+Abschlussstichtag
+ertragswirksam
+werden,
+zu
+Nennbeträgen ausgewiesen.
+
+11
+Erläuterungen zur Bilanz
+(1) Anlagevermögen
+Die Entwicklung der einzelnen Posten des Anlage-
+vermögens stellt sich wie folgt dar:
+Stand
+Zugänge
+Abgänge
+Stand
+Stand
+Zugänge
+Abgänge
+Stand
+Stand
+Stand
+01.01.2019
+31.12.2019
+01.01.2019
+(Abschreibungen
+31.12.2019
+31.12.2018
+31.12.2019
+d. Geschäftsjahres)
+T€
+T€
+T€
+T€
+T€
+T€
+T€
+T€
+T€
+T€
+Immaterielle Vermögensgegenstände
+Entgeltlich erworbene Lizenzen und
+ähnliche Rechte
+841
+55
+0
+896
+242
+80
+0
+322
+599
+574
+Sachanlagen
+Grundstücke, grundstücksgl. Rechte und
+Bauten einschl. der Bauten auf fremden
+Grundstücken
+1.384.285
+34.573
+2.230
+1.416.628
+186.871
+37.085
+599
+223.357
+1.197.414
+1.193.271
+Andere Anlagen, Betriebs- und
+Geschäftsaustattung
+612
+48
+10
+650
+291
+66
+10
+347
+321
+303
+Geleistete Anzahlungen
+0
+16.102
+0
+16.102
+0
+0
+0
+0
+0
+16.102
+1.384.897
+50.723
+2.240
+1.433.380
+187.162
+37.151
+609
+223.704
+1.197.735
+1.209.676
+Finanzanlagen
+Sonstige Ausleihungen
+3
+0
+3
+0
+0
+0
+0
+0
+3
+0
+Insgesamt
+1.385.741
+50.778
+2.243
+1.434.276
+187.404
+37.231
+609
+224.026
+1.198.337
+1.210.250
+Anschaffungs- und Herstellungskosten
+Wertberichtigungen
+Restbuchwerte
+Immaterielle Vermögensgegenstände
+Die Lizenzen und ähnliche Rechte umfassen im
+Wesentlichen mit 398 T€ ein im Zusammenhang mit
+dem
+Erwerb
+einer
+Immobilie
+erworbenes
+Namensrecht
+sowie
+mit
+105 T€
+entgeltlich
+erworbene
+Nutzungsrechte
+für
+System-
+und
+Anwendersoftware unserer EDV-Anlage.
+Sachanlagen
+Die Anschaffungskosten für Immobilienzugänge im
+Berichtsjahr
+einschließlich
+Nachaktivierung
+auf
+Bestandsimmobilien belaufen sich auf insgesamt
+34,6 Mio. €. Die Buchwertabgänge für verkaufte
+Immobilien betragen 1,6 Mio. €. Im Geschäftsjahr
+wurden planmäßige Abschreibungen in Höhe von
+34,3 Mio. € vorgenommen.
+Zum 31.12.2019 wurde das Immobilienportfolio
+durch einen externen Sachverständigen bewertet.
+Das
+Gutachten
+berücksichtigt
+die
+international
+anerkannten „International Valuation Standards“
+(IVSC) bzw. die Richtlinien des „Royal Institution of
+Chartered Surveyors“ (RICS) über die Bewertung
+von
+Vermögenswerten.
+Auf
+Grundlage
+dieser
+Bewertung ergaben sich für zwei Immobilien in
+Koblenz (1,5 Mio. €) und Mosbach (1,2 Mio. €)
+außerplanmäßige Abschreibungen
+in
+Höhe von
+2,7 Mio. € (Vorjahr: 1,1 Mio. €).
+Die geleisteten Anzahlungen betreffen die Kauf-
+preiszahlung eines Objekts in Neu-Isenburg, das
+nach
+den
+kaufvertraglichen
+Regelungen
+am
+01.01.2020
+in
+den
+Besitz
+der
+Gesellschaft
+übergegangen ist.
+(2) Forderungen und sonstige
+Vermögensgegenstände
+Die Forderungen aus Lieferungen und Leistungen
+betragen
+1.940 T€
+(Vorjahr:
+1.063 T€)
+und
+resultieren im Wesentlichen aus der Vermietung
+und Verpachtung des Grundstücksvermögens.
+Die sonstigen Vermögensgegenstände belaufen sich
+auf 1.444 T€ (Vorjahr: 1.319 T€) und enthalten mit
+1.238 T€ (Vorjahr: 1.174 T€) im Wesentlichen Bar-
+kautionen von Mietern.
+(3) Kassenbestand, Guthaben bei
+Kreditinstituten
+Zum
+31.12.2019
+betragen
+die
+liquiden
+Mittel
+8.358 T€ (Vorjahr: 7.783 T€).
+(4) Aktiver Rechnungsabgrenzungsposten
+Der aktive Rechnungsabgrenzungsposten enthält im
+Wesentlichen
+Bearbeitungsgebühren
+im
+Zusam-
+menhang mit der Aufnahme von Darlehen, die über
+die Laufzeit der Darlehen abgeschrieben werden
+und
+abgegrenzte
+Erschließungskosten
+für
+ein
+Erbbaugrundstück, die auf die Restlaufzeit des
+Erbbaurechts verteilt werden.
+
+12
+(5) Eigenkapital
+Am 31.12.2019 beträgt das gezeichnete Kapital
+79.718 T€ und ist in 79.718 Tsd. auf den Inhaber
+lautende nennwertlose Stückaktien eingeteilt.
+Durch die Beschlüsse der Hauptversammlung vom
+10.05.2017 wurde der Vorstand bis zum 09.05.2022
+ermächtigt, das Grundkapital der Gesellschaft mit
+Zustimmung des Aufsichtsrats um bis zu 7.972 T€
+(Genehmigtes Kapital I) zu erhöhen.
+Der Vorstand kann mit Zustimmung des Aufsichts-
+rats
+das
+Bezugsrecht
+der
+Aktionäre
+unter
+bestimmten Voraussetzungen ausschließen.
+Darüber hinaus wurde der Vorstand durch die
+Beschlüsse der Hauptversammlung vom 10.05.2017
+bis zum 09.05.2022 ermächtigt, das Grundkapital
+der Gesellschaft mit Zustimmung des Aufsichtsrats
+um bis zu 31.887 T€ (Genehmigtes Kapital II) zu
+erhöhen.
+Weiterhin wurde der Vorstand durch die Beschlüsse
+der Hauptversammlung vom 26.04.2018 ermächtigt,
+mit
+Zustimmung
+des
+Aufsichtsrats
+bis
+zum
+25.04.2023 auf den Inhaber und / oder auf den
+Namen
+lautende
+Options-
+und / oder
+Wandel-
+schuldverschreibungen
+(„Schuldverschreibungen")
+im Gesamtbetrag von bis zu 450.000 T€ mit oder
+ohne
+Laufzeitbegrenzung
+auszugeben
+und
+den
+Inhabern bzw. Gläubigern („Inhaber") der Schuld-
+verschreibungen Wandlungsrechte auf neue, auf
+den Inhaber lautende Stückaktien der Gesellschaft
+mit einem anteiligen Betrag des Grundkapitals von
+insgesamt bis zu 31.887 T€ nach näherer Maßgabe
+der
+Options-
+bzw.
+Wandelanleihebedingungen
+(„Anleihebedingungen") zu gewähren.
+Im
+Rahmen
+der
+Ausgabe
+der
+Options-
+bzw.
+Wandelschuldverschreibungen
+ist
+der
+Vorstand
+ermächtigt, das Grundkapital der Gesellschaft um
+bis zu 31.887 T€, eingeteilt in bis zu 31.887 Tsd. auf
+den
+Inhaber
+lautende
+Stückaktien,
+bedingt zu
+erhöhen (Bedingtes Kapital).
+Der Vorstand kann mit Zustimmung des Aufsichts-
+rats
+das
+Bezugsrecht
+der
+Aktionäre
+unter
+bestimmten Voraussetzungen für einen Teilbetrag
+ausschließen.
+Eine Inanspruchnahme der vorgenannten Ermäch-
+tigungen erfolgte bis zum Bilanzstichtag nicht.
+Die zum Vorjahresstichtag bestehenden anderen
+Gewinnrücklagen
+von
+11.333 T€
+wurden
+im
+Berichtsjahr vollständig entnommen, sodass der
+Posten
+zum
+31.12.2019
+keinen
+Saldo
+mehr
+ausweist.
+Darüber
+hinaus
+wurden
+zum
+Ende
+des
+Geschäftsjahres für die Verwendung des Gewinns
+eine Entnahme in Höhe von 10.726 T€ aus der
+Kapitalrücklage
+in
+den
+Bilanzgewinn
+getätigt.
+Entsprechend
+reduzierte
+sich
+der
+Posten
+zum
+Bilanzstichtag auf 394.796 T€ (Vorjahr: 405.522 T€).
+Die
+Entwicklung
+der
+einzelnen
+Posten
+des
+Eigenkapitals ist im Eigenkapitalspiegel dargestellt.
+(6) Rückstellungen
+Die Rückstellungen für Pensionen betragen zum
+Bilanzstichtag 5.211 T€ und liegen damit um 24 T€
+über dem Vorjahresansatz. Seit dem Geschäftsjahr
+2016 ist gem. § 253 Abs. 2 S. 1 HGB für die
+Abzinsung der durchschnittliche Marktzinssatz der
+vergangenen
+zehn
+Jahre
+heranzuziehen.
+Bei
+Anwendung des Durchschnittszinssatzes von sieben
+Jahren (1,69 %) entsprechend der alten Vorschrift
+hätte die Rückstellung zum Bilanzstichtag 5.678 T€
+betragen und somit um 467 T€ (Vorjahr: 554 T€)
+höher gelegen. Dieser Unterschiedsbetrag unterliegt
+einer Ausschüttungssperre, wenn der Bilanzgewinn
+und die frei verfügbaren Rücklagen in Summe
+diesen Unterschiedsbetrag nicht übersteigen.
+Der sich aufgrund der Erstanwendung des Bilanz-
+rechtsmodernisierungsgesetzes (BilMoG) ergebende
+Bewertungsunterschied
+betrug
+am
+01.01.2010
+insgesamt 1.184 T€.
+Gemäß der Regelung des
+Art. 67 Abs. 1
+Einführungsgesetz
+zum
+Handels-
+gesetzbuch (EGHGB) wurde von diesem Bewer-
+tungsunterschied im Berichtsjahr ein Betrag in Höhe
+von 79 T€ (= ein Fünfzehntel) zugeführt. Der zum
+31.12.2019 noch verbleibende Unterschiedsbetrag
+beläuft sich auf 395 T€. Die Verpflichtungen aus
+Pensionszusagen bestehen ausschließlich gegen-
+über Pensionsempfängern und Hinterbliebenen.
+Die Rückstellungen für Bergschäden haben sich
+gegenüber dem Vorjahr im Saldo um 150 T€ auf
+2.627 T€
+erhöht.
+Die
+Steigerung
+resultiert
+im
+Wesentlichen
+aus
+Zinseffekten
+der
+bereits
+im
+Vorjahr
+enthaltenen
+Beträge
+aufgrund
+von
+Laufzeitveränderungen sowie Zinssatzänderungen,
+
+13
+die im Zinsaufwand 147 T€ (Vorjahr: Zinsertrag
+84 T€) i. H. v. ausgewiesen sind.
+Die sonstigen Rückstellungen setzen sich wie folgt
+zusammen:
+31.12.2019
+31.12.2018
+T€
+T€
+Ausstehende Rechnungen
+2.652
+2.705
+Rückstellungen für Personalaufwand
+1.874
+1.661
+Maklerhonorare
+419
+722
+Satzungsgebundene und gesetzliche
+Verpflichtungen (AR-Vergütung,
+Prüfungsaufwendungen etc.)
+484
+432
+Rechts- und Beratungsaufwand
+283
+204
+Übrige
+396
+466
+Gesamt
+6.108
+6.190
+Die Rückstellungen für Personalaufwand enthalten
+im Wesentlichen mit 1.250 T€ (Vorjahr: 1.098 T€)
+kurz- und langfristige Vorstandstantiemen sowie mit
+421 T€ (Vorjahr: 398 T€) Tantiemeverpflichtungen
+gegenüber Mitarbeitern.
+Die
+Rückstellung
+für
+ausstehende
+Rechnungen
+beläuft sich auf 2.652 T€ (Vorjahr: 2.705 T€). Sie
+resultiert insbesondere aus im Geschäftsjahr 2019
+durchgeführten
+Instandhaltungs-
+und
+Moderni-
+sierungsmaßnahmen,
+die
+am
+Bilanzstichtag
+erbracht, aber noch nicht abgerechnet waren, sowie
+aus noch ausstehenden Rechnungen für Betriebs-
+kosten des Berichtsjahres.
+Die Rückstellungen für satzungsgebundene und
+gesetzliche Verpflichtungen enthalten in Höhe von
+321 T€ (Vorjahr: 317 T€) die im Geschäftsjahr 2020
+fällige
+Vergütung
+des
+Aufsichtsrats
+für
+das
+Geschäftsjahr 2019.
+Die
+übrigen
+Rückstellungen
+enthalten
+Rückerstattungsbeträge
+an
+Mieter
+aus
+noch
+abzurechnenden Betriebskosten für das Geschäfts-
+jahr 2019 in Höhe von 272 T€ (Vorjahr: 349 T€) und
+Rückstellungen für Kosten des Geschäftsberichts in
+Höhe von 103 T€ (Vorjahr: 80 T€).
+(7) Verbindlichkeiten
+Die
+gesamten
+Verbindlichkeiten
+in
+Höhe
+von
+695.712 T€
+hatten
+am
+31.12.2019
+folgende
+Restlaufzeiten:
+bis
+über
+Summe
+1 Jahr
+1 Jahr
+2 bis 5 Jahre
+über 5 Jahre
+T€
+T€
+T€
+T€
+T€
+Verbindlichkeiten gegenüber
+Kreditinstituten
+689.533
+70.042
+619.491
+263.624
+355.867
+(Vorjahr)
+(651.136)
+(22.813)
+(628.323)
+(299.872)
+(328.451)
+Verbindlichkeiten aus
+Lieferungen und Leistungen
+391
+351
+40
+40
+0
+(Vorjahr)
+(229)
+(190)
+(39)
+(39)
+(0)
+Sonstige Verbindlichkeiten
+5.788
+4.367
+1.421
+25
+1.396
+(Vorjahr)
+(9.371)
+(8.168)
+(1.203)
+(29)
+(1.174)
+Gesamt
+695.712
+74.760
+620.952
+263.689
+357.263
+(Vorjahr)
+(660.736)
+(31.171)
+(629.565)
+(299.940)
+(329.625)
+davon
+Die Verbindlichkeiten gegenüber Kreditinstituten
+betreffen mit 688.455 T€ (Vorjahr: 650.041 T€) die
+Darlehen, die zur Finanzierung unserer Immobilien-
+investitionen aufgenommen wurden, sowie mit
+1.077 T€ (Vorjahr: 1.095 T€) abgegrenzte Zins- und
+Tilgungsleistungen.
+Mit
+Ausnahme
+des
+unbesicherten
+Schuldscheindarlehens mit einem Volumen von
+75,0 Mio. € sind sämtliche Darlehen grundbuchlich 
+besichert.
+Die sonstigen Verbindlichkeiten setzen sich zum
+31.12.2019 wie folgt zusammen:
+31.12.2019
+31.12.2018
+T€
+T€
+Kaufpreiseinbehalte
+3.152
+3.241
+Mietkautionen
+1.396
+1.174
+Umsatzsteuerzahllast
+866
+1.123
+Grunderwerbsteuer
+4
+3.411
+Übrige
+370
+422
+Gesamt
+5.788
+9.371
+(8)
+Passiver Rechnungsabgrenzungsposten
+Dieser Posten enthält im Wesentlichen Mietvoraus-
+zahlungen und Baukostenzuschüsse, die auf die
+vereinbarte Vertragslaufzeit zu verteilen sind, sowie
+im Dezember 2019 eingegangene Mietzahlungen für
+den Monat Januar 2020.
+Erläuterungen zur Gewinn- und
+Verlustrechnung
+(9)
+Erlöse aus der Grundstücks- und
+Gebäudebewirtschaftung
+Die Erlöse aus Mieten und Pachten betragen
+85.059 T€ und liegen damit um 1.657 T€ über dem
+Vorjahreswert. Der Anstieg ergibt sich hauptsächlich
+aus den Objektzugängen des laufenden Jahres und
+des Vorjahres, die sich mit 2.739 T€ ausgewirkt
+haben. Dagegen führten Immobilienverkäufe zu
+Mindermieteinnahmen von 911 T€. Durch Verän-
+derungen im Leerstand, Neuvermietungen sowie
+aus Index- und Staffelmietvereinbarungen vermin-
+derten sich die Mieterlöse im Saldo um 171 T€.
+Die
+Erlöse
+aus
+der
+Weiterbelastung
+von
+Nebenkosten an Mieter nahmen gegenüber dem
+Vorjahr um 672 T€ zu und betragen 14.141 T€. Die
+Zunahme resultiert mit 293 T€ aus der Veränderung
+im
+Objektbestand.
+Bei
+den
+übrigen
+Bestands-
+
+14
+immobilien erhöhten sich die Erträge aus der
+Weiterbelastung von Nebenkosten um 379 T€.
+(10)
+Sonstige betriebliche Erträge
+Die
+übrigen
+sonstigen
+betrieblichen
+Erträge
+betragen im abgelaufenen Geschäftsjahr 1.421 T€
+und gliedern sich wie folgt:
+2019
+2018
+T€
+T€
+Erträge aus
+Vereinnahmungen von Entschädigungen
+und Erstattungen
+410
+787
+Weiterbelastungen an Mieter und Pächter
+302
+156
+Rückstellungsauflösung
+363
+99
+Sonstige Erträge
+346
+110
+Gesamt
+1.421
+1.152
+Periodenfremde Erträge betreffen im Wesentlichen
+die Auflösung von Rückstellungen.
+(11)
+Aufwendungen für Grundstücks- und
+Gebäudebewirtschaftung
+Die
+Aufwendungen
+für
+Grundstücks-
+und
+Gebäudebewirtschaftung erhöhten sich gegenüber
+dem Vorjahr um 993 T€.
+Die
+laufenden
+Betriebsaufwendungen
+stiegen
+hauptsächlich
+infolge
+von
+Objektzugängen
+um
+313 T€ auf 18.131 T€. Sie umfassen unter anderem
+den Aufwand für Energie, Grundbesitzabgaben,
+Versicherungsprämien und Erbbauzinsen. Darüber
+hinaus enthält der Posten Grundsteuern in Höhe
+von
+3.093 T€
+(Vorjahr:
+2.952 T€).
+Die
+Aufwendungen sind auf Basis der mietvertraglichen
+Vereinbarungen zum überwiegenden Teil an die
+Mieter weiterbelastbar.
+Der
+Aufwand
+für
+Grundstücks-
+und
+Gebäude-
+instandhaltung
+erhöhte
+sich
+im
+abgelaufenen
+Geschäftsjahr um 680 T€ und beträgt 6.546 T€.
+(12)
+Personalaufwand
+Der Personalaufwand beträgt insgesamt 4.969 T€
+und erhöhte sich damit gegenüber dem Vorjahr um
+295 T€.
+Die Löhne und Gehälter erhöhten sich dabei um
+466 T€ auf 4.414 T€. Die sozialen Abgaben und
+Aufwendungen
+für
+Altersversorgung
+und
+für
+Unterstützung reduzierten sich im Vergleich zum
+Vorjahr um 171 T€ auf 555 T€. Während im Vorjahr
+auf
+die
+Aufwendungen
+für
+Altersversorgung
+Zuführungen
+zu
+den
+Pensionsrückstellungen
+in
+Höhe von 234 T€ entfielen, war im Berichtsjahr ein
+Auflösungsbetrag von 42 T€ zu erfassen, der in den
+sonstigen betrieblichen Erträgen enthalten ist.
+(13)
+Abschreibungen auf immaterielle
+Vermögensgegenstände des
+Anlagevermögens und Sachanlagen
+Die Abschreibungen erhöhten sich im Berichtsjahr
+um
+2.611 T€
+auf
+37.231 T€.
+Aufgrund
+von
+Veränderungen im Objektbestand erhöhten sich die
+Abschreibungen um 951 T€. Gleichzeitig erhöhten
+sich die außerplanmäßigen Abschreibungen des
+Berichtsjahres um 1.611 T€. Die außerplanmäßigen
+Abschreibungen des Berichtsjahres betreffen zwei
+Immobilien in Koblenz und Mosbach und betragen
+zusammen 2.728 T€ (Vorjahr 1.117 T€).
+Die
+Abschreibungen
+des
+Geschäftsjahres
+auf
+immaterielle
+Vermögensgegenstände
+und
+Sach-
+anlagen gliedern sich wie folgt:
+2019
+2018
+T€
+T€
+Immaterielle Vermögensgegenstände
+80
+42
+Sachanlagen
+37.151
+34.578
+Gesamt
+37.231
+34.620
+(14)
+Sonstige betriebliche Aufwendungen
+Die
+sonstigen
+betrieblichen
+Aufwendungen
+betragen
+im
+Berichtsjahr
+3.112 T€
+(Vorjahr:
+3.143 T€).
+Die in den sonstigen betrieblichen Aufwendungen
+enthaltenen
+Honorare
+für
+den
+Abschlussprüfer
+(123 T€; Vorjahr: 109 T€) betreffen wie im Vorjahr
+ausschließlich Abschlussprüferleistungen.
+Des Weiteren ist in den sonstigen betrieblichen
+Aufwendungen
+mit
+79 T€
+(Vorjahr:
+79 T€)
+die
+Auflösung des Bewertungsunterschieds bei den
+Pensionsverpflichtungen
+der
+Gesellschaft
+nach
+Art. 67 Abs. 1 EGHGB aufgrund der Erstanwendung
+des BilMoG zum 01.01.2010 enthalten.
+In
+Höhe
+von
+31 T€
+werden
+in
+dem
+Posten
+Buchverluste aus der Veräußerung einer Immobilie
+in Leverkusen ausgewiesen.
+(15)
+Finanzergebnis
+Das
+Finanzergebnis
+enthält
+im
+Berichtsjahr
+ausschließlich Zinsaufwendungen. Sonstige Zinsen
+und ähnliche Erträge fielen in 2019 nicht an
+(Vorjahr: 84 T€).
+
+15
+Die Zinsen und ähnlichen Aufwendungen setzen sich
+wie folgt zusammen:
+2019
+2018
+T€
+T€
+Kreditzinsen einschl. Aufwendungen
+aus Zinssicherungsgeschäften
+14.576
+14.835
+Zinsanteil der Zuführungen zu
+Pensionsrückstellungen
+434
+441
+Zinsanteil der Zuführungen zu den
+Rückstellungen für Bergschäden
+147
+0
+Sonstige
+67
+83
+Gesamt
+15.224
+15.359
+Erläuterungen zur
+Kapitalflussrechnung
+In der Kapitalflussrechnung wird die Entwicklung
+der Zahlungsströme getrennt nach Mittelzuflüssen
+und
+Mittelabflüssen
+aus
+der
+laufenden
+Geschäftstätigkeit, der Investitionstätigkeit und der
+Finanzierungstätigkeit ausgewiesen.
+Der Finanzmittelfonds beinhaltet Kassenbestände
+und Bankguthaben mit einer Laufzeit von weniger
+als drei Monaten. Der Unterschiedsbetrag des
+Finanzmittelfonds des Vorjahres zum Bilanzposten
+„Kassenbestand,
+Guthaben
+bei
+Kreditinstituten“
+i. H. v. 4,2 Mio. € resultierte aus einem in diesem
+Bilanzposten
+enthaltenen
+zugriffsbeschränkten
+Bankkonto,
+das
+zur
+Ablösung
+einer
+grundpfandrechtlichen Besicherung eines in 2009
+zur
+Finanzierung
+der
+mittlerweile
+veräußerten
+Immobilie
+in
+Duisburg,
+Kaßlerfelder
+Kreisel,
+aufgenommenen Darlehens an die finanzierende
+Bank verpfändet wurde. Das Darlehen wurde im
+Laufe des Berichtsjahres abgelöst, sodass zum
+Bilanzstichtag kein zugriffsbeschränktes Vermögen
+mehr bestand.
+Zum 31.12.2019 erhöhte sich der Finanzmittel-
+bestand
+im
+Vergleich
+zum
+Vorjahr
+unter
+Berücksichtigung
+des
+verfügungsbeschränkten
+Bankkontos um 0,6 Mio. € auf 8,4 Mio. €.
+Der Cashflow aus der laufenden Geschäftstätigkeit
+beträgt wie im Vorjahr 66,4 Mio. €.
+Der Cashflow aus der Investitionstätigkeit beträgt
+−52,9 Mio. € und enthält hauptsächlich Mittel-
+abflüsse aus den Akquisitionen des Geschäftsjahres
+in Höhe von 54,5 Mio. €.
+Die Aus- und Einzahlungen aus der Investitions-
+tätigkeit
+decken
+sich
+nicht
+mit
+den
+bei
+der
+Entwicklung
+des
+Anlagevermögens
+gezeigten
+Zu-
+bzw.
+Abgängen.
+Grund
+hierfür
+sind
+im
+Wesentlichen
+Kaufpreiseinbehalte
+und
+zum
+jeweiligen Stichtag noch nicht fällige Zahlungen für
+Grunderwerbsteuer.
+Der Cashflow aus der Finanzierungstätigkeit beträgt
+−8,7 Mio. €. Dabei stehen den Mittelzuflüssen aus 
+dem
+Abruf
+von
+Darlehen
+(60,6 Mio. €)
+Mittelabflüsse
+aus
+der
+Dividendenzahlung
+(36,7 Mio. €) für das Jahr 2018 sowie aus den Zins-
+und Tilgungszahlungen (36,9 Mio. €) für die zur
+anteiligen
+Finanzierung
+unserer
+Immobilien
+aufgenommenen Darlehen gegenüber.
+Aus abgeschlossenen Kreditverträgen stehen der
+Gesellschaft zum Abschlussstichtag darüber hinaus
+noch nicht abgerufene Finanzierungsmittel in Höhe
+von 71,4 Mio. € zur Verfügung. Die Gelder können
+kurzfristig abgerufen werden.
+Sonstige Erläuterungen und
+Pflichtangaben
+Sonstige finanzielle Verpflichtungen
+Aus beurkundeten Grundstückskaufverträgen für
+Immobilien in Aachen und Bonn resultieren am
+31.12.2019 Verpflichtungen zur Kaufpreiszahlung
+von insgesamt 54,1 Mio. €.
+Des Weiteren bestehen nach dem Bilanzstichtag
+sonstige
+finanzielle
+Verpflichtungen
+aus
+drei
+langfristigen Erbbaurechtsverträgen. Diese stellen
+sich wie folgt dar:
+Vertragslaufzeit
+Zahlungs-
+Weiter-
+bis
+verpflichtung
+belastung
+(in T€ p.a.)
+(in T€ p.a.)
+30. Juni 2023 (zzgl. 3 x 10 Jahre
+Verlängerungsoption)
+291
+0
+31. Dezember 2034 (zzgl. 2 x 10
+Jahre Verlängerungsoption)
+225
+225
+31. März 2060
+132
+0
+Gesamt
+648
+225
+Weitere finanzielle Verpflichtungen, die für die
+Beurteilung der Finanzlage der Gesellschaft von
+wesentlicher
+Bedeutung
+sind,
+bestehen
+zum
+31.12.2019 nicht.
+Vergütung von Vorstand und Aufsichtsrat
+Die Grundzüge des Vergütungssystems von Vorstand
+und Aufsichtsrat sind ausführlich im Vergütungs-
+
+16
+bericht, der Bestandteil des im Geschäftsbericht
+enthaltenen zusammengefassten Lageberichts ist,
+dargestellt.
+Die Gesamtbezüge der Mitglieder des Vorstands
+betrugen
+im
+Geschäftsjahr
+1.356 T€
+(Vorjahr:
+1.348 T€).
+Sie
+beinhalten
+kurzfristig
+fällige
+Leistungen in Höhe von 1.056 T€ (Vorjahr: 1.048 T€)
+und langfristig aktienbasierte Vergütungen in Höhe
+von 300 T€ (Vorjahr: 300 T€). Die Bezüge der
+Mitglieder des Aufsichtsrats sind kurzfristig fällig
+und betrugen für das Geschäftsjahr 321 T€ (Vorjahr:
+317 T€).
+Die Gesamtbezüge ehemaliger Vorstandsmitglieder
+der Gesellschaft und ihrer Hinterbliebenen beliefen
+sich im Berichtsjahr auf 272 T€. Die für diesen
+Personenkreis gebildeten Rückstellungen betragen
+3.097 T€.
+Der
+sich
+für
+ehemalige
+Vorstands-
+mitglieder und ihre Hinterbliebenen aufgrund der
+Erstanwendung des BilMoG ergebende und zum
+31.12.2019 noch nicht erfasste Bewertungsunter-
+schied beträgt 239 T€.
+Kredite
+wurden
+Vorstandsmitgliedern
+vom
+Unternehmen nicht gewährt. Kein Mitglied des
+Vorstands
+hat
+im
+abgelaufenen
+Geschäftsjahr
+Leistungen oder entsprechende Zusagen von einem
+Dritten
+im
+Hinblick
+auf
+seine
+Tätigkeit
+als
+Vorstandsmitglied erhalten.
+Mitarbeiterzahl
+Die Mitarbeiterzahl (ohne Vorstand) betrug im
+Jahresdurchschnitt:
+2019
+2018
+kfm. Objektverwaltung
+14
+13
+techn. Objektverwaltung
+6
+6
+Administration
+17
+16
+Gesamt
+37
+35
+Darüber hinaus hat die Gesellschaft im Berichtsjahr
+zwei Auszubildende beschäftigt.
+Derivative Finanzinstrumente
+Die Gesellschaft hält zum 31.12.2019 die nachfol-
+gend aufgeführten derivativen Finanzinstrumente:
+Art
+Laufzeit
+bis
+Nominalwert
+T€
+beizulegender
+Zeitwert T€
+Zinsswap
+Nov. 21
+15.533
+1.110
+15.533
+1.110
+Die Ermittlung des beizulegenden Zeitwerts des
+Zinsderivats erfolgte zum Marktwert, der zum
+Bilanzstichtag vom entsprechenden Kreditinstitut
+mitgeteilt wurde. Sie wurde unter Anwendung
+anerkannter mathematischer Verfahren auf der
+Basis der zum Berechnungszeitpunkt vorliegenden,
+sich
+kontinuierlich
+verändernden
+Marktdaten
+ermittelt
+und
+gibt
+die
+Einschätzung
+der
+Marktgegebenheiten
+zum
+Berechnungszeitpunkt
+wieder. Das hiermit im Zusammenhang stehende
+variabel verzinsliche Darlehen wird durch einen
+Zinsswap mit festem Zinssatz gegen das Risiko von
+Zinssteigerungen abgesichert.
+Die
+Restvaluta
+des
+der
+Swap-Sicherung
+zugrundeliegenden
+Kreditgeschäfts
+betrug
+am
+31.12.2019 ebenfalls 15,5 Mio. €. Die Laufzeit des
+Darlehens und des Swaps stimmen exakt überein.
+Von daher gleichen sich für die gesamte Dauer der
+Vertragsbeziehungen
+die
+Zahlungsströme
+aus
+Grund- und Sicherungsgeschäft vollständig aus.
+Die Darlehensverbindlichkeit und das Swapgeschäft
+werden im Rahmen eines Micro-Hedges zu einer
+Bewertungseinheit
+zusammengefasst.
+Dement-
+sprechend wird für das derivative Finanzinstrument
+keine
+Rückstellung
+für
+drohende
+Verluste
+ausgewiesen.
+Die
+Wirksamkeit
+der
+Sicherungs-
+beziehung
+wurde
+anhand
+der
+Dollar-Offset-
+Methode festgestellt.
+Mitteilungen über das Bestehen von
+Beteiligungen
+Gemäß § 11 Abs. 4 REIT-Gesetz darf zur Erhaltung
+des REIT-Status kein Anleger direkt 10 % oder mehr
+der Aktien oder Aktien in einem Umfang halten,
+dass er über 10 % oder mehr der Stimmrechte
+verfügt. Zum Bilanzstichtag am 31.12.2019 waren
+der Gesellschaft keine Aktionäre bekannt, deren
+direkter Anteil 10 % oder mehr des Grundkapitals
+beträgt.
+Gemäß § 160 Abs. 1 Nr. 8 AktG sind Angaben über
+das Bestehen von Beteiligungen zu machen, die
+nach § 33 Abs. 1 oder Abs. 2 des Wertpapier-
+handelsgesetzes (WpHG) der Gesellschaft mitgeteilt
+worden sind.
+Der folgenden Tabelle können die zum 02.03.2020
+meldepflichtigen
+Beteiligungen
+entnommen
+werden, die der Gesellschaft mitgeteilt wurden. Die
+Angaben
+wurden
+jeweils
+der
+zeitlich
+letzten
+
+17
+Mitteilung
+eines
+Meldepflichtigen
+an
+die
+Gesellschaft entnommen.
+Sämtliche Veröffentlichungen durch die Gesellschaft
+über Mitteilungen von Beteiligungen im Berichtsjahr
+und darüber hinaus bis zum 02.03.2020 stehen auf
+der Internetseite der HAMBORNER REIT AG im
+Bereich
+Investor
+Relations / Mitteilungen
+zur
+Verfügung. Es wird darauf hingewiesen, dass die
+Angaben zu der Beteiligung in Prozent und in
+Stimmrechten
+aufgrund
+nicht
+meldepflichtiger
+Erwerbe oder Verkäufe von Anteilen bzw. aufgrund
+von nicht ausgeübten Bezugsrechten im Rahmen
+von Kapitalerhöhungen zwischenzeitlich überholt
+sein können.
+Indirekte Beteiligungen am Kapital der Gesellschaft,
+die mittelbar 10 % der Stimmrechte erreichen oder
+überschreiten, wurden zum 31.12.2019 mit einem
+Stimmrechtsanteil
+von
+12,45 %
+von
+der
+RAG-
+Stiftung, Essen, gehalten.
+Nr.
+Meldepflichtiger
+Stimmrechte i.S.d.
+§§ 33, 34 WpHG
+(neu)
+Stimmrechte über
+Instrumente i.S.d.
+§ 38 Abs. 1 WpHG
+Stimmrechts-
+anteil (neu)
+in %
+Berührte Schwelle
+Datum der
+Schwellenberührung
+Zurechnung von
+Stimmrechten i.S.d.
+§ 34 WpHG
+(neu)
+1
+Herr Prof. Dr. Theo Siegert,
+Deutschland
+2.385.000
+2,99
+Unterschreitung
+3 %
+26.03.2019
+ja: 2,99 %
+2
+RAG-Stiftung,
+Essen, Deutschland
+9.926.280
+12,45
+Überschreitung
+10 %
+27.09.2016
+ja: 2,67 %
+3
+BNP Paribas Investment
+Partners S.A.,
+Paris, Frankreich
+0
+0,00
+Unterschreitung
+3 %
+04.02.2020
+4
+Königreich Belgien,
+Brüssel, Belgien
+3.944.369
+4,95
+Unterschreitung
+5 %
+17.02.2017
+ja: 4,95 %
+5
+BlackRock, Inc.,
+Wilmington, DE, USA
+3.991.934
+155.387
+5,20
+Überschreitung
+5 %
+19.01.2018
+ja: 5,01 %
+Geschäfte mit nahe stehenden Unternehmen
+und Personen im Geschäftsjahr 2019
+Berichtspflichtige
+Vorgänge
+mit
+nahe
+stehenden
+Unternehmen und Personen hat es im Geschäftsjahr
+2019 nicht gegeben.
+Erklärung zu den Empfehlungen der
+Regierungskommission Deutscher Corporate
+Governance Kodex gemäß § 161 AktG
+Im November 2019 haben Vorstand und Aufsichtsrat
+eine aktualisierte Entsprechenserklärung abgegeben
+und im Internet unter www.hamborner.de im Bereich
+HAMBORNER REIT AG / Corporate Governance /
+Erklärung
+zur
+Unternehmensführung /dauerhaft
+öffentlich zugänglich gemacht. Die Entsprechens-
+erklärung
+ist
+mit
+vollständigem
+Wortlaut
+im
+Geschäftsbericht 2019 der Gesellschaft veröffentlicht.
+Vorgänge von besonderer Bedeutung nach dem
+Schluss des Geschäftsjahrs
+Am 01.01.2020 erfolgte der Besitzübergang einer
+Büroimmobilie
+in
+Neu-Isenburg.
+Bei
+jährlichen
+Mieteinnahmen
+von
+0,9 Mio. €
+beläuft
+sich
+der
+Kaufpreis auf 16,1 Mio. €.
+Am 14.02.2020 ist eine Büroimmobilie in Bonn zu
+einem Kaufpreis in Höhe von 25,8 Mio. € in den Besitz
+der
+Gesellschaft
+übergegangen.
+Die
+jährlichen
+Mieteinnahmen belaufen sich auf 1,4 Mio. €.
+
+18
+Organe der Gesellschaft und deren Mandate
+Aufsichtsrat
+Dr. Eckart John von Freyend, Bad Honnef
+Ehrenvorsitzender
+Bärbel Schomberg, Königstein im Taunus
+Vorsitzende
+Geschäftsführende Gesellschafterin der Schomberg & Co.
+Real Estate Consulting GmbH
+Externe Mandate:
+DeWert Deutsche Wertinvestment GmbH *)
+Dr. Andreas Mattner, Hamburg
+Stellvertretender Vorsitzender
+Geschäftsführer der Verwaltung ECE Projektmanagement G.m.b.H.
+Externe Mandate:
+EUREF AG *)(stv. Vorsitzender)
+Claus-Matthias Böge, Hamburg
+Geschäftsführer der CMB Böge Vermögensverwaltung GmbH
+Externe Mandate:
+Bijou Brigitte modische Accessoires AG *)
+Rolf Glessing, Illerkirchberg
+Geschäftsführender Gesellschafter der
+Glessing Management und Beratung GmbH
+Externe Mandate:
+FCF Fox Corporate Finance GmbH **)
+Wohninvest Holding GmbH **)
+Ulrich Graebner, Bad Homburg v. d. H.
+(ab 07.05.2019)
+Geschäftsführer der Houlihan Lokey GmbH
+Externe Mandate:
+Gepaco S.A. **)
+Christel Kaufmann-Hocker, Düsseldorf
+Selbstständige Unternehmensberaterin
+Externe Mandate:
+Stiftung Mercator GmbH**)
+Dr. Helmut Linssen, Issum
+(bis 07.05.2019)
+Mitglied des Vorstands der RAG-Stiftung (bis 01.04.2019)
+Externe Mandate:
+RAG Aktiengesellschaft*) (bis 04.04.2019)
+RAG Deutsche Steinkohle AG*) (bis 04.04.2019)
+Vivawest GmbH**) (Vorsitzender) (bis 09.04.2019)
+Vivawest Wohnen GmbH**) (Vorsitzender) (bis 09.04.2019)
+Degussa Bank AG *) (bis 09.05.2019)
+Signa Prime Selection AG **) (bis 18.07.2019)
+Mechthilde Dordel***), Oberhausen
+Kfm. Angestellte der HAMBORNER REIT AG
+Dieter Rolke***), Oberhausen
+Kfm. Angestellter der HAMBORNER REIT AG
+Wolfgang Heidermann***),Raesfeld
+Techn. Angestellter der HAMBORNER REIT AG
+Ausschüsse des Aufsichtsrats
+Präsidialausschuss
+Bärbel Schomberg (Vorsitzende)
+Claus-Matthias Böge
+Ulrich Graebner (ab 07.05.2019)
+Dr. Helmut Linssen (bis 07.05.2019)
+Dr. Andreas Mattner
+Prüfungsausschuss
+Claus-Matthias Böge (Vorsitzender)
+Rolf Glessing
+Wolfgang Heidermann
+Christel Kaufmann-Hocker
+Nominierungsausschuss
+Bärbel Schomberg (Vorsitzende)
+Rolf Glessing
+Ulrich Graebner (ab 07.05.2019)
+Dr. Helmut Linssen (bis 07.05.2019)
+Dr. Andreas Mattner
+Vorstand
+Niclas Karoff, Berlin (ab 01.03.2020)
+(Vorsitzender)
+Vorstand für Unternehmensstrategie / Digitalisierung, 
+Portfoliomanagement, Risikomanagement / Datenschutz,
+Transaktionsmanagement, Controlling,
+Investor Relations, Public Relations, Personal, Revision
+Dr. Rüdiger Mrotzek, Hilden (bis 28.01.2020)
+Vorstand für Finanz- / Rechnungswesen, Controlling, Steuern,
+Portfoliomanagement, Transaktionsmanagement,
+Personal, IT, Risikomanagement und -controlling, Beteiligungen
+Hans Richard Schmitz, Duisburg
+Bis 29.02.2020 Vorstand für Assetmanagement,
+Technik / Instandhaltung, Recht, Investor Relations / Public Relations,
+Corporate Governance, Versicherungen, Corporate Services
+Ab 01.03.2020 Vorstand für Assetmanagement,
+Instandhaltung / Technik, Finanz- und Rechnungswesen, Steuern, 
+Recht / Corporate Governance, Investor Relations, IT, Versicherungen, 
+Corporate Services, Beteiligungen
+*)
+Mitgliedschaft in anderen gesetzlich zu bildenden Aufsichtsräten
+**) Mitgliedschaft in vergleichbaren in- und ausländischen
+Kontrollgremien
+***) Aufsichtsratsmitglied der Arbeitnehmer
+
+19
+Vorschlag zur Gewinnverwendung
+Der Vorstand schlägt vor, den Bilanzgewinn in Höhe von 37.467.293,15 € zur Ausschüttung einer Dividende in Höhe
+von 0,47 € pro Aktie zu verwenden. Der Bilanzgewinn setzt sich wie folgt zusammen:
+Jahresüberschuss 2019
+€ 15.407.790,40
+Entnahme aus der Kapitalrücklage
+€ 10.726.152,22
+Entnahme aus den anderen Gewinnrücklagen
+€ 11.333.350,53
+Bilanzgewinn am 31.12.2019
+€ 37.467.293,15
+Duisburg, den 2. März 2020
+Der Vorstand
+Niclas Karoff
+Hans Richard Schmitz
+
+20
+VERSICHERUNG DER GESETZLICHEN VERTRETER
+Wir versichern nach bestem Wissen, dass gemäß den anzuwendenden Rechnungslegungsgrundsätzen der
+Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage
+der Gesellschaft vermittelt und im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die
+Lage der Gesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt
+wird und dass die wesentlichen Chancen und Risiken der voraussichtlichen Entwicklung der Gesellschaft beschrieben
+sind.
+Duisburg, den 2. März 2020
+Der Vorstand
+Niclas Karoff
+Hans Richard Schmitz
+
+21
+Der nachfolgend wiedergegebene uneingeschränkte Bestätigungsvermerk des Abschlussprüfers zum Jahresabschluss
+und zum Lagebericht für das Geschäftsjahr 2019 bezieht sich auf den hier vorliegenden Jahresabschluss sowie auf
+den
+Lagebericht,
+der
+in
+unserem
+Geschäftsbericht
+über
+das
+Geschäftsjahr
+2019
+abgedruckt
+ist.
+Der
+Bestätigungsvermerk hat folgenden Inhalt:
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+An die HAMBORNER REIT AG, Duisburg
+VERMERK ÜBER DIE PRÜFUNG DES JAHRESABSCHLUSSES UND DES LAGEBERICHTS
+Prüfungsurteile
+Wir haben den Jahresabschluss der HAMBORNER REIT AG, Duisburg, – bestehend aus der Bilanz zum
+31. Dezember 2019, der Gewinn- und Verlustrechnung, der Kapitalflussrechnung und dem Eigenkapitalspiegel sowie
+dem Anhang für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2019, einschließlich der Darstellung der
+Bilanzierungs- und Bewertungsmethoden – geprüft. Darüber hinaus haben wir den Lagebericht der HAMBORNER
+REIT AG, Duisburg, für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2019 geprüft. Die Erklärung zur
+Unternehmensführung gemäß § 289f HGB, auf die im Lagebericht verwiesen wird, haben wir in Einklang mit den
+deutschen gesetzlichen Vorschriften nicht inhaltlich geprüft.
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+•
+entspricht
+der
+beigefügte
+Jahresabschluss
+in
+allen
+wesentlichen
+Belangen
+den
+deutschen,
+für
+Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen
+Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-
+und Finanzlage der Gesellschaft zum 31. Dezember 2019 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar
+bis zum 31. Dezember 2019 und
+•
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen
+wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen
+gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar. Unser
+Prüfungsurteil zum Lagebericht erstreckt sich nicht auf den Inhalt der oben genannten Erklärung zur
+Unternehmensführung.
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die
+Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+Grundlage für die Prüfungsurteile
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB und der
+EU-Abschlussprüferverordnung (Nr. 537/2014; im Folgenden „EU-APrVO“) unter Beachtung der vom Institut der
+Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt.
+Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des
+Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weiter-
+gehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den europarechtlichen
+sowie den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen
+Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Darüber hinaus erklären wir gemäß Artikel 10
+Abs. 2 Buchst. f) EU-APrVO, dass wir keine verbotenen Nichtprüfungsleistungen nach Artikel 5 Abs. 1 EU-APrVO
+erbracht haben. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet
+sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+22
+Besonders wichtige Prüfungssachverhalte in der Prüfung des Jahresabschlusses
+Besonders wichtige Prüfungssachverhalte sind solche Sachverhalte, die nach unserem pflichtgemäßen Ermessen am
+bedeutsamsten in unserer Prüfung des Jahresabschlusses für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember
+2019 waren. Diese Sachverhalte wurden im Zusammenhang mit unserer Prüfung des Jahresabschlusses als Ganzem
+und bei der Bildung unseres Prüfungsurteils hierzu berücksichtigt; wir geben kein gesondertes Prüfungsurteil zu
+diesen Sachverhalten ab.
+Nachfolgend stellen wir mit der Bewertung der Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich
+der Bauten auf fremden Grundstücken und der Ermittlung der finanziellen Leistungsindikatoren Net Asset Value
+(NAV) und NAV je Aktie den aus unserer Sicht besonders wichtigen Prüfungssachverhalt dar.
+Unsere Darstellung dieses besonders wichtigen Prüfungssachverhalts haben wir wie folgt strukturiert:
+a)
+Sachverhaltsbeschreibung
+(einschließlich
+Verweis
+auf
+zugehörige
+Angaben
+im
+Jahresabschluss
+und
+Lagebericht)
+b)
+Prüferisches Vorgehen
+Bewertung der Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden
+Grundstücken und Ermittlung der finanziellen Leistungsindikatoren Net Asset Value (NAV) und NAV je Aktie
+a)
+Im
+Jahresabschluss
+der
+HAMBORNER
+REIT-AG
+werden
+unter
+dem
+Bilanzposten
+„Grundstücke,
+grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken“ insgesamt bebaute
+Grundstücke (Immobilien) in Höhe von Mio. EUR 1.193,3 ausgewiesen; davon entfallen Mio. EUR 1.190,6 auf den
+vermieteten Immobilienbestand und Mio. EUR 2,7 auf das durch die HAMBORNER REIT AG selbstgenutzte
+Verwaltungsgebäude in Duisburg. In der Gewinn- und Verlustrechnung für das Geschäftsjahr 2019 wurden
+außerplanmäßige Abschreibungen in Höhe von Mio. EUR 2,7 vorgenommen. Die Bewertung der Immobilien erfolgt
+zu Anschaffungs- oder Herstellungskosten – und sofern abnutzbar – vermindert um planmäßige lineare
+Abschreibungen entsprechend der betriebsgewöhnlichen Nutzungsdauer. Außerplanmäßige Abschreibungen werden
+vorgenommen, sofern der beizulegende Wert, ermittelt auf Basis der Zeitwerte vor Abzug von Transaktionskosten
+eines fiktiven Erwerbs (Gross Capital Value), den Buchwert unterschreitet und der sich bei planmäßiger Abschreibung
+innerhalb eines Zeitraums von fünf Jahren ergebende hypothetische Buchwert ebenfalls unterschritten wird. Bei
+Wegfall des Grundes der Wertminderung wird eine Zuschreibung auf die fortgeführten Anschaffungskosten
+vorgenommen.
+Der Zeitwert der vermieteten Immobilien („Als Finanzinvestition gehaltene Immobilien“ im Sinne des IAS 40) fließt
+auch in die im Lagebericht erläuterten und analysierten Kennzahlen Net Asset Value (NAV) und NAV je Aktie ein, die
+bedeutsamste finanzielle Leistungsindikatoren für die Lagebeurteilung der HAMBORNER REIT AG darstellen.
+Die HAMBORNER REIT AG lässt die beizulegenden Zeitwerte durch einen unabhängigen externen Gutachter ermitteln
+und plausibilisiert die Bewertungsergebnisse durch eigenes Fachpersonal.
+Die Bewertung der als Finanzinvestition gehaltenen Immobilien zu Zeitwerten basiert in besonderem Maße auf
+Einschätzungen und Annahmen des externen Gutachters. Geschätzte Werte bergen ein erhöhtes Risiko falscher
+Angaben in der Rechnungslegung. Die ermessensbehafteten Einschätzungen von Bewertungsparametern wie
+Marktmieten sowie die Diskontierungs- und Kapitalisierungszinssätze haben eine direkte und oftmals erhebliche
+Auswirkung auf die Darstellung der Wertentwicklung des Immobilienportfolios der Gesellschaft im Lagebericht. Sie
+beeinflussen die Zeitwerte der als Finanzinvestition gehaltenen Immobilien und damit den NAV je Aktie der
+Gesellschaft als einen der bedeutsamsten finanziellen Leistungsindikatoren und sind damit entscheidend für die
+Vermittlung eines insgesamt zutreffenden Bildes von der Lage der Gesellschaft. Darüber hinaus sind die ermittelten
+beizulegenden Zeitwerte grundlegend für die Entscheidung über notwendige außerplanmäßige Abschreibungen auf
+niedrigere beizulegende Werte im Sachanlagevermögen. Vor diesem Hintergrund wurde dieser Sachverhalt von uns
+als besonders wichtiger Prüfungssachverhalt bestimmt.
+
+23
+Angaben
+zu
+Bilanzierungsmethoden
+des
+Sachanlagevermögens
+sind
+im
+Abschnitt
+„Bilanzierungs-
+und
+Bewertungsmethoden“ des Anhangs enthalten. Die Angaben zum NAV und NAV je Aktie sind im Lagebericht im
+Abschnitt „Leistungsindikatoren“ dargestellt.
+b)
+Wir haben die Angemessenheit der Bewertungsverfahren und die Bewertungsergebnisse geprüft.
+Bei unserer Prüfung haben wir die Aufbau- und Ablauforganisation im Hinblick auf ihre Angemessenheit und die
+Wirksamkeit der eingerichteten Kontrollen der HAMBORNER REIT AG geprüft. Dies betrifft insbesondere den
+unabhängigen Verifizierungsprozess für Marktmieten sowie Diskontierungs- und Kapitalisierungszinssätze sowie die
+Berichtsprozesse und die jeweils zugehörigen Kontrollen.
+Im Rahmen unserer Prüfung der Bewertung haben wir interne Spezialisten aus dem Bereich Real Estate Consulting
+hinzugezogen. Mit deren Unterstützung haben wir die Bewertungsmodelle sowie für zufallsbasiert ausgewählte
+Objekte die Bewertungsparameter und die Bewertungsergebnisse beurteilt. Wir haben darüber hinaus an
+Begehungen einzelner Immobilien durch den externen Gutachter teilgenommen.
+Des Weiteren haben wir uns von der Kompetenz, den Fähigkeiten und der Objektivität des von der HAMBORNER
+REIT
+AG
+beauftragten
+unabhängigen
+Gutachters
+überzeugt
+sowie
+die
+im
+Gutachten
+angewandte
+Bewertungsmethodik im Hinblick auf Konformität mit IAS 40 in Verbindung mit IFRS 13 beurteilt.
+Sonstige Informationen
+Die gesetzlichen Vertreter sind für die sonstigen Informationen verantwortlich. Die sonstigen Informationen
+umfassen:
+•
+die Erklärung zur Unternehmensführung nach § 289f HGB, auf die im Lagebericht verwiesen wird,
+•
+die Versicherung der gesetzlichen Vertreter zum Jahresabschluss und zum Lagebericht nach § 264 Abs. 2 Satz
+3 bzw. § 289 Abs. 1 Satz 5 HGB und
+•
+die übrigen Teile des Geschäftsberichts, mit Ausnahme des geprüften Jahresabschlusses, des Lageberichts
+sowie der Erklärung des Vorstands zur Einhaltung der Anforderungen der §§ 11 bis 15 REIT-Gesetz und zur
+Zusammensetzung der Erträge hinsichtlich vorbelasteter und nicht vorbelasteter Erträge nach § 19 Abs. 3
+i. V. m. § 19a REIT-Gesetz sowie unseres Bestätigungsvermerks.
+Unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht erstrecken sich nicht auf die sonstigen
+Informationen, und dementsprechend geben wir weder ein Prüfungsurteil noch irgendeine andere Form von
+Prüfungsschlussfolgerung hierzu ab.
+Im Zusammenhang mit unserer Prüfung haben wir die Verantwortung, die sonstigen Informationen zu lesen und
+dabei zu würdigen, ob die sonstigen Informationen
+•
+wesentliche Unstimmigkeiten zum Jahresabschluss, zum Lagebericht oder zu unseren bei der Prüfung
+erlangten Kenntnissen aufweisen oder
+•
+anderweitig wesentlich falsch dargestellt erscheinen.
+
+24
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für
+Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und
+dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den
+tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den
+deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines
+Jahresabschlusses zu ermöglichen, der frei von wesentlichen – beabsichtigten oder unbeabsichtigten – falschen
+Darstellungen ist.
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der
+Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung,
+Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben.
+Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung
+der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten
+entgegenstehen.
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein
+zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem
+Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken
+der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die
+Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines
+Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen und
+um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur
+Aufstellung des Jahresabschlusses und des Lageberichts.
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von
+wesentlichen – beabsichtigten oder unbeabsichtigten – falschen Darstellungen ist, und ob der Lagebericht insgesamt
+ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem
+Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen
+gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt,
+sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht
+beinhaltet.
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung
+mit § 317 HGB und der EU-APrVO unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten
+deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche
+Darstellung stets aufdeckt. Falsche Darstellungen können aus Verstößen oder Unrichtigkeiten resultieren und werden
+als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf
+der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von
+Adressaten beeinflussen.
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber
+hinaus
+•
+identifizieren und beurteilen wir die Risiken wesentlicher – beabsichtigter oder unbeabsichtigter – falscher
+Darstellungen im Jahresabschluss und im Lagebericht, planen und führen Prüfungshandlungen als Reaktion
+auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als
+
+25
+Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass wesentliche falsche Darstellungen nicht
+aufgedeckt werden, ist bei Verstößen
+höher als bei Unrichtigkeiten, da Verstöße betrügerisches
+Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das
+Außerkraftsetzen interner Kontrollen beinhalten können.
+•
+gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten internen
+Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um
+Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem
+Ziel,
+ein
+Prüfungsurteil
+zur
+Wirksamkeit
+dieser
+Systeme
+der
+Gesellschaft
+abzugeben.
+•
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungs-
+legungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten
+Werte und damit zusammenhängenden Angaben.
+•
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten
+Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der
+erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder
+Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der
+Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche
+Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im
+Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind,
+unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der
+bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder
+Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr
+fortführen kann.
+•
+beurteilen wir die Gesamtdarstellung, den Aufbau und den Inhalt des Jahresabschlusses einschließlich der
+Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt,
+dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den
+tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft
+vermittelt.
+•
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das
+von ihm vermittelte Bild von der Lage der Gesellschaft.
+•
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten
+Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei
+insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten
+bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben
+aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den
+zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass
+künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die
+Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger Mängel im internen
+Kontrollsystem, die wir während unserer Prüfung feststellen.
+Wir geben gegenüber den für die Überwachung Verantwortlichen eine Erklärung ab, dass wir die relevanten
+Unabhängigkeitsanforderungen eingehalten haben, und erörtern mit ihnen alle Beziehungen und sonstigen
+Sachverhalte, von denen vernünftigerweise angenommen werden kann, dass sie sich auf unsere Unabhängigkeit
+auswirken, und die hierzu getroffenen Schutzmaßnahmen.
+Wir bestimmen von den Sachverhalten, die wir mit den für die Überwachung Verantwortlichen erörtert haben,
+diejenigen Sachverhalte, die in der Prüfung des Jahresabschlusses für den aktuellen Berichtszeitraum am
+
+26
+bedeutsamsten waren und daher die besonders wichtigen Prüfungssachverhalte sind. Wir beschreiben diese
+Sachverhalte im Bestätigungsvermerk, es sei denn, Gesetze oder andere Rechtsvorschriften schließen die öffentliche
+Angabe des Sachverhalts aus.
+SONSTIGE GESETZLICHE UND ANDERE RECHTLICHE ANFORDERUNGEN
+Übrige Angaben gemäß Artikel 10 EU-APrVO
+Wir wurden von der Hauptversammlung am 7. Mai 2019 als Abschlussprüfer gewählt. Wir wur-den am 21. Mai 2019
+vom Aufsichtsrat beauftragt. Wir sind ununterbrochen seit dem Ge-schäftsjahr 2008 als Abschlussprüfer der
+HAMBORNER REIT AG, Duisburg, tätig.
+Wir erklären, dass die in diesem Bestätigungsvermerk enthaltenen Prüfungsurteile mit dem zusätzlichen Bericht an
+den Prüfungsausschuss nach Artikel 11 EU-APrVO (Prüfungsbericht) in Einklang stehen.
+VERANTWORTLICHER WIRTSCHAFTSPRÜFER
+Der für die Prüfung verantwortliche Wirtschaftsprüfer ist Rolf Künemann.
+Düsseldorf, den 2. März 2020
+Deloitte GmbH
+Wirtschaftsprüfungsgesellschaft
+(Rolf Künemann)
+(Thomas Neu)
+Wirtschaftsprüfer
+Wirtschaftsprüfer
+
+27
+FINANZKALENDER
+26. März 2020
+Geschäftsbericht 2019
+5. Mai 2020
+Quartalsfinanzbericht 31. März 2020
+6. Mai 2020
+Ordentliche Hauptversammlung 2020
+11. Mai 2020
+Zahlung der Dividende für das Geschäftsjahr 2019
+30. Juli 2020
+Halbjahresfinanzbericht 30. Juni 2020
+10. November 2020
+Quartalsfinanzbericht 30. September 2020
+4. Februar 2021
+Vorläufige Zahlen für das Geschäftsjahr 2020
+17. März 2021
+Geschäftsbericht 2020
+27. April 2021
+Quartalsfinanzbericht 31. März 2021
+29. April 2021
+Ordentliche Hauptversammlung 2021
+
+28
+HAMBORNER REIT AG
+Goethestraße 45
+47166 Duisburg
+Tel.: 0203 / 54405-0
+Fax: 0203 / 54405-49
+www.hamborner.de

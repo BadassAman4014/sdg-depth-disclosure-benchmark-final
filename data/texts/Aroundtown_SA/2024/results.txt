@@ -1,0 +1,4135 @@
+Aroundtown SA 
+Annual Accounts 
+For the year ended December 31, 2024 
+(with the report of the Réviseur d'Entreprises agréé thereon) 
+Registered address: 
+37, Boulevard Joseph II 
+L-1840 Luxembourg
+________________________
+RCS Luxembourg: B217868
+Share Capital: EUR 15,370,256
+
+Table of contents 
+Pages 
+Management Report   
+1-13
+Report of the Réviseur d´Entreprises Agréé 
+14-18
+Balance Sheet 
+19-23
+Profit and Loss account 
+Notes to the Annual Accounts 
+24-25
+26-59
+
+MANAGEMENT REPORT 
+The management of Aroundtown SA (the “Company”, “Aroundtown” or “AT”, and together with its 
+investees “Aroundtown Group” or “the Group”) presents the Company’s Annual Accounts for the year 
+ended December 31, 2024. 
+Aroundtown SA is a real estate company with a focus on income generating quality properties with value-
+add potential in central locations in top tier European cities primarily in Germany, the Netherlands and 
+London. Aroundtown invests  in commercial and residential real estate which benefits from  strong 
+fundamentals and growth prospects. Aroundtown  invests in residential real estate primarily through its 
+subsidiary Grand City Properties S.A. (“GCP”), a publicly  traded real estate company that focuses 
+predominantly on the German residential real estate market, as well as on the London residential market.  
+The Group’s unique business model and experienced management team led the Group to grow since 2004,  
+navigating successfully through all economic cycles. 
+CAPITAL MARKET, DEVELOPMENTS AND PERFORMANCE 
+The Company continued with active debt management using the sales proceeds from its subsidiaries and 
+redeemed EUR 0.7 billion nominal value of its various straight bond series with contractual maturities 
+between 2025 – 2031, as well as the contractual redemption of 2024 bonds, presenting a solid debt maturity 
+prolongation (see note 11 of the Annual Accounts).  
+In addition, in April and September 2024, the Board of Directors approved a voluntary exchange and tender 
+offer targeting the holders of six outstanding perpetual notes (including those issued by the Company’s 
+wholly owned subsidiaries) (“the Notes”), that were not called in 2023 and 2024, and for those with first 
+call dates approaching in the next 12 months. The Company announced an acceptance of EUR 2.4 billion 
+in aggregate nominal value of the Notes, that were exchanged for 4 new notes series placed by a subsidiary 
+of the Company. For more information see note 11 of the Annual Accounts. 
+Additionally, the Company successfully placed EUR 0.65 billion nominal value of a new straight bond 
+series 40 with contractual maturity in July 2029 and interest rate of 4.8% p.a. Moreover, as at December 
+31, 2024, the Company had undrawn revolving credit facilities totaling approximately EUR 0.8 billion, 
+ensuring accessible additional liquidity. 
+The profit for the year amounted to EUR 186.8 million and the total equity of the Company amounted to 
+EUR 5.4 billion as at December 31, 2024. 
+FINANCIAL RISK MANAGEMENT 
+The Company is exposed to liquidity, operating and other risks. For more information see note 24 of the 
+Annual Accounts. 
+1
+
+MANAGEMENT REPORT (continued) 
+OWN SHARES 
+The Company did not acquire any own shares in 2024 and as at December 31, 2024 held directly 32,287,892 
+shares and additional 411,144,171 shares through its subsidiaries. There was no change in the own shares 
+held by the Company during 2024. For more information see note 7 and 10 of the Annual Accounts. 
+COMPANY’S SHARES 
+During the reporting period there was no issuance of new ordinary shares. 
+CAPITAL STRUCTURE 
+The Company’s ordinary shares are listed on the Frankfurt Stock Exchange – Prime Standard and included 
+in the MDAX index of the Deutsche Börse (symbol: AT1). The Company also has perpetual notes and 
+senior straight bonds listed on the Irish Stock Exchange (in particular its EMTN Programme), Luxembourg 
+Stock Exchange and Frankfurt Stock Exchange. There are no restrictions on the transfer of the Company’s 
+traded securities. 
+LIKELY FUTURE DEVELOPMENTS 
+The Company raises capital and borrowings mainly through its EMTN Programme to fund the acquisition 
+and development of the underlying property portfolio held by the Company through its subsidiaries. 
+ACTIVITIES IN THE FIELD OF RESEARCH AND DEVELOPMENT 
+Due to the nature of its business, the Company does not engage in any research and development activities. 
+BRANCHES OF THE COMPANY 
+The Company did not operate any branches in 2024 or 2023. 
+COMPLIANCE WITH TRANSPARENCY LAW 
+The Company is subject to, among others, the Luxembourg law of January 11, 2008, on transparency 
+requirements for issuers, as amended (the “Transparency Law”). In particular, the Company continuously 
+monitors compliance with the disclosure requirements with respect to regulated information within the 
+meaning of article 1(10) (the “Regulated Information”) of the Transparency Law and therefore publishes, 
+stores with the Luxembourg Stock Exchange as the officially appointed mechanism (OAM) and files with 
+the Commission de Surveillance du Secteur Financier (the “CSSF”) the Regulated Information on an 
+ongoing basis. 
+The quarterly and annual financial reports, investor presentations, press releases and ad-hoc notifications 
+are available in English on the Company´s website. In addition, the Company provides on its website 
+information about its organization, its management and upcoming and past shareholder meetings, such as 
+its Annual General Meetings, Extraordinary General Meetings and Ordinary General Meetings. The 
+Company´s website further provides a financial calendar announcing the financial reporting dates as well 
+as other important events. The financial calendar is published before the beginning of a calendar year and 
+is regularly updated. 
+The individual Aroundtown SA Annual Accounts are published annually on the same day as the 
+Aroundtown SA consolidated annual report. 
+2
+
+MANAGEMENT REPORT (continued) 
+INFORMATION ACCORDING TO ARTICLE 11(2) OF THE LUXEMBOURG TAKEOVER LAW 
+The following disclosure is provided pursuant to article 11 of the Luxembourg law of May 19, 2006, 
+transposing Directive 2004/25/EC of the European Parliament and of the Council of April 21, 2004, on 
+takeover bids, as amended (the “Takeover Law”):  
+(a) With regard to article 11(1)(a) and (c) of the Takeover Law (capital structure), the relevant information
+is available under note 10 of the Annual Accounts. In addition, the Company’s shareholding structure
+showing each shareholder owning 5% or more of the Company’s share capital is available below and
+on the Company’s website, where the shareholding structure chart is updated as per shareholder
+notifications on a regular basis.
+(b) With regard to article 11(1)(b) of the Takeover Law, the ordinary shares issued by the Company are
+admitted to trading on the regulated market of the Frankfurt Stock Exchange (Prime Standard) and are
+freely transferable according to the Company’s articles of association (the “Articles of Association”).
+(c) In accordance with the requirements of Article 11(1)(c) of the Takeover Law, the following significant
+shareholdings were reported to the Company until December 31, 2024:
+Shareholder name 
+Amount of shares (1) 
+Percentage of voting 
+rights 
+Aroundtown SA and its wholly owned 
+affiliates 
+259,495,926 
+16.88% (2) 
+Avisco Group PLC / Vergepoint 
+Limited (3) 
+230,660,516 
+15.01% 
+TLG Immobilien AG 
+183,936,137 
+11.97% (2) 
+Stumpf Capital GmbH (4) 
+154,351,365 
+10.04% 
+(1) Total number of issued and fully paid ordinary shares as of December 31, 2024: 1,537,025,609
+(2) Voting rights are suspended
+(3) Controlled by Mr. Yakir Gabay
+(4) Controlled by Mr. Georg Stumpf
+(d) With regard to article 11(1)(d) of the Takeover Law, each ordinary share of the Company gives right to
+one vote according to article 8.1 of the Articles of Association. There are no special control rights
+attaching to the ordinary shares. The voting rights attached to ordinary shares held by TLG Immobilien
+AG in the Company are suspended. The suspension of the voting rights applies to any other shares
+acquired by the Company, either directly or through subsidiaries, pursuant to its buy-back programme.
+(e) With regard to article 11(1)(e) of the Takeover Law, control rights related to the issue of ordinary shares
+are directly exercised by the relevant employees. The key terms and conditions in relation to the
+Company’s incentive share plan are described under note 19 of the Annual Accounts.
+(f) With regard to article 11(1)(f) of the Takeover Law, the Articles of Association impose no voting rights
+limitations. However, the sanction of suspension of voting rights automatically applies, subject to the
+Transparency Law to any shareholder (or group of shareholders) who has (or have) crossed the
+thresholds set out in the Transparency Law but have not notified the Company accordingly. In this case,
+the exercise of voting rights relating to the shares exceeding the fraction that should have been notified
+is suspended. The suspension of the exercise of voting rights is lifted the moment the shareholder makes
+the notification.
+3
+
+ 
+MANAGEMENT REPORT (continued) 
+INFORMATION ACCORDING TO ARTICLE 11(2) OF THE LUXEMBOURG TAKEOVER LAW 
+(CONTINUED) 
+(g) With regard to article 11(1)(g) of the Takeover Law, as of December 31, 2024, the Company was not 
+aware of any agreements between shareholders that would lead to a restriction on the transfer of shares 
+or voting rights. 
+(h) With regard to article 11(1)(h) of the Takeover Law, according to article 15.1 of the Articles of 
+Association, the members of the Board of Directors of the Company (the “Board”) shall be elected by 
+the shareholders at their annual general meeting by a simple majority vote of the shares present or 
+represented. The term of the office of the members of the Board shall not exceed six years, but they are 
+eligible for re-election. Any member of the Board may be removed from office with or without 
+specifying a reason at any time. In the event of a vacancy in the office of a member of the Board because 
+of death, retirement or otherwise, this vacancy may be filled out on a temporary basis until the next 
+meeting of shareholders, by observing the applicable legal prescriptions. Further details on the rules 
+governing the appointment and replacement of a member of the Board are set out in the section 
+“Corporate Governance” of these Annual Accounts. 
+According to article 14 of the Articles of Association, any amendment to the Articles of Association 
+made by the general meeting of the shareholders shall be adopted if (i) more than one half of the share 
+capital is present or represented and (ii) a majority of at least two-thirds of the votes validly cast are in 
+favour of adopting the resolution. In case the first condition is not reached, a second meeting may be 
+convened, which may deliberate regardless of the proportion of the share capital represented and at 
+which resolutions are taken at a majority of at least two-thirds of votes validly cast.  
+(i) With regard to article 11 (1)(i) of the Takeover Law, the Board of Directors is endowed with wide-
+ranging powers to exercise all administrative tasks in the interest of the Company including the 
+establishment of an Advisory Board, an Audit Committee, a Risk Committee, a Remuneration 
+Committee and a Nomination Committee. Further details on the powers of the Board are described in 
+the section “Corporate Governance” of these Annual Accounts. 
+Pursuant to article 7.2 of the Articles of Association, the Board is authorized to issue shares under the 
+authorised share capital as detailed under note 10 (share capital) and note 19 (Share-based payment 
+agreements) of the Annual Accounts. According to article 8.7 of the Articles of Association, the 
+Company may redeem its own shares to the extent and under the terms permitted by law. The 
+shareholders’ meeting held on 26 June 2024 re-authorized the Company’s buy-back program to buy-
+back, either directly or through a subsidiary of Aroundtown, shares of Aroundtown for a period of five 
+(5) years not exceeding 50% of the aggregate nominal amount of Aroundtown’s issued share capital. 
+The program is currently inactive. 
+(j) With regard to article 11(1)(j) of the Takeover Law, the Company’s listed straight bonds, perpetual notes 
+and security issuances (listed under note 11 of the Annual Accounts) under the EMTN programme 
+contain change of control provisions that provide noteholders with the right to require the Company to 
+repurchase their notes upon a change of control of the issuer. The Company’s International Swaps and 
+Derivatives Association (ISDA) master agreement securing derivate transactions with regard to its 
+listed debts contains a termination right if the Company is financially weaker after a takeover. 
+(k) With regard to article 11(1)(k) of the Takeover Law, there are no agreements between the Company and 
+members of the Board or employees according to which, in the event of a takeover bid, the Company 
+may be held liable for compensation arrangements if the employment relationship is terminated without 
+good reason or due to a takeover bid. 
+4
+
+Luxembourg, March 26, 2025 
+.................................. 
+............................... 
+Frank Roseen 
+Jelena Afxentiou 
+Executive Director 
+Executive Director 
+5
+
+ 
+CORPORATE GOVERNANCE 
+The Group places a strong emphasis on corporate governance, which is executed responsibly by the 
+Board of Directors and the management teams. The Group is proud of the high degree of confidence of 
+its investors, which is reflected in the impressive placement of funds by major global investment banks. 
+Among the Group’s shareholders and bondholders are large international leading institutional investors 
+and major global investment and sovereign funds. 
+Aroundtown follows very strict Codes of Conduct which apply to its employees and business partners 
+respectively and include references to policies and rules in respect of Anti-Corruption (inclusive of anti-
+bribery guidelines), Anti-Discrimination, conflicts of interest and others. 
+Aroundtown is not subject to any compulsory corporate governance code of conduct or respective 
+statutory legal provisions. In particular, Aroundtown is not required to adhere to the “Ten Principles of 
+Corporate Governance” of the Luxembourg Stock Exchange or to the German Corporate Governance 
+Code, which are only applicable to domestic issuers, save for recommendations C.10 (with sole reference 
+to its applicability to the Chair of the Audit Committee) D.8 and D.9 of the German Corporate 
+Governance Code (Deutscher Corporate Governance Kodex). Aroundtown issues an annual declaration 
+that it does not deviate from the aforementioned recommendations of the German Corporate Governance 
+Code. In general, Aroundtown already complies with most of these principles and continues to take steps 
+to implement environmental, social and corporate governance best practices throughout its business. The 
+Group’s efforts support the United Nations Sustainable Development Goals, particularly those relating 
+to Peace, Justice and Strong Institutions (#16) and Partnerships for the Goals (#17). 
+The Group is a founding member of the United Nations Global Compact Network Germany, one of the 
+largest corporate sustainability initiatives, signaling the Group’s commitment to strong corporate 
+governance through adherence the Ten Principles of the UN Global Compact. 
+BOARD OF DIRECTORS 
+The Board of Directors makes decisions solely in the Group’s best interests and independently of any 
+conflict of interest. The Group is administered by a Board of Directors that is vested with the broadest 
+powers to perform in the Group’s interests. All powers not expressly reserved by the Luxembourg Law 
+of 10 August 1915 on commercial companies, as amended, (“Luxembourg Companies Act”) or by the 
+articles of association of Aroundtown SA (“Articles of Association”) to the general meeting of the 
+shareholders fall within the competence of the Board of Directors. 
+On a regular basis, the Board of Directors evaluates the effective fulfilment of its remit and compliance 
+with corporate governance procedures implemented by the Group. Evaluations are also performed by 
+the Audit and Risk Committees on related aspects. The Board of Directors currently consists of a total 
+of seven members, of which four members are independent, and one member is non-executive. The 
+members are elected by the general meeting of shareholders and resolve on matters on the basis of a 
+simple majority, in accordance with the Articles of Association. The number of directors, their term and 
+their remuneration are determined by the general meeting of shareholders and the maximum term of 
+directors’ appointment at each election is six years according to Luxembourg law, however directors 
+may be re-appointed after such term. 
+The members of the Board of Directors undertake regular training on topics such as regulatory and legal 
+updates, sector-specific and capital markets subjects and ESG matters. 
+ 
+ 
+6
+
+CORPORATE GOVERNANCE (continued) 
+ANNUAL GENERAL MEETING 
+The Annual General Meeting of the shareholders of Aroundtown SA (“AGM”) was held on June 26, 
+2024, in Luxembourg. All items on the agenda were carried by a majority, including the approval of the 
+statutory Annual Accounts of the Company and the consolidated annual report of the Group for the year 
+ended December 31, 2023. 
+The next Annual General Meeting of the shareholders is intended to take place on June 24, 2025, in 
+Luxembourg. 
+MEMBERS OF THE BOARD OF DIRECTORS 
+Name 
+Position
+Mr. Frank Roseen
+Executive Director
+Ms. Jelena Afxentiou
+Executive Director
+Mr. Ran Laufer
+Non-Executive Director
+Mr. Markus Leininger
+Independent Director
+Ms. Simone Runge-Brandner 
+Independent Director 
+Mr. Markus Kreuter
+Independent Director
+Mr. Daniel Malkin
+Independent Director 
+The Annual General Meeting in 2023 approved the renewal of the mandates of all directors until the 
+Annual General Meeting 2027. 
+SENIOR AND KEY MANAGEMENT 
+Name 
+Position 
+Mr. Barak Bar-Hen 
+Co-CEO and COO 
+Mr. Eyal Ben David 
+CFO 
+Mr. Oschrie Massatschi 
+CCMO (Chief Capital Markets Officer) 
+(until December 31, 2024)
+Ms. Limor Bermann 
+CSO (Chief Sustainability Officer) 
+ADVISORY BOARD 
+The Board of Directors has established an Advisory Board to provide expert advice and assistance. The 
+Board of Directors decides on the composition, tasks and term of the Advisory Board as well as the 
+appointment and dismissal of its members. The Advisory Board has no statutory powers under the 
+Luxembourg Companies Act or the Articles of Association of the Company, but applies rules adopted 
+by the Board of Directors. The Advisory Board and its members are an important source of guidance for 
+the Company when making strategic decisions. 
+MEMBERS OF THE ADVISORY BOARD 
+Name 
+Position 
+Dr. Gerhard Cromme
+Chairperson of the Advisory Board
+Mr. Yakir Gabay
+Advisory Board Deputy Chairperson
+Mr. Claudio Jarczyk
+Advisory Board Member
+Mr. David Maimon
+Advisory Board Member
+7
+
+CORPORATE GOVERNANCE (continued) 
+AUDIT COMMITTEE 
+The Board of Directors has established an Audit Committee in order to maintain high corporate 
+governance and transparency standards as well as to provide guidance to the Board in fulfilling the 
+Board’s responsibilities to the Company and its shareholders regarding the integrity of the accounting 
+and financial process, internal control and risk management. The responsibilities of the Audit Committee 
+include monitoring to the integrity of the Annual Accounts, including reporting to the Board of Directors 
+on its activities and the adequacy of internal systems controlling the financial reporting processes and 
+the accounting processes, including reviewing accounting standards. The Audit Committee recommends 
+to the Board of Directors the appointment and replacement of the approved independent auditor and 
+provides guidance to the Board of Directors on the approval of the annual financial statements of the 
+Group and, in particular, shall monitor the independence of the approved independent auditor, the 
+additional services rendered by such auditor, the issuing of the audit mandate to the auditor, the 
+determination of auditing focal points and the fee agreement with the auditor. The Board of Directors 
+decides on the composition, tasks and term of the Audit Committee as well as the appointment and 
+dismissal of its members. The Audit Committee consists of the independent directors Mr. Markus 
+Kreuter (Chairperson), Mr. Markus Leininger, Mr. Daniel Malkin and Ms. Simone Runge-Brandner. 
+ RISK COMMITTEE AND RISK OFFICER 
+The Board of Directors has established a Risk Committee to maintain high corporate governance and 
+transparency standards as well as to provide guidance to the Board in fulfilling the Board’s 
+responsibilities to the Company and its shareholders. The Committee shall monitor the effectiveness and 
+adequacy of the internal control system and risk management system. The Committee is tasked with 
+assisting and providing advice and recommendations to the Board of Directors in fulfilling its oversight 
+responsibilities, relating to the identification of different types of risks, recommending a risk 
+management structure including its organization and its process as well as assessing and monitoring the 
+effectiveness of existing risk management systems. The Risk Committee is supported by the Risk 
+Officer, who brings a systematic and disciplined approach to evaluating and improving the culture, 
+capabilities, and practices integrated with strategy-setting and execution. The Risk Officer’s 
+responsibilities are determined and monitored by the Risk Committee, whose oversight is established 
+pursuant to the Rules of Procedure of the Risk Committee. The Risk Committee provides advice on 
+compliance actions, in particular, by reviewing the Group’s procedures to detect risk, assessing the 
+effectiveness of the Group’s risk management and internal control system and by assessing the scope 
+and effectiveness of the systems established by the Company to identify, assess and mitigate risks. The 
+Board of Directors decides on the composition, tasks and term of the Risk Committee and the 
+appointment and dismissal of its members. The members of the Risk Committee are Mr. Markus Kreuter 
+(Chairperson), Ms. Simone Runge-Brandner , Mr. Ran Laufer and Mr. Daniel Malkin. 
+INTERNAL CONTROLS AND RISK MANAGEMENT SYSTEMS 
+The Group closely monitors and manages any potential risk and sets appropriate measures in order to 
+mitigate the occurrence of any possible failure to. the extent possible. The Board has allocated duties 
+and responsibilities regarding internal control and risk management systems to both the Audit 
+Committee and the Risk Committee. These committees work closely together to ensure the effectiveness 
+of the risk management system. The Risk Committee constructs the risk management structure, 
+organization and processes. The Risk Committee also monitors the effectiveness of risk management 
+functions throughout the organization, ensures that the required infrastructure, resources and systems 
+are in place for risk management and are adequate to maintain a satisfactory level of risk management 
+discipline. The Group categorizes the risk management systems into two main categories: internal risk 
+mitigation and external risk mitigation. 
+8
+
+ 
+CORPORATE GOVERNANCE (continued) 
+The internal controls and compliance of the Group are supervised by the Risk and Audit Committees 
+and are supported by Mr. Christian Hupfer, the Chief Compliance Officer.  
+ INTERNAL RISK MITIGATION 
+Internal controls are constructed from five main elements: 
+ 
+Risk assessment – set by the Risk Committee and guided by an ongoing analysis of the Group’s 
+organizational structure and existing risks in order to by identify and minimize potential weaknesses. 
+Further, the Risk and Audit Committees assess control deficiencies in the organization and execute 
+on issues which have been identified that may have an impact on the risk management framework. 
+ 
+Control discipline – based on the organizational structure and supported by employee and 
+management commitments. The discipline is established on the foundations of integrity and ethical 
+values. 
+ 
+Control features – the Group sets physical controls and undertakes compliance checks and 
+verifications including cross departmental checks. The Group puts strong emphasis on separation of 
+duties as approval and payments are done by at least two separate parties. Payment verifications are 
+cross checked and confirmed with  
+ 
+budget and contracts. Any payment exceeding a certain set threshold amount requires additional 
+approval by the head of the department as a condition for payment. 
+ 
+Monitoring procedures – the Group monitors and tests unusual entries, mainly through a detailed 
+monthly actual vs. budget analysis and checks. Strong and sustainable control and organizational 
+systems reduce the probability of errors and mistakes significantly. The Company’s management 
+sees a degree of high importance in constantly improving all measures, adjusting to market changes 
+and organizational dynamics. 
+ 
+ESG-risk-related expenditures – the Group has included identification of potential financial 
+liabilities and future expenditures linked to ESG risks in the organizational risk assessment. Potential 
+future expenditures on ESG matters and opportunities are included in the financial budget. 
+ 
+COMPLIANCE, CODE OF CONDUCT, DATA PROTECTION AND INFORMATION & CYBER 
+SECURITY 
+Safeguarding the Group from any reputational damage due to error or misconduct is essential in 
+maintaining the Group’s reputation. Therefore, enforcing responsible behavior guided by integrity is a 
+central tool for the management in terms of its dealings. For this reason, the compliance and risk 
+management teams are structured accordingly and supplemented by procedures which cover all steps of 
+real estate investment and the management chain to ensure compliance. In order to stipulate ethical 
+behavior throughout its operations, Aroundtown has implemented Codes of Conduct for both 
+employment contracts and business partner contracts which incorporate policies that prevent compliance 
+violations and misconducts. These policies include the Anti-Corruption Policy, the Diversity Policy and 
+the Anti-Discrimination Policy, as well as measures to prevent human right violations and ensure data 
+protection the Company’s Whistleblowing Policy. 
+The Group has agreed on binding standards to achieve an ethical business conduct within its group, its 
+employees and other personnel in order to expressly distance itself from corrupt behaviors and unethical 
+business practices. Such principles shall also be explicitly acknowledged by its business partners. The 
+Code of Conduct for Business Partners, which is mandatory for Aroundtown’s business partners with 
+contracts of above EUR 5,000,  includes elements such as respecting and recognizing employees’ rights 
+pertaining to freedom of association and the exercise of collective bargaining, providing fair 
+remuneration in wages, refraining from child, forced and compulsory labor, respecting the minimum age 
+requirements within given countries and providing a workplace free of harassment and discrimination 
+of any kind. 
+9
+
+ 
+CORPORATE GOVERNANCE (continued) 
+The Code of Conduct for Employees is supplemented by topical guidelines as well as the Diversity 
+Policy and Anti-Discrimination Policy. The diversity of perspectives from differences in nationality, 
+ethnicity, race, culture, age, gender, religion, ideology, sexual identity, or physical ability are all 
+respected. Discrimination on the basis of any of these characteristics constitutes an infringement of basic 
+human rights and is explicitly prohibited throughout the Group. In addition to these general 
+requirements, the Group also promotes diversity in many different areas, such as a professional and 
+cultural background and talent pool. The commitment to diversity is guided by the Diversity Committee 
+which implemented a diversity training program during the orientation period for employees. 
+Additionally, Aroundtown is a signatory of the “Diversity Charter” (Charta der Vielfalt), a corporate 
+initiative to promote diversity in companies and institutions. Regular assessments and reports are 
+conducted to ensure transparency and accountability. Employees are encouraged to participate in 
+diversity training programmes to foster a more inclusive environment. Aroundtown is committed to the 
+representation of women on the board of directors and ensuring a diverse mix of professional 
+backgrounds and expertise. Board members are selected based on multiple years of experience in the 
+real estate sector and other relevant industries. In 2024, women held 33% of management positions 
+across the Group, compared to 35 % in 2023. As of December 31, 2024, women held two of the seven 
+positions on the Board of Directors. Further details about the Group’s diversity management and key 
+figures can be found in its sustainability reporting materials. 
+In addition to these general requirements, the Group also promotes diversity in many different areas, 
+such as a professional and cultural background and talent pool. The commitment to diversity is guided 
+by the Diversity Committee, which is created and operated by employees, has implemented a diversity 
+training program during the orientation period for new employees 
+The Group has instruments in place to prevent and fight violations of laws, such as human rights 
+violations, corruption and bribery and employees have reporting channels available in case of a possible 
+violation. Measures are dealt with in confidence to the full extent permitted by statutory law. Reported 
+issues are investigated by the Chief Compliance Officer. In addition to the reporting channels, there is 
+also a whistleblowing channel operated by an external service provider, which enables complete 
+anonymity. If any violation is determined, certain disciplinary measures are taken if preconditions in that 
+respect are met. 
+The Company´s Code of Conduct includes the prohibition of insider dealing. The Company is subject 
+to several obligations under Regulation (EU) No. 596/2014 (Market Abuse Regulation, “MAR”). 
+Pursuant to Article 19 para. 5 sub-para. 1 sentence 1 of MAR, the Company notifies all persons 
+discharging managerial responsibilities of their obligations in the context of managers’ transactions. 
+Memorandums, notifications and information are distributed regularly. 
+The Group has established procedures to protect the confidentiality and integrity of management 
+information and data across all business process. Furthermore, a view to the implementation of the EU 
+General Data Protection Regulation (GDPR), the Group had implemented a wide range of guidelines 
+and provisions including enhanced mandatory awareness training on GDPR. The Group has 
+implemented Standard Operating Procedures (SOPs) to ensure that all personal data stored and processed 
+in the course of the Group’s operations are safe from manipulation and misuse. Additionally, the Group 
+has adopted an information security and privacy strategy in order to maintain a high level of controls to 
+help minimize the potential risks. The Codes of Conduct for Employees as well as Business Partners can 
+be found on AT’s website. 
+ 
+ 
+10
+
+CORPORATE GOVERNANCE (continued) 
+EXTERNAL RISK MITIGATION 
+In the ordinary course of business, the Group is exposed to various external risks. The Risk Committee 
+continuously determines whether the requisite infrastructure, resources and systems are in place and 
+adequate to maintain a satisfactory level of risk. The potential risks and exposures are related, inter alia, 
+to the volatility of interest rate risk, inflation risk, liquidity risk, credit risk, regulatory and legal risks, 
+rent collection and tenant deficiencies, the need for unexpected capital investments, property damage 
+risk and market downturn risk. The Group has direct and specific measures and boundaries to address 
+and mitigate each risk, hedging and reducing to a minimum the occurrence of failure or potential default. 
+NOMINATION COMMITTEE 
+The Board of Directors has established a Nomination Committee to identify suitable candidates for 
+director positions and examine their skills and characteristics. The Nomination Committee consists of 
+independent directors, Mr. Markus Leininger, Mr. Markus Kreuter, Ms. Simone Runge-Brandner and 
+Mr. Daniel Malkin. 
+REMUNERATION COMMITTEE 
+The Board of Directors has established a Remuneration Committee in order to determine and 
+recommend to the Board the Remuneration Policy, which outlines remuneration metrics for  the 
+Executive Directors and members of Senior Management, including evaluation of short-term and long-
+term performance-related remuneration to senior executives. The Remuneration Committee consists of 
+independent Directors Mr. Daniel Malkin, Mr. Markus Leininger, Mr. Markus Kreuter (Chairperson) 
+and Ms. Simone Runge-Brandner. 
+ESG COMMITTEE 
+The Board of Directors has established an ESG Committee to supervise the Company´s ESG processes. 
+In addition, the ESG Committee reviews and assesses the Company’s contribution to sustainable 
+development. The ESG Committee consists of executive director Mr. Frank Roseen and independent 
+directors, Mr. Markus Leininger (Chairperson) and Mr. Markus Kreuter, and is assisted by non-voting 
+advisory members who hold key positions in the Company’s group as well as the Sustainability 
+Department. 
+SHAREHOLDERS’ RIGHTS 
+The Group respects the rights of all shareholders and ensures that they receive equal treatment. All 
+shareholders have equal voting rights, and all corporate publications are transmitted through general 
+publication channels as well as on a specific section on its website. The shareholders of Aroundtown SA 
+exercise their voting rights at the general meeting of the shareholders, whereby each share is granted one 
+vote. The voting rights attached to shares held by TLG Immobilien AG in Aroundtown SA are 
+suspended. The suspension of the voting rights also applies to shares held and/ or acquired by 
+Aroundtown SA, either directly or through subsidiaries, pursuant to its share buyback programme. The 
+Annual General Meeting of the shareholders takes place at such place and time as specified in the notice 
+of the meeting. At the Annual General Meeting of the shareholders, the Board of Directors presents, 
+among other items, the directors’ report as well as consolidated financial statements of the most recent 
+financial year to the shareholders. The Annual General Meeting resolves, among others, on the financial 
+statements of Aroundtown, the appointment of the approved independent auditor of the Group and the 
+discharge and appointment or re-election of the members of the Board of Directors, in case their mandate 
+is about the expire. 
+11
+
+ 
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE 
+The Group’s ESG Strategy is guided by our dedication to operating responsibly, creating value for our 
+stakeholders, including our tenants and employees and improving the environmental and social performance of 
+our assets. The core of our business model – investing in value-add opportunities instead of demolition and new 
+asset development – demonstrates our commitment to sustainable real estate. Overall, our approach and success 
+are underpinned by a set of comprehensive long-term targets which aim to deliver tangible benefits for our 
+stakeholders, our investors, tenants, building users, local communities, employees and the environment. 
+The Company considers ESG to be pivotal to the overall success of the organization and has thus created and 
+integrated wide reaching ESG policies into the different functions of the Company. To monitor and manage its 
+sustainability-related measures, the Company is also committed to transparently reporting on its ESG progress. 
+As a result, the various efforts and initiatives undertaken since 2023, as well as the Company’s future targets are 
+extensively displayed in the Sustainability Report section of the Consolidated Annual Report, as well as on AT’s 
+website. The Company maintains its reporting processes in line with the EPRA sBPR (sustainability Best 
+Practice Recommendations) guidelines and has published non-financial data also externally reviewed with 
+limited assurance under the ISAE 3000 standard. This is the 8th year in a row for which we have been awarded 
+the Gold Award EPRA BPR and the 7th year awarded the Gold Award EPRA sBPR, showcasing our continued 
+commitment to the highest standards of transparency and reporting. 
+The Company also received recognition from Sustainalytics, a sustainability rating agency, which ranked us as 
+“Low Risk” in its ESG rating and among the 3rd percentile of the global rated universe. Our S&P Global 
+Corporate Sustainability Assessment (CSA) was ranked in the top 5th percentile of real estate companies 
+globally. AT was included in the Dow Jones Best-in-Class Index Europe, the MDAX ESG+, and the Bloomberg 
+Gender Equality Index. Additionally, AT reports in reference to the Global Reporting Initiative (GRI), and 
+conducts Sustainability Accounting Standards Board (SASB) mapping, which are published in separate 
+documents on the website.  
+ESG COMMITTEE AND ESG MANAGMENT 
+The Company’s governance incorporates consideration of sustainability issues at both the Board of Directors 
+and management levels. The operational ESG strategy has been established and is managed by the Board of 
+Directors, which has ultimate oversight of the overall ESG performance. The Board of Directors has established 
+an ESG Committee to supervise ESG strategy, regulatory compliance, and sustainability risk mitigation. The 
+ESG Committee shall be composed of at least two members of the Board of Directors. 
+The ESG Committee is chaired by Markus Leininger and two additional voting members, Markus Kreuter and 
+Frank Roseen, both members of the Board of Directors, as well as advisory members including the Company’s 
+Chief of Sustainability Officer, the Group’s Head of Energy, the Chief Operations Officer of the German 
+operations, and the Group’s Head of Human Resources. The ESG Committee oversees strategic guidance on 
+ESG topics and is responsible for reviewing and assessing the Company’s responsible business strategy, policies 
+and practices with respect to ESG. The Committee meets at least twice per year, with additional meetings called 
+as required, and sets the direction for the work of the Sustainability Department. 
+The Sustainability Department acts as a cross-departmental interface, working across the Company to review 
+and communicate on sustainability programs, as well as responsible for sustainability reporting. It is led by the 
+Chief Sustainability Officer. The Department also prepares the Company’s materiality analysis and ESG 
+reporting, as well as responds to enquiries by investors and rating agencies on ESG topics. It collaborates closely 
+with the Energy Department, which applies its engineering expertise to implement the technical elements of our 
+sustainability strategy. There are constant exchanges of information between departments around ESG-related 
+aspects.  
+12
+
+RESPONSIBILITY STATEMENT 
+To the best of our knowledge, the Annual Accounts of Aroundtown SA, prepared in accordance with the 
+applicable reporting principles for Annual Accounts, give a true and fair view of the assets, liabilities, 
+financial position and profit or loss of the Company, and the management report of the Company includes 
+a fair review of the development of the business, and describes the main opportunities, risks and 
+uncertainties associated with the Company. 
+Luxembourg 
+March 26, 2025 
+.................................. 
+............................... 
+Frank Roseen 
+Jelena Afxentiou 
+Executive Director 
+Executive Director 
+13
+
+Tel: +352 22 51 51 1 
+KPMG Audit S.à r.l.
+Fax: +352 22 51 71 
+39, Avenue John F. Kennedy 
+E-mail: info@kpmg.lu 
+L-1855 Luxembourg 
+Internet:www.kpmg.lu 
+To the Shareholders of 
+Aroundtown SA 
+37, boulevard Joseph II 
+L-1840 Luxembourg
+Luxembourg
+REPORT OF THE REVISEUR D’ENTREPRISES AGREE 
+Report on the audit of the annual accounts 
+Opinion 
+We have audited the annual accounts of Aroundtown SA (the "Company"), which comprise the 
+balance sheet as at 31 December 2024, and the profit and loss account for the year then 
+ended, and notes to the annual accounts, including a summary of significant accounting 
+policies. 
+In our opinion, the accompanying annual accounts give a true and fair view of the financial 
+position of the Company as at 31 December 2024, and of the results of its operations for the 
+year then ended in accordance with Luxembourg legal and regulatory requirements relating to 
+the preparation and presentation of the annual accounts. 
+Basis for opinion 
+We conducted our audit in accordance with the EU Regulation N° 537/2014, the Law of 23 
+July 2016 on the audit profession (the “Law of 23 July 2016”) and with International Standards 
+on Auditing (“ISAs”) as adopted for Luxembourg by the Commission de Surveillance du 
+Secteur Financier (the “CSSF”). Our responsibilities under the EU Regulation N° 537/2014, 
+the Law of 23 July 2016 and ISAs as adopted for Luxembourg by the CSSF are further 
+described in the « Responsibilities of “réviseur d'entreprises agréé” for the audit of the annual 
+accounts » section of our report. We are also independent of the Company in accordance with 
+the International Code of Ethics for Professional Accountants, including International 
+Independence Standards, issued by the International Ethics Standards Board for Accountants 
+(“IESBA Code”) as adopted for Luxembourg by the CSSF together with the ethical 
+requirements that are relevant to our audit of the annual accounts, and have fulfilled our other 
+ethical responsibilities under those ethical requirements. We believe that the audit evidence 
+we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Key audit matters 
+Key audit matters are those matters that, in our professional judgment, were of most 
+significance in our audit of the annual accounts of the current period. These matters were 
+addressed in the context of the audit of the annual accounts as a whole, and in forming our 
+opinion thereon, and we do not provide a separate opinion on these matters. 
+©2025 KPMG Audit S.à r.l., a Luxembourg entity and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. R.C.S Luxembourg B 149133 
+14
+
+Valuation of shares in affiliated undertakings 
+a. Why the matter was considered to be one of most significance in our audit of the annual
+accounts of the current period
+We refer to accounting policy at note 2.5 “Financial assets” and note 5 “Financial assets” of 
+the annual accounts. 
+As at December 31, 2024 shares in affiliated undertakings represent 56% of the total assets 
+of the Company. These represent investment of the Company in the underlying group and its 
+underlying assets, which are mainly investment properties. 
+Recoverability of shares in affiliated undertakings depends on the performance of the 
+subsidiaries, thus management performs an impairment assessment at each reporting date. 
+The identification of impairment indicators and the assessment whether there is a durable 
+depreciation in value requires management judgment.  
+Due to the significance of the amount and the required application of judgement by 
+management, the valuation of shares in affiliated undertakings is identified as a key audit 
+matter. 
+b. How the matter was addressed in our audit
+Our procedures concerning the valuation of shares in affiliated undertakings included, but were 
+not limited to, the following: 
+— We obtained an understanding of the impairment assessment process through inquiries 
+with management, based on their knowledge of the recent developments in the financial 
+position and cash flows of the affiliated undertakings; 
+— We assessed the design and implementation of the key controls around the identification 
+of triggers and assessment of impairment (value adjustment); 
+— We reviewed management’s assessment related to the timing and recognition of the 
+impairment events and charges and corroborated them with the underlying data; 
+— We preformed a reconciliation of the investments recorded by the Company and the equity 
+position of the affiliated undertakings as per their audited financial information; 
+— We assessed the impairment calculation for the shares in affiliated undertakings by 
+reviewing the affiliated undertakings’ financial information. This to ensure their net assets 
+are sufficient to recover the value of the participations. 
+Other information 
+The Board of Directors is responsible for the other information. The other information 
+comprises the information stated in the annual report including the management report and 
+the Corporate Governance Statement but does not include the annual accounts and our report 
+of the “réviseur d'entreprises agréé” thereon. 
+Our opinion on the annual accounts does not cover the other information and we do not 
+express any form of assurance conclusion thereon. 
+In connection with our audit of the annual accounts, our responsibility is to read the other 
+information and, in doing so, consider whether the other information is materially inconsistent 
+15
+
+with the annual accounts or our knowledge obtained in the audit or otherwise appears to be 
+materially misstated. If, based on the work we have performed, we conclude that there is a 
+material misstatement of this other information, we are required to report this fact. We have 
+nothing to report in this regard. 
+Responsibilities of the Board of Directors and Those Charged with Governance for the 
+annual accounts 
+The Board of Directors is responsible for the preparation and fair presentation of the annual 
+accounts in accordance with Luxembourg legal and regulatory requirements relating to the 
+preparation and presentation of the annual accounts, and for such internal control as the Board 
+of Directors determines is necessary to enable the preparation of annual accounts that are free 
+from material misstatement, whether due to fraud or error. 
+The Board of Directors is responsible for presenting the annual accounts in compliance with 
+the requirements set out in the Delegated Regulation 2019/815 on European Single Electronic 
+Format (“ESEF Regulation”). 
+In preparing the annual accounts, the Board of Directors is responsible for assessing the 
+Company’s ability to continue as a going concern, disclosing, as applicable, matters related to 
+going concern and using the going concern basis of accounting unless the Board of Directors 
+either intends to liquidate the Company or to cease operations, or has no realistic alternative 
+but to do so. 
+Those charged with governance are responsible for overseeing the Company’s financial 
+reporting process. 
+Responsibilities of the “réviseur d’entreprises agréé” for the audit of the annual 
+accounts 
+The objectives of our audit are to obtain reasonable assurance about whether the annual 
+accounts as a whole are free from material misstatement, whether due to fraud or error, and 
+to issue a report of the “réviseur d’entreprises agréé” that includes our opinion. Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in 
+accordance with the EU Regulation N° 537/2014, the Law of 23 July 2016 and with ISAs as 
+adopted for Luxembourg by the CSSF will always detect a material misstatement when it 
+exists. Misstatements can arise from fraud or error and are considered material if, individually 
+or in the aggregate, they could reasonably be expected to influence the economic decisions of 
+users taken on the basis of these annual accounts. 
+Our responsibility is to assess whether the annual accounts have been prepared in all material 
+respects with the requirements laid down in the ESEF Regulation.  
+As part of an audit in accordance with the EU Regulation N° 537/2014, the Law of 23 July 2016 
+and with ISAs as adopted for Luxembourg by the CSSF, we exercise professional judgment 
+and maintain professional skepticism throughout the audit. We also: 
+— Identify and assess the risks of material misstatement of the annual accounts, whether due 
+to fraud or error, design and perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk 
+of not detecting a material misstatement resulting from fraud is higher than for one resulting 
+from 
+error, 
+as 
+fraud 
+may 
+involve 
+collusion, 
+forgery, 
+intentional 
+omissions, 
+misrepresentations, or the override of internal control. 
+— Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing 
+an opinion on the effectiveness of the Company’s internal control. 
+16
+
+— Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates and related disclosures made by the Board of Directors. 
+— Conclude on the appropriateness of the Board of Directors’ use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the Company’s 
+ability to continue as a going concern. If we conclude that a material uncertainty exists, we 
+are required to draw attention in our report of the “réviseur d’entreprises agréé” to the 
+related disclosures in the annual accounts or, if such disclosures are inadequate, to modify 
+our opinion. Our conclusions are based on the audit evidence obtained up to the date of 
+our report of the “réviseur d’entreprises agréé”. However, future events or conditions may 
+cause the Company to cease to continue as a going concern. 
+— Evaluate the overall presentation, structure and content of the annual accounts, including 
+the disclosures, and whether the annual accounts represent the underlying transactions 
+and events in a manner that achieves fair presentation. 
+We communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and significant audit findings, including any significant 
+deficiencies in internal control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+relevant ethical requirements regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought to bear on our independence, 
+and where applicable, actions taken to eliminate threats or safeguards applied. 
+From the matters communicated with those charged with governance, we determine those 
+matters that were of most significance in the audit of the annual accounts of the current period 
+and are therefore the key audit matters. We describe these matters in our report unless law or 
+regulation precludes public disclosure about the matter. 
+Report on other legal and regulatory requirements 
+We have been appointed as “réviseur d’entreprises agréé” by the Shareholders on 26 June 
+2024 and the duration of our uninterrupted engagement, including previous renewals and 
+reappointments, is eight years. 
+The management report is consistent with the annual accounts and has been prepared in 
+accordance with applicable legal requirements. 
+The Corporate Governance Statement is included in the management report. The information 
+required by Article 68ter paragraph (1) letters c) and d) of the law of 19 December 2002 on the 
+commercial and companies register and on the accounting records and annual accounts of 
+undertakings as amended, is consistent with the annual accounts and has been prepared in 
+accordance with applicable legal requirements. 
+We confirm that the audit opinion is consistent with the additional report to the audit committee 
+or equivalent. 
+We confirm that the prohibited non-audit services referred to in the EU Regulation N° 537/2014 
+were not provided and that we remained independent of the Company in conducting the audit. 
+We have checked the compliance of the annual accounts of the Company as at 31 December 
+2024 with relevant statutory requirements set out in the ESEF Regulation that are applicable 
+to annual accounts. 
+17
+
+For the Company it relates to: 
+— annual accounts prepared in a valid xHTML format. 
+In our opinion, the annual accounts of Aroundtown SA as at 31 December 2024, identified as 
+529900H4DWG3KWMBMQ39-2024-12-31-0-en.Xhtml, have been prepared, in all material 
+respects, in compliance with the requirements laid down in the ESEF Regulation. 
+Our audit report only refers to the annual accounts of Aroundtown SA as at 31 December 2024, 
+identified as 529900H4DWG3KWMBMQ39-2024-12-31-0-en.Xhtml, prepared and presented 
+in accordance with the requirements laid down in the ESEF Regulation, which is the only 
+authoritative version 
+Luxembourg, 26 March 2025 
+KPMG Audit S.à r.l. 
+Cabinet de révision agréé 
+Muhammad Azeem 
+18
+
+Page   1/5 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_002
+Annual Accounts Helpdesk : 
+Tel. 
+: (+352) 247 88 494 
+Email 
+: centralebilans@statec.etat.lu
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+eCDF entry date :
+BALANCE SHEET
+Financial year from
+to
+(in
+)
+01/01
+01
+/2024
+31/12/2024
+02
+EUR
+03
+Aroundtown SA
+37, Boulevard Joseph II 
+L-1840 Luxembourg
+ASSETS
+Reference(s)
+Current year
+Previous year
+A. Subscribed capital unpaid
+1101
+101
+102
+I.
+Subscribed capital not called
+1103
+103
+104
+II.
+Subscribed capital called but
+unpaid
+1105
+105
+106
+B. Formation expenses
+Note 4
+1107
+166.997,65
+107
+1.870.133,58
+108
+C. Fixed assets
+1109
+15.532.594.926,36
+109
+18.559.528.230,30
+110
+I.
+Intangible assets
+1111
+111
+112
+1. Costs of development
+1113
+113
+114
+2. Concessions, patents, licences,
+trade marks and similar rights
+and assets, if they were
+1115
+115
+116
+a)
+acquired for valuable 
+consideration and need not be 
+shown under C.I.3
+1117
+117
+118
+b)
+created by the undertaking 
+itself
+1119
+119
+120
+3. Goodwill, to the extent that it
+was acquired for valuable
+consideration
+1121
+121
+122
+4. Payments on account and
+intangible assets under
+development
+1123
+123
+124
+II.
+Tangible assets
+1125
+7.723,00
+125
+20.395,21
+126
+1. Land and buildings
+1127
+127
+128
+2. Plant and machinery
+1129
+129
+130
+19
+
+Page   2/5 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_002
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+Reference(s)
+Current year
+Previous year
+3. Other fixtures and fittings, tools
+and equipment
+1131
+7.723,00
+131
+20.395,21
+132
+4. Payments on account and
+tangible assets in the course
+of construction
+1133
+133
+134
+III.
+Financial assets
+Note 5
+1135
+15.532.587.203,36
+135
+18.559.507.835,09
+136
+1. Shares in affiliated undertakings
+1137
+10.297.339.548,25
+137
+17.668.549.381,87
+138
+2. Loans to affiliated undertakings
+1139
+5.235.237.284,66
+139
+890.873.752,50
+140
+3. Participating interests
+1141
+141
+142
+4. Loans to undertakings with
+which the undertaking is linked
+by virtue of participating
+interests
+1143
+143
+144
+5. Investments held as fixed
+assets
+1145
+145
+146
+6. Other loans
+Note 5
+1147
+10.370,45
+147
+84.700,72
+148
+D. Current assets
+1151
+2.900.636.098,76
+151
+629.787.191,70
+152
+I.
+Stocks
+1153
+153
+154
+1. Raw materials and consumables
+1155
+155
+156
+2. Work in progress
+1157
+157
+158
+3. Finished goods and goods
+for resale
+1159
+159
+160
+4. Payments on account
+1161
+161
+162
+II.
+Debtors
+Note 6
+1163
+2.080.151.910,72
+163
+271.257.264,41
+164
+1. Trade debtors
+1165
+165
+166
+a)
+becoming due and payable 
+within one year
+1167
+167
+168
+b)
+becoming due and payable 
+after more than one year
+1169
+169
+170
+2. Amounts owed by affiliated
+undertakings
+Note 6
+1171
+1.865.793.673,77
+171
+31.743.374,46
+172
+a)
+becoming due and payable 
+within one year
+1173
+1.841.491.216,15
+173
+8.293.363,22
+174
+b)
+becoming due and payable 
+after more than one year
+1175
+24.302.457,62
+175
+23.450.011,24
+176
+3. Amounts owed by undertakings
+with which the undertaking is
+linked by virtue of participating
+interests
+1177
+177
+178
+a)
+becoming due and payable 
+within one year
+1179
+179
+180
+b)
+becoming due and payable 
+after more than one year
+1181
+181
+182
+4. Other debtors
+Note 6
+1183
+214.358.236,95
+183
+239.513.889,95
+184
+a)
+becoming due and payable 
+within one year
+1185
+214.358.236,95
+185
+239.513.889,95
+186
+b)
+becoming due and payable 
+after more than one year
+1187
+187
+188
+20
+
+Page   3/5 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_002
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+Reference(s)
+Current year
+Previous year
+III.
+Investments
+1189
+145.653.483,76
+189
+126.401.883,15
+190
+1. Shares in affiliated undertakings
+1191
+191
+192
+2. Own shares
+Note 7
+1209
+94.312.932,53
+209
+80.073.972,16
+210
+3. Other investments
+1195
+51.340.551,23
+195
+46.327.910,99
+196
+IV. Cash at bank and in hand
+Note 8
+1197
+674.830.704,28
+197
+232.128.044,14
+198
+E. Prepayments
+Note 9
+1199
+112.125.900,85
+199
+108.161.034,48
+200
+TOTAL (ASSETS)
+18.545.523.923,62
+201
+19.299.346.590,06
+202
+21
+
+Page   4/5 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_002
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+CAPITAL, RESERVES AND LIABILITIES
+Reference(s)
+Current year
+Previous year
+A. Capital and reserves
+1301
+5.383.527.266,19
+301
+5.196.642.751,29
+302
+I.
+Subscribed capital
+Note 10.1
+1303
+15.370.256,09
+303
+15.370.256,09
+304
+II.
+Share premium account
+Note 10.2
+1305
+4.927.327.718,04
+305
+4.941.504.441,41
+306
+III.
+Revaluation reserve
+1307
+307
+308
+IV. Reserves
+1309
+95.365.987,09
+309
+81.127.026,72
+310
+1. Legal reserve
+Note 10.3
+1311
+1.053.054,56
+311
+1.053.054,56
+312
+2. Reserve for own shares
+Note 10.4
+1313
+94.312.932,53
+313
+80.073.972,16
+314
+3. Reserves provided for by the
+articles of association
+1315
+315
+316
+4. Other reserves, including the
+fair value reserve
+1429
+429
+430
+a)
+other available reserves
+1431
+431
+432
+b)
+other non available reserves
+1433
+433
+434
+V.
+Profit or loss brought forward
+Note 10.5
+1319
+158.641.027,23
+319
+-87.829.976,61
+320
+VI. Profit or loss for the financial year
+1321
+186.822.277,74
+321
+246.471.003,68
+322
+VII. Interim dividends
+1323
+323
+324
+VIII. Capital investment subsidies
+1325
+325
+326
+B. Provisions
+1331
+2.662,50
+331
+2.662,50
+332
+1. Provisions for pensions and
+similar obligations
+1333
+333
+334
+2. Provisions for taxation
+1335
+335
+336
+3. Other provisions
+1337
+2.662,50
+337
+2.662,50
+338
+C. Creditors
+Note 11
+1435
+13.161.993.994,93
+435
+14.102.701.176,27
+436
+1. Debenture loans
+1437
+9.598.616.276,91
+437
+11.210.171.954,39
+438
+a)
+Convertible loans
+1439
+439
+440
+i)
+becoming due and payable 
+within one year
+1441
+441
+442
+ii)
+becoming due and payable 
+after more than one year
+1443
+443
+444
+b)
+Non convertible loans
+Note 11.1
+1445
+9.598.616.276,91
+445
+11.210.171.954,39
+446
+i)
+becoming due and payable 
+within one year
+1447
+1.204.582.541,88
+447
+125.314.719,83
+448
+ii)
+becoming due and payable 
+after more than one year
+1449
+8.394.033.735,03
+449
+11.084.857.234,56
+450
+2. Amounts owed to credit
+institutions
+Note 11.2
+1355
+140.648.166,20
+355
+146.513.954,79
+356
+a)
+becoming due and payable 
+within one year
+1357
+1.331.318,13
+357
+6.616.584,79
+358
+b)
+becoming due and payable 
+after more than one year
+1359
+139.316.848,07
+359
+139.897.370,00
+360
+22
+
+Page   5/5 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_002
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+Reference(s)
+Current year
+Previous year
+3. Payments received on account
+of orders in so far as they are
+not shown separately as
+deductions from stocks
+1361
+361
+362
+a)
+becoming due and payable 
+within one year 
+1363
+363
+364
+b)
+becoming due and payable 
+after more than one year
+1365
+365
+366
+4. Trade creditors
+Note 11
+1367
+38.648.456,24
+367
+25.347.893,93
+368
+a)
+becoming due and payable 
+within one year 
+1369
+38.648.456,24
+369
+25.347.893,93
+370
+b)
+becoming due and payable 
+after more than one year
+1371
+371
+372
+5. Bills of exchange payable
+1373
+373
+374
+a)
+becoming due and payable 
+within one year
+1375
+375
+376
+b)
+becoming due and payable 
+after more than one year
+1377
+377
+378
+6. Amounts owed to affiliated
+undertakings
+Note 11.3
+1379
+3.373.706.716,18
+379
+2.720.332.908,72
+380
+a)
+becoming due and payable 
+within one year
+1381
+829.187.819,14
+381
+761.712.725,20
+382
+b)
+becoming due and payable 
+after more than one year
+1383
+2.544.518.897,04
+383
+1.958.620.183,52
+384
+7. Amounts owed to undertakings
+with which the undertaking is
+linked by virtue of participating
+interests
+1385
+385
+386
+a)
+becoming due and payable 
+within one year
+1387
+387
+388
+b)
+becoming due and payable 
+after more than one year
+1389
+389
+390
+8. Other creditors
+Note 11
+1451
+10.374.379,40
+451
+334.464,44
+452
+a)
+Tax authorities
+1393
+10.321.083,36
+393
+278.468,99
+394
+b)
+Social security authorities
+1395
+53.296,04
+395
+55.995,45
+396
+c)
+Other creditors
+1397
+397
+398
+i)
+becoming due and 
+payable within one year
+1399
+399
+400
+ii)
+becoming due and 
+payable after more than
+one year
+1401
+401
+402
+D. Deferred income
+1403
+403
+404
+TOTAL (CAPITAL, RESERVES AND LIABILITIES)
+18.545.523.923,62
+405
+19.299.346.590,06
+406
+23
+
+Page   1/2 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_003
+Annual Accounts Helpdesk : 
+Tel. 
+: (+352) 247 88 494 
+Email 
+: centralebilans@statec.etat.lu
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+eCDF entry date :
+PROFIT AND LOSS ACCOUNT
+Financial year from
+to
+(in
+)
+01/01
+01
+/2024
+31/12/2024
+02
+EUR
+03
+Aroundtown SA
+37, Boulevard Joseph II 
+L-1840 Luxembourg
+Reference(s)
+Current year
+Previous year
+1. Net turnover
+1701
+701
+702
+2. Variation in stocks of finished 
+goods and in work in progress
+1703
+703
+704
+3. Work performed by the undertaking 
+for its own purposes and capitalised
+1705
+705
+706
+4. Other operating income
+1713
+713
+714
+5. Raw materials and consumables and 
+other external expenses
+1671
+-15.091.590,09
+671
+-9.811.408,00
+672
+a)
+Raw materials and consumables
+1601
+601
+602
+b)
+Other external expenses
+Note 12
+1603
+-15.091.590,09
+603
+-9.811.408,00
+604
+6. Staff costs
+1605
+-593.180,08
+605
+-503.642,60
+606
+a)
+Wages and salaries
+1607
+-531.778,70
+607
+-444.496,05
+608
+b)
+Social security costs
+1609
+-41.687,12
+609
+-55.762,13
+610
+i)
+relating to pensions
+1653
+-41.687,12
+653
+-34.824,21
+654
+ii)
+other social security costs
+1655
+655
+-20.937,92
+656
+c)
+Other staff costs
+1613
+-19.714,26
+613
+-3.384,42
+614
+7. Value adjustments
+1657
+-1.717.230,19
+657
+-2.452.707,74
+658
+a)
+in respect of formation expenses 
+and of tangible and intangible 
+fixed assets
+Note 4
+1659
+-1.717.230,19
+659
+-2.452.707,74
+660
+b)
+in respect of current assets
+1661
+661
+662
+8. Other operating expenses
+Note 13
+1621
+-22.839.039,79
+621
+-25.125.191,12
+622
+24
+
+Page   2/2 
+The notes in the annex form an integral part of the annual accounts
+FWQLKXP20250322T11582501_003
+RCSL Nr. :
+Matricule :
+B217868
+2017 2209 115 
+Reference(s)
+Current year
+Previous year
+9. Income from participating interests
+Note 14
+1715
+471.972.065,89
+715
+543.586.612,11
+716
+a)
+derived from affiliated undertakings
+1717
+471.972.065,89
+717
+543.586.612,11
+718
+b)
+other income from participating 
+interests
+1719
+719
+720
+10. Income from other investments and 
+loans forming part of the fixed assets
+1721
+721
+722
+a)
+derived from affiliated undertakings
+1723
+723
+724
+b)
+other income not included under a)
+1725
+725
+726
+11. Other interest receivable and similar 
+income
+Note 15
+1727
+123.657.220,46
+727
+348.161.991,07
+728
+a)
+derived from affiliated undertakings
+1729
+1.871.368,71
+729
+30.197.770,89
+730
+b)
+other interest and similar income
+1731
+121.785.851,75
+731
+317.964.220,18
+732
+12. Share of profit or loss of 
+undertakings accounted for under 
+the equity method
+1663
+663
+664
+13. Value adjustments in respect of 
+financial assets and of investments 
+held as current assets
+Note 16
+1665
+-36.219.416,56
+665
+-193.987.593,25
+666
+14. Interest payable and similar expenses
+Note 17
+1627
+-614.962.528,90
+627
+-436.481.195,79
+628
+a)
+concerning affiliated undertakings
+1629
+-222.130.977,97
+629
+-85.512.697,30
+630
+b)
+other interest and similar expenses
+1631
+-392.831.550,93
+631
+-350.968.498,49
+632
+15. Tax on profit or loss
+Note 23
+1635
+-10.000.000,00
+635
+636
+16. Profit or loss after taxation
+1667
+186.827.092,74
+667
+246.506.943,68
+668
+17. Other taxes not shown under items 
+1 to 16
+Note 23
+1637
+-4.815,00
+637
+-35.940,00
+638
+18. Profit or loss for the financial year
+1669
+186.822.277,74
+669
+246.471.003,68
+670
+Note 15
+292.620.792,00
+23.120.079,00
+25
+
+Aroundtown SA  
+Notes to the annual accounts for the financial year ended December 31, 2024 
+Note 1. General  
+Aroundtown SA (the “Company” or “Aroundtown”) was incorporated in the Grand Duchy of 
+Luxembourg on September 13, 2017 as a “Société Anonyme” (public limited liability company) in 
+accordance with the Luxembourg Law of August 10, 1915, as amended, on Commercial Companies 
+(the “Law”) for an unlimited period of time. Its registered office is at 37 Boulevard Joseph II, L-1840 
+Luxembourg and the Company is registered with the Régistre de Commerce et des Sociétés du Grand 
+Duché de Luxembourg (the “Luxembourg R.C.S.”) under number B217868. 
+Aroundtown is a holding company which holds, via subsidiaries and affiliates (together: “Aroundtown 
+Group” or “the Group”), real estate assets with a focus on income generating quality properties with 
+value-add potential in central locations in top tier Europe cities, primarily in Germany and the 
+Netherlands. The Aroundtown Group invests primarily in commercial and residential real estate which 
+benefits from strong fundamentals and growth prospects. 
+The Company`s financial year begins on 1 January and ends on 31 December of each year. 
+The Company’s object is (i) the acquisition, sale, administration, operation, letting or renting, in any 
+form by any means, whether directly or indirectly, of any real estate assets in both the Grand Duchy of 
+Luxembourg and abroad; (ii) the acquisition, holding and disposal, in any form, by any means, whether 
+directly or indirectly, of participations, shares, rights and interests in, and obligations of, Luxembourg 
+and foreign companies or other assets including but not limited to real estate assets; (iii) the acquisition 
+by purchase, subscription, or in any other manner, as well as the transfer by sale, exchange or in any 
+other manner of stock, bonds, debentures, notes and other securities or financial instruments of any kind 
+(including notes, shares or units issued by Luxembourg or foreign investment funds or similar 
+undertakings) and receivables, claims or loans or other credit facilities and agreements or contracts 
+relating thereto; (iv) the acquisition and holding of interests, directly or indirectly, in any form 
+whatsoever, in any Luxembourg or foreign entities, by way of, among others, the subscription or the 
+acquisition of any securities and/or rights through participation, contribution, underwriting, firm 
+purchase or option, patents, service marks, trademarks licenses and other commercial or intellectual 
+property rights, negotiation or in any other way; and (v) the ownership, administration, development 
+and management of a portfolio of assets or interests (including, among other things, the assets and 
+interests referred to in (i) through (iv) above). 
+The Company may borrow in any form. It may obtain any form of credit facility. The Company may 
+issue bonds, notes, promissory notes, perpetual notes, certificates, shares, beneficiary parts, options, 
+warrants and other debt or equity instruments, convertible or not. It may use financial derivatives or 
+raise funds by any other means. 
+The Company may use any techniques and instruments to efficiently manage its investments and to 
+protect itself against credit risks, currency exchange exposure, interest rate risks and other risks. The 
+Company may enter into, execute and perform any swaps, futures, forwards, derivatives, options, 
+repurchase, stock lending or similar transactions. 
+The Company may also render any assistance, whether by means of financing, administration, 
+marketing or any other kind of service, to its subsidiaries or companies in which it has a direct or indirect 
+interest, even not substantial, and/or any company being a direct or indirect shareholder of the Company 
+and/or any company belonging to the same group as the Company (the “Connected Companies”). For 
+the purposes of this Article, a company shall be deemed to be part of the same group as the Company 
+if such other company directly or indirectly owns, is owned by, is in control of, is controlled by, or is  
+26
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 1. General (continued) 
+under common control with, or is controlled by a shareholder of, the Company, in each case whether 
+beneficially or as trustee, guardian or other fiduciary. A company shall be deemed to control another 
+company if the controlling company possesses, directly or indirectly, all or substantially all of the share 
+capital of the Company or has the power to direct or cause the direction of the management or policies 
+of the other company, whether through the ownership of voting securities, by contract or otherwise. 
+The Company may in particular: 
+- 
+Lend funds including the proceeds of any borrowings or issues of securities to its Connected 
+Companies; 
+- 
+Enter into any guarantee, pledge or any other form of security, whether by personal covenant 
+or by mortgage or charge upon all or part of the undertaking, property assets (present or future) 
+or by all or any of such methods, for the performance of any contracts or obligations of the 
+Company and of any of the Connected Companies, or any director, manager or other agent of 
+the Company or any of the Connected Companies, within the limits of any applicable law 
+provision; 
+- 
+Subordinate its claims in favor of third parties to secure the obligations of any Connected 
+Companies; and 
+- 
+Render administrative and marketing assistance to its Connected Companies. 
+In addition to the foregoing, the Company may perform all legal, commercial, technical and financial 
+transactions and, in general, all transactions which are necessary or useful to fulfil its corporate object 
+as well as all transactions directly or indirectly connected with its purpose or which may favor its 
+development. 
+The descriptions of the object of the Company are to be construed broadly and such enumeration is not 
+limiting. The Company’s purpose shall include any transaction or agreement which is entered into by 
+the Company unless it is inconsistent with the relevant article in the Company’s articles of association. 
+Pursuant to Section XVI of the amended law of August 10, 1915, the Company also prepares 
+consolidated accounts which are deposited with the Luxembourg R.C.S. and published according to the 
+provisions of Luxembourg law. The Company’s accounts are included in the consolidated financial 
+statements of the Group. These Annual accounts are also available at the registered office of the 
+Company or its website (www.aroundtown.de). 
+Aroundtown’s ordinary shares are listed on the Prime Standard of the Frankfurt Stock Exchange and 
+included in the MDAX index of the Deutsche Börse (symbol: ATI). 
+Aroundtown’s credit rating is BBB+ with a negative outlook given by Standard and Poor’s (S&P). The 
+rating of BBB+ also applies to the Company’s unsecured debt. The Company’s subordinated perpetual 
+notes’ rating is BBB-. 
+ 
+ 
+27
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 2. Summary of Significant Accounting Policies 
+2.1 Basis of presentation 
+The annual accounts have been prepared in accordance with Luxembourg legal and regulatory 
+requirements (Lux GAAP) on a going concern basis and under the historical cost convention. 
+The accounting and valuation policies applied for the financial year ended December 31, 2024 are 
+determined by the Board of Directors in compliance with the amended Law of December 19, 2002.  
+The Company has prepared financial statements for the previous financial years up until the financial 
+year ended December 31, 2023 (inclusive) in accordance with the International Financial Reporting 
+Standards (IFRS) as adopted by the European Union. For financial periods starting January 1, 2024, the 
+Board of Directors resolved to change and amend the basis of preparation of the financial statements of 
+the Company to align it with the other group entities in Luxembourg and to enhance efficiencies of 
+preparation, audit and basis for tax implementations and to adopt General Accepted Accounting 
+Principles of Luxembourg (“Lux GAAP”). The preparation of annual accounts requires the use of 
+certain critical accounting estimates. It also requires the management of the Company to exercise its 
+judgement in the process of applying the accounting policies. Changes in assumptions may have a 
+significant impact on the annual accounts in the period in which the assumptions changed. Management 
+believes that the underlying assumptions are appropriate and that the annual accounts therefore present 
+the financial position and its results fairly. 
+The annual accounts of the Company are presented in Euro and the accompanying notes in thousands 
+of Euro (KEUR), rounded to the nearest KEUR, unless otherwise stated. 
+2.2 Foreign currency transactions 
+The Company maintains its books and records in Euro.  
+Transactions expressed in currencies other than Euro are translated into Euro at the exchange rate 
+effective at the time of the transaction. 
+Formation expenses and fixed assets expressed in currencies other than Euro are translated into Euro at 
+the exchange rate effective at the time of the transaction. At the balance sheet date, these items remain 
+translated at historical exchange rates.  
+Cash at bank is translated at the exchange rate effective at the balance sheet date. Exchange losses and 
+gains are recorded in the profit and loss account of the financial year. 
+Other assets and liabilities are valued individually at the lower and the higher respectively, of their value 
+at the historical exchange rate or their value determined at the exchange rates prevailing at the balance 
+sheet date. Realised exchange gains and losses are recorded in the profit and loss account at the moment 
+of their realisation. Only unrealised exchange losses are recorded in the profit and loss account. 
+Where there is an economic link between an asset and a liability, these are valued in total according to 
+the method described above and the net unrealised losses are recorded in the profit and loss account and 
+the net unrealised exchange gains are not recognised. 
+ 
+ 
+ 
+ 
+28
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 2. Summary of Significant Accounting Policies (continued) 
+2.3 Formation expenses  
+Formation expenses consist of share capital increase costs, credit facility and bank loan transaction costs 
+and subscription fees for bonds and perpetual notes. They are amortized on a straight-line basis over a 
+period of 5 years or over the lifetime of the related financial facility respectively. 
+If the financial instruments are repaid, converted, repurchased or redeemed on an earlier date, the related 
+remaining balances of unamortized financing costs are directly fully expensed in the profit and loss 
+account in the year of repayment/repurchase/redemption/conversion. 
+2.4 Tangible assets  
+Tangible assets are valued at purchase price including the expenses incidental thereto. They are 
+depreciated over their estimated useful economic lives.  
+The depreciation rates and methods applied are as follows: 
+Depreciation rates
+Depreciation method
+Other fixtures and fittings, tools and equipment
+20-33%
+Straight-line
+ 
+Where the Company considers that a tangible asset has suffered a durable depreciation in value, an 
+additional write-down is recorded to reflect this loss. These value adjustments are not continued if the 
+reason for which the value adjustments were made have ceased to apply. 
+2.5 Financial assets  
+Financial assets comprise Shares in affiliated undertakings, Loans to affiliated undertakings and Other 
+loans which are valued in the accounts at purchase price/nominal value (loans) including the expenses 
+incidental thereto.  
+In case the Company deems that there is a durable depreciation in value of the financial fixed assets, 
+value adjustments are recorded, so that they are valued at the lower figure to be attributed to them at 
+the balance sheet date. These value adjustments are not continued if the reasons for which the value 
+adjustments were made have ceased to apply. 
+2.6 Debtors  
+Debtors are valued at their nominal value. They are subject to value adjustments where their recovery 
+is compromised. These value adjustments are not continued if the reasons for which the value 
+adjustments were made have ceased to apply. 
+2.7 Investments  
+Investments may include transferable securities, own shares, as well as other investments in shares and 
+other securities equivalent to shares and in bonds or other forms of securitized debts.  
+Own shares are shares that have been reacquired by the Company and are recognized at their acquisition 
+cost, including directly attributable transaction costs. 
+Transferable securities, own shares as well as other investments are valued at the lower of cost including 
+expenses incidental thereto and calculated on the basis of the FIFO method or market value. A value 
+adjustment is recorded where the market value is lower than the cost of purchase. These value 
+adjustments are reversed if the reasons for which the value adjustments were made have ceased to apply.  
+The market value corresponds to: 
+29
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 2. Summary of Significant Accounting Policies (continued) 
+a. the last available quoted price in an active market for quoted securities; 
+b. the fair value estimated with due care and in good faith by the Company based on market and business 
+assumptions. 
+2.8 Derivatives  
+Derivative financial instruments include mainly cross currency interest and credit default swaps and 
+forward contracts. Derivatives are initially stated at cost for derivatives purchased. At each balance 
+sheet date, unrealized losses are recognized in the profit and loss account, whereas gains are accounted 
+for when realized. In case of derivative financial instruments used for hedging an asset and/or a liability, 
+unrealized gains or losses are deferred until the recognition of the realized losses or gains on the hedged 
+items, with exception for hedging of interest rate (e.g., using cross-currency swap derivative 
+instruments), whereby the unrealized losses or gains are recognized to reflect the effective interest rate 
+contracted in the hedge agreement. 
+Commitments on those derivative financial instruments are disclosed in notes 6, 11.4 and 13. 
+2.9 Prepayments  
+The asset item includes expenditures incurred during the financial year but relating to subsequent 
+financial year. 
+Prepayments also include discounts, issuance costs for bonds and perpetual notes and upfront fees for 
+loans. These costs are capitalized and amortized over the period of the facility or recognized in the 
+corresponding financial year, as applicable. 
+2.10 Provisions  
+Provisions are intended to cover losses or debts, the nature of which is clearly defined and, at the date 
+of the balance sheet, are either likely to be incurred or certain to be incurred but uncertain as to their 
+amount or as to the date on which they will arise.  
+Provisions may also be created to cover charges which have their origin in the financial year or in a 
+previous financial year, the nature of which is clearly defined and which at the Balance Sheet date are 
+either likely to be incurred, or certain to be incurred but uncertain as to their amount or as to the date 
+on which they will arise.  
+2.11 Creditors  
+Creditors are recorded at their nominal value.  
+Where the amount repayable on account is greater than the amount received, the difference is shown as 
+an asset and is amortized on a straight-line basis over the period of the debt.  
+2.12 Income and charges  
+Income and charges are recorded on the accrual basis of accounting.  
+2.12.1 Interest income and interest charges  
+Interest income and interest charges are accrued on a timely basis, by reference to the principal 
+outstanding and at the nominal interest rate applicable, with adjustments, where applicable, pursuant to 
+hedge financial instrument contracts designated for hedging the interest rate. 
+ 
+ 
+30
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 2. Summary of Significant Accounting Policies (continued) 
+2.12.2 Dividend income  
+Dividend income from investments is recognized when the shareholder’s right to receive the payment 
+has been established.  
+2.13 Taxation  
+The Company is subject to the general tax regulation applicable to commercial companies in 
+Luxembourg. 
+2.14 Share-based payment transactions  
+The grant-date fair value of equity-settled share-based payment awards granted to directors and senior 
+management is generally recognized as an expense, with a corresponding increase in provision, over 
+the vesting period of the awards. 
+The amount recognized as an expense is adjusted to reflect the number of awards for which the related 
+service and non-market performance conditions are expected to be met, such that the amount ultimately 
+recognized is based on the number of awards that meet the related service and non-market performance 
+conditions at the vesting date. 
+Note 3. Critical accounting estimates 
+The preparation of the annual accounts and the application of the accounting policies and methods 
+described below require critical accounting estimates that involve judgements and the use of 
+assumptions. By their nature, the assessments necessary for drawing up the annual accounts require the 
+formulation of hypotheses and carry risks and uncertainties as to their occurrence in the future. 
+Although the Board of Directors believes that it has taken all available information into account in 
+determining these judgements and estimates, the actual future profits and losses from the operations 
+concerned could differ from these estimates and therefore have a material impact on the annual 
+accounts. 
+The use of estimates mainly concerns the estimation of the recoverable amount of the potentially 
+impaired financial assets. 
+ 
+ 
+31
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 4. Formation expenses  
+Formation expenses consist of share capital increase costs incurred as part of a significant extension of 
+Company’s activity: 
+2024
+2023
+KEUR
+KEUR
+Gross book value - opening balance 
+31,774
+31,774
+Additions for the financial year
+-
+-
+Disposals for the financial year 
+-
+-
+Gross book value – closing balance
+31,774
+31,774
+Accumulated value adjustments - opening balance 
+(29,904)
+(27,467)
+Allocations for the financial year
+(1,703)
+(2,437)
+Reversals for the financial year 
+-
+-
+Accumulated value adjustments – closing balance
+(31,607)
+(29,904)
+Net book value - opening balance 
+1,870
+4,307
+Net book value - closing balance 
+167
+1,870
+ 
+32
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024  
+ 
+ 
+Note 5. Financial assets 
+The movements for the financial year are as follows: 
+ 
+                  Affiliated undertakings 
+ 
+ 
+     
+Shares
+Loans
+Other loans
+Total 
+ 
+KEUR
+KEUR
+KEUR
+KEUR
+Gross book value - opening balance  
+17,945,537
+890,874
+85
+18,836,496
+Additions for the financial year
+210,474
+4,897,573
+-
+5,108,047
+Disposals for the financial year 
+(7,531,225)
+(553,209)
+(75)
+(8,084,509)
+Gross book value – closing balance 
+10,624,786
+5,235,238
+10
+15,860,034
+ 
+Accumulated value adjustments - opening balance  
+(276,988)
+-
+-
+(276,988)
+Allocations for the financial year 
+(81,719)
+-
+-
+(81,719)
+Reversals for the financial year 
+31,261
+-
+-
+31,261
+Accumulated value adjustments - closing balance 
+(327,446)
+-
+-
+(327,446)
+ 
+Net book value - opening balance  
+17,668,549
+890,874
+85
+18,559,508
+Net book value - closing balance 
+10,297,340 
+5,235,238
+10
+15,532,588
+ 
+The Company periodically evaluates the recoverability of its investments in affiliates whenever indicators or impairment are present. Indicators of impairment 
+include items such as declines in revenues, earnings or cash flows or material adverse changes in economic or political stability of the particular country, which 
+may indicate that the carrying amount of an asset is not recoverable in full. If the loss in value is considered durable, a value adjustment is recorded for the 
+investment in affiliates. During the financial year, the Company has concluded to record a value adjustment of KEUR 50,458 (2023: KEUR 213,367), as per 
+the recoverable amount identified. 
+Loans to affiliated undertakings predominantly correspond to: 
+Main loans granted to affiliated undertakings were to TLG Immobilien AG, with a balance as at December 31, 2024 of KEUR 337,665 (2023: KEUR 529,500), 
+to Bluestyle Limited, nil (2023: KEUR 65,010), to Aroundtown Limited, nil (2023: KEUR 296,364), and to Aroundtown Real Estate Limited of KEUR 
+4,897,573 (2023: nil). See also note 15 - Interest on loans granted to affiliated undertakings. 
+ 
+ 
+33
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 5. Financial assets (continued) 
+Significant affiliated undertakings in which the Company holds at least 20% of the share capital as at December 31, 2024 are as follows: 
+Affiliate 
+Country 
+Percentage 
+Holding (%) 
+Acquisition costs, 
+net of value 
+adjustments 
+Equity as at 
+December 31, 
+2024 (***) 
+Profit (loss) for 
+the year ended 
+December 31, 
+2024 (***) 
+ 
+ 
+ 
+KEUR 
+KEUR 
+KEUR 
+Aroundtown Limited (*) 
+(With registered office at 54B Artemidos & Nikou Demetriou 54B, 
+Scanner Avenue Tower, 6031, Larnaca, Cyprus)
+Cyprus 
+100% 
+5,783,708 
+8,008,889 
+ 
+68,821 
+TLG Immobilien AG 
+(With registered office at Wittestraße 30, Haus F, 13509 Berlin (until 
+7.3.2025: Alexanderstraße 1, 10178 Berlin))
+Germany 
+88.11% 
+2,878,839 
+3,248,389 
+ 
+12,436 
+Edolaxia Group Limited (**) 
+(With registered office at 54B Artemidos & Nikou Demetriou 54B, 
+Scanner Avenue Tower, 6031, Larnaca, Cyprus)
+Cyprus 
+100% 
+1,096,007 
+3,071,026 
+ 
+132,799 
+Alfortia Limited 
+(With registered office at 54B Artemidos & Nikou Demetriou 54B, 
+Scanner Avenue Tower, 6031, Larnaca, Cyprus)
+Cyprus 
+100% 
+4,956 
+109,035 
+ 
+2,878 
+Bluestyle Limited 
+(With registered office at 54B Artemidos & Nikou Demetriou 54B, 
+Scanner Avenue Tower, 6031, Larnaca, Cyprus)
+Cyprus 
+100% 
+321,030 
+438,332 
+ 
+41,213 
+Aroundtown Holdings B.V. 
+(With registered office at H.J.E. Wenckebachweg 123, 1096AM 
+Amsterdam)
+Netherlands 
+100% 
+195,286 
+161,025 
+ 
+19,867 
+AT Securities B.V. 
+(With registered office at H.J.E. Wenckebachweg 123, 1096AM 
+Amsterdam)
+Netherlands 
+100% 
+2,000 
+9,740 
+ 
+(14,140) 
+Aroundtown Holdings S.à r.l.  
+(37, Boulevard Joseph II, L-1840 Luxembourg) 
+Luxemburg 
+100% 
+10,077 
+20,966 
+ 
+21,367
+ATF Netherlands B.V. 
+(With registered office at H.J.E. Wenckebachweg 123, 1096AM 
+Amsterdam)
+Netherlands 
+100% 
+2,000 
+2,826 
+ 
+183 
+ 
+ 
+ 
+10,293,903 
+15,070,228 
+285,424 
+(*) the amount includes investment in Redeemable Preference Shares (“RPS”) in Aroundtown Real Estate Limited, a wholly owned subsidiary of Aroundtown 
+Limited. The RPS carry similar rights as the ordinary shares carry, with the exception that they accumulate their right for dividends, so any future dividend 
+would be first paid to the RPS holders and the remaining part to the ordinary shareholders, pro-rata. The RPS are redeemable at the sole discretion of the issuer. 
+34
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 5. Financial assets (continued) 
+(**) as at December 31, 2024, the Company held indirectly, via its holdings in Edolaxia Group Limited, 61.86% in Grand City Properties S.A. (“GCP”) 
+(excluding own share of GCP held in treasury) (December 31, 2023: 62.68%). 
+ 
+(***) Based on individual financial information prepared in accordance with IFRS as adopted by the European Union (EU) as of December 31, 2024 . 
+ 
+ 
+35
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 6. Debtors 
+Debtors are composed of: 
+  
+Within one 
+year 
+After more 
+than one year 
+Total 
+December 31, 
+2024 
+Total 
+December 31, 
+2023 
+ 
+KEUR 
+KEUR 
+KEUR 
+KEUR 
+Amounts owed by affiliated 
+undertakings 
+1,841,492 
+24,302 
+1,865,794 
+31,744 
+Other debtors 
+214,358 
+- 
+214,358 
+239,514 
+Total 
+2,055,850 
+24,302 
+2,080,152 
+271,258 
+ 
+Other debtors correspond mainly to Receivables from non-affiliated undertakings amounted to KEUR 
+200,830 (2023: KEUR 203,495), including a security granted, as detailed in Note 13, amounting to 
+KEUR 200,000; 
+Amounts owed by affiliated undertakings correspond mainly to: 
+- 
+Receivables from Aroundtown Real Estate Limited amounted to KEUR 1,831,877 (2023: nil). 
+Receivables from AOE Inv. & Management S.à r.l. amounted to KEUR 24,403 (2023: KEUR 22,697).  
+ 
+Note 7. Own shares 
+As at December 31, 2024, the Company held 32,287,892 of own shares (2023: 32,287,892 own shares) 
+having carrying amount of KEUR 94,313 (2023: KEUR 80,074). No own shares were acquired during 
+the year. 
+The own shares held in treasury by the Company and the Company’s wholly owned affiliates are 
+suspended from voting and dividend rights. In other cases, shares held in treasury are also suspended 
+from voting rights but entitled to dividends. 
+Movements in own shares are detailed as follows: 
+ 
+Number of 
+shares
+Cost
+Value 
+adjustment
+Net 
+value
+ 
+KEUR
+KEUR
+KEUR
+Opening balance as at January 1, 2024 
+32,287,892
+161,536
+(81,462)
+80,074
+Movements 
+ -
+ -
+14,239
+14,239
+Closing balance as at December 31, 2024 
+32,287,892
+161,536
+(67,223)
+94,313
+ 
+The own shares held represent 2.10% of the Company's subscribed capital as of December 31, 2024. 
+ 
+ 
+36
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 8. Cash at bank and in hand 
+Credit risk from balances with banks and financial institutions is managed by the Company’s treasury 
+department in accordance with the Company’s policy.  
+ 
+The Company holds its cash at bank and in hand with highly-rated (mostly between A- to A by the 
+leading global rating agencies) banks and financial institutions. Concentration risk is mitigated by not 
+limiting the exposure to a single counter party. 
+The composition of cash and cash equivalents was as follows: 
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Cash at banks 
+347,374
+77,004
+Cash deposits of up to three months 
+327,457
+155,124
+Total 
+674,831
+232,128
+ 
+None of the cash at bank and in hand items are restricted. 
+ 
+Note 9. Prepayments 
+Prepayments are mainly composed of discounts and issuance costs for bonds and perpetual notes and 
+upfront fees for loans, for a total amount of KEUR 112,126 (2023: KEUR 108,161). These costs are 
+amortized over the period of the facility. As at December 31, 2024, the Company has recorded under 
+prepayments KEUR 252 (2023: KEUR 119) of prepaid operating expenses related to the following 
+financial year.  
+ 
+Note 10. Capital and reserves 
+Note 10.1. Subscribed capital 
+As at December 31, 2024 and December 31, 2023, the subscribed capital amounts to KEUR 15,370 and 
+is divided into 1,537,025,609 shares fully paid up ordinary shares, each with a nominal value of EUR 
+0.01. The authorized share capital of the Company amounts to KEUR 30,000 and is divided into 
+3,000,000,000 ordinary shares, each with a nominal value of EUR 0.01.  
+There was no movement in the subscribed capital of the Company during the financial year. 
+Note 10.2. Share premium 
+The share premium was derived directly from the capital increases that took place since the date of 
+incorporation and from conversion of the convertible bonds into ordinary shares and can be distributed 
+at any time. 
+On March 26, 2024, The board of directors of the Company has decided not to recommend a dividend 
+payment for 2023 financial year at the Company’s annual general meeting, following the increase in 
+macro-economic and capital markets uncertainty and volatility. The decision not to pay was officially 
+accepted by the annual general meeting that took place on June 26, 2024. 
+ 
+ 
+37
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 10.3. Legal reserve 
+The Company is required to allocate a minimum of 5% of its annual net income to a legal reserve, until 
+this reserve equals 10% of the subscribed share capital. This reserve may not be distributed. 
+As at December 31, 2024, the legal reserve amounted to KEUR 1,053 (2023: KEUR 1,053). 
+Note 10.4. Reserve for own shares 
+The Company created a non-distributable reserve (“Reserve for own shares”) for an amount of KEUR 
+94,313 (2023: KEUR 80,074). Refer to Note 7. for information on own shares held by the Company. 
+Note 10.5. Movements in the reserves and profit or loss items 
+  
+Legal 
+reserve
+Reserve for 
+own shares
+Profit or 
+(loss) 
+brought 
+forward
+Profit for 
+the financial 
+year
+ 
+KEUR
+KEUR
+KEUR
+KEUR
+Opening balance as at 1 January 
+2024 
+1,053
+80,074
+(87,830)
+246,471
+Movement for the year: 
+- Allocation of previous year’s 
+profit 
+-
+-
+246,471
+(246,471)
+- Profit for the financial year 
+-
+-
+-
+186,822
+- Other movements  
+-
+14,239
+-
+-
+Closing balance as at 31 
+December 2024 
+1,053
+94,313
+158,641
+186,822
+ 
+Note 11. Creditors 
+Amounts shown under “Creditors” are as follows: 
+  
+Note
+Within one 
+year
+After more 
+than one 
+year
+Total
+2024
+Total
+2023
+ 
+KEUR
+KEUR
+KEUR
+KEUR
+Non-convertible loans 
+11.1
+1,204,583
+8,394,034
+9,598,617
+11,210,172
+Amounts due to credit institutions 
+11.2
+1,331
+139,317
+140,648
+146,514
+Trade creditors 
+38,648
+-
+38,648
+25,348
+Amounts owed to affiliated 
+undertakings 
+11.3
+829,188
+2,544,519
+3,373,707
+2,720,333
+Other creditors 
+10,374
+-
+10,374
+334
+Total 
+2,084,124
+11,077,870
+13,161,994
+14,102,701
+ 
+ 
+ 
+38
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.1. Non-convertible loans 
+Non-convertible loans are detailed as follows:  
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Bonds  
+8,566,968
+8,564,386
+Perpetual notes 
+910,926
+2,521,178
+Interest payable for bonds and perpetual notes 
+110,861
+128,021
+Derivative instruments 
+(13,014)
+(9,350)
+Other liabilities 
+22,876
+5,937
+Total 
+9,598,617
+11,210,172
+ 
+39
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.1. Non-convertible loans (continued) 
+Set out below is an overview of the Company’s bonds as at December 31, 2024 and December 31, 2023: 
+Series 
+Note 
+Currency 
+Nominal 
+amount in 
+original 
+currency as at 
+31.12.2024
+Nominal 
+amount in 
+original 
+currency as at 
+31.12.2023
+Coupon rate 
+(p.a.)
+Contractual 
+maturity
+Carrying 
+amount in 
+EUR as at 
+31.12.2024
+Carrying 
+amount in 
+EUR as at 
+31.12.2023
+ccy million
+MEUR
+KEUR
+KEUR
+Series H
+(a) (b) (c)
+USD
+400.0
+400.0
+1.365
+03/2032
+372,440
+372,440
+Series I
+(*)
+EUR
+178.9
+206.9
+1.88
+01/2026
+178,900
+206,900
+Series J
+(b) (c) (l)
+GBP
+483.5
+483.5
+1.48
+10/2029
+578,842
+556,312
+Series K
+(*)
+EUR
+266.3
+478.9
+1.00
+01/2025
+266,300
+478,900
+Series L
+(b) (c) (e)
+USD
+150.0
+150.0
+4.846
+02/2038
+125,156
+125,156
+Series M
+(c)
+CHF
+239.8
+239.8
+0.73
+01/2025
+213,075
+213,075
+Series N
+(*)
+EUR
+795.0
+800.0
+1.63
+01/2028
+795,000
+800,000
+Series O
+EUR
+296.8
+296.8
+2.0
+11/2026
+296,800
+296,800
+Series P
+(c) (f), (*)
+AUD
+-
+202.0
+1.244%+ Euribor (6M) 
+05/2025
+-
+128,290
+Series R
+(b) (c) (g), (*)
+CAD
+62.4
+181.8
+3.00 
+09/2025
+40,362
+117,531
+Series T
+(h)
+EUR
+150.0
+150.0
+3.00 
+09/2030
+150,000
+150,000
+Series U
+EUR
+75.0
+75.0
+2.97
+09/2033
+75,000
+75,000
+Series V
+EUR
+50.0
+50.0
+2.7
+10/2028
+50,000
+50,000
+Series W
+EUR
+76.0
+76.0
+3.25
+11/2032
+76,000
+76,000
+Series X
+(c)
+CHF
+99.8
+99.8
+1.72
+03/2026
+91,515
+91,523
+Series NOK
+(a) (b) (c)
+NOK
+750.0
+750.0
+0.818
+07/2027
+79,316
+79,316
+Series 27 
+(*)
+HKD
+-
+430.0
+1.62
+03/2024
+-
+48,325
+Series 28
+(b) (c) (i), (*)
+USD
+496.5
+540.8
+5.167 
+03/2029
+438,483
+477,562
+Series 29
+(b) (c) (j)
+NOK
+1735.0
+1,735.0
+3.00 
+03/2029
+179,032
+179,032
+Series 30
+(b) (c) (k), (*)
+GBP
+387.7
+388.7
+3.00  
+04/2031
+454,171
+455,342
+Series 31
+(c)
+JPY
+7,000.0
+7,000.00
+1.42
+05/2029
+61,253
+61,253
+Series 32
+(*)
+EUR
+518.2
+603.8
+0.63
+07/2025
+518,200
+603,800
+Series 33
+EUR
+600.0
+600.0
+1.45
+07/2028
+600,000
+600,000
+Series 34
+(b) (c)
+NOK
+500.0
+500.0
+1.055
+07/2025
+45,923
+46,629
+Series 36
+(*)
+EUR
+475.5
+519.5
+1.50
+05/2026
+475,500
+519,500
+40
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Series 
+Note 
+Currency 
+Nominal 
+amount in 
+original 
+currency as at 
+31.12.2024
+Nominal 
+amount in 
+original 
+currency as at 
+31.12.2023
+Coupon rate 
+(p.a.)
+Contractual 
+maturity
+Carrying 
+amount in 
+EUR as at 
+31.12.2024
+Carrying 
+amount in 
+EUR as at 
+31.12.2023
+ccy million
+MEUR
+KEUR
+KEUR
+Series 38
+EUR
+727.8
+727.8
+0.00
+07/2026
+727,800
+727,800
+Series 39
+EUR
+1027.9
+1027.9
+0.375
+04/2027
+1,027,900
+1,027,900
+Series 40
+(d) 
+EUR
+650.0
+-
+4.80
+07/2029
+650,000
+-
+Total
+8,566,968
+8,564,386
+ 
+ 
+(a) coupon and principal are linked to Consumer Price Index (CPI) through derivative instruments 
+(b) effective coupon in euro 
+(c) the Company hedged the currency risk of the principal amount until maturity 
+(d) In July 2024, the Company successfully completed the placement of EUR 650 million nominal value series 40 bonds for a net price of ca. 97.1% of its nominal value, 
+maturing in July 2029 and carrying a 4.8% annual coupon. The bonds were issued under the EMTN Programme 
+(e) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.75% p.a., semi-annually 
+until Q1-2023, and 1.78% p.a. plus Euribor (6M), semi-annually for the following years until maturity. The Company fixed the variable interest to 4.846% p.a. from 
+April 2024 until February 2028 
+(f) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.605% p.a., semi-annually 
+until Q2-2023, and 1.244% p.a. plus Euribor (6M), semi-annually for the following years until maturity (and eventually early repayment) 
+(g) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.7% p.a., semi-annually 
+until Q3-2023, and 2.72% p.a. plus Euribor (6M), semi-annually for the following years until maturity. The company fixed the variable interest to 3.0% p.a. from 
+March 2024 until maturity 
+(h) the Company hedged the interest rate risk, the effective annual euro coupon is 2.0% until Q3-2023, and a semi-annual coupon of 2.266% p.a. plus Euribor (6M) for 
+the following years until maturity. The Company fixed the variable interest to 3.0% p.a. from March 2024 until September 2027  
+(i) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.75% p.a., semi-annually 
+until Q1-2023, and 2.636% p.a. plus Euribor (6M), semi-annually for the following years until maturity. The Company fixed the variable interest to 5.167% p.a. from 
+March 2024 until March 2026 
+(j) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.75% p.a. until Q1-2023, 
+41
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+and 2.52% p.a. plus Euribor (6M), semi-annually for the following years until maturity. The Company fixed the variable interest to 3.0% p.a. from March 2024 until 
+maturity 
+(k) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.75% p.a. until Q2-2023, 
+and 2.11% p.a. plus Euribor (6M), semi-annually for the following years until maturity. The Company fixed the variable interest to 3.0% p.a. from April 2024 until 
+April 2028 
+(l) the Company hedged the currency risk of the principal amount and coupon with a cross-currency swap; the effective annual euro coupon is 1.48% p.a. from July 2024 
+until maturity 
+ 
+(*) Buyback and redemption of bonds 
+During the year, the Company bought back some of its straight bonds. Set forth are the amounts bought back and redeemed upon maturity during the year 2024: 
+ 
+ 
+Straight bond  
+Currency 
+Contractual 
+maturity 
+Nominal value bought back 
+Outstanding nominal 
+value as at December 31, 
+2024 
+ 
+ 
+ 
+in millions  
+(original currency)
+in EUR millions
+in millions  
+(original currency)
+Series 27 
+HKD 
+03/2024 
+430.0  
+48.3 
+Fully redeemed 
+Series K 
+EUR 
+01/2025 
+212.6 
+212.6 
+266.3 
+Series P 
+AUD 
+05/2025 
+202.0 
+127.3 
+Fully redeemed 
+Series 32 
+EUR 
+07/2025 
+85.6 
+85.6 
+518.2 
+Series R 
+CAD 
+09/2025 
+119.4 
+78.5 
+62.4 
+Series I
+EUR
+01/2026 
+28.0  
+28.0 
+178.9
+Series 36 
+EUR 
+05/2026 
+44.0 
+44.0 
+475.5 
+Series N 
+EUR 
+01/2028 
+5.0 
+5.0 
+795.0 
+Series 28 
+USD 
+03/2029 
+44.3 
+39.2 
+496.5 
+Series 30
+GBP
+04/2031
+1.0
+1.2
+387.7
+Total nominal value bought-back /redeemed 
+ 
+669.7 
+ 
+42
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.1. Non-convertible loans (continued) 
+Main security, pledge and negative pledge as defined in the bonds’ term and conditions 
+This note provides an overview of certain covenants of the Company under its series of bonds 
+(other than the perpetual notes, which do not contain financial covenants) which are outstanding 
+as at December 31, 2024. The complete terms and conditions of each series of bonds are set 
+forth in the relevant bond documentation. Capitalised terms used in this note have the meanings 
+set forth in the terms and conditions of the relevant series of bonds. 
+ 
+Save for one of the Company’s outstanding series of bonds (Series 36), which contains a similar 
+provision, the Company undertakes that it will not, and will procure that none of its Subsidiaries 
+will, up to (and including) the Final Discharge Date, incur any Indebtedness (other than any 
+Refinancing Indebtedness) if, immediately after giving effect to the incurrence of such 
+additional Indebtedness and the application of the net proceeds of such incurrence: the sum of: 
+ 
+a) (i) the Consolidated Indebtedness (less Cash and Cash Equivalents) as at the Last Reporting 
+Date; and (ii) the Net Indebtedness (less Cash and Cash Equivalents) incurred since the Last 
+Reporting Date would exceed 60 per cent. (depending on the relevant series of bonds) of the 
+sum of (without duplication): (i) the Total Assets (less Cash and Cash Equivalents) as at the 
+Last Reporting Date; and (ii) the value of all assets acquired or contracted for acquisition by 
+the Group as determined at the relevant time in accordance with IFRS and the accounting 
+principles applied by the Company in the latest Financial Statements as certified by the 
+auditors of the Company since the Last Reporting Date (or, as the case may be, the purchase 
+price of any Real Estate Property acquired or contracted for acquisition by the Group since 
+the Last Reporting Date); and (iii) the proceeds of any Indebtedness incurred since the Last 
+Reporting Date (but only to the extent that such proceeds were not used to acquire Real Estate 
+Property or to reduce Indebtedness); and 
+ 
+b)  (i) the Consolidated Secured Indebtedness (excluding the GCP Series E Bonds, as the case 
+may be, and in each case less Cash and Cash Equivalents) as at the Last Reporting Date; and 
+(ii) the Net Secured Indebtedness (excluding the GCP Series E Bonds, as the case may be, 
+and in each case less Cash and Cash Equivalents) incurred since the Last Reporting Date shall 
+not exceed 45 per cent. of the sum of (without duplication): (i) the Total Assets (less Cash 
+and Cash Equivalents) as at the Last Reporting Date; (ii) the value of all assets acquired or 
+contracted for acquisition by the Group as determined at the relevant time in accordance with 
+IFRS and the accounting principles applied by the Company in the latest Financial Statements 
+as certified by the auditors of the Company since the Last Reporting Date (or, as the case may 
+be, the purchase price of any Real Estate Property acquired or contracted for acquisition by 
+the Group since the Last Reporting Date); and (iii) the proceeds of any Indebtedness incurred 
+since the Last Reporting Date (but only to the extent that such proceeds were not used to 
+acquire Real Estate Property or to reduce Indebtedness). 
+ 
+ 
+43
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.1. Non-convertible loans (continued) 
+ 
+In most of the Company’s outstanding series of bonds (excluding Series 36), the Company 
+undertakes that the sum of: (i) the Unencumbered Assets (less Cash and Cash Equivalents) as at 
+the Last Reporting Date; and (ii) the Net Unencumbered Assets (less Cash and Cash Equivalents) 
+newly recorded since the Last Reporting Date will at no time be less than 125 per cent. of the sum 
+of: (i) the Unsecured Indebtedness (less Cash and Cash Equivalents) at the Last Reporting Date; 
+and (ii) the Net Unsecured Indebtedness (less Cash and Cash Equivalents) incurred since the Last 
+Reporting Date. 
+ 
+The Company undertakes that, on each Reporting Date, the Interest Coverage Ratio will be at 
+least 1.8 (excluding one series of standalone bonds, for which the Consolidated Coverage Ratio 
+will be at least 2.0). 
+ 
+Save for two of the Company’s series of bonds, which contains similar provisions, the Company’s 
+outstanding series of bonds contain a customary negative pledge clause that prohibits the 
+Company, so long as any of the Senior Notes remain outstanding, from creating or having 
+outstanding any Security Interest (other than a Permitted Security Interest) upon any of its present 
+or future business, undertaking, assets or revenues (including any uncalled capital) to secure any 
+Capital Markets Indebtedness, unless the Company promptly takes any and all action necessary 
+to ensure that: 
+ 
+(i) 
+all amounts payable by it under the Senior Notes and the Trust Deed are secured by the 
+Security Interest equally and rateably with the Capital Markets Indebtedness to the 
+satisfaction of the Trustee; or 
+ 
+(ii) 
+such other Security Interest or other arrangement is provided either (i) as the Trustee in 
+its absolute discretion deems not materially less beneficial to the interests of the Senior 
+Noteholders or (ii) as is approved by an Extraordinary Resolution of the Senior 
+Noteholders. 
+The exposure of the Company to interest rate risk in relation to financial instruments is reported 
+in note 24 to the annual accounts. There have been no breaches in covenants during the year and 
+up to the date of approval of these annual accounts. 
+ 
+ 
+44
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+11.1 Non-convertible loans (continued) 
+Set out below is an overview of the Company’s perpetual notes as at December 31, 2024 and December 31, 2023: 
+Issuer 
+Note 
+Currency 
+Nominal 
+amount in 
+original 
+currency as at 
+31.12.2024
+Nominal 
+amount in 
+original 
+currency as at 
+31.12.2023
+Annual 
+coupon 
+rate until 
+next reset 
+date
+First call 
+date
+Next reset 
+margin
+Carrying 
+amount in 
+EUR as at 
+31.12.2024
+Carrying 
+amount in 
+EUR as at 
+31.12.2023
+KEUR
+KEUR
+KEUR
+KEUR
+Aroundtown SA 
+ (e) 11.1.1 
+EUR 
+93,700
+394,500
+4.542
+01/2025
+2.250+5Y 
+Mid-Swap
+93,700
+394,500
+Aroundtown SA 
+(a) (b) (c) 11.1.1 
+GBP 
+19,319
+400,000
+6.850
+06/2025
+4.627+5Y 
+Mid-Swap
+21,631
+447,878
+Aroundtown SA 
+(d) 11.1.1  
+EUR 
+155,300
+600,000
+6.193
+12/2025
+4.230+5Y 
+Mid-Swap
+155,300
+600,000
+Aroundtown SA 
+(d) 11.1.1 
+EUR 
+61,495
+500,000
+2.875
+01/2025
+3.460+5Y 
+Mid-Swap
+61,495
+500,000
+Aroundtown SA 
+ 
+EUR 
+578,800
+578,800
+1.625
+04/2026
+2.419+5Y 
+Mid-Swap
+578,800
+578,800
+Total
+910,926
+2,521,178
+ 
+The issuer of the perpetual notes may, at its sole discretion, elect to defer the payment of coupons on the notes. These unpaid coupons arrears must be paid by 
+the issuer upon the occurrence of certain events, including but not limited to dividends, distributions or other payments made to instruments such as the 
+Company’s ordinary shares, which rank junior to the perpetual notes. Any such deferred amounts shall not be compounded. The principal value of the notes 
+may be redeemed at the issuer’s sole discretion and on certain dates as detailed above under “First call date”. If the Company decides not to redeem a perpetual 
+note, the annual coupon rates for following periods are updated according to the “Next reset margin” (updated on the First call date and every 5 years from that 
+date when the perpetual note is not called by the Company). The next possible call date shall be in each subsequent year of the Next call date. 
+(a) effective euro coupon rate using cross-currency swap the euro amount is based on the historical rate as of placement of the notes 
+(b) the euro amount is based on the historical rate as of placement of the notes 
+(c) in May 2024, a resolution was made for the Company’s £20.4 million outstanding nominal value (after the Perpetual Notes Offers described in note 11.1.1, 
+nominal value of £19.3 million was left outstanding) of its 4.75% perpetual notes with first call date on June 25, 2024 (the “GBP Notes”). As stipulated in 
+the terms and conditions of the GBP Notes, the coupon rate starting from June 2024 was set to be at 5-year Mid-Swap rate plus margin of 4.377% p.a. (total 
+coupon rate of 8.521% p.a., subsequently swapped into 6.85% p.a. on a fixed euro notional amount) with the next coupon rate reset date in June 2029. 
+ 
+ 
+45
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.1 Non-convertible loans (continued) 
+ 
+(d) In November 2024, the Company announced the decision not to voluntarily redeem its EUR 155.3 million and EUR 61.5 million outstanding nominal 
+value of its 3.375% and 2.875% perpetual notes with first call date on December 23, 2024, and January 12, 2025, respectively (the “EUR Notes”). As 
+stipulated in the terms and conditions of these EUR Notes, the coupon rate starting from December 2024 and January 2025 was set to be at 5-year Mid-
+Swap rate plus margin of 3.98% p.a. (total coupon rate of 6.193%) and 5-year Mid-Swap rate plus margin of 3.46% p.a. (total coupon rate of 5.871%), 
+with the next coupon rate reset date in December 2029 and January 2030, respectively. 
+(e) on December 13, 2023, the Company announced its decision not to exercise the option to voluntarily call the 2.125% perpetual note series in January 
+2024. Consequently, as from January 17, 2024, the perpetual note series bears annual coupon with an increased rate of 4.542% (equal to 2.0% + 5-year 
+Mid-Swap as of the reset date). The next call date by the Company’s discretion and the next reset margin shall be in January 2025 and 2.25% + 5-year 
+Mid-Swap, respectively
+46
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.1.1 Exchange and tender offers 
+In April 2024, following resolutions taken by the Board of Directors of the Company, the Company, 
+executed voluntary exchange and tender offers (the “April Offers”) to the holders of a total of four 
+outstanding perpetual notes that were not called in 2023 and 2024, and for those with first call dates 
+approaching in the next 12 months. 
+Under the April Offers, holders of the relevant existing perpetual notes had the opportunity to exchange 
+existing eligible holdings to one of either: 
+(i)  new perpetual notes at a relevant exchange ratio and a cash amount for participating in the exchange; 
+or 
+(ii) new perpetual notes at a relevant exchange ratio, a cash amount for participating in the exchange, 
+and 15-20% redemption of their exchanged notes for cash at discount forming a small premium over 
+the market prices prevailing prior to the April Offers. 
+ 
+In September 2024, another exchange and tender offer (the “September Offers”, and together with April 
+Offers – the “Perpetual Notes Offers”) was executed by the Company, under which the holders could 
+choose between: 
+(i)  new perpetual notes at a relevant exchange ratio; or 
+(ii) new perpetual notes at a relevant exchange ratio, and 20% redemption of their exchanged notes for 
+cash at discount forming a small premium over the market prices prevailing prior to the September 
+Offers. 
+ 
+Set out below are the Perpetual Notes Offers’ results: 
+Perpetual notes series 
+tendered
+Original 
+currency
+Principal 
+amount 
+outstanding 
+prior to the 
+Perpetual 
+Notes Offers
+Principal 
+amount 
+accepted
+Thereof principal 
+amount redeemed 
+at discount
+Principal 
+amount 
+accepted
+Thereof 
+principal 
+amount 
+redeemed 
+at discount
+(ISIN)
+(in millions of original currency)
+(in EUR millions)
+XS2055106210
+EUR
+600.0
+443.7
+24.8
+443.7
+24.8
+XS1752984440
+EUR
+394.5
+300.8
+21.4
+300.8
+21.4
+XS2027946610
+EUR
+500.0
+438.2
+44.0
+438.2
+44.0
+XS2017788592
+GBP
+400.0
+380.7
+34.9
+426.2 (*)
+39.1 (*)
+Total principal amount accepted in the Perpetual Notes Offers and of which redeemed at discount 
+(in EUR millions):
+1,608.9
+129.3
+(*) exchanged / redeemed nominal values at historical rate as of original placement of the notes 
+ 
+ 
+The Perpetual Notes Offers resulted in a high average acceptance rate of c.a. 83% of the tendered 
+nominal values (being ca. EUR 1.6 billion aggregate nominal value of existing perpetual notes). 
+Consequently, the Company’s wholly owned affiliates issued EUR 2.1 billion of new perpetual notes 
+across 4 different series (for which the Company acts as guarantor; see also note 21) with extended 
+dates for reset of margins when not called by the Company . 
+ 
+  
+47
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+ Note 11.2. Amounts due to credit institutions 
+On July 11, 2022 the Company entered into a Term Facility Agreement amounting to KEUR 140,000 
+from Industrial and Commercial Bank of China Ltd., Luxembourg Branch (“ICBC loan” or the “loan”). 
+Amounts due to credit institutions include mainly loan with a principal amount of KEUR 140,000 
+(2023: KEUR 140,000). The loan bears interest rate of 2% (modified in October 2024 from rate of 
+0.75% + Euribor 6M) and has the maturity in 2028. The accumulated interest is payable within one 
+year, and amounts to KEUR 1,331 (2023: KEUR 3,034). 
+Moreover, the Company has revolving credit facilities (RCF) from various financial institutions in a 
+volume of KEUR 775,000 (2023: KEUR 675,000), none are drawn down as at December 31, 2024. 
+The main terms and conditions, including covenants, pledge, and negative pledge of the ICBC loan and 
+the RCF, are similar to those of the bonds detailed in Note 11.1, with relevant adjustments. 
+Note 11.3. Amounts owed to affiliated undertakings 
+Amounts owed to affiliated undertakings are detailed as follows: 
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Loans from affiliated undertakings and interest payable 
+related thereto 
+3,368,379
+2,709,942
+Other liabilities towards affiliated undertakings 
+5,328
+10,391
+Total 
+3,373,707
+2,720,333
+ 
+Loans obtained from affiliated undertakings have an average interest rate of 6.2% p.a. as at December 
+31, 2024 (2023: 4.9%) and mature between 2026-2030 (2023: 2025-2044).  
+ 
+ 
+48
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 11.4 Derivative financial instruments 
+The Company uses derivative financial instruments to hedge its exposure to foreign exchange and 
+interest rate risk, associated with its straight bonds and has entered swap and cross-currency swap 
+agreements (“CCS”) as detailed below. Moreover, the Company acquired forward derivatives to hedge 
+its exposure to foreign currency across its subsidiaries. The carrying amount of the derivative 
+instruments represents the unrealized effect on hedging the interest rate of the underlying hedged bond 
+or the unrealized loss if no hedged item is concerned: 
+Risk(s) hedge 
+Hedging 
+instrument 
+Hedged item 
+Currency 
+ 
+ 
+ 
+ 
+ 
+ 
+Maturity 
+Carrying 
+amount as at 
+December 31, 
+2024 
+Carrying 
+amount as at 
+December 31, 
+2023 
+  
+ 
+in KEUR 
+ in KEUR 
+Foreign currency 
+CCS 
+Bond series H 
+USD 
+2032 
+12,280 
+10,353 
+Foreign currency and interest rate 
+CCS 
+Bond series J 
+GBP 
+2029 
+1,819 
+- 
+Foreign currency 
+CCS 
+Bond series NOK 
+NOK 
+2027 
+449 
+562 
+Foreign currency and interest rate 
+CCS 
+Bond series L 
+USD 
+2038 
+111 
+(262) 
+Foreign currency and interest rate  
+CCS 
+Bond series P 
+AUD 
+Unwind  
+- 
+(380) 
+Foreign currency and interest rate  
+CCS 
+Bond series R 
+CAD 
+2025 
+176 
+(765) 
+Interest rate  
+Swap 
+Bond series T 
+EUR 
+2030 
+280 
+(1,335) 
+Foreign currency 
+CCS 
+Bond series 27 
+HKD 
+Unwind 
+- 
+853 
+Foreign currency and interest rate  
+CCS 
+Bond series 28 
+USD 
+2029 
+3,330 
+(836) 
+Foreign currency and interest rate  
+CCS 
+Bond series 29 
+NOK 
+2029 
+3,611 
+2,173 
+Foreign currency and interest rate  
+CCS 
+Bond series 30 
+GBP 
+2031 
+1,132 
+5,314 
+Foreign currency 
+CCS 
+Bond series 34 
+NOK 
+2025 
+434 
+465 
+Foreign currency and interest rate 
+Forwards, IRS and other CCS  
+ 
+2025-2029 
+(10,608) 
+(6,792) 
+ 
+ 
+ 
+ 
+ 
+13,014 
+9,350 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 12. Other external expenses 
+Other external expenses are detailed as follows: 
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Professional fees 
+(6,142)
+(7,670)
+Bank fees 
+(5,926)
+(463)
+Audit fees 
+(1,562)
+(771)
+Administrative expenses 
+(448)
+(330)
+Advertising and marketing expenses 
+(584)
+(577)
+Total 
+(15,092)
+(9,811)
+ 
+Professional fees include the cost of legal, insurance, consultancy and other similar professional 
+services. Professional fees include services rendered by related parties amounting to KEUR 1,404 
+(2023: KEUR 668). 
+Audit fees include the following services rendered by KPMG Audit S.à. r.l as the “réviseur d’entreprises 
+agréé” of the Company: 
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Audit services 
+(1,331)
+(685)
+Audit related services 
+(197)
+(56)
+Tax services 
+(34)
+(29)
+Total 
+(1,562)
+(771)
+ 
+ 
+ 
+50
+
+Aroundtown SA  
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+Note 13. Other operating expenses 
+As part of the share-to-share voluntary takeover offer the Company has made to the shareholders of 
+TLG in February 2020, the Company and an existing shareholder of TLG, not a related party of the 
+Company (the “Investor”) entered into an agreement (the “Agreement”), pursuant to which the Investor 
+has agreed to refrain from tendering ca. 12 million TLG shares (the “Custody Shares”) in the voluntary 
+takeover offer or to dispose of them in the absence of the Company’s consent in a due time and no 
+sooner than 34 months after entering the Agreement (“Minimum period”). As a consideration for such 
+undertaking, the Investor has been entitled to receive for the period it holds the Custody Shares an 
+agreed minimum gross return on the Custody Shares (“Custody Fees”) and in the event of a future 
+disposal a preset share price for the Custody Shares. Following the Minimum Period, the Investor has 
+the right to dispose of the Custody Shares. By doing so, the Company committed to indemnify the 
+Investor for any difference between the consideration the Investor receives in such disposal and the 
+preset share price (“PPM Instrument”). To postpone such decision for up to 10 years, the Company has 
+the option to provide an interest-bearing loan, secured by the Custody Shares, in the amount of the 
+preset share price multiplied by the number of Custody Shares. During 2023, the Company made 
+available ca. KEUR 200,000, indirectly backed with the Custody Shares, of which KEUR 200,000 in 
+the form of a collateralized short-term credit default swap, which is presented under Other debtors (note 
+6). Other operating expenses primarily arise from Custody interest amounting to KEUR 20,489. 
+Note 14. Income from participating interests 
+Income from participating interests include dividends received from affiliated undertakings, amounting 
+to KEUR 471,972 (2023: KEUR 543,587).  
+Dividend income was recorded from the following subsidiaries: 
+-
+Aroundtown Limited: KEUR 200,000 (2023: KEUR 400,000)
+-
+TLG Immobilien AG: KEUR 93,270 (2023: KEUR 87,522)
+-
+Aroundtown Holdings B.V.: KEUR 4,200 (2023: KEUR 55,840)
+-
+Keystreet Investments Limited: nil (2023: KEUR 153)
+-
+Aroundtown Real Estate Limited: KEUR 16 (2023: KEUR 72)
+-
+Bluestyle Limited.: KEUR 120,699 (2023: nil)
+-
+Alfortia Limited.: KEUR 29,894 (2023: nil)
+-
+Edolaxia Limited.: KEUR 23,893 (2023: nil)
+Note 15. Income from other investments and loans forming part of the fixed assets and Other 
+interest receivable and similar income  
+Income from other investments and loans forming part of the fixed assets and Other interest receivable 
+and similar income is detailed as follows: 
+2024
+2023
+KEUR
+KEUR
+Gain on unwinding of derivative financial instruments 
+23,947
+41,220
+Interest on loans granted to affiliated undertakings 
+292,621
+23,120
+Interest income from deposits 
+12,499
+5,199
+Gain on buyback of bonds and perpetual notes 
+60,105
+270,800
+Other financial income 
+27,106
+30,943
+Total 
+416,278
+371,282
+51
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 16. Value adjustments in respect of financial assets and of investments held as current 
+assets 
+Value adjustments in respect of financial assets and of investments held as current assets are detailed 
+as follows: 
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Impairment of investments in subsidiaries (note 5) 
+(50,458)
+(213,367)
+(Impairment) / reversal of impairment of own shares (note 7) 
+14,239
+19,379
+Total 
+(36,219)
+(193,988)
+ 
+ 
+Note 17. Interest payable and similar expenses 
+Other interest payable and similar expenses is detailed as follows: 
+  
+2024
+2023
+ 
+KEUR
+KEUR
+Financial costs with bonds and perpetual notes 
+334,691
+294,634
+Loss on buyback of bonds and perpetual notes 
+21,004
+5,832
+Interest for loans received from affiliated undertakings 
+192,952
+85,513
+Interest for bank loans and current bank accounts 
+8,750
+9,989
+Loss on unwinding of derivative financial instruments 
+9,878
+10,741
+Other financial expenses 
+47,687
+29,772
+Total 
+614,962
+436,481
+ 
+Financial costs with bonds and perpetual notes include the interest expense, as well as the amortization 
+of discounts and issuance costs of these instruments.  
+Note 18. Related party transactions 
+Related party balances and transactions are presented in notes 5, 6, 11, 12, 14, 15, 16 17, 19, 20 and 21. 
+ 
+ 
+52
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 19. Emoluments granted to the members of the management and supervisory bodies and 
+commitments in respect of retirement pensions for former members of these bodies 
+The Company has aligned the Board of Directors’ and Chief Officers’s remuneration package 
+(consisting of base salary, consultancy fees and allowances, as well as short-term bonus and long-term 
+incentive remuneration) with the provisions of the Remuneration Policy of the Company. According to 
+the Remuneration Policy, the variable remuneration, in particular, (consisting of short-term 
+remuneration and long-term remuneration) is tied to the achievement of certain pre-defined 
+performance measures. 
+As at December 31, 2024, the Board of Directors of the Company has the following structure: two 
+executive directors (2023: two), one non-executive director (2023: one), and four independent directors 
+(2023: four).  
+The total remuneration for the members of the Board of Directors amounted to KEUR 1,976 (2023: 
+KEUR 1,613). 
+Incentive share plan 
+The Board of Directors is authorized to issue up to 8.5 million shares for an incentive plan for the Board 
+of Directors, key management and senior employees. The incentive plan has up to 4 years vesting period 
+with specific milestones to enhance management long-term commitment to the Company’s strategic 
+targets.  
+The key terms and conditions related to the program are as follows: 
+Grant date 
+Number of shares 
+(in thousands)
+Contractual life of the 
+incentive
+April 2021 – September 2028
+4,771
+Up to 4 years
+ 
+The number and weighted-average of shares under the share incentive program and replacement awards 
+were as follows: 
+ 
+2024
+2023
+ 
+                     Thousand shares 
+Outstanding on January 1 
+3,636
+2,552
+Granted during the year 
+1,471
+2,620
+Exercised during the year (*) 
+(336)
+(1,536)
+Outstanding on December 31 
+4,771
+3,636
+ 
+*in accordance with the terms and conditions of the incentive plan, 455 thousand shares (2023: 403 
+thousand) were delivered from the Company’s treasury (held by a subsidiary of the Company) to 
+employees across the Aroundtown Group, and the rest amounts were either settled in cash or cancelled. 
+ 
+ 
+ 
+ 
+53
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 20. Advances and loans granted to the members of the management and supervisory bodies 
+As of December 31, 2024, the Company’s wholly owned affiliates have outstanding loans of EUR 7.1 
+million (2023: EUR 4 million) to the Executive Directors and Chief Officers. The loans are payable 
+from 2025 until 2029 and bear annual accrued interest rate of up to 3% plus Euribor. 
+Note 21. Off balance sheet financial commitments 
+The Company granted unconditional and irrevocable guarantees on its wholly owned subsidiaries ATF 
+Netherlands B.V., Aroundtown Finance S.à.r.l and AT Securities B.V.’s obligations and to others in an 
+aggregate amount of up to EUR 2.4 billion. The guarantee to the subsidiaries was granted as part of 
+their issued perpetual notes.  
+The Company provides a guarantee to a non-related party shareholder for the minimum price of the 
+Custody Shares, as detailed in Note 13, which was estimated at approx. EUR 130 million as of 
+December 31, 2024 (2023: EUR 115 miilion). 
+Note 22. Staff 
+The Company employed an average of 6 persons (2023: 5) during the financial year. 
+Note 23. Taxation 
+The Company is subject in Luxembourg to the general tax regulations applicable to all companies.  
+The Company is incorporated and operates in Luxembourg and its subsidiaries and affiliates operate in 
+various other countries, which have enacted new legislation to implement the global minimum top-up 
+tax. The Company is subject to the top-up tax in relation to some of its subsidiaries and affiliates’ 
+operations, where the statutory tax rate is below 15 percent. The newly enacted tax legislation is 
+effective since January 1, 2024.  
+In 2024, Luxembourg announced a reduction in the corporate income tax rates. The tax rate for 
+companies with taxable income up to EUR 175,000 will decrease from 15% to 14%, and for companies 
+with taxable income exceeding EUR 200,000, it will decrease from 17% to 16%. These changes will 
+impact the measurement of deferred tax assets and liabilities, as well as tax provisions. The Company 
+has proactively evaluated the potential effect of these changes and has adjusted its deferred tax balances 
+accordingly for future periods. There is no impact on the 2024 Annual Accounts, as the changes will 
+not apply retroactively. The newly enacted tax legislation will be effective from January 1, 2025 and 
+the new corporation tax rate for Luxembourg companies will be as per the table below : 
+Taxable income 
+Current CIT rate  
+New CIT rate  
+New aggregate rate 
+(CIT and municipal 
+business tax) * 
+≤ EUR 175,000 
+15% 
+14% 
+21.73% 
+EUR 175,000 – 200,000 
+15% – 17% 
+14% - 16% 
+21.73% – 23.87% 
+≥ EUR 200,001 
+17% 
+16% 
+23.87% 
+* for taxpayers resident in Luxembourg-City (including the 7% employment fund surcharge) 
+ 
+ 
+ 
+ 
+54
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 24. Financial risk management  
+Financial risk factors 
+ 
+The Company is exposed to the following major risks from its use of financial instruments: 
+ 
+ 
+Market risk 
+ 
+Credit risk 
+ 
+Liquidity risk 
+ 
+The Board of Directors has overall responsibility for the establishment and oversight of the Company's risk 
+management framework. 
+ 
+The board of directors is supported by a risk committee that advices on financial risks and the appropriate 
+financial risk governance framework for the Group. The Group’s risk management policies are established 
+to identify and analyze the risks faced by the Group, to set appropriate risk limits and controls, and monitor 
+risks and adherence to limits. Risk management policies and systems are reviewed regularly to reflect 
+changes in market conditions and in the Group’s activities. 
+ 
+a. 
+Market risk 
+Market risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate 
+because of changes in market prices. Market risk comprises 2 types of risks: interest rate risk and 
+currency risk. 
+b. Credit risk  
+Credit risk is the risk that a counterparty will not meet its obligations under a financial instrument 
+or customer contract, leading to a financial loss. The Group is exposed to credit risk from its 
+operating activities (primarily trade and other receivables) and from its financing activities, 
+including cash and cash equivalents held in banks, derivatives and other financial instruments.  
+c. 
+Liquidity risk 
+Liquidity risk is the risk that arises when the maturity of assets and liabilities does not match. An 
+unmatched position potentially enhances profitability but can also increase the risk of loss. The 
+Company has procedures with the objective of minimizing such losses such as maintaining sufficient 
+cash and other highly liquid current assets and by having available an adequate amount of committed 
+credit facilities. 
+ Operating risk  
+Operational risk is the risk that derives from the deficiencies relating to the Company's information 
+technology and control systems as well as the risk of human error and natural disasters. The Company's 
+systems are evaluated, maintained and upgraded continuously. 
+ Other risks 
+Through ordinary course of business, the Company is exposed to various external risks. The Risk Committee 
+is constantly determining whether the infrastructure, resources, and systems are in place and adequate to 
+maintain a satisfactory level of risk. The potential risks and exposures are related, inter alia, to volatility of 
+interest rate risk, liquidity risks, credit risks, regulatory and legal risks, collection and tenant deficiencies, 
+the need for unexpected capital investments, and market downturn risk. 
+The Company sets direct and specific guidelines and boundaries to mitigate and address each risk, hedging 
+and reducing to a minimum the occurrence of failure or potential default. 
+ 
+ 
+55
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 24. Financial risk management (continued) 
+Geopolitical situation involving Russia and Ukraine 
+On 24 February 2022, Russia initiated a full-scale invasion of Ukraine and escalating the Russo-Ukrainian 
+War (the War) and hostilities have continued since then. The War has received widespread international 
+condemnation and in reaction to Russian hostilities many nations and organisations, including Germany and 
+the European Union, have announced sanctions against Russia, Russian companies, and individuals in and 
+from Russia. The Group is not directly impacted by the War, as neither its portfolio nor its operations have 
+direct exposure to Ukraine or Russia. However, the Group is impacted by the indirect consequences of the 
+War. As a result of the War, inflationary pressures have increased, speciﬁcally heating and energy costs, 
+which have an impact on the operating costs of the Group. Such pressures may also have an impact on the 
+ability of the Group’s tenants to pay rent and/or for the Group to recover expenses related to recoverable 
+expenses from tenants. Furthermore, the increased energy costs have led to a wider inflationary pressure. 
+Higher levels of inflation have impacted interest rates and borrowing costs, while increased volatility in the 
+capital markets have reduced the Group’s ability to raise capital at attractive prices, resulting in an increase 
+in its cost of capital and potentially limiting its growth opportunities. While much of the volatility has 
+reduced and price levels have reduced in recent periods, risk of renewed price volatility remains, which could 
+have negative financial impacts on the Company. As a result of the large number of refugees that have 
+entered the European Union and Germany following the War. This has resulted in an increased strain on the 
+residential real estate market in Germany. This further exacerbates the supply and demand mismatch, 
+increase political pressure for home construction or market intervention. The full effects are currently still 
+unclear and will depend signiﬁcantly on the duration and ﬁnal outcome of the War as well as the distribution 
+of refugees across the European Union.  While the War is currently limited to Ukraine on one side and Russia 
+and several of its allies on the other, continued escalation may result in other countries joining the conflict 
+and at this stage the Group is unable to assess the full impact of such a scenario on the Company, and the 
+likelihood of its occurrence.  
+Lingering and/or renewed inflationary risk 
+In recent years, several consecutive events, such as the COVID pandemic, supply chain disruptions, the high 
+amount of cash injected into the market as a monetary response and the geopolitical situation around Russia 
+and Ukraine, among others, have resulted in a high inflationary environment. Inflationary pressure has been 
+particularly strong in energy prices, in particular for oil and gas, caused by the War, and material prices. 
+While in pressures have eased, risks remain that may result in inflationary pressures increasing once more. 
+This may also result in tenant’s inability to bear the costs that are passed through to them as part of the lease 
+agreements. It cannot be ruled out that losses of rent will occur in the future or that the Group will be unable 
+to collect operating costs from tenants and that the Group will lose considerable rental income. In order to 
+mitigate the risk, the Group continues to provide information to its tenants to support them in reducing their 
+consumption of energy. Higher levels of inflation particularly for energy and materials may have an impact 
+on the Group’s ability to acquire materials for capex measures at a reasonable price and increase utility costs 
+or result in delays across the Group’s operations. Furthermore, higher levels of inflation across the economy 
+may result in higher personnel expenses and expenses related to external services, which could have a 
+negative impact on the Group’s proﬁtability. In addition, higher levels of inflation have resulted in rapid and 
+significant increases in interest rates and consequently resulted in significant volatility in capital markets, 
+which has a negative impact on the cost and availability of new ﬁnancing for the Group on one hand and 
+have put upward pressure on discount rates and cap rates. While in recent periods the momentum has shifted, 
+renewed interest rate pressures, if prolonged, could consequently have a further adverse impact on the fair 
+value of the Group’s assets and share price performance.  
+ 
+ 
+ 
+56
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 24. Financial risk management (continued) 
+Uncertain interest rate environment 
+In order to battle the increased inflation levels, the European Central Bank has raised interest rate levels 
+rapidly and has declared that it would maintain high interest levels at least until inflation slows down and it 
+reached the desired level. This has led to a signiﬁcant rise in interest rates in Germany and throughout the 
+Eurozone and led to a decrease in real estate valuations and investments, resulting in lower transaction level 
+and lower demand for real estate, among other eﬀects. Starting mid-2024 the ECB started easing rates, and 
+as a result pressures have eased. However, rates remain above the level seen in recent years and a renewed 
+increase in interest rates could adversely impact the Group's business in a number of ways, including:  
+The discount and cap rates used to calculate the value of the Group’s properties tends to increase in an 
+environment of rising interest rates, which in turn could result in the Group Group’s properties having a 
+lower fair value.  Although the Group’s current debt structure primarily involves debt at ﬁxed interest rates 
+or, where variable interest rates apply, is predominantly subject to interest rate hedging agreements, the 
+increase in interest rates may have a negative impact on the Group’s ability to reﬁnance existing debt or 
+incur additional debt on favourable terms. Financial institutions such as banks may seek to reduce their 
+exposure to the real estate sector and also might be subject to increased equity requirements and balance 
+sheet regulations resulting in restraints to lend out money to customers which could make it more diﬃcult 
+for the Group to obtain bank ﬁnancing at desired terms. In general, rising interest rates (or market 
+expectations regarding future increases in interest rates) would make ﬁnancing required by the Group for its 
+refinancing, acquisition, capital expenditure and/or other real estate activities more expensive, which could 
+reduce the Group’s proﬁts. When negotiating ﬁnancing agreements or extending such agreements, the Group 
+depends on its ability to agree to terms and conditions that will provide for interest payments that will not 
+impair its proﬁt targets, and for amortisation schedules that do not restrict its ability to pay intended 
+dividends. 
+ 
+Further, the Group may be unable to enter into hedging instruments that may become necessary if variable 
+interest rates are agreed upon or may only be able to do so at signiﬁcant costs. If the current environment in 
+which high rates prevail will remain for a prolonged period, the Group’s ﬁnancing costs, including costs for 
+hedging instruments, may increase, which would likely reduce the Group’s proﬁts. The Group’s debt 
+includes a material amount of perpetual notes. Such notes include in their terms a reset of their respective 
+interest rates every ﬁve years (reset date), starting from the ﬁrst call date, based on a speciﬁed margin plus a 
+5-year swap rate (reset rate). If a reset date falls in a period of high interest rates it is likely that such notes 
+will carry a materially higher interest going forward, thereby reducing the proﬁts available to shareholders. 
+Furthermore, the Company generally aims to replace its perpetual notes issues on their ﬁrst voluntary call 
+date by a new issue. In times of elevated interest rates, the rates that the Company would pay on a new 
+issuance may diﬀer materially from the reset rate, it may therefore be uneconomical for the Company to call 
+the respective notes and issue new notes, as has been the case with its notes with the ﬁrst call date in January 
+and in October 2023. The willingness of purchasers to acquire real estate in an environment of rising interest 
+rates may be negatively aﬀected, thereby restricting the Group's ability to dispose of its properties on 
+favourable terms when desired. Most purchasers ﬁnance their acquisitions with lender provided ﬁnancing 
+through mortgages and comparable security (in Germany so-called land charges). Lack of availability of 
+such ﬁnancing at attractive rates therefore reduces demand for properties. Any of the foregoing factors may 
+have a material adverse eﬀect on the Group’s business, net assets, ﬁnancial condition, cash flows and results 
+of operations.  
+Climate related risks 
+The signiﬁcant impact of human activity on ecosystems and the climate have become apparent in recent 
+years. As a result, the Company does not only face changing physical climate risks but also transitional 
+climate risks resulting from changes in investor and consumer demand, from regulatory changes as well as 
+from other societal factors. The Company faces several physical climate-related risks.  
+ 
+57
+
+Aroundtown SA  
+ 
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+ 
+ 
+ 
+Note 24. Financial risk management (continued) 
+Climate related risks (continued) 
+The Company actively attempts to identify these risks and implement measures to mitigate the impact of 
+such risks to the Company, for example through insurance. To better understand the Company’s exposure to 
+physical risks, the Company has adopted a tool for asset-level assessment of physical risk develop. This 
+analysis will serve the Company in determining which risks are material in order to develop adaptation 
+solutions. Furthermore, increased occurrence of severe weather events will likely result in higher insurance 
+premiums. In addition to physical climate-related risks the Company also faces transitional risks. As a result 
+of the more apparent impact of climate changes in recent years regulators have increased their eﬀorts to 
+mitigate current as well as potential future impacts of climate change through a wide range of Emerging 
+regulations in the Group's regions pursuing a phase-out of fossil fuels and improved energy eﬃciency present 
+technological risks to the Company which requires careful attention when planning maintenance and capex 
+measures. At the EU level, the EU Council and EU Parliament reached an agreement in December 2023 on 
+the recast of the Energy Performance of Buildings Directive (EPBD) to include new minimum energy 
+performance requirements for buildings that progressively increase over time, although the specific 
+requirements can only be known once national-level implementation commences among member states who 
+will define their own target pathways.  Noncompliance with the energy requirements under the new EPBD 
+would result in an inability to let the assets and requires increased capital expenditures to become compliant.  
+The Company continuously monitors changes in regulations and aims to minimise the financial risk through 
+pro-active carbon reduction and energy efficiency policies and programmes. Furthermore, the Group’s 
+sustainability strategy incorporates self-set targets for material environmental, social and corporate 
+governance matters (ESG). If any of these self-set ESG goals are not met, this could damage the Group’s 
+reputation. Considering the increasing focus of market participants and lenders on sustainability and "green 
+ﬁnancing", this could have a negative impact on the Group’s reﬁnancing and access to further ﬁnancing, for 
+example, via the capital market or by taking out loans, at all or on attractive terms. If the Group fails to meet 
+expectations and trends related to sustainability aspects in a timely manner or at all, there could be a decline 
+in demand from tenants. Furthermore, this could also lead to investors divesting from the Group’s bonds or 
+shares, as they also expect ESG goals to be met. From a regulatory perspective, failure to achieve the 
+sustainability goals may also have a negative impact on the Group. To take on a proactive approach, the 
+Company has developed a CO2 pathway to guide the investment in on-site renewable energy and building 
+energy eﬃciency improvements needed to achieve it’s 2030 emission reduction target while enabling further 
+emission reductions down the line. In order mitigate risks related to CO2 emissions, and in order to reach 
+the Company’s environmental targets, the Group is developing an investment program, which covers a wide 
+variety of activities involving both energy eﬃciency improvements and renewable energy projects. The size 
+and scope of the investment program depends on the availability of governmental subsidies and grants, as is 
+also subject to increasing cost of material. Furthermore, potential new requirements set by the regulators or 
+set as a market standard, could increase the amount the Company would need to invest and potentially 
+accelerate the execution time of the investment program. In 2022, the Company began the process of aligning 
+to the Task Force on Climate-Related Financial Disclosures (TCFD) Recommendations framework.  
+Although the TCFD has been disbanded and integrated into the International Sustainability Standards Board 
+(ISSB), the framework’s core principles for corporate climate-related risk disclosures have also been adopted 
+by the European Sustainability Reporting Standards (ESRS) E1 Standard  The early decision to align to best 
+practices on climate-related risk disclosures leaves the Company in a good position for ensuring compliance, 
+although it is a process requiring continuous effort. As part of this process, the Company continuously 
+updates its climate-related risk assessment each year. The Building Resilience Task Force, an 
+interdepartmental team dedicated to this effort, continues to further develop control mechanisms and risk 
+mitigation measures for climate-related risks. 
+ 
+ 
+58
+
+Aroundtown SA  
+Notes to the annual accounts for the financial year ended December 31, 2024 (continued) 
+Note 25. Subsequent events 
+The Company redeemed two bond series at their maturity with total nominal value of ca. EUR 480 
+million. 
+59

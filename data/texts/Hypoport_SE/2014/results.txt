@@ -1,0 +1,2528 @@
+Interim report of Hypoport AG
+for the period ended 31 March 2014
+Berlin, 5 May 2014
+
+2
+Key performance indicators
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Key performance indicators
+Financial performance (€'000)
+1 Jan - 31 Mar 2014
+01.01. - 31.03.2013*
+Change
+Revenue
+27,894
+21,695
+29%
+Gross profit
+14,574
+11,259
+29%
+Earnings before interest, tax, depreciation and amortisation 
+(EBITDA)
+4,252
+1,133
+275%
+Earnings before interest and tax (EBIT)
+3,127
+68
+>300%
+EBIT margin (EBIT as a percentage of gross profit)
+21.5
+0.6
+>300%
+Net income for the year
+2,681
+452
+>300%
+attributable to Hypoport AG shareholders
+2,605
+495
+>300%
+  Earnings per share (€)
+0.42
+0.08
+>300%
+Financial position (€'000)
+31 Mar 2014
+31 Dec 2013*
+Current assets
+30,914
+36,042
+-14%
+Non-current assets
+38,447
+37,605
+2%
+Equity
+35,734
+33,053
+8%
+attributable to Hypoport AG shareholders
+35,402
+32,797
+8%
+Equity ratio (%)
+51.5
+44.9
+15%
+Total assets
+69,361
+73,647
+-6%
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim consolidated financial statements „Com­
+parative figures for 2013“
+
+3
+Contents
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Contents
+Key performance indicators.................................................................................................... 2
+Contents........................................................................................................................................ 3
+1. Letter to shareholders........................................................................................................... 4
+2. Hypoport‘s shares.................................................................................................................. 5
+3. Interim group management report.................................................................................. 9
+4. Interim consolidated financial statements.................................................................24
+5. Notes to the interim consolidated financial statements........................................29
+
+4
+1. Letter to shareholders
+Zwischenbericht der Hypoport AG zum 31. März 2014
+1. Letter to shareholders
+Dear shareholder,
+Here in Germany, 2014 began with plenty of sunshine and little sign of rain or snow. And the year 
+started just as encouragingly for the Hypoport Group. Overall, the Group generated revenue of 
+€27.9 million in the first quarter (Q1 2013: €21.7 million). Earnings before interest and tax (EBIT) 
+amounted to €3.1 million, which was well above EBIT in the first three months of the previous year 
+(Q1 2013: €0.1 million).
+These results were underpinned by strong demand for real estate – an unusual situation for the first 
+quarter that can be attributed to the weather. There was also a lull in regulatory activities, enabling 
+the financial services sector to catch its breath. However, there was still a great deal of uncertainty 
+about future interventions in the market by lawmakers.
+ 
+The Private Clients business unit was buoyed by brisk interest from customers in mortgage finance. 
+Competition in the personal loans business was again fierce in the first quarter. Low interest rates 
+meant that instant-access products remained unattractive. The restructuring of the insurance busi­
+ness is starting to bear fruit. 
+The Financial Service Providers business unit had a flying start to the new year. The volume of 
+transactions rose by 18 per cent compared with the first quarter of 2013. With its lean processes 
+and flexible third-party brokerage, the marketplace model is continuing to gain importance. This 
+is reflected in the steady growth of the GENOPACE platform for credit cooperatives and mutually 
+owned banks and the FINMAS platform for savings banks. Thanks to our recent partnership with 
+Commerzbank, all of the major nationwide banks in Germany are now represented on EUROPACE. 
+Between January and March 2014, the Institutional Clients business unit signed a number of big-ti­
+cket deals on top of its day-to-day business. There was strong demand not only for the lending 
+business but also for insurance business and advisory services.
+ 
+This positive start confirms that Hypoport was on the right track with its full-year forecast. For 2014 
+as a whole, the Group continues to predict double-digit revenue growth and earnings above the 
+record levels seen in 2010 and 2011. 
+Kind regards,
+Ronald Slabke
+Chief Executive Officer  
+
+5
+2. Hypoport‘s shares
+Zwischenbericht der Hypoport AG zum 31. März 2014
+2. Hypoport‘s shares
+Share price performance
+Hypoport‘s share price remained more or less flat during the first three months of 2014, commen­
+cing the period at €9.65 on 1 January and closing at €8.99 on 31 March. It hit a first-quarter high 
+of €10.16 on 13 January 2014.
+7
+8
+9
+10
+11
+Jan
+Feb
+Mar
+Euro
+Performance of Hypoport‘s share price, January to March 2014 (daily closing prices on Frankfurt Stock Exchange)
+Earnings per share
+The Company generated earnings of €0.42 per share in the first three months of 2014, having 
+posted earnings of €0.08 per share in the corresponding quarter of 2013. 
+Trading volumes
+The daily volume of Hypoport shares traded in the first quarter of 2014 averaged €16,924.09. The 
+highest average daily turnover was in January, with an average of 3,501 shares, followed by Febru­
+ary (1,444 shares). The month with the lowest daily turnover was March, when an average of only 
+393 Hypoport shares changed hands.
+
+6
+2. Hypoport‘s shares
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Shareholder structure
+The free float in Hypoport‘s shares amounts to 36.8 per cent.
+- Stephan Gawarecki 3.0%
+- Hans Peter Trampe 2.3%
+- further management boards
+  and supervisory boards 2.7%
+- further shareholders 25.1%
+34.8%
+12.9%
+3.7%
+33.1%
+5.8%
+9.7%
+Revenia GmbH
+Kretschmar Familienstiftung
+Deutsche Postbank AG
+Sparta AG
+Deutsche Balaton AG
+Free float
+Breakdown of shareholders as at 31 March 2014
+Research
+The table below shows the research studies on Hypoport‘s shares published in the first quarter of 
+2014.
+Analyst
+Recommendation
+Target price
+Date
+Montega
+Buy
+€ 11.50 
+11.03.2014
+CBS Research
+Buy
+€ 12.50 
+10.03.2014
+Montega
+Buy
+€ 11.50 
+20.02.2014
+CBS Research
+Buy
+€ 12.50 
+17.02.2014
+Designated Sponsoring
+Designated sponsors enhance a share‘s liquidity by quoting binding prices at which they will buy 
+and sell the share. The designated sponsor for Hypoport AG is Close Brothers Seydler Bank AG, 
+Frankfurt am Main.
+
+7
+2. Hypoport‘s shares
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Ad-hoc disclosures
+As a publicly traded company we are required to make ad-hoc disclosures of facts that could influ­
+ence our share price. The following ad-hoc disclosure was published on 14 February 2014:
+Ad-hoc disclosure pursuant to section 15 of the German Securities Trading Act (WpHG)
+Hypoport generates further double-digit growth; earnings higher year on year but below 
+expectations
+Berlin, 14 February 2014: Hypoport‘s earnings forecast for the 2013 financial year was revised 
+at today‘s Management Board meeting on the basis of the fourth-quarter management ac­
+counting figures submitted by all Hypoport Group companies. 
+ 
+Although revenue showed impressive double-digit growth, recent market conditions will pre­
+vent the Hypoport Group from achieving its original prediction that earnings would return 
+to their record levels of 2010 and 2011. The Company now expects to generate double-digit 
+growth in earnings before interest and tax (EBIT) for 2013 as a whole after reporting EBIT of 
+€3.2 million for 2012. Revenue for 2013 will have topped the €100 million mark for the first 
+time ever (2012: €87.8 million). 
+The fallout from the financial and sovereign debt crises continues to radically transform the 
+financial services industry. The market for endowment insurance and private health insurance 
+has contracted sharply. This situation continues to act as a significant drag on the Private Cli­
+ents business unit in particular. A further adverse factor was that the year-end business typical 
+of this sector failed to materialise in 2013. The efficiency measures introduced, the rigorous 
+focus on the management of insurance portfolios, and the ongoing growth of mortgage finan­
+ce in the Private Clients business unit were unable to fully offset the dramatic decline in new 
+insurance business. 
+The Financial Service Providers and Institutional Clients business units failed to replicate their 
+exceptionally successful third quarters in the face of persistently sluggish interest rates. These 
+two business units completed 2013 as a whole by delivering robust performances in the final 
+quarter. 
+Hypoport expects its Financial Service Providers and Institutional Clients business units to con­
+tinue to grow in 2014. In addition, the restructuring of insurance for private clients should 
+yield tangible benefits in terms of earnings. Consequently, Hypoport is adhering to its previous 
+forecast for 2014 of double-digit revenue growth and earnings above the record levels of pre­
+vious years 2010/2011.
+ 
+Ad-hoc disclosures can be downloaded from our website at www.hypoport.com.
+Notification of directors‘ dealings
+No notifications of directors‘ dealings were published in the first quarter of 2014.
+
+8
+2. Hypoport‘s shares
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Key data on Hypoport‘s shares
+Security code number (WKN)	
+	
+	
+549 336
+International securities identification number (ISIN)	
+DE 000 549 3365
+Stock exchange symbol	
+	
+	
+	
+HYQ
+Type	
+	
+	
+	
+	
+	
+No-par-value shares
+Notional value	
+	
+	
+	
+	
+€ 1.00
+Subscribed capital		
+	
+	
+	
+€ 6,194,958.00
+Stock exchanges	 	
+	
+	
+	
+Frankfurt
+	
+	
+	
+	
+	
+	
+XETRA
+Market segment	 	
+	
+	
+	
+Regulated market
+Transparency level		
+	
+	
+	
+Prime Standard
+Membership of indices	
+	
+	
+	
+CDAX
+	
+	
+	
+	
+	
+	
+Classic All Share
+	
+	
+	
+	
+	
+	
+DAXsector All Financial Services
+	
+	
+	
+	
+	
+	
+DAXsubsector Diversified Financial
+	
+	
+	
+	
+	
+	
+GEX
+	
+	
+	
+	
+	
+	
+Prime All Share
+Performance
+Share price as at 1 January 2014	
+	
+	
+€ 9.65 (Frankfurt)
+Share price as at 31 March 2014	
+	
+	
+€ 8.99 (Frankfurt)
+High in first quarter 2014	 	
+	
+	
+€ 10.16 (13 January 2014)
+Low in first quarter 2014	
+	
+	
+	
+€ 8.90 (25 February 2014)
+Market capitalisation	
+	
+	
+	
+€ 55.7 Mio. (31 March 2014)
+Trading volume	
+	
+	
+	
+	
+€ 16,924.09 (daily average for first quarter of 2014)
+
+9
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+3. Interim group management 
+report
+Economic conditions
+Macroeconomic environment
+According to the International Monetary Fund (IMF), the upturn experienced by industrialised 
+countries has recently become more broad-based, with more stable public finances and increased 
+investor confidence. There was also greater stability in the banking sector. Despite these positive 
+developments in industrialised countries, there are still downside risks for the global recovery. Lon­
+ger-term adverse effects were compounded by new geopolitical risks resulting from the crisis in Cri­
+mea and eastern Ukraine, which could have a negative impact on economic growth. Lower growth 
+rates in a number of emerging markets, such as Brazil, were among the factors that led to the IMF‘s 
+small downward adjustment of its annual forecast from 3.7 per cent to 3.6 per cent in April.
+ 
+The IMF does not rule out the threat of deflation for Europe. It held its growth forecast for European 
+countries at 1.2 per cent for the current year and is stepping up its focus on future changes in the 
+rate of inflation. Based on its latest calculations, the IMF expects inflation in the European Union to 
+remain below the price stability level of 2.0 per cent set by the European Central Bank (ECB) until 
+at least 2016. The ECB has maintained its main refinancing rate at 0.25 per cent since 7 November 
+2013, although it is keeping other monetary policy options open (such as the purchase of securities) 
+in case the economy slows down.
+ 
+The IMF raised its growth forecast for Germany by 0.2 percentage points to 1.7 per cent – and 
+noted that monetary stimulus, a robust labour market and increased consumer confidence had led 
+to stronger domestic demand in Germany in recent times. The German Institute for Economic Rese­
+arch (DIW Berlin) expects the economy in the first quarter to have grown by 0.7 per cent compared 
+with the fourth quarter of 2013. It has detected a rise in construction investment thanks to mild 
+winter weather coupled with more stable personal consumption. Provided that negative political 
+influences such as the conflict between Ukraine and Russia do not escalate, DIW Berlin anticipates 
+stronger exports and, consequently, an improvement in capital spending.
+
+10
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Conditions in the financial services sector
+The Hypoport Group and its seg­
+ments operate in various individual 
+financial services markets. The Pri­
+vate Clients business unit and the 
+Financial Service Providers unit are 
+both affected by sectoral market con­
+ditions in financial services for priva­
+te clients. The Institutional Clients 
+business unit operates in financial 
+services markets for real-estate and 
+housing companies as well as for 
+their lenders from the banking and 
+insurance industries. The adjacent 
+diagram shows our current general assessment of market conditions in each product segment.
+Long-term interest rates fell slightly in the first quarter of 2014 and, at the start of February, 
+dropped back below 2.0 per cent for the first time in almost six months. This led to an even more 
+favourable interest-rate environment for mortgage customers, whereas investment products conti­
+nued to lose their appeal due to falling average rates of return.
+EZB central rate
+Guaranteed rate of insurances
+DGZF 10-years
+Data from Deutsche Bundesbank showed that the total market volume for mortgage finance in Ja­
+nuary and February 2014 amounted to €31.8 billion, up on the volume generated in November and 
+December of the previous year. However, the volume was virtually unchanged year on year (total 
+market volume for mortgage finance in January and February 2013: €31.7 billion).
+P
+r
+i
+v
+a
+t
+e
+ 
+C
+li
+e
+n
+t
+s
+F
+i
+n
+a
+n
+c
+i
+a
+l 
+S
+e
+r
+v
+i
+c
+e
+ 
+P
+r
+o
+v
+i
+d
+e
+r
+s
+  
+I
+n
+s
+t
+i
+t
+u
+t
+i
+o
+n
+a
+l 
+C
+li
+e
+n
+t
+s
+Private financing
+Private 
+insurance
+Simple bank products
+Commercial financing
+Building saving
+Demand
+Provider/
+products
+Regulation
+
+11
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+In January and February 2014, the total market volume for personal loans came to €10.5 billion. 
+This represents a small rise of 1.0 per cent compared with the corresponding prior-year period (total 
+market volume for personal loans in January and February 2013: €10.4 billion).
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+New mortgage finance business with private clients (€ billion)
+New consumer lending business (€ billion)
+Total volume of private mortgage mortgage finance and personal loans (source: Deutsche Bundesbank); 
+Q1/2014 March interpolated
+According to statistics published by the Bundesbank, the total volume for building finance pro­
+ducts reached €15.2 billion in January and February 2014, which was around 9.8 per cent lower 
+than in the previous year (total market volume for personal loans in January and February 2013: 
+€16.8 billion).
+Bundesbank statistics also revealed that the total funds invested in fixed-term, instant-access 
+and savings accounts stood at €1,755.1 billion at the end of February 2014 (31 December 2013: 
+€1,743.0 billion).
+In the first quarter of 2014, the insurance market was again hampered by regulatory changes re­
+lating to Solvency II, historically low interest rates and the associated negative impact on returns 
+from pension products.
+Revenue
+The Hypoport Group enjoyed a flying start to 
+2014. Consolidated revenue surged by 28.6 per 
+cent from €21.7 million in the first quarter of 
+2013 to €27.9 million in the first three months 
+of 2014. This revenue growth was consistent 
+with the highly encouraging rise in gross profit, 
+which jumped by 29.4 per cent from €11.3 milli­
+on to €14.6 million.
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+Q1/2013
+Q1/2014
+Revenue Hypoport Group (€ million)
+
+12
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Private Clients business unit
+Revenue in the Private Clients business unit, 
+which specialises in the online distribution of 
+financial products, rose by a substantial 25.8 
+per cent to €16.27 million (Q1 2013: €12.93 
+million).
+ 
+The selling expenses incurred by the Private 
+Clients business unit stemmed from fees and 
+commissions paid to distribution partners (e.g. 
+franchisees in the mortgage finance and in­
+surance product segments) and from the cost 
+of acquiring leads. Gross profit represents the 
+difference between product suppliers‘ fee and 
+commission payments and these selling expen­
+ses. While gross profit in the mortgage finance 
+product segment was encouraging, the gross margin earned in this business unit has remained 
+under pressure in 2014 owing to fierce competition in insurance selling as well as to challenging 
+conditions and a tougher competitive environment in the market for basic banking products.
+ 
+Consequently, the gross profit generated by this business unit grew by 22.1 per cent to €5.13 mil­
+lion (Q1 2013: €4.20 million). Due to higher revenue and cost reductions in the insurance product 
+segment, the business unit‘s EBIT rose from a loss of €0.9 million to earnings of €0.3 million.
+Privat Clients business unit
+1 Jan to 31 Mar 2014
+1 Jan to 31 Mar 2013
+Revenue (€ million)
+16.3
+12.9
+Selling expenses (€ million)
+11.2
+8.7
+Net Revenue (€ million)
+5.1
+4.2
+EBIT (€ million)
+0.3
+-0.9
+The loan brokerage product segment was considerably expanded and reported strong growth in its 
+total volume of lending, which increased by 25.1 per cent from €1.18 billion to €1.48 billion in the 
+first quarter.
+Volume of transactions
+1 Jan to 31 Mar 2014
+1 Jan to 31 Mar 2013
+Volume of financing transactions (€ billion)
+1.48
+1.18
+Volume of insurance transactions (€ million)
+4.39
+4.68
+life insurance
+2.26
+2.59
+private health insurance
+0.59
+0.71
+general insurance
+1.54
+1.38
+0.0
+5.0
+10.0
+15.0
+20.0
+Q1/2012
+Q1/2014
+Revenue Private Clients (€ million)
+
+13
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+The volume of transactions in insurance products fell by 6.2 per cent, with annual premiums down 
+from €4.68 million to €4.39 million in what was a challenging market environment. The trend ob­
+served in previous quarters continued unabated. Low investment returns resulted in a sharp fall in 
+new health and life insurance policies, which offer high upfront sales commissions, while transacti­
+on volumes rose in general insurance, in which commission is paid on an ongoing basis.
+0
+20
+40
+60
+80
+100
+120
+31 Dec 2013
+31 Mar 2014
+Portfolio of insurance policies/annual premiums (€ million)
+General insurance
+Private health
+insurance
+Life insurance
+The insurance portfolio managed by Dr. Klein is supplemented by new business and by portfolios 
+obtained from newly acquired distribution partners and insurance customers. On the other hand, 
+policyholders‘ contract cancellations and the loss of distribution partners cause Dr. Klein‘s insurance 
+portfolio to shrink.
+Boosted by strong growth in its network of advisors, Hypoport achieved a significant year-on-year 
+increase in the portfolio of insurance policies that it managed in the first three months of 2014, 
+raising its annual life insurance premiums by 6.2 per cent from €55.83 million to €59.29 million, 
+its annual private health insurance premiums by 2.2 per cent from €30.60 million to €31.26 million 
+and its annual general insurance premiums by 20.7 per cent from €14.71 million to €17.76 million. 
+Consequently, the total portfolio of insurance policies under management had reached a new all-
+time high of €108.31 million in annual premiums at the end of March 2014, compared with the 
+€101.14 million reported as at 31 December 2013.
+
+14
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+The number of leads acquired 
+– which is a key determinant of 
+future unit sales of basic ban­
+king products – decreased sig­
+nificantly by 0.3 million year on 
+year in the first three months of 
+2014 to 0.9 million (Q1 2013: 
+1.2 million). This reflects consu­
+mers‘ reluctance to put their 
+money into simple investment 
+products such as instant-access 
+and fixed-term deposits becau­
+se interest rates are extremely 
+low and, consequently, not very 
+appealing for most consumers. This has reduced the potential for us to earn revenue from these 
+business lines. We are offsetting this trend by selling additional online products. Our main area of 
+investment here is the online market for personal loans.
+The map on the right gives an overview of the 
+extensive network of more than 200 branches 
+established by our franchisees in Germany as 
+well as our flagship stores, which are located 
+in the major German commercial centres and in 
+which a total of 655 active advisors were wor­
+king as at 31 March 2014 compared with 612 at 
+the end of 2013.
+At the same time, the number of active advi­
+sors operating within our agent sales network 
+rose to 702. Apart from improving the capacity 
+utilisation of our infrastructure, these partners – 
+who are only loosely associated with us – offer 
+significant potential for expanding our business 
+in future.
+Distribution channels
+31 Mar 2014
+31 Dec 2013
+Active advisors in branch-based sales
+655
+612
+Active advisors acting as agents
+702
+676
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+1,400,000
+1,600,000
+1,800,000
+Number of leads
+
+15
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Financial Service Providers business unit
+In the first quarter of 2014, Financial Service Providers – the second-largest business unit – built on 
+the excellent results achieved in previous quarters.
+The volume of transactions completed in the first quarter of 2014 totalled €8.5 billion, which was 
+around 18 per cent higher than in the corresponding period of last year (Q1 2013: €7.2 billion), 
+thereby topping the €8 billion mark for the third time. In addition, the EUROPACE marketplace with 
+its lean processes and ability to offer third-party brokerage to an increasing number of financial 
+institutions is establishing itself as an attractive distribution channel.
+Mortage finance
+Personal loans
+Building saving
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+Volume of transactions on EUROPACE (€ billion)
+The total volume of mortgage finance transactions processed in the first quarter of 2014 rose by 
+16.6 per cent to €6.45 billion (Q1 2013: €5.53 billion). As before, the mortgage finance product 
+segment makes up the largest share of the overall volume.
+The total value of building finance agreements and loans brokered via EUROPACE rose by 19.6 per 
+cent to €1.61 billion (Q1 2013: €1.35 billion). Building finance products remain in demand. They 
+enable home buyers to secure low interest rates over the long term and eliminate interest-rate risk. 
+There was also encouraging growth in the volume of transactions in personal loans, with the corres­
+ponding figure for the first three months of 2013 being increased by 25.7 per cent to €0.40 billion 
+(Q1 2013: €0.31 billion).
+
+16
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Revenue rose by 23.1 per cent to €7.50 million 
+(Q1 2013: €6.09 million), mainly as a result of 
+the higher volume of transactions. The increase 
+in gross profit almost mirrored the growth in the 
+volume of transactions, advancing by 19.8 per 
+cent to €5.17 million (Q1 2013: €4.31 million).
+While other income and expenses virtually off­
+set each other, EBIT generated by the business 
+unit rose by an impressive 63.3 per cent from 
+€1.11 million to €1.81 million.
+Financial Service Providers business unit
+1 Jan - 31 Mar 2014
+1 Jan - 31 Mar 2013*
+Volume of transactions (€ billion)
+8.5
+7.2
+thereof mortgage finance
+6.5
+5.5
+thereof personal loans
+0.4
+0.3
+thereof building saving
+1.6
+1.4
+Revenue (€ million)
+7.5
+6.1
+Selling expenses (€ million)
+2.3
+1.8
+Net Revenue (€ million)
+5.2
+4.3
+EBIT (€ million)
+1.8
+1.1
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim con­
+solidated financial statements „Comparative figures for 2013“
+In order to ensure that our EUROPACE marketplace prospers, we need, above all, to attract new dis­
+tribution partners and product suppliers and to strengthen our business relationships with existing 
+partners and suppliers. The total number of partners using the EUROPACE platform had risen to 
+248 by 31 March 2014, compared with 211 partners as at 31 March 2013. 
+More than 270 participants attended the 23rd EUROPACE Conference, which was held in February. 
+The two main topics of interest at this gathering were mortgage brokerage as a profession and 
+global economic developments in 2014.
+0,00
+1,00
+2,00
+3,00
+4,00
+5,00
+6,00
+7,00
+8,00
+Q1/2013
+Q1/2014
+Revenue Financial Service Providers (€ million)
+
+17
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+GENOPACE
+The cumulative transaction volume on GENO­
+PACE, our financial marketplace for the coope­
+rative financial network, passed the €3 billion 
+threshold at the start of 2014. We have now 
+connected 95 contractual partners (31 March 
+2013: 80 partners) as a result of continuously 
+enhancing GENOPACE and incorporating new 
+functionality.
+FINMAS
+FINMAS is our newest financial marketplace 
+and is aimed at savings banks. It achieved a 
+monthly transaction volume of €100 million for 
+the first time at the start of 2014. The number of 
+contractual partners using FINMAS is continual­
+ly rising and totalled 71 as at 31 March 2014 
+(31 March 2013: 51 partners).
+Number of partners
+Number of partners
+
+18
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Institutional Clients business unit 
+Arranging big-ticket loans for German housing 
+companies, local authorities and commercial 
+property investors constitutes a key source of re­
+venue for the Institutional Clients business unit. 
+This unit continued to benefit from its excep­
+tionally strong market position as the central 
+intermediary for innovative forms of mortgage 
+finance and from the expert advice that it pro­
+vides on portfolio management and loans for 
+business customers.
+ 
+The volume of new loans brokered in the first 
+quarter of the year rose by a considerable 26.0 
+per cent year on year. This included big-ticket 
+transactions that had been in the pipeline for 
+some time. The revenue generated in the first quarter of 2014 advanced significantly, by 52.7 per 
+cent, to €4.18 million (Q1 2013: €2.74 million). This increase in revenue was larger than the rise 
+in the value of new loans brokered, largely due to the decline in low-margin local authority loans.
+The revenue generated by this unit in the first three months of 2014 comprised €2.6 million from 
+the brokerage of loans and insurance (Q1 2013: €1.5 million) and €1.6 million from consulting 
+services (Q1 2013: €1.2 million). 
+Although personnel expenses and other operating expenses rose slightly, the business unit‘s EBIT 
+surged by 146.9 per cent from €0.80 million in the first quarter of 2013 to €1.97 million in the 
+corresponding period of 2014.
+Institutionelle Kunden
+01.01.-31.03.2014
+01.01.-31.03.2013*
+Finanzierungsvermittlung
+Neugeschäftsvolumen (Mio. €)
+345
+201
+Prolongationsvolumen (Mio. € )
+91
+145
+Umsatzerlöse (Mio. €)
+4,2
+2,7
+Vertriebskosten (Mio. €)
+0,1
+0,1
+Rohertrag (Mio. €)
+4,1
+2,6
+EBIT (Mio. €)
+2,0
+0,8
+Institutional Clients business unit
+1 Jan - 31 Mar 2014
+1 Jan - 31 Mar 2013*
+Loan Brokerage 
+Volume of new business (€ million)
+345
+201
+Volume of prolongation (€ million)
+91
+145
+Revenue (€ million)
+4.2
+2,7
+Selling expenses (€ million)
+0,1
+0,1
+Net Revenue (€ million)
+4,1
+2,6
+EBIT (€ million)
+2,0
+0,8
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim con­
+solidated financial statements „Comparative figures for 2013“
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Q1/2013
+Q1/2014
+Revenue Institutional Clients (€ million)
+
+19
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Own work capitalised
+In the first quarter of 2014 the Company continued to attach considerable importance to investing 
+in the further expansion of its B2B financial marketplaces. There was also further investment in new 
+advisory systems for end customers and distributors. This capital expenditure underpins the ongo­
+ing growth of its Financial Service Providers and Private Clients business units.
+ 
+Hypoport invested a total of €1.8 million in the development of its marketplaces and advisory 
+systems in the first three months of 2014 (Q1 2013: €1.8 million). It continues to invest heavily 
+in its forward-looking projects as part of these activities. Of this total, €1.1 million was capitalised 
+(Q1 2013: €1.0 million) and €0.7 million was expensed as incurred (Q1 2013: €0.8 million). These 
+amounts represent the pro-rata personnel expenses and operating costs attributable to software 
+development.
+Earnings
+The sharp rise in earnings from mortgage fi­
+nance products across all three business units, 
+coupled with a marked reduction in costs in the 
+Private Clients business unit‘s insurance busi­
+ness, resulted in a highly positive start to the 
+new financial year.
+Against the backdrop of the operating perfor­
+mance described above, EBITDA rose signifi­
+cantly from €1.1 million to €4.3 million and 
+EBIT climbed from €0.1 million to €3.1 million.
+Consequently, the EBITDA margin (EBITDA as 
+a percentage of gross profit) jumped from 10.1 
+per cent to 29.5 per cent.
+Other income and expenses
+Other operating income essentially comprised employee contributions of €166 thousand (Q1 2013: 
+€146 thousand) to vehicle purchases. 
+Personnel expenses rose in line with the increase in salaries and the number of employees to 568 
+(Q1 2013: 564).
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Q1/2013
+Q1/2014
+EBITDA (€ million)
+
+20
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+The breakdown of other operating expenses is shown in the table below.
+€'000
+1 Jan - 31 Mar 2014
+1 Jan - 31 Mar 2013*
+Operating expenses
+1,396
+1,268
+Other selling expenses
+644
+775
+Administrative expenses
+1,039
+1,110
+Other personnel expenses
+136
+156
+Other expenses
+215
+141
+3,430
+3,450
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim con­
+solidated financial statements „Comparative figures for 2013“
+The operating expenses consisted mainly of building rentals of €485 thousand (Q1 2013: €476 
+thousand) and vehicle-related costs of €344 thousand (Q1 2013: €348 thousand). The other sel­
+ling expenses related to advertising costs and travel expenses. The administrative expenses largely 
+comprised IT-related costs of €463 thousand (Q1 2013: €419 thousand) and legal and consultancy 
+expenses of €130 thousand (Q1 2013: €143 thousand). The other personnel expenses mainly con­
+sisted of training costs of €103 thousand (Q1 2013: €116 thousand).
+The net finance costs mainly include interest expenses of €0.1 million incurred by the drawdown 
+of loans and use of credit lines (Q1 2013: €0.2 million) as well as interest expenses of €0.1 million 
+on the discounting of non-current receivables from product suppliers (Q1 2013: interest income of 
+€0.1 million).
+Balance sheet
+The Hypoport Group‘s consolidated total assets as at 31 March 2014 amounted to €69.4 million, 
+which was 6 per cent down on the total as at 31 December 2013 (€73.6 million)
+55%
+51%
+45%
+49%
+31 Mar 2014
+31 Dec 2013
+Assets
+Non-current assets
+Current assets
+52%
+45%
+17%
+17%
+32%
+38%
+31 Mar 2014
+31 Dec 2013
+Equity and liabilities
+Equity
+Non-current liabilities
+Current liabilities
+
+21
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Non-current assets totalled €38.4 million (31 December 2013: €37.6 million). This amount included 
+goodwill which, at an unchanged €14.8 million, remained the largest single item.
+Current other assets essentially comprised commission paid in advance to distribution partners 
+amounting to €3.569 million (31 December 2013: €3.758 million).
+The equity attributable to Hypoport AG shareholders as at 31 March 2014 grew by €2.6 million, or 
+7.9 per cent, to €35.7 million. The equity ratio improved from 44.9 per cent to 51.5 per cent owing 
+to the Hypoport Group‘s net profit and the contraction in its total assets.
+The €1.1 million decrease in non-current liabilities to €11.5 million stemmed primarily from the fall 
+in financial liabilities.
+Other current liabilities mainly comprised commissions received in advance totalling €2.5 milli­
+on (31 December 2013: €2.8 million) and deferred income of €1.0 million (31 December 2013: 
+€0.3 million).
+Total financial liabilities fell by €1.7 million to €15.1 million, largely as a result of scheduled loan 
+repayments. 
+Cash flow
+Cash flow increased by €2.3 million to €3.8 million during the reporting period. This increase was 
+largely attributable to the substantial year-on-year improvement in the net profit reported for the 
+period.
+The total net cash outflow used by operating activities as at 31 March 2014 amounted to €1.1 
+million (31 March 2013: net outflow of €2.5 million). The cash used for working capital went up by 
+€0.9 million to €4.9 million (31 March 2013: €4.0 million).
+The net cash outflow of €1.4 million from investing activities (31 March 2013: net outflow of €1.6 
+million) stemmed primarily from the fact that capital expenditure on non-current intangible assets 
+had risen to €1.3 million (31 March 2013: €1.2 million). 
+The net cash outflow of €1.7 million used by financing activities (31 March 2013: net outflow of 
+€0.9 million) related solely to scheduled loan repayments (31 March 2013: €3.3 million). In the 
+corresponding period of 2013, there had also been new borrowing of €2.4 million.
+Cash and cash equivalents as at 31 March 2014 totalled €6.7 million, which was €4.2 million lower 
+than at the beginning of the year. 
+Cash and cash equivalents at the end of the period consisted exclusively of cash on hand and at 
+banks.
+
+22
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Capital expenditure
+Most of the capital investment was spent on refining the EUROPACE financial marketplaces. There 
+was also further investment in new advisory systems for end customers and distributors. 
+Employees
+The Hypoport Group employed 568 people as at 31 March 2014 (31 March 2013: 564 people). 
+Total headcount increased by 15 people compared with the end of 2013 (31 December 2013: 553 
+employees). 
+Outlook
+The improvement in the global economy is now more broadly based, a trend that is set to continue 
+in 2014 and 2015. Established industrialised countries are expected to contribute much of the 
+upward momentum. The IMF forecasts global growth of 3.6 per cent for 2014 but warns that there 
+are a host of uncertainties and downside risks that could put a brake on economic recovery. Given 
+the conflict between Russia and Ukraine, these risks are also geopolitical in nature at the moment. 
+At a global level, the IMF will increasingly be turning its attention to the performance of the emer­
+ging markets over the next few months. Some of them are seeing stagnation compared with the 
+very robust growth that they have generated in previous years. 
+In Europe, efforts to bring about economic stability are continuing. The spectre of deflation along 
+with high unemployment in southern European countries are restricting the European Central 
+Bank‘s room for manoeuvre. The IMF forecasts that Europe‘s economy will grow by 1.2 per cent this 
+year (which is below the global rate of growth) and by 1.5 per cent in 2015.
+The IMF paints a more optimistic picture for Germany, with its latest estimate pointing to econo­
+mic growth of 1.7 per cent in 2014. Next year, growth is likely to be slightly slower at 1.6 per cent. 
+In their Joint Economic Forecast released in spring 2014, Germany‘s leading economic institutes 
+reported that the German economy remained on an upward trajectory but warned of headwinds 
+from economic policies, such as full pensions from the age of 63. Nonetheless, strong domestic de­
+mand, rising employment and favourable lending conditions lead the institutes to predict economic 
+growth of 1.9 per cent in 2014. 
+The current assumption is that the ECB‘s key lending rate will remain at the low level of 0.25 per 
+cent for the time being. The reasons behind the low interest rates remain unchanged: stabilisation 
+of the interbank market and the extension of loans on favourable terms by financial institutions to 
+companies and individuals. Although the historically low interest rates are likely to further strengt­
+hen the lending business, classic investment products do not promise high returns and therefore 
+lack appeal. In the short term, the Hypoport Group expects mortgage interest rates to fluctuate 
+within a narrow range, with interest rates predicted to rise over the long term. The factors affecting 
+the situation over the coming months will be the continued recovery of crisis-hit EU countries and 
+the results of the stress tests for European banks and their balance sheets in connection with Euro­
+pean banking union. 
+
+23
+3. Interim group management report
+Zwischenbericht der Hypoport AG zum 31. März 2014
+In April, the German Insurance Association (GDV) commented on factors emanating from the poli­
+tical sphere that are affecting the insurance sector. Implementation of Solvency II – as defined by 
+the Omnibus II directive adopted last November – is due to start by the beginning of 2016. The GDV 
+says that the details regarding capital adequacy requirements applicable to investments and the 
+measurement of non-current liabilities need to be worked out by then in order to reach an outcome 
+that is both practical and acceptable. Moreover, pension products are suffering as a result of the 
+ECB‘s ongoing policy of low interest rates. 
+Hypoport AG is holding its ground in a permanently challenging market environment thanks to its 
+diversified business model. In addition, it maintains long-term customer relationships as a result 
+of its comprehensive, independent and fair advisory service geared specifically to consumers‘ chan­
+ging needs and wishes. 
+For 2014 as a whole, we anticipate double-digit revenue growth as well as earnings above the 
+record levels seen in 2010 and 2011.
+
+24
+4. Interim consolidated  financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+4. Interim consolidated 
+financial statements
+IFRS consolidated balance sheet as at 31 March 2014
+ASSETS
+31 Mar 2014
+€‘000
+31 Dec 2013*
+€‘000
+Non-current assets
+Intangible assets
+29,952
+29,568
+Property, plant and equipment
+2,136
+2,210
+Investments accounted for using the equity method
+277
+289
+Financial assets
+63
+69
+Trade receivables
+4,913
+4,344
+Other assets
+713
+713
+Deferred tax assets
+393
+412
+38,447
+37,605
+Current assets
+Trade receivables
+19,073
+20,257
+Other current items
+5,127
+4,828
+Income tax assets
+6
+5
+Cash and cash equivalents
+6,708
+10,952
+30,914
+36,042
+69,361
+73,647
+EQUITY AND LIABILITIES
+Equity
+Subscribed capital
+6,195
+6,195
+Treasury shares
+-57
+-57
+Reserves
+29,264
+26,659
+35,402
+32,797
+Non-controlling interest
+332
+256
+35,734
+33,053
+Non-current liabilities
+Financial liabilities
+11,057
+12,061
+Provisions
+105
+105
+Other liabilities
+10
+10
+Deferred tax liabilities
+336
+409
+11,508
+12,585
+Current liabilities
+Provisions
+71
+59
+Financial liabilities
+4,008
+4,758
+Trade payables
+10,420
+15,208
+Current income tax liabilities
+613
+325
+Other liabilities
+7,007
+7,659
+22,119
+28,009
+69,361
+73,647
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim consolidated financial statements „Comparative figures for 2013“
+
+25
+4. Interim consolidated  financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Consolidated income statement
+for the period 1 January to 31 March 2014
+1 Jan - 31 Mar 2014
+€‘000
+1 Jan - 31 Mar 2013*
+€‘000
+Revenue
+27,894
+21,695
+Selling expenses (Commision and lead costs)
+-13,320
+-10,436
+Gross profit
+14,574
+11,259
+Own work capitalised
+1,137
+1,026
+Other operating income
+446
+410
+Personnel expenses
+-8,463
+-8,132
+Other operating expenses
+-3,430
+-3,450
+Income from companies accounted for using the 
+equity method
+-12
+20
+Earnings before interest, tax, depreciation and 
+amortisation (EBITDA)
+4,252
+1,133
+Depreciation, amortisation expense and impairment 
+losses
+-1,125
+-1,065
+Earnings before interest and tax (EBIT)
+3,127
+68
+Financial income
+21
+42
+Finance costs
+-190
+-167
+Earnings before tax (EBT)
+2,958
+-57
+Income taxes and deferred taxes
+-277
+509
+Net income for the year
+2,681
+452
+attributable to non-controlling interest
+76
+-43
+attributable to Hypoport AG shareholders
+2,605
+495
+Earnings per share (€)
+0.42
+0.08
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim con­
+solidated financial statements „Comparative figures for 2013“
+
+26
+4. Interim consolidated  financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Consolidated statement of comprehensive income
+for the period 1 January to 31 March 2014
+1 Jan - 31 Mar 2014
+€‘000
+1 Jan - 31 Mar 2013
+€‘000
+Net income for the year
+2,681
+452
+Total income and expenses recognized in equity*
+0
+0
+Total comprehensive income
+2,681
+452
+attributable to non-controlling interest
+76
+-43
+attributable to Hypoport AG shareholders
+2,605
+495
+*There was no income or expences to be gecognized in equity during the reporting period.
+Abridged consolidated statement of changes in equity for the three months ended 31 March 2014
+€'000
+Subscribed 
+capital
+Capital 
+reserves
+Retained 
+earnings
+Equity  
+attributable to 
+Hypoport AG 
+shareholders
+Equity  
+attributable to 
+non-controlling 
+interest
+Equity
+Balance as at 1 January 2013
+6,134
+2,052
+21,428
+29,614
+230
+29,844
+Sale of own shares
+0
+0
+0
+0
+0
+0
+Total comprehensive income
+0
+0
+495
+495
+-43
+452
+Balance as at 31 March 2013
+6,134
+2,052
+21,923
+30,109
+187
+30,296
+€'000
+Subscribed 
+capital
+Capital 
+reserves
+Retained 
+earnings
+Equity  
+attributable to 
+Hypoport AG 
+shareholders
+Equity  
+attributable to 
+non-controlling 
+interest
+Equity
+Balance as at 1 January 2014
+6,138
+2,057
+24,602
+32,797
+256
+33,053
+Sale of own shares
+0
+0
+0
+0
+0
+0
+Total comprehensive income
+0
+0
+2,605
+2,605
+76
+2,681
+Balance as at 31 March 2014
+6,138
+2,057
+27,207
+35,402
+332
+35,734
+
+27
+4. Interim consolidated  financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Consolidated cash flows statement
+for the period 1 January to 31 March 2014
+31 Mar 2014
+€‘000
+31 Mar 2013*
+€‘000
+Earnings before interest and tax (EBIT)
+3,127
+68
+Non-cash income (+) / expense (-) 
+-272
+528
+Interest received (+)
+21
+42
+Interest paid (-)
+-190
+-167
+Income tax payments (-)
+-5
+-19
+Depreciation and amortisation expense, impairment losses (+) / reversals of impairment losses (-) on 
+non-current assets
+1,125
+1,065
+Cashflow 
+3,806
+1,517
+Increase (+) / decrease (-) in current provisions
+12
+74
+Increase (-) / decrease (+) in inventories, trade receivables  and other assets not attributable to inves-
+ting or financing activities
+346
+1,612
+Increase (+) / decrease (-) in trade payables  and other liabilities not attributable to investing or 
+financing activities
+-5,246
+-5,695
+Change in working capital
+-4,888
+-4,009
+Cash flows from operating activities
+-1,082
+-2,492
+Payments to acquire property, plant and equipment / intangible assets (-)
+-1,435
+-1,638
+Proceeds from the disposal of financial assets (+)
+6
+12
+Purchase of financial assets (-)
+0
+-2
+Cash flows from investing activities
+-1,429
+-1,628
+Proceeds from the issue of bonds and drawdown of loans under finance facilities (+)
+0
+2,400
+Redemption of bonds and loans (-)
+-1,733
+-3,258
+Cash flows from financing activities
+-1,733
+-858
+Net change in cash and cash equivalents
+-4,244
+-4,978
+Cash and cash equivalents at the beginning of the period
+10,952
+8,175
+Cash and cash equivalents at the end of the period
+6,708
+3,197
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim consolidated financial statements „Com­
+parative figures for 2013“
+
+28
+4. Interim consolidated  financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Abridged segment reporting 
+for the period 1 January to 31 March 2014
+€'000
+Institutional 
+clients
+Private clients
+Financial ser-
+vice providers
+Reconciliation
+Group
+Segment revenue in respect of third parties
+4,177
+16,241
+7,312
+164
+27,894
+1 Jan - 31 Mar 2013*
+2,736
+12,912
+5,957
+90
+21,695
+Segment revenue in respect of other segments
+0
+30
+186
+-216
+0
+1 Jan - 31 Mar 2013*
+0
+17
+133
+-150
+0
+Total segment revenue
+4,177
+16,271
+7,498
+-52
+27,894
+1 Jan - 31 Mar 2013*
+2,736
+12,929
+6,090
+-60
+21,695
+Gross profit
+4,114
+5,129
+5,168
+163
+14,574
+1 Jan - 31 Mar 2013*
+2,658
+4,199
+4,313
+89
+11,259
+Segment earnings before interest, tax, depreciati-
+on and amortisation (EBITDA) 
+2,122
+509
+2,518
+-897
+4,252
+1 Jan - 31 Mar 2013*
+911
+-680
+1,667
+-765
+1,133
+Segment earnings before interest and tax (EBIT)
+1,973
+301
+1,808
+-955
+3,127
+1 Jan - 31 Mar 2013*
+799
+-860
+1,107
+-978
+68
+Segment assets 1 Jan - 31 Mar 2014
+22,818
+22,111
+22,046
+2,386
+69,361
+Segment assets 1 Jan - 31 Dec 2013*
+21,780
+20,719
+28,917
+2,231
+73,647
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim consolidated financial statements „Com­
+parative figures for 2013“
+
+29
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+5. Notes to the interim consoli­
+dated financial statements
+Information about the Company
+The Hypoport Group is an internet-based financial service provider. Its business model is based on 
+its three mutually supporting business units: Institutional Clients, Private Clients, and Financial 
+Service Providers. All three of the Hypoport Group‘s business units are engaged in the distribution 
+of financial products and services, facilitated or supported by internet technology.
+Operating through its subsidiaries Dr. Klein & Co. Aktiengesellschaft, Vergleich.de Gesellschaft für 
+Verbraucherinformation mbH and Qualitypool GmbH (hereinafter also referred to jointly as ‚Dr. 
+Klein‘), the Hypoport Group offers private clients internet-based banking and financial products 
+(providing advice, if requested, either by telephone or face to face) ranging from current accounts 
+and insurance to mortgage finance. 
+Dr. Klein & Co. AG has been a major financial service partner to housing companies, local authori­
+ties and commercial property investors since 1954. The Institutional Clients business unit provides 
+its institutional clients in Germany and the Netherlands with a fully integrated service comprising 
+expert advice and customised solutions in the areas of financial management, portfolio manage­
+ment, and insurance for business customers. 
+The Hypoport Group uses its EUROPACE B2B financial marketplace – Germany‘s largest online 
+transaction platform – to sell banking products through its subsidiaries Hypoport Mortgage Market 
+Ltd. (mortgage loans, building finance) and EUROPACE AG (personal loans, current accounts, credit 
+insurance). A fully integrated system links a large number of banks with several thousand financial 
+advisors, thereby enabling products to be sold swiftly and directly. 
+The parent company is Hypoport AG, which is headquartered in Berlin, Germany. Hypoport AG is 
+entered in the commercial register of the Berlin-Charlottenburg local court under HRB 74559. The 
+Company‘s business address is Klosterstrasse 71, 10179 Berlin, Germany. 
+Basis of presentation
+The condensed interim consolidated financial statements for the period ended 31 March 2014 for 
+Hypoport AG have been prepared in accordance with the provisions of IAS 34 (Interim Financial 
+Reporting). They are based on the International Financial Reporting Standards (IFRS) published by 
+the International Accounting Standards Board (IASB) as adopted by the European Union and take 
+into account the interpretations of the International Financial Reporting Interpretations Committee 
+(IFRIC). The report has been condensed in accordance with IAS 34 compared with the scope of the 
+consolidated financial statements for the year ended 31 December 2013. These condensed interim 
+consolidated financial statements should therefore be read in conjunction with the consolidated 
+financial statements for the year ended 31 December 2013 and the disclosures contained in the 
+notes thereto. These condensed interim consolidated financial statements and the interim group 
+management report have not been audited or reviewed by an auditor.
+
+30
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+These condensed interim consolidated financial statements are based on the accounting policies 
+and the consolidation principles applied to the consolidated financial statements for the year en­
+ded 31 December 2013. However, some changes have been introduced due to the adoption of new 
+or revised accounting standards. The comparative prior-year figures in the financial statements have 
+been restated accordingly.
+The interim consolidated financial statements and the separate financial statements for the entities 
+included in the IFRS interim consolidated financial statements are prepared in euros.
+To improve clarity, all figures in the IFRS interim consolidated financial statements and the interim 
+group management report are presented in thousands or millions of euros unless stated otherwise. 
+We wish to point out that the application and aggregation of rounded amounts and percentages 
+and the use of automated calculation methods may give rise to rounding discrepancies.
+All figures on the quantities and volumes of financial products sold (e.g. volume of loans brokered, 
+life insurance premiums, or volume of transactions processed on EUROPACE) include cancellations 
+and, consequently, cannot be compared directly with the revenue figures shown, which exclude can­
+cellations. The relevant figures shown in each case are calculated at a cut-off point in the product 
+transaction process that is appropriate for the accrual method of accounting used. Cancellations 
+that occur later in this process – e.g. as a result of additional credit checks or health checks perfor­
+med by product suppliers or the exercise of cancellation rights by consumers – are not included in 
+the relevant figures shown.
+The consolidated balance sheet is broken down into current and non-current items in accordance 
+with IAS 1.51 et seq.
+The consolidated income statement is presented under the nature-of-expense method.
+Accounting policies
+The accounting policies applied are those used in 2013, with the following exceptions:
+•	 IAS 27: Separate Financial Statements 
+•	 IAS 28: Investments in Associates and Joint Ventures 
+•	 IAS 32: Financial Instruments: Presentation – Offsetting Financial Assets and Financial Liabi­
+lities 
+•	 IAS 36: Impairment of Assets: Recoverable Amount Disclosures for Non-Financial Assets 
+•	 IAS 39: Financial Instruments: Recognition and Measurement: Novation of Derivatives and 
+Continuation of Hedge Accounting
+•	 IFRS 10: Consolidated Financial Statements 
+•	 IFRS 11: Joint Arrangements 
+•	 IFRS 12: Disclosure of Interests in Other Entities 
+•	 Various: Transition Guidance (Amendments to IFRS 10, IFRS 11 and IFRS 12) 
+•	 Various: Investment Entities (Amendments to IFRS 10, IFRS 12 and IAS 27) 
+The adoption of IFRS 11 Joint Arrangements with effect from 1 January 2014 has resulted in the 
+following changes to Hypoport‘s financial reporting in 2014.
+
+31
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Until the end of 2013, Hypoport consolidated entities managed jointly with partners on a pro-rata 
+basis in accordance with IAS 31. Under IFRS 11, which governs the accounting treatment of joint 
+arrangements, a distinction has to be made between joint ventures and joint operations. A joint 
+venture is where the partners have rights to the net assets of a jointly managed, legally indepen­
+dent entity owing to their position as shareholders. A joint operation is where the parties that have 
+joint control have direct rights to the assets and direct obligations for the liabilities relating to the 
+arrangement. This applies, in particular, if almost all of the joint arrangement‘s output is sold to the 
+partners and there is no access to external sources of funding.
+The equity method is now mandatory for the accounting treatment of long-term equity investments 
+in joint ventures. In the case of a joint operation, the pro-rata share of the assets, liabilities, income 
+and expenses must be recognised.
+Following adoption of the new standard with effect from 1 January 2014, the following three Hypo­
+port Group companies are now equity-accounted instead of being consolidated on a pro-rata basis: 
+Hypoport on-geo GmbH, FINMAS GmbH and ATC Hypoport B.V. The profit (loss) calculated using 
+the equity method is recognised as part of income from operations (earnings before interest and 
+tax, EBIT), thereby reflecting the operational nature of the long-term equity investments accounted 
+for under the equity method.
+The table below shows the effects of the transition from consolidation on a pro-rata basis to the 
+equity method following first-time adoption of IFRS 11 with effect from 1 January 2013.
+Effects of initial use of IFRS 11
+1 January 2013
+€‘000
+Non-current assets
+188
+thereof property, plant and equipment
+-59
+investments accounted for using the equity method
+247
+Current assets
+-626
+thereof trade receivables
+-224
+other current items
+-20
+income tax assets
+-2
+cash and cash equivalents
+-380
+Total assets
+-438
+Current liabilities
+-438
+thereof trade payables
+-369
+other current liabilities
+-69
+Total equity and liabilities
+-438
+The first-time adoption of the other standards and interpretations listed above has had no impact 
+on the financial position or financial performance of the Hypoport Group.
+
+32
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Comparative figures for 2013
+The figures for 2013 have been restated owing to the amendments to IFRS 11. This new recognition method has not affected 
+either the net profit (loss) for the period or the earnings (loss) per share reported by the Hypoport Group.
+The table below shows the effects of retrospective first-time adoption of this standard on the main comparative figures reported 
+by the Hypoport Group for 2013.
+Overview balance sheet (€'000)
+31 March 2013
+31 December 2013
+adjusted
+previous
+change
+adjusted
+previous
+change
+Assets
+Non-current assets
+2,951
+2,741
+210
+2,499
+2,279
+220
+thereof property, plant and equipment
+2,684
+2,741
+-57
+2,210
+2,279
+-69
+investments accounted for using 
+the equity method
+267
+0
+267
+289
+0
+289
+Current assets
+28,154
+28,779
+-625
+36,042
+37,016
+-974
+thereof trade receivables
+19,258
+19,620
+-362
+20,257
+20,624
+-367
+other current items
+5,614
+5,639
+-25
+4,828
+4,849
+-21
+income tax assets
+85
+87
+-2
+5
+5
+0
+cash and cash equivalents
+3,197
+3,433
+-236
+10,952
+11,538
+-586
+Total assets
+64,282
+64,697
+-415
+73,647
+74,401
+-754
+Equity and liabilities
+Current liabilities
+14,940
+15,355
+-415
+22,867
+23,621
+-754
+thereof trade payables
+8,153
+8,370
+-217
+15,208
+15,875
+-667
+other current liabilities
+6,787
+6,985
+-198
+7,659
+7,746
+-87
+Total equity and liabilities
+64,282
+64,697
+-415
+73,647
+74,401
+-754
+Overview income statement (€'000)
+31 March 2013
+31 December 2013
+adjusted
+previous
+change
+adjusted
+previous
+change
+Revenue
+21,695
+22,059
+-364
+98,090
+101,058
+-2,968
+Selling expenses (Commision and lead 
+costs)
+-10,436
+-10,719
+283
+-49,113
+-51,479
+2,366
+Gross profit
+11,259
+11,340
+-81
+48,977
+49,579
+-602
+Other operating income
+410
+412
+-2
+2,770
+2,776
+-6
+Personnel expenses
+-8,132
+-8,166
+34
+-32,684
+-32,831
+147
+Other operating expenses
+-3,450
+-3,466
+16
+-15,230
+-15,616
+386
+Income from companies accounted for using 
+the equity method
+20
+0
+20
+43
+0
+43
+Earnings before interest, tax, depreciation 
+and amortisation (EBITDA)
+1,133
+1,146
+-13
+8,124
+8,156
+-32
+Depreciation, amortisation expense and 
+impairment losses
+-1,065
+-1,068
+3
+-4,175
+-4,190
+15
+Earnings before interest and tax (EBIT)
+68
+78
+-10
+3,949
+3,966
+-17
+Earnings before tax (EBT)
+-57
+-47
+-10
+3,073
+3,090
+-17
+Income taxes and deferred taxes
+509
+499
+10
+102
+85
+17
+
+33
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Overview cash flows statement (€'000)
+31 March 2013
+31 December 2013
+adjusted
+previous
+change
+adjusted
+previous
+change
+Earnings before interest and tax (EBIT)
+68
+78
+-10
+3,949
+3,966
+-17
+Non-cash income (+) / expense (-) 
+528
+518
+10
+-538
+-555
+17
+Depreciation and amortisation expense, 
+impairment losses (+) / reversals of impair-
+ment losses (-) on non-current assets
+1,065
+1,068
+-3
+4,175
+4,190
+-15
+Cashflow 
+1,517
+1,520
+-3
+6,163
+6,178
+-15
+Increase (-) / decrease (+) in inventories, 
+trade receivables and other assets not 
+attributable to investing or financing 
+activities
+1,612
+1,489
+123
+956
+856
+100
+Increase (+) / decrease (-) in trade payables 
+and other liabilities not attributable to 
+investing or financing activities
+-5,695
+-5,718
+23
+2,769
+3,085
+-316
+Change in working capital
+-4,009
+-4,155
+146
+3,706
+3,922
+-216
+Cash flows from operating activities
+-2,492
+-2,635
+143
+9,869
+10,100
+-231
+Payments to acquire property, plant and 
+equipment / intangible assets (-)
+-1,638
+-1,639
+1
+-5,737
+-5,762
+25
+Cash flows from investing activities
+-1,628
+-1,629
+1
+-5,701
+-5,726
+25
+Net change in cash and cash equivalents
+-4,978
+-5,122
+144
+2,777
+2,983
+-206
+Cash and cash equivalents at the beginning 
+of the period
+8,175
+8,555
+-380
+8,175
+8,555
+-380
+Cash and cash equivalents at the end of the 
+period
+3,197
+3,433
+-236
+10,952
+11,538
+-586
+Overview 
+segment 
+reporting 
+(€'000)
+1 Jan - 31 Mar 2013
+1 Jan - 31 Mar 2013
+1 Jan - 31 Mar 2013
+Institutional Clients
+Financial Service Providers
+Group
+adjusted
+previous
+change
+adjusted
+previous
+change
+adjusted
+previous
+change
+Segment 
+revenue 
+in respect 
+of third 
+parties
+2,736
+2,779
+-43
+5,957
+6,278
+-321
+21,695
+22,059
+-364
+Total 
+segment 
+revenue
+2,736
+2,779
+-43
+6,090
+6,411
+-321
+21,695
+22,059
+-364
+Gross profit
+2,658
+2,701
+-43
+4,313
+4,351
+-38
+11,259
+11,340
+-81
+EBITDA
+911
+921
+-10
+1,667
+1,670
+-3
+1,133
+1,146
+-13
+EBIT
+799
+806
+-7
+1,107
+1,110
+-3
+68
+78
+-10
+Segment 
+assets
+21,728
+21,946
+-218
+19,383
+19,580
+-197
+64,282
+64,697
+-415
+
+34
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Overview 
+segment 
+reporting 
+(€'000)
+Full Year 2013
+Full Year 2013
+Full Year 2013
+Institutional Clients
+Financial Service Providers
+Group
+adjusted
+previous
+change
+adjusted
+previous
+change
+adjusted
+previous
+change
+Segment 
+revenue 
+in respect 
+of third 
+parties
+12,262
+12,511
+-249
+29,669
+32,388
+-2,719
+98,090
+101,058
+-2,968
+Total 
+segment 
+revenue
+12,262
+12,511
+-249
+30,344
+33,063
+-2,719
+98,090
+101,058
+-2,968
+Gross profit
+11,807
+12,056
+-249
+19,537
+19,890
+-353
+48,977
+49,579
+-602
+EBITDA
+4,278
+4,302
+-24
+8,077
+8,085
+-8
+8,124
+8,156
+-32
+EBIT
+3,748
+3,757
+-9
+5,991
+5,999
+-8
+3,949
+3,966
+-17
+Segment 
+assets
+21,780
+21,825
+-45
+28,917
+29,626
+-709
+73,647
+74,401
+-754
+Segment 
+liabilities
+2,411
+2,456
+-45
+11,226
+11,935
+-709
+40,594
+41,348
+-754
+Segment 
+capital ex-
+penditure
+600
+625
+-25
+3,899
+3,899
+0
+5,737
+5,762
+-25
+Segment 
+depreciati-
+on/amor-
+tisation 
+expense
+530
+545
+-15
+2,086
+2,086
+0
+4,175
+4,190
+-15
+Basis of consolidation
+The consolidation as at 31 March 2014 included all entities controlled by Hypoport AG in addition to Hypoport AG itself.
+The table below shows the entities included in the interim consolidated financial statements in addition to Hypoport AG.
+Holding %
+ATC Hypoport B.V., Amsterdam
+50.00
+Dr. Klein &  Co. AG, Lübeck
+100.00
+Europace AG, Berlin
+100.00
+GENOPACE GmbH, Berlin
+50.025
+FINMAS GmbH, Berlin
+50.00
+Hypoport B.V., Amsterdam
+100.00
+Hypoport Mortgage Market Ltd., Westport (Irland)
+100.00
+Hypoport on-geo GmbH, Berlin
+50.00
+Hypoport Systems GmbH, Berlin
+100.00
+Hypoport-Vermögensverwaltungs-GmbH, Berlin
+100.00
+Qualitypool GmbH, Lübeck
+100.00
+Starpool Finanz GmbH, Berlin
+50.025
+Vergleich.de Gesellschaft für Verbraucherinformation mbH, Berlin
+100.00
+
+35
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+With the exception of Hypoport on-geo GmbH, FINMAS GmbH and ATC Hypoport B.V. (all joint 
+ventures accounted for under the equity method owing to lack of control), all companies in the 
+Group are fully consolidated.
+Income taxes and deferred taxes
+This item includes current and deferred tax income and expense in the following amounts:
+1 Jan - 31 Mar 2014 
+€‘000
+1 Jan - 31 Mar 2013*
+€‘000
+Income taxes and deferred taxes
+277
+-509
+current income taxes
+329
+232
+deferred taxes
+-52
+-741
+in respect of timing differences
+-13
+-366
+in respect of tax loss carryforwards
+-39
+-375
+*The comparative prior-year tax figures have been adjusted and are explained in section 5 of the notes to the interim con­
+solidated financial statements „Comparative figures for 2013“
+A current income tax expense of €0 thousand (Q1 2013: €0 thousand) relates to previous years.
+The average combined tax rates computed on the basis of current legislation remain unchanged at 
+just under 30 per cent for Hypoport Group companies in Germany and between 12.5 per cent and 
+25.5 per cent for subsidiaries outside Germany.
+Earnings per share
+The figure for the earnings (loss) per share is determined in accordance with IAS 33. Basic earnings 
+(loss) per share is calculated by dividing the net profit (loss) for the period attributable to the 
+shareholders of Hypoport AG by the weighted average number of outstanding shares. In the first 
+quarter of 2014 there were no share options that would have a dilutive effect on earnings per share.
+1 Jan to  
+31 March 2014
+1 Jan to  
+31 March 2013
+Net income for the year (€'000)
+2,681
+452
+of which attributable to Hypoport AG stockholders
+2,605
+495
+Basic weighted number of outstanding shares 
+('000)
+6,138
+6,134
+Earnings per share (€)
+0,42
+0,08
+
+36
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Intangible assets and property, plant and equipment 
+Intangible assets primarily comprise unchanged goodwill of €14.8 million and development costs 
+of €14.0 million for the financial marketplaces (31 December 2013: €13.6 million).
+Property, plant and equipment consists solely of office furniture and equipment amounting to €2.1 
+million (31 December 2013: €2.2 million).
+Interests in equity-accounted long-term equity investments
+The change in the carrying amounts of equity-accounted long-term equity investments relates to 
+the pro-rata net profit (loss) for the period of the three joint ventures, ATC Hypoport B.V., FINMAS 
+GmbH and Hypoport on-geo GmbH.
+Subscribed capital
+The Company‘s subscribed capital as at 31 March 2014 was unchanged at €6,194,958.00 
+(31 December 2013: €6,194,958.00) and was divided into 6,194,958 (31 December 2013: 
+6,194,958) fully paid-up registered no-par-value shares.
+The Annual Shareholders‘ Meeting held on 7 June 2013 voted to carry forward Hypoport AG‘s dis­
+tributable profit of €19,135,440.51 to the next accounting period.
+Authorised capital
+The Annual Shareholders‘ Meeting held on 1 June 2012 voted to set aside the unused authorisation 
+granted on 1 June 2007 and to issue a new authorisation. The Management Board was authorised 
+– subject to the consent of the Supervisory Board – to increase the Company‘s subscribed capital 
+by up to a total of €3,097,479.00 by issuing new registered no-par-value shares for cash or non-
+cash capital contribution on one or more occasions on or before 31 May 2017. The Management 
+Board can decide – subject to the consent of the Supervisory Board – to disapply the shareholders‘ 
+statutory pre-emption rights. 
+Conditional capital
+The conditional capital created by an Annual Shareholders‘ Meeting resolution adopted on 
+26 August 2002 no longer exists.
+Treasury shares
+Hypoport held 56,565 treasury shares as at 31 March 2014 (equivalent to €56,565.00, or 0.91 per 
+cent, of the subscribed capital of Hypoport AG), which are intended to be issued to employees. The 
+change in the balance of treasury shares and the main data relating to transactions in 2014 are 
+shown in the following table:
+Change in the balance of 
+treasury shares in 2014
+Number of shares
+Proportion of sub-
+scribed capital %
+Cost of purchase €
+Sale price €
+Gain or loss  
+on sale €
+Opening balance as at  
+1 January 2014
+56,575
+0.913
+574,492.08
+-
+-
+Sold in January 2014
+10
+0.000
+106.64
+90.00
+-16.64
+Balance as at 31 March 
+2014
+56,565
+0.913
+-
+-
+-
+
+37
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+The sale of treasury shares was recognised directly in equity and offset against retained earnings.
+Reserves
+The breakdown of reserves can be found in the above consolidated statement of changes in equity.
+Capital reserves include the premium from the capital increase carried out in 2001 (€400 thous­
+and), the premium from the issuance of shares under the 2002-2004 employee share ownership 
+programme from 2006 to 2009 (€1.187 million), an amount equivalent to the par value of the 
+treasury shares recalled in 2006 (€99 thousand), an amount equivalent to the imputed share of 
+subscribed capital for the treasury shares recalled in 2007 (€247 thousand) and income from the 
+issuance of shares to employees (€125 thousand, of which €0 thousand relates to 2014).
+Retained earnings include the profits generated by the entities included in the consolidated financi­
+al statements prior to the first-time consolidation on 1 January 2004, the capital gains on the sale 
+of treasury shares, the losses on the recall of treasury shares and three negative goodwill amounts 
+arising from business combinations. These negative goodwill amounts are reported under retained 
+earnings, because profits had been retained after the acquisition but before the date of first-time 
+consolidation.
+The cumulative net profits and losses for all periods since the date of first-time consolidation, all the 
+remaining adjustments made under the first-time adoption of IFRS with effect from 1 January 2004 
+and recognised directly in equity, and a statutory reserve of €7 thousand (31 December 2013: €7 
+thousand) are also reported under this item.
+Non-controlling interest
+This non-controlling interest relates to the minority interests in the equity of Starpool Finanz GmbH 
+and GENOPACE GmbH.
+Share-based payment
+No share options were issued in the first quarter of 2014.
+Related parties
+IAS 24 requires disclosure of the names of persons or entities that control, or are controlled by, 
+Hypoport AG. Transactions between Hypoport AG and its subsidiaries are eliminated during conso­
+lidation and therefore do not have to be reported in this section.
+ 
+IAS 24 also requires disclosure of the names of persons who can exercise significant influence over 
+the Company.
+The parties covered by the requirements also include key management personnel, their close family 
+members and other entities via which a named person exercises control or significant influence 
+over Hypoport AG. The parties covered by this requirement during the reporting period were the 
+members of the Group Management Board and Supervisory Board of Hypoport AG and their close 
+family members.
+
+38
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+The table below shows the numbers of shares in Hypoport AG directly or indirectly held by the 
+members of the Group Management Board and Supervisory Board as at 31 March 2014.
+Shares (number)  
+31 Mar 2014
+Shares (number)
+31 Dec 2013
+Group  
+Management 
+Board
+Ronald Slabke
+2,245,831
+2,245,831
+Thilo Wiegand
+30,000
+30,000
+Stephan Gawarecki
+187,800
+187,800
+Hans Peter Trampe
+144,690
+144,690
+Supervisory 
+Board
+Dr. Ottheinz Jung-Senssfelder
+14,000
+14,000
+Prof. Dr. Thomas Kretschmar
+814,286
+814,286
+Christian Schröder
+19,000
+19,000
+The companies in the Hypoport Group have not carried out any further disclosable transactions 
+with members of either the Supervisory Board or the Group Management Board or with companies 
+on whose management or supervisory bodies these persons are represented. This also applies to 
+close family members related to these persons.
+Revenue of €5 thousand was generated by joint ventures in the first quarter of 2014 (Q1 2013: 
+€27 thousand). As at 31 March 2014, receivables from joint ventures amounted to €42 thousand 
+(31 December 2013: €156 thousand) and liabilities to such companies totalled €10 thousand (31 
+December 2013: €10 thousand).
+Opportunities and risks
+During the reporting period there were no material changes in the Hypoport Group‘s opportunities 
+and risks as described in the risk report within the 2013 group management report. There are no 
+identifiable risks to the Hypoport Group as a going concern.
+Seasonal influences on business activities
+The first quarter of every year is notoriously the weakest season in the mortgage finance business. 
+In the past, positive changes in the mortgage market for both private and institutional clients have 
+been noticeable over the course of a year. The Company expects to see an encouraging trend in the 
+sale of insurance products to private and institutional clients during the course of the year caused, 
+among other things, by certain industry-wide cancellation deadlines and tax issues. 
+
+39
+5. Notes to the interim consolidated financial statements
+Zwischenbericht der Hypoport AG zum 31. März 2014
+Events after the reporting period
+No material events have occurred since the balance sheet date.
+Berlin, 5 May 2014
+Hypoport AG – The Management Board
+Ronald Slabke	
+	
+	
+	
+Thilo Wiegand
+Stephan Gawarecki	
+	
+	
+Hans Peter Trampe
+
+Hypoport AG
+Klosterstraße 71
+10179 Berlin
+Tel.: +49 (0) 30/420 86 – 0
+Fax: +49 (0) 30/420 86 – 1999
+E-Mail: info@hypoport.de
+www.hypoport.de

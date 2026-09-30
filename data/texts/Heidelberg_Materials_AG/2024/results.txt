@@ -1,0 +1,3458 @@
+Report of Heidelberg Materials AG on the
+Annual Financial 
+Statements 2024
+
+Annual financial statements 2024 
+of Heidelberg Materials AG
+4 
+Balance sheet
+5 
+Income statement
+6 
+Statement of changes in fixed ­assets /  
+Notes for the 2024 financial year
+7 
+Notes for the 2024 financial year
+7 
+General information
+7 
+Accounting and valuation methods
+9 
+Notes to the balance sheet
+12 
+Notes to the income statement
+14 
+Other information
+27 
+Proposal for the appropriation 
+of the balance sheet profit
+28 
+Independent auditor’s ­report
+33 
+Responsibility statement
+Heidelberg Materials 2024
+2
+Annual financial statements
+Navigation icons in the report    
+Contents  
+  Search   
+Back to previous page
+
+In accordance with section 315 (5) of the German 
+­Commercial Code (Handelsgesetzbuch, HGB), the 
+management report of ­­Heidelberg Materials AG has 
+been combined with ­ the Group’s management re-
+port, as the business trend, economic position, and 
+future opportunities and risks of the parent company 
+are closely linked with the Group on account of their 
+common activity in the building ­materials business.
+The combined management report of Heidelberg 
+Materials Group and ­ Heidelberg Materials AG can 
+be  found in the Group’s Annual and Sustainability 
+­Report 2024.
+The list of shareholdings in accordance with section 
+285 no. 11 of the HGB can also be found in the notes 
+of the Group’s Annual and Sustainability Report 2024.
+The annual financial statements and the combined 
+management report of ­Heidelberg Materials AG and 
+the Group for the 2024 financial year will be pub-
+lished in the Company Register.
+Due to rounding, numbers presented in the annual 
+finan­cial statements may not add up precisely to the 
+totals provided.
+Heidelberg Materials 2024
+3
+Annual financial statements
+
+Assets
+€m
+Notes
+31 Dec. 2023
+31 Dec. 2024
+Fixed assets
+Acquired concessions, industrial property rights, similar rights and assets, and licences 
+thereunder
+27.6
+28.5
+Goodwill
+0.7
+0.6
+Prepayments
+5.5
+15.4
+Intangible assets
+1
+33.8
+44.6
+Land and buildings
+324.3
+338.8
+Plant and machinery
+306.5
+304.4
+Other operating equipment
+49.7
+48.3
+Prepayments and assets under construction
+88.9
+85.4
+Property, plant and equipment
+2
+769.4
+776.8
+Investments in subsidiaries
+3
+22,292.4
+22,286.9
+Loans to subsidiaries
+4
+1,388.6
+1,289.6
+Investments in other participations
+5
+359.5
+371.0
+Other loans
+0.0
+0.0
+Financial assets
+24,040.5
+23,947.4
+24,843.7
+24,768.8
+Current assets
+Raw materials and consumables
+42.9
+37.0
+Work in progress
+40.6
+32.6
+Finished goods and goods for resale
+24.3
+24.9
+Prepayments
+0.1
+0.1
+Emission rights
+73.9
+81.7
+Inventories
+6
+181.9
+176.3
+Trade receivables
+8.3
+5.8
+Receivables from subsidiaries
+646.1
+1,514.0
+Receivables from other participations
+3.1
+16.4
+Other assets
+71.6
+114.7
+Receivables and other assets
+7
+729.1
+1,650.9
+Cash at bank and in hand
+2,052.5
+1,746.0
+2,963.4
+3,573.2
+Prepaid expenses
+8
+27.5
+46.0
+Balance sheet total
+27,834.6
+28,388.0
+Equity and liabilities
+€m
+Notes
+31 Dec. 2023
+31 Dec. 2024
+Equity
+Subscribed share capital
+9
+558.6
+546.2
+Treasury shares
+9
+–12.4
+–10.9
+Share premium
+10
+6,180.6
+6,193.0
+Other revenue reserves
+11
+3,968.6
+3,818.4
+Balance sheet profit
+12
+566.4
+607.2
+11,261.8
+11,153.9
+Provisions 
+Provisions for pensions
+13
+400.1
+370.5
+Tax provisions
+14
+286.8
+292.8
+Other provisions
+15
+176.8
+205.5
+863.7
+868.8
+Liabilities
+16
+Bonds payable
+2,500.0
+2,950.0
+Bank loans
+95.2
+194.2
+Trade payables
+113.7
+92.1
+Liabilities to subsidiaries
+12,888.4
+13,108.7
+Liabilities to other participations
+0.7
+0.9
+Other liabilities
+110.7
+19.3
+15,708.7
+16,365.1
+Deferred income
+0.4
+0.2
+Balance sheet total
+27,834.6
+28,388.0
+Heidelberg Materials 2024
+4
+Annual financial statements
+
+Income statement
+€m
+Notes
+2023
+2024
+Revenue
+17
+1,044.0
+1,023.8
+Change in finished goods and work in progress
+10.3
+–7.1
+Own work capitalised
+2.3
+3.3
+Operating revenue
+1,056.7
+1,020.1
+Other operating income
+18
+16.7
+35.7
+Material costs
+19
+–385.8
+–331.8
+Personnel costs
+20
+–305.1
+–278.5
+Amortisation and depreciation of intangible assets and poperty, plant, and equipment
+–47.6
+–67.6
+Other operating expenses
+21
+–291.2
+–335.3
+Operating result
+43.7
+42.6
+Income from profit transfer agreements
+22
+922.5
+1,174.0
+Income from investments
+23
+11.9
+33.5
+Income from long-term loans
+24
+64.9
+87.7
+Other interest and similar income
+24
+282.0
+249.6
+Income from currency translation
+25
+923.8
+725.8
+Write-ups on financial assets
+26
+142.7
+0.3
+Impairment on financial assets
+26
+–15.1
+–5.9
+Interest and similar expenses
+24
+–601.6
+–697.4
+Expenses from currency translation
+25
+–922.2
+–742.9
+Taxes on income
+27
+–45.4
+–79.2
+Profit after tax
+807.3
+788.1
+Other taxes
+–1.1
+–1.1
+Profit for the financial year
+806.2
+787.0
+Profit brought forward
+10.2
+20.2
+Withdrawals from other revenue reserves
+20.7
+12.4
+Increase of other revenue reserves
+–250.0
+–200.0
+Income from reduction of capital
+20.7
+12.4
+Increase of share premium
+–20.7
+–12.4
+Expense from cancellation of treasury shares
+–20.7
+–12.4
+Balance sheet profit
+566.4
+607.2
+Heidelberg Materials 2024
+5
+Annual financial statements
+
+Statement of changes in fixed assets / Notes for the 2024 financial year
+Acquisition and production cost
+Accumulated drepreciation and impairment
+Carrying amount
+€m
+1 Jan. 2024
+ Additions
+ Disposals
+ Transfer
+31 Dec. 2024
+1 Jan. 2024
+ Additions
+ Disposals
+ Transfer
+31 Dec. 2024
+31 Dec. 2024
+31 Dec. 2023
+Intangible assets
+Acquired concessions, industrial property rights, similar rights and assets,  
+and licences thereunder
+118.5
+6.3
+1.4
+4.7
+128.1
+90.9
+10.0
+1.4
+99.5
+28.6
+27.6
+Goodwill
+70.3
+70.3
+69.4
+0.1
+69.5
+0.6
+0.7
+Prepayments
+5.5
+12.0
+–2.1
+15.4
+0.0
+0.0
+15.4
+5.5
+194.2
+18.4
+1.4
+2.6
+213.8
+160.3
+10.2
+1.4
+0.0
+169.0
+44.6
+33.8
+Property, plant and equipment
+Land and buildings
+843.4
+5.8
+6.2
+34.9
+877.9
+519.1
+25.3
+5.6
+0.3
+539.1
+338.8
+324.3
+Plant and machinery
+888.0
+3.9
+7.4
+18.5
+903.0
+581.5
+22.9
+5.6
+598.8
+304.4
+306.5
+Other operating equipment
+138.9
+3.9
+4.3
+3.8
+142.3
+89.3
+9.2
+4.2
+–0.3
+94.0
+48.3
+49.7
+Prepayments and assets under construction
+88.9
+56.3
+–59.8
+85.4
+0.0
+0.0
+85.4
+88.9
+1,959.1
+69.8
+17.9
+–2.6
+2,008.6
+1,189.9
+57.4
+15.4
+0.0
+1,231.9
+776.9
+769.4
+Financial assets
+Investments in subsidiaries
+22,294.0
+22,294.0
+1.5
+5.6
+7.1
+22,286.9
+22,292.4
+Loans to subsidiaries
+1,407.7
+34.8
+133.8
+1,308.6
+19.0
+19.0
+1,289.6
+1,388.6
+Investments in other participations
+359.9
+11.5
+371.4
+0.4
+0.3
+0,3 1)
+0.4
+371.0
+359.5
+Other loans
+3.4
+3.4
+3.4
+3.4
+0.0
+0.0
+24,065.0
+46.3
+133.8
+0.0
+23,977.5
+24.3
+5.9
+0.3
+0.0
+29.9
+23,947.5
+24,040.5
+Fixed Assets
+26,218.3
+134.5
+153.1
+0.0
+26,199.9
+1,374.5
+73.5
+17.1
+0.0
+1,430.9
+24,769.0
+24,843.7
+1) Write-up €m 0,3
+Heidelberg Materials 2024
+6
+Annual financial statements
+
+Notes for the 2024 
+financial year
+General information
+­Heidelberg Materials AG has its registered office in 
+Heidelberg, Germany. The company is listed in the 
+register of the Mannheim Local Court (Amtsgericht) 
+under HRB number 330082. Heidelberg Materials AG 
+is a large corporation within the meaning of section 
+267 of the HGB.
+The 2024 financial statements of Heidelberg 
+Materials AG are presented in compliance with the 
+HGB, the German Stock Corporation Act (Aktien­
+gesetz, AktG), and the Articles of Association.
+In the interest of better clarity and transparency, the 
+remarks to be made in accordance with the statu­tory 
+provisions for the items of the balance sheet and in-
+come statement on their face as well as the remarks 
+to be made either in the balance sheet or income 
+statement or in the Notes are listed in the Notes. The 
+income statement classifies expenses according to 
+their nature. The financial year is the calendar year.
+For improved presentation, the figures are shown in 
+millions of euros.
+The balance sheet structure defined by the HGB has 
+been extended on the assets side under inventories 
+to include the item “5. Emission rights.” The “income 
+from currency translation,” “write-ups on financial 
+assets,” and “expenses from currency translation” 
+are shown as separate items in the income state-
+ment. The structure of the income statement is ex-
+tended to include the voluntary subtotals “operating 
+revenue” and “operating result” for improved clarity. 
+In addition, the sub-items of material costs and per-
+sonnel costs are summarised in the income state-
+ment and shown separately in the Notes. The struc-
+ture of the income statement has been expanded to 
+include the item “Income from profit transfer agree-
+ments” pursuant to Section 277(3)(2) of the HGB.
+The accounting and valuation methods used in 
+the preparation of the annual financial statements 
+remained unchanged in comparison with the previ-
+ous year.
+The financial statements are prepared on the as-
+sumption that the company will continue to operate 
+for the foreseeable future. Therefore, the going con-
+cern assumption was used for the valuation.
+Accounting and valuation methods
+Acquired intangible fixed assets are capitalised at 
+cost and amortised on a straight-line basis over the 
+expected useful life of five to ten years. Where im-
+pairment is expected to be permanent, extraordinary 
+write-downs are made.
+The option to capitalise development costs is not 
+used for internally generated intangible fixed assets. 
+Expenses incurred in this respect are recognised in 
+profit or loss in the year in which they are incurred.
+The goodwill recognised as a result of accretions 
+and mergers is mainly due to the acquisition of 
+­customer bases, which are amortised over the aver-
+age customer retention period of between 10 and 
+15 years.
+Prepayments are accounted for at their nominal 
+amount.
+Property, plant and equipment are valued at acqui-
+sition or production cost less amortisation and de-
+preciation and any extraordinary write-downs. Pro-
+duction cost includes direct cost of materials, direct 
+labour, and an appropriate portion of necessary 
+­materials and production overheads including pro-
+duction-related depreciation.
+Depreciation is applied on the basis of the following 
+useful lives:
+Useful lives
+Years
+Buildings
+10 to 30
+Plant and machinery
+25
+Other operating and office equipment
+5 to 15
+IT hardware
+5
+Since 1 January 2008, additions have been depreci-
+ated on a straight-line basis. Wherever possible, the 
+declining balance depreciation method is used for 
+assets purchased prior to 1 January 2008. The tran-
+sition to straight-line depreciation takes place in the 
+year in which the straight-line method leads to higher 
+annual depreciation for the first time. The amortisa-
+tion of exploitation rights is measured according to 
+the reduction in substance.
+Low-value assets with an acquisition cost of less than 
+€ 800.00 are written off in the year of addition.
+Prepayments are reported at their nominal amount. 
+Assets under construction are recognised at acquisi-
+tion or production cost.
+Of the financial assets, investments in subsidiaries 
+and investments in other participations are recog-
+nised at cost. Impairment that is expected to be 
+­permanent is provided for by extraordinary write-
+downs. Loans are valued at their nominal amount 
+less valuation allowances. Impairment losses are 
+­reversed up to a maximum of the acquisition cost if 
+the reasons for impairment no longer apply.
+The Statement of changes in fixed assets is shown on 
+page 6.
+Inventories are stated at the lower of cost or ­market.
+Raw materials, consumables, as well as spare parts 
+were generally measured using the periodic LIFO 
+method. This approach did not lead to any major dif-
+ferences compared with the last known market price.
+Finished goods and work in progress are valued at 
+cost on the basis of individual product costing de-
+rived from the current cost accounting. In addition to 
+the direct cost of materials, direct labour, and other 
+special direct costs, the cost includes an adequate 
+share of production and material overheads, depre-
+ciation, and general administration costs. Borrowing 
+costs are not included in the cost. Goods purchased 
+for resale are recognised at the lower of cost or 
+­market.
+Prepayments are accounted for at their nominal 
+amount.
+Adequate allowances provide for all identifiable inven-
+tory valuation risks resulting from slow-moving goods, 
+reduced usability, and lower replacement costs.
+Heidelberg Materials 2024
+7
+Annual financial statements
+
+Emission rights are shown as inventories. Emission 
+rights granted free of charge are initially measured at 
+a nominal value of zero. Emission rights acquired for 
+consideration are accounted for at cost using the 
+moving average method and are subject to write-
+down in the event of impairment. Provisions for the 
+obligation to return emission rights are recognised if 
+the actual CO₂ emissions up to the reporting date 
+are not covered by emission rights granted free of 
+charge. The amount of the provision for emission 
+rights already acquired for consideration is meas-
+ured at the carrying amount and, for emission rights 
+yet to be acquired in order to fulfil the obligation, at 
+the market value as at the reporting date.
+Receivables and other assets are accounted for at 
+their nominal value. Valuation allowances provide for 
+identifiable individual risks. A general loss allowance 
+of 1% (previous year: 6) of all receivables is recog-
+nised for general credit risks.
+Cash at bank and in hand is reported at nominal 
+amount.
+Expenses prior to the reporting date are shown as 
+prepaid expenses if they represent expenses for a 
+certain time after this date.
+Provisions for pensions are determined using actu-
+arial principles based on biometric assumptions 
+(Heubeck 2018 G mortality tables) according to the 
+projected unit credit method. Future expected salary 
+and pension increases are taken into account when 
+calculating the obligations. The standard retirement 
+age in the statutory pension insurance is used. For 
+the calculation, an average market interest rate of 
+the past ten years is used, which is forecast on the 
+reporting date and applies to an assumed remaining 
+term of 15 years. The additional amount due to 
+the new German Accounting Law Modernisation Act 
+(Bilanz­rechtsmodernisierungsgesetz, BilMoG) regula-
+tions for the measurement of provisions for pensions 
+will be distributed at a rate of at least 1 / 15 in each 
+financial year until 31 December 2024 pursuant to the 
+transitional provisions of the BilMoG.
+The impact of the discounting and the change to the 
+discount rate recognised in profit or loss is shown in 
+the financial result. When calculating the expense 
+from discounting, it is presumed that changes to dis-
+count rate, defined benefit obligation, and remaining 
+term occur at the end of the financial year.
+There is a Group contractual trust agreement (CTA) 
+to protect pension entitlements from insolvency. 
+They are measured at fair value. These plan assets 
+are offset against the underlying defined benefit 
+­obligations.
+Securities-linked pension commitments with a capital 
+maintenance or minimum interest guarantee are 
+­reported at the fair value of the assets as soon as 
+this exceeds the guaranteed minimum amount in the 
+­individual case.
+The tax provisions are reported at the necessary 
+settlement amount according to reasonable com-
+mercial assessment.
+Other provisions are reported at the necessary 
+settle­ment amount which, according to reasonable 
+commercial assessment, is necessary to cover all 
+­impending losses and contingent liabilities as at the 
+reporting date. Their valuation takes into considera-
+tion future price and cost increases. Provisions with 
+a remaining term of more than one year are discount-
+ed using the average market interest rate of the 
+last seven years, which is calculated by the German 
+­Central Bank and appropriate to the term.
+The impact of the discounting and the change to the 
+discount rate recognised in profit or loss is shown in 
+the financial result. When calculating the expense 
+from discounting, it is presumed that changes to dis-
+count rate, defined benefit obligation, and remaining 
+term occur at the end of the financial year.
+Liabilities are reported at the settlement amount.
+Deferred income contains proceeds prior to the re-
+porting date if they represent income for a certain 
+time after this date.
+Transactions in foreign currency are recognised at 
+the average spot exchange rate effective at the time 
+they occur. Financial assets, receivables, and liabili-
+ties, as well as contingent liabilities in foreign curren-
+cy, are valued for currency translation purposes at 
+the average spot exchange rate effective as at the 
+reporting date – unless included in valuation units. 
+The realisation and imparity principle is applied where 
+the remaining term exceeds one year.
+Derivative financial instruments are used to cover 
+Group-wide currency, interest rate, and price risks as 
+part of the central financial management function. In 
+the event of a direct hedging relationship between 
+derivative financial instruments and the hedged item, 
+valuation units are formed and accounted for using 
+the net hedge presentation method. If no adequate 
+hedging relationship exists, anticipated losses are 
+recognised in profit or loss.
+Deferred taxes are determined for timing differences 
+between the statutory and tax valuation of fixed as-
+sets, liabilities, and prepaid expenses. Where appli-
+cable, tax losses carried forward are also taken into 
+account. The calculation of deferred taxes is based 
+on the combined income tax rate, which was 29.76% 
+(previous year: 29.70%) for Heidelberg Materials AG 
+in the reporting year. This rate is composed of corpo-
+ration tax, solidarity surcharge, and trade tax. 
+Deferred tax liabilities are predominantly due to dif-
+ferent valuations of fixed assets. Deferred tax assets 
+arise from higher obligations for defined benefit ob-
+ligations and provisions for partial retirement and 
+anniversary benefits in the financial statements 
+­prepared under the HGB. In addition, deferred tax 
+­assets result from non-tax-deductible provisions for 
+anticipated losses and from higher valuations of 
+­inventories in the tax accounts. A total resulting tax 
+burden is reported on the balance sheet as a de-
+ferred tax liability. In the event of an overall tax 
+­reduction, the excess deferred tax assets are not 
+recognised on the balance sheet pursuant to the 
+­option under section 274(1)(2) of the HGB.
+Pursuant to section 274(3) of the HGB, Heidelberg 
+Materials AG does not recognise any deferred taxes 
+resulting from the application of the minimum tax 
+law or foreign minimum tax laws. 
+ 
+Heidelberg Materials 2024
+8
+Annual financial statements
+
+Notes to the balance sheet
+1 
+Intangible assets
+Additions to intangible assets mainly relate to soft-
+ware acquired for consideration. Depreciation and 
+amortisation amounted to € 10.4 million (previous 
+year: 10.4). 
+2 
+Property, plant and equipment
+Additions to property, plant and equipment include 
+investments in production sites and administrative 
+activities. Depreciation of property, plant and equip-
+ment amounted to € 57.4 million (previous year: 37.1). 
+As in the previous year, there were no write-ups on 
+property, plant and equipment. In the financial year, 
+an extraordinary write-down of € 19.2 million was 
+made for the closure of clinker production at the 
+Hannover cement plant.
+3 
+Investments in subsidiaries
+In the 2024 financial year, there were no investments 
+in subsidiaries. Heidelberg Materials Grundstücks-
+gesellschaft DE mbH & Co. KG, Heidelberg, was writ-
+ten down by € 5.6 million.
+4 
+Loans to subsidiaries
+During the reporting year, loans amounting to 
+€ 14.2 million were granted to Cimenterie de Lukala 
+S.A., Democratic Republic of the Congo, and € 7.3 mil-
+lion to Tanga Cement PLC, Tanzania. Disposals com-
+prised € 112.0 million for the repayment of the loan 
+to Heidelberg Materials-Suez Cement S.A.E., Egypt, 
+€ 7.1 million for the repayment of the loan to Scanto-
+go Mines SA, Togo, and € 15.3 million for the repay-
+ment of the loan to Hanson Quarry Products (Israel) 
+Ltd, Israel. 
+5 
+Investments in other participations
+The main investments in other participations are held 
+in Akçansa Çimento Sanayi ve Ticaret A.S., Turkey; 
+Südbayerisches Portland-Zementwerk Gebr. Wies-
+böck & Co. GmbH, Rohrdorf, Germany; and Kronimus 
+AG, Iffezheim, Germany. The addition relates to an 
+increase of € 11.5 million in the share premium of CI4C 
+GmbH & Co. KG, Heidenheim-Mergelstetten. 
+6 
+Inventories
+Work in progress and finished goods and goods for 
+resale predominantly comprise clinker and cement 
+stocks.
+7 
+Receivables and other assets
+Receivables from subsidiaries mainly concern current 
+financial receivables of € 1,331.6 million (previous year: 
+541.5) and trade receivables of € 182.4 million (previ-
+ous year: 104.5). Receivables from other participa-
+tions consist of financial receivables of € 9.0 million 
+(previous year: 0.1) and trade receivables of € 7.4 mil-
+lion (previous year: 3.0).
+As in the previous year, trade receivables, receivables 
+from subsidiaries, and receivables from other partic-
+ipations have a remaining term of less than one year.
+Other assets essentially include interest receiva-
+bles,  a reserve account for the non-payment of pre-­
+financed receivables, and receivables from tax re-
+fund claims. There are no other assets with a term of 
+more than one year in the current year (previous 
+year: € 0.1 million).
+8 
+Prepaid expenses
+The prepaid expenses item mainly contains accruals 
+of expenses from the drawing of credit lines, which 
+are amortised through profit or loss over the term. 
+The balance as at the year end totalled € 46.0 million 
+(previous year: 27.5), of which € 31.1 million (previous 
+year: 17.4) relates to debt discounts.
+9 
+Subscribed share capital and shares
+Subscribed share capital and shares
+€’000s
+Subscribed 
+share capital
+Number 
+of shares
+ 1 January 2024
+558,556
+186,185,619
+Cancellation of treasury shares
+–12,352
+–4,117,499
+ 31 December 2024
+546,204
+182,068,120
+As at the reporting date of 31 December 2024, the 
+subscribed share capital amounts to € 546,204,360. 
+It is divided into 182,068,120 shares; the shares are 
+no-par value bearer shares. The pro rata amount of 
+each share is € 3.00, which corresponds to a propor-
+tionate amount of the subscribed share capital.
+Authorised capital
+The Annual General Meeting held on 4 June 2020 
+­authorised the Managing Board, with the consent of 
+the Supervisory Board, to increase the company’s 
+subscribed share capital by a total amount of up to 
+€ 178,500,000 by issuing new no-par value bearer 
+shares in total in return for cash contributions and / or 
+contributions in kind on one or more occasions in 
+partial amounts until 3 June 2025 (Authorised Capital 
+2020). The shareholders must be granted subscrip-
+tion rights. However, the Managing Board is author-
+ised by the Articles of Association, in certain cases 
+described in more detail in the authorisation, to 
+­exclude the subscription rights of shareholders – i.e. 
+in the event of a capital increase for cash in order to 
+realise residual amounts, to service option or conver-
+sion rights, or to issue shares totalling up to 10% of 
+the share capital at a near-market price; or in the 
+event of a capital increase in return for contributions 
+in kind for the purpose of acquiring companies or 
+within the scope of implementing a dividend in 
+kind / dividend option. As at 31 December 2024, the 
+authorisation to issue new shares in return for cash 
+­contributions and / or contributions in kind forming 
+the basis of the Authorised Capital 2020 had not 
+been used.
+Conditional share capital
+In addition, the conditional share capital described 
+below existed as at 31 December 2024. The Annual 
+General Meeting of 11 May 2023 decided to condi-
+tionally increase the subscribed share capital by a 
+further amount of up to € 115,800,000, divided into 
+up to 38,600,000 new no-par value bearer shares 
+(Conditional Share Capital 2023). The conditional 
+capital increase serves to back the issuance of op-
+tion or conversion rights, or option or conversion 
+­obligations on Heidelberg Materials AG shares. The 
+conditional capital increase is only carried out insofar 
+as the Managing Board issues warrant or convertible 
+bonds under the authorisation until 10 May 2028 and 
+the bearers of option or conversion rights make use 
+of their rights. Warrant or convertible bonds may 
+also be issued with option or conversion obligations. 
+The shareholders generally have a subscription right 
+to newly issued warrant or convertible bonds. The 
+authorisation governs specific cases in which the 
+Managing Board may exclude the subscription right 
+of shareholders to warrant or convertible bonds. As 
+at 31 December 2024, the authorisation to issue war-
+rant or convertible bonds forming the basis of the 
+Conditional Share Capital 2023 had not been used.
+Heidelberg Materials 2024
+9
+Annual financial statements
+
+A corresponding volume limit as well as the deduc-
+tion clauses ensure that the sum of all exclusions of 
+subscription rights in the Authorised Capital 2020 
+and the Conditional Share Capital 2023 will not ex-
+ceed a limit of 10% of the share capital existing at the 
+time the authorisation to exclude the subscription 
+right comes into force.
+Authorisation to acquire treasury shares
+Furthermore, the authorisation to acquire treasury 
+shares described below existed as at 31 December 
+2024. On 11 May 2023, the Annual General Meeting 
+authorised the company to acquire treasury shares 
+up to 10 May 2028, once or several times, in whole or 
+partial amounts, up to a total of 10% of the share 
+capital at the time of the Annual General Meeting’s 
+resolution, or – if this amount is lower – of the share 
+capital at the time this authorisation is exercised, for 
+any permissible purpose within the scope of the legal 
+restrictions. The authorisation may not be used for 
+the purpose of trading in treasury shares. At no time 
+may more than 10% of the respective share capital 
+be attributable to the acquired treasury shares com-
+bined with other shares that the company has al-
+ready acquired and still possesses. The shares may 
+be acquired via the stock exchange or by way of a 
+public purchase offer or by means of a public call for 
+the submission of offers to sell or by issuing rights to 
+sell shares to the shareholders. The treasury shares 
+acquired on the basis of the authorisation will be 
+used by selling them via the stock exchange or in an-
+other suitable manner while ensuring the equal treat-
+ment of the shareholders, or for any other purposes 
+permitted by law. The Managing Board is authorised 
+to cancel the acquired treasury shares with the con-
+sent of the Supervisory Board without further resolu-
+tion of the Annual General Meeting. The cancellation 
+may also be effected without a capital decrease by 
+adjusting the proportional amount of the remaining 
+no-par value shares in the company’s subscribed 
+share capital. In both cases, the Managing Board 
+is authorised to adjust the number of no-par value 
+shares in the Articles of Association. Shareholders’ 
+subscription rights can be excluded in certain cases.
+On 27 July 2023, the company announced that it 
+would complete its 2021–2023 share buyback pro-
+gramme, which was initially based on the authorisa-
+tion of 6 May 2021 and started on 10 August 2021, 
+with a third tranche. With the consent of the Super­
+visory Board, the Managing Board extended the orig-
+inally announced term ending 30 September 2023 
+until 28 November 2023. The total volume of the pro-
+gramme of up to € 1 billion remained unchanged. As 
+part of the third tranche, with a planned volume of 
+up to € 300 million, a total of 4,117,499 shares were 
+­acquired by 30 October 2023. This corresponds to a 
+nominal amount of € 12,352,497 or 2.21% of the com-
+pany’s subscribed share capital. The average pur-
+chase price per share paid on the stock exchange 
+was € 72.28. The total price (including incidental ac-
+quisition costs) of the repurchased shares amounted 
+to around € 298 million. The share buyback was ef-
+fected in the above-mentioned period on 60 trading 
+days by an independent investment company com-
+missioned by the company exclusively via the Xetra 
+trading of the Frankfurt Stock Exchange.
+On 19 February 2024, the Managing Board resolved 
+to cancel all 4,117,499 treasury shares purchased un-
+der the third tranche of the 2021 – 2023 share buy-
+back programme in the period from 28 July to 30 Oc-
+tober 2023, which represented all shares held by the 
+company at the time, with a reduction of € 12,352,497 
+in the subscribed share capital. This corresponds to 
+2.21% of the company’s subscribed share capital 
+­before cancellation and capital reduction. The Super­
+visory Board approved the cancellation on 21 Febru-
+ary 2024. Following the cancellation of the shares 
+and the capital reduction, the subscribed share ­capital 
+of Heidelberg Materials AG amounts to € 546,204,360 
+and is divided into 182,068,120 no-par value shares, 
+each representing a notional amount of € 3.00 of the 
+subscribed share capital.
+On 21 February 2024, the company announced that 
+it would once again make use of this authorisation of 
+11 May 2023, to launch a share buyback programme 
+in the second quarter after the 2024 Annual General 
+Meeting with a total volume of up to € 1.2 billion (ex-
+cluding incidental acquisition costs) and a term until 
+the end of 2026 at the latest. The share buyback will 
+be carried out in three tranches via the stock ex-
+change. The share buyback programme is in line with 
+the company’s financial policy and may be seen in 
+the context of its successful reduction of net debt, 
+good business performance in the 2023 financial 
+year, and the participation of shareholders in the 
+company’s success. The company started the share 
+buyback on 23 May 2024 with a first tranche in a 
+planned volume of € 350 to € 400 million. A total of 
+3,637,360 shares were acquired by the completion of 
+the first tranche on 25 November 2024. This cor­
+responds to a nominal amount of € 10,912,080 or 
+2.00% of the company’s subscribed share capital. 
+The average purchase price per share paid on the 
+stock exchange was € 95.89. The total price (includ-
+ing incidental acquisition costs) of the repurchased 
+shares amounted to around € 350 million. The share 
+buyback was effected in the above-mentioned ­period 
+on 133 trading days by a bank commissioned by 
+the company exclusively via the stock exchange, in 
+­compliance with the trading conditions of Article 3 
+of EU Regulation 2016 / 1052.
+The number of treasury shares as at 31 December 
+2024 is shown in the following overview:
+Treasury shares
+Number of shares
+1 January 2024
+4,117,499
+Cancellation of treasury shares  
+of the 3rd tranche (Program 2021 – 2023)
+–4,117,499
+Share buyback 1st tranche (Program 
+2024 – 2026)
+3,637,360
+31 December 2024
+3,637,360
+As at 31 December 2024, the company holds 
+3,637,360 treasury shares, corresponding to a nom-
+inal amount of € 10,912,080 or 2.00% of the com­
+pany’s subscribed share capital.
+10 Share premium
+The share premium consists mainly of premiums re-
+ceived for capital increases. In the 2024 financial 
+year, € 12,352,497.00 was allocated to the share pre-
+mium pursuant to section 237(5) of the AktG. This 
+amount corresponds to the subscribed share capital 
+allocated to the cancelled shares.
+Share premium
+€m
+2023
+2024
+1 January
+6,159.9
+6,180.6
+Cancellation of treasury shares
+20.7
+12.4
+31 December
+6,180.6
+6,193.0
+Heidelberg Materials 2024
+10
+Annual financial statements
+
+11 Other revenue reserves
+Other revenue reserves
+€m
+2023
+2024
+1 January
+4,024.6
+3,968.6
+Withdrawals
+–20.7
+–12.4
+Increase
+250.0
+200.0
+Share buyback
+–285.2
+–337.9
+31 December
+3,968.6
+3,818.4
+As in the previous year, the other revenue reserves 
+include the reserves for the Ehrhart Schott-Kurt 
+Schmaltz Foundation in the amount of € 0.5 million as 
+well as for environmentally friendly structural pres­
+ervation in the amount of € 150.5 million.
+An amount of € 200.0 million (previous year: 250.0) 
+from the profit for the financial year was allocated 
+to other revenue reserves. Furthermore, the cancel­
+lation of the treasury shares and capital reduction 
+­reduced the item by € 12,352,497.00, which corre-
+sponds to the subscribed share capital allocated to 
+the cancelled shares.
+12 Balance sheet profit
+Pursuant to the resolution of the Annual General 
+Meeting of 16 May 2024, a dividend of € 546,204,360 
+was paid to the shareholders entitled to dividends 
+from the balance sheet profit of € 566,372,706.58 
+carried forward from the previous year as at 1 Janu-
+ary 2024, resulting in a profit carried forward of 
+€ 20,168,346.58.
+Information on amounts excluded from payout
+The measurement at fair value of the plan assets to 
+be offset against defined benefit obligations gave 
+rise to a difference between cost and fair value as an 
+amount not available for payout of € 10.1 million less 
+deferred tax liabilities thereon of € 3.0 million.
+The provisions for defined benefit obligations (before 
+deduction of corresponding plan assets) were calcu-
+lated on the basis of the corresponding average 
+market interest rate from the past ten financial years. 
+Averaging on the basis of seven financial years would 
+have resulted in a decrease in obligations of € 3.9 mil-
+lion. No payout block is applicable to this negative 
+difference.
+The amounts excluded from payout are offset by 
+freely available retained earnings of € 3,818.4 million. 
+A payout block concerning the balance sheet profit 
+of € 607.2 million therefore does not exist. 
+13 Provisions for pensions
+Provisions for pensions are calculated on the basis 
+of  biometric accounting principles pursuant to the 
+2018 G mortality tables from Professor Dr Klaus Heu-
+beck. A salary trend assumption of 2.8 % p. a. (previ-
+ous year: 2.8 % p. a.) and a pension increase rate of 
+2.2 % p. a. (previous year: 2.4 % p. a.) were applied.
+The discount rate as at 31 December 2024 was 1.90 % 
+p. a. (previous year: 1.83 % p. a.). This is the average 
+market interest rate of the past ten years, which is 
+forecast on the reporting date and applies to an 
+­assumed remaining term of 15 years.
+The additional amount totalling € 58.3 million due to 
+the new BilMoG regulations for the measurement of 
+provisions for pensions will be distributed at a rate of 
+at least 1 / 15 in each financial year until 31 December 
+2024 pursuant to the transitional provisions of the 
+BilMoG. The proportionately added amount in the 
+­reporting year is € 3.9 million. Therefore, no deficit 
+exists at the reporting date of 31 December 2024.
+The plan assets from the Group contractual trust 
+arrange­ment (CTA) to be offset against the gross 
+provisions for pensions of € 460.9 million (previous 
+year: 483.8) show a fair value of € 90.4 million (previ-
+ous year: 84.0) and costs of € 78.7 million (previous 
+year: 78.2) as at 31 December 2024.
+The pension provision for securities-linked commit-
+ments with a capital maintenance or minimum inter-
+est rate guarantee is calculated from the defined 
+benefit obligations in the amount of € 20.0 million 
+after deduction of the fair value of the plan assets of 
+€ 20.0 million.
+14 Tax provisions
+The tax provisions contain provisions for income 
+­taxes for the current year and for previous years 
+that  were created for corporation tax, solidarity 
+­surcharge, trade tax, and minimum tax law, as well 
+as interest for additional tax payments. 
+The current taxes from the minimum tax law for 
+Heidelberg Materials AG amount to € 1.0 million for 
+the 2024 financial year. In addition, a total tax ex-
+pense of € 1.6 million for foreign units of the Group 
+from foreign minimum tax laws is expected.
+ 15 Other provisions
+Other provisions include amounts for obligations to 
+employees amounting to € 129.7 million (previous 
+year: 103.2), recultivation obligations amounting to 
+€ 33.5 million (previous year: 28.1), impending losses 
+from derivative financial instruments amounting to 
+€ 5.5 million (previous year: 6.5), and other risks and 
+contingent liabilities amounting to € 36.2 million (pre-
+vious year: 39.1).
+Heidelberg Materials 2024
+11
+Annual financial statements
+
+16 Liabilities
+Maturities of liabilities 31 December 
+within 1 year
+1 to 5 years
+more than 5 years
+€m
+2023
+2024
+2023
+2024
+2023
+2024
+Bonds payable
+750.0
+1,000.0
+1,000.0
+0.0
+750.0
+1,950.0
+Bank loans
+51.0
+60.7
+44.2
+33.5
+0.0
+100.0
+Trade payables
+113.7
+92.1
+0.0
+0.0
+0.0
+0.0
+Liabilities to subsidiaries
+12,538.4
+12,758.7
+250.0
+250.0
+100.0
+100.0
+Liabilities to other participations
+0.7
+0.9
+0.0
+0.0
+0.0
+0.0
+Other liabilities
+72.0
+15.7
+0.2
+0.2
+38.6
+3.5
+13,525.8
+13,928.2
+1,294.4
+283.6
+888.6
+2,153.5
+Of the liabilities to subsidiaries, € 13.1 billion relates to 
+intra-Group financial transactions. As in the previous 
+year, there were no significant trade payables during 
+the financial year. The liabilities to other participa-
+tions primarily include trade payables.
+Since 27 September 2007, a € 10 billion EMTN pro-
+gramme has been in place for Heidelberg Materials 
+AG and Heidelberg Materials Finance Luxembourg 
+S.A., Luxembourg. The Sustainability-linked Financing 
+Framework for the issue of sustainability-linked bonds 
+was added to the existing EMTN programme in May 
+2022, and the Green Finance Framework for the issue 
+of green bonds was added in May 2024. As at 31 De-
+cember 2024, bonds totalling € 6,700 million were 
+drawn under the EMTN programme. Of this amount, 
+€ 2,950 million was attributable to Heidelberg Materials 
+AG and € 3,750 million to Heidelberg Materials Finance 
+Luxembourg S.A.
+The sustainability-linked syndicated credit line of 
+€ 2 billion, signed on 13 May 2022, had only been 
+drawn upon by Heidelberg Materials AG as a guaran-
+tee line in the amount of € 195.1 million (previous year: 
+171.4) as at 31 December 2024.
+Additional notes on other liabilities
+€m
+31 Dec. 2023
+31 Dec. 2024
+Tax liabilities
+3.2
+3.3
+Liabilities relating  
+to social security
+3.4
+3.4
+Notes to the income statement
+17 Revenue
+Revenue development by business line
+€m
+2023
+2024
+Cement
+777.0
+724.9
+Services
+267.0
+298.9
+Total
+1,044.0
+1,023.8
+Revenue development by market
+€m
+2023
+2024
+Domestic
+727.0
+684.4
+International
+317.0
+339.4
+Total
+1,044.0
+1,023.8
+The revenue of the cement business line is mainly ac-
+counted for by the sale of cement, but also includes 
+proceeds from the sale of clinker and special binders, 
+as well as proceeds from production-related fringe 
+benefits.
+The revenue of the services business line includes, 
+in particular, proceeds from intra-Group charges for 
+IT,  administrative, and other services, as well as 
+­intra-­Group licence fees and, to a lesser extent, 
+­proceeds from leasing.
+The foreign revenue mainly relates to intra-Group 
+services and, at € 161.8 million (previous year: 158.8), 
+is attributable to the countries of the European Union 
+and Norway.
+18 Other operating income
+Other operating income amounts to € 35.7 million 
+(previous year: 16.7). The non-period other operating 
+income of € 22.7 million (previous year: 7.8) includes, 
+among other things, income from disposals of prop-
+erty, plant and equipment, from service charges, and 
+from the reversal of provisions and accruals posted 
+in the previous year.
+19 Material costs
+Material costs
+€m
+2023
+2024
+Cost of raw materials  
+and consumables
+282.0
+232.0
+Cost of goods for resale
+32.6
+27.0
+Cost of logistics
+71.3
+72.8
+Total
+385.8
+331.8
+The cost of raw materials and consumables includes, 
+among other things, fuel and electricity costs as well 
+as expenses for the use of emission allowances. The 
+decrease in material costs is largely due to the de-
+crease in volumes.
+Heidelberg Materials 2024
+12
+Annual financial statements
+
+20 Employees and personnel costs
+Average number of employees
+2023
+2024
+Based on full-time 
+­equivalents
+White-collar employees
+1,376
+1,408
+Blue-collar employees
+705
+664
+Subtotal
+2,081
+2,072
+Apprentices
+94
+92
+Total
+2,175
+2,164
+Personnel costs
+€m
+2023
+2024
+Wages, salaries
+246.8
+250.3
+Social security costs
+30.0
+30.8
+Expenses for retirement benefits
+27.8
+–2.7
+Expenses for aid and support
+0.4
+0.1
+Total
+305.1
+278.5
+The change in expenditure on wages, salaries, and 
+social security costs is mainly determined by the reg-
+ular annual increases in wages and salaries and the 
+increase in performance-related benefits. 
+Expenses for retirement benefits primarily include the 
+service costs associated with the valuation of the 
+pension provisions. The “salary trend” remained un-
+changed from the previous year at 2.8% p.a. The 
+adjust­ment of the pension increase rate from 2.4% to 
+2.2% had an opposite effect on the valuation of pen-
+sion provisions. In addition to the smaller number of 
+people involved, this led to a decline in expenses for 
+retirement benefits. 
+21 Other operating expenses
+Other operating expenses amount to € 335.3 million 
+(previous year: 291.2) and primarily relate to third-­
+party repairs and maintenance of € 21.5 million (pre-
+vious year: 25.0), external IT services of € 76.1 million 
+(previous year: 61.7), audit and consulting expenses 
+of € 23.1 million (previous year: 20.7), costs for re-
+structuring measures of € 22.5 million (previous year: 
+4.4), and intra-Group service charges of € 93.7 million 
+(previous year: 87.0). Other operating expenses in-
+clude non-period expenses of € 6.2 million (previous 
+year: 5.4). These are mainly attributable to addition-
+al charges from previous years. Furthermore, the 
+­addition of 1 / 15 of the transitional balance from the 
+BilMoG adjustment in 2010 to the pension provisions, 
+totalling € 3.9 million (previous year: 3.9), is shown in 
+other operating expenses.
+22 Income from profit transfer agreements 
+In the financial year, a profit of € 1,174.0 million (pre-
+vious year: 922.5) was absorbed from the Heidelberg 
+Materials International Holding GmbH, Heidelberg.
+23 Income from investments
+Income from investments
+€m
+2023
+2024
+Income from investments
+11.9
+33.5
+thereof income  
+from subsidiaries
+4.6
+17.8
+thereof income  
+from participations
+7.3
+15.8
+Most of the income from subsidiaries relates primar-
+ily to distributions from PT Indocement Tunggal Pra­
+karsa Tbk., Indonesia, HCT Holding Malta Limited, 
+Malta, and Heidelberg Materials Grundstücksgesell­
+schaft DE mbH & Co. KG, Heidelberg. The income 
+from investments relates in particular to distribu-
+tions  from Südbayerisches Portland-Zementwerk 
+Gebr. Wies­böck & Co. GmbH, Rohrdorf, Germany, and 
+Akçansa Çimento Sanayi ve Ticaret A.S., Turkey.
+24 Interest result
+Interest result
+€m
+2023
+2024
+Income from long-term loans
+64.9
+87.7
+thereof income  
+from subsidiaries
+64.9
+87.7
+Other interest and similar 
+income
+282.0
+249.6
+thereof income  
+from subsidiaries
+107.0
+87.1
+Interest and similar expenses
+–601.6
+–697.4
+thereof income  
+from subsidiaries
+–487.4
+–581.9
+Total
+–254.7
+–360.1
+The rise in interest on loans is mainly due to the issu-
+ance of new loans. 
+Lower interest and similar income, and higher interest 
+expenses, are attributable to the increase in intra-­
+Group financing activities and the taking out of new 
+loans. 
+The interest income or interest expenses from the 
+discounting of pension and other non-current provi-
+sions included in other interest and similar income or 
+similar expenses can be broken down as follows:
+Interest result from compounding
+€m
+2023
+2024
+Expenses on interest compo-
+nent from compounding of 
+pension provisions and other 
+non-­current provisions
+–9.1
+–9.4
+Income on changes 
+in ­discounting rate
+3.0
+4.6
+Total
+–6.1
+–4.8
+The income from the change in the fair value of the 
+plan assets amounts to € 8.4 million (previous year: 
+€ 9.7) and is reported under other interest and similar 
+income.
+Heidelberg Materials 2024
+13
+Annual financial statements
+
+25 Foreign exchange gains and losses
+Foreign exchange  
+gains and losses
+€m
+2023
+2024
+Foreign exchange gains
+923.8
+725.8
+Foreign exchange losses
+–922.2
+–742.9
+Total
+1.6
+–17.1
+Foreign exchange gains and losses relate almost 
+­exclusively to intra-Group financing measures and 
+liquidity management and are therefore shown in the 
+financial result.
+26 Impairment on financial assets
+There were no significant write-ups on financial assets 
+in the financial year (previous year: € 142.7 million). 
+The write-down was mainly attributable to Heidelberg 
+Materials Grundstücksgesellschaft DE mbH & Co. KG, 
+Heidelberg, in the amount of € 5.5 million.
+27 Taxes on income
+€ 13.0 million (previous year: 1.0) of the income tax 
+expense amounting to € 79.1 million (previous year: 
+45.4) is attributable to expenditure from previous 
+years.
+Other information
+28 Contingent liabilities and other financial 
+obligations
+Contingent liabilities and other financial 
+obligations
+€m
+31 Dec. 2023
+31 Dec. 2024
+Liabilities from guarantees
+697.3
+761.0
+thereof in favour  
+of subsidiaries
+696.8
+760.5
+Guarantees for capital  
+market loans taken out
+4,066.8
+3,414.7
+thereof in favour  
+of subsidiaries
+4,066.8
+3,414.7
+Other liabilities
+204.1
+238.2
+thereof in favour  
+of subsidiaries
+187.7
+222.1
+Total
+4,968.2
+4,413.9
+Furthermore, letters of comfort were issued to sub-
+sidiaries.
+On the basis of knowledge gained within the frame-
+work of the Group-wide internal control system at 
+the time this report was prepared, it is expected that 
+the liabilities of the relevant companies underlying 
+the contingent liabilities can be fulfilled and that the 
+contingent liabilities and other financial obligations 
+will therefore not be used.
+29 Other financial commitments
+The other financial commitments mainly concern 
+­expenditure under lease and rental liabilities to third 
+parties, in which the economic ownership is not at-
+tributable to Heidelberg Materials AG and was there-
+fore not capitalised. Leased or rented property pri-
+marily includes real estate and other fixed assets, 
+thereby stabilising the liquidity planning. There is no 
+risk of fluctuation of lease and rental liabilities. As at 
+31 December 2024, there were no payment obliga-
+tions to subsidiaries.
+The following overview shows the due dates of the 
+financial commitments from lease and rental liabili-
+ties as at 31 December 2024:
+Maturities of financial commitments  
+from lease and rental liabilities
+€m
+within 
+1 year
+1 to 
+5 years
+more 
+than 
+5 years
+Lease and rental liabilities
+1.7
+2.9
+3.0
+30 Derivative financial instruments
+The operating activities and financing of an inter­
+national group are subject to risks arising from 
+changes in exchange rates, interest rates, and raw 
+material prices. The risk areas are continuously mon-
+itored by the Group Treasury department and man-
+aged within the framework of our internal Group 
+guidelines. To minimise these risks, derivative finan-
+cial instruments are used as hedging transactions. As 
+parent company of the Group, Heidelberg Materials 
+AG concludes these transactions for other Group 
+companies as well.
+Currency risks arising in connection with transactions 
+with third parties in foreign currencies (transaction 
+risks) are hedged through the use of derivative finan-
+cial instruments. Foreign exchange swaps and cur-
+rency forwards are used. Potential changes in the 
+market interest rate give rise to interest rate risks. 
+These risks are maintained within the parameters set 
+by the Group’s Chief Financial Officer and are hedged 
+by the use of financial instruments, primarily interest 
+rate swaps. In individual cases, price risks are hedged 
+through the use of commodity derivatives.
+New contracts on derivative financial instruments 
+with third parties are generally taken out in the name 
+of Heidelberg Materials AG as the Group-wide in-
+house bank. These third parties are, without excep-
+tion, banks. If required, derivatives concluded by 
+Heidelberg Materials AG with third parties are trans-
+ferred internally to subsidiaries.
+Heidelberg Materials 2024
+14
+Annual financial statements
+
+The following table provides an overview of the finan-
+cial instruments that are grouped into one valuation 
+unit as part of a micro hedge. As the conditions of 
+the underlying and hedging instrument match, future 
+fluctuations in value and changes in cash flows are, 
+as a general rule, offset until and beyond the report-
+ing date (volume matching and maturity matching). 
+In the reporting year, there was no significant excess 
+loss for which a provision for contingent losses was 
+formed. The prospective effectiveness is determined 
+using the critical terms match method, and the retro-
+spective effectiveness by the change in fair value 
+method. The valuation unit is recognised in the bal-
+ance sheet using the net hedge presentation method.
+Valuation units
+Amount of underlying transaction /  
+secured risk
+Underlying transaction /  
+Hedge accounting
+Losses 
+not recognised 
+ in €m
+Secured risk
+Maturity
+15 Mio USD
+Commodity Derivatives / Derivatives
+0.9
+Price
+2025 – 2026
+5 Mio GBP
+Commodity Derivatives / Derivatives
+0.4
+Price
+2025 – 2027
+7 Mio EUR
+Commodity Derivatives / Derivatives
+0.9
+Price
+2025 – 2026
+1,426 Mio NOK
+Assets / Liabilities / Derivatives
+0.0
+Currency
+2025
+1,000 Mio AUD
+Assets / Liabilities / Derivatives
+0.0
+Currency
+2025
+1,000 Mio USD
+Assets / Liabilities / Derivatives
+0.0
+Currency
+2025
+1,400 Mio GBP
+Assets / Liabilities / Derivatives
+4.5
+Currency
+2025
+221 Mio ILS
+Assets / Liabilities / Derivatives
+2.4
+Currency
+2026
+853 Mio USD
+Swaps / Derivatives
+22.5
+Currency
+2027
+750 Mio EUR
+Swaps / Derivatives
+46.8
+Interest
+2027
+1,000 Mio USD
+Swaps / Derivatives
+20.1
+Currency
+2030
+The remaining derivative financial instruments essen-
+tially act to hedge foreign currency loans and depos-
+its as well as interest rate risks, for which a valuation 
+unit is not explicitly recognised.
+A provision for potential losses of € 5.4 million was 
+recognised for open positions with a negative fair 
+value. Open positions with a positive fair value of 
+€ 7.9 million are not recognised as pending trans­
+actions.
+ 
+ 
+Derivative financial instruments
+€m
+Nominal value
+Fair value
+Valuation method
+Currency forwards 3rd party
+133.4
+–1.4
+Discounted cash flow method
+Foreign exchange swaps 3rd party
+2,942.8
+3.0
+Discounted cash flow method
+Currency forwards consolidated
+39.0
+0.5
+Discounted cash flow method
+Foreign exchange swaps consolidated
+47.7
+0.3
+Discounted cash flow method
+Total
+3,163.0
+2.4
+Heidelberg Materials 2024
+15
+Annual financial statements
+
+31 Related parties disclosures
+The following significant transactions were carried 
+out with related parties, for which, in accordance 
+with section 285(1) (21) (2) of the HGB, no details are 
+provided concerning transactions with companies 
+that are indirectly or directly owned by Heidelberg 
+Materials AG with a 100 % shareholding and included 
+in the consolidated financial statements of Heidelberg 
+Materials AG.
+Related parties disclosures
+Relationship
+€m
+Subsidiaries
+Joint Ventures
+Associates
+Transaction
+Disposal
+41.6
+28.1
+8.3
+Acquisition
+13.1
+0.0
+13.6
+Procured services
+24.2
+0.1
+0.1
+Provided services
+44.4
+5.9
+9.0
+Granted funding (including cashpooling)
+- Valuta
+478.5
+18.8
+0.0
+- Interest expenses current year
+61.7
+2.9
+0.0
+Received funding (including cashpooling)
+- Valuta
+134.5
+15.0
+0.0
+- Interest expenses current year
+5.0
+0.9
+0.0
+Granted guarantees
+- Nominal
+49.8
+0.5
+0.0
+- Utilisation
+43.8
+0.5
+0.0
+32 Supervisory Board and Managing Board 
+remuneration
+Supervisory Board and Managing Board 
+remuneration
+€m
+2023
+2024
+Supervisory Board remuneration
+Attendance fees
+0.2
+0.2
+Remuneration for committee work
+0.5
+0.5
+Fixed remuneration 
+1.1
+1.1
+1.9
+1.9
+Managing Board remuneration
+Non-performance-related remuneration
+6.2
+8.6
+Performance-related remuneration
+8.5
+8.2
+Remuneration with long-term incentive
+11.4
+13.7
+26.0
+30.5
+Benefits to former members of the ­Managing 
+Board and their surviving dependents
+4.3
+8.6
+Pension provision for former members 
+of the Managing Board and their surviving 
+dependents as at 31 December
+81.8
+60.0
+In addition to the remuneration for their activities on 
+the Supervisory Board, employee representatives 
+on  the Supervisory Board who are employees of 
+Heidelberg Materials AG or one of its subsidiaries re-
+ceived remuneration in accordance with their con-
+tracts of employment, the level of which correspond-
+ed to an appropriate remuneration for their relevant 
+functions and tasks within the Group. 
+33 Declaration in accordance with section 161 
+of the German Stock Corporation Act 
+concerning the German Corporate Govern-
+ance Code
+The declaration of compliance with the German Cor-
+porate Governance Code as required by section 161 
+of the AktG was submitted by the Managing Board 
+and the Supervisory Board of Heidelberg Materials 
+AG and made available on the internet (see www. 
+heidelbergmaterials.com, under Company / Corpo-
+rate governance / Declaration of compliance pursu-
+ant to section 161 of the German Stock Corporation 
+Act (Aktiengesetz)).
+34 Group relationships
+As the controlling company of the Group, Heidelberg 
+Materials AG prepares the consolidated financial 
+statements for the largest scope of consolidation 
+pursuant to section 315e(1) of the HGB, which are 
+published in the company register.
+35 Auditor’s fees
+Pursuant to section 285(1)(17) of the HGB, the fees of 
+the independent auditor calculated for the reporting 
+year are not stated here as this information is in­
+cluded in the consolidated financial statements 
+of  Heidelberg Materials AG. The auditor’s services 
+mainly comprised services for the audit of the finan-
+cial statements and, to a lesser extent, other assur-
+ance services. The other assurance services mainly 
+relate to the audit to obtain limited assurance on the 
+non-financial statement, the issuance of a comfort 
+letter in connection with the € 10 billion Euro Medium 
+Term Note (EMTN) programme, and the audit of the 
+remuneration report.
+36 Notifications of voting rights pursuant  
+to the German Securities Trading Act 
+(WpHG)
+On 21 February 2024, Heidelberg Materials AG an-
+nounced, pursuant to section 41(1) of the German 
+Securities Trading Act (Wertpapierhandelsgesetz, 
+WpHG), that the new total number of voting rights 
+with immediate effect amounts to 182.068.120. The 
+background to this notification is the Managing 
+Heidelberg Materials 2024
+16
+Annual financial statements
+
+Board’s decision of 19 February 2024 to cancel all 
+4,117,499 treasury shares purchased under the third 
+tranche of the 2021 – 2023 share buyback programme 
+from 28 July to 30 October 2023, with a reduction in 
+the subscribed share capital. The Supervisory Board 
+approved the cancellation on 21 February 2024.
+On 25 February 2025, Heidelberg Materials AG an-
+nounced, pursuant to section 41 (1) of the WpHG, that 
+the new total number of voting rights with immediate 
+effect amounts to 178,430,760. The background to 
+this notification is the Managing Board’s decision of 
+21 February 2025 to cancel all 3,637,360 treasury 
+shares purchased under the first tranche of the 
+2024 – 2026 share buyback programme from 23 May 
+to 25 November 2025, with a reduction in the sub-
+scribed share capital. The Supervisory Board ap-
+proved the cancellation on 25 February 2025.
+In accordance with the WpHG, the company was giv-
+en the following notifications of voting rights prior to 
+the preparation of the annual financial statements:
+Mr Ludwig Merckle informed us in a voluntary group 
+notification due to crossing a threshold on subsidiary 
+level pursuant to sections 33 and 34 of the WpHG 
+that his voting rights in Heidelberg Materials AG 
+amounted to 28.88% on 29 February 2024. 25.64% 
+of the voting rights are attributed to Mr Merckle pur-
+suant to section 34 of the WpHG and 3.24% pursuant 
+to section 38(1), no. 1 of the WpHG (Instruments). In 
+each case, these voting rights are attributable to 
+Mr Merckle via four chains of companies under his 
+control, in each case beginning with PH Vermögens-
+verwaltung GmbH and ending with Spohn Cement 
+Beteiligungen GmbH. Spohn Cement Beteiligungen 
+GmbH directly holds 25.64% of the voting rights; in-
+cluding the instruments held directly by it within the 
+meaning of section 38(1), no. 1 of the WpHG, its share 
+of the voting rights is 28.88%.
+Artisan Partners Asset Management Inc., Wilming-
+ton, Delaware, USA, informed us pursuant to sec-
+tions 33 and 34 of the WpHG that its voting right in 
+HeidelbergCement AG (today Heidelberg Materials 
+AG) on 28 September 2021 exceeded the threshold 
+of 5% and amounted to 5.02% on that date. These 
+voting rights are attributed to Artisan Partners Asset 
+Management Inc. pursuant to section 34 of the 
+WpHG via the following companies under its control: 
+Artisan Partners Holding LP, Artisan Investments GP 
+LLC, and Artisan Partners Limited Partnership. Arti-
+san Partners Limited Partnership is attributed 5.02% 
+of the voting rights.
+BlackRock, Inc., Wilmington, Delaware, USA, in-
+formed us pursuant to sections 33 and 34 of the 
+WpHG that its voting right in Heidelberg Materials AG 
+exceeded the threshold of 5% on 10 June 2024 and 
+amounted to 5.02% on that date. 4.90% of the voting 
+rights were attributed to BlackRock, Inc. pursuant to 
+section 34 of the WpHG. 0.001% of the voting rights 
+were attributed to the company pursuant to section 
+38(1), no. 1 of the WpHG. 0.11% of the voting rights 
+pursuant to section 38(1), no. 2 of the WpHG.
+In a further notification, BlackRock, Inc. informed us 
+pursuant to sections 33 and 34 of the WpHG that its 
+voting right in Heidelberg Materials AG fell below the 
+threshold of 5% on 11 June 2024 and amounted to 
+4.81% on that date. 4.70% of the voting rights were 
+attributed to BlackRock, Inc. pursuant to section 34 
+of the WpHG. 0.11% of the voting rights were attrib-
+uted to the company pursuant to section 38(1), no. 2 
+of the WpHG.
+In the 2024 reporting year, BlackRock, Inc. sent us 
+19 further notifications, in each of which it informed 
+us that its voting right in Heidelberg Materials AG 
+­either exceeded or fell below the threshold of 5% 
+on 12, 13, 14, 17, 18, 21, 24, 25, 26 and 28 June 2024, 
+on 4, 5, 9, 10 and 11 July 2024, on 24 and 25 Septem-
+ber 2024 and on 3 October 2024. One notification 
+was made due to a restructuring of the group as of 
+1 October 2024. In its last notification in the report-
+ing year, BlackRock, Inc. informed us pursuant to 
+sections 33 and 34 of the WpHG that its voting right 
+in Heidelberg Materials AG fell below the threshold of 
+5% on 3 October 2024 and amounted to 4.70% on 
+that date. 4.53% of the voting rights were attributed 
+to BlackRock, Inc. pursuant to section 34 of the 
+WpHG. 0.12% of the voting rights were attributed to 
+the company pursuant to section 38(1), no. 1 of the 
+WpHG, and 0.04% of the voting rights pursuant to 
+section 38(1), no. 2 of the WpHG.
+In the current 2025 financial year, BlackRock, Inc. 
+has so far sent us 19 notifications, each notifying 
+us that its voting right in Heidelberg Materials AG 
+­either exceeded or fell below the threshold of 5% on 
+31 December 2024 and on 6, 7, 8, 21, 22, 24, 28 and 
+29 January 2025 and on 17, 18, 19, 20, 21, 24, 25 and 
+27 February 2025 and on 4 and 5 March 2025. In its 
+most recent notification, BlackRock, Inc. informed us 
+pursuant to sections 33 and 34 of the WpHG that its 
+voting right in Heidelberg Materials AG exceeded the 
+threshold of 5% on 5 March 2025 and amounted to 
+5.51% on that date. 5.35% of the voting rights were 
+attributed to BlackRock, Inc. pursuant to section 34 
+of the WpHG. 0.001% of the voting rights were attrib-
+uted to the company pursuant to section 38(1), no. 1 
+of the WpHG, and 0.16% of the voting rights pursuant 
+to section 38(1), no. 2 of the WpHG.
+The Capital Group Companies, Inc., Los Angeles, 
+USA, informed us pursuant to sections 33 and 34 
+of  the WpHG that its voting rights in Heidelberg 
+Materials AG exceeded the threshold of 5% on 
+14 February 2025 and amounted to 5.06% on this 
+date. These voting rights are attributed to The Capi-
+tal Group Companies, Inc. pursuant to section 34 of 
+the WpHG via its subsidiary Capital Research and 
+Management Company. An individual fund, Euro­
+Pacific Growth Fund, Wilmington, Delaware, USA, 
+held 3% or more of the voting rights in Heidelberg 
+Materials AG on 14 February 2025. EuroPacific 
+Growth Fund had already informed us pursuant to 
+section 33 of the WpHG that its voting right in 
+Heidelberg Materials AG exceeded the threshold of 
+3% on 28 January 2025 and amounted to 3.03% on 
+this date.
+Black Creek Investment Management, Inc., Toronto, 
+Canada, informed us pursuant to sections 33 and 34 
+of the WpHG that its voting rights in ­Heidelberg­Cement 
+AG (today Heidelberg Materials AG) fell below the 
+threshold of 3% on 6 March 2023 and amounted to 
+2.98% on this date.
+Société Générale S.A., Paris, France, informed us pur-
+suant to section 25a(1) of the WpHG that its voting 
+right in our company fell below the threshold of 5% of 
+the voting rights on 13 August 2015 and amounted to 
+3.84% on that date. Of these voting rights, 3.77% was 
+accounted for by voting rights through (financial /  
+other) instruments according to section 25a of the 
+WpHG, of which 2.77% were held indirectly, and 
+0.07% was accounted for by voting rights through 
+(financial / other) instruments according to section 
+25 of the WpHG, of which 0.04% were held indirectly. 
+Voting rights pursuant to sections 21 and 22 of the 
+WpHG accounted for 0%.
+The respective shareholder structure can be found 
+on our website www.heidelbergmaterials.com under 
+Investor Relations / Shares and ADRs / Shareholder 
+Structure.
+Heidelberg Materials 2024
+17
+Annual financial statements
+
+37 Boards
+Managing Board
+At present, there are nine members on the Managing Board of Heidelberg Materials AG: in addition to the 
+Chairman of the Managing Board and the Chief Financial Officer, there are four members of the Managing 
+Board with regional responsibilities and three further members with responsibility for sustainability, digitalisa-
+tion and technology. 
+Dr Dominik von Achten
+Chairman of the Managing Board
+Member of the Managing Board since 2007; Chairman of the Managing Board since 2020;  
+appointed until January 2028
+Area of responsibility: 
+Communication & Investor Relations, Strategy & Development / M&A, ­Human ­Resources incl. Health & Safety, 
+Internal Audit, Legal, Compliance
+External Mandates: 
+ 
+– Kunststoffwerk Philippine GmbH & Co. KG 2), Lahnstein, and Saarpor Klaus ­Eckhardt GmbH Neun­kirchen 
+Kunststoffe KG 2), Neunkirchen (jointly meeting advisory board of Philippine Saarpor group)
+ 
+– Verlag Lensing-Wolff GmbH & Co. KG („Lensing Media“) 2), Dortmund 
+René Aldach
+Chief Financial Officer
+Member of the Managing Board since 2021; appointed until August 2029
+Area of responsibility: 
+Corporate Finance, Data Governance, Procurement, Reporting­ Controlling & Consolidation & Data Hub, 
+Shared Service ­Center, Tax, Treasury, Insurance & Risk, Australia
+External mandates: 
+ 
+– Akçansa Çimento Sanayi ve Ticaret A. S.2), 3), Turkey (since 15 April 2024)
+ 
+– Cement Australia Holdings Pty Ltd 2), Australia
+ 
+– Cement Australia Pty Limited 2), Australia
+ 
+– Cement Australia Partnership 2), Australia
+Group mandates: 
+ 
+– Heidelberg Materials Asia Pte. Ltd.2), Singapore
+ 
+– Heidelberg Materials Canada Holding Limited 2), UK
+ 
+– Heidelberg Materials Holding S. à. r. l.2), Luxembourg
+ 
+– Heidelberg Materials Italia Cementi S. p. A.2), Italy (Deputy Chairman) (until 18 April 2024)
+ 
+– Heidelberg Materials UK Holding Limited 2), UK
+ 
+– Heidelberg Materials UK Holding II Limited 2), UK
+ 
+– PT Indocement Tunggal Prakarsa Tbk.2), 3), Indonesia
+ 
+– S. A. Heidelberg Materials Benelux N. V.2), Belgium
+Heidelberg Materials 2024
+18
+Annual financial statements
+
+Dr Katharina Beumelburg
+Chief Sustainability & New Technologies Officer since 1 October 2024
+Member of the Managing Board since 1 October 2024; appointed until September 2027
+Area of responsibility:
+Environmental, Social, Governance (ESG), Innovation Hub, Research & Development, Technologies  
+& Partnerships, supplementary cementitious materials (coordination), alternative fuels (coordination) 
+Roberto Callieri
+Member of the Managing Board since 1 January 2024;  
+appointed until December 2026
+Area of responsibility:
+Asia within the Asia-Pacific Group area
+External mandates: 
+ 
+– Alliance Construction Materials Limited 2), Hong Kong S. A. R. (since 1 February 2024)
+ 
+– China Century Cement Ltd.2), Bermuda (since 8 February 2024)
+ 
+– Easy Point Industrial Ltd.2), Hong Kong S. A. R. (since 8 February 2024)
+ 
+– Guangzhou Heidelberg Yuexiu Enterprise Management Consulting Company Ltd.2), China  
+(since 1 February 2024)
+ 
+– Jidong Heidelberg (Fufeng) Cement Company Limited 2), China (since 29 February 2024)
+ 
+– Jidong Heidelberg (Jingyang) Cement Company Limited 2), China (since 28 February 2024)
+ 
+– Squareal Cement Ltd 2), Hong Kong S. A. R. (since 8 February 2024)
+Group mandates:
+ 
+– Asia Cement Public Company Limited2), Thailand
+ 
+– Gulbarga Cement Limited 2), India (since 14 March 2024)
+ 
+– HeidelbergCement Holding HK Limited 2), Hong Kong S. A. R. (since 1  February 2024)
+ 
+– HeidelbergCement India Limited 2), 3), India (since 14 March 2024)
+ 
+– Heidelberg Materials Asia Pte. Ltd.2), Singapore (Chairman) (since 1 February 2024)
+ 
+– Heidelberg Materials Bangladesh Plc.2), 3), Bangladesh (Chairman) (since 6 March 2024)
+ 
+– Heidelberg Materials Butra Sdn. Bhd.2), Brunei Darussalam (Chairman) (since 1 February 2024)
+ 
+– Jalaprathan Cement Public Company Limited2), Thailand
+ 
+– PT Indocement Tunggal Prakarsa Tbk.2), 3), Indonesia (Chairman) (since 14 May 2024)
+ 
+– Zuari Cement Limited 2), India (Chairman) (since 1 February 2024)
+Axel Conrads
+Chief Technical Officer since 1 February 2024
+Member of the Managing Board since 1 February 2024; appointed until January 2027
+Area of responsibility:
+Global technical Competence Centers: Cement (CCC), Aggregates & ­Asphalt (CCA) and Readymix (CCR)
+Group mandates:
+ 
+– Italmed Cement Company Ltd.2), Cyprus
+Heidelberg Materials 2024
+19
+Annual financial statements
+
+Kevin Gluskie
+Member of the Managing Board from 2016 until January 2024
+Area of responsibility: 
+Asia-Pazific, Competence Center Readymix
+External mandates: 
+ 
+– Alliance Construction Materials Limited 2), Hong Kong S. A. R. (until 1 February 2024)
+ 
+– China Century Cement Ltd.2), Bermuda (until 8 February 2024)
+ 
+– Easy Point Industrial Ltd.2), Hong Kong S. A. R. (until 8 February 2024)
+ 
+– Guangzhou Heidelberg Yuexiu Enterprise Management Consulting Company Ltd.2), China  
+(until 1 February 2024)
+ 
+– Jidong Heidelberg (Fufeng) Cement Company Limited 2), China (until 29 February 2024)
+ 
+– Jidong Heidelberg (Jingyang) Cement Company Limited 2), China (until 28 February 2024)
+ 
+– Squareal Cement Ltd 2), Hong Kong S. A. R. (until 8 February 2024)
+Group mandates: 
+ 
+– Asia Cement Public Company Limited 2), Thailand (until 23 February 2024)
+ 
+– Gulbarga Cement Limited 2), India (until 13 March 2024)
+ 
+– HeidelbergCement Holding HK Limited 2), Hong Kong S. A. R. (until 31 January 2024)
+ 
+– HeidelbergCement India Limited 2), 3), India (until 13 March 2024)
+ 
+– HeidelbergCement Myanmar Company Limited 2), Myan­mar
+ 
+– Heidelberg Materials Asia Pte. Ltd.2), Singapore (Chairman) (until 31 January 2024)
+ 
+– Heidelberg Materials Bangladesh Limited 2), 3), Bangladesh (Chairman) (until 31 January 2024)
+ 
+– Heidelberg Materials Butra Sdn. Bhd.2), Brunei Darussalam (Chairman) (until 31 January 2024)
+ 
+– PT Indocement Tunggal Prakarsa Tbk.2), 3), Indonesia (Chairman until 14 May 2024)
+ 
+– Zuari Cement Limited 2), India (Chairman) (until 13 March 2024)
+Hakan Gurdal
+Member of the Managing Board since 2016; appointed until January 2029
+Area of responsibility: 
+Africa-Mediterranean-Western Asia, Heidelberg Materials Trading
+External mandates:  
+ 
+– Afrika-Verein der deutschen Wirtschaft e.V. 2), Hamburg
+ 
+– Akçansa Çimento Sanayi ve Ticaret A. S.2), 3), Turkey (Deputy Chairman)
+ 
+– Asment de Temara  S. A.2), Morocco
+ 
+– CEMZA (PTY) LTD 2), South Africa
+ 
+– Continental Blue Investment SA 2), Switzerland
+ 
+– Vassiliko Cement Works Ltd.2), Cyprus
+Group mandates: 
+ 
+– Austral Cimentos Sofala SA 2), Mozambique
+ 
+– Calcim SA 2), Benin (Chairman)
+ 
+– Cimbenin SA 2), Benin (Chairman)
+ 
+– CimBurkina S. A.2), Burkina Faso
+ 
+– Cimenterie de Lukala S. A.2), Democratic Republic of the Congo
+ 
+– Ciments du Maroc S. A.2), 3), Morocco
+ 
+– Ciments du Togo SA 2), Togo
+ 
+– Ghacem Ltd.2), Ghana (Chairman)
+ 
+– Granuburkina SA 2), Burkina Faso (Chairman)
+ 
+– Hanson Israel Limited 2), Israel
+ 
+– Heidelberg Materials – Helwan ­Cement S. A. E.2), Egypt (Chairman)
+ 
+– Heidelberg Materials – Suez Cement S. A. E.2), Egypt
+ 
+– Heidelberg Materials – Tourah Cement S. A. E.2), Egypt
+ 
+– HM Trading Global GmbH 2), Heidelberg
+ 
+– JSC „Cesla“ 2), Russia
+ 
+– La Societe GRANUTOGO SA 2), Togo (Chairman)
+ 
+– Mamba Cement Company 2), Tanzania (since September 2024)
+ 
+– Scancem Holding AS 2), Norway (Chairman)
+ 
+– Scancem International DA 2), Norway (Chairman)
+ 
+– Scantogo Mines SA 2), Togo (Chairman)
+ 
+– Tanga Cement PLC2), Tanzania (Chairman)
+ 
+– Tanzania Portland Cement Public Limited Company 2), 3), Tanzania (Chairman)
+Heidelberg Materials 2024
+20
+Annual financial statements
+
+Dr Nicola Kimm
+Chief Sustainability Officer
+Member of the Managing Board from 2021 until ­August 2024
+Area of responsibility: 
+Environmental Social Governance (ESG), Research & Develop­ment
+Dennis Lentz
+Chief Digital Officer
+Member of the Managing Board since 2021; appointed until ­August 2029
+Area of responsibility: 
+Digitalisation, Information Technology 
+External mandates: 
+ 
+– Giatec Scientific Inc.2), Canada 
+ 
+– Project Potter Parent GP, LLC 2), Cayman Islands 
+Group mandates: 
+ 
+– Volt RMC Solutions Canada Ltd.2), Canada
+Jon Morrish
+Member of the Managing Board since 2016; appointed until January 2029
+Area of responsibility: 
+Europa, ­International Associations (e.g. GCCA, CEMBUREAU)
+External mandates:
+ 
+– Duna-Dráva Cement Kft.2), Hungary (since 1  January 2024)
+ 
+– Heidelberg Materials Cement BiH d. d. Kakanj2), Bosnia-Herzegovina (since 23 May 2024)
+Group mandates:
+ 
+– Castle Cement Limited 2), UK
+ 
+– Górazdze Cement S. A.2), Poland (Chairman) (since 1 January 2024)
+ 
+– Hanson Quarry Products Europe Limited 2), UK
+ 
+– Heidelberg Materials Central Europe B. V.2), Netherlands (Chairman) (since 1 January 2024)
+ 
+– Heidelberg Materials CZ, a. s.2), Czechia (since 1 January 2024)
+ 
+– Heidelberg Materials Devnya JSC 2), Bulgaria (Chairman)
+ 
+– Heidelberg Materials Hellas S. A.2), Greece (Chairman)
+ 
+– Heidelberg­ Materials Holding S. à. r. l.2), Luxembourg (until 13 December 2024)
+ 
+– Heidelberg Materials Iberia Holding, S. L.2), Spain
+ 
+– Heidelberg Materials Italia Cementi S. p. A.2), Italy (Deputy Chairman)
+ 
+– Heidelberg Materials Nederland N. V.2), Netherlands
+ 
+– Heidelberg Materials Northern Europe AB 2), Sweden (Chairman) (from 4 January until 14 November 2024)
+ 
+– Heidelberg Materials Romania SA 2), Romania (since 1 January 2024)
+ 
+– Heidelberg Materials Vulkan JSC 2), Bulgaria (Chairman)
+ 
+– S. A. Heidelberg Materials Benelux N. V.2), Belgium
+Heidelberg Materials 2024
+21
+Annual financial statements
+
+Chris Ward
+Member of the Managing Board since 2019; appointed until August 2028
+Area of responsibility: 
+North America
+External mandates: 
+ 
+– Project Potter Parent GP, LLC 2), Cayman Islands
+Group mandates: 
+ 
+– Carver Sand & Gravel 2), USA (Chairman) (since 11 September 2024)
+ 
+– Commercial Aggregates Transportation and Sales LLC 2), USA (Chairman)
+ 
+– Constar LLC 2), USA
+ 
+– County Line Quarry, LLC 2), USA (Chairman) (since 11 September 2024)
+ 
+– Erie Associates, LP 2), USA (Chairman) (since 11 September 2024)
+ 
+– Essroc Holdings LLC 2), USA
+ 
+– Hanson Aggregates WRP, Inc.2), USA (Chairman) (dissolved on 31 March 2024)
+ 
+– Hanson Building Materials America LLC 2), USA
+ 
+– Hanson Micronesia Cement, Inc.2), USA (Chairman)
+ 
+– Hanson Permanente Cement of Guam, Inc.2), USA (Chairman)
+ 
+– HBMA Holdings LLC 2), USA
+ 
+– Heidelberg Materials Canada Holding Limited 2), UK
+ 
+– Heidelberg Materials Canada Limited 2), Canada (Chairman)
+ 
+– Heidelberg Materials Midwest Agg, Inc.2), USA (Chairman)
+ 
+– Heidelberg Materials Northeast LLC 2), USA (Chairman)
+ 
+– Heidelberg Materials Northeast-NY LLC 2), USA (Chairman)
+ 
+– Heidelberg Materials Southeast Agg LLC 2), USA (Chairman)
+ 
+– Heidelberg Materials Southwest Agg LLC 2), USA (Chairman)
+ 
+– Heidelberg Materials TDPS LLC 2), USA (Chairman) (since 11 July 2024)
+ 
+– Heidelberg Materials UK Holding II Limited 2), UK
+ 
+– Heidelberg Materials US, Inc.2), USA
+ 
+– Heidelberg Materials US Cement LLC 2), USA
+ 
+– Highway Materials, LLC 2), USA (Chairman) (since 11 September 2024)
+ 
+– HM Northwest Cement Company 2), USA
+ 
+– HM Northwest Marine, LLC 2), USA (Chairman)
+ 
+– HM Pacific Northwest, Inc.2), USA (Chairman)
+ 
+– HM SEFA Group, LLC2), USA (Chairman)
+ 
+– HM SEFA Transportation LLC2), USA (Chairman)
+ 
+– HM Southeast Cement LLC 2), USA (Chairman)
+ 
+– HM South Texas Concrete LLC 2), USA (Chairman)
+ 
+– HM South Texas Stabilized Sand LLC 2), USA (Chairman)
+ 
+– HM US Receivables LLC 2), USA
+ 
+– HM US Services LLC 2), USA
+ 
+– HNA Investments 2), USA
+ 
+– KH 1 Inc.2), USA
+ 
+– Lehigh Southwest Cement Company 2), USA (Chairman)
+ 
+– LHI Duomo Holdings LLC 2), USA
+ 
+– Seacoast Products, Inc.2), USA
+ 
+– St. Thomas Development, LLC 2), USA (Chairman) (since 11 September 2024)
+ 
+– T.D.P.S. Materials, LP 2), USA (Chairman) (since 11 September 2024)
+1) Membership in legally required supervisory boards of German companies
+2) Membership in comparable German and foreign supervisory committees of commercial enterprises
+3) Publicly listed company
+Heidelberg Materials 2024
+22
+Annual financial statements
+
+Supervisory Board
+According to the Articles of Association, the Supervisory Board of Heidelberg Materials AG consists of twelve 
+members. Half of the members shall be elected by the Annual General Meeting according to the provisions of 
+the German Stock Corporation Act and half by the employees according to the provisions of the German 
+Co-determination Act. 
+Dr Bernd Scheifele 
+Chairman of the Supervisory Board
+Heidelberg; former Chairman of the Managing Board of HeidelbergCement AG (today Heidelberg Materials 
+AG); Member of various supervisory bodies 
+Member since 12 May 2022; member of the Personnel and Mediation Committees and until 16 May 2024 
+member of the Audit Committee
+External mandates: 
+ 
+– PHOENIX Pharma SE 1) (Chairman) and PHOENIX Pharmahandel GmbH & Co KG 2) (Chairman), Mannheim 
+(jointly meeting supervisory board and advisory board, respectively)
+ 
+– Verlagsgruppe Georg von Holtzbrinck GmbH 1), Stuttgart (Chairman) (until 24 April 2024)
+ 
+– Springer Nature AG & Co. KGaA 1), Berlin (until 23 April 2024)
+Heinz Schmitt 
+Deputy Chairman until 16 May 2024
+Waldkatzenbach; Controller; member of the Works Council at the headquarters of Heidelberg Materials AG
+Member from 6 May 2004 until 16 May 2024, Deputy Chairman from 7 May 2009 until 16 May 2024;  
+­member of the Personnel, Audit, and Mediation Committees
+Werner Schraeder
+Deputy Chairman since 16 May 2024
+Ennigerloh; Building Fitter; Chairman of the General Works Council of Heidelberg Materials AG, Chairman 
+of the Works Council at the Ennigerloh plant of Heidelberg Materials AG and Chairman of the Group Works 
+Council 
+Member since 7 May 2009; member of the Personnel, Audit, and since 16 May 2024 of the Mediation 
+­Committees; until 16 May 2024 member of the Sustainability and Innovation Committee 
+External mandates: 
+ 
+– Berufsgenossenschaft Rohstoffe und chemische Industrie 2), Heidelberg
+ 
+– Volksbank im Münsterland eG 2), Münster
+Barbara Breuninger
+Mühltal; Specialist Strategic Management Personnel Recruiting / Development and Coaching, IG ­Bauen- 
+Agrar-Umwelt, as well as independent Management Trainer and Consultant 
+Member since 5 April 2018; member of the Audit Committee and since 16 May 2024 of the Sustainability 
+and Innovation Committee
+Gunnar Groebler
+Hamburg; Chief Executive Officer of Salzgitter AG, Salzgitter
+Member since 16 May 2024; since 16 May 2024 member of the Sustainability and Innovation Committee
+External mandates:
+ 
+– Aurubis AG 1) 3), Hamburg 
+ 
+– Semco Maritime A / S 2), Denmark (until 31 May 2024)
+Mandates at subsidiaries of Salzgitter AG:
+ 
+– Ilsenburger Grobblech GmbH 1), Ilsenburg (Chairman)
+ 
+– KHS GmbH 1), Dortmund
+ 
+– Mannesmann Precision Tubes GmbH 1), Mülheim an der Ruhr (Chairman since 1 July 2024)
+ 
+– Peiner Träger GmbH 1), Peine (Chairman)
+ 
+– Salzgitter Flachstahl GmbH 1), Salzgitter (Chairman)
+ 
+– Salzgitter Mannesmann Grobblech GmbH 1), Mülheim an der Ruhr (Chairman)
+ 
+– Salzgitter Mannesmann Handel GmbH 1), Mülheim an der Ruhr (Chairman)
+Birgit Jochens 
+Mainz; Industrial Clerk and State Certified Business Economist; Mainz plant, Heidelberg Materials AG
+Member from 9 May 2019 until 16 May 2024; member of the Personnel Committee
+Heidelberg Materials 2024
+23
+Annual financial statements
+
+Katja Karcher 
+Bad Wimpfen; Head of Digital Law, Procurement & Legal Operations, Heidelberg Materials AG
+Member since 16 May 2024; since 16 May 2024 member of the Personnel, and of the Sustainability 
+and ­Innovation Committees
+Ludwig Merckle 
+Ulm; Managing Director of Merckle Service GmbH 4), Ulm
+Member since 2 June 1999; Chairman of the Personnel and Nomination Committees, Deputy Chairman 
+of the Audit Committee and member of the Sustainability and Innovation Committee
+External mandates: 
+ 
+– Kässbohrer Geländefahrzeug AG 1), 4), Laupheim (Chairman)
+ 
+– PHOENIX Pharma SE 1), 4) (Deputy Chairman) and PHOENIX Pharmahandel GmbH & Co KG 2), 4), Mannheim 
+(jointly meeting supervisory board and advisory board, respectively)
+Luka Mucic
+London; Chief Financial Officer of Vodafone Group Plc, London
+Member since 9 May 2019; Chairman of the Audit Committee and member of the Personnel Committee
+External mandates: 
+ 
+– Vodafone Shared Operations Ltd. 2), UK (Chairman) (since October 2024)
+ 
+– Oak Holdings 1 GmbH 2), Düsseldorf (Chairman) (since March 2024)
+Markus Oleynik
+Birkenfeld; shift foreman; Chairman of the Works Council at the Lengfurt cement plant of Heidelberg 
+Materials AG and Deputy Chairman of the General Works Council of Heidelberg Materials AG
+Member since 16 May 2024; since 16 May 2024 member of the Personnel Committee and since 18 November 
+2024 member of the Sustainability and Innovation Committee
+External mandates:
+ 
+– Tariff Commission of IG Bauen-Agrar-Umwelt for the Stone and Earth Industry Bavaria
+Dr Ines Ploss
+Mannheim; until 30 September 2024 Director Group Procurement at Heidelberg Materials AG,  
+since 1 October 2024 Managing Director Aggregates in Germany and since 1 November 2024 Managing 
+Director of Heidelberg Materials Mineralik DE GmbH
+Member from 9 May 2019 until 31 October 2024; member of the Personnel, Sustainability and Innovation,
+and Mediation Committees
+Peter Riedel
+Ahlen; Department Head – building materials industry at the Federal Executive Committee of IG Bauen- 
+Agrar-Umwelt 
+Member since 9 May 2019; member of the Audit Committee and since 16 May 2024 of the Personnel 
+­Committee, until 16 May 2024 member of the Sustainability and Innovation Committee
+External Mandates:
+ 
+– Zusatzversorgungskasse der Steine- und Erden-Industrie und des Betonstein­handwerks VVaG –  
+Die Bayerische Pensionskasse (ZVK) 2), Munich
+Margret Suckale
+Tegernsee; member of supervisory boards 
+Member since 25 August 2017; Chairwoman of the Mediation Committee since 16 May 2024 and member 
+of the Personnel, Audit, and Nomination Committees
+External mandates: 
+ 
+– Deutsche Telekom AG 1), 3), Bonn
+ 
+– DWS Group GmbH & Co. KGaA 1), 3), Frankfurt
+ 
+– Greiner AG 2), Austria
+ 
+– Infineon Technologies AG 1), 3), Neubiberg
+Dr Sopna Sury
+Willich; Chief Operating Officer Hydrogen and member of the Executive Board of RWE Generation SE
+Member since 12 May 2022; since 16 May 2024 Chairwoman of the Sustainability and Innovation Committee 
+and since 16 May 2024 member of the Personnel and Nomination Committees
+External mandates: 
+ 
+– Socíeté Electrique de L’Our S.A. 2), Luxembourg (until 27 March 2024)
+Heidelberg Materials 2024
+24
+Annual financial statements
+
+Anna Toborek-Kacar 
+Heidelberg; Director Group Corporate Finance, Heidelberg Materials AG
+Member since 1 November 2024; since 18 November 2024 member of the Personnel and Mediation 
+­Committees 
+Professor Dr Marion Weissenberger-Eibl
+Karlsruhe; Head of the Fraunhofer Institute for Systems and Innovation Research ISI in Karlsruhe and holder 
+of the Chair of Innovation and Technology Management (iTM) at the Karlsruhe Institute of Technology (KIT)
+Member from 3 July 2012 until 16 May 2024; Chairwoman of the Sustainability and Innovation Committee 
+and the Mediation Committee as well as member of the Nomination Committee
+External mandates: 
+ 
+– ExxonMobil Central Europe Holding GmbH 2), Hamburg 
+ 
+– MTU Aero Engines AG 1), 3), Munich
+ 
+– Semperit Aktiengesellschaft Holding 2), 3), Austria
+1) Membership in other legally required supervisory boards of German companies
+2) Membership in comparable German and foreign supervisory committees of commercial enterprises
+3) Publicly listed company
+4) Non-listed companies controlled by Ludwig Merckle
+Heidelberg Materials 2024
+25
+Annual financial statements
+
+Supervisory Board committees 
+Personnel Committee 
+ 
+– Ludwig Merckle (Chairman)
+ 
+– Birgit Jochens (until 16 May 2024)
+ 
+– Katja Karcher (since 16 May 2024)
+ 
+– Luka Mucic
+ 
+– Markus Oleynik (since 16 May 2024)
+ 
+– Dr Ines Ploss (until 31 October 2024)
+ 
+– Peter Riedel (since 16 May 2024)
+ 
+– Dr Bernd Scheifele
+ 
+– Heinz Schmitt (until 16 May 2024)
+ 
+– Werner Schraeder
+ 
+– Margret Suckale
+ 
+– Dr Sopna Sury (since 16 May 2024)
+ 
+– Anna Toborek-Kacar (since 18 November 2024)
+Audit Committee 
+ 
+– Luka Mucic (Chairman) 
+ 
+– Ludwig Merckle (Deputy Chairman) 
+ 
+– Barbara Breuninger 
+ 
+– Peter Riedel
+ 
+– Dr Bernd Scheifele (until 16 May 2024)
+ 
+– Heinz Schmitt (until 16 May 2024)
+ 
+– Werner Schraeder 
+ 
+– Margret Suckale
+Sustainability and Innovation Committee 
+ 
+– Professor Dr Marion Weissenberger-Eibl (Chairwoman) (until 16 May 2024)
+ 
+– Dr Sopna Sury (Chairwoman since 16 May 2024)
+ 
+– Barbara Breuninger (since 16 May 2024)
+ 
+– Gunnar Groebler (since 16 May 2024)
+ 
+– Katja Karcher (since 16 May 2024)
+ 
+– Ludwig Merckle
+ 
+– Markus Oleynik (since 16 May 2024)
+ 
+– Dr Ines Ploss (until 31 October 2024)
+ 
+– Peter Riedel (until 16 May 2024)
+ 
+– Werner Schraeder (until 16 May 2024)
+Nomination Committee
+ 
+– Ludwig Merckle (Chairman) 
+ 
+– Margret Suckale
+ 
+– Dr Sopna Sury (since 16 May 2024)
+ 
+– Professor Dr Marion Weissenberger-Eibl (until 16 May 2024)
+Mediation Committee, pursuant to section 27(3) of the German Co-determination Act 
+ 
+– Professor Dr Marion Weissenberger-Eibl (Chairwoman) (until 16 May 2024)
+ 
+– Margret Suckale (Chairwoman) (since 16 May 2024)
+ 
+– Dr Ines Ploss (until 31 October 2024)
+ 
+– Dr Bernd Scheifele
+ 
+– Heinz Schmitt (until 16 May 2024)
+ 
+– Werner Schraeder (since 16 May 2024)
+ 
+– Anna Toborek-Kacar (since 18 November 2024)
+Heidelberg Materials 2024
+26
+Annual financial statements
+
+38 Supplementary statement
+On 21 February 2025, the Managing Board of 
+Heidelberg Materials AG resolved to cancel all 
+3,637,360 treasury shares purchased under the first 
+tranche of the 2024 – 2026 share buyback programme 
+in the period from 23 May to 25 November 2024, with 
+a reduction of € 10,912,080 in the subscribed share 
+capital. This corresponds to approximately 2.00% 
+of  the company’s subscribed share capital before 
+­cancellation and capital reduction. The Supervisory 
+Board approved the cancellation on 24 February 
+2025. Following the cancellation of the shares and 
+the capital reduction, the subscribed share capital of 
+Heidelberg Materials AG amounts to € 535,292,280 
+and is divided into 178,430,760 no-par value shares, 
+each representing a notional amount of € 3.00 of the 
+subscribed share capital.
+39 List of shareholdings
+The list of shareholdings, which forms part of the 
+Notes, is not included here. It is published with the 
+annual financial statements in the Company Register 
+and in the Group’s Annual Report 2024.
+Proposal for the appropriation  
+of the balance sheet profit
+The Managing Board and Supervisory Board propose 
+that € 588,821,508.00 of the balance sheet profit 
+disclosed in the annual financial statements of 
+€ 607,203,961.46 be used to pay a dividend of € 3.30 
+on each of the participating 178,430,760 no-par val-
+ue shares for the 2024 financial year. The remaining 
+amount of € 18,382,453.46 is to be carried forward. 
+As at the reporting date of 31 December 2024, the 
+number of no-par value shares entitled to dividends 
+is calculated from 182,068,120 shares issued less the 
+3,637,360 treasury shares acquired in the 2024 finan-
+cial year.
+Heidelberg, 21 March 2025 
+Heidelberg Materials AG
+The Managing Board
+Heidelberg Materials 2024
+27
+Annual financial statements
+
+Independent 
+­auditor’s ­report
+To ­Heidelberg Materials AG, ­Heidelberg
+Report on the audit of the Annual 
+­Financial Statements and of the 
+­Management Report
+Audit Opinions
+We have audited the annual financial statements of 
+Heidelberg Materials AG, Heidelberg, which comprise 
+the balance sheet as at 31 December 2024, and the 
+statement of profit and loss for the financial year 
+from 1 January to 31 December 2024 and notes to 
+the financial statements, including the presentation 
+of the recognition and measurement policies. In ad-
+dition, we have audited the management report of 
+Heidelberg Materials AG, which is combined with the 
+group management report, for the financial year 
+from 1 January to 31 December 2024. In accordance 
+with the German legal requirements, we have not au-
+dited the content of those parts of the management 
+report listed in the “Other Information” section of our 
+auditor’s report.
+In our opinion, on the basis of the knowledge ob-
+tained in the audit,
+ 
+– the accompanying annual financial statements 
+comply, in all material respects, with the require-
+ments of German commercial law and give a true 
+and fair view of the assets, liabilities and financial 
+position of the Company as at 31 December 2024 
+and of its financial performance for the financial 
+year from 1 January to 31 December 2024 in com-
+pliance with German Legally Required Accounting 
+Principles and
+ 
+– the accompanying management report as a whole 
+provides an appropriate view of the Company’s 
+­position. In all material respects, this management 
+report is consistent with the annual financial state-
+ments, complies with German legal requirements 
+and appropriately presents the opportunities and 
+risks of future development. Our audit opinion on 
+the management report does not cover the con-
+tent of those parts of the management report 
+­listed in the “Other Information” section of our 
+­auditor’s report.
+Pursuant to § [Article] 322 Abs. [paragraph] 3 Satz 
+[sentence] 1 HGB [Handelsgesetzbuch: German Com-
+mercial Code], we declare that our audit has not led 
+to any reservations relating to the legal compliance 
+of the annual financial statements and of the man-
+agement report.
+Basis for the Audit Opinions
+We conducted our audit of the annual financial state-
+ments and of the management report in accord-
+ance  with § 317 HGB and the EU Audit Regulation 
+(No. 537 / 2014, referred to subsequently as “EU Audit 
+Regulation”) in compliance with German Generally 
+Accepted Standards for Financial Statement Audits 
+promulgated by the Institut der Wirtschaftsprüfer 
+[Institute of Public Auditors in Germany] (IDW). Our 
+responsibilities under those requirements and princi-
+ples are further described in the “Auditor’s Responsi-
+bilities for the Audit of the Annual Financial State-
+ments and of the Management Report” section of 
+our auditor’s report. We are independent of the Com-
+pany in accordance with the requirements of Europe-
+an law and German commercial and professional 
+law, and we have fulfilled our other German profes-
+sional responsibilities in accordance with these re-
+quirements. In addition, in accordance with Article 10 
+(2) point (f) of the EU Audit Regulation, we declare 
+that we have not provided non-audit services prohib-
+ited under Article 5 (1) of the EU Audit Regulation. We 
+believe that the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our 
+audit opinions on the annual financial statements 
+and on the management report.
+Key Audit Matters in the Audit  
+of the Annual Financial Statements
+Key audit matters are those matters that, in our pro-
+fessional judgment, were of most significance in our 
+audit of the annual financial statements for the finan-
+cial year from 1 January to 31 December 2024. These 
+matters were addressed in the context of our audit 
+of the annual financial statements as a whole, and in 
+forming our audit opinion thereon; we do not provide 
+a separate audit opinion on these matters.
+In our view, the matters of most significance in our 
+­audit were as follows:
+1 
+Measurement of shares in affiliated 
+companies
+2 
+Obligations arising from tax matters
+Our presentation of these key audit matters has been 
+structured in each case as follows:
+a) Matter and issue 
+b) Audit approach and findings
+c) Reference to further information
+Hereinafter we present the key audit matters:
+1 
+Measurement of shares in affiliated 
+companies
+a) In the annual financial statements of the Compa-
+ny shares in affiliated companies amounting to 
+EUR 22,287 million (78.5% of total assets) are re-
+ported under the “Financial assets” balance sheet 
+item. Shares in affiliated companies are meas-
+ured in accordance with German commercial law 
+at the lower of cost and fair value. The fair values 
+are calculated using discounted cash flow models 
+as the present values of the expected future cash 
+flows according to the planning projections pre-
+pared by the executive directors. Expectations 
+relating to future market developments and 
+­assumptions about the development of macro­
+economic factors and the effects of the corpo-
+rate strategy geared towards carbon neutrality 
+are also taken into account. The discount rate 
+used is the individually determined cost of capital 
+for the relevant financial investment. On the basis 
+of the values determined and supplementary 
+documentation, no write-downs or reversals of 
+write-downs were required for the financial year. 
+ 
+The outcome of this valuation is dependent to a 
+large extent on the estimates made by the exec-
+utive directors of the future cash flows, and on the 
+respective discount rates and rates of growth 
+used. The valuation is therefore subject to mate-
+rial uncertainties. Against this background and 
+due to the highly complex nature of the valuation 
+and its material significance for the Company’s 
+assets, liabilities and financial performance, this 
+matter was of particular significance in the con-
+text of our audit.
+Heidelberg Materials 2024
+28
+Annual financial statements
+
+b) As part of our audit, we assessed the methodol-
+ogy used for the purposes of the valuation, 
+among other things. In particular, we assessed 
+whether the fair values had been appropriately 
+determined using discounted cash flow models 
+in  compliance with the relevant measurement 
+standards. We based our assessment, among 
+other things, on a comparison with general and 
+sector-specific market expectations as well as on 
+the executive directors’ detailed explanations 
+­regarding the key value drivers underlying the 
+­expected cash flows. In addition, we evaluated 
+the assessment of the executive directors regard-
+ing the effects of the corporate strategy geared 
+towards carbon neutrality on the business activi-
+ties of the affiliated companies and examined 
+how they were taken into account in determining 
+the expected cash flows. In the knowledge that 
+even relatively small changes in the discount rate 
+applied can have a material impact on the value 
+of the entity calculated in this way, we focused 
+our testing in particular on the parameters used 
+to determine the discount rate applied and as-
+sessed the calculation model.
+ 
+In our view, taking into consideration the informa-
+tion available, the measurement parameters and 
+underlying assumptions used by the executive di-
+rectors are appropriate overall for the purpose of 
+appropriately measuring the shares in affiliated 
+companies.
+c) The Company’s disclosures regarding shares in 
+affiliated companies are contained in section “3 
+Shares in affiliated companies” of the notes to the 
+financial statements.
+2 
+Obligations arising from tax matters
+a) As an international building materials company, 
+Heidelberg Materials AG is subject to various 
+­local tax regulations due to its extensive portfolio 
+of equity investments and cross-border service 
+relationships with affiliated companies. The rec-
+ognition and measurement of tax provisions 
+are  based to a large extent on estimates and 
+­assumptions made by the executive directors. 
+Against this background and due to the amount 
+of this item, these matters were of particular sig-
+nificance in the context of our audit.
+b) As part of our audit, we assessed, among other 
+things, the internal processes and controls for re-
+cording and assessing tax matters and the pres-
+entation of obligations arising from tax matters in 
+the financial statements. In the knowledge that 
+estimated values result in an increased risk of ac-
+counting misstatements and that the estimates 
+and assumptions made by the executive directors 
+have a direct and significant impact on net prof-
+it / loss for the year, we evaluated the appropri-
+ateness of the determination of the obligations 
+and the presentation of tax matters in the finan-
+cial statements. We also involved our internal 
+specialists from the tax department in the audit 
+team. With regard to the recognition and meas-
+urement of obligations, we in particular inspected 
+the Company’s correspondence with the respec-
+tive tax authorities and critically examined the 
+Company’s risk assessments of ongoing tax au-
+dits and individual tax matters. Furthermore, 
+we  also held meetings with the Company’s tax 
+department in order to receive updates on cur-
+rent developments with regard to the material tax 
+matters and the reasons for the corresponding 
+estimates. As at the balance sheet date, we also 
+obtained confirmations from external tax advi-
+sors that support the estimates made by the ex-
+ecutive directors. 
+ 
+Based on our audit procedures, we were able to 
+satisfy ourselves that the estimates and assump-
+tions made by the executive directors are sub-
+stantiated and sufficiently documented.
+c) The Company’s disclosures relating to tax provi-
+sions are contained in section “14 Tax provisions” 
+of the notes to the financial statements as well as 
+in the paragraph on “Tax risks” in the “Risk and 
+opportunity report” section of the management 
+report.
+Other Information
+The executive directors are responsible for the other 
+information. The other information comprises the fol-
+lowing non-audited parts of the management report:
+ 
+– the non-financial statement to comply with §§ 289b 
+to 289e HGB and with §§ 315b to 315c HGB included 
+in section “non-financial statement” of the man-
+agement report
+ 
+– the section “Adequacy, and effectiveness of the 
+­internal control and risk management system” of 
+the management report
+The other information comprises further the state-
+ment on corporate governance pursuant to § 289f 
+HGB and § 315d HGB. 
+Our audit opinions on the annual financial state-
+ments and on the management report do not cover 
+the other information, and consequently we do not 
+express an audit opinion or any other form of assur-
+ance conclusion thereon.
+In connection with our audit, our responsibility is to 
+read the other information mentioned above and, in 
+so doing, to consider whether the other information
+ 
+– is materially inconsistent with the annual financial 
+statements, with the management report disclo-
+sures audited in terms of content or with our knowl-
+edge obtained in the audit, or
+ 
+– otherwise appears to be materially misstated.
+Responsibilities of the Executive Directors 
+and the Supervisory Board for the Annual 
+Financial Statements and the Management 
+Report
+The executive directors are responsible for the prepa-
+ration of the annual financial statements that com-
+ply, in all material respects, with the requirements of 
+German commercial law, and that the annual finan-
+cial statements give a true and fair view of the as-
+sets, liabilities, financial position and financial perfor-
+mance of the Company in compliance with German 
+Legally Required Accounting Principles. In addition, 
+the executive directors are responsible for such 
+­internal control as they, in accordance with German 
+­Legally Required Accounting Principles, have deter-
+mined necessary to enable the preparation of annual 
+financial statements that are free from material 
+­misstatement, whether due to fraud (i.e., fraudulent 
+Heidelberg Materials 2024
+29
+Annual financial statements
+
+­financial reporting and misappropriation of assets) 
+or error.
+In preparing the annual financial statements, the 
+­executive directors are responsible for assessing the 
+Company’s ability to continue as a going concern. 
+They also have the responsibility for disclosing, as 
+applicable, matters related to going concern. In ad-
+dition, they are responsible for financial reporting 
+based on the going concern basis of accounting, 
+­provided no actual or legal circumstances conflict 
+therewith.
+Furthermore, the executive directors are responsible 
+for the preparation of the management report that 
+as a whole provides an appropriate view of the 
+­Company’s position and is, in all material respects, 
+­consistent with the annual financial statements, 
+complies with German legal requirements, and ap-
+propriately presents the opportunities and risks of 
+future development. In addition, the executive direc-
+tors are responsible for such arrangements and 
+measures (systems) as they have considered neces-
+sary to enable the preparation of a management 
+­report that is in accordance with the applicable Ger-
+man legal requirements, and to be able to provide 
+sufficient appropriate evidence for the assertions in 
+the management report.
+The supervisory board is responsible for overseeing 
+the Company’s financial reporting process for the 
+preparation of the annual financial statements and 
+of the management report.
+Auditor’s Responsibilities for the Audit  
+of the Annual Financial Statements  
+and of the Management Report
+Our objectives are to obtain reasonable assurance 
+about whether the annual financial statements as a 
+whole are free from material misstatement, whether 
+due to fraud or error, and whether the management 
+report as a whole provides an appropriate view of 
+the Company’s position and, in all material respects, 
+is consistent with the annual financial statements 
+and the knowledge obtained in the audit, complies 
+with the German legal requirements and appropri-
+ately presents the opportunities and risks of future 
+development, as well as to issue an auditor’s report 
+that includes our audit opinions on the annual finan-
+cial statements and on the management report.
+Reasonable assurance is a high level of assurance, 
+but is not a guarantee that an audit conducted in 
+accordance with § 317 HGB and the EU Audit Regula-
+tion and in compliance with German Generally Ac-
+cepted Standards for Financial Statement Audits 
+promulgated by the Institut der Wirtschaftsprüfer 
+(IDW) will always detect a material misstatement. 
+Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggre-
+gate, they could reasonably be expected to influence 
+the economic decisions of users taken on the basis 
+of these annual financial statements and this man-
+agement report.
+We exercise professional judgment and maintain pro-
+fessional skepticism throughout the audit. We also:
+ 
+– Identify and assess the risks of material misstate-
+ment of the annual financial statements and of the 
+management report, whether due to fraud or error, 
+design and perform audit procedures responsive to 
+those risks, and obtain audit evidence that is suf­
+ficient and appropriate to provide a basis for our 
+audit opinions. The risk of not detecting a material 
+misstatement resulting from fraud is higher than 
+for one resulting from error, as fraud may involve 
+collusion, forgery, intentional omissions, misrep-
+resentations, or the override of internal controls.
+ 
+– Obtain an understanding of internal control rele-
+vant to the audit of the annual financial statements 
+and of arrangements and measures (systems) rel-
+evant to the audit of the management report in 
+order to design audit procedures that are appro-
+priate in the circumstances, but not for the purpose 
+of expressing an audit opinion on the effectiveness 
+of the internal control of the Company and these 
+arrangements and measures (systems), respec-
+tively.
+ 
+– Evaluate the appropriateness of accounting poli-
+cies used by the executive directors and the rea-
+sonableness of estimates made by the executive 
+directors and related disclosures.
+ 
+– Conclude on the appropriateness of the executive 
+directors’ use of the going concern basis of ac-
+counting and, based on the audit evidence ob-
+tained, whether a material uncertainty exists relat-
+ed to events or conditions that may cast significant 
+doubt on the Company’s ability to continue as a 
+going concern. If we conclude that a material un-
+certainty exists, we are required to draw attention 
+in the auditor’s report to the related disclosures in 
+the annual financial statements and in the man-
+agement report or, if such disclosures are inade-
+quate, to modify our respective audit opinions. Our 
+conclusions are based on the audit evidence ob-
+tained up to the date of our auditor’s report. How-
+ever, future events or conditions may cause the 
+Company to cease to be able to continue as a 
+­going concern.
+ 
+– Evaluate the overall presentation, structure and 
+content of the annual financial statements, in­cluding 
+the disclosures, and whether the annual financial 
+statements present the underlying trans­actions 
+and events in a manner that the annual financial 
+statements give a true and fair view of the assets, 
+liabilities, financial position and financial perfor-
+mance of the Company in compliance with German 
+Legally Required Accounting Principles.
+ 
+– Evaluate the consistency of the management re-
+port with the annual financial statements, its 
+­conformity with German law, and the view of the 
+Company’s position it provides.
+Heidelberg Materials 2024
+30
+Annual financial statements
+
+ 
+– Perform audit procedures on the prospective infor-
+mation presented by the executive directors in the 
+management report. On the basis of sufficient ap-
+propriate audit evidence we evaluate, in particular, 
+the significant assumptions used by the executive 
+directors as a basis for the prospective informa-
+tion, and evaluate the proper derivation of the pro-
+spective information from these assumptions. We 
+do not express a separate audit opinion on the 
+prospective information and on the assumptions 
+used as a basis. There is a substantial unavoidable 
+risk that future events will differ materially from the 
+prospective information.
+We communicate with those charged with govern-
+ance regarding, among other matters, the planned 
+scope and timing of the audit and significant audit 
+findings, including any significant deficiencies in in-
+ternal control that we identify during our audit. 
+We also provide those charged with governance with 
+a statement that we have complied with the relevant 
+independence requirements, and communicate with 
+them all relationships and other matters that may 
+reasonably be thought to bear on our independence, 
+and where applicable, actions taken to eliminate 
+threats or safeguards applied.
+From the matters communicated with those charged 
+with governance, we determine those matters that 
+were of most significance in the audit of the annual 
+financial statements of the current period and are 
+therefore the key audit matters. We describe these 
+matters in our auditor’s report unless law or regula-
+tion precludes public disclosure about the matter.
+Other legal and regulatory requirements
+Report on the Assurance on the Electronic 
+Rendering of the Annual Financial Statements 
+and the Management Report Prepared for 
+­Publication Purposes in Accordance with § 317 
+Abs. 3a HGB
+Assurance Opinion
+We have performed assurance work in accordance 
+with § 317 Abs. 3a HGB to obtain reasonable assur-
+ance as to whether the rendering of the annual finan-
+cial statements and the management report (here­
+inafter the “ESEF documents”) contained in the 
+electronic file Heidelberg_Materials_AG_JA_ZLB_
+ESEF-2024-12-31.zip and prepared for publication 
+purposes complies in all material respects with the 
+requirements of § 328 Abs. 1 HGB for the electronic 
+reporting format (“ESEF format”). In accordance 
+with German legal requirements, this assurance work 
+extends only to the conversion of the information 
+contained in the annual financial statements and the 
+management report into the ESEF format and there-
+fore relates neither to the information contained 
+within these renderings nor to any other information 
+contained in the electronic file identified above.
+In our opinion, the rendering of the annual financial 
+statements and the management report contained 
+in the electronic file identified above and prepared 
+for publication purposes complies in all material re-
+spects with the requirements of § 328 Abs. 1 HGB for 
+the electronic reporting format. Beyond this assur-
+ance opinion and our audit opinion on the accompa-
+nying annual financial statements and the accompa-
+nying management report for the financial year from 
+1 January to 31 December 2024 contained in the 
+“­Report on the Audit of the Annual Financial State-
+ments and on the Management Report” above, we 
+do not express any assurance opinion on the infor-
+mation contained within these renderings or on the 
+other information contained in the electronic file 
+identified above.
+Basis for the Assurance Opinion
+We conducted our assurance work on the rendering 
+of the annual financial statements and the manage-
+ment report contained in the electronic file identified 
+above in accordance with § 317 Abs. 3a HGB and the 
+IDW Assurance Standard: Assurance Work on the 
+Electronic Rendering of Financial Statements and 
+Management Reports, Prepared for Publication Pur-
+poses in Accordance with § 317 Abs. 3a HGB (IDW AsS 
+410 (06.2022)) and the International Standard on 
+Assurance Engagements 3000 (Revised). Our respon-
+sibility in accordance therewith is further described in 
+the “Auditor’s Responsibilities for the ­Assurance Work 
+on the ESEF Documents” section. Our audit firm 
+­applies the IDW Standard on Quality Management: 
+­Requirements for Quality Management in the Audit 
+Firm (IDW QMS 1 (09.2022)).
+Responsibilities of the Executive Directors  
+and the Supervisory Board for the ESEF 
+­Documents
+The executive directors of the Company are respon-
+sible for the preparation of the ESEF documents in-
+cluding the electronic rendering of the annual fi­
+nancial statements and the management report in 
+accordance with § 328 Abs. 1 Satz 4 Nr. [number] 1 
+HGB. 
+In addition, the executive directors of the Company 
+are responsible for such internal control as they have 
+considered necessary to enable the preparation of 
+ESEF documents that are free from material non-­
+compliance with the requirements of § 328 Abs. 1 HGB 
+for the electronic reporting format, whether due to 
+fraud or error.
+The supervisory board is responsible for overseeing 
+the process for preparing the ESEF-documents as 
+part of the financial reporting process.
+Auditor’s Responsibilities for the Assurance Work 
+on the ESEF Documents
+Our objective is to obtain reasonable assurance 
+about whether the ESEF documents are free from 
+material non-compliance with the requirements of 
+§ 328 Abs. 1 HGB, whether due to fraud or error. We 
+exercise professional judgment and maintain pro­
+fessional skepticism throughout the assurance work. 
+We also:
+ 
+– Identify and assess the risks of material non-com-
+pliance with the requirements of § 328 Abs. 1 HGB, 
+whether due to fraud or error, design and perform 
+assurance procedures responsive to those risks, 
+and obtain assurance evidence that is sufficient 
+and appropriate to provide a basis for our assur-
+ance opinion.
+Heidelberg Materials 2024
+31
+Annual financial statements
+
+ 
+– Obtain an understanding of internal control rele-
+vant to the assurance work on the ESEF documents 
+in order to design assurance procedures that are 
+appropriate in the circumstances, but not for the 
+purpose of expressing an assurance opinion on the 
+effectiveness of these controls.
+ 
+– Evaluate the technical validity of the ESEF docu-
+ments, i.e., whether the electronic file containing 
+the ESEF documents meets the requirements of the 
+Delegated Regulation (EU) 2019 / 815 in the version 
+in force at the date of the annual financial state-
+ments on the technical specification for this elec-
+tronic file.
+ 
+– Evaluate whether the ESEF documents provide an 
+XHTML rendering with content equivalent to the 
+­audited annual financial statements and to the 
+­audited management report.
+Further Information pursuant to Article 10  
+of the EU Audit Regulation
+We were elected as auditor by the annual general 
+meeting on 16 May 2024. We were engaged by the 
+supervisory board on 21 May 2024. We have been the 
+auditor of the Heidelberg Materials AG, Heidelberg, 
+without interruption since the financial year 2020.
+We declare that the audit opinions expressed in this 
+auditor’s report are consistent with the additional 
+­report to the audit committee pursuant to Article 11 
+of the EU Audit Regulation (long-form audit report). 
+Reference to an other matter –  
+use of the auditor’s report
+Our auditor’s report must always be read together 
+with the audited annual financial statements and the 
+audited management report as well as the assured 
+ESEF documents. The annual financial statements 
+and the management report converted to the ESEF 
+format – including the versions to be filed in the com-
+pany register – are merely electronic renderings of 
+the audited annual financial statements and the 
+­audited management report and do not take their 
+place. In particular, the “Report on the Assurance on 
+the Electronic Rendering of the Annual Financial 
+Statements and the Management Report Prepared 
+for Publication Purposes in Accordance with § 317 
+Abs. 3a HGB” and our assurance opinion contained 
+therein are to be used solely together with the as-
+sured ESEF documents made available in electronic 
+form.
+German public auditor responsible  
+for the engagement
+The German Public Auditor responsible for the en-
+gagement is Thomas Tilgner.
+Frankfurt am Main, March 21, 2025
+PricewaterhouseCoopers GmbH 
+Wirtschaftsprüfungsgesellschaft
+Thomas Tilgner 
+Dr  Martin Nicklis 
+Wirtschaftsprüfer 
+Wirtschaftsprüfer 
+(German Public Auditor) 
+(German Public Auditor)
+Heidelberg Materials 2024
+32
+Annual financial statements
+
+Responsibility ­statement
+To the best of our knowledge, and in accordance with the applicable reporting principles, the annual financial 
+statements of Heidelberg Materials AG give a true and fair view of the assets, liabilities, financial position, and 
+profit or loss of the Company, and the management report, which has been combined with the Group man-
+agement report, includes a fair review of the development and performance of the business and the position 
+of the Company, together with a description of the principal opportunities and risks associated with the 
+­expected development of the Company.
+­Heidelberg, 21 March 2025
+­Heidelberg Materials AG
+The Managing Board
+Dr Dominik von Achten 
+René Aldach 
+Dr Katharina Beumelburg
+Roberto Callieri 
+Axel Conrads 
+Hakan Gurdal
+Dennis Lentz 
+Jon Morrish 
+Chris Ward
+Heidelberg Materials 2024
+33
+Annual financial statements
+
+Contact
+Group Communication
+Phone: + 49 6221 481-13227
+Fax: + 49 6221 481-13217
+info@heidelbergmaterials.com
+Investor Relations
+Phone Institutional investors:  
++ 49 6221 481-41326, + 49 6221 481-13925,  
++ 49 6221 481-41016 and + 49 6221 481-39670
+Phone Private investors: + 49 6221 481-13256
+Fax: + 49 6221 481-13217
+ir-info@heidelbergmaterials.com
+Heidelberg­ Materials AG
+Berliner Strasse 6 
+69120 Heidelberg, Germany
+www.heidelbergmaterials.com
+The Company has its registered office in Heidelberg, 
+Germany. It is registered with the Commercial Regis-
+ter at the Local Court of Mannheim (Amtsgericht 
+Mannheim) under HRB 330082.
+Translation of the report on the annual financial 
+state­ments 2024. The German version is binding. 
+The report on the annual financial state­ments 2024 
+was ­published on 25 March 2025. 
+Financial calendar 2025
+Quarterly Statement January to March 2025
+Annual General Meeting 2025
+Half-Year Financial Report 2025
+Quarterly Statement January to September 2025
+8 May
+15 May
+31 Jul
+6 Nov
+Capital Markets Day 2025
+27 – 28 May
+Heidelberg Materials 2024
+34
+Annual financial statements

@@ -1,0 +1,1358 @@
+December 31, 2025
+Annual Financial Statements and Other Information
+Deutsche DWS Variable Series I
+DWS Core Equity VIP
+
+Contents
+3
+Investment Portfolio
+6
+Statement of Assets and Liabilities
+6
+Statement of Operations
+7
+Statements of Changes in Net Assets
+8
+Financial Highlights
+9
+Notes to Financial Statements
+14
+Report of Independent Registered Public Accounting Firm
+15
+Tax Information
+16
+Advisory Agreement Board Considerations and Fee Evaluation
+The brand DWS represents DWS Group GmbH & Co. KGaA and any of its subsidiaries such as DWS Distributors, Inc., which offers
+investment products, or DWS Investment Management Americas, Inc. and RREEF America L.L.C., which offer advisory services.
+DWS Distributors, Inc., 222 South Riverside Plaza, Chicago, IL 60606, (800) 621-1148
+2 |
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Investment Portfolio
+as of December 31, 2025
+Shares
+Value ($)
+Common Stocks 99.9%
+Communication Services 10.6%
+Entertainment 2.1%
+Netflix, Inc.*
+10,718
+1,004,920
+Spotify Technology SA*
+533
+309,518
+Walt Disney Co.
+9,009
+1,024,954
+2,339,392
+Interactive Media & Services 8.2%
+Alphabet, Inc. C
+20,878
+6,551,516
+Meta Platforms, Inc. A
+4,152
+2,740,694
+9,292,210
+WirelessTelecommunication Services 0.3%
+T-Mobile U.S., Inc.
+1,960
+397,958
+Consumer Discretionary 10.8%
+Automobiles 2.6%
+General Motors Co.
+14,663
+1,192,395
+Tesla, Inc.*
+3,971
+1,785,838
+2,978,233
+Broadline Retail 4.3%
+Amazon.com, Inc.*
+19,229
+4,438,438
+Coupang, Inc.*
+16,276
+383,951
+4,822,389
+Hotels, Restaurants & Leisure 0.5%
+Hyatt Hotels Corp. A (a)
+3,515
+563,525
+Household Durables 1.5%
+PulteGroup, Inc.
+14,329
+1,680,218
+Leisure Products 0.9%
+Hasbro, Inc.
+12,311
+1,009,502
+Specialty Retail 0.6%
+TJX Companies, Inc.
+4,196
+644,548
+Textiles, Apparel & Luxury Goods 0.4%
+NIKE, Inc. B
+7,168
+456,673
+Consumer Staples 4.8%
+Beverages 1.0%
+Constellation Brands, Inc. A
+4,338
+598,471
+Molson Coors Beverage Co.
+B (a)
+10,902
+508,905
+1,107,376
+Consumer Staples Distribution & Retail 2.6%
+Costco Wholesale Corp.
+819
+706,256
+Walmart, Inc.
+19,939
+2,221,404
+2,927,660
+Personal Care Products 0.6%
+Kenvue, Inc.
+38,045
+656,276
+Tobacco 0.6%
+Philip Morris
+International, Inc.
+4,584
+735,274
+Shares
+Value ($)
+Energy 2.7%
+Energy Equipment & Services 0.3%
+SLB Ltd.
+9,331
+358,124
+Oil, Gas & Consumable Fuels 2.4%
+Cheniere Energy, Inc.
+4,399
+855,122
+Chord Energy Corp.
+3,172
+294,044
+Exxon Mobil Corp.
+7,694
+925,896
+HF Sinclair Corp.
+13,924
+641,618
+2,716,680
+Financials 13.5%
+Banks 5.7%
+Bank of America Corp.
+17,045
+937,475
+JPMorgan Chase & Co.
+11,043
+3,558,276
+Wells Fargo & Co.
+20,167
+1,879,564
+6,375,315
+Capital Markets 4.5%
+Ameriprise Financial, Inc.
+2,648
+1,298,420
+Blackstone, Inc.
+4,181
+644,459
+Cboe Global Markets, Inc.
+4,627
+1,161,377
+Intercontinental Exchange,
+Inc.
+2,921
+473,085
+KKR & Co., Inc.
+4,121
+525,345
+S&P Global, Inc.
+1,940
+1,013,825
+5,116,511
+Financial Services 2.9%
+Apollo Global Management,
+Inc.
+6,242
+903,592
+Visa, Inc. A
+6,727
+2,359,226
+3,262,818
+Insurance 0.4%
+Allstate Corp.
+2,151
+447,731
+Health Care 8.7%
+Biotechnology 4.3%
+AbbVie, Inc.
+10,070
+2,300,894
+Amgen, Inc.
+4,718
+1,544,248
+Regeneron Pharmaceuticals,
+Inc.
+1,403
+1,082,934
+4,928,076
+Health Care Equipment & Supplies 1.4%
+Abbott Laboratories
+3,792
+475,100
+Medtronic PLC
+5,242
+503,546
+STERIS PLC
+2,267
+574,730
+1,553,376
+Health Care Providers & Services 1.6%
+Cigna Group
+2,684
+738,717
+Elevance Health, Inc.
+1,655
+580,160
+UnitedHealth Group, Inc.
+1,354
+446,969
+1,765,846
+The accompanying notes are an integral part of the financial statements.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+3
+
+Shares
+Value ($)
+Health CareTechnology 0.4%
+Veeva Systems, Inc. A*
+2,130
+475,480
+Pharmaceuticals 1.0%
+Johnson & Johnson
+1,990
+411,831
+Merck & Co., Inc.
+6,585
+693,137
+1,104,968
+Industrials 9.1%
+Aerospace & Defense 3.6%
+Boeing Co.*
+2,351
+510,449
+GE Aerospace
+1,876
+577,865
+Howmet Aerospace, Inc.
+2,999
+614,855
+Lockheed Martin Corp.
+1,869
+903,979
+Rocket Lab Corp.*
+6,478
+451,905
+RTX Corp.
+5,679
+1,041,529
+4,100,582
+Building Products 0.9%
+Owens Corning
+9,117
+1,020,284
+Commercial Services & Supplies 1.1%
+Veralto Corp.
+2,993
+298,642
+Waste Management, Inc.
+4,088
+898,174
+1,196,816
+Electrical Equipment 0.5%
+Hubbell, Inc.
+1,290
+572,902
+Machinery 1.0%
+Caterpillar, Inc.
+1,913
+1,095,900
+MarineTransportation 0.8%
+Kirby Corp.*
+7,760
+854,997
+Passenger Airlines 0.5%
+United Airlines Holdings, Inc.*
+5,131
+573,748
+Professional Services 0.7%
+Automatic Data Processing,
+Inc.
+1,950
+501,598
+Verisk Analytics, Inc.
+1,565
+350,075
+851,673
+InformationTechnology 33.2%
+IT Services 0.5%
+Cloudflare, Inc. A*
+2,727
+537,628
+Semiconductors & Semiconductor
+Equipment 12.5%
+Advanced Micro Devices,
+Inc.*
+5,847
+1,252,194
+Broadcom, Inc.
+6,175
+2,137,167
+Lam Research Corp.
+2,787
+477,079
+Micron Technology, Inc.
+5,389
+1,538,074
+MKS, Inc.
+2,807
+448,559
+NVIDIA Corp.
+39,125
+7,296,812
+QUALCOMM, Inc.
+5,950
+1,017,748
+14,167,633
+Software 11.2%
+Adobe, Inc.*
+772
+270,192
+Fortinet, Inc.*
+5,105
+405,388
+Shares
+Value ($)
+Microsoft Corp.
+19,384
+9,374,490
+Oracle Corp.
+8,454
+1,647,769
+Palantir Technologies, Inc.
+A*
+1,538
+273,380
+ServiceNow, Inc.*
+4,170
+638,802
+12,610,021
+Technology Hardware, Storage &
+Peripherals 9.0%
+Apple, Inc.
+37,595
+10,220,577
+Materials 2.3%
+Chemicals 0.8%
+Albemarle Corp.
+4,755
+672,547
+Mosaic Co.
+9,991
+240,683
+913,230
+Containers & Packaging 0.3%
+AptarGroup, Inc.
+3,211
+391,614
+Metals & Mining 1.2%
+Newmont Corp.
+5,186
+517,822
+Nucor Corp.
+5,025
+819,628
+1,337,450
+Real Estate 1.8%
+Health Care REITs 0.6%
+Medical Properties Trust,
+Inc. (a)
+127,650
+638,250
+Industrial REITs 0.8%
+Prologis, Inc.
+7,336
+936,514
+Residential REITs 0.4%
+AvalonBay Communities, Inc.
+2,535
+459,621
+Utilities 2.4%
+Electric Utilities 1.6%
+FirstEnergy Corp.
+8,674
+388,335
+NRG Energy, Inc.
+8,714
+1,387,617
+1,775,952
+Independent Power & Renewable Electricity
+Producers 0.3%
+Vistra Corp.
+2,423
+390,903
+Multi-Utilities 0.5%
+WEC Energy Group, Inc.
+5,057
+533,311
+Total Common Stocks (Cost $53,814,333)
+112,895,765
+Securities Lending Collateral 0.6%
+DWS Government & Agency
+Securities Portfolio DWS
+Government Cash
+Institutional Shares, 3.66%
+(b) (c) (Cost $669,900)
+669,900
+669,900
+The accompanying notes are an integral part of the financial statements.
+4
+|
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Shares
+Value ($)
+Cash Equivalents 1.0%
+DWS Central Cash
+Management Government
+Fund, 3.77% (b)
+(Cost $1,096,686)
+1,096,686
+1,096,686
+% of
+Net Assets
+Value ($)
+Total Investment Portfolio
+(Cost $55,580,919)
+101.5
+114,662,351
+Other Assets and
+Liabilities, Net
+(1.5)
+(1,709,244)
+Net Assets
+100.0
+112,953,107
+A summary of the Fund’s transactions with affiliated investments during the year ended December 31, 2025 are as follows:
+Value ($) at
+12/31/2024
+Purchases
+Cost ($)
+Sales
+Proceeds ($)
+Net Realized
+Gain/
+(Loss) ($)
+Net Change in
+Unrealized
+Appreciation
+(Depreciation)
+($)
+Income ($)
+Capital Gain
+Distributions
+($)
+Number
+of Shares
+at
+12/31/2025
+Value ($) at
+12/31/2025
+Securities Lending Collateral 0.6%
+DWS Government & Agency Securities Portfolio DWS Government Cash Institutional Shares,
+3.66% (b) (c)
+1,156,525
+—
+486,625 (d)
+—
+—
+4,812
+—
+669,900
+669,900
+Cash Equivalents 1.0%
+DWS Central Cash Management Government Fund, 3.77% (b)
+1,376,833
+16,132,725
+16,412,872
+—
+—
+36,809
+—
+1,096,686
+1,096,686
+2,533,358
+16,132,725
+16,899,497
+—
+—
+41,621
+—
+1,766,586
+1,766,586
+*
+Non-income producing security.
+(a)
+All or a portion of these securities were on loan. In addition, Other Assets and Liabilities, Net may include pending sales that are
+also on loan. The value of securities loaned at December 31, 2025 amounted to $1,287,812, which is 1.1% of net assets.
+(b)
+Affiliated fund managed by DWS Investment Management Americas, Inc. The rate shown is the annualized seven-day yield at
+period end.
+(c)
+Represents cash collateral held in connection with securities lending. Income earned by the Fund is net of borrower rebates. In
+addition, the Fund held non-cash U.S. Treasury securities collateral having a value of $674,707.
+(d)
+Represents the net increase (purchase cost) or decrease (sales proceeds) in the amount invested in cash collateral for the year
+ended December 31, 2025.
+REIT: Real Estate Investment Trust
+S&P: Standard & Poor’s
+Fair Value Measurements
+Various inputs are used in determining the value of the Fund’s investments. These inputs are summarized in three broad levels. Level 1
+includes quoted prices in active markets for identical securities. Level 2 includes other significant observable inputs (including quoted
+prices for similar securities, interest rates, prepayment speeds and credit risk). Level 3 includes significant unobservable inputs
+(including the Fund’s own assumptions in determining the fair value of investments). The level assigned to the securities valuations may
+not be an indication of the risk or liquidity associated with investing in those securities.
+The following is a summary of the inputs used as of December 31, 2025 in valuing the Fund’s investments. For information on the
+Fund’s policy regarding the valuation of investments, please refer to the Security Valuation section of Note A in the accompanying Notes
+to Financial Statements.
+Assets
+Level 1
+Level 2
+Level 3
+Total
+Common Stocks (a)
+$ 112,895,765
+$ —
+$ —
+$ 112,895,765
+Short-Term Investments (a)
+1,766,586
+—
+—
+1,766,586
+Total
+$ 114,662,351
+$ —
+$ —
+$ 114,662,351
+(a)
+See Investment Portfolio for additional detailed categorizations.
+The accompanying notes are an integral part of the financial statements.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+5
+
+as of December 31, 2025
+Assets
+Investments in non-affiliated securities, at value
+(cost $53,814,333) — including $1,287,812 of
+securities loaned
+$ 112,895,765
+Investment in DWS Government & Agency
+Securities Portfolio (cost $669,900)*
+669,900
+Investment in DWS Central Cash Management
+Government Fund (cost $1,096,686)
+1,096,686
+Cash
+6,671
+Receivable for Fund shares sold
+1,375
+Dividends receivable
+66,087
+Affiliated securities lending income receivable
+218
+Other assets
+1,192
+Total assets
+114,737,894
+Liabilities
+Payable upon return of securities loaned
+669,900
+Payable for Fund shares redeemed
+991,411
+Accrued management fee
+37,895
+Accrued Trustees’ fees
+1,255
+Other accrued expenses and payables
+84,326
+Total liabilities
+1,784,787
+Net assets, at value
+$ 112,953,107
+Net Assets Consist of
+Distributable earnings (loss)
+71,588,030
+Paid-in capital
+41,365,077
+Net assets, at value
+$ 112,953,107
+Net Asset Value
+Class A
+Net Asset Value, offering and redemption price
+per share ($112,953,107 ÷ 8,037,859
+outstanding shares of beneficial interest,
+$.01 par value, unlimited number of
+shares authorized)
+$
+14.05
+*
+Represents collateral on securities loaned. In addition, the
+Fund held non-cash collateral having a value of $674,707.
+for the year ended December 31, 2025
+Investment Income
+Income:
+Dividends
+$ 1,320,063
+Income distributions — DWS Central Cash
+Management Government Fund
+36,809
+Affiliated securities lending income
+4,812
+Total income
+1,361,684
+Expenses:
+Management fee
+431,284
+Administration fee
+107,268
+Services to shareholders
+1,412
+Custodian fee
+2,944
+Audit fee
+52,475
+Legal fees
+14,961
+Tax fees
+7,629
+Reports to shareholders
+24,985
+Trustees’ fees and expenses
+4,633
+Other
+6,683
+Total expenses
+654,274
+Net investment income
+707,410
+Realized and Unrealized Gain (Loss)
+Net realized gain (loss) from investments
+12,154,825
+Change in net unrealized appreciation
+(depreciation) on investments
+3,948,660
+Net gain (loss)
+16,103,485
+Net increase (decrease) in net assets resulting
+from operations
+$16,810,895
+Statement of
+Assets and Liabilities
+Statement of Operations
+The accompanying notes are an integral part of the financial statements.
+6
+|
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Years Ended December 31,
+Increase (Decrease) in Net Assets
+2025
+2024*
+Operations:
+Net investment income
+$
+707,410
+$
+916,744
+Net realized gain (loss)
+12,154,825
+11,553,495
+Change in net unrealized appreciation
+(depreciation)
+3,948,660
+8,735,799
+Net increase (decrease) in net assets resulting from operations
+16,810,895
+21,206,038
+Distributions to shareholders:
+Class A
+(12,464,708)
+(7,071,480)
+Class B
+—
+(132,127)
+Total distributions
+(12,464,708)
+(7,203,607)
+Fund share transactions:
+Class A
+Proceeds from shares sold
+1,135,373
+1,684,660
+Reinvestment of distributions
+12,464,708
+7,071,480
+Payments for shares redeemed
+(20,034,131)
+(15,426,421)
+Net increase (decrease) in net assets from Class A share transactions
+(6,434,050)
+(6,670,281)
+Class B
+Proceeds from shares sold
+—
+8,284
+Reinvestment of distributions
+—
+132,127
+Payments for shares redeemed
+—
+(2,430,392)
+Net increase (decrease) in net assets from Class B share transactions
+—
+(2,289,981)
+Increase (decrease) in net assets
+(2,087,863)
+5,042,169
+Net assets at beginning of period
+115,040,970
+109,998,801
+Net assets at end of period
+$112,953,107
+$115,040,970
+Other Information
+Class A
+Shares outstanding at beginning of period
+8,365,087
+8,811,319
+Shares sold
+87,916
+130,002
+Shares issued to shareholders in reinvestment of distributions
+1,119,920
+581,536
+Shares redeemed
+(1,535,064)
+(1,157,770)
+Net increase (decrease) in Class A shares
+(327,228)
+(446,232)
+Shares outstanding at end of period
+8,037,859
+8,365,087
+Class B
+Shares outstanding at beginning of period
+—
+175,875
+Shares sold
+—
+620
+Shares issued to shareholders in reinvestment of distributions
+—
+10,857
+Shares redeemed
+—
+(187,352)
+Net increase (decrease) in Class B shares
+—
+(175,875)
+Shares outstanding at end of period
+—
+—
+*
+Includes Class B for the period from January 1, 2024 to June 17, 2024 (Class B liquidation date).
+Statements of Changes in Net Assets
+The accompanying notes are an integral part of the financial statements.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+7
+
+Financial Highlights
+DWS Core Equity VIP — Class A
+Years Ended December 31,
+2025
+2024
+2023
+2022
+2021
+Selected Per Share Data
+Net asset value, beginning of period
+$13.75
+$12.24
+$10.47
+$14.52
+$12.23
+Income (loss) from investment operations:
+Net investment incomea
+.08
+.10
+.11
+.10
+.09
+Net realized and unrealized gain (loss)
+1.81
+2.24
+2.42
+(2.25)
+2.91
+Total from investment operations
+1.89
+2.34
+2.53
+(2.15)
+3.00
+Less distributions from:
+Net investment income
+(.11)
+(.11)
+(.11)
+(.10)
+(.10)
+Net realized gains
+(1.48)
+(.72)
+(.65)
+(1.80)
+(.61)
+Total distributions
+(1.59)
+(.83)
+(.76)
+(1.90)
+(.71)
+Net asset value, end of period
+$14.05
+$13.75
+$12.24
+$10.47
+$14.52
+Total Return (%)
+16.83
+20.08
+25.57b
+(15.53)b
+25.30
+Ratios to Average Net Assets and Supplemental Data
+Net assets, end of period ($ millions)
+113
+115
+108
+94
+121
+Ratio of expenses before expense reductions (%)c
+.59
+.59
+.61
+.61
+.59
+Ratio of expenses after expense reductions (%)c
+.59
+.59
+.60
+.60
+.59
+Ratio of net investment income (%)
+.64
+.79
+.97
+.85
+.66
+Portfolio turnover rate (%)
+27
+17
+29
+29
+34
+a
+Based on average shares outstanding during the period.
+b
+Total return would have been lower had certain expenses not been reduced.
+c
+Expense ratio does not reflect charges and fees associated with the separate account that invests in the Fund or any variable life
+insurance policy or variable annuity contract for which the Fund is an investment option.
+The accompanying notes are an integral part of the financial statements.
+8 |
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Notes to Financial Statements
+A. Organization and Significant Accounting Policies
+Deutsche DWS Variable Series I (the “Trust“) is registered under the Investment Company Act of 1940, as
+amended (the “1940 Act“), as an open-end management investment company organized as a Massachusetts
+business trust. The Trust consists of three diversified funds: DWS Core Equity VIP, DWS CROCI® International
+VIP and DWS Global Small Cap VIP; and one non-diversified fund: DWS Capital Growth VIP (individually or
+collectively hereinafter referred to as a “Fund“ or the “Funds“). These financial statements report on DWS
+Core Equity VIP. The Trust is intended to be the underlying investment vehicle for variable annuity contracts
+and variable life insurance policies to be offered by the separate accounts of certain life insurance companies
+(“Participating Insurance Companies“).
+The Fund’s financial statements are prepared in accordance with accounting principles generally accepted in
+the United States of America (“U.S. GAAP”) which require the use of management estimates. Actual results
+could differ from those estimates. Subsequent events, if any, through the date that the financial statements
+were issued have been evaluated in the preparation of the financial statements. The Fund qualifies as an
+investment company under Topic 946 of Accounting Standards Codification of U.S. GAAP. The policies
+described below are followed consistently by the Fund in the preparation of its financial statements.
+Operating Segment. The Fund adopted FASB Accounting Standards Update 2023-07, Segment Reporting
+(Topic 280) - Improvements to Reportable Segment Disclosures (“ASU 2023-07”). ASU 2023-07 impacts
+financial statement disclosures only and does not affect the Fund’s financial position or the results of its
+operations. An operating segment is defined in Topic 280 as a component of a public entity that engages in
+business activities from which it may recognize revenues and incur expenses, has operating results that are
+regularly reviewed by the public entity’s chief operating decision maker (CODM) to make decisions about
+resources to be allocated to the segment and assess its performance, and has discrete financial information
+available. The President and Chief Executive Officer acts as the Fund’s CODM. The Fund represents a single
+operating segment, as the CODM monitors the operating results of the Fund as a whole, and the Fund’s
+long-term strategic asset allocation is pre-determined in accordance with the terms of its prospectus, based
+on a defined investment strategy that is executed by the Fund’s portfolio managers as a team. The financial
+information in the form of the Fund’s portfolio composition, total returns, expense ratios and changes in net
+asset (i.e., changes in net assets resulting from operations, subscriptions and redemptions), which are used
+by the CODM to assess the segment’s performance versus the Fund’s comparative benchmarks and to make
+resource allocation decisions for the Fund’s single segment, is consistent with that presented within the
+Fund’s financial statements. Segment assets are reflected on the accompanying Statement of Assets and
+Liabilities as “total assets” and results of operations and significant segment expenses are listed on the
+accompanying Statement of Operations.
+Security Valuation. Investments are stated at value determined as of the close of regular trading on the New
+York Stock Exchange on each day the exchange is open for trading.
+The Fund’s Board has designated DWS Investment Management Americas, Inc. (the “Advisor”) as the
+valuation designee for the Fund pursuant to Rule 2a-5 under the 1940 Act. The Advisor’s Pricing Committee
+(the “Pricing Committee”) typically values securities using readily available market quotations or prices
+supplied by independent pricing services (which are considered fair values under Rule 2a-5). The Advisor has
+adopted fair valuation procedures that provide methodologies for fair valuing securities.
+Various inputs are used in determining the value of the Fund’s investments. These inputs are summarized in
+three broad levels. Level 1 includes quoted prices in active markets for identical securities. Level 2 includes
+other significant observable inputs (including quoted prices for similar securities, interest rates, prepayment
+speeds and credit risk). Level 3 includes significant unobservable inputs (including the Fund’s own
+assumptions in determining the fair value of investments). The level assigned to the securities valuations may
+not be an indication of the risk or liquidity associated with investing in those securities.
+Equity securities and exchange-traded funds (“ETFs”) are valued at the most recent sale price or official
+closing price reported on the exchange (U.S. or foreign) or over-the-counter market on which they trade.
+Equity securities or ETFs for which no sales are reported are valued at the calculated mean between the
+most recent bid and asked quotations on the relevant market or, if a mean cannot be determined, at the
+most recent bid quotation. Equity securities and ETFs are generally categorized as Level 1.
+Investments in open-end investment companies are valued at their net asset value each business day and
+are categorized as Level 1.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+9
+
+Securities and other assets for which market quotations are not readily available or for which the above
+valuation procedures are deemed not to reflect fair value are valued in a manner that is intended to reflect
+their fair value as determined in accordance with procedures approved by the Pricing Committee and are
+generally categorized as Level 3. In accordance with the Fund’s valuation procedures, factors considered in
+determining value may include, but are not limited to, the type of the security; the size of the holding; the
+initial cost of the security; the existence of any contractual restrictions on the security’s disposition; the price
+and extent of public trading in similar securities of the issuer or of comparable companies; quotations or
+evaluated prices from broker-dealers and/or pricing services; information obtained from the issuer, analysts,
+and/or the appropriate stock exchange (for exchange-traded securities); an analysis of the company’s or
+issuer’s financial statements; an evaluation of the forces that influence the issuer and the market(s) in which
+the security is purchased and sold; and with respect to debt securities, the maturity, coupon,
+creditworthiness, currency denomination and the movement of the market in which the security is normally
+traded. The value determined under these procedures may differ from published values for the
+same securities.
+Disclosure about the classification of fair value measurements is included in a table following the Fund’s
+Investment Portfolio.
+Securities Lending. National Financial Services LLC (Fidelity Agency Lending), as securities lending agent,
+lends securities of the Fund to certain financial institutions under the terms of its securities lending
+agreement. During the term of the loans, the Fund continues to receive interest and dividends generated by
+the securities and to participate in any changes in their market value. The Fund requires the borrowers of the
+securities to maintain collateral with the Fund consisting of cash and/or securities issued or guaranteed by
+the U.S. Government, its agencies or instrumentalities having a value at least equal to the value of the
+securities loaned. When the collateral falls below specified amounts, the securities lending agent will use its
+best efforts to obtain additional collateral on the next business day to meet required amounts under the
+securities lending agreement. During the year ended December 31, 2025, the Fund invested the cash
+collateral, if any, into a joint trading account in affiliated money market funds, including DWS Government &
+Agency Securities Portfolio, managed by DWS Investment Management Americas, Inc. DWS Investment
+Management Americas, Inc. receives a management/ administration fee (0.14% annualized effective rate as
+of December 31, 2025) on the cash collateral invested in DWS Government & Agency Securities Portfolio.
+The Fund receives compensation for lending its securities either in the form of fees or by earning interest on
+invested cash collateral net of borrower rebates and fees paid to a securities lending agent. Either the Fund
+or the borrower may terminate the loan at any time, and the borrower, after notice, is required to return
+borrowed securities within a standard time period. There may be risks of delay and costs in recovery of
+securities or even loss of rights in the collateral should the borrower of the securities fail financially. If the
+Fund is not able to recover securities lent, the Fund may sell the collateral and purchase a replacement
+investment in the market, incurring the risk that the value of the replacement security is greater than the
+value of the collateral. The Fund is also subject to all investment risks associated with the reinvestment of
+any cash collateral received, including, but not limited to, interest rate, credit and liquidity risk associated
+with such investments.
+As of December 31, 2025, the Fund had securities on loan. The value of the related collateral exceeded the
+value of the securities loaned at period end.
+Remaining Contractual Maturity of the Agreements as of December 31, 2025
+Overnight
+and
+Continuous
+<30 days
+Between 30
+& 90 days
+>90 days
+Total
+Securities LendingTransactions
+Common Stocks
+$ 1,344,607
+$ —
+$ —
+$ —
+$ 1,344,607
+Gross amount of recognized liabilities and cash collateral for securities lending transactions:
+$
+669,900
+Gross amount of unrecognized liabilities related to non-cash collateral for securities lending transactions:
+$
+674,707
+Foreign CurrencyTranslations. The books and records of the Fund are maintained in U.S. dollars. Investment
+securities and other assets and liabilities denominated in a foreign currency are translated into U.S. dollars at
+the prevailing exchange rates at period end. Purchases and sales of investment securities, income and
+expenses are translated into U.S. dollars at the prevailing exchange rates on the respective dates of the
+transactions.
+10 |
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Net realized and unrealized gains and losses on foreign currency transactions represent net gains and losses
+between trade and settlement dates on securities transactions, the acquisition and disposition of foreign
+currencies, and the difference between the amount of net investment income accrued and the U.S. dollar
+amount actually received. The portion of both realized and unrealized gains and losses on investments that
+results from fluctuations in foreign currency exchange rates is not separately disclosed but is included with
+net realized and unrealized gain/appreciation and loss/depreciation on investments.
+Tax Information. The Fund is treated as a separate taxpayer as provided for in the Internal Revenue Code of
+1986, as amended (the “Code”). It is the Fund’s policy to comply with the requirements of the Code, which
+are applicable to regulated investment companies, and to distribute all of its taxable income to the separate
+accounts of the Participating Insurance Companies which hold its shares.
+The Fund files tax returns with the Internal Revenue Service, the State of New York, and various other states.
+Each of the tax years in the four-year period ended December 31, 2025, remains subject to examination by
+taxing authorities.
+Distribution of Income and Gains. Distributions from net investment income of the Fund, if any, are declared
+and distributed to shareholders annually. Net realized gains from investment transactions, in excess of
+available capital loss carryforwards, would be taxable to the Fund if not distributed, and, therefore, will be
+distributed to shareholders at least annually. The Fund may also make additional distributions for tax purposes
+if necessary.
+The timing and characterization of certain income and capital gain distributions are determined annually in
+accordance with federal tax regulations which may differ from accounting principles generally accepted in the
+United States of America. These differences primarily relate to certain securities sold at a loss. As a result,
+net investment income (loss) and net realized gain (loss) on investment transactions for a reporting period
+may differ significantly from distributions during such period. Accordingly, the Fund may periodically make
+reclassifications among certain of its capital accounts without impacting the net asset value of the Fund.
+At December 31, 2025, the Fund’s components of distributable earnings (accumulated losses) on a net tax
+basis were as follows:
+Undistributed ordinary income*
+$
+671,623
+Undistributed long-term capital gains
+$ 12,094,275
+Net unrealized appreciation (depreciation) on investments
+$ 58,822,132
+At December 31, 2025, the aggregate cost of investments for federal income tax purposes was
+$55,840,219. The net unrealized appreciation for all investments based on tax cost was $58,822,132. This
+consisted of aggregate gross unrealized appreciation for all investments for which there was an excess of
+value over tax cost of $60,627,477 and aggregate gross unrealized depreciation for all investments for which
+there was an excess of tax cost over value of $1,805,345.
+In addition, the tax character of distributions paid to shareholders by the Fund is summarized as follows:
+Years Ended December 31,
+2025
+2024
+Distributions from ordinary income*
+$
+1,510,637
+$ 1,137,922
+Distributions from long-term capital gains
+$ 10,954,071
+$ 6,065,685
+*
+For tax purposes, short-term capital gain distributions are considered ordinary income distributions.
+Expenses. Expenses of the Trust arising in connection with a specific fund are allocated to that fund. Other
+Trust expenses which cannot be directly attributed to a fund are apportioned among the funds in the Trust
+based upon the relative net assets or other appropriate measures.
+Contingencies. In the normal course of business, the Fund may enter into contracts with service providers
+that contain general indemnification clauses. The Fund’s maximum exposure under these arrangements is
+unknown, as this would involve future claims that may be made against the Fund that have not yet been
+made. However, based on experience, the Fund expects the risk of loss to be remote.
+Other. Investment transactions are accounted for on a trade date plus one basis for daily net asset value
+calculations. However, for financial reporting purposes, investment transactions are reported on trade date.
+Interest income is recorded on the accrual basis. Dividend income is recorded on the ex-dividend date net of
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+11
+
+foreign withholding taxes. Realized gains and losses from investment transactions are recorded on an
+identified cost basis. Proceeds from litigation payments, if any, are included in net realized gain (loss)
+from investments.
+B. Purchases and Sales of Securities
+During the year ended December 31, 2025, purchases and sales of investment securities (excluding short-
+term investments) aggregated $29,907,252 and $46,831,182, respectively.
+C. Related Parties
+Management Agreement. Under the Investment Management Agreement with DWS Investment
+Management Americas, Inc. (“DIMA” or the “Advisor”), an indirect, wholly owned subsidiary of DWS Group
+GmbH & Co. KGaA (“DWS Group”), the Advisor directs the investments of the Fund in accordance with its
+investment objectives, policies and restrictions. The Advisor determines the securities, instruments and other
+contracts relating to investments to be purchased, sold or entered into by the Fund.
+Under the Investment Management Agreement with the Advisor, the Fund pays a monthly management fee
+based on the average daily net assets of the Fund, computed and accrued daily and payable monthly, at the
+following annual rates:
+First $250 million of the Fund’s average daily net assets
+.390%
+Next $750 million of such net assets
+.365%
+Over $1 billion of such net assets
+.340%
+Accordingly, for the year ended December 31, 2025, the fee pursuant to the Investment Management
+Agreement was equivalent to an annual rate (exclusive of any applicable waivers/reimbursements) of 0.39%
+of the Fund’s average daily net assets.
+For the period from January 1, 2025 through September 30, 2025, the Advisor had contractually agreed to
+waive its fees and/or reimburse certain operating expenses to the extent necessary to maintain the total
+annual operating expenses (excluding certain expenses such as extraordinary expenses, taxes, brokerage,
+interest expense and acquired fund fees and expenses) of Class A shares at 0.66%.
+Effective October 1, 2025 through September 30, 2026, the Advisor has contractually agreed to waive its
+fees and/or reimburse certain operating expenses to the extent necessary to maintain the total annual
+operating expenses (excluding certain expenses such as extraordinary expenses, taxes, brokerage, interest
+expense and acquired fund fees and expenses) of Class A shares at 0.67%.
+Administration Fee. Pursuant to an Administrative Services Agreement, DIMA provides most administrative
+services to the Fund. For all services provided under the Administrative Services Agreement, the Fund pays
+the Advisor an annual fee (“Administration Fee”) of 0.097% of the Fund’s average daily net assets, computed
+and accrued daily and payable monthly. For the year ended December 31, 2025, the Administration Fee was
+$107,268, of which $9,425 is unpaid.
+Service Provider Fees. DWS Service Company (“DSC“), an affiliate of the Advisor, is the transfer agent,
+dividend-paying agent and shareholder service agent for the Fund. Pursuant to a sub-transfer agency
+agreement between DSC and SS&C GIDS, Inc. (“SS&C”), DSC has delegated certain transfer agent,
+dividend-paying agent and shareholder service agent functions to SS&C. DSC compensates SS&C out of the
+shareholder servicing fee it receives from the Fund. For the year ended December 31, 2025, the amounts
+charged to the Fund by DSC aggregated $928, of which $156 is unpaid.
+Other Service Fees. Under an agreement with the Fund, DIMA is compensated for providing regulatory filing
+services to the Fund. For the year ended December 31, 2025, the amount charged to the Fund by DIMA
+included in the Statement of Operations under “Reports to shareholders” aggregated $545, of which
+$139 is unpaid.
+Trustees’ Fees and Expenses. The Fund paid retainer fees to each Trustee not affiliated with the Advisor, plus
+specified amounts to the Board Chairperson and to each committee Chairperson.
+Affiliated Cash Management Vehicles. The Fund may invest uninvested cash balances in DWS Central Cash
+Management Government Fund, an affiliated money market fund which is managed by the Advisor. DWS
+Central Cash Management Government Fund is managed in accordance with Rule 2a-7 under the 1940 Act,
+which governs the quality, maturity, diversity and liquidity of instruments in which a money market fund may
+invest and seeks to maintain a stable net asset value. The Fund indirectly bears its proportionate share of the
+12 |
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+expenses of its investment in DWS Central Cash Management Government Fund. DWS Central Cash
+Management Government Fund does not pay the Advisor an investment management fee.
+D. Ownership of the Fund
+At December 31, 2025, two Participating Insurance Companies were owners of record of 10% or more of
+the total outstanding Class A shares of the Fund, each owning 61% and 13%, respectively.
+E. Line of Credit
+The Fund and other affiliated funds (the “Participants”) share in a $345 million revolving credit facility
+provided by a syndication of banks. The Fund may borrow for temporary or emergency purposes, including
+the meeting of redemption requests that otherwise might require the untimely disposition of securities. The
+Participants are charged an annual commitment fee, which is allocated based on net assets, among each of
+the Participants. Interest is calculated at a daily fluctuating rate per annum equal to the sum of 0.10% plus
+the higher of the Federal Funds Effective Rate and the Overnight Bank Funding Rate, plus 1.25%. The Fund
+may borrow up to a maximum of 33 percent of its net assets under the agreement. The Fund had no
+outstanding loans at December 31, 2025.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+13
+
+Report of Independent Registered Public Accounting Firm
+To the Board ofTrustees of Deutsche DWS Variable Series I and Shareholders of DWS Core Equity VIP:
+Opinion on the Financial Statements
+We have audited the accompanying statement of assets and liabilities of DWS Core Equity VIP (the “Fund”) (one of the funds
+constituting Deutsche DWS Variable Series I (the “Trust”)), including the investment portfolio, as of December 31, 2025, and the
+related statement of operations for the year then ended, the statements of changes in net assets for each of the two years in
+the period then ended, the financial highlights for each of the five years in the period then ended and the related notes
+(collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material
+respects, the financial position of the Fund (one of the funds constituting Deutsche DWS Variable Series I) at December 31,
+2025, the results of its operations for the year then ended, the changes in its net assets for each of the two years in the period
+then ended and its financial highlights for each of the five years in the period then ended, in conformity with U.S. generally
+accepted accounting principles.
+Basis for Opinion
+These financial statements are the responsibility of the Trust’s management. Our responsibility is to express an opinion on the
+Fund’s financial statements based on our audits. We are a public accounting firm registered with the Public Company
+Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Trust in
+accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange
+Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether
+due to error or fraud. The Trust is not required to have, nor were we engaged to perform, an audit of the Trust’s internal control
+over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial
+reporting, but not for the purpose of expressing an opinion on the effectiveness of the Trust’s internal control over financial
+reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test
+basis, evidence regarding the amounts and disclosures in the financial statements. Our procedures included confirmation of
+securities owned as of December 31, 2025, by correspondence with the custodian, brokers, and others; when replies were not
+received from brokers and others, we performed other auditing procedures. Our audits also included evaluating the accounting
+principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial
+statements. We believe that our audits provide a reasonable basis for our opinion.
+We have served as the auditor of one or more investment companies in the DWS family of funds since at least 1979, but we are
+unable to determine the specific year.
+Boston, Massachusetts
+February 12, 2026
+14 |
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Tax Information
+(Unaudited)
+The Fund paid distributions of $1.40 per share from net long-term capital gains during its year ended
+December 31, 2025.
+Pursuant to Section 852 of the Internal Revenue Code, the Fund designates $13,359,000 as capital gain
+dividends for its year ended December 31, 2025.
+For corporate shareholders, 80% of the ordinary dividends (i.e., income dividends plus short-term capital
+gains) paid during the Fund’s fiscal year ended December 31, 2025, qualified for the dividends
+received deduction.
+Please consult a tax advisor if you have questions about federal or state income tax laws, or on how to
+prepare your tax returns. If you have specific questions about your account, please contact your
+insurance provider.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+15
+
+Advisory Agreement Board Considerations and Fee Evaluation
+The Board of Trustees (hereinafter referred to as the “Board” or “Trustees”) approved the renewal of DWS
+Core Equity VIP’s (the “Fund”) investment management agreement (the “Agreement”) with DWS
+Investment Management Americas, Inc. (“DIMA”) in September 2025.
+In terms of the process that the Board followed prior to approving the Agreement, shareholders should
+know that:
+— During the entire process, all of the Fund’s Trustees were independent of DIMA and its affiliates (the
+“Independent Trustees”).
+— The Board met frequently during the past year to discuss fund matters and dedicated a substantial
+amount of time to contract review matters. Over the course of several months, the Board reviewed
+extensive materials received from DIMA, independent third parties and independent counsel, including
+materials containing information on the Fund’s performance, fees and expenses, profitability, economies
+of scale and fall-out benefits.
+— The Board also received extensive information throughout the year regarding performance of the Fund.
+— The Independent Trustees regularly met privately with counsel to discuss contract review and
+other matters.
+— In connection with reviewing the Agreement, the Board also reviewed the terms of the Fund’s
+distribution agreement, administrative services agreement, transfer agency agreement, and certain other
+material service agreements.
+In connection with the contract review process, the Board considered the factors discussed below, among
+others. The Board also considered that DIMA and its predecessors have managed the Fund since its
+inception, and the Board believes that a long-term relationship with a capable, conscientious advisor is in the
+best interests of the Fund. The Board considered, generally, that shareholders chose to invest or remain
+invested in the Fund knowing that DIMA managed the Fund. DIMA is part of DWS Group GmbH & Co. KGaA
+(“DWS Group”). DWS Group is a global asset management business that offers a wide range of investing
+expertise and resources, including research capabilities in many countries throughout the world. DWS Group
+is majority-owned by Deutsche Bank AG, with approximately 20% of its shares publicly traded.
+As part of the contract review process, the Board carefully considered the fees and expenses of each DWS
+fund overseen by the Board in light of the fund’s performance. In many cases, this led to the negotiation and
+implementation of expense caps.
+While shareholders may focus primarily on fund performance and fees, the Board considers these and many
+other factors, including the quality and integrity of DIMA’s personnel and administrative support services
+provided by DIMA, such as back-office operations, fund valuations, and compliance policies and procedures.
+Nature, Quality and Extent of Services. The Board considered the terms of the Agreement, including the
+scope of advisory services provided under the Agreement. The Board noted that, under the Agreement,
+DIMA provides portfolio management services to the Fund and that, pursuant to a separate administrative
+services agreement, DIMA provides administrative services to the Fund. The Board considered the
+experience and skills of senior management and investment personnel and the resources made available to
+such personnel. The Board also considered the risks to DIMA in sponsoring or managing the Fund, including
+financial, operational and reputational risks, the potential economic impact to DIMA from such risks and
+DIMA’s approach to addressing such risks. The Board reviewed the Fund’s performance over short-term and
+long-term periods and compared those returns to various agreed-upon performance measures, including
+market index(es) and a peer universe compiled using information supplied by Morningstar Direct
+(“Morningstar”), an independent fund data service. The Board also noted that it has put into place a process
+of identifying “Funds in Review” (e.g., funds performing poorly relative to a peer universe), and receives
+additional reporting from DIMA regarding such funds and, where appropriate, DIMA’s plans to address
+underperformance. The Board believes this process is an effective manner of identifying and addressing
+underperforming funds. Based on the information provided, the Board noted that, for the one-, three- and
+five-year periods ended December 31, 2024, the Fund’s performance (Class A shares) was in the 4th quartile,
+2nd quartile and 3rd quartile, respectively, of the applicable Morningstar universe (the 1st quartile being the
+best performers and the 4th quartile being the worst performers). The Board also observed that the Fund has
+underperformed its benchmark in the one-, three- and five-year periods ended December 31, 2024.
+Fees and Expenses. The Board considered the Fund’s investment management fee schedule, operating
+expenses and total expense ratios, and comparative information provided by Broadridge Financial Solutions,
+16 |
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+Inc. (“Broadridge”) regarding investment management fee rates paid to other investment advisors by similar
+funds (1st quartile being the most favorable and 4th quartile being the least favorable). With respect to
+management fees paid to other investment advisors by similar funds, the Board noted that the contractual
+fee rates paid by the Fund, which include a 0.097% fee paid to DIMA under the Fund’s administrative
+services agreement, were lower than the median (1st quartile) of the applicable Broadridge peer group
+(based on Broadridge data provided as of December 31, 2024). The Board noted that the Fund’s
+Class A shares total (net) operating expenses were expected to be lower than the median (2nd quartile) of
+the applicable Broadridge expense universe (based on Broadridge data provided as of December 31, 2024,
+and analyzing Broadridge expense universe Class A (net) expenses less any applicable 12b-1 fees). The Board
+noted that the expense limitation agreed to by DIMA was expected to help the Fund’s total (net) operating
+expenses remain competitive. The Board considered the Fund’s management fee rate as compared to fees
+charged by DIMA to comparable DWS U.S. registered funds (“DWS Funds”) and considered differences
+between the Fund and the comparable DWS Funds. The information requested by the Board as part of its
+review of fees and expenses also included information about institutional accounts (including any sub-advised
+funds and accounts) and funds offered primarily to European investors (“DWS Europe Funds”) managed by
+DWS Group. The Board noted that DIMA indicated that DWS Group does not manage any institutional
+accounts or DWS Europe Funds comparable to the Fund.
+On the basis of the information provided, the Board concluded that management fees were reasonable and
+appropriate in light of the nature, quality and extent of services provided by DIMA.
+Profitability. The Board reviewed detailed information regarding revenues received by DIMA under the
+Agreement. The Board considered the estimated costs to DIMA, and pre-tax profits realized by DIMA, from
+advising the DWS Funds, as well as estimates of the pre-tax profits attributable to managing the Fund in
+particular. The Board also received information regarding the estimated enterprise-wide profitability of DIMA
+and its affiliates with respect to all fund services in totality and by fund. The Board reviewed DIMA’s
+methodology in allocating its costs to the management of the Fund. Based on the information provided, the
+Board concluded that the pre-tax profits realized by DIMA in connection with the management of the Fund
+were not unreasonable. The Board also reviewed certain publicly available information regarding the
+profitability of certain similar investment management firms. The Board noted that, while information
+regarding the profitability of such firms is limited (and in some cases is not necessarily prepared on a
+comparable basis), DIMA and its affiliates’ overall profitability with respect to the DWS Funds (after taking
+into account distribution and other services provided to the funds by DIMA and its affiliates) was in line with
+the overall profitability levels of most comparable firms for which such data was available.
+Economies of Scale. The Board considered whether there are economies of scale with respect to the
+management of the Fund and whether the Fund benefits from any economies of scale. The Board noted that
+the Fund’s investment management fee schedule includes fee breakpoints. The Board concluded that the
+Fund’s fee schedule represents an appropriate sharing between the Fund and DIMA of such economies of
+scale as may exist in the management of the Fund at current asset levels.
+Other Benefits to DIMA and Its Affiliates. The Board also considered the character and amount of other
+incidental or “fall-out” benefits received by DIMA and its affiliates, including any fees received by DIMA for
+administrative services provided to the Fund and any fees received by an affiliate of DIMA for transfer agency
+services provided to the Fund. The Board also considered benefits to DIMA related to brokerage and soft-
+dollar allocations, including allocating brokerage to pay for research generated by parties other than the
+executing broker dealers, which pertain primarily to funds investing in equity securities. In addition, the Board
+considered the incidental public relations benefits to DIMA related to DWS Funds advertising and cross-
+selling opportunities among DIMA products and services. The Board considered these benefits in reaching its
+conclusion that the Fund’s management fees were reasonable.
+Compliance. The Board considered the significant attention and resources dedicated by DIMA to its
+compliance processes. The Board noted in particular (i) the experience, seniority and time commitment of the
+individuals serving as DIMA’s and the Fund’s chief compliance officers; (ii) the substantial commitment of
+resources by DIMA and its affiliates to compliance matters; and (iii) ongoing efforts to enhance the
+compliance program.
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+|
+17
+
+Based on all of the information considered and the conclusions reached, the Board determined that the
+continuation of the Agreement is in the best interests of the Fund. In making this determination, the Board
+did not give particular weight to any single factor identified above and individual Independent Trustees may
+have weighed these factors differently in reaching their individual decisions to approve the continuation of
+the Agreement. The Board considered these factors over the course of numerous meetings, certain of which
+were in executive session with only the Independent Trustees and counsel present.
+VS1coreq-BFE2025
+18
+|
+Deutsche DWS Variable Series I —
+DWS Core Equity VIP
+
+VS1coreq-NCSRA

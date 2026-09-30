@@ -1,0 +1,3275 @@
+Daimler Truck Holding AG
+Annual Financial Statements 2024
+
+Daimler Truck Holding AG   
+Annual Financial Statements for the Financial 
+Year from January 1 to December 31, 2024
+The Management Report of Daimler Truck Holding AG is 
+combined with the Group Management Report in accordance 
+with Section 315 Subsection 5 of the German Commercial Code 
+(“HGB”) and is published in the Annual Report 2024. The Annual 
+Financial Statements and the management report of Daimler 
+Truck Holding AG for the financial year 2024, combined with the 
+Group management report, are filed with the operator of the 
+Federal Gazette and published in the Company Register. Daimler 
+Truck Holding AG’s Annual Report and the Annual Report for the 
+financial year 2024 can also be found on our website at 
+w www.daimlertruck.com/en/investors.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+2
+
+Table of Contents
+A |
+Balance Sheet of Daimler Truck 
+Holding AG 
+4
+B |
+Income Statement of Daimler Truck 
+Holding AG
+5
+C |
+Notes to the Financial Statements of 
+Daimler Truck Holding AG
+6-33
+Accounting policies and methods
+6-7
+Recognition and measurement
+8
+Notes to the Balance Sheet
+9-11
+1. Financial assets
+9
+2. Receivables and other assets
+9
+3. Prepaid expenses
+9
+4. Equity
+9-11
+5. Other provisions
+11
+6. Liabilities
+11
+Notes to the Income Statement
+12
+7. General administrative expenses
+12
+8. Other operating income
+12
+9. Income from profit and loss transfer 
+agreement
+12
+10. Interest income/expense, net
+12
+11. Income taxes
+12
+12. Net profit (for the year) and proposal for 
+appropriation of profit
+12
+Other Notes
+13-33
+13. Personnel expenses/Employees
+13
+14. Contingent liabilities
+13
+15. Other financial obligations
+13
+16. Subsequent liability
+13
+17. Legal proceedings
+14
+18. Events after the reporting period
+14
+19. Remuneration of the members of the 
+Board of Management and the Supervisory 
+Board
+14
+20. Disclosures pursuant to Section 160 
+Subsection 1 No. 8 of the AktG
+14-16
+21. Declaration of Compliance with the 
+German Corporate Governance Code
+16
+22. Members of the Board of Management 
+and their mandates
+17-19
+23. Members of the Supervisory Board and 
+their mandates
+20-24
+24. Statement of investments
+25-33
+D |
+Board of Management
+34
+E |
+Responsibility Statement
+35
+F |
+Independent Auditor’s Report
+36-39
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+3
+
+Balance Sheet of Daimler Truck Holding AG
+Assets
+Notes
+Dec. 31, 
+2024
+Dec. 31, 
+2023
+In millions of euros
+Non-current assets
+Financial assets
+(1)
+ 
+15,100  
+15,100 
+ 
+15,100  
+15,100 
+Current assets
+Receivables from subsidiaries
+(2)
+ 
+5,540  
+6,416 
+Other assets
+(2)
+ 
+234  
+154 
+ 
+5,774  
+6,570 
+Prepaid expenses
+(3)
+ 
+7  
+— 
+ 
+20,881  
+21,670 
+Equity and Liabilities
+Notes
+Dec. 31, 
+2024
+Dec. 31, 
+2023
+In millions of euros
+Equity
+Subscribed capital
+(4)
+ 
+792  
+823 
+Treasury Shares
+(4)
+ 
+-10  
+-18 
+Capital reserve
+(4)
+ 
+14,308  
+14,277 
+Retained earnings
+(4)
+ 
+3,140  
+666 
+Distributable profit
+(4)
+ 
+2,338  
+5,554 
+ 
+20,568  
+21,302 
+Provisions
+Tax provisions
+(5)
+ 
+115  
+98 
+Other provisions
+(5)
+ 
+25  
+26 
+ 
+140  
+124 
+Liabilities
+Trade payables
+(6)
+ 
+2  
+4 
+Liabilities to subsidiaries
+(6)
+ 
+157  
+221 
+Other liabilities
+(6)
+ 
+14  
+19 
+ 
+173  
+244 
+ 
+20,881  
+21,670 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+4
+
+Income Statement of Daimler Truck Holding AG 
+Notes
+ 
+2024  
+2023 
+In millions of euros
+General administrative expenses
+(7)
+ 
+-68  
+-73 
+Other operating Income
+(8)
+ 
+23  
+17 
+Income from profit and loss transfer agreement
+(9)
+ 
+1,558  
+5,511 
+Interest income/expense, net
+(10)
+ 
+170  
+45 
+Income Taxes
+(11)
+ 
+-40  
+-238 
+Profit after taxes
+ 
+1,643  
+5,262 
+Net profit (for the year)
+(12)
+ 
+1,643  
+5,262 
+Retained earnings
+ 
+726  
+292 
+Income from the capital reduction due to the acquisition of 
+treasury shares
+ 
+31  
+- 
+Expense from the acquisition of treasury shares
+ 
+-31  
+- 
+Transfer to the capital reserve in accordance with the provisions 
+on simplified capital reduction
+ 
+-31  
+- 
+Distributable profit
+ 
+2,338  
+5,554 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+5
+
+Notes to the Financial Statements of Daimler Truck Holding AG
+Accounting policies and methods
+Daimler Truck Holding AG (hereinafter also referred to as the 
+“Company”) is entered in the commercial register of the District 
+Court of Stuttgart under HRB 778600 with its business address 
+at 70771 Leinfelden-Echterdingen, Fasanenweg 10, Germany and 
+its registered office in Stuttgart, Germany.
+Due to its position as the listed parent company of the Daimler 
+Truck Group, Daimler Truck Holding AG is responsible for a wide 
+range of tasks, particularly in the external presentation of the 
+Daimler Truck Group. These tasks include, in particular, external 
+financial reporting and the fulfillment of other statutory 
+disclosure requirements and tax requirements placed on the tax 
+group. The Group-wide, central functions are based at the level of 
+Daimler Truck AG – which provides services to Daimler Truck 
+Holding AG. Daimler Truck Holding AG is thus structured as a 
+management company with the Board of Management and 
+provides management services in the Group. Below the level of 
+the Board of Management, the Company – apart from a few 
+employees with dual employment contracts – has no employees 
+of its own. The financing of the Daimler Truck Group is secured 
+centrally by Daimler Truck AG and other companies of the Group, 
+where appropriate, in conjunction with guarantees provided by 
+Daimler Truck Holding AG.
+The annual financial statements of Daimler Truck Holding AG are 
+prepared in accordance with accounting regulations under 
+commercial law and the supplementary provisions under stock 
+corporation law. Unless otherwise stated, the annual financial 
+statements are presented in millions of euros (€) and compared 
+with the figures at December 31, 2023.
+The income statement is prepared in accordance with the cost of 
+sales method, which is predominantly used internationally.
+As of December 31, 2024, Mercedes-Benz Group AG (formerly 
+Daimler AG), with registered offices in Stuttgart, Germany, 
+directly held 24.36% of 
+the voting rights in Daimler Truck Holding AG. In addition, 
+Mercedes-Benz Verwaltungsgesellschaft für Grundbesitz mbH 
+(formerly Daimler Verwaltungsgesellschaft für Grundbesitz mbH), 
+with registered office in Schönefeld, Germany, a wholly-owned 
+subsidiary of Mercedes-Benz Group AG, held 6.83% of the voting 
+rights in Daimler Truck Holding AG as of the reporting date. The 
+direct share of voting rights of Mercedes-Benz Group AG 
+attributed via Mercedes-Benz Verwaltungsgesellschaft für 
+Grundbesitz mbH as a subsidiary amounted to 31.19% of the 
+voting rights.
+In addition, voting rights in Daimler Truck Holding AG which were 
+transferred via Mercedes-Benz Pension Trust e.V. (formerly 
+Daimler Pension Trust e.V.) to an investment fund at the end of 
+January 2022 to secure pension liabilities of Mercedes-Benz 
+Group AG and Mercedes Benz AG were attributed to Mercedes-
+Benz Group AG in accordance with Section 34 of the German 
+Securities Trading Act (Wertpapierhandelsgesetz or “WpHG”). 
+According to the voting rights notification of January 28, 2022, 
+this affected 41.1 million shares, which now correspond to 5.19% 
+of the share capital of Daimler Truck Holding AG according to the 
+voting rights notification of Mercedes-Benz Pension Trust e.V. 
+dated November 06, 2024. The total number of voting rights of 
+Mercedes-Benz Group AG or attributed to Mercedes-Benz Group 
+AG under the WpHG as of December 31, 2024 amounted to a 
+total of 36.38% of the voting rights. The increase in the 
+percentages of voting rights compared to the previous year is 
+due to the reduction in share capital of Daimler Truck Holding AG 
+on November 05, 2024.
+In the context of the separation of the commercial vehicle 
+business from the Mercedes-Benz Group in the 2021 financial 
+year, Mercedes-Benz Group AG, Mercedes-Benz 
+Verwaltungsgesellschaft für Grundbesitz mbH and Daimler Truck 
+Holding AG entered into a deconsolidation agreement on August 
+06, 2021, as an annex to the spin-off and hive-down agreement, 
+which took effect upon entry of the spin-off and hive-down in the 
+commercial register of Mercedes-Benz Group AG as the 
+transferring legal entity on December 09, 2021. This is intended 
+to ensure that a de-facto majority of Mercedes-Benz Group AG at 
+the Annual General Meeting of Daimler Truck Holding AG does 
+not lead to a control relationship and a related full consolidation 
+obligation of Daimler Truck Holding AG at 
+Mercedes-Benz Group AG. To this end, the deconsolidation 
+agreement provides, among other things, that Mercedes-Benz 
+Group AG and Mercedes-Benz Verwaltungsgesellschaft für 
+Grundbesitz mbH undertake not to exercise their voting rights in 
+the election of two out of ten shareholder representatives to the 
+Supervisory Board of Daimler Truck Holding AG at the Annual 
+General Meeting of Daimler Truck Holding AG.
+Furthermore, the agreement provides that Mercedes-Benz Group 
+AG and Mercedes-Benz Verwaltungsgesellschaft für Grundbesitz 
+mbH may not exercise their voting rights in the event of an early 
+election or re-election of individual shareholder representatives 
+or in the event of the election of substitute members, insofar as a 
+resolution is adopted on the appointment or reappointment or 
+replacement of a Supervisory Board member in whose original 
+election they did not exercise their voting rights. This also applies 
+to resolutions on the dismissal of Supervisory Board members, 
+insofar as they did not exercise their voting rights in the election 
+of the relevant Supervisory Board members on the basis of the 
+deconsolidation agreement. With regard to the election of the 
+eight shareholder representatives for which Mercedes-Benz 
+Group AG and the Mercedes-Benz Verwaltungsgesellschaft für 
+Grundbesitz mbH are entitled to exercise their voting rights under 
+the deconsolidation agreement, the latter provides that 
+Mercedes-Benz Group AG and Mercedes-Benz 
+Verwaltungsgesellschaft für Grundbesitz mbH must submit 
+corresponding proposals to the Supervisory Board of the 
+Company in good time prior to the adoption of the resolution on 
+its election proposals. The deconsolidation agreement entered 
+into force upon the spin-off taking effect and has an initial term 
+until the conclusion of the fifth Annual General Meeting of 
+Daimler Truck Holding AG following the Annual General Meeting 
+of Daimler Truck Holding AG in 2022, and will be extended if it is 
+not duly terminated by either party. Subject to any approvals 
+under merger and investment control legislation, the agreement 
+will come to an end in accordance with Section 158 Subsection 2 
+of the German Civil Code (“BGB”) (condition subsequent) if the 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+6
+
+(in)direct share ownership of Mercedes-Benz Group AG in 
+Daimler Truck Holding AG falls below 20.00% of the shares.
+In the context of the Group separation agreement, which is also 
+an annex to the spin-off and hive-down agreement, which was 
+notarized on August 06, 2021, Mercedes-Benz Group AG had 
+committed not to sell any of the shares in Daimler Truck Holding 
+AG directly or indirectly held by Mercedes-Benz Group AG at the 
+time of execution of the spin-off and hive-down agreement 
+without the prior consent of Daimler Truck Holding AG until the 
+end of the day that falls 36 months after the first day of trading 
+of the shares in Daimler Truck Holding AG on the Frankfurt Stock 
+Exchange (“lock-up period”). The lock-up period expired on 
+December 11, 2024. Furthermore, Mercedes-Benz Group AG has 
+stated with regard to the manner of disposal to be sought that, in 
+the event of a disposal within the first six years after the first 
+stock exchange trading day of the shares in Daimler Truck 
+Holding AG, it will sell the relevant shares in Daimler Truck 
+Holding AG primarily in such a way that the disposal results in an 
+increase in the free float of Daimler Truck Holding AG, unless this 
+form of disposal would not be compatible with the duties of care 
+of the Board of Management of Mercedes-Benz Group AG 
+(Section 93 Subsection 1 of the AktG).
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+7
+
+Recognition and measurement
+Financial assets include shares in subsidiaries and are recognized 
+at cost or – if there is an indication of permanent impairment – at 
+the lower fair value. If the reasons for permanent impairment no 
+longer apply, the impairment is reversed.
+Receivables and other assets are measured at their nominal 
+values including all recognizable risks. If they have a remaining 
+time of more than one year and are non-interest bearing, they are 
+discounted to their present value on the reporting date. 
+Cash and cash equivalents are recognized at their nominal value.
+Deferred taxes are calculated on temporary differences between 
+the commercial and tax valuations of assets, liabilities and 
+prepaid expenses and deferred income as well as on tax loss 
+carryforwards. However, loss carryforwards are only recognized 
+to the extent that they can be offset against taxable income 
+within the statutory period of five years. Deferred taxes are 
+calculated based on the combined income tax rate of the fiscal 
+unit of Daimler Truck Holding AG, which is currently 29.825%.
+The combined income tax rate includes corporation tax, trade tax 
+and the solidarity surcharge. Deferred tax assets and liabilities 
+are netted off. An overall tax charge is recognized in the balance 
+sheet as deferred tax liabilities. In the event of overall tax relief, 
+recognition is waived in accordance with the capitalization 
+option. 
+The future tax relief is mainly due to temporary accounting 
+differences in connection with pensions and other provisions.
+Daimler Truck Holding AG is subject to the global minimum top-
+up tax under “Pillar Two”-legislation. In 2024, no corresponding 
+current tax expense was recognized.
+For the recognition and measurement of deferred taxes, 
+differences arising from the application of laws implementing the 
+global minimum taxation are not taken into account.
+Subscribed capital is recognized at nominal value. The 
+contributions were made to the capital reserve in accordance 
+with Section 272 Subsection 2 No. 1 of the HGB and Section 272 
+Subsection 2 No. 4 of the HGB.
+Other provisions are recognized at the settlement amount 
+deemed necessary in accordance with prudent judgment. 
+Expected future increases in prices and costs until settlement of 
+the liabilities is recognized. Provisions with a remaining term of 
+more than one year are discounted according to the net method 
+over that period using the average market interest rate of the 
+past seven financial years corresponding to their remaining term 
+and published by the German central bank (Deutsche 
+Bundesbank). If applicable, changes in the discount rate or 
+interest effects from a changed estimate of the remaining term 
+are presented under interest income/expense. 
+Liabilities are measured at their settlement amounts. Liabilities 
+denominated in foreign currencies with a remaining term of up to 
+one year are translated at the mean spot exchange rate on the 
+reporting date. Non-current liabilities denominated in foreign 
+currencies are translated at the average spot exchange rate on 
+the date the transaction is posted or the exchange rate on the 
+reporting date.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+8
+
+Notes to the Balance Sheet
+1 Financial Assets
+At €15,100 million, (2023: €15,100 million) financial investments 
+exclusively relate to shares in subsidiaries in accordance with 
+Section 271 Subsection 2 of the HGB.
+As of December 31, 2024, shares in subsidiaries relate only to 
+the 100% shareholding of Daimler Truck Holding AG in Daimler 
+Truck AG.
+2 Receivables and other assets
+The amount of €5,540 million (2023: €6,416 million) in 
+receivables from subsidiaries relate mainly to receivables 
+resulting from intra-Group payment transactions as part of the 
+central financial and liquidity management (€3,938 million (2023: 
+€873 million)) and from receivables from the profit transfer of 
+Daimler Truck AG (€1,558 million, 2023: €5,511 million). All 
+receivables have a remaining term of less than one year.
+As part of the centralized financial and liquidity management 
+system at Daimler Truck AG, the cash and cash equivalents of the 
+subsidiaries that have concluded a cash management agreement 
+with Daimler Truck AG are transferred to accounts at Daimler 
+Truck AG, where they are invested at interest. In this respect, 
+Daimler Truck AG serves as an “in-house bank” and maintains 
+inter-company financial accounts (IC accounts; separate 
+accounts for separate currencies, where applicable) on which the 
+credit balances or excess liabilities of the cash management 
+participants are recognized as a liability to or receivables from 
+subsidiaries. Daimler Truck Holding AG is also a participant in the 
+cash management system.
+Other assets in the amount of €234 million (2023: €154 million) 
+mainly include tax refund claims from value added tax (€119 
+million, 2023: €143 million).
+3 Prepaid expenses
+Prepaid expenses in the amount of €7 million (2023: €0 million) 
+mainly include prepayments for insurance benefits.
+4 Equity 
+Subscribed capital 
+As of December 31, 2024, the subscribed capital of Daimler 
+Truck Holding AG amounted to €791,868,289 (previous year: 
+€822,951,882). The share capital is divided into 791,868,289 no-
+par-value shares. In the reporting year, the share capital was 
+reduced from €822,951,882 to €791,868,289 with effect from 
+November 05, 2024 due to the redemption of treasury shares. 
+Pursuant to Section 67 Subsection 2 of the AktG, the rights and 
+obligations arising from shares exclusively exist in relation to the 
+Company for and against the persons and entities entered in the 
+share register. With the exception of own shares held by the 
+Company (“treasury shares”), from which the Company does not 
+derive any rights, all shares confer equal rights to their holders. 
+Each share grants its holder one vote and, with the exception of 
+any new shares not entitled to dividends, an equal share in the 
+profits in accordance with the dividend distribution approved by 
+the Annual General Meeting. The rights and obligations arising 
+from the shares are derived from applicable law, in particular 
+Sections 12, 53a et seq., 118 et seq. and 186 of the AktG. As of 
+December 31, 2024, the Company held 10,094,653 treasury 
+shares, which were purchased during the Company’s share 
+buyback program, starting from August 2023.
+Dividend
+The Annual General Meeting on May 15, 2024 decided to 
+distribute €1,528 million (€1.90 per dividend-bearing no-par-
+value share) to the shareholders from the 2023 distributable 
+profit of Daimler Truck Holding AG and – of the remaining 
+distributable profit - to allocate €3,300 million to other 
+retained earnings and to carry forward €726 million. The payment 
+of the dividend took place on Mai 21,2024.
+Treasury shares 
+By resolution of the Annual General Meeting of May 15, 2024 the 
+authorization of the Board of Management to acquire and use 
+treasury shares and to exclude subscription rights resolved by 
+the extraordinary General Meeting of November 05, 2021 and 
+limited until October 31, 2026 (hereinafter also referred to as the 
+2021 Authorization) was cancelled to the extent that it had not 
+been used by May 15, 2024. At the same time by resolution of 
+the Annual General Meeting of May 15, 2024,  the Board of 
+Management was authorized, with the consent of the Supervisory 
+Board, in the period until May 14, 2029, to acquire treasury 
+shares for any permissible purpose in an extent of up to 10.00% 
+of the share capital existing at the time of the adoption of the 
+resolution by the General Meeting or - if this value is lower - of 
+the share capital existing at the time of the exercise of this 
+authorization and to use them for any other legally permissible 
+purpose in addition to selling them on the stock exchange or 
+offering them to all shareholders in proportion to their 
+shareholdings (hereinafter also referred to as the 2024 
+Authorization). The shares can be used, among other things, with 
+the exclusion of shareholders’ subscription rights and with the 
+consent of the Supervisory Board, in the context of company 
+mergers and company acquisitions or can be sold against cash 
+payment to third parties at a price that is not significantly lower 
+than the stock-exchange price at the time of the sale. The 
+acquired shares can also be used to fulfill obligations from issued 
+convertible bonds and/or bonds with warrants and to be issued 
+to employees of the Company and employees and board 
+members of the affiliated companies within the meaning of 
+Sections 15 et seq. of the AktG. The treasury shares can also be 
+canceled.
+During the term of the authorization, the total of treasury shares 
+held by the Company used with the exclusion of shareholders’ 
+subscription rights cannot account for more than 10.00% of the 
+share capital at the time the authorization takes effect or – if 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+9
+
+lower – at the time it is exercised. If, during the term of the 
+authorization until it is exercised, use is made of other 
+authorizations to issue or sell shares in the Company or to issue 
+rights enabling or obliging subscription to shares in the Company 
+and shareholders’ subscription rights are excluded in this 
+process, this is to be counted towards the aforementioned 
+10.00% limit.
+The Board of Management was authorized, with the consent of 
+the Supervisory Board, to acquire treasury shares up to a 
+maximum of 5.00% of the share capital existing at the time this 
+authorization took effect, also with the use of derivatives (put and 
+call options, forward purchases or a combination of these 
+instruments), whereby the term of the derivatives cannot exceed 
+18 months and has to be chosen in such manner that the 
+acquisition of the shares in exercise of the derivative does not 
+occur after May 14, 2029.
+On the basis of the 2021 Authorization and with the approval of 
+the Supervisory Board, the Board of Management resolved a 
+share buyback program on July 10, 2023. On this basis, treasury 
+shares worth up to € 2 billion (not including ancillary acquisition 
+costs) are intended to be acquired on the stock exchange over a 
+period of up to 24 months. The share buyback shall be carried 
+out in two tranches. The repurchased shares shall be redeemed,  
+and the share capital reduced accordingly. Since the 
+aforementioned resolutions of the Annual General Meeting of 
+May 15, 2024, the share buyback program has been continued 
+on the basis of the 2024 Authorization on unchanged terms.
+From August 02, 2023 until August 30, 2024, 31,083,593  
+treasury shares with a value of € 1,032 million were acquired and 
+redeemed by way of capital reduction with effect from November 
+05, 2024 within the framework of the first tranche of the share 
+buyback program. Between September 17, 2024 and December 
+31, 2024, 10,094,653 shares with a value of €360 million were 
+acquired within the framework of the second tranche of the share 
+buyback program. The second tranche was not completed in the 
+reporting year. In total, 23,509,721 shares with a value of €835 
+million were acquired in the reporting year.
+The 10,094,653 treasury shares held by Daimler Truck Holding 
+AG as of December 31, 2024 correspond to a nominal amount of 
+€10.09 million or 1.27% of the share capital.
+Approved capital 
+By resolution of the Extraordinary General Meeting of November 
+5, 2021, which took effect on December 09, 2021, the Board of 
+Management was authorized, with the consent of the Supervisory 
+Board, to increase the share capital of Daimler Truck Holding AG 
+on one or more occasions on or before October 31, 2026, in 
+whole or in part, by up to a total of €329,180,752.00 by issuing 
+new no-par-value registered shares in exchange for cash 
+contributions and/or non-cash contributions and, with the 
+consent of the Supervisory Board, to exclude shareholders’ 
+subscription rights under certain conditions and within defined 
+limits (“Approved Capital 2021”). Under these defined conditions, 
+subscription rights can be excluded, among other things, in the 
+case of capital increases against non-cash contributions for the 
+purpose of acquiring a company and in the case of cash capital 
+increases if the issue price of the new shares is not significantly 
+lower than the stock-market price of the shares already listed.
+The sum of the shares issued against cash and/or non-cash 
+contributions under this authorization with the exclusion of 
+shareholders’ subscription rights may not account for more than 
+10.00% of the share capital at the time this authorization takes 
+effect. This limit will include shares that (i) are issued or sold 
+during the term of this authorization with the exclusion of 
+subscription rights, and (ii) are issued or can or must be issued to 
+service bonds with conversion or option rights or conversion or 
+option obligations, provided that the bonds are issued after this 
+authorization takes effect with the exclusion of shareholders’ 
+subscription rights.
+Approved Capital 2021 has not yet been utilized.
+Capital reserve
+The capital reserve as of December 31, 2024 amounted to 
+€14,308 million (2023: €14,277 million). Of this, €14,277 million 
+from the demerger and contribution transactions of the prior year 
+was allocated to the capital reserve in accordance with Section 
+272 Subsection 2 No. 1 of the HGB and € 31 million from the 
+increase in the capital reserve due to the withdrawal of treasury 
+shares in accordance with Section 237 (5) AktG.  
+Retained Earnings
+Other retained earnings as of December 31, 2024 amount to 
+€3,140 million (2023: €666 million). 
+Other retained earnings
+2024
+2023
+in millions of euros
+Balance at 1 January
+ 
+666  
+1,206 
+Purchase of treasury shares 
+-826
+-540
+Transfer to other retained earnings
+ 
+3,300  
+— 
+Balance at 31 December
+ 
+3,140  
+666 
+Performance Phantom Share Plans (PPSP) and Virtual Share-
+based Equity Plan (VSEP)
+The 2019, 2020 and 2021 PPSP tranches originally issued by 
+Mercedes-Benz Group AG (formerly Daimler AG) were transferred 
+to Daimler Truck Holding AG in 2021 under transfer agreements 
+and will be continued by the latter.  Daimler Truck Holding AG 
+also issued a 2022 PPSP tranche, which will be paid out in the 
+2026 financial year.
+A Share-based plan has also been set up since 2023 for every 
+financial year, and is called the Virtual Share-based Equity Plan 
+(VSEP).
+The PPSP/VSEP are measured as share-based remuneration 
+instruments at the respective fair value as at the balance sheet 
+date and subsequently paid out. Early, pro rata payment is only 
+possible under certain conditions when leaving the Group, e.g. 
+through the sale of a company or death.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+10
+
+Under the PPSP/VSEP, the Group grants phantom/virtual shares 
+to eligible board members, which entitle them to receive a cash 
+payment after four years. The payment amount is calculated by 
+multiplying the final number of phantom/virtual shares 
+(determined after three years depending on the degree of target 
+achievement in the performance period) by the price of the 
+Daimler Truck Holding AG share (determined as the average price 
+within a defined period after the end of the four-year plan term). 
+In addition, each board member undertakes to invest 25% of the 
+gross proceeds in real shares, and, starting with the issuance of 
+VSEP 2023 and the associated payout starting in 2027, 50%. The 
+phantom/virtual shares are entitled to a dividend during the 
+holding period in the amount of the dividend actually paid on 
+ordinary shares. 
+For the current PPSP until 2022, the target achievement is based 
+on the relative share performance, which measures the price 
+performance of a share index (total shareholder return) based on 
+a competitor group including Daimler Truck Holding AG, and the 
+return on sales (RoS) of Daimler Truck Holding AG compared to 
+the average revenue-weighted RoS of a competitor group.
+For the VSEP-tranches starting in 2023, the relative share price 
+development in relation to the MSCI World Industrials Index is 
+used as the financial performance criterion. The non-financial 
+performance criteria used are the reduction in CO2 emissions 
+from the Daimler Truck Group's production facilities and the 
+proportion of female managers among all managers at levels 1 to 
+4 of the Group. The financial performance criterion is weighted at 
+75% and the non-financial performance criteria are weighted 
+together at 25%. 
+For the current PPSP 2021 inclusive, the dividend equivalent, the 
+share performance and the RoS for the periods up to the spin-off 
+are determined on the basis of the performance of Mercedes-
+Benz Group AG (formerly Daimler AG) and for the periods after 
+the spin-off on the basis of the performance of Daimler Truck 
+Holding AG. In the period from the first trading day of Daimler 
+Truck Holding AG share on the December 10, 2021 to December 
+31,  2021, the average of the prices of the ordinary shares of 
+Mercedes-Benz Group AG and Daimler Truck Holding AG was 
+taken into account for the relative share performance. RoS 
+performance was determined until the end of 2021 on the basis 
+of Mercedes-Benz Group AG.
+5 Provisions 
+The tax provisions include the provisions for current taxes for the 
+2024 financial year. Other provisions include provisions for the 
+preparation and audit of the annual financial statements, other 
+legal obligations and personnel provisions.
+From December 2021 onwards, Daimler Truck Holding AG 
+granted its members of the Board of Management, except for 
+members of the Board of Management Martin Daum and John 
+O’Leary, individual contractual pension commitments. Daimler 
+Truck AG has taken on this debt on the basis of the debt 
+assumption agreement with responsibility for the obligations as 
+an additional debtor. As a result, both companies are jointly and 
+severally liable to the pension beneficiary. The risk of claims 
+being enforced against Daimler Truck Holding AG is estimated to 
+be improbable. Therefore, no provision is recognized.
+6 Liabilities 
+Liabilities to subsidiaries (€157 million, 2023: €221 million) 
+mainly relate to liabilities arising from the VAT fiscal unity (€157 
+million, 2023: €218 million). Other liabilities in the amount of €14 
+million (2023: €19 million) mainly include liabilities from 
+obligations for bonuses and Supervisory Board remuneration. All 
+liabilities have a remaining term of less than one year.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+11
+
+Notes to the Income Statement
+7 General administrative expenses
+General administrative expenses primarily comprise personnel 
+expenses and fees for expert opinions and consulting services 
+(including auditor's fees).
+In the Annual General Meeting held on May 15, 2024, KPMG AG 
+Wirtschaftsprüfungsgesellschaft, Berlin, was appointed as auditor 
+of the Company. In addition, KPMG AG 
+Wirtschaftsprüfungsgesellschaft was appointed as auditor of the 
+consolidated financial statements for the 2024 financial year and 
+as auditors for the review of interim financial reports for the 2025 
+financial year in the period until the next Annual General Meeting 
+in the 2025 financial year.
+The fees for audit services include the fees of KPMG AG 
+Wirtschaftsprüfungsgesellschaft for Daimler Truck Holding AG 
+and its subsidiaries, which are included in the expense. Audit 
+services relate to the audit of the consolidated financial 
+statements and the annual financial statements of Daimler Truck 
+Holding AG and its subsidiaries, as well as all services required 
+for the audit, including the audit of the accounting-related 
+internal control system and the accounting-related IT and 
+process audits. Other assurance services for the Company mainly 
+concerned necessary audits in connection with capital market 
+transactions. Other services mainly include consulting services.
+Due to the exempting group clause pursuant to Section 285 No. 
+17 of the HGB, the auditor’s fee is not published here.
+8 Other operating income
+Other operating income of €23 million (2023: €17 million) results 
+primarily from the onward charging of management services 
+rendered to the Group companies.
+9 Income from profit and loss transfer 
+agreement
+The income received in the amount of €1,558 million (2023: 
+€5,511 million) results from the control and profit and loss 
+transfer agreement with Daimler Truck AG.
+10 Interest income/expense, net
+Interest income of €170 million (2023: €45 million) mainly 
+results from interest income from subsidiaries.
+11 Income taxes
+The income taxes of €40 million (2023: €238 million) result 
+mainly from the current taxes of financial year 2024.
+12 Net profit (for the year) and proposal for 
+the appropriation of distributable profit
+The net profit of Daimler Truck Holding AG amounts to €1,643 
+million (2023: €5,262 million). For the 2024 financial year, the 
+Company reports a distributable profit of €2,338 million (2023: 
+€5,554 million). A proposal will be made to the Annual General 
+Meeting to distribute €1,486 million (€1.90 per no-par-value 
+share entitled to dividend) to the shareholders from the 2024 
+distributable profit of Daimler Truck Holding AG and to carry 
+forward the remaining distributable profit in the amount of €852 
+million.
+The distribution amount stated takes into account the 
+781,773,636 no-par-value shares entitled to dividends existing 
+on December 31, 2024. At this time, the Company held 
+10,094,653 treasury shares, from which it has no rights pursuant 
+to Section 71b German Stock Corporation Act (AktG). As the 
+number of shares entitled to dividends will change by the date of 
+the Annual General Meeting due to the ongoing share buyback 
+program, a resolution proposal that is amended accordingly will 
+be put to the vote at the Annual General Meeting. This resolution 
+proposal will still provide for a dividend of €1.90 per share 
+entitled to dividends. The amount of the total dividend payout will 
+be reduced according to the changed number of no-par-value 
+shares entitled to dividends. The amount of the profit carried 
+forward will be increased accordingly.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+12
+
+Other notes
+13 Personnel expenses / Employees 
+Salaries (€23 million, 2023: €28 million) include both salaries 
+and the expenses resulting from personnel provisions.
+As of the reporting date of December 31, 2024, Daimler Truck 
+Holding AG had three employees with dual employment contracts 
+below the level of the Board of Management.
+The Group-wide central functions are located at the level of 
+Daimler Truck AG (see the previous section “Accounting policies 
+and methods”).
+14 Contingent liabilities
+Contingent liabilities relate to potential future events, the 
+occurrence of which would lead to an obligation. At the reporting 
+date, the contingent liabilities of Daimler Truck Holding AG were 
+reviewed taking into account the information available about the 
+financial position, cash flows and profitability of the subsidiaries 
+and business partners with regard to the risk situation. The 
+Company therefore assessed the risk of possible claims on all the 
+listed obligations as unlikely. At December 31, 2024, contingent 
+liabilities total €25,615 million (2023: €21,322 million), in 
+particular from sureties and guarantees. Of this amount, €25,604 
+million (2023: €21,310 million) is attributable to subsidiaries in 
+Germany and abroad. They mainly comprise guarantees to 
+creditors of subsidiaries of Daimler Truck Holding AG, including 
+bonds and notes issued by those affiliated companies, as well as 
+liabilities to banks.
+Securities and guarantees amounting to €11 million (2023: €12 
+million) were issued in favor of third parties. 
+Daimler Truck Holding AG is jointly and severally liable with 
+Daimler Truck AG for these.
+In the external relationship, Daimler Truck AG and Daimler Truck 
+Holding AG are also jointly and severally liable for pension 
+obligations in respect of the pension beneficiaries. In the internal 
+relationship, Daimler Truck AG has taken over the fulfillment of 
+the pension obligations for the aforementioned pension 
+beneficiaries vis-à-vis Daimler Truck Holding AG. 
+15 Other financial obligations
+Other financial obligations total €36 million (thereof due in 2025: 
+€35 million). Subsidiaries account for €1 million (thereof due in 
+2025: €1 million).
+16 Subsequent liability
+Pursuant to Section 133 Subsections 1 and 3 of the German 
+Transformation Act (“UmwG”), Daimler Truck Holding AG is jointly 
+and severally liable with Mercedes-Benz Group AG for the 
+settlement of liabilities that remained with Mercedes-Benz Group 
+AG, which also include liabilities derived from subsequent 
+liability, and which were incurred prior to the demerger and hive-
+down on December 9, 2021 taking effect, if they fall due within 
+five years of the publication of the registration of the demerger 
+and hive-down in the Commercial Register of Mercedes-Benz 
+Group AG and claims against Daimler Truck Holding AG are 
+determined as a result thereof by a court or in another manner 
+described in Section 133 of the German Transformation Act, or a 
+judicial or official enforcement action is taken or applied for.
+The aforementioned period is ten years for pension obligations 
+based on the German Company Pensions Act (“BetrAVG”) 
+established prior to the effective date of the demerger and hive-
+down. Daimler Truck Holding AG does not expect any outflow of 
+liquidity in this respect due to the sufficiently available special-
+purpose assets of the other legal entities.
+The provisions in this context, in particular the procedure for 
+regulating internal compensation between the participating legal 
+entities, can be found in the Group separation agreement, Annex 
+to the demerger and hive-down agreement of August 6, 2021, 
+which took place on December 9, 2021 by entry in the 
+commercial register.
+On the basis of the current assessment, an actual cash outflow 
+from Daimler Truck Holding AG is considered unlikely.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+13
+
+17 Legal proceedings
+The subsidiaries of Daimler Truck Holding AG (especially Daimler 
+Truck AG) are confronted with various legal proceedings, claims 
+as well as governmental investigations and orders (legal 
+proceedings) on a large number of topics. These include, for 
+example, vehicle conformity and vehicle safety, dealer, supplier 
+and other contractual relationships, financial services, industrial 
+property rights (in particular patent infringement suits), warranty 
+claims, export controls and economic sanctions as well as 
+antitrust proceedings (including claims for damages). If the 
+outcome of such legal proceedings is negative for the Daimler 
+Truck Group or such legal proceedings are settled, the Group 
+may be required to pay substantial compensatory and punitive 
+damages or undertake service actions, recall campaigns, 
+monetary penalties or other costly actions. Legal proceedings 
+and related settlements may have an impact on the reputation of 
+Daimler Truck Holding AG and the Daimler Truck Group.
+18 Events after the reporting period
+No events of particular significance occurred after the end of the 
+financial year that could have a material impact on the 
+profitability, liquidity and capital resources as well as financial 
+position.
+19 Remuneration of the members of the 
+Board of Management and the Supervisory 
+Board
+Individualized information on the remuneration of the members of 
+the Board of Management and the Supervisory Board of Daimler 
+Truck Holding AG is disclosed in the Company's Remuneration 
+Report.
+Board of Management remuneration
+The members of the Board of Management of Daimler Truck 
+Holding AG are also members of the Board of Management of 
+Daimler Truck AG. Remuneration of the members of the Board of 
+Management for their work in Daimler Truck AG is compensated 
+by the remuneration paid by Daimler Truck Holding AG. 
+The total remuneration granted (excluding pension commitments) 
+for the Board of Management of Daimler Truck Holding AG within 
+the meaning of Section 285 No. 9a of the HGB is calculated for 
+the 2024 financial year from the total
+–
+of the fixed base remuneration for 2024
+–
+of the annual bonus for 2024 due in 2025
+–
+the Grant Value of the Long-Term Share-Based Compensation 
+(Virtual Share-based Equity Plan/ VSEP) at the grant date in 
+2024 (payment in 2028), and 
+–
+of taxable non-cash benefits and other fringe benefits in 
+2024.
+For the share-oriented remuneration component - the long-term 
+oriented VSEP – the respective future payout may deviate 
+significantly from the ones shown depending on the performance 
+of the Daimler Truck Holding share and the achievement of the 
+respective target parameters. The possible upward deviation is 
+limited by maximum limits. Total non-payment of the component 
+is also possible.
+For 2024, €7.3 million (2023: €5.9 million) is attributable to 
+fixed, i.e. non-performance-related and €5.1 million (2023: €9.2 
+million) to short-term performance-related variable remuneration 
+components (annual bonus) as well as long-term variable share-
+based remuneration (VSEP) with a fair value of € 10.8 million 
+(2023: €9.5 million) and 287.134 issued virtual shares (2023: 
+291,953 shares). This corresponds to a total of €23.2 million for 
+2024 (2023: €24.6 million). The members of the Board of 
+Management are entitled to a company pension scheme. There is 
+a contract with Daimler Truck AG for the assumption of debt with 
+the assumption of performance. See section “Other provisions”.
+Payments made to former members of the Board of Management 
+and their surviving dependents amounted to €807 thousand 
+(2023: €0 thousand).
+In 2024, no advances or loans were granted or waived to 
+members of the Board of Management of Daimler Truck Holding 
+AG. 
+Supervisory Board remuneration
+The total remuneration for the members of the Supervisory Board 
+of Daimler Truck Holding AG was €3.7 million in 2024 (2023: 
+€3.7 million). The remuneration of the members of the 
+Supervisory Board does not contain any performance-related 
+variable components. With the exception of the remuneration of 
+the company employee representatives from the respective 
+employment relationship, no remuneration was granted to 
+members of the Supervisory Board in financial year 2024 for 
+services rendered personally outside of committee activities, in 
+particular for consulting and agency services. 
+In 2024, no advances or loans were granted or waived to 
+members of the Supervisory Board of Daimler Truck Holding AG.
+As part of their work for other companies in the Daimler Truck 
+Group, the members of the Supervisory Board did not receive any 
+remuneration from these companies for 2024.
+20 Disclosures pursuant to Section 160 
+Subsection 1 No. 8 of the AktG
+Up to the 2024 reporting date, we have received the following 
+notifications in accordance with Sections 33 et seqq. of the 
+WpHG regarding investments in the Company, which are 
+published as follows in accordance with Section 40 Subsection 1 
+of the WpHG. If the thresholds mentioned in Section 33 
+Subsection 1 of the WpHG are reached, exceeded or fallen short 
+of several times by a notifying party, only the last notification that 
+led to the threshold being exceeded, fallen short of or reached is 
+listed in each case. Changes in the amount of voting rights 
+announced after November 5, 2024 may be due to the reduction 
+in the share capital of Daimler Truck Holding AG on that date.
+BlackRock, Inc., Wilmington, Delaware, United States of 
+America (USA), notified us on December 28, 2024 pursuant to 
+Section 33 Subsection 1 in conjunction with Section 38 of the 
+WpHG that its share of instruments subject to notification in 
+relation to Daimler Truck Holding AG, Fasanenweg 10, 70771 
+Leinfelden-Echterdingen, Germany, exceeded the threshold of 3% 
+of the voting rights on December 20, 2024 and that the total 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+14
+
+percentage of voting rights from shares and instruments as of 
+this date was 3.54% (28,069,462 voting rights of 791,868,289). 
+Of these, 2.90% (equivalent to 23,002,945 voting rights of 
+791,868,289) were attributed to BlackRock, Inc., Wilmington, 
+Delaware, United States of America (USA) pursuant to Section 34 
+of the WpHG. These were attributed to voting rights from shares. 
+The remaining share of 0.64% (corresponding to 5,066,517 voting 
+rights of 791,868,289) in voting rights was related to instruments 
+pursuant to Section 38 Subsection 1 No. 1 of the WpHG and 
+Section 38 Subsection 1 No. 2 of the WpHG.*
+Mercedes-Benz Pension Trust e.V., Stuttgart, Germany, notified 
+us on November 06, 2024 pursuant to Section 33 Subsection 1 
+of the WpHG that its percentage of voting rights in Daimler Truck 
+Holding AG, Fasanenweg 10, 70771 Leinfelden-Echterdingen, 
+Germany, exceeded the threshold of 5% on November 05, 2024 
+and as of this date amounted to 5.19% (corresponding to 
+41,100,000 voting rights of a total of 791,868,289).These were 
+attributed to voting rights from shares and were attributed to 
+Mercedes-Benz Pension Trust e.V., Stuttgart, Germany, in 
+accordance with Section 34 of the WpHG, with 3% or more of the 
+voting rights attributed to Internationale 
+Kapitalanlagegesellschaft mit beschränkter Haftung.
+The People’s Republic of China, Beijing, China, notified us on 
+September 14, 2023 pursuant to Section 33 Subsection 1 of the 
+WpHG that its share of instruments subject to notification in 
+relation to Daimler Truck Holding AG, Fasanenweg 10, 70771 
+Leinfelden-Echterdingen, Germany, fell below the threshold of 3% 
+of the voting rights on September 13, 2023 and that the total 
+percentage of voting rights from shares and instruments as of 
+this date was 2.897% (23,840,917 voting rights of 822,951,882). 
+The voting rights were attributed to the People’s Republic of 
+China to voting rights from shares pursuant to Section 34 of the 
+WpHG.*
+Harris Associates L.P., Wilmington, Delaware, United States of 
+America (USA), notified us on June 16, 2023 pursuant to Section 
+33 Subsection 1 that its percentage of voting rights in Daimler 
+Truck Holding AG, Fasanenweg 10, 70771 Leinfelden-
+Echterdingen, Germany, fell below the threshold of 3% on June 
+14, 2023 and that the percentage of voting rights as of this date 
+was 2.997% (24,663,342 voting rights out of a total of 
+822,951,882). The voting rights were attributed to Harris 
+Associates L.P., Wilmington, Delaware, United States of America 
+(USA) to voting rights from shares in accordance with Section 34 
+of the WpHG.*
+The State of Kuwait, Kuwait City, Kuwait, notified us pursuant to 
+section 33 Subsection 1 of the WpHG on April 26, 2023 that the 
+percentage of voting rights of the State of Kuwait in Daimler 
+Truck Holding AG, Fasanenweg 10, 70771 Leinfelden-
+Echterdingen, Germany, fell below the threshold of 5% on April 4, 
+2023, and on that date held 4.98% of the voting rights 
+(corresponding to 40,948,938 voting rights out of 822,951,882). 
+Of these voting rights, 4.80% (corresponding to 39,518,335 
+voting rights out of 822,951,882) were attributed to the State of 
+Kuwait, Kuwait City, Kuwait, to voting rights from shares in 
+accordance with Section 34 of the WpHG. The remaining share of 
+0.17% (corresponding to 1,430,603 voting rights of 822,951,882) 
+in voting rights was related to instruments in accordance with 
+Section 38 Subsection 1 No. 1 of the WpHG.*
+The Bank of America Corporation, Wilmington, Delaware, 
+United States of America (USA) notified us on March 17, 2023 in 
+accordance with Section 33 Subsection 1 in conjunction with 
+Section 38 of the WpHG that its share of instruments subject to 
+notification in relation to Daimler Truck Holding AG, Fasanenweg 
+10, 70771 Leinfelden-Echterdingen, Germany, fell below the 
+threshold of 3% on March 14, 2023 and that the total of voting 
+rights and instruments as of this date was 1.27% (10,472,284 
+voting rights of 822,951,882). Of this, 0.67% (corresponding to 
+5,546,913 voting rights of 822,951,882) was attributed to the 
+Bank of America Corporation, Wilmington, Delaware, United 
+States of America (USA) pursuant to Section 34 of the WpHG. 
+These were attributed to voting rights from shares. A further 
+0.18% (corresponding to 1,494,581 voting rights of 822,951,882) 
+or 0.42% (corresponding to 3,430,790 voting rights of 
+822,951,882) was attributed to voting rights in connection with 
+instruments pursuant to Section 38 Subsection 1 No. 1 or 
+Subsection 1 No. 2 of the WpHG.*
+Internationale Kapitalanlagegesellschaft mit beschränkter 
+Haftung, Düsseldorf, Germany, notified us on October 04, 2022 
+pursuant to Sec. 33 Subsection 1 of the WpHG that its share of 
+voting rights in Daimler Truck Holding AG, Fasanenweg 10, 
+70771 Leinfelden-Echterdingen, Germany, exceeded the 
+threshold of 5% on October 01, 2022 due to the assumption of a 
+management mandate and amounted to 5.07% (41,731,092 
+voting rights out of 822,951,882) as of that date. Of this, 5.07% 
+(corresponding to 41,702,809 voting rights of 822,951,882) was 
+attributed to Internationale Kapitalanlagegesellschaft mit 
+beschränkter Haftung, Düsseldorf, Germany, to voting rights from 
+shares in accordance with Section 34 of the WpHG. A further 
+0.00% (corresponding to 28,283 voting rights of 822,951,882) 
+was attributed to voting rights in connection with instruments in 
+accordance with Section 38 Subsection 1 No. 2 of the WpHG.*
+Morgan Stanley, Wilmington, Delaware, United States of 
+America (USA), notified us on April 04, 2022 pursuant to Section 
+33 Subsection 1 in connection with Section 38 of the WpHG that 
+its holding of notifiable instruments in relation to Daimler Truck 
+Holding AG, Fasanenweg 10, 70771 Leinfelden-Echterdingen, 
+Germany, fell below the threshold of 5% on March 29, 2022 and 
+that the total of voting rights and instruments amounted to 4.61% 
+(37,946,625 voting rights out of 822,951,882) as of that date. Of 
+these, 0.13% (equivalent to 1,099,238 voting rights of 
+822,951,882) were attributed to Morgan Stanley, Wilmington, 
+Delaware, United States of America (USA) pursuant to Section 34 
+of the WpHG. These were attributed to voting rights from shares. 
+A further 0.57% (corresponding to 4,704,823 voting rights of 
+822,951,882) or 3.91% (corresponding to 32,142,564 voting 
+rights of 822,951,882) was attributed to voting rights in 
+connection with instruments pursuant to Section 38 Subsection 
+1 No. 1 and Section 38 Subsection 1 No. 2 of the WpHG.*
+Mercedes-Benz Group AG (formerly Daimler AG), Stuttgart, 
+Germany, by way of a voluntary Group notification, notified us on 
+January 28, 2022 pursuant to Section 33 Subsection 1 of the 
+WpHG that its percentage of voting rights in Daimler Truck 
+Holding AG, Fasanenweg 10, 70771 Leinfelden-Echterdingen, 
+Germany, continued to amount to 35.00% on January 25, 2022 
+(288,033,159 voting rights of a total of 822,951,882). These 
+were attributed to voting rights from shares. Of these, 23.44% 
+(corresponding to 192,886,002 voting rights of 822,951,882) 
+was held directly and a further 11.56% (corresponding to 
+95,147,157 voting rights of 822,951,882) was attributed in 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+15
+
+accordance with Section 34 WpHG. In this case, 3% or more of 
+the voting rights (6.57%) was attributed to Mercedes-Benz Group 
+AG, Stuttgart, Germany, from Mercedes-Benz 
+Verwaltungsgesellschaft für Grundbesitz mbH (formerly Daimler 
+Verwaltungsgesellschaft für Grundbesitz mbH), an indirect 
+subsidiary of Mercedes-Benz Group AG, and 3% or more of the 
+voting rights (4.99%) from Société Générale Securities Services 
+GmbH; of this 4.99%, a share of 4.58% was attributed to 
+Mercedes-Benz Group AG, Stuttgart, Germany, via Mercedes-
+Benz AG, a direct subsidiary of Mercedes-Benz Group AG.
+* The notification was received in the English language
+After the 2024 reporting date, the Company received
+further notifications pursuant to Section 33 Subsection 1
+of the WpHG which, pursuant to Section 40 Subsection 1
+of the WpHG, were published as follows:
+BlackRock, Inc., Wilmington, Delaware, United States of 
+America (USA), notified us on March 06, 2025 pursuant to 
+Section 33 Subsection 1 in conjunction with Section 38 of the 
+WpHG that its share of instruments subject to notification in 
+relation to Daimler Truck Holding AG, Fasanenweg 10, 70771 
+Leinfelden-Echterdingen, Germany, exceeded the threshold of 3% 
+of the voting rights on March 03, 2025 and that the total 
+percentage of voting rights from shares and instruments as of 
+this date was 3.45% (27,299,868 voting rights of 791,868,289). 
+Of these, 3.35% (equivalent to 26,501,065 voting rights of 
+791,868,289) were attributed to BlackRock, Inc., Wilmington, 
+Delaware, United States of America (USA) pursuant to Section 34 
+of the WpHG. These were attributed to voting rights from shares. 
+The remaining share of 0.10% (corresponding to 798,803 voting 
+rights of 791,868,289) in voting rights was related to instruments 
+pursuant to Section 38 Subsection 1 No. 1 of the WpHG and 
+Section 38 Subsection 1 No. 2 of the WpHG.*
+All of the notifications pursuant to Sections 33 et seqq. WpHG 
+received by the Company can be viewed on the Company’s 
+website.
+It should be noted that the amount of the shareholding may have 
+changed within the respective thresholds after the respective 
+notification without the shareholders being obliged to report this 
+to the Company.
+21 Declaration of compliance with the 
+German Corporate Governance Code
+The declaration pursuant to Section 161 of the AktG was made 
+by the Board of Management and the Supervisory Board and is 
+available on the Internet for at least five years at 
+w www.daimlertruck.com/en/company/corporate-governance/
+declarations-reports.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+16
+
+22 Members of the Board of Management and their mandates
+Members of the Board of Management
+Supervisory board memberships/directorships
+Karin Rådström
+Chairwoman of the Board of Management of Daimler Truck 
+Holding AG
+(since October 1, 2024)
+Chairwoman of the Board of Management of Daimler Truck 
+AG
+(since October 1, 2024)
+Europe and Latin America regions and Mercedes-Benz 
+Trucks brand
+(until November 30, 2024)
+Member of the Board of Management of Daimler Truck AG
+(until September 30, 2024)
+Member of the Board of Management of Daimler Truck 
+Holding AG
+(until September 30, 2024)
+Appointed until 2029
+Internal directorships
+Torc Robotics Inc. (since January 2025) 
+External directorships
+Beijing Foton Daimler Automotive Co., Ltd. (since October 
+2024) 
+cellcentric GmbH & Co. KG – Member of the Advisory Board 
+(since January 2025) 
+Piab AB (until April 2024) 
+Ouster, Inc. – Member of the Advisory Board (since 
+November 2024, before member of the Board of Directors) 
+Commercial Vehicle Charging Europe B.V. (until March 
+2024) 
+Atlas CopCo AB (since April 2024) 
+Martin Daum
+Chairman of the Board of Management of Daimler Truck 
+Holding AG
+(until September 30, 2024)                                        
+Chairman of the Board of Management of Daimler Truck AG
+(until September 30, 2024)
+Finance and Controlling
+(until March 31, 2024)
+Financial Services, IT & Daimler Buses
+(until December 31, 2024)
+Member of the Board of Management of Daimler Truck 
+Holding AG
+(until December 31, 2024)
+Member of the Board of Management of Daimler Truck AG
+(until December 31, 2024)
+Appointed until 2025*
+*Resigned from the Board of Management with effect 
+from December 31, 2024 
+Internal directorships
+Torc Robotics Inc. (until December 2024)
+External directorships
+cellcentric GmbH & Co. KG – Member of the Advisory Board 
+(until December 2024)
+Beijing Foton Daimler Automotive Co., Ltd. (until December 
+2024) 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+17
+
+Karl Deppen
+FUSO and RIZON
+Member of the Board of Management of Daimler Truck AG
+Appointed until 2029
+Internal directorships
+None
+External directorships
+Beijing Foton Daimler Automotive Co., Ltd.
+Dr. Andreas Gorbach
+Truck Technology
+Member of the Board of Management of Daimler Truck AG
+Appointed until 2029
+Internal directorships
+None
+External directorships
+cellcentric GmbH & Co. KG
+Jürgen Hartwig
+Human Resources
+Member of the Board of Management and Labor Director of 
+Daimler Truck AG 
+Appointed until 2026
+Internal directorships
+Daimler Buses GmbH - Chairman of the Supervisory Board 
+(until September 2024)
+External directorships
+European School of Management and Technology Berlin 
+(ESMT GmbH)
+John O'Leary
+Daimler Truck North America
+Member of the Board of Management of Daimler Truck AG
+Appointed until 2026
+Internal directorships
+Torc Robotics Inc. – Chairman
+External directorships
+Greenlane Infrastructure LLC - Chairman 
+Portland General Electric (since January 2024)                
+Amplify Cell Technologies (since June 2024)
+Resigned from the Board of Management with effect from 
+June 30, 2024:
+Stephan Unger
+Financial Services 
+Member of the Board of Management of Daimler Truck AG
+Appointed until 2024
+Internal directorships
+None
+External directorships 
+None
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+18
+
+Appointed to the Board of Management with effect from 
+April 1, 2024:
+Eva Scherer
+Chief Financial Officer
+Member of the Board of Management of Daimler Truck AG 
+Appointed until 2027
+Internal directorships
+Daimler Buses GmbH – Chairwoman (since September 
+2024)                                                                                      
+Torc Robotics Inc. (since February 2025)
+External directorships
+none
+Appointed to the Board of Management with effect from 
+December 1, 2024:
+Achim Puchert  
+Mercedes-Benz Trucks and BharatBenz*
+Member of the Board of Management of Daimler Truck AG 
+Appointed until 2027
+Internal directorships
+None
+External directorships 
+Beijing Foton Daimler Automotive Co., Ltd. (since February 
+2025) 
+*Designation of responsibility until December 31, 2024: 
+Europe and Latin America regions and Mercedes-Benz 
+Trucks brand
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+19
+
+23 Members of the Supervisory Board and their mandates
+Members of the Supervisory Board
+Supervisory board memberships/directorships
+Joe Kaeser
+Chairman of the Supervisory Board of Daimler Truck Holding 
+AG 
+Chairman of the Presidential and Remuneration Committee, 
+the Mediation Committee and the Nomination Committee
+Chairman of the Supervisory Board of Siemens Energy AG
+Elected until 2026 
+Daimler Truck AG – Chairman**
+Siemens Energy AG – Chairman
+Siemens Energy Management GmbH – Chairman
+Linde plc
+Renata Jungo Brüngger
+Member of the Nomination Committee
+Member of the Board of Management of Mercedes-Benz Group 
+AG
+Member of the Board of Management of Mercedes-Benz AG
+Elected until 2026
+Daimler Truck AG**
+Münchener Rückversicherungs-Gesellschaft AG
+Jacques Esculier
+Former Chairman of the Board of Management and CEO of 
+WABCO Holdings Inc. 
+Elected until 2026
+Daimler Truck AG**
+S&P Global Inc. 
+Prof. Dr. h.c. Martin Richenhagen
+Former President and Chief Executive Officer of the
+AGCO Corporation
+Elected until 2026
+Daimler Truck AG**
+Linde plc (until April 2024)
+PPG Industries, Inc.
+Stihl Holding AG & Co. KG
+AXIOS Sustainable Growth Acquisition Corp. - Chairman 
+Marie Wieck
+Member of the Presidential and Remuneration Committee, the 
+Mediation Committee and the Nomination Committee
+Executive Partner at Ethos Capital
+Former General Manager at IBM Blockchain 
+Elected until 2026
+Daimler Truck AG**
+Intapp Inc.                                                                 
+Uptake Technologies Inc. (until January 2024)
+Cadena Platforms LLC (since January 2024)
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+20
+
+Harald Wilhelm
+Member of the Audit Committee
+Member of the Board of Management of Mercedes-Benz Group 
+AG
+Member of the Board of Management of Mercedes-Benz AG
+Elected until 2026
+Daimler Truck AG**
+Mercedes-Benz Mobility AG – Chairman
+Mercedes-AMG GmbH
+BAIC Motor Corporation Ltd. (until March 2024)
+Akihiro Eto
+Member of the Audit Committee
+Former Member of the Board of Management, President and 
+Global Chief Operating Officer of Bridgestone Corporation
+Elected until 2026
+Daimler Truck AG**
+Panasonic Holdings Corporation
+Mitsubishi Chemical Group Corporation (since June 
+2024)
+John Krafcik
+Former Chief Executive Officer of Waymo LLC
+Elected until 2026
+Daimler Truck AG**                                                   
+Rivian Automotive Inc.
+Michael Brosnan
+Chairman of the Audit Committee  
+Former Chief Financial Officer of Fresenius Medical Care AG & 
+Co. KGaA 
+Elected until 2026
+Daimler Truck AG** 
+MorphoSys AG (until May 2024)
+CureVac SE                                                                   
+CureVac N.V.
+Laura Ipsen
+President and Chief Executive Officer of 
+Ellucian Company L.P. 
+Elected until 2026
+Daimler Truck AG** 
+Michael Brecht*
+Deputy Chairman of the Supervisory Board
+Deputy Chairman of the Presidential and Remuneration 
+Committee, the Mediation Committee and the Audit 
+Committee 
+Chairman of the Group and General Works Council of Daimler 
+Truck AG 
+Chairman of the Works Council of the Mercedes-Benz Plant in 
+Gaggenau 
+Elected until 2027
+Daimler Truck AG** - Deputy Chairman
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+21
+
+Bruno Buschbacher* 
+Chairman of the General Works Council of Daimler Buses 
+GmbH                                                                               
+Member of the General Works Council of Daimler Truck AG 
+Chairman of the Works Council of the Mercedes-Benz plant in 
+Mannheim 
+Elected until 2027
+Daimler Truck AG** 
+Daimler Buses GmbH**
+Jörg Lorz*
+Member of the General Works Council of Daimler Truck AG
+Chairman of the Works Council of the Mercedes-Benz Kassel 
+Plant 
+Elected until 2027
+Daimler Truck AG**
+Thomas Zwick*
+Member of the Audit Committee 
+Deputy Chairman of the General Works Council of Daimler 
+Truck AG 
+Chairman of the Works Council of the plant in Wörth
+Elected until 2027
+Daimler Truck AG**
+Jörg Köhlinger*
+Member of the Audit Committee 
+District Manager Central of IG Metall (Metalworkers’ Union)  
+Elected until 2027
+Daimler Truck AG** 
+Stahl-Holding-Saar GmbH & Co. KGaA 
+DHS - Dillinger Hütte Saarstahl AG 
+Saarstahl Aktiengesellschaft
+ROGESA Roheisengesellschaft Saar mbH 
+Aktien-Gesellschaft der Dillinger Hüttenwerke 
+(Société Anonyme des Forges et Aciéries de Dilling)
+Andrea Reith*
+Chairwoman of the Works Council of the Daimler Buses GmbH 
+plant Ulm/Neu-Ulm 
+Deputy Chairwoman of the General Works Council of Daimler 
+Buses GmbH
+Elected until 2027
+Daimler Truck AG** 
+Daimler Buses GmbH** - Deputy Chairwoman
+Carmen Klitzsch-Müller*
+Chairwoman of the Works Council of the headquarters of 
+Daimler Truck AG, Stuttgart Location
+Member of the General Works Council of Daimler Truck AG 
+Elected until 2027
+Daimler Truck AG** 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+22
+
+Members of the Supervisory Board
+Supervisory board memberships/directorships
+Andrea Seidel*
+Deputy Chairwoman of the Group Spokespersons’ Committee 
+and the General Spokespersons’ Committee of Senior 
+Executives of Daimler Truck AG. 
+Chairwoman of the Management Representative Committee of 
+Senior Executives of Daimler Truck Leinfelden-Echterdingen 
+headquarters.
+Elected until 2027
+Daimler Truck AG** 
+Shintaro Suzuki*
+President of the Mitsubishi Fuso Workers’ Union
+Judicially appointed since October 16, 2023
+Daimler Truck AG** 
+Appointed to the Supervisory Board:
+Barbara Resch* 
+Member of the Presidential and Remuneration Committee and 
+the Mediation Committee
+District Manager of IG Metall in Baden-Württemberg
+Judicially appointed since January 1, 2025
+Daimler Truck AG** (since January 2025)
+Mercedes-Benz Group AG
+Mercedes-Benz AG
+ZF Friedrichshafen AG
+Rheinmetall AG
+Resigned from the Supervisory Board:
+Roman Zitzelsberger*
+Member of the Presidential and Remuneration Committee and 
+the Mediation Committee
+District Manager of IG Metall in Baden-Württemberg 
+Elected until 2027
+*Resigned from the Supervisory Board with effect from 
+December 31, 2024
+Daimler Truck AG** (until December 2024)
+Mercedes-Benz Group AG (until December 2024) 
+Mercedes-Benz AG (until December 2024)
+HWK 1365 SE (since June 2024)
+ZF Friedrichshafen AG - Deputy Chairman (until 
+December 2024)
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+23
+
+Committees of the Supervisory Board:
+Presidential and Remuneration Committee 
+Joe Kaeser – Chairman 
+Michael Brecht* 
+Marie Wieck 
+Roman Zitzelsberger* (until December 2024)
+Barbara Resch* (since January 2025)
+Audit Committee 
+Michael Brosnan – Chairman 
+Michael Brecht* 
+Akihiro Eto 
+Jörg Köhlinger* 
+Harald Wilhelm 
+Thomas Zwick*
+Nomination Committee 
+Joe Kaeser – Chairman 
+Renata Jungo Brüngger 
+Marie Wieck
+Mediation Committee
+Joe Kaeser – Chairman 
+Michael Brecht*
+Marie Wieck
+Roman Zitzelsberger* (until December 2024)
+Barbara Resch* (since January 2025)
+* Employee representative
+** Group mandate
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+24
+
+24 Statement of Investments 
+pursuant to Section 285 of the HGB in conjunction with Section 286 Subsection 3 Sentence 1 No. 1 and Subsection 3 Sentence 2 of the HGB
+The statement of investments of Daimler Truck Holding AG 
+pursuant to Section 285 of the HGB is presented as follows. 
+Information on equity, earnings and other associated companies 
+is omitted pursuant to Section 286 Subsection 3 Sentence 1 No. 
+1 of the HGB if such information is of minor relevance for a fair 
+presentation of the financial position, cash flows and profitability 
+of Daimler Truck Holding AG.
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Amplify Cell Technologies LLC
+Wilmington, USA
+30.00
+ 
+598  
+-45 
+6
+Atlantis Foundries (Pty.) Ltd.
+Atlantis, South Africa
+100.00
+Banco Mercedes-Benz do Brasil S.A.
+São Bernardo do Campo, Brazil
+100.00
+ 
+419  
+25 
+6
+Beijing Foton Daimler Automotive Co., Ltd.
+Beijing, China
+50.00
+ 
+611  
+-113 
+5
+Campo Largo Comercio de Veículos e Peças Ltda.
+Campinas, Brazil
+100.00
+ 
+11  
+2 
+6
+cellcentric GmbH & Co. KG
+Kirchheim unter Teck, Germany
+50.00
+ 
+1,178  
+-205 
+5
+cellcentric Verwaltungsgesellschaft mbH
+Kirchheim unter Teck, Germany
+50.00
+CharterWay GmbH
+Berlin, Germany
+100.00
+ 
+36  
+— 
+2; 6
+Chugoku Mitsubishi Fuso Truck & Bus Sales Co., Ltd.
+Hiroshima, Japan
+100.00
+Circulo Cerrado S.A. de Ahorro para Fines Determinados
+Buenos Aires, Argentina
+25.95
+ 
+3  
+3 
+5
+CLOUDGEEKS, UNIPESSOAL LDA
+Lisbon, Portugal
+100.00
+COBUS Industries GmbH
+Wiesbaden, Germany
+40.82
+ 
+12  
+1 
+7
+Commercial Vehicle Charging Europe B.V.
+Amsterdam, Netherlands
+33.33
+ 
+166  
+-54 
+6
+Cúspide Daimler Trucks & Buses GmbH
+Leinfelden-Echterdingen, Germany
+100.00
+Daimler Automotive de Venezuela C.A.
+Valencia, Venezuela
+100.00
+Daimler Buses Austria GmbH
+Wiener Neudorf, Austria
+100.00
+ 
+13  
+4 
+6
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+25
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Daimler Buses Belgium NV
+Kobbegem-Asse, Belgium
+100.00
+Daimler Buses Česká republika s.r.o.
+Prague, Czech Republic
+100.00
+ 
+70  
+6 
+6
+Daimler Buses España, S.A.U.
+Santander, Spain
+100.00
+ 
+26  
+5 
+6
+Daimler Buses France S.A.S.U.
+Sarcelles, France
+100.00
+ 
+77  
+22 
+6
+Daimler Buses GmbH
+Stuttgart, Germany
+100.00
+ 
+568  
+155 
+2; 6
+Daimler Buses Grundstücksverwaltung GmbH & Co. OHG
+Schönefeld, Germany
+89.88
+ 
+124  
+24 
+6
+Daimler Buses Italia S.p.A.
+Bomporto, Italy
+100.00
+ 
+19  
+7 
+6
+Daimler Buses Nederland B.V.
+Nijkerk, Netherlands
+100.00
+ 
+17  
+1 
+6
+Daimler Buses North America Inc.
+Oriskany, USA
+100.00
+ 
+1  
+-2 
+6
+Daimler Buses Polska Sp. z o.o.
+Wolica, Poland
+100.00
+Daimler Buses Portugal, S.A.
+Sintra, Portugal
+100.00
+ 
+12  
+1 
+6
+Daimler Buses Schweiz AG
+Winterthur, Switzerland
+100.00
+ 
+19  
+3 
+6
+Daimler Buses Solutions GmbH
+Stuttgart, Germany
+100.00
+2
+Daimler Buses Sverige AB
+Vetlanda, Sweden
+100.00
+ 
+7  
+2 
+6
+Daimler Buses UK Ltd
+Coventry, United Kingdom
+100.00
+ 
+17  
+2 
+6
+Daimler Coaches North America LLC
+Wilmington, USA
+100.00
+Daimler Commercial Vehicles (Thailand) Ltd.
+Bangkok, Thailand
+100.00
+ 
+12  
+— 
+4
+Daimler Commercial Vehicles Africa Ltd.
+Nairobi, Kenya
+100.00
+Daimler Financial Services México, S. de R.L. de C.V.
+Mexico City, Mexico
+100.00
+ 
+431  
+76 
+3; 6
+Daimler Financial Services, S.A. de C.V., S.O.F.O.M., E.N.R.
+Mexico City, Mexico
+100.00
+Daimler India Commercial Vehicles Private Limited
+Chennai, India
+100.00
+ 
+526  
+39 
+6
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+26
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Daimler Manufactura, S. de R.L. de C.V.
+Mexico City, Mexico
+100.00
+Daimler Mexico, S.A. de C.V.
+Mexico City, Mexico
+100.00
+ 
+45  
+24 
+6
+DAIMLER SERVICIOS CORPORATIVOS MEXICO S. DE R.L. DE 
+C.V.
+Mexico City, Mexico
+100.00
+Daimler Sigorta Aracilik Hizmetleri A.S.
+Istanbul, Turkey
+100.00
+Daimler Truck & Bus Romania S.R.L.
+Bucharest, Romania
+100.00
+ 
+26  
+5 
+6
+Daimler Truck & Bus Slovakia s.r.o.
+Bratislava, Slovakia
+100.00
+ 
+17  
+1 
+7
+Daimler Truck AG
+Stuttgart, Germany
+100.00
+ 
+9,729 
+4; 8
+Daimler Truck Australia Pacific Pty Ltd
+Melbourne, Australia
+100.00
+ 
+123  
+10 
+6
+Daimler Truck Austria GmbH
+Eugendorf, Austria
+100.00
+ 
+5  
+3 
+6
+Daimler Truck Belgium Luxembourg NV/SA
+Woluwe-Saint-Lambert, Belgium
+100.00
+Daimler Truck Canada Ltd.
+Mississauga, Canada
+100.00
+ 
+130  
+98 
+6
+Daimler Truck Česká republika s.r.o.
+Prague, Czech Republic
+100.00
+ 
+54  
+1 
+6
+Daimler Truck China Limited
+Beijing, China
+100.00
+ 
+6  
+-308 
+6
+Daimler Truck Customer Services & Parts s.r.o.
+Prague, Czech Republic
+100.00
+Daimler Truck España, S.L.U.
+Madrid, Spain
+100.00
+ 
+41  
+18 
+6
+Daimler Truck Finance Canada Inc.
+Toronto, Canada
+100.00
+ 
+676  
+322 
+6
+Daimler Truck Finance North America LLC
+Wilmington, USA
+100.00
+ 
+263  
+1 
+6
+Daimler Truck Financial Services Asia Co., Ltd.
+Tokyo, Japan
+100.00
+ 
+117  
+11 
+6
+DAIMLER TRUCK FINANCIAL SERVICES AUSTRALIA PTY LTD
+Melbourne, Australia
+100.00
+ 
+88  
+5 
+6
+Daimler Truck Financial Services Belgium NV
+Woluwe-Saint-Lambert, Belgium
+100.00
+ 
+13  
+1 
+6
+Daimler Truck Financial Services Brasil Holding S.A.
+São Bernardo do Campo, Brazil
+100.00
+ 
+146  
+— 
+6
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+27
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Daimler Truck Financial Services Canada Corporation
+Vancouver, Canada
+100.00
+ 
+146  
+-18 
+6
+Daimler Truck Financial Services Česká republika s.r.o.
+Prague, Czech Republic
+100.00
+Daimler Truck Financial Services Deutschland GmbH
+Berlin, Germany
+100.00
+ 
+191  
+-1 
+2; 6
+Daimler Truck Financial Services España, E.F.C., S.A.U.
+Madrid, Spain
+100.00
+ 
+29  
+4 
+6
+Daimler Truck Financial Services France S.A.
+Montigny-le-Bretonneux, France
+100.00
+ 
+101  
+-2 
+6
+Daimler Truck Financial Services GmbH
+Stuttgart, Germany
+100.00
+ 
+1,508  
+-58 
+2; 6
+Daimler Truck Financial Services Italia S.p.A
+Rome, Italy
+100.00
+ 
+70  
+3 
+6
+Daimler Truck Financial Services Nederland B.V.
+Nieuwegein, Netherlands
+100.00
+ 
+50  
+6 
+6
+Daimler Truck Financial Services Polska sp. Z. o. o.
+Warsaw, Poland
+100.00
+ 
+6  
+-3 
+6
+Daimler Truck Financial Services Slovakia s.r.o.
+Bratislava, Slovakia
+100.00
+Daimler Truck Financial Services South Africa (Pty) Ltd
+Centurion, South Africa
+100.00
+ 
+64  
+10 
+6
+Daimler Truck Financial Services UK Limited
+Milton Keynes, United Kingdom
+100.00
+ 
+74  
+— 
+6
+Daimler Truck Financial Services USA LLC
+Wilmington, USA
+100.00
+ 
+908  
+-35 
+3; 6
+Daimler Truck France S.A.S.U.
+Montigny-le-Bretonneux, France
+100.00
+ 
+43  
+15 
+3; 6
+Daimler Truck Gastronomie GmbH
+Gaggenau, Germany
+100.00
+2
+DAIMLER TRUCK HOLDING AUSTRALIA PACIFIC PTY LTD
+Melbourne, Australia
+100.00
+ 
+89  
+13 
+6
+Daimler Truck Immobilien Service GmbH
+Schönefeld, Germany
+100.00
+2
+Daimler Truck Innovation Center India Private Limited
+Bangalore, India
+100.00
+ 
+60  
+20 
+4
+Daimler Truck Insurance Agency LLC
+Wilmington, USA
+100.00
+Daimler Truck International Assignment Services LLC
+Wilmington, USA
+100.00
+Daimler Truck International Finance B.V.
+Utrecht, Netherlands
+100.00
+ 
+43  
+2 
+6
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+28
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Daimler Truck Italia s.r.l.
+Rome, Italy
+100.00
+ 
+40  
+2 
+6
+Daimler Truck Locações e Serviços Ltda.
+São Bernardo do Campo, Brazil
+100.00
+ 
+17  
+— 
+6
+Daimler Truck MEA FZE
+Dubai, United Arab Emirates
+100.00
+Daimler Truck MENA Holding GmbH
+Leinfelden-Echterdingen, Germany
+100.00
+Daimler Truck Nederland B.V.
+Utrecht, Netherlands
+100.00
+ 
+23  
+5 
+6
+Daimler Truck North America LLC
+Portland, USA
+100.00
+ 
+3,978  
+2,086 
+6
+Daimler Truck Polska Sp. z o.o.
+Warsaw, Poland
+100.00
+ 
+105  
+7 
+6
+Daimler Truck Portugal, S.A.
+Sintra, Portugal
+100.00
+Daimler Truck Remarketing Corporation
+Portland, USA
+100.00
+ 
+112  
+-22 
+6
+Daimler Truck Renting España, S.A.U.
+Madrid, Spain
+100.00
+ 
+31  
+3 
+6
+Daimler Truck Retail Italia S.r.l.
+Rome, Italy
+100.00
+ 
+24  
+1 
+6
+Daimler Truck Retail Lyon S.A.S.
+Genas, France
+100.00
+ 
+47  
+2 
+3; 6
+Daimler Truck Retail Madrid, S.A.U.
+Madrid, Spain
+100.00
+ 
+17  
+1 
+6
+Daimler Truck Retail Paris S.A.S.
+Wissous, France
+100.00
+Daimler Truck Retail Polska Sp. z o.o.
+Warsaw, Poland
+100.00
+ 
+18  
+-3 
+6
+Daimler Truck Retail Portugal, Unipessoal Lda.
+Sintra, Portugal
+100.00
+Daimler Truck Schweiz AG
+Schlieren, Switzerland
+100.00
+ 
+20  
+4 
+6
+Daimler Truck South East Asia Pte. Ltd.
+Singapore, Singapore
+100.00
+ 
+17  
+— 
+6
+Daimler Truck Southern Africa Ltd
+Centurion, South Africa
+100.00
+ 
+135  
+3 
+6
+Daimler Truck UK Limited
+Milton Keynes, United Kingdom
+100.00
+ 
+14  
+9 
+6
+Daimler Truck Vermögens- und Beteiligungsgesellschaft mbH
+Stuttgart, Germany
+100.00
+2
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+29
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Daimler Truck Verwaltungsgesellschaft für Grundbesitz mbH
+Schönefeld, Germany
+100.00
+ 
+602  
+31 
+2; 6
+Daimler Trucks & Buses US Holding LLC
+Wilmington, USA
+100.00
+ 
+6,003  
+2,345 
+6
+Daimler Trucks and Buses (China) Ltd.
+Beijing, China
+100.00
+ 
+10  
+— 
+6
+Daimler Trucks Asia Taiwan Ltd.
+Taipei, Taiwan
+51.00
+ 
+43  
+8 
+6
+Daimler Trucks Korea Ltd.
+Seoul, South Korea
+100.00
+ 
+17  
+3 
+6
+Daimler Trucks Retail Receivables LLC
+Wilmington, USA
+100.00
+Daimler Vehículos Comerciales Mexico, S. de R.L. de C.V.
+Mexico City, Mexico
+100.00
+ 
+1,136  
+286 
+6
+Detroit Diesel Corporation
+Detroit, USA
+100.00
+ 
+550  
+289 
+6
+Detroit Diesel Remanufacturing LLC
+Detroit, USA
+100.00
+ 
+88  
+23 
+6
+Deutz AG
+Cologne, Germany
+4.18
+ 
+752  
+77 
+5
+DICV MOBILITY SOLUTIONS PRIVATE LIMITED
+Chennai, India
+99.99
+DTB Tech & Data Hub, Unipessoal Lda
+Tramagal, Portugal
+100.00
+DTFC Holding GmbH
+Stuttgart, Germany
+100.00
+ 
+964  
+-545 
+2; 6
+DTFS Immobilien Holding GmbH
+Schönefeld, Germany
+100.00
+EIKONA Mobile Apps GmbH
+Volkach, Germany
+49.90
+EVNION Inc.
+Kawasaki, Japan
+35.00
+Freightliner Custom Chassis Corporation
+Gaffney, USA
+100.00
+ 
+122  
+34 
+6
+FUSO LAND TRANSPORT & Co. Ltd.
+Kawasaki, Japan
+21.67
+G2VP I, LLC
+Dover, USA
+5.71
+Gamma 1 Daimler Truck Grundstücksverwaltung GmbH & Co. 
+OHG
+Schönefeld, Germany
+89.90
+ 
+487  
+97 
+6
+Gamma 2 Daimler Truck Grundstücksverwaltung GmbH & Co. 
+OHG
+Schönefeld, Germany
+89.90
+ 
+213  
+43 
+6
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+30
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+Gamma 3 Daimler Truck Grundstücksverwaltung GmbH & Co. 
+OHG
+Schönefeld, Germany
+89.90
+ 
+72  
+7 
+6
+Gamma 4 Daimler Truck Grundstücksverwaltung GmbH & Co. 
+OHG
+Schönefeld, Germany
+89.90
+ 
+20  
+3 
+6
+Gamma 5 Daimler Truck Grundstücksverwaltung GmbH & Co. 
+OHG
+Schönefeld, Germany
+100.00
+ 
+200  
+1 
+6
+Gamma 6 Daimler Truck Grundstücksverwaltung GmbH
+Schönefeld, Germany
+100.00
+ 
+11  
+— 
+6
+Greenlane Infrastructure, LLC
+Wilmington, USA
+33.33
+ 
+23  
+-4 
+7
+H2 Mobility Deutschland GmbH & Co. KG
+Berlin, Germany
+1.70
+ 
+42  
+-26 
+5
+Kanagawa Mitsubishi Fuso Truck & Bus Sales Co., Ltd.
+Yokohama, Japan
+43.83
+ 
+45  
+4 
+5
+Manz AG
+Reutlingen, Germany
+9.08
+ 
+33  
+4 
+5
+Mercedes Benz Kamyon Finansman A.S.
+Istanbul, Turkey
+100.00
+ 
+108  
+33 
+3; 6
+Mercedes ServiceCard Beteiligungsgesellschaft mbH
+Kleinostheim, Germany
+100.00
+Mercedes ServiceCard GmbH & Co. KG
+Kleinostheim, Germany
+100.00
+Mercedes-Benz Broker Argentina S.A.
+Buenos Aires, Argentina
+99.00
+Mercedes-Benz Camiones y Buses Argentina S.A.U.
+Buenos Aires, Argentina
+100.00
+ 
+255  
+-1 
+6
+Mercedes-Benz Compañía Financiera Argentina S.A.
+Buenos Aires, Argentina
+100.00
+ 
+17  
+-1 
+6
+Mercedes-Benz Corretora de Seguros Ltda
+São Bernardo do Campo, Brazil
+100.00
+ 
+9  
+4 
+6
+Mercedes-Benz do Brasil Ltda.
+São Bernardo do Campo, Brazil
+100.00
+ 
+1,789  
+667 
+6
+Mercedes-Benz Leasing do Brasil Arrendamento Mercantil S.A.
+São Bernardo do Campo, Brazil
+100.00
+ 
+22  
+2 
+6
+Mercedes-Benz Servicios S.A.
+Buenos Aires, Argentina
+100.00
+ 
+11  
+6 
+6
+Mercedes-Benz Trucks Molsheim S.A.S.U.
+Molsheim, France
+100.00
+ 
+26  
+3 
+6
+Mercedes-Benz Türk A.S.
+Istanbul, Turkey
+66.91
+ 
+1,316  
+426 
+6
+MFTA Canada, Inc.
+Toronto, Canada
+100.00
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+31
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+MFTB Taiwan Co., Ltd.
+Taipei, Taiwan
+33.40
+ 
+13  
+2 
+5
+Mitsubishi Fuso Bus Manufacturing Co., Ltd.
+Toyama, Japan
+100.00
+ 
+62  
+8 
+6
+Mitsubishi Fuso Truck and Bus Corporation
+Kawasaki, Japan
+89.29
+ 
+2,037  
+192 
+6
+MITSUBISHI FUSO TRUCK EUROPE - Sociedade Europeia de 
+Automóveis, S.A.
+Tramagal, Portugal
+100.00
+ 
+35  
+7 
+6
+Mitsubishi Fuso Truck of America, Inc.
+Logan Township, USA
+100.00
+ 
+20  
+1 
+5
+National Automobile Industry Company Ltd.
+Jeddah, Saudi Arabia
+26.00
+ 
+81  
+50 
+7
+North America Fuel Systems Remanufacturing LLC
+Kentwood, USA
+50.00
+ 
+24  
+7 
+6
+Okayama Mitsubishi Fuso Truck & Bus Sales Co., Ltd.
+Okayama, Japan
+50.00
+ 
+25  
+2 
+5
+Omuta Unso Co., Ltd.
+Omuta, Japan
+33.51
+ 
+12  
+1 
+5
+P.T. Krama Yudha Tiga Berlian Motors
+Jakarta, Indonesia
+30.00
+ 
+173  
+9 
+5
+P.T. Mitsubishi Krama Yudha Motors and Manufacturing
+Jakarta, Indonesia
+32.28
+ 
+28  
+1 
+5
+PABCO Co., Ltd.
+Ebina, Japan
+100.00
+ 
+13  
+2 
+6
+Polomex, S.A. de C.V.
+Garcia, Mexico
+26.00
+ 
+36  
+8 
+5
+PT Daimler Commercial Vehicles Indonesia
+Jakarta, Indonesia
+100.00
+ 
+64  
+-2 
+6
+PT Daimler Commercial Vehicles Manufacturing Indonesia
+Bogor, Indonesia
+100.00
+ 
+14  
+-6 
+6
+Sandown Motor Holdings (Pty) Ltd
+Centurion, South Africa
+100.00
+ 
+13  
+3 
+6
+SelecTrucks Comércio de Veículos Ltda
+São Bernardo do Campo, Brazil
+100.00
+ 
+-7  
+-5 
+6
+SelecTrucks of America LLC
+Portland, USA
+100.00
+SelecTrucks of Toronto, Inc.
+Mississauga, Canada
+100.00
+Sterling Truck Corporation
+Portland, USA
+100.00
+ 
+21  
+1 
+6
+Sumperská správa majetku k.s.
+Prague, Czech Republic
+100.00
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+32
+
+Name of the company
+Domicile, country
+Capital 
+share in %1
+Equity in 
+millions of €
+Net profit (loss) 
+in millions of €
+Foot-
+note
+T.O.C (Schweiz) AG
+Schlieren, Switzerland
+51.00
+TASIAP GmbH
+Stuttgart, Germany
+60.00
+Thomas Built Buses of Canada Limited
+Calgary, Canada
+100.00
+ 
+15  
+2 
+6
+Thomas Built Buses, Inc.
+High Point, USA
+100.00
+ 
+134  
+63 
+6
+Toll4Europe GmbH
+Munich, Germany
+15.00
+ 
+3  
+-16 
+5
+TORC CND Robotique, Inc.
+Montreal, Canada
+100.00
+Torc Europe GmbH
+Stuttgart, Germany
+100.00
+TORC Robotics, Inc.
+Blacksburg, USA
+91.05
+ 
+197  
+-213 
+3; 6
+Toyo Kotsu Co., Ltd.
+Sannoseki, Japan
+28.20
+Trucks Venture Fund 1, LP
+Lewes, USA
+20.76
+Ukuvela Holdings Proprietary Limited
+Atlantis, South Africa
+100.00
+ 
+142  
+9 
+3; 6
+Ukuvela Properties (Pty.) Ltd.
+Atlantis, South Africa
+100.00
+WärmeWerk Wörth GmbH
+Wörth am Rhein, Germany
+45.00
+Western Star Trucks Sales, Inc
+Portland, USA
+100.00
+ 
+-21  
+-9 
+6
+WTX Technologies GmbH
+Stuttgart, Germany
+85.00
+ 
+—  
+-5 
+5
+1 
+Shareholding pursuant to Section 271 of the HGB
+2 
+Profit-and-loss transfer agreement with Daimler Truck  AG (direct/indirect)
+3 
+Pre-consolidating company
+4 
+Annual financial statements according to local GAAP 2024
+5 
+Annual financial statements according to local GAAP 2023
+6 
+Annual financial statements according to IFRS 2024
+7 
+Annual financial statements according to IFRS 2023
+8 
+Profit-and-loss transfer agreement with Daimler Truck Holding AG
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+33
+
+Board of Management
+Leinfelden-Echterdingen, March 13, 2025
+Karin Rådström 
+ 
+ 
+ 
+Karl Deppen 
+ 
+ 
+ 
+Dr. Andreas Gorbach 
+ 
+ 
+ 
+Jürgen Hartwig
+ 
+ 
+ 
+ 
+ 
+John O´Leary 
+ 
+ 
+ 
+Achim Puchert 
+ 
+ 
+ 
+ 
+Eva Scherer  
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+34
+
+Responsibility Statement
+To the best of our knowledge, and in accordance with applicable reporting principles, the financial statements give a true and fair view of the financial position, cash flows and profit or loss of Daimler Truck 
+Holding AG, and the management report, which has been combined with the Group management report includes a fair review of the development and performance of the business and the position of the 
+Company, together with a description of the material opportunities and risks associated with the expected development of Daimler Truck Holding AG.
+Leinfelden-Echterdingen, March 13, 2025
+Karin Rådström 
+ 
+ 
+ 
+Karl Deppen 
+ 
+ 
+ 
+Dr. Andreas Gorbach 
+ 
+ 
+ 
+Jürgen Hartwig
+ 
+ 
+ 
+ 
+ 
+John O´Leary 
+ 
+ 
+ 
+Achim Puchert 
+ 
+ 
+ 
+ 
+Eva Scherer  
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+35
+
+Independent Auditor’s Report
+To Daimler Truck Holding AG, Stuttgart
+Report on the Audit of the Annual Financial 
+Statements and of the Combined 
+Management Report
+Opinions
+We have audited the annual financial statements of Daimler 
+Truck Holding AG, Stuttgart, which comprise the balance sheet 
+as of December 31, 2024, and the income statement for the 
+financial year from January 1 to December 31, 2024, as well as 
+the notes to the financial statements, including the recognition 
+and measurement policies presented therein. In addition, we 
+have audited the report on the situation of the Company and the 
+Group (hereinafter referred to as the combined management 
+report”) of Daimler Truck Holding AG for the financial year from 
+January 1 to December 31, 2024.
+In accordance with the German legal regulations, we have not 
+audited the content of the elements of the combined 
+management report referred to in the “Other information” section 
+of our auditor’s report.
+The combined management report contains cross-references 
+marked as unaudited that are not required by law. In accordance 
+with German legal requirements, we have not audited the content 
+of these cross-references or the information to which the cross-
+references refer.
+In our opinion, on the basis of the knowledge obtained in the 
+audit
+–
+the accompanying annual financial statements comply, in all 
+material respects, with the requirements of German 
+commercial law applicable to business corporations and give 
+a true and fair view of the assets, liabilities and financial 
+position of the Company as of December 31, 2024, and of its 
+financial performance for the financial year from January 1 to 
+December 31, 2024, in compliance with German Legally 
+Required Accounting Principles, and
+–
+the accompanying combined management report as a whole 
+provides an appropriate view of the Company’s position. In all 
+material respects, the combined management report is 
+consistent with the annual financial statements, complies 
+with German legal requirements and appropriately presents 
+the opportunities and risks of future development. Our 
+opinion on the combined management report does not cover 
+the elements of the combined management report referred to 
+in the “Other information” section of our auditor’s report. The 
+combined management report contains cross-references 
+marked as unaudited that are not required by law. In 
+accordance with German legal requirements, we have not 
+audited the content of these cross-references or the 
+information to which the cross-references refer. 
+Pursuant to Section 322 paragraph 3 sentence 1 HGB 
+[Handelsgesetzbuch: German Commercial Code], we declare that 
+our audit has not led to any reservations relating to the legal 
+compliance of the annual financial statements and of the 
+combined management report. 
+Basis for the Opinions
+We conducted our audit of the annual financial statements and of 
+the combined management report in accordance with Section 
+317 HGB and the EU Audit Regulation (No. 537/2014; referred 
+to subsequently as the “EU Audit Regulation”) and in compliance 
+with German Generally Accepted Standards for Financial 
+Statement Audits promulgated by the Institut der 
+Wirtschaftsprüfer [Institute of Public Auditors in Germany] (IDW). 
+Our responsibilities under those requirements and principles are 
+further described in the “Auditor’s Responsibilities for the Audit 
+of the Annual Financial Statements and the Combined 
+Management Report” section of our auditor’s report. We are 
+independent of the Company in accordance with the 
+requirements of European law and German commercial and 
+professional law, and we have fulfilled our other German 
+professional responsibilities in accordance with these 
+requirements. In addition, in accordance with Article 10 
+paragraph 2 letter f) of the EU Audit Regulation, we declare that 
+we have not provided any non-audit services prohibited under 
+Article 5 paragraph 1 of the EU Audit Regulation. We believe that 
+the evidence we have obtained is sufficient and appropriate to 
+provide a basis for our opinions on the annual financial 
+statements and the combined management report.
+Key Audit Matters in the Audit of the Annual Financial 
+Statements
+We have determined that there are no key audit matters that 
+have to be notified in our auditor’s report.
+Other Information
+The legal representatives and the Supervisory Board are 
+responsible for the other information. The other information 
+comprises the following elements of the combined management 
+report, the content of which we have not audited: 
+–
+the non-financial declaration of the Group included in the 
+section of the combined management report entitled 
+“Sustainability at Daimler Truck”,
+–
+the combined declaration of the Company and the Group on 
+corporate management, which is referred to in the combined 
+management report, and
+–
+the disclosures in the combined management report marked 
+as extraneous to management reports and unaudited.
+Our opinions on the annual financial statements and on the 
+combined management report do not cover the other 
+information, and consequently we do not express an opinion or 
+any other form of assurance conclusion thereon.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+36
+
+In connection with our audit, our responsibility is to read the 
+other information and, in so doing, to consider whether the other 
+information
+–
+is materially inconsistent with the annual financial 
+statements, with the management report information audited 
+for content or our knowledge obtained in the audit, or
+–
+otherwise appears to be materially misstated.
+If, based on the work we have performed, we conclude that there 
+is a material misstatement of this other information, we are 
+required to report that fact. We have nothing to report in this 
+regard.
+Responsibilities of the Legal Representatives and the 
+Supervisory Board for the Annual Financial Statements and 
+the combined management report 
+The legal representatives are responsible for the preparation of 
+the annual financial statements that comply, in all material 
+respects, with the requirements of German commercial law 
+applicable to business corporations, and that the annual financial 
+statements give a true and fair view of the assets, liabilities, 
+financial position and financial performance of the Company in 
+compliance with German Legally Required Accounting Principles. 
+In addition, the legal representatives are responsible for such 
+internal control as they, in accordance with German Legally 
+Required Accounting Principles, have determined necessary to 
+enable the preparation of annual financial statements that are 
+free from material misstatement, whether due to fraud (i.e., 
+fraudulent financial reporting and misappropriation of assets) or 
+error.
+In preparing the annual financial statements, the legal 
+representatives are responsible for assessing the Company's 
+ability to continue as a going concern. They are also responsible 
+for disclosing, as applicable, matters related to going concern. In 
+addition, they are responsible for financial reporting based on the 
+going concern basis of accounting, provided no actual or legal 
+circumstances conflict therewith.
+Furthermore, the legal representatives are responsible for the 
+preparation of the combined management report that as a whole 
+provides an appropriate view of the Company's position and is, in 
+all material respects, consistent with the annual financial 
+statements, complies with German legal requirements, and 
+appropriately presents the opportunities and risks of future 
+development. In addition, the legal representatives are 
+responsible for such arrangements and measures (systems) as 
+they have considered necessary to enable the preparation of a 
+combined management report that is in accordance with the 
+applicable German legal requirements, and for providing 
+sufficient appropriate evidence for the assertions in the 
+combined management report.
+The Supervisory Board is responsible for overseeing the 
+Company’s financial reporting process for the preparation of the 
+annual financial statements and of the management report. 
+Auditor’s Responsibilities for the Audit of the Annual 
+Financial Statements and the Combined Management 
+Report
+Our objectives are to obtain reasonable assurance about whether 
+the annual financial statements as a whole are free from material 
+misstatements, whether due to fraud or error, and whether the 
+combined management report as a whole provides an 
+appropriate view of the Company's position and, in all material 
+respects, is consistent with the annual financial statements and 
+the knowledge obtained in the audit, complies with the German 
+legal requirements and appropriately presents the opportunities 
+and risks of future development, as well as to issue an auditor’s 
+report that includes our opinions on the annual financial 
+statements and the combined management report.
+Reasonable assurance is a high level of assurance, but is not a 
+guarantee, that an audit conducted in accordance with Section 
+317 HGB and the EU Audit Regulation and in compliance with 
+German Generally Accepted Standards for Financial Statement 
+Audits promulgated by the Institut der Wirtschaftsprüfer [Institute 
+of Public Auditors in Germany] (IDW) will always detect a material 
+misstatement. Misstatements can arise from fraud or error and 
+are considered material if, individually or in the aggregate, they 
+could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these annual financial 
+state­ments and this combined management report.
+We exercise professional judgement and maintain professional 
+scepticism throughout the audit. We also
+–
+identify and assess the risks of material misstatement of the 
+annual financial statements and of the management report, 
+whether due to fraud or error, design and perform audit 
+procedures responsive to those risks, and obtain audit 
+evidence that is sufficient and appropriate to provide a basis 
+for our opinions. The risk of not detecting a material 
+misstatement resulting from fraud is higher than the risk of 
+not detecting a material misstatement for one resulting from 
+error, as fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal 
+controls.
+–
+obtain an understanding of internal control relevant to the 
+audit of the annual financial statements and of arrangements 
+and measures relevant to the audit of the management report 
+in order to design audit procedures that are appropriate in 
+the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of Company’s internal control or 
+of these arrangements and measures.
+–
+evaluate the appropriateness of accounting policies used by 
+the legal representatives and the reasonableness of 
+estimates made by the legal representatives and related 
+disclosures.
+–
+conclude on the appropriateness of the use by the legal 
+representatives of the going concern basis of accounting and, 
+based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may 
+cast significant doubt on the Company's ability to continue as 
+a going concern. If we conclude that a material uncertainty 
+exists, we are required to draw attention in the auditor’s 
+report to the related disclosures in the annual financial 
+statements and the combined management report or, if such 
+disclosures are inadequate, to modify our respective 
+opinions. Our conclusions are based on the audit evidence 
+obtained up to the date of our auditor’s report. However, 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+37
+
+future events or conditions may cause the Company to cease 
+to be able to continue as a going concern.
+–
+evaluate the presentation, structure and content of the 
+annual financial statements, including the disclosures, and 
+whether the annual financial statements present the 
+underlying transactions and events in a manner that the 
+annual financial statements give a true and fair view of the 
+assets, liabilities, financial position and financial performance 
+of the Company in compliance with German Legally Required 
+Accounting Principles.
+–
+evaluate the consistency of the combined management 
+report with the annual financial statements, its conformity 
+with [German] law, and the view of the Company's position it 
+provides.
+–
+perform audit procedures on the prospective information 
+presented by the legal representatives in the combined 
+management report. On the basis of sufficient appropriate 
+audit evidence, we evaluate, in particular, the significant 
+assumptions used by the legal representatives as a basis for 
+the prospective information and evaluate the proper 
+derivation of the prospective information from these 
+assumptions. We do not express a separate opinion on the 
+prospective information and on the assumptions used as a 
+basis. There is a substantial unavoidable risk that future 
+events will differ materially from the prospective information.
+We communicate with those charged with governance regarding, 
+among other matters, the planned scope and timing of the audit 
+and significant audit findings, including any significant 
+deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement 
+that we have complied with the relevant independence 
+requirements and communicate with them all relationships and 
+other matters that may reasonably be thought to bear on our 
+independence, and where applicable, the actions taken or 
+safeguards applied to eliminate independence threats.
+From the matters communicated with those charged with 
+governance, we determine those matters that were of most 
+significance in the audit of the annual financial statements of the 
+current period and are therefore the key audit matters. We 
+describe these matters in our auditor’s report unless laws or 
+other legal regulations preclude public disclosure of the matter.
+Other Legal and Regulatory Requirements
+Report on the Assurance on the Electronic Rendering of the 
+Annual Financial Statements and the Management Report 
+Prepared for Publication Purposes in Accordance with 
+Section 317 paragraph 3a HGB
+We have performed assurance work in accordance with Section 
+317 paragraph 3a HGB to obtain reasonable assurance about 
+whether the rendering of the annual financial statements and the 
+combined management report (hereinafter the “ESEF 
+documents”) contained in the file that can be downloaded by the 
+issuer from the electronic client portal with access protection 
+„dthagEA-2024-12-31-de.xhtml“ (SHA256 hash value: 
+432f0f8612bd6ca15632f7a59f105d1578eff5a011d0f06bbbf40e
+f73b6becf7); „dthagEA_LB_2024-12-31-de.xhtml“ (SHA256 hash 
+value: 
+85b1b6b2932f166aba610d193f3d7715e67ecc4c90daed5f96a4
+a4ebf3ebb7b4), made available and prepared for publication 
+purposes complies in all material respects with the requirements 
+of Section 328 paragraph1 HGB for the electronic reporting 
+format (“ESEF format”). In accordance with German legal 
+requirements, this assurance work extends only to the 
+conversion of the information contained in the annual financial 
+statements and the combined management report into the ESEF 
+format and therefore relates neither to the information contained 
+in these renderings nor to any other information contained in the 
+file identified above.
+In our opinion, the rendering of the annual financial statements 
+and the combined management report contained in the 
+electronic file and made available for publication purposes 
+complies in all material respects with the requirements of Section 
+328 paragraph 1 HGB for the electronic reporting format. Beyond 
+this assurance opinion and our audit opinion on the 
+accompanying annual financial statements and the 
+accompanying combined management report for the financial 
+year from January 1 to December 31, 2024, contained in the 
+“Report on the Audit of the Annual Financial Statements and the 
+Combined Management Report” above, we do not express any 
+assurance opinion on the information contained within these 
+renderings or on the other information contained in the file 
+identified above.
+We conducted our assurance work on the rendering of the annual 
+financial statements and of the combined management reports 
+contained in the file and identified above in accordance with 
+Section 317 paragraph 3a HGB and the IDW Assurance Standard: 
+Assurance Work on the Electronic Rendering of Financial 
+Statements and Management Reports Prepared for Publication 
+Purposes in accordance with Section 317 paragraph 3a HGB 
+(IDW PS 410 (06.2022)) conducive to the understanding of the 
+report at an international level and the International Standard on 
+Assurance Engagements 3000 (Revised). Our responsibility in 
+accord­ance therewith is further described below. Our audit firm 
+applies the IDW Quality Management Standard: Requirements for 
+Quality Management in the Audit Practice (IDW QMS 1 
+(09.2022)).
+The Company’s legal representatives are responsible for the 
+preparation of the ESEF documents including the electronic 
+rendering of the annual financial statements and the combined 
+management report in accordance with Section 328 paragraph 1 
+sentence 4 item 1 HGB.
+In addition, the company’s representatives are responsible for 
+such internal control that they have considered necessary to 
+enable the preparation of ESEF documents that are free from 
+material intentional or unintentional non-compliance with the 
+requirements of Section 328 paragraph 1 HGB for the electronic 
+reporting format.
+The Supervisory Board is responsible for overseeing the process 
+of preparing the ESEF documents as part of the financial 
+reporting process.
+Our objective is to obtain reasonable assurance about whether 
+the ESEF documents are free from material intentional or 
+unintentional non-compliance with the requirements of Section 
+328 paragraph 1 HGB. We exercise professional judgement and 
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+38
+
+maintain professional scepticism throughout the assurance work. 
+We also
+–
+identify and assess the risks of material intentional or 
+unintentional non-compliance with the requirements of 
+Section 328 paragraph 1 HGB, design and perform assurance 
+procedures responsive to those risks, and obtain assurance 
+evidence that is sufficient and appropriate to provide a basis 
+for our assurance opinion.
+–
+obtain an understanding of internal control relevant to the 
+assurance on the ESEF documents in order to design 
+assurance procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an 
+assurance opinion on the effectiveness of these controls.
+–
+evaluate the technical validity of the ESEF documents, i.e. 
+whether the file made available containing the ESEF 
+documents meets the requirements of the Delegated 
+Regulation (EU) 2019/815, as amended as at the reporting 
+date, on the technical specification for this electronic file.
+–
+evaluate whether the ESEF documents provide an XHTML 
+rendering with content equivalent to the audited consolidated 
+financial statements and the audited combined manage­ment 
+report.
+Further Information pursuant to Article 10 of the EU Audit 
+Regulation
+We were elected as group auditor at the Annual Shareholder’s 
+Meeting held on May 15, 2024. We were engaged by the 
+Supervisory Board on July 10, 2024. We have been the group 
+auditor of Daimler Truck Holding AG without interruption since 
+the financial year 2021.
+We declare that the opinions expressed in this auditor’s report 
+are consistent with the additional report to the Audit Committee 
+pursuant to Article 11 of the EU Audit Regulation (long-form audit 
+report).
+Other matter – Use of the Auditor’s Report
+Our auditor´s report must always be read together with the 
+audited annual financial statements and the audited combined 
+management report as well as the examined ESEF documents. 
+The annual financial statements and combined management 
+report converted to the ESEF format – including the versions to 
+be published in the company register – are merely electronic 
+renderings of the audited annual financial statements and the 
+audited group management report and do not take their place. In 
+particular, the ESEF report and our assur­ance opinion contained 
+therein are to be used solely together with the examined ESEF 
+docu­ments made available in electronic form.
+German Public Auditor Responsible for the 
+Engagement
+The German Public Auditor responsible for the engagement is 
+Marcus Rohrbach.
+Stuttgart, March 13, 2025
+KPMG AG Wirtschaftsprüfungsgesellschaft 
+[signature] Pritzer
+Wirtschaftsprüfer
+[German Public Auditor]
+[signature] Rohrbach
+Wirtschaftsprüfer
+[German Public Auditor]
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+39
+
+Forward-looking statements:
+This document contains forward-looking statements that reflect 
+our current views about future events. The words “aim”, 
+“ambition”, “anticipate,” “assume,” “believe,” “estimate,” 
+“expect,” “intend,” “may,” ”can,” “could,” “plan,” “project,” 
+“should” and similar expressions are used to identify forward-
+looking statements. These statements are subject to many risks 
+and uncertainties, including an adverse development of global 
+economic conditions, in particular a decline of demand in our 
+most important markets; a deterioration of our refinancing 
+possibilities on the credit and financial markets; events of force 
+majeure including natural disasters, pandemics, acts of terrorism, 
+political unrest, armed conflicts, industrial accidents and their 
+effects on our sales, purchasing, production or financial services 
+activities; changes in currency exchange rates, customs and 
+foreign trade provisions; a shift in consumer preferences; a 
+possible lack of acceptance of our products or services which 
+limits our ability to achieve prices and adequately utilise our 
+production capacities; price increases for fuel or raw materials; 
+disruption of production due to shortages of materials, labour 
+strikes or supplier insolvencies; a decline in resale prices of used 
+vehicles; the effective implementation of cost-reduction and 
+efficiency-optimisation measures; the business outlook for 
+companies in which we hold a significant equity interest; the 
+successful implementation of strategic cooperations and joint 
+ventures; changes in laws, regulations and government policies, 
+particularly those relating to vehicle emissions, fuel economy and 
+safety; the resolution of pending government investigations or of 
+investigations requested by governments and the conclusion of 
+pending or threatened future legal proceedings; and other risks 
+and uncertainties, some of which are described under the 
+heading “Risk and Opportunity Report” in the current Annual 
+Report. If any of these risks and uncertainties materializes, or if 
+the assumptions underlying any of our forward-looking 
+statements prove to be incorrect, the actual results may be 
+materially different from those we express or imply by such 
+statements. We do not intend or assume any obligation to update 
+these forward-looking statements since they are based solely on 
+the circumstances at the date of publication.
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG
+
+Daimler Truck Holding AG
+70771 Leinfelden-Echterdingen
+Germany
+Daimler Truck | Annual Financial Statements 2024 | Daimler Truck Holding AG

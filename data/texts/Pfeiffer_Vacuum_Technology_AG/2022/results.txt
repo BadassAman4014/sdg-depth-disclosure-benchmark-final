@@ -1,0 +1,3494 @@
+2022 
+Jahresabschluss 
+zum 31.12.2022 
+(Einzelabschluss nach HGB) 
+Pfeiffer Vacuum Technology AG 
+
+
+Inhalt 
+Seite 
+I.
+Bilanz ...................................................................................................... 
+2 
+II.
+Gewinn- und Verlustrechnung  ............................................................... 
+4 
+III.
+Anhang ................................................................................................... 
+5 
+IV.
+Zusammengefasster Lagebericht............................................................ 
+42 
+V.
+Vorschlag für die Verwendung des Bilanzgewinns ................................. 
+43 
+VI.
+Bericht des Aufsichtsrats über das Geschäftsjahr 2022 .......................... 
+44 
+VII.
+Bestätigungsvermerk des unabhängigen Abschlussprüfers ................... 
+52 
+VIII.
+Versicherung der gesetzlichen Vertreter 2022 ........................................ 
+61 
+1
+
+I.
+Pfeiffer Vacuum Technology AG, Aßlar
+Bilanz zum 31. Dezember 2022
+Aktiva
+31.12.2021
+€
+€
+€
+A.
+Anlagevermögen
+I.
+Immaterielle Vermögensgegenstände
+1.
+Entgeltlich erworbene Konzessionen, gewerbliche
+Schutzrechte und ähnliche Rechte und Werte sowie
+Lizenzen an solchen Rechten und Werten
+2.783.898,00
+1.618.412,00
+2.
+Software (vor Inbetriebnahme)
+9.419.938,17
+10.484.709,61
+12.203.836,17
+12.103.121,61
+II.
+Sachanlagen
+1.
+Grundstücke, grundstücksgleiche Rechte und Bauten
+einschließlich der Bauten auf fremden Grundstücken
+7.902.592,40
+8.288.272,40
+2.
+Andere Anlagen, Betriebs- und Geschäftsausstattung
+723.799,00
+915.475,00
+3.
+Geleistete Anzahlungen und Anlagen im Bau
+4.195.445,69
+79.300,00
+12.821.837,09
+9.283.047,40
+III.
+Finanzanlagen
+1.
+Anteile an verbundenen Unternehmen
+224.009.480,03
+224.009.480,03
+2.
+Ausleihungen an verbundene Unternehmen
+37.706.109,71
+9.550.000,00
+261.715.589,74
+233.559.480,03
+286.741.263,00
+254.945.649,04
+B.
+Umlaufvermögen
+I.
+Forderungen und sonstige Vermögensgegenstände
+1.
+Forderungen aus Lieferungen und Leistungen
+0,00
+0,00
+2.
+Forderungen gegen verbundene Unternehmen
+102.791.847,78
+66.939.807,22
+3.
+Sonstige Vermögensgegenstände
+1.704.783,34
+5.618.642,85
+104.496.631,12
+72.558.450,07
+II.
+Guthaben bei Kreditinstituten
+58.564,92
+18.336.853,64
+104.555.196,04
+90.895.303,71
+C.
+Rechnungsabgrenzungsposten
+861.486,54
+1.224.764,87
+392.157.945,58
+347.065.717,62
+2
+
+I.
+Pfeiffer Vacuum Technology AG, Aßlar
+Bilanz zum 31. Dezember 2022
+Passiva 
+31.12.2021
+€
+€
+€
+A.
+Eigenkapital
+I.
+Gezeichnetes Kapital
+25.261.207,04
+25.261.207,04
+(Bedingtes Kapital € 6.315.299,84)
+II.
+Kapitalrücklage
+99.676.621,19
+99.676.621,19
+III.
+Bilanzgewinn
+186.912.182,45
+180.459.837,58
+davon Gewinnvortrag  € 140.199.788,86 (Vj. € 128.245.109,41)
+311.850.010,68
+305.397.665,81
+B.
+Rückstellungen
+1.
+Rückstellungen für Pensionen
+8.679.310,13
+6.240.700,14
+2.
+Steuerrückstellungen
+4.868.848,78
+1.871.015,49
+3.
+Sonstige Rückstellungen
+2.483.876,13
+3.995.278,40
+16.032.035,04
+12.106.994,03
+C.
+Verbindlichkeiten
+1.
+Verbindlichkeiten gegenüber Kreditinstituten
+63.597.023,40
+5.000.000,00
+2.
+Verbindlichkeiten aus Lieferungen und Leistungen
+621.527,85
+740.663,91
+3.
+Verbindlichkeiten gegenüber verbundenen Unternehmen
+0,00
+23.194.003,06
+4.
+Sonstige Verbindlichkeiten
+57.348,61
+59.961,13
+davon aus Steuern € 57.348,61 (Vj. € 59.961,13)
+64.275.899,86
+28.994.628,10
+D.
+Rechnungsabgrenzungsposten
+0,00
+566.429,68
+392.157.945,58
+347.065.717,62
+3
+
+II. Pfeiffer Vacuum Technology AG, Aßlar
+Gewinn- und Verlustrechnung für 2022
+2021
+€
+€
+€
+1. Umsatzerlöse
+7.996.176,69
+13.286.266,16
+2. Erträge aus Ergebnisabführungsvertrag
+46.695.055,31
+51.741.130,67
+3. Erträge aus Beteiligungen
+davon aus verbundenen Unternehmen
+14.250.000,00
+16.268.115,95
+€ 14.250.000,00 (Vj. € 16.268.115,95)
+4. Sonstige betriebliche Erträge
+307.089,21
+101.277,19
+69.248.321,21
+81.396.789,97
+5. Materialaufwand für bezogene Leistungen
+2.908.873,66
+8.465.783,88
+6. Personalaufwand
+a) Löhne und Gehälter
+3.179.245,37
+2.234.230,21
+b) Soziale Abgaben und Aufwendungen für
+Altersversorgung und für Unterstützung
+1.998.620,68
+778.063,99
+davon für Altersversorgung
+€ 1.346.952,04 (Vj. € 154.733,04)
+5.177.866,05
+3.012.294,20
+7. Abschreibungen auf immaterielle Vermögensgegen-
+stände des Anlagevermögens und Sachanlagen
+1.725.864,83
+1.511.410,63
+8. Sonstige betriebliche Aufwendungen
+6.732.825,79
+10.261.562,68
+9. Erträge aus Ausleihungen des Finanzanlagevermögens
+558.222,58
+374.055,55
+davon aus verbundenen Unternehmen
+€ 544.681,58 (Vj. € 374.055,55)
+10. Sonstige Zinsen und ähnliche Erträge
+148.607,56
+153.888,00
+davon aus verbundenen Unternehmen
+€ 148.607,56 (Vj. € 151.068,00)
+11. Zinsen und ähnliche Aufwendungen
+1.313.425,81
+637.133,68
+-606.595,67
+-109.190,13
+12. Steuern vom Einkommen und vom Ertrag
+12.633.208,50
+12.007.791,41
+13. An Organgesellschaften weiterbelastete Steuern
+7.600.000,00
+6.800.000,00
+5.033.208,50
+5.207.791,41
+14. Ergebnis nach Steuern
+47.063.086,71
+52.828.757,04
+15. Sonstige Steuern
+350.693,12
+614.028,87
+16. Jahresüberschuss
+46.712.393,59
+52.214.728,17
+17. Gewinnvortrag aus dem Vorjahr
+140.199.788,86
+128.245.109,41
+18. Bilanzgewinn
+186.912.182,45
+180.459.837,58
+4
+
+Anhang für das Geschäftsjahr 2022 
+ 
+Pfeiffer Vacuum Technology AG, Aßlar 
+ 
+Die Pfeiffer Vacuum Technology AG mit Sitz in Aßlar ist eine Aktiengesellschaft nach 
+deutschem Recht und beim Amtsgericht Wetzlar unter der Nummer HRB 44 in das 
+Handelsregister eingetragen. 
+ 
+Der vorliegende Jahresabschluss wurde gemäß §§ 242 ff. und §§ 264 ff. HGB sowie nach den 
+einschlägigen Vorschriften des AktG und den ergänzenden Bestimmungen der Satzung 
+aufgestellt. Es gelten die Vorschriften für große Kapitalgesellschaften. Die Gewinn- und 
+Verlustrechnung ist nach dem Gesamtkostenverfahren aufgestellt.  
+ 
+Angaben, die in der Bilanz oder in der Gewinn- und Verlustrechnung beziehungsweise wahl-
+weise im Anhang zu erfolgen haben, sind insgesamt im Anhang aufgeführt.  
+ 
+ 
+1. 
+Bilanzierungs- und Bewertungsmethoden 
+ 
+Für die Aufstellung des Jahresabschlusses waren im Wesentlichen unverändert die nach-
+folgenden Bilanzierungs- und Bewertungsmethoden maßgebend.  
+ 
+1.1 
+Anlagevermögen 
+ 
+Das Sachanlagevermögen und erworbene immaterielle Vermögensgegenstände sind mit den 
+Anschaffungskosten 
+und, 
+soweit 
+abnutzbar, 
+unter 
+Berücksichtigung 
+planmäßiger 
+Abschreibungen bewertet. Die Abschreibung erfolgt linear über die voraussichtliche Nutzungs-
+dauer. 
+ 
+Geleistete Anzahlungen und Software (vor Inbetriebnahme) werden zum Nennwert 
+beziehungsweise zu Anschaffungs- und Herstellungskosten angesetzt. 
+ 
+Die Finanzanlagen in Form von Anteilsrechten sind grundsätzlich zu Anschaffungskosten 
+angesetzt. Ausleihungen werden zum Nennwert bilanziert.  
+ 
+Außerplanmäßige Abschreibungen werden im Anlagevermögen bei voraussichtlich dauernden 
+Wertminderungen vorgenommen und im Finanzanlagevermögen gegebenenfalls auch bei 
+vorübergehenden Wertminderungen. Bei Wegfall des Wertminderungsgrundes erfolgen 
+entsprechende Zuschreibungen.  
+ 
+1.2 
+Umlaufvermögen 
+ 
+Forderungen und sonstige Vermögensgegenstände werden zu ihren Nennwerten oder mit 
+dem am Bilanzstichtag niedrigeren beizulegenden Wert angesetzt. 
+ 
+In den flüssigen Mitteln sind Kassenbestände und Guthaben bei Kreditinstituten enthalten. Sie 
+sind zum Nennwert angesetzt. 
+ 
+1.3 
+Aktive Rechnungsabgrenzungsposten 
+ 
+Aktive Rechnungsabgrenzungsposten sind Ausgaben vor dem Abschlussstichtag, soweit sie 
+Aufwendungen für einen bestimmten Zeitraum nach diesem Stichtag darstellen. Sie werden 
+zum Nennwert angesetzt. 
+ 
+5
+
+1.4 
+Aktive latente Steuern 
+ 
+Aktive latente Steuern resultieren aus temporären und quasi-permanenten Bewertungs-
+unterschieden zwischen der handelsrechtlichen und steuerrechtlichen Bewertung der 
+Pensionen, des Sachanlagevermögens und der immateriellen Vermögensgegenstände. Die 
+Berechnung erfolgt grundsätzlich unter Verwendung eines unternehmensindividuellen 
+Steuersatzes von 29,0 %, die Aktivierung latenter Steuern unterbleibt jedoch in Ausübung des 
+dafür bestehenden Ansatzwahlrechtes.  
+ 
+1.5 
+Eigenkapital  
+ 
+Die Eigenkapitalposten sind zum Nennwert angesetzt. 
+ 
+1.6 
+Rückstellungen und Verbindlichkeiten  
+ 
+Die Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewisse Verpflichtungen 
+und werden jeweils in Höhe des Erfüllungsbetrages angesetzt, der nach vernünftiger 
+kaufmännischer Beurteilung erforderlich ist (einschließlich zukünftiger Kosten- und Preis-
+steigerungen).  
+ 
+Dem Ansatz der Pensionsverpflichtungen liegt ein versicherungsmathematisches Gutachten 
+zugrunde. Die Bewertung erfolgt nach der projizierten Einmalbetragsmethode (Projected Unit 
+Credit-Methode) unter Berücksichtigung erwarteter zukünftiger Gehalts- und Rentensteige-
+rungen sowie Fluktuationsraten. Die Diskontierung erfolgt nach Maßgabe des von der 
+Deutschen Bundesbank veröffentlichten durchschnittlichen Marktzinssatzes nach der Rück-
+stellungsabzinsungsverordnung aus den vergangenen zehn Geschäftsjahren für eine ange-
+nommene Restlaufzeit von 15 Jahren von 1,78% (Vorjahr: 1,87%) und unverändert unter 
+Verwendung der im Jahr 2018 veröffentlichten „Richttafeln 2018 G“ von Prof. Dr. Heubeck. 
+Aufgrund der handelsrechtlichen Saldierungspflicht mit dem zu Marktwerten bewerteten 
+Deckungsvermögen (Vermögensgegenstände im Pfeiffer Vacuum Trust e.V., die dem Zugriff 
+aller 
+übrigen 
+Gläubiger 
+entzogen 
+sind 
+und 
+ausschließlich 
+der 
+Erfüllung 
+der 
+Pensionsverpflichtungen dienen) wird in der Bilanz lediglich die Nettopensionsverpflichtung 
+ausgewiesen. In der Gewinn- und Verlustrechnung erfolgt ein saldierter Ausweis der Erträge 
+aus dem Deckungsvermögen und den Aufwendungen aus der veränderten Abzinsung der 
+Pensionsverpflichtung.  
+ 
+Die Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt. 
+ 
+1.7 
+Passive Rechnungsabgrenzungsposten  
+ 
+Passive Rechnungsabgrenzungsposten sind Einnahmen vor dem Abschlussstichtag, soweit 
+sie Ertrag für einen bestimmten Zeitraum nach diesem Stichtag darstellen. Sie werden zum 
+Nennwert angesetzt. 
+ 
+1.8 
+Währungsumrechnung 
+ 
+Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten werden im 
+Zeitpunkt ihrer Entstehung zum Devisenkassakurs angesetzt und im Rahmen der 
+Folgebewertung grundsätzlich mit dem Devisenkassamittelkurs zum Abschlussstichtag 
+umgerechnet. Bei einer Restlaufzeit von mehr als einem Jahr wurde dabei das 
+Realisationsprinzip 
+(§ 252 
+Abs. 1 
+Nr. 4 
+Halbsatz 
+2 
+HGB) 
+beziehungsweise 
+das 
+Anschaffungskostenprinzip (§ 253 Abs. 1 Satz 1 HGB) beachtet. 
+ 
+ 
+ 
+ 
+6
+
+2. 
+Bilanzerläuterungen 
+ 
+2.1 
+Aktiva 
+ 
+2.1.1 Anlagevermögen 
+ 
+Die Entwicklung der einzelnen Posten des Anlagevermögens ist in Anlage 1 des Anhangs 
+dargestellt.  
+ 
+2.1.2 Anteile an verbundenen Unternehmen 
+ 
+Die unmittelbaren und mittelbaren Anteile an verbundenen Unternehmen sind in Anlage 2 des 
+Anhangs dargestellt. Veränderungen haben sich im Berichtsjahr nicht ergeben.  
+ 
+2.1.3 Ausleihungen an verbundene Unternehmen 
+ 
+Die zum 31. Dezember 2022 bilanzierten Ausleihungen (T€ 37.706) bestehen gegen ver-
+schiedene Gesellschaften aus dem Pfeiffer Vacuum Konzern und haben sich gegenüber dem 
+Vorjahr (T€ 9.550) aufgrund von neuen Ausleihungen in Höhe von T€ 28.156 entsprechend 
+erhöht. Der Anstieg resultiert vor allem aus der konzerninternen Finanzierung des 
+Investitionsprogramms und der operativen Geschäftsentwicklung der Konzerngesellschaften.  
+ 
+2.1.4 Sondervermögen Pension Trust 
+ 
+Seit Inkrafttreten des Bilanzrechtsmodernisierungsgesetzes (BilMoG) erfolgt ein saldierter 
+Ausweis der Vermögensgegenstände im Pfeiffer Vacuum Trust e.V. mit den Pensions-
+verpflichtungen der Gesellschaft, da diese Vermögensgegenstände als Deckungsvermögen 
+zu klassifizieren sind. Im Berichtsjahr wird dementsprechend nur eine Nettopensionsver-
+pflichtung ausgewiesen. Die Bewertung des Sondervermögens erfolgt mit börsenmäßig 
+festgestellten Marktpreisen am Bilanzstichtag. 
+ 
+2.1.5 Forderungen und sonstige Vermögensgegenstände 
+ 
+Zum Bilanzstichtag bestehen Forderungen gegen verbundene Unternehmen in Höhe von 
+T€ 102.792 (Vorjahr: T€ 66.940). Dieser Betrag beinhaltet im Wesentlichen Forderungen aus 
+Ergebnisabführung gegen die Pfeiffer Vacuum GmbH und Forderungen aufgrund Weiter-
+belastung der Gewerbesteuer ebenfalls an die Pfeiffer Vacuum GmbH. Die Forderungen 
+gegen verbundene Unternehmen beinhalten T€ 3.297 Forderungen aus Lieferungen und 
+Leistungen (Vorjahr: T€ 7.961) 
+ 
+Die sonstigen Vermögensgegenstände beinhalten im Wesentlichen Forderungen gegen 
+Finanzbehörden aus Umsatzsteuererstattungsansprüchen (T€ 1.522 Vorjahr: T€ 3.640).  
+ 
+Es bestehen wie im Vorjahr keine Beträge mit einer Restlaufzeit von mehr als einem Jahr. 
+ 
+ 
+7
+
+2.2 
+Passiva 
+ 
+2.2.1 Gezeichnetes Kapital 
+ 
+Das Grundkapital der Pfeiffer Vacuum Technology AG beträgt zum 31. Dezember 2022 
+unverändert T€ 25.261. Die Aktien lauten auf den Inhaber und sind eingeteilt in 9.867.659 
+Stückaktien. Der auf die einzelnen Aktien entfallende rechnerische Anteil am Grundkapital 
+beträgt € 2,56.  
+ 
+2.2.2 Eigene Aktien 
+ 
+Auf der Hauptversammlung am 20. Mai 2020 haben die Aktionäre den Vorstand zum Rückkauf 
+eigener Aktien entsprechend § 71 Abs. 1 Nr. 8 AktG ermächtigt. Diese Ermächtigung erstreckt 
+sich auf einen Rückkauf eines anteiligen Betrags vom Grundkapital von bis zu € 2.526.120,70 
+(986.766 Aktien entsprechend 10 % des Grundkapitals im Zeitpunkt der Beschlussfassung), 
+bedarf zur Ausübung der Zustimmung des Aufsichtsrats und ist gültig bis zum 19. Mai 2025.  
+ 
+2.2.3 Genehmigtes Kapital  
+ 
+Durch Beschluss der Hauptversammlung vom 23. Mai 2018 ist der Vorstand ermächtigt, das 
+gezeichnete Kapital um bis zu € 12.630.602,24 oder 4.933.829 Aktien gegen Bar- und/oder 
+Sacheinlage einmal oder mehrmals zu erhöhen (genehmigtes Kapital). Diese Ermächtigung 
+gilt bis zum 23. Mai 2023 und bedarf der Zustimmung des Aufsichtsrats.  
+ 
+2.2.4 Bedingtes Kapital 
+ 
+Gemäß Beschluss der Hauptversammlung vom 23. Mai 2019 ist der Vorstand ermächtigt, 
+Teilschuldverschreibungen mit Options- oder Wandlungsrechten bzw. Options- oder 
+Wandlungspflichten, 
+Genussrechten 
+und 
+Gewinnschuldverschreibungen 
+(bzw. 
+Kombinationen dieser Instrumente) im Gesamtnennbetrag von bis zu € 200.000.000,00 zu 
+begeben und den Inhabern Wandlungsrechte auf bis zu 2.466.914 Aktien mit einem anteiligen 
+Betrag des Grundkapitals von insgesamt bis zu € 6.315.299,84 zu gewähren. Diese 
+Ermächtigung gilt bis zum 22. Mai 2024 und bedarf der Zustimmung des Aufsichtsrats. 
+ 
+2.2.5 Kapitalrücklage 
+ 
+Die Kapitalrücklage in Höhe von T€ 99.677 zum 31. Dezember 2022 hat sich im Vergleich zum 
+Vorjahr nicht verändert.  
+ 
+2.2.6 Bilanzgewinn 
+ 
+Vom Bilanzgewinn des Vorjahres in Höhe von T€ 180.460 wurden gemäß Beschluss der 
+Hauptversammlung vom 19. Mai 2022 insgesamt T€ 40.260 ausgeschüttet. Der Restbetrag 
+von T€ 140.200 wurde auf neue Rechnung vorgetragen. Unter Berücksichtigung des Jahres-
+überschusses in Höhe von T€ 46.712 ergibt sich somit ein Bilanzgewinn in Höhe von 
+T€ 186.912. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+
+2.2.7 Rückstellungen für Pensionen 
+ 
+Nach der durch BilMoG ab dem Jahr 2010 zwingend erforderlichen Saldierung der Pensions-
+verpflichtungen mit dem zugehörigen Deckungsvermögen werden zum 31. Dezember 2022 
+Nettopensionsverpflichtungen von T€ 8.679 (Vorjahr: T€ 6.241) ausgewiesen. Diese Position 
+setzt sich aus dem Erfüllungsbetrag der Pensionsverpflichtungen von T€ 15.565 und dem 
+Marktwert des Deckungsvermögens von T€ 6.886 zusammen (Vorjahr: T€ 14.007 bezie-
+hungsweise T€ 7.766). Die Anschaffungskosten des Deckungsvermögens betragen T€ 7.503 
+(Vorjahr: T€ 7.868). Seit dem Jahr 2015 werden in den Rückstellungen für Pensionen neben 
+den einzelvertraglichen Zusagen an inzwischen ausgeschiedene Vorstandsmitglieder auch 
+Verpflichtungen aus Versorgungszusagen an Mitarbeiter der Gesellschaft ausgewiesen. 
+ 
+Bei der Bewertung der Pensionsverpflichtungen zum 31. Dezember 2022 wurden ein Rech-
+nungszinsfuß von 1,78 % (Vorjahr: 1,87 %), eine Gehaltsdynamik von unverändert 3,00 %, ein 
+Rententrend von 2,20 % (Vorjahr: 2,00 %) und eine Fluktuationsrate von unverändert 3,00 % 
+berücksichtigt. Die Bewertung des Deckungsvermögens erfolgte auf Basis festgestellter 
+Börsen- oder Marktpreise zum Jahresende.  
+ 
+Der Unterschiedsbetrag zwischen dem Ansatz der Rückstellungen nach Maßgabe des ent-
+sprechenden durchschnittlichen Marktzinssatzes aus den vergangenen zehn Geschäftsjahren 
+und dem Ansatz der Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen 
+Marktzinssatzes aus den vergangenen sieben Geschäftsjahren wurde in Übereinstimmung mit 
+§ 253 Abs. 6 S. 1 HGB ermittelt und beläuft sich zum Bilanzstichtag auf T€ 840 (Vorjahr: 
+T€ 1.164). 
+ 
+2.2.8 Sonstige Rückstellungen  
+ 
+Von den sonstigen Rückstellungen entfallen T€ 1.163 auf Personalaufwendungen 
+(Vorjahr: T€ 2.736), T€  951 auf fehlende Eingangsrechnungen (Vorjahr: T€ 874) und T€  369 
+auf Jahresabschlusskosten (Vorjahr: T€ 385).  
+ 
+2.2.9 Verbindlichkeiten 
+ 
+Die Restlaufzeiten der Verbindlichkeiten und die Besicherungen sind in Anlage 3 des Anhangs 
+dargestellt. 
+ 
+Die zum 31. Dezember 2022 ausgewiesenen Verbindlichkeiten in Höhe von T€ 63.597 
+(Vorjahr: T€ 5.000) gegenüber Kreditinstituten resultieren aus Mittelaufnahmen im 
+Zusammenhang mit der Finanzierung der Wachstumsstrategie und des operativen Geschäfts 
+des Konzerns, die durch die Gesellschaft in ihrer Holdingfunktion adressiert wird.  
+ 
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen des Vorjahres bestanden 
+gegenüber der Pfeiffer Vacuum SAS, Annecy, Frankreich, und resultierten aus einer im Jahr 
+2017 abgeschlossenen Cash-Pooling-Vereinbarung. Offene Beträge werden marktüblich 
+verzinst.  
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+9
+
+2.3 
+Sonstige Angaben zur Bilanz 
+ 
+2.3.1 Haftungsverhältnisse gemäß §§ 251, 268 Abs. 7 HGB 
+ 
+Die Pfeiffer Vacuum Technology AG haftet für Avalkredite diverser Tochtergesellschaften in 
+Höhe von T€ 1.458 (Vorjahr: T€ 1.307). Das Risiko einer Inanspruchnahme aus den Aval-
+krediten wird aufgrund der guten Vermögens-, Finanz- und Ertragslage der Tochtergesell-
+schaften als gering eingeschätzt. 
+ 
+2.3.2 Sonstige finanzielle Verpflichtungen 
+ 
+Die sonstigen finanziellen Verpflichtungen belaufen sich zum Bilanzstichtag auf T€ 354 
+(Vorjahr: T€ 9.300). Der Rückgang resultiert im Wesentlichen aus IT-Serviceverträgen, die an 
+andere Konzerngesellschaften übertragen wurden.  
+ 
+ 
+3. 
+Erläuterungen zur Gewinn- und Verlustrechnung 
+ 
+Die Darstellung der Ergebnisrechnung erfolgt unverändert nach dem Gesamtkostenverfahren. 
+Die Gliederung der Gewinn- und Verlustrechnung wurde den Besonderheiten der Gesellschaft 
+angepasst, um die Übersichtlichkeit zu erhöhen.  
+ 
+3.1 
+ Umsatzerlöse 
+ 
+In den Umsatzerlösen sind im Wesentlichen Mieterträge (T€  2.169; Vorjahr: T€ 2.161) und 
+Weiterbelastungen von Kosten (T€ 5.773; Vorjahr: T€ 11.701) an Tochtergesellschaften 
+enthalten.  
+ 
+Umsatzerlöse in Höhe von T€ 2.586 (Vorjahr: T€ 5.681) entfallen auf Weiterbelastungen von 
+Kosten an nicht in Deutschland ansässige Tochtergesellschaften. Alle übrigen Umsatzerlöse 
+wurden im Inland erwirtschaftet.   
+ 
+3.2 
+Erträge aus Ergebnisabführungsvertrag 
+ 
+Die Erträge aus Ergebnisabführungsvertrag betreffen ausschließlich die Pfeiffer Vacuum 
+GmbH, Aßlar. 
+ 
+3.3 
+Sonstige betriebliche Erträge 
+ 
+Die sonstigen betrieblichen Erträge umfassen im laufenden Geschäftsjahr im Wesentlichen 
+periodenfremde Erträge aus der Auflösung von Rückstellungen (T€ 245; Vorjahr: T€ 66). Von 
+den 
+sonstigen 
+betrieblichen 
+Erträgen 
+entfallen 
+T€ 62 
+(Vorjahr: 
+T€ 19) 
+auf 
+Währungsumrechnungsgewinne. 
+ 
+3.4 
+Materialaufwand für bezogene Leistungen 
+ 
+Im Materialaufwand für bezogene Leistungen sind Dienstleistungskosten durch Dritte (T€ 593; 
+Vorjahr: T€ 412) und Versicherungsprämien (T€ 208; Vorjahr: T€ 182) enthalten. Der 
+Materialaufwand enthält außerdem von verbundenen Unternehmen belastete IT-Kosten in 
+Höhe von T€ 63 (Vorjahr: T€ 5.588).  
+ 
+ 
+10
+
+3.5 
+Sonstige betriebliche Aufwendungen 
+ 
+Die sonstigen betrieblichen Aufwendungen enthalten im Wesentlichen Rechts- und 
+Beratungskosten (T€ 646; Vorjahr: T€ 1.291), Dienstleistungskosten durch Dritte (T€ 2.018  
+Vorjahr: T€ 4.815, Aufsichtsratsvergütung (T€ 445; Vorjahr: T€ 455), Reiseaufwendungen 
+(T€ 182; 
+Vorjahr: 
+T€ 63), 
+Beitragszahlungen 
+(T€ 43; 
+Vorjahr: 
+T€ 63) 
+und 
+Fremdinstandhaltungskosten durch Dritte (T€ 52; Vorjahr: T€ 1).   
+ 
+3.6 
+Sonstige Zinsen und ähnliche Erträge 
+ 
+Im Berichtsjahr sind Sonstige Zinsen und ähnliche Erträge in Höhe von T€ 149 angefallen, 
+davon T€ 149 aus verbundenen Unternehmen (Vorjahr: T€ 153, davon T€ 151 aus 
+verbundenen Unternehmen).  
+ 
+3.7 
+Zinsen und ähnliche Aufwendungen 
+ 
+Entsprechend den gesetzlichen Vorgaben erfolgte in der Gewinn- und Verlustrechnung eine 
+Saldierung der Aufwendungen aus Abzinsungen der Pensionsverpflichtungen mit den 
+Erträgen aus dem Deckungsvermögen. Bei Aufwendungen aus Abzinsungen in Höhe von 
+T€ 254 (Vorjahr: T€ 306) und Verlusten aus dem Deckungsvermögen von T€ 517 (Vorjahr: 
+Erträge von T€ 230) sind insgesamt T€ 771 in den Zinsaufwendungen enthalten (Vorjahr: 
+T€ 76).  
+ 
+Darüber hinaus werden hier die Zinsaufwendungen für Bankkredite (T€ 504, Vorjahr: T€ 432) 
+und weitere Zinsaufwendungen (T€ 39, Vorjahr: T€ 129) erfasst.  
+ 
+3.8 
+Steuern vom Einkommen und vom Ertrag 
+ 
+Zusammensetzung des Steueraufwands (in T€) 
+ 
+ 
+ 
+2022 
+2021 
+Gewerbesteuer 
+6.453 
+5.528 
+Körperschaftsteuer  
+5.825 
+6.142 
+Solidaritätszuschlag 
+355 
+338 
+Gesamt 
+12.633 
+12.008 
+ 
+An die Pfeiffer Vacuum GmbH wurden davon T€ 7.600 weiterbelastet (Vorjahr: T€ 6.800). Im 
+Steueraufwand sind keine periodenfremde Erträge oder Aufwendungen als Folge von 
+Steuerrückzahlungen oder -erstattungen für Vorjahre enthalten (Vorjahr: periodenfremde 
+Erträge in Höhe T€ 26).  
+ 
+ 
+ 
+ 
+11
+
+4. 
+Sonstige Angaben 
+ 
+4.1 
+Vorstand 
+ 
+Im Geschäftsjahr 2022 bestand der Vorstand unverändert aus: 
+ 
+• 
+Diplom-Wirtschaftsingenieurin, Master of Engineering Dr. Britta Giesen 
+(Vorstandsvorsitzende, ab 1. Januar 2021) und  
+• 
+Diplom-Wirtschaftsingenieur Wolfgang Ehrk 
+(Vorstand Operations) 
+ 
+Die im Jahr 2022 ergebniswirksam erfasste Gesamtvergütung der zuvor genannten Mitglieder 
+des Vorstands belief sich auf T€ 1.501 (Vorjahr: T€ 1.291). Die im Jahr 2022 abgeflossene 
+Gesamtvergütung an Mitglieder des Vorstands (darunter befinden sich auch Auszahlungen an 
+inzwischen ausgeschiedene Vorstandsmitglieder) belief sich auf T€ 3.658 (Vorjahr: T€ 1.830). 
+Davon entfallen T€ 2.500 auf Abfindungsleistungen an ehemalige Vorstandsmitglieder. Die 
+Auszahlung der Abfindung erfolgte in Höhe von T€ 2.000 zu Lasten einer bereits in den 
+Vorjahren gebildeten Rückstellung und in Höhe von T€ 500 zu Lasten des Jahresergebnisses 
+2022. 
+ 
+Zum Bilanzstichtag 31. Dezember 2022 ausstehende Salden gegenüber Vorstandsmitgliedern 
+betreffen die Rückstellungen für die variable Vergütung und belaufen sich auf T€ 945 (Vorjahr: 
+T€ 700). Die Pensionsaufwendungen beliefen sich im abgelaufenen Geschäftsjahr auf T€ 50 
+(Vorjahr: T€ 50) und schließen Versorgungsvereinbarungen in Form von Beitragszusagen mit 
+ein. Für am Bilanzstichtag 31. Dezember 2022 aktive Vorstandsmitglieder bestehen 
+unverändert im Vergleich zum Vorjahr keine in den Rückstellungen zu bilanzierenden 
+Versorgungszusagen. 
+ 
+Leistungen an ehemalige Vorstandsmitglieder nach Beendigung des Arbeitsverhältnisses 
+(laufende Pensionen) belaufen sich auf T€ 468 (Vorjahr: T€ 403). Die für diesen Personenkreis 
+gebildete Pensionsrückstellung beläuft sich zum 31. Dezember 2022 auf T€ 15.352 (Vorjahr: 
+T€ 13.825, jeweils vor Saldierung mit dem Deckungsvermögen). Der in diesem 
+Zusammenhang erfasste Nettopensionsaufwand des Jahres 2022 beläuft sich auf T€ 2.032 
+(Vorjahr: T€ 172).  
+ 
+Die Mitglieder des Vorstands gehören den Kontrollgremien diverser Konzerngesellschaften 
+an. Frau Dr. Giesen ist außerdem Mitglied im Aufsichtsrat der Rheinmetall AG, Düsseldorf, 
+Deutschland.  
+ 
+4.2 
+Aufsichtsrat 
+ 
+Entsprechend §§ 96 Abs. 1, 101 Abs. 1 AktG, § 4 Drittelbeteiligungsgesetz 2004 und 
+§ 9 Abs. 1 der Satzung der Gesellschaft besteht der Aufsichtsrat aus vier von den Anteils-
+eigner:innen und zwei von der Belegschaft gewählten Mitgliedern.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+
+Die Zusammensetzung stellte sich im gesamten Jahr 2022 wie folgt dar: 
+ 
+• 
+Ayla Busch (Vorsitzende),  
+Co-CEO Busch SE, Maulburg 
+• 
+Götz Timmerbeil (stellvertretender Vorsitzender),  
+Wirtschaftsprüfer und Steuerberater 
+• 
+Timo Birkenstock (Arbeitnehmervertreter),  
+Entwicklungsingenieur, 
+• 
+Minja Lohrer,  
+Direktorin, BLR Capital AG, Zürich, Schweiz 
+• 
+Henrik Newerla,  
+selbstständiger Managementberater 
+• 
+Stefan Röser (Arbeitnehmervertreter),  
+Betriebsratsvorsitzender 
+ 
+Für die Mitglieder des Aufsichtsrats sind im Berichtszeitraum fixe Bezüge in Höhe von T€ 445 
+(Vorjahr: T€ 454) angefallen.  
+ 
+Die folgenden Mitglieder übten weitere Mandate aus. Sofern nicht anders angegeben, 
+handelt es sich dabei um Aufsichtsratsmandate:  
+ 
+• 
+Götz Timmerbeil 
+o Richard Stein GmbH & Co. KG, Engelskirchen, (Vorsitzender des Beirats),  
+ 
+Die übrigen Mitglieder des Aufsichtsrats gehören nur dem Aufsichtsrat der Pfeiffer Vacuum 
+Technology AG, Aßlar, an. 
+ 
+4.3 
+Mitarbeiter 
+ 
+Im Geschäftsjahr 2022 beschäftigte die Gesellschaft durchschnittlich 8 Mitarbeitende (Vorjahr: 
+7 Mitarbeitende), davon 3 weibliche und 5 männliche Mitarbeitende (Vorjahr: 3 weibliche 
+Mitarbeiterinnen und 4 männliche Mitarbeiter). 
+ 
+4.4 
+Gewinnverwendungsvorschlag 
+ 
+Der Vorstand schlägt vor, aus dem Bilanzgewinn in Höhe von T€ 186.912 eine Dividende in 
+Höhe von T€ 1.085 auszuschütten und den restlichen Betrag auf neue Rechnung vorzutragen. 
+Dies entspräche einer Ausschüttung von € 0,11 je Stückaktie.  
+ 
+4.5 
+Konzernabschluss 
+ 
+Die Pfeiffer Vacuum Technology AG stellt einen Konzernabschluss für den kleinsten Kreis von 
+Unternehmen nach International Financial Reporting Standards (IFRS), wie sie in der EU 
+anzuwenden sind, auf. Die Tochtergesellschaften der Pfeiffer Vacuum Technology AG, die in 
+Anlage 2 des Anhangs dargestellt werden, sind in diesen Abschluss einbezogen. Die 
+Veröffentlichung des Konzernabschlusses erfolgt im elektronischen Bundesanzeiger. 
+ 
+Die Busch Holding GmbH & Co. KG, Maulburg, Deutschland, stellt einen Konzernabschluss 
+für den größten Kreis von Unternehmen auf. Der Konzernabschluss der Pfeiffer Vacuum 
+Technology AG wird in diesen Abschluss einbezogen. Die Veröffentlichung des Konzern-
+abschlusses erfolgt im elektronischen Bundesanzeiger. 
+ 
+ 
+ 
+13
+
+4.6 
+Ergebnisabführungsvertrag zwischen Pfeiffer Vacuum Technology AG und  
+Pfeiffer Vacuum GmbH 
+ 
+Im August 2002 hat die Pfeiffer Vacuum Technology AG einen Ergebnisabführungsvertrag mit 
+der Pfeiffer Vacuum GmbH (als Organgesellschaft) geschlossen. Die Pfeiffer Vacuum 
+Technology AG hat im Jahresabschluss 2022 eine Gewinnübernahme von der Pfeiffer 
+Vacuum GmbH in Höhe von T€ 46.695 in der Gewinn- und Verlustrechnung unter den 
+Erträgen aus Ergebnisabführungsvertrag ausgewiesen (Vorjahr: T€ 51.741).  
+ 
+4.7 
+Angaben zum Aktienbesitz 
+ 
+Die relevanten Angaben zum Aktienbesitz sind in Anlage 4 des Anhangs dargestellt. 
+ 
+4.8 
+Erklärung gem. § 161 AktG zum Corporate Governance Kodex 
+ 
+Vorstand und Aufsichtsrat der Pfeiffer Vacuum Technology AG haben am 4. November 2022 
+die Entsprechenserklärung nach § 161 AktG für das Jahr 2022 abgegeben. Die Erklärung ist 
+den Aktionären auf der Internetseite der Gesellschaft dauerhaft zugänglich gemacht. 
+ 
+4.9 
+Honorar für den Abschlussprüfer 
+ 
+Das für das Geschäftsjahr berechnete Honorar des Abschlussprüfers im Sinne des § 285 
+Nr. 17 HGB wird im Anhang zum Konzernabschluss der Pfeiffer Vacuum Technology AG 
+ausgewiesen.  
+ 
+Wesentliche durch den Abschlussprüfer für die Pfeiffer Vacuum Technology AG erbrachte 
+sonstige Bestätigungsleistungen betreffen die Prüfung der nicht-finanziellen Erklärung für den 
+Konzern. 
+ 
+ 
+5. 
+Nachtragsbericht 
+ 
+ 
+Wesentliche Änderungen der Unternehmenssituation oder des Branchenumfeldes haben sich 
+seit Beginn des Geschäftsjahres 2023 nicht ergeben.  
+ 
+ 
+ 
+Aßlar, den 6. März 2023 
+ 
+ 
+Pfeiffer Vacuum Technology AG 
+ 
+Der Vorstand 
+ 
+ 
+ 
+ 
+Dr. Britta Giesen                                                    Wolfgang Ehrk 
+14
+
+Pfeiffer Vacuum Technology AG, Aßlar
+Anlage 1 zum Anhang
+Anlagevermögen
+Stand am
+Zugänge
+Umbuchung
+Abgänge
+Stand am
+Stand am
+Zugänge
+Umbuchung
+Abgänge
+Stand am
+Nettobuchwert
+Nettobuchwert
+01.01.2022
+31.12.2022
+01.01.2022
+31.12.2022
+zum 31.12.2022
+zum 31.12.2021
+Immaterielle Vermögensgegenstände
+1. Entgeltlich erworbene Konzessionen, gewerb-
+    liche Schutzrechte und ähnliche Rechte und 
+    Werte sowie Lizenzen an solchen 
+    Rechten und Werten
+4.177.258,00
+428.326,97
+1.321.544,54
+-101.022,64
+5.826.106,87
+2.558.846,00
+584.357,51
+0,00
+-100.994,64
+3.042.208,87
+2.783.898,00
+1.618.412,00
+2. Software (vor Inbetriebnahme)
+10.484.709,61
+256.773,10
+-1.321.544,54
+0,00
+9.419.938,17
+0,00
+0,00
+0,00
+0,00
+0,00
+9.419.938,17
+10.484.709,61
+Immaterielle Vermögensgegenstände
+14.661.967,61
+685.100,07
+0,00
+-101.022,64
+15.246.045,04
+2.558.846,00
+584.357,51
+0,00
+-100.994,64
+3.042.208,87
+12.203.836,17
+12.103.121,61
+Sachanlagen
+1. Grundstücke, grundstücksgleiche Rechte
+    und Bauten einschließlich der Bauten auf
+    fremden Grundstücken
+35.373.724,81
+259.016,00
+238.439,45
+0,00
+35.871.180,26
+27.085.452,41
+883.135,45
+0,00
+0,00
+27.968.587,86
+7.902.592,40
+8.288.272,40
+2. Andere Anlagen, Betriebs- und 
+    Geschäftsausstattung
+2.869.941,43
+67.454,37
+0,00
+-94.297,20
+2.843.098,60
+1.954.466,43
+258.371,87
+0,00
+-93.538,70
+2.119.299,60
+723.799,00
+915.475,00
+3. Geleistete Anzahlungen und Anlagen im Bau
+79.300,00
+4.354.585,14
+-238.439,45
+0,00
+4.195.445,69
+0,00
+0,00
+0,00
+0,00
+0,00
+4.195.445,69
+79.300,00
+Sachanlagen
+38.322.966,24
+4.681.055,51
+0,00
+-94.297,20
+42.909.724,55
+29.039.918,84
+1.141.507,32
+0,00
+-93.538,70
+30.087.887,46
+12.821.837,09
+9.283.047,40
+Finanzanlagen
+1. Anteile an verbundenen Unternehmen
+224.909.480,03
+0,00
+0,00
+0,00
+224.909.480,03
+900.000,00
+0,00
+0,00
+0,00
+900.000,00
+224.009.480,03
+224.009.480,03
+2. Ausleihungen an verbundene Unternehmen
+9.550.000,00
+30.156.109,71
+0,00
+-2.000.000,00
+37.706.109,71
+0,00
+0,00
+0,00
+0,00
+0,00
+37.706.109,71
+9.550.000,00
+Finanzanlagen
+234.459.480,03
+30.156.109,71
+0,00
+-2.000.000,00
+262.615.589,74
+900.000,00
+0,00
+0,00
+0,00
+900.000,00
+261.715.589,74
+233.559.480,03
+Gesamtanlagevermögen
+287.444.413,88
+35.522.265,29
+0,00
+-2.195.319,84
+320.771.359,33
+32.498.764,84
+1.725.864,83
+0,00
+-194.533,34
+34.030.096,33
+286.741.263,00
+254.945.649,04
+Anschaffungskosten
+Kumulierte Abschreibungen
+Nettobuchwerte
+EURO
+EURO
+EURO
+15
+
+Beteiligungen
+Anlage 2 zum Anhang
+Unmittelbare Beteiligung
+Anteil in %
+Pfeiffer Vacuum SAS, Frankreich
+T€
+9.424
+T€
+124.479
+T€
+26.954
+100,00
+Pfeiffer Vacuum Semi Korea Ltd., Südkorea
+TKRW
+29.273.100
+TKRW
+56.892.903
+TKRW
+1.633.838
+100,00
+Dreebit GmbH, Deutschland 
+T€
+26
+T€
+3.492
+T€
+994
+100,00
+Pfeiffer Vacuum GmbH, Deutschland
+T€
+7.700
+T€
+190.865 *
+T€
+54.278 *
+100,00
+Pfeiffer Vacuum Holding B.V., Niederlande
+T€
+454
+T€
+4.899
+T€
+1.179
+100,00
+Pfeiffer Vacuum Components & Solutions GmbH, Deutschland
+T€
+451
+T€
+21.138
+T€
+4.631
+100,00
+Werte basieren auf International Financial Reporting Standards (IFRS)
+* Vor Ergebnisabführung
+Nennkapital
+Eigenkapital
+Ergebnis 2022
+ 1/2
+16
+
+Beteiligungen
+Anlage 2 zum Anhang
+Mittelbare Beteiligung
+Pfeiffer Vacuum (Wuxi) Co., Ltd., China
+TCNY
+22.463
+TCNY
+22.463
+TCNY
+0
+100,00
+Pfeiffer Vacuum Romania S.r.l., Rumänien
+TRON
+15.750
+TRON
+33.464
+TRON
+3.339
+100,00
+Pfeiffer Vacuum Singapore Pte. Ltd., Singapur
+TSGD
+4.700
+TSGD
+19.066
+TSGD
+1.891
+100,00
+Pfeiffer Vacuum Taiwan Corporation Ltd., Taiwan
+TNTD
+77.000
+TNTD
+243.831
+TNTD
+134.956
+100,00
+Pfeiffer Vacuum Austria GmbH, Österreich
+T€
+146
+T€
+2.166
+T€
+1.669
+100,00
+Pfeiffer Vacuum Shared Services GmbH, Deutschland
+T€
+50
+T€
+7.696
+T€
+-6.760
+100,00
+Goldfish IT GmbH, Deutschland
+T€
+25
+T€
+-60
+T€
+-110
+100,00
+Pfeiffer Vacuum Benelux B.V., Niederlande
+T€
+18
+T€
+5.861
+T€
+1.025
+100,00
+Pfeiffer Vacuum Inc., USA
+TUSD
+23.550
+TUSD
+145.019
+TUSD
+4.651
+100,00
+Pfeiffer Vacuum (India) Private Ltd., Indien
+TINR
+10.056
+TINR
+340.127
+TINR
+149.636
+100,00
+Pfeiffer Vacuum Italia S.p.A., Italien
+T€
+384
+T€
+4.957
+T€
+670
+100,00
+Pfeiffer Vacuum Ltd., Großbritannien
+TGBP
+350
+TGBP
+5.665
+TGBP
+1.374
+100,00
+Nor-Cal Products Holdings, Inc., USA
+TUSD
+36.706
+TUSD
+-7.188
+TUSD
+-1.150
+100,00
+Nor-Cal Products  Inc., USA
+TUSD
+63
+TUSD
+76.474
+TUSD
+5.789
+100,00
+Nor-Cal Products Viet Nam Co., Ltd., Vietnam
+TVND
+16.613.114
+TVND
+134.552.369
+TVND
+37.305.733
+100,00
+Nor-Cal Products Asia Pacific Pte.  Ltd., Singapur
+TUSD
+20
+TUSD
+3.342
+TUSD
+1.998
+100,00
+Nor-Cal Products Korea Co. Ltd., Südkorea
+TKRW
+0
+TKRW
+4.403.972
+TKRW
+529.827
+100,00
+Pfeiffer Vacuum New Hampshire Realty Holdings, LLC, USA
+TUSD
+3.538
+TUSD
+11.108
+TUSD
+-12
+100,00
+Pfeiffer Vacuum Indiana Realty Holdings, LLC, USA
+TUSD
+5.106
+TUSD
+5.206
+TUSD
+-11
+100,00
+Pfeiffer Vacuum California Realty Holdings, LLC, USA
+TUSD
+4.018
+TUSD
+4.783
+TUSD
+11
+100,00
+Pfeiffer Vacuum Malaysia SDN. BHD., Malaysia
+TMYR
+8.173
+TMYR
+202
+TMYR
+-898
+100,00
+Pfeiffer Vacuum (Xi'an) Co. Ltd., China
+TCNY
+25.900
+TCNY
+23.845
+TCNY
+-771
+100,00
+Pfeiffer Vacuum Scandinavia AB, Schweden
+TSEK
+100
+TSEK
+38.877
+TSEK
+21.100
+100,00
+Pfeiffer Vacuum (Schweiz) AG, Schweiz
+TCHF
+500
+TCHF
+2.245
+TCHF
+1.035
+100,00
+Pfeiffer Vacuum (Shanghai) Co. Ltd., China
+TCNY
+35.389
+TCNY
+104.298
+TCNY
+18.506
+100,00
+Werte basieren auf International Financial Reporting Standards (IFRS)
+Nennkapital
+Eigenkapital
+Ergebnis 2022
+Anteil in %
+ 2/2
+17
+
+Verbindlichkeitenspiegel in T€
+Anlage 3 zum Anhang
+Art der Verbindlichkeit
+Gesamt
+Gesicherte Beträge
+Art der Sicherheit
+31.12.2022
+bis zu 1 Jahr
+1 bis 5 Jahren
+über 5 Jahren
+gegenüber Kreditinstituten
+63.597
+63.597
+-
+-
+-
+(Vorjahr)
+(5.000)
+-
+(5.000)
+-
+-
+aus Lieferungen und Leistungen
+621
+621
+-
+-
+-
+-
+(Vorjahr)
+(741)
+(741)
+-
+-
+-
+-
+Verbindlichkeiten gegenüber verbundenen Unternehmen
+-
+-
+-
+-
+-
+-
+(Vorjahr)
+(23.194)
+(23.194)
+-
+-
+-
+-
+Sonstige Verbindlichkeiten
+57
+57
+-
+-
+-
+-
+(Vorjahr)
+(60)
+(60)
+-
+-
+-
+-
+- davon aus Steuern
+57
+57
+-
+-
+-
+-
+(Vorjahr)
+(60)
+(60)
+-
+-
+-
+-
+davon mit einer Restlaufzeit von
+-
+18
+
+ 
+Anlage 4 zum Anhang 
+Seite 1 von 23 
+ 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+1 
+Allianz Global Investors 
+GmbH, Frankfurt, 
+Deutschland 
+ 
+2,94 
+05.11.2018 
+DGAP 
+ 
+ 
+19
+
+ 
+Anlage 4 zum Anhang 
+Seite 2 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+
+ 
+Anlage 4 zum Anhang 
+Seite 3 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+2 
+Allianz Global Investors 
+Kapitalanlagegesellschaft 
+mbH, Frankfurt, 
+Deutschland 
+ 
+2,99 
+17.01.2012 
+EANS 
+Allianz Global Investors Kapitalanlagegesellschaft mbH, Frankfurt am 
+Main, Deutschland, hat Pfeiffer Vacuum gemäß § 21 Abs. 1 WpHG 
+mitgeteilt, dass deren Stimmrechtsanteil an unserer Gesellschaft am 12. 
+Januar 2012 die Schwelle von 3 % unterschritt und an diesem Tag 2,99 % (dies 
+entspricht 295.977 Stimmrechten) betrug. Von diesen Stimmrechten sind 1,14 
+Prozentpunkte (dies entspricht 112.554 Stimmrechten) der 
+Allianz Global Investors Kapitalanlagegesellschaft mbH, Frankfurt am 
+Main, Deutschland nach § 22 Absatz 1 Satz 1 Nr. 6 WpHG zuzurechnen. 
+3 
+Ameriprise Financial Inc., 
+Minneapolis, USA 
+2,53 
+09.04.2015 
+DGAP 
+Ameriprise Financial Inc., Minneapolis, USA, hat Pfeiffer Vacuum Technology 
+AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimmrechtsanteil an unserer 
+Gesellschaft am 30. März 2015 die Schwelle von 3 % unterschritt und an diesem 
+Tag 2,53 % (dies entspricht 249.588 Stimmrechten) betrug. Diese 2,53 % sind 
+Ameriprise Financial Inc., Minneapolis, USA, gem. § 22 Absatz 1 Satz 1 Nr. 6 in 
+Verbindung mit Satz 2 WpHG zuzurechnen. 
+4 
+BNP Paribas Investment 
+Partners S.A., Paris, 
+Frankreich 
+2,28 
+24.11.2014 
+DGAP 
+BNP Paribas Investment Partners S.A., Paris, Frankreich, hat Pfeiffer Vacuum 
+Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 21. November 2014 die Schwelle 
+von 3 % unterschritten hat und an diesem Tag 2,28 % (dies entspricht 225.116 
+Stimmrechten) betrug. Diese 2,28 % (dies entspricht 225.116 Stimmrechten) 
+werden der BNP Paribas Investment Partners S.A. gem. § 22 Abs. 1 S. 1 Nr. 1 
+WpHG zugerechnet. Hiervon werden der BNP Paribas Investment Partners S.A. 
+1,84 % (dies entspricht 181.564 Stimmrechten) gem. § 22 Abs. 1 S. 1 Nr. 6 in 
+Verbindung mit Satz 2 WpHG zugerechnet. 
+ 
+5 
+BNP Paribas Investment 
+Partners UK Ltd, London, 
+Großbritannien 
+2,97 
+21.11.2014 
+DGAP 
+Korrektur einer Meldung vom 30.10.2014 
+BNP Paribas Investment Partners UK Limited, London, GB, haben Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass ihr 
+Stimmrechtsanteil an unserer Gesellschaft am 30. Oktober 2014 die Schwelle 
+von 3 % unterschritten hat und an diesem Tag 2,97 % (dies entspricht 292.977 
+Stimmrechten) betrug. Diese 2,97 % (dies entspricht 292.977 Stimmrechten) 
+werden der BNP Paribas Investment Partners UK Limited, London, GB, gem. 
+§ 22 Abs. 1 S. 1 Nr. 6 WpHG zugerechnet. 
+ 
+ 
+ 
+21
+
+ 
+Anlage 4 zum Anhang 
+Seite 4 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+6 
+BNP Paribas Asset 
+Management SAS, Paris, 
+Frankreich 
+2,99 
+21.11.2014 
+DGAP 
+Korrektur einer Meldung vom 05.11.2014 
+BNP Paribas Asset Management SAS, Paris, Frankreich, hat Pfeiffer Vacuum 
+Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 05. November 2014 die Schwelle 
+von 3 % unterschritten hat und an diesem Tag 2,99 % (dies entspricht 295.081 
+Stimmrechten) betrug. 
+ 
+Hiervon sind 1,14 % (dies entspricht 112.712 Stimmrechten) BNP Paribas Asset 
+Management SAS, Paris, Frankreich, gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG 
+zuzurechnen. 
+ 
+22
+
+ 
+Anlage 4 zum Anhang 
+Seite 5 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+7 
+Dr.-Ing. Karl Busch, Ayan 
+Busch, Ayla Busch, Sami 
+Busch, Kaya Busch  
+ 
+ 
+ 
+ 
+sowie 
+Busch GbR, Busch SE 
+und Pangea GmbH, 
+alle Maulburg, 
+Deutschland  
+50,02 
+05.11.2018 
+DGAP 
+ 
+ 
+23
+
+ 
+Anlage 4 zum Anhang 
+Seite 6 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24
+
+ 
+Anlage 4 zum Anhang 
+Seite 7 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+8 
+Capital Research and 
+Management Company, 
+Los Angeles, USA 
+2,68 
+02.12.2014 
+DGAP 
+Capital Research and Management Company, Los Angeles, USA, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG i.V.m. § 22 Abs. 1 S. 1 Nr. 6 
+WpHG mitgeteilt, dass sein Stimmrechtsanteil an unserer Gesellschaft am 24. 
+November 2014 die Schwelle von 3 % unterschritten hat und an diesem Tag 
+2,68 % (dies entspricht 264.558 Stimmrechten) betrug. 
+ 
+Hiervon werden der Capital Research and Management Company, Los Angeles, 
+USA, 2,68 % (dies entspricht 264.558 Stimmrechten) gem. § 22 Abs. 1 S. 1 Nr. 6 
+WpHG zugerechnet. 
+ 
+ 
+9 
+Credit Suisse Group AG, 
+Zürich, Schweiz 
+2,98 
+29.05.2015 
+DGAP 
+Credit Suisse Group AG, Zürich, Schweiz, hat Pfeiffer Vacuum Technology AG 
+gemäß § 21 Abs. 1 WpHG mitgeteilt, dass ihr Stimmrechtsanteil an unserer 
+Gesellschaft am 25. Mai 2015 die Schwelle von 3 % unterschritten hat und an 
+diesem Tag 2,98 % (dies entspricht 294.178 Stimmrechten) betrug. 
+Diese 2,98 % (dies entspricht 294.178 Stimmrechten) werden der Credit 
+Suisse Group AG gem. § 22 Abs. 1 S. 1 Nr. 1 WpHG zugerechnet. 
+ 
+ 
+10 
+Credit Suisse AG,  
+Zürich, Schweiz 
+2,98 
+29.05.2015 
+DGAP 
+Credit Suisse AG, Zürich, Schweiz, hat Pfeiffer Vacuum Technology AG gemäß 
+§ 21 Abs. 1 WpHG mitgeteilt, dass ihr Stimmrechtsanteil an unserer 
+Gesellschaft am 25. Mai 2015 die Schwelle von 3 % unterschritten hat und an 
+diesem Tag 2,98 % (dies entspricht 294.178 Stimmrechten) betrug. 
+Hiervon werden der Credit Suisse AG 2,32 % (dies entspricht 228.688 
+Stimmrechten) gem. § 22 Abs. 1 S. 1 Nr. 1 WpHG zugerechnet. 
+ 
+ 
+11 
+Henderson Global 
+Investors (Holdings) 
+Limited, London, 
+Großbritannien 
+1,97 
+10.06.2015 
+DGAP 
+Henderson Global Investors (Holdings) Limited, London, Großbritannien, hat 
+Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 5. Juni 2015 die Schwelle von 
+3 % unterschritten hat und an diesem Tag 1,97 % (dies entspricht 194.745 
+Stimmrechten) betrug. Diese 1,97 % (dies entspricht 194.745 Stimmrechten) 
+sind Henderson Global Investors (Holdings) Limited, London, Großbritannien 
+gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in Verbindung mit Satz 2 WpHG 
+zuzurechnen. 
+ 
+ 
+25
+
+ 
+Anlage 4 zum Anhang 
+Seite 8 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+12 
+Henderson Global 
+Investors Limited, 
+London, Großbritannien 
+1,97 
+10.06.2015 
+DGAP 
+Henderson Global Investors Limited, London, Großbritannien, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 5. Juni 2015 die Schwelle von 
+3 % unterschritten hat und an diesem Tag 1,97 % (dies entspricht 194.745 
+Stimmrechten) betrug. Diese 1,97 % (dies entspricht 194.745 Stimmrechten) 
+sind Henderson Global Investors Limited, London, Großbritannien gem. § 22 
+Absatz 1 Satz 1 Nr. 6 WpHG zuzurechnen. 
+ 
+13 
+Henderson Group plc, 
+London, Großbritannien 
+1,97 
+10.06.2015 
+DGAP 
+Henderson Group plc, London, Großbritannien, hat Pfeiffer Vacuum Technology 
+AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimmrechtsanteil an 
+unserer Gesellschaft am 5. Juni 2015 die Schwelle von 3 % unterschritten 
+hat und an diesem Tag 1,97 % (dies entspricht 194.745 Stimmrechten) betrug. 
+Diese 1,97 % (dies entspricht 194.745 Stimmrechten) sind Henderson Group 
+plc, London, Großbritannien gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in 
+Verbindung mit Satz 2 WpHG zuzurechnen. 
+ 
+14 
+Massachusetts Financial 
+Services Company 
+(MFS), Boston, USA 
+2,81 
+24.09.2015 
+DGAP 
+Massachusetts Financial Services Company (MFS), Boston, USA, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass deren 
+Stimmrechtsanteil an unserer Gesellschaft am 18. September 2015 die 
+Schwelle von 3 % unterschritten hat und an diesem Tag 2,81 % (dies 
+entspricht 276.892 Stimmrechten) betrug. Hiervon werden der Massachusetts 
+Financial Services Company (MFS) 1,83 % (dies entspricht 180.993 
+Stimmrechten) gem. § 22 Abs. 1 S. 1 Nr. 6 zugerechnet. Weitere 0,97 % (dies 
+entspricht 95.899 Stimmrechten) werden der Massachusetts Financial Services 
+Company (MFS) gem. § 22 Abs. 1 S. 1 Nr. 6 WpHG in Verbindung mit Satz 2 
+zugerechnet. 
+ 
+26
+
+ 
+Anlage 4 zum Anhang 
+Seite 9 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+15 
+Ministry of Finance on 
+behalf of the State of 
+Norway, Oslo, Norwegen 
+2,94 
+27.07.2018 
+DGAP 
+ 
+27
+
+ 
+Anlage 4 zum Anhang 
+Seite 10 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+28
+
+ 
+Anlage 4 zum Anhang 
+Seite 11 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+16 
+Montanaro Asset 
+Management Limited, 
+London, Großbritannien 
+2,94 
+07.07.2014 
+DGAP 
+Montanaro Asset Management Limited, London, Großbritannien, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 26. Juni 2014 die Schwelle von 
+3 % unterschritten hat und an diesem Tag 2,94 % (dies entspricht 290.358 
+Stimmrechten) betrug. Diese 2,94 % (dies entspricht 290.358 Stimmrechten) 
+sind Montanaro Asset Management Limited, London, Großbritannien gem. 
+§ 22 Absatz 1 Satz 1 Nr. 6 WpHG zuzurechnen.  
+ 
+17 
+Montanaro European 
+Smaller Companies plc, 
+Dublin, Irland 
+2,98 
+13.02.2014 
+DGAP 
+Montanaro European Smaller Companies plc, Dublin, Irland, hat der Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimm-
+rechtsanteil an unserer Gesellschaft am 10. Februar 2014 die Schwelle von 3 % 
+unterschritt und an diesem Tag 2,98 % (dies entspricht 293.744 Stimmrechten) 
+betrug.  
+ 
+29
+
+ 
+Anlage 4 zum Anhang 
+Seite 12 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+18 
+Investmentgesellschaft 
+für langfristige Investoren 
+TGV 
+ 
+3,05 
+29.10.2018 
+DGAP 
+ 
+30
+
+ 
+Anlage 4 zum Anhang 
+Seite 13 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+31
+
+ 
+Anlage 4 zum Anhang 
+Seite 14 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+19 
+Sun Life Assurance 
+Company of Canada - 
+U.S. Operations 
+Holdings, Inc., Wellesley 
+Hills, USA 
+2,81 
+24.09.2015 
+DGAP 
+Sun Life Assurance Company of Canada - U.S. Operations Holdings, Inc., 
+Wellesley Hills, USA, hat Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 
+WpHG mitgeteilt, dass sein Stimmrechtsanteil an unserer Gesellschaft am 
+18. September 2015 die Schwelle von 3 % unterschritten hat und an diesem Tag 
+2,81 % (dies entspricht 276.892 Stimmrechten) beträgt. Diese 2,81 % (dies 
+entspricht 276.892 Stimmrechten) sind Sun Life Assurance Company of Canada 
+- U.S. Operations Holdings, Inc., Wellesley Hills, USA, gem. § 22 Absatz 1 
+Satz 1 Nr. 6 WpHG in Verbindung mit Satz 2 WpHG zuzurechnen. 
+ 
+20 
+Sun Life Financial Inc., 
+Toronto, Kanada 
+2,81 
+24.09.2015 
+DGAP 
+Sun Life Financial Inc., Toronto, Kanada, hat Pfeiffer Vacuum Technology AG 
+gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimmrechtsanteil an unserer 
+Gesellschaft am 18. September 2015 die Schwelle von 3 % unterschritten hat 
+und an diesem Tag 2,81 % (dies entspricht 276.892 Stimmrechten) beträgt. 
+Diese 2,81 % (dies entspricht 276.892 Stimmrechten) sind Sun Life Financial 
+Inc. gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in Verbindung mit Satz 2 WpHG 
+zuzurechnen. 
+ 
+21 
+Sun Life Financial (U.S.) 
+Holdings, Inc., Wellesley 
+Hills, USA 
+2,81 
+24.09.2015 
+DGAP 
+Sun Life Financial (U.S.) Holdings, Inc., Wellesley Hills, USA, hat 
+Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 18. September 2015 die 
+Schwelle von 3 % unterschritten hat und an diesem Tag 2,81 % (dies 
+entspricht 276.892 Stimmrechten) beträgt. Diese 2,81 % (dies entspricht 
+276.892 Stimmrechten) sind Sun Life Financial (U.S.) Holdings, Inc., 
+Wellesley Hills, USA, gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in Verbindung 
+mit Satz 2 WpHG zuzurechnen. 
+ 
+22 
+Sun Life Financial (U.S.) 
+Investments LLC, 
+Wellesley Hills, USA 
+2,81 
+24.09.2015 
+DGAP 
+Sun Life Financial (U.S.) Investments LLC, Wellesley Hills, USA, hat 
+Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 18. September 2015 die 
+Schwelle von 3 % unterschritten hat und an diesem Tag 2,81 % (dies 
+entspricht 276.892 Stimmrechten) beträgt. Diese 2,81 % (dies entspricht 
+276.892 Stimmrechten) sind Sun Life Financial (U.S.) Investments LLC., 
+Wellesley Hills, USA, gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in Verbindung 
+mit Satz 2 WpHG zuzurechnen. 
+ 
+32
+
+ 
+Anlage 4 zum Anhang 
+Seite 15 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+23 
+Sun Life Global 
+Investments Inc., 
+Toronto, Kanada 
+2,81 
+24.09.2015 
+DGAP 
+Sun Life Global Investments Inc., Toronto, Kanada, hat Pfeiffer Vacuum 
+Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 18. September 2015 die 
+Schwelle von 3 % unterschritten hat und an diesem Tag 2,81 % (dies 
+entspricht 276.892 Stimmrechten) beträgt. Diese 2,81 % (dies entspricht 
+276.892 Stimmrechten) sind Sun Life Global Investments Inc., Toronto, 
+Kanada, gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in Verbindung mit Satz 2 
+WpHG zuzurechnen. 
+ 
+24 
+Sun Life of Canada (U.S.) 
+Financial Services 
+Holdings, Inc., Boston, 
+USA 
+2,81 
+24.09.2015 
+DGAP 
+Sun Life of Canada (U.S.) Financial Services Holdings, Inc., Boston, USA, 
+hat Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass 
+sein Stimmrechtsanteil an unserer Gesellschaft am 18. September 2015 die 
+Schwelle von 3 % unterschritten hat und an diesem Tag 2,81 % (dies 
+entspricht 276.892 Stimmrechten) beträgt. Diese 2,81 % (dies entspricht 
+276.892 Stimmrechten) sind Sun Life of Canada (U.S.) Financial Services 
+Holdings, Inc., Boston, USA, gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG in 
+Verbindung mit Satz 2 WpHG zuzurechnen. 
+ 
+25 
+TAM UK Holdings 
+Limited, London, 
+Großbritannien 
+2,53 
+09.04.2015 
+DGAP 
+TAM UK Holdings Limited, London, Großbritannien, hat Pfeiffer Vacuum 
+Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimmrechts-
+anteil an unserer Gesellschaft am 30. März 2015 die Schwelle von 3 % unter-
+schritt und an diesem Tag 2,53 % (dies entspricht 249.588 Stimmrechten) 
+betrug. Diese 2,53 % sind TAM UK Holdings Limited, London, Großbritannien, 
+gem. § 22 Absatz 1 Satz 1 Nr. 6 in Verbindung mit Satz 2 WpHG zuzurechnen. 
+ 
+26 
+TC Financing Limited, 
+London, Großbritannien 
+2,53 
+09.04.2015 
+DGAP 
+TC Financing Limited, London, Großbritannien, hat Pfeiffer Vacuum Technology 
+AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimmrechtsanteil an unserer 
+Gesellschaft am 30. März 2015 die Schwelle von 3 % unterschritt und an diesem 
+Tag 2,53 % (dies entspricht 249.588 Stimmrechten) betrug. Diese 2,53 % sind 
+TC Financing Limited, London, Großbritannien, gem. § 22 Absatz 1 Satz 1 Nr. 6 
+in Verbindung mit Satz 2 WpHG zuzurechnen. 
+ 
+33
+
+ 
+Anlage 4 zum Anhang 
+Seite 16 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+27 
+The Capital Group 
+Companies, Los Angeles, 
+USA 
+2,68 
+02.12.2014 
+DGAP 
+The Capital Group Companies, Los Angeles, USA, haben Pfeiffer Vacuum 
+Technology AG gemäß § 21 Abs. 1 WpHG i.V.m. § 22 Abs. 1 S. 1 Nr. 6 WpHG 
+i.V.m. § 22 Abs. 1 S. 2 und S. 3 WpHG mitgeteilt, dass ihr Stimmrechtsanteil an 
+unserer Gesellschaft am 24. November 2014 die Schwelle von 3 % unter-
+schritten hat und an diesem Tag 2,68 % (dies entspricht 264.558 Stimmrechten) 
+betrug. 
+Hiervon werden den Capital Group Companies, Los Angeles, USA, 2,68 % (dies 
+entspricht 264.558 Stimmrechten) gem. § 22 Abs. 1 S. 1 Nr. 6 WpHG i.V.m. § 22 
+Abs. 1 S. 2 und S. 3 WpHG zugerechnet. 
+ 
+28 
+Threadneedle Asset 
+Management Holdings 
+Limited, London, 
+Großbritannien 
+2,53 
+09.04.2015 
+DGAP 
+Threadneedle Asset Management Holdings Limited, London, Großbritannien, hat 
+Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 30. März 2015 die Schwelle von 
+3 % unterschritt und an diesem Tag 2,53 % (dies entspricht 249.588 Stimm-
+rechten) betrug. Diese 2,53 % sind Threadneedle Asset Management Holdings 
+Limited, London, Großbritannien, gem. § 22 Absatz 1 Satz 1 Nr. 6 in Verbindung 
+mit Satz 2 WpHG zuzurechnen. 
+ 
+29 
+Threadneedle Asset 
+Management Holdings 
+SARL, Luxemburg, 
+Luxemburg 
+2,53 
+09.04.2015 
+DGAP 
+Threadneedle Asset Management Holdings SARL, Luxemburg, Luxemburg, hat 
+Pfeiffer Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein 
+Stimmrechtsanteil an unserer Gesellschaft am 30. März 2015 die Schwelle von 
+3 % unterschritt und an diesem Tag 2,53 % (dies entspricht 249.588 Stimm-
+rechten) betrug. Diese 2,53 % sind Threadneedle Asset Management Holdings 
+SARL, Luxemburg, Luxemburg, gem. § 22 Absatz 1 Satz 1 Nr. 6 in Verbindung 
+mit Satz 2 WpHG zuzurechnen. 
+ 
+30 
+Threadneedle Asset 
+Management Limited, 
+London, Großbritannien 
+2,53 
+09.04.2015 
+DGAP 
+Threadneedle Asset Management Limited, London, Großbritannien, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimm-
+rechtsanteil an unserer Gesellschaft am 30. März 2015 die Schwelle von 3 % 
+unterschritt und an diesem Tag 2,53 % (dies entspricht 249.588 Stimmrechten) 
+betrug. Diese 2,53 % sind Threadneedle Asset Management Limited, London, 
+Großbritannien gem. § 22 Absatz 1 Satz 1 Nr. 6 WpHG zuzurechnen. 
+ 
+34
+
+ 
+Anlage 4 zum Anhang 
+Seite 17 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+31 
+Threadneedle Holdings 
+Limited, London, 
+Großbritannien 
+2,53 
+09.04.2015 
+DGAP 
+Threadneedle Holdings Limited, London, Großbritannien, hat Pfeiffer Vacuum 
+Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass sein Stimm-
+rechtsanteil an unserer Gesellschaft am 30. März 2015 die Schwelle von 3 % 
+unterschritt und an diesem Tag 2,53 % (dies entspricht 249.588 Stimmrechten) 
+betrug. Diese 2,53 % sind Threadneedle Holdings Limited, London, 
+Großbritannien, gem. § 22 Absatz 1 Satz 1 Nr. 6 in Verbindung mit Satz 2 
+WpHG zuzurechnen. 
+ 
+ 
+32 
+Threadneedle Investment 
+Services Limited, 
+London, Großbritannien 
+ 
+3,08 
+28.06.2013 
+DGAP 
+Threadneedle Investment Services Limited, London, Großbritannien, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass deren 
+Stimmrechtsanteil an unserer Gesellschaft am 26. Juni 2013 die Schwelle von 
+3% überschritten hat und an diesem Tag 3,08 % (dies entspricht 303.567 
+Stimmrechten) beträgt. Diese 3,08 % (dies entspricht 303.567 Stimmrechten) 
+sind Threadneedle Investment Services Limited, London, Großbritannien gem. 
+§ 22 Absatz 1 Satz 1 Nr. 6 WpHG zuzurechnen. Von folgendem Aktionär, deren 
+Stimmrechtsanteil an der Pfeiffer Vacuum Technology AG jeweils 3 % oder mehr 
+beträgt, werden ihr dabei Stimmrechte zugerechnet: Threadneedle Investment 
+Funds ICVC. 
+ 
+Threadneedle Investment Funds ICVC, London, Großbritannien, hat Pfeiffer 
+Vacuum Technology AG gemäß § 21 Abs. 1 WpHG mitgeteilt, dass deren 
+Stimmrechtsanteil an unserer Gesellschaft am 26. Juni 2013 die Schwelle von 
+3 % überschritten hat und an diesem Tag 3,08 % (dies entspricht 303.567 
+Stimmrechten) beträgt. 
+ 
+35
+
+ 
+Anlage 4 zum Anhang 
+Seite 18 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+33 
+Universal-Investment-
+Gesellschaft mit 
+beschränkter Haftung, 
+Frankfurt am Main, 
+Deutschland 
+2,93 
+01.02.2017 
+DGAP 
+ 
+ 
+36
+
+ 
+Anlage 4 zum Anhang 
+Seite 19 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+37
+
+ 
+Anlage 4 zum Anhang 
+Seite 20 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+34  
+Hakuto Co., Ltd. 
+Shinjuku-ku, Tokyo 
+Japan 
+2,99 
+23.09.2021 
+DGAP 
+  
+38
+
+ 
+Anlage 4 zum Anhang 
+Seite 21 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+   
+39
+
+ 
+Anlage 4 zum Anhang 
+Seite 22 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+40
+
+ 
+Anlage 4 zum Anhang 
+Seite 23 von 23 
+Veröffentlichungen nach § 26 (1) WpHG 
+ 
+Nr. 
+Gesellschaft            Aktien- 
+Anteil 
+(%) 
+Datum 
+Veröffentlicht  
+über 
+Inhalt der Veröffentlichung 
+ 
+ 
+ 
+ 
+ 
+Im Umlauf befindliche Aktien per 31. Dezember 2022: 9.867.659 
+ 
+41
+
+ 
+ 
+IV. 
+Zusammengefasster Lagebericht 
+ 
+Der Lagebericht der Pfeiffer Vacuum Technology AG und der Konzernlagebericht sind nach 
+§ 315 Abs. 5 HGB i. V. m. § 298 Abs. 2 HGB zusammengefasst und im Geschäftsbericht des 
+Pfeiffer Vacuum Konzerns für das Jahr 2022 veröffentlicht. 
+ 
+Der Jahresabschluss und der mit dem Konzernlagebericht zusammengefasste Lagebericht 
+der Pfeiffer Vacuum Technology AG für das Geschäftsjahr 2022 werden beim Betreiber des 
+Bundesanzeigers eingereicht und im Bundesanzeiger veröffentlicht. 
+ 
+Der Jahresabschluss der Pfeiffer Vacuum Technology AG sowie der Geschäftsbericht des 
+Pfeiffer Vacuum Konzerns für das Geschäftsjahr 2022 stehen auch im Internet unter 
+ir.pfeiffer-vacuum.com/German/Home/ zur Verfügung. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42
+
+ 
+ 
+V. 
+Vorschlag für die Verwendung des Bilanzgewinns 2022 
+ 
+ 
+Der Vorstand schlägt vor, den im Jahresabschluss zum 31. Dezember 2022 ausgewiesenen 
+Bilanzgewinn von Euro 186.912.182,45 wie folgt zu verwenden: 
+ 
+Ausschüttung einer Dividende von Euro 0,11 auf jede dividendenberechtigte Stückaktie 
+ 
+für das Geschäftsjahr 2022 
+Euro 1.085.442,49 
+ 
+Gewinnvortrag 
+Euro 185.826.739,96 
+ 
+ 
+Euro 186.912.182,45 
+ 
+ 
+ 
+Die Dividende ist am 5. Mai 2023 zahlbar. 
+ 
+Dieser Gewinnverwendungsvorschlag basiert auf der Annahme eines dividenden-
+berechtigten Grundkapitals in Höhe von Euro 25.261.207,04, eingeteilt in 9.867.659 auf den 
+Inhaber lautende Stückaktien. Sollte die tatsächliche Anzahl der dividendenberechtigten 
+Aktien – und damit die Dividendensumme – im Zeitpunkt der Beschlussfassung über die 
+Verwendung des Bilanzgewinns geringer sein, wird von Vorstand und Aufsichtsrat ein 
+entsprechend angepasster Beschlussvorschlag zur Gewinnverwendung unterbreitet, der 
+unverändert eine Ausschüttung von Euro 0,11 je dividendenberechtigter Stückaktie vorsieht, 
+bei dem aber der sich dann ergebende Restbetrag des Bilanzgewinns zusätzlich auf neue 
+Rechnung vorgetragen wird. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43
+
+ 
+ 
+VI. 
+Bericht des Aufsichtsrats über das Geschäftsjahr 2022 
+ 
+Sehr geehrte Aktionärinnen und Aktionäre, 
+ 
+die Pfeiffer Vacuum Technology AG hat auch im Geschäftsjahr 2022 den 2018 eingeleiteten, 
+umfassenden Transformationsprozess hin zu einem globalen, integrierten und agilen 
+Unternehmen erfolgreich weiterverfolgt. Dabei hat der Aufsichtsrat den Vorstand eng begleitet. 
+Im Übrigen bildeten – neben der strategischen Fortentwicklung des Unternehmens sowie der 
+kontinuierlichen Befassung mit der Umsatz- und Ergebnisentwicklung der Gesellschaft und 
+der Finanz- und Ertragslage des Konzerns sowie  dem Umgang mit den anhaltenden 
+Auswirkungen der COVID-Pandemie - das Projekt „Future Factory Asslar“, die konsequente 
+Fortentwicklung der gruppenweiten IT-Struktur und das Vergütungssystem für den Vorstand 
+wichtige Themen der Arbeit des Aufsichtsrats im abgelaufenen Geschäftsjahr. Klare 
+Schwerpunkte waren dabei Fragen der Digitalisierung und der Nachhaltigkeit. 
+ 
+Sämtliche Aufgaben, die dem Aufsichtsrat nach Gesetz und Satzung obliegen, hat er auch im 
+Geschäftsjahr 
+2022 
+ordnungsgemäß 
+und 
+sorgfältig 
+wahrgenommen. 
+Er 
+hat 
+die 
+Geschäftsführung des Vorstands gewissenhaft und kontinuierlich überwacht, die strategische 
+Weiterentwicklung des Unternehmens und wesentliche Einzelmaßnahmen mit dem Blick auf 
+eine nachhaltige Wertschöpfung beratend begleitet und sich auf der Basis der 
+Vorstandsberichte von der Recht- und Ordnungsmäßigkeit sowie der Zweckmäßigkeit und 
+Wirtschaftlichkeit der Geschäftsführung des Vorstands überzeugt. Bei seiner Tätigkeit hat sich 
+der Aufsichtsrat teilweise der Unterstützung durch externe Experten bedient. 
+ 
+Zusammenarbeit zwischen Aufsichtsrat und Vorstand 
+ 
+Der Vorstand hat den Aufsichtsrat bzw. die Aufsichtsratsvorsitzende regelmäßig, umfassend 
+und unverzüglich über das Wettbewerbsumfeld, die geplante Geschäftspolitik und alle 
+strategischen und herausragend wichtigen operativen Entscheidungen informiert. In gleicher 
+Weise hat der Vorstand dem Aufsichtsrat alle wesentlichen Kennzahlen finanzieller und 
+nichtfinanzieller Art als Grundlage der Beurteilung der wirtschaftlichen Situation und der 
+strategischen Entwicklung der Gesellschaft vorgelegt und mit diesem erörtert. 
+ 
+In den Sitzungen des Aufsichtsrats hat der Vorstand mündlich und schriftlich berichtet und 
+Fragen des Aufsichtsrats beantwortet. Auch außerhalb der Sitzungen hat auf der Grundlage 
+regelmäßiger Berichte zur wirtschaftlichen Entwicklung und zu den besonders wichtigen 
+Vorgängen in der Gesellschaft und im Konzern ein intensiver Informationsaustausch mit dem 
+Aufsichtsrat stattgefunden. Insbesondere hat die Aufsichtsratsvorsitzende zwischen den 
+Sitzungen mit dem Vorstand regelmäßig Kontakt gehalten, um Fragen der Strategie, der 
+Geschäftsentwicklung, der Risikolage, des Risikomanagements und der Compliance des 
+Unternehmens mit dem Vorstand zu beraten. Die Berichterstattung des Vorstands entsprach 
+den vom Gesetz, den Grundsätzen guter Corporate Governance und den vom Aufsichtsrat 
+gestellten Anforderungen. 
+ 
+Über zustimmungspflichtige Geschäfte des Vorstands hat der Aufsichtsrat entschieden, 
+nachdem diese sorgfältig geprüft und mit dem Vorstand erörtert worden waren. 
+ 
+Personelle Zusammensetzung der Verwaltungsgremien  
+ 
+Im Vorstand gab es im Berichtsjahr keine Veränderungen, dieser bestand und besteht aus 
+Frau Dr. Britta Giesen als Vorsitzende des Vorstands und Herrn Wolfgang Ehrk (COO). Der 
+Vorstand wird durch ein Group Executive Committee unterstützt, dem neben den 
+Vorstandsmitgliedern selbst Frau Hind Beaujon als Chief Sales Officer – CSO (seit 1. Januar 
+2021), Herr Sébastien Gerland als Chief People and Culture Officer – CPCO (seit 1. Juli 2022),  
+ 
+44
+
+ 
+ 
+Herr Benoît Guillaumin als Chief Financial Officer - CFO (seit 1. Juli 2022, davor seit 1. Juni 
+2021 Chief Controlling Officer) sowie Herrn Tobias Stoll als Chief Technology Officer - CTO 
+(seit 1. Februar 2022) angehören.  
+ 
+Auch im Aufsichtsrat hat es im Berichtsjahr keine Veränderungen gegeben. Diesem gehören 
+unverändert an: 
+ 
+auf Seiten der Anteilseignervertreter 
+• 
+Frau Ayla Busch (Mitglied seit Oktober 2017) 
+• 
+Herr Götz Timmerbeil (Mitglied seit Juni 2001) 
+• 
+Herr Henrik Newerla (Mitglied seit April 2018) sowie 
+• 
+Frau Minja Lohrer (Mitglied seit Mai 2021), 
+ 
+und als Vertreter der Arbeitnehmer  
+ 
+• 
+Herr Stefan Röser (Mitglied seit Januar 2020) und 
+• 
+Herr Timo Birkenstock (Mitglied seit Mai 2021).  
+ 
+Die Amtszeit der amtierenden Mitglieder des Aufsichtsrats endet mit Ablauf der ordentlichen 
+Hauptversammlung 2025. 
+ 
+Der Frauenanteil beträgt im Aufsichtsrat 33,33 % und im Vorstand 50 %, jeweils 
+stichtagsbezogen zum Zeitpunkt der Berichtsabgabe am 14. März 2023. 
+ 
+Sitzungen des Aufsichtsrats und Themen der Aufsichtsarbeit 
+ 
+Im Geschäftsjahr 2022 hat sich der Aufsichtsrat in insgesamt 13 Sitzungen, von denen 11 
+pandemiebedingt per Videokonferenz sowie zwei in Präsenz durchgeführt wurden, intensiv mit 
+der aktuellen Lage der Gesellschaft und des Konzerns befasst. Er hat sich mit allen für das 
+Unternehmen wichtigen Fragen auseinandergesetzt und diese mit dem Vorstand eingehend 
+erörtert. Daneben fanden Sitzungen der Ausschüsse des Aufsichtsrats statt. Außerhalb der 
+Sitzungen sind eine Reihe von Beschlüssen im schriftlichen Umlaufverfahren gefasst worden. 
+An den Plenumssitzungen haben die Mitglieder des Vorstands teilgenommen, sofern nicht 
+Themen auf der Tagesordnung standen, die sachgerecht ohne Anwesenheit des Vorstands 
+zu behandeln waren; regelmäßig hat der Aufsichtsrat deshalb auch ohne Beisein der 
+Vorstandsmitglieder getagt. 
+ 
+Kontinuierlich hat sich der Aufsichtsrat mit dem aktuellen Geschäftsgang befasst und diesen 
+eingehend mit dem Vorstand erörtert. Wiederholt hat er sich zur Strategie berichten lassen 
+und sich hierzu mit dem Vorstand ausgetauscht. Beratungsgegenstand war darüber hinaus 
+die vom Vorstand vorgestellte kurz-, mittel- und langfristige Unternehmensplanung sowie die 
+Investitionsplanung, außerdem die Entwicklung des Return on Investment. Kontinuierlich 
+berichtete der Vorstand zur Rentabilität der Gruppe und zu den Ergebnissen der wichtigen 
+Tochtergesellschaften. Beratungsgegenstand waren zudem die Top-Ten-Investitionsprojekte 
+sowie das Cash-Management in der Gruppe. 
+ 
+Wiederholt ließ sich der Aufsichtsrat zum Stand der laufenden IT-Projekte berichten und 
+erörterte mit dem Vorstand die Fortentwicklung der  gruppenweiten IT-Struktur. Mehrfach 
+befasste er sich zudem mit dem Projekt „Future Factory Asslar“. Am Standort Asslar 
+unternahm der Aufsichtsrat eine Betriebsbegehung und führte Gespräche mit Mitarbeitern.   
+ 
+Eingehend befasste er sich auch mit der Struktur der Vorstandsvergütung. Dazu 
+verabschiedete er, gestützt auf Vorarbeiten des Personalausschusses, eine Anpassung des 
+Vorstandsvergütungssystems mit dem Ziel, ESG-Aspekte bei der Incentivierung stärker zu 
+berücksichtigen. Diese Anpassung wurde von der Hauptversammlung gebilligt.  
+ 
+45
+
+ 
+ 
+Weitere Themen der Aufsichtsratsarbeit waren die Entsprechenserklärung zum Deutschen 
+Corporate Governance Kodex, die Entwicklung der Mitarbeiterzahlen weltweit und ein Konzept 
+zur Zeiterfassung an den deutschen Standorten, außerdem wichtige Kundenprojekte und 
+Markt-Trends in 2022 . Eingehend ließ sich der Aufsichtsrat vom Vorstand zur Compliance und 
+zum Compliance-Management in der Gesellschaft und im Konzern berichten und erörterte das 
+Risikomanagementsystem mit diesem. Beachtung fand dabei auch das Thema Cyber 
+Security.  
+ 
+Erörterung im Aufsichtsrat fanden auch die Haltung des Unternehmens zum Ukraine-Krieg und 
+dessen Auswirkungen auf die Geschäftstätigkeit, insbesondere im Hinblick auf Risiken in den 
+Lieferketten und die Energieversorgung an den Produktionsstätten.  
+ 
+In seiner Bilanzsitzung im März befasste sich der Aufsichtsrat, gestützt auf die Vorarbeiten des 
+Prüfungsausschusses 
+und 
+die 
+detaillierten 
+Erläuterungen 
+von 
+Vertretern 
+des 
+Abschlussprüfers, 
+die 
+in 
+der 
+Sitzung 
+anwesend 
+waren, 
+eingehend 
+mit 
+den 
+Jahresabschlussunterlagen für das Geschäftsjahr 2021. Nach intensiver Erörterung und 
+Prüfung billigte der Aufsichtsrat den Jahresabschluss 2021, den Geschäftsbericht inklusive 
+des zusammengefassten Lageberichts zum 31.12.2021, den Vorschlag des Vorstands für die 
+Ausschüttungsquote und die Verwendung des Bilanzgewinns, den Konzernjahresabschluss 
+2021, den Konzerngeschäftsbericht inklusive des zusammengefassten Lageberichts zum 
+31.12.2021, den NFE-Bericht und den Bericht des Vorstands zu den Beziehungen über 
+verbundene Unternehmen  für 2021. Er verabschiedete außerdem den Bericht des 
+Aufsichtsrats für 2021 und gab gemeinsam mit dem Vorstand die Erklärung zur 
+Unternehmensführung ab,.  
+ 
+Weitere Themen waren der vom Vorstand vorgelegte Entwurf für die Einladung zur 
+ordentlichen Hauptversammlung 2022, auf deren Grundlage der Aufsichtsrat die 
+Beschlussvorschläge an diese verabschiedete. Zudem erteilte der Aufsichtsrat neuerlich seine 
+Zustimmung zur Durchführung der Hauptversammlung als virtuelle Versammlung. 
+ 
+Des Weiteren befasste sich der Aufsichtsrat mit den Zielerreichungen 2021 und den 
+Tantiemeberechnungen für die Mitglieder des Vorstands im Rahmen der variablen 
+Vorstandsvergütung und fasste, den Vorschlägen des Personalausschuss folgend, die 
+entsprechenden Feststellungsbeschlüsse. Darüber hinaus bestimmte er die Zielparameter für 
+die Jahrestantieme 2023 und die Bemessungsperiode 2023 – 2025 im Rahmen des LTI. 
+ 
+Besonderes Augenmerk richtete der Aufsichtsrat der Unternehmensführung unter 
+Berücksichtigung von Nachhaltigkeitsfragen, also der ESG-Verantwortlichkeit (Environmental, 
+Social and Governance) in der Gruppe. Dazu ließ sich der Aufsichtsrat von dem globalen 
+Koordinator für Corporate Social Responsibility berichten. Außerdem führte der Aufsichtsrat 
+unter Hinzuziehung externer Experten eine Schulung zu ESG-Themen durch und überprüfte 
+turnusgemäß  unter Mitwirkung eines externen Rechtsexperten die Effizienz seiner Tätigkeit. 
+ 
+Im Dialog mit dem Vorstand erörterte der Aufsichtsrat die Zusammensetzung des Group 
+Executive Committees und dessen Tätigkeit. Außerdem befasste sich der Aufsichtsrat mit der 
+Personalplanung 
+auf 
+Vorstandsebene. 
+Eingehend 
+erörterte 
+der 
+Aufsichtsrat 
+das 
+Kompetenzprofil für den Aufsichtsrat, das er um Fachkunde im Bereich ESG ergänzte. 
+Außerdem verabschiedete er nach § 111 Abs. 5 AktG die Ziele für die Frauenquote im 
+Aufsichtsrat und Vorstand und bestimmte für die Zielerreichung eine Frist von fünf Jahren. 
+ 
+Nachdem der beherrschende Aktionär Pangea GmbH mitgeteilt hatte, einen Beherrschungs- 
+und Gewinnabführungsvertrag mit der Pfeiffer Vacuum Technology AG anzustreben, befasste 
+sich der Aufsichtsrat mit diesem Projekt und ließ sich von einem externen Rechtsexperten über 
+die Konsequenzen und das Verfahren zum Abschluss eines solchen Vertrages unterrichten. 
+ 
+ 
+46
+
+ 
+ 
+Ausschüsse des Aufsichtsrats 
+ 
+Die Tätigkeit des Aufsichtsrats wurde auch im Geschäftsjahr 2022 durch seine Ausschüsse 
+begleitet und vorbereitend unterstützt. Die Ausschüsse berichteten über ihre Arbeit regelmäßig 
+an den Aufsichtsrat. 
+ 
+Eingesetzt waren neben dem Nominierungsausschuss der Personalausschuss, der 
+Prüfungsausschuss sowie der Ausschuss für die Beziehungen zu nahestehenden Personen 
+(RPT-Ausschuss). Die Aufgaben und Kompetenzen der Ausschüsse sind in der 
+Geschäftsordnung des Aufsichtsrats bestimmt, die auf der Internetseite der Gesellschaft 
+zugänglich ist. 
+ 
+Die personelle Zusammensetzung der Ausschüsse des Aufsichtsrats war im Berichtszeitraum 
+wie folgt: 
+ 
+Nominierungsausschuss 
+• 
+Ayla Busch (Vorsitzende) 
+• 
+Minja Lohrer 
+• 
+Götz Timmerbeil 
+ 
+Personalausschuss 
+• 
+Ayla Busch (Vorsitzende) 
+• 
+Minja Lohrer 
+• 
+Henrik Newerla 
+• 
+Götz Timmerbeil 
+ 
+Prüfungsausschuss 
+• 
+Götz Timmerbeil (Vorsitzender) 
+• 
+Minja Lohrer 
+• 
+Ayla Busch 
+ 
+RPT-Ausschuss 
+• 
+Götz Timmerbeil (Vorsitzender) 
+• 
+Timo Birkenstock 
+• 
+Henrik Newerla 
+ 
+Der Personalausschuss kam im Geschäftsjahr 2022 zu fünf Sitzungen zusammen. 
+Wesentlicher Bestandteil seiner Beratungen war die Zielerreichungen im Rahmen der 
+variablen Vergütungsbestandteile des Vorstands im Geschäftsjahr 2021 und die Bestimmung 
+der Zielparameter für die kommenden Bemessungsperioden. Des Weiteren befasste sich der 
+Ausschuss mit einer Anpassung des Vergütungssystems für den Vorstand. Schließlich 
+befasste sich der Ausschuss mit der Personalplanung für den Vorstand. Er verabschiedete 
+entsprechende Beschlussempfehlungen an das Plenum. 
+ 
+Der Prüfungsausschuss trat im Berichtsjahr zu vier Sitzungen zusammen. In seiner 
+Märzsitzung befasste er sich im Beisein von Vertretern des Abschlussprüfers eingehend mit 
+dem Jahresabschluss und dem Konzernabschluss der Gesellschaft, dem NFE-Bericht und 
+dem Abhängigkeitsbericht, jeweils für das Geschäftsjahr 2021, sowie den Prüfungsberichten 
+des 
+Abschlussprüfers. 
+In 
+Vorbereitung 
+der 
+Befassung 
+des 
+Plenums 
+mit 
+den 
+Abschlussunterlagen wurden diese eingehend mit den Vertretern des Abschlussprüfers 
+erörtert und unter Einbeziehung der hierzu erteilten Auskünfte sorgfältig geprüft. Anknüpfend 
+an Gespräche, die der Ausschussvorsitzende mit dem Vorstand, dem Head of Global Finance 
+und dem Abschlussprüfer im Vorfeld geführt hatte, und einen vom Abschlussprüfer 
+vorgelegten, mandatsbezogenen Qualitätsbericht, hat sich der Prüfungsausschuss eingehend 
+mit der Qualität der Abschlussprüfung befasst. Auf der Grundlage der dabei gewonnen 
+47
+
+ 
+ 
+positiven Einschätzung beschloss der Ausschuss die Empfehlung an den Aufsichtsrat, der 
+Hauptversammlung 
+vorzuschlagen, 
+die 
+PricewaterhouseCoopers 
+GmbH, 
+Wirtschaftsprüfungsgesellschaft, 
+Frankfurt 
+am 
+Main, 
+zum 
+Abschlussprüfer 
+und 
+Konzernabschlussprüfer für das Geschäftsjahr 2022 zu bestellen. 
+ 
+In seiner Oktober-Sitzung, in der auch der Abschlussprüfer vertreten war, befasste sich der 
+Ausschuss 
+mit 
+der 
+Unabhängigkeit 
+des 
+Abschlussprüfers 
+und 
+nahm 
+die 
+Unabhängigkeitserklärung des Abschlussprüfers zur Kenntnis. Er bestimmte, dass mit dem 
+Abschlussprüfer Vereinbarungen hinsichtlich der Überprüfung der Corporate Governance-
+Regeln getroffen und die Kommunikation zwischen Ausschuss und Prüfer näher festgelegt 
+werden. Die Vertreter des Abschlussprüfers stellten die beabsichtigte Herangehensweise bei 
+der Abschlussprüfung dar und der Ausschuss legte die Prüfungsschwerpunkte für die 
+Abschlussprüfung fest. Im Nachgang wurden alsdann die Aufträge für die Prüfung des Jahres- 
+und Konzernabschlusses 2022 und der Nichtfinanziellen Erklärung für 2022 an den 
+Abschlussprüfer erteilt. 
+ 
+Beratungsgegenstände der weiteren Sitzungen des Prüfungsausschusses waren das 
+Compliance-System und das Risikomanagement-System, zu denen sich der Ausschuss vom 
+Head of Global Compliance berichten ließ. Besonderes Augenmerk galt dabei der Aufnahme 
+geopolitischer und Nachhaltigkeitsrisiken in die Risiko-Inventur, außerdem dem Datenschutz 
+und den Maßnahmen, die sich aus dem Lieferkettensorgfaltspflichtengesetz für die 
+Gesellschaft ergeben. Darüber hinaus ließ sich der Ausschuss vom Head of Global Finance 
+über die Maßnahmen der Internen Revision in 2022 berichten und erörtere diese eingehend.  
+ 
+Der Ausschuss für Related Party Transactions (RPT-Ausschuss) tagte im Berichtsjahr fünfmal. 
+In seiner Sitzung im Januar 2022 befasste er sich eingehend mit dem Rahmenvertrag (Master 
+Service Agreement) zwischen der Pfeiffer Vacuum Shared Services GmbH und der Busch 
+Dienste GmbH sowie weiteren Gesellschaften der Busch SE-Gruppe zur Erbringung von 
+Dienstleistungen zum Aufbau und Betrieb eines gemeinsamen IT-Systems. Nach sorgfältiger 
+Prüfung und intensiver Erörterung stimmte der RPT-Ausschuss dem Abschluss des 
+Rahmenvertrags, der nach Art und Umfang als Geschäft mit einer nahestehenden Person 
+nach § 111a Abs. 1 und 3 AktG einzuordnen ist, auf der Grundlage der ihm vom Plenum 
+erteilten Entscheidungskompetenz zu. Gegenstand der weiteren Sitzungen war die 
+kontinuierliche Prüfung der Zusammenarbeit mit den Unternehmen der Busch-Gruppe, 
+insbesondere im IT-Bereich. Festgestellt wurde, dass, abgesehen von dem Master Service 
+Agreement, der nach § 111b AktG maßgebliche Schwellenwert für zustimmungsbedürftige 
+Rechtsgeschäfte im Geschäftsjahr 2022 nicht erreicht wurde.  
+ 
+Außerdem befasste sich der RPT-Ausschuss eingehend mit dem vom Abschlussprüfer 
+geprüften Abhängigkeitsbericht für 2021 und erörterte diesen mit dem Vorstand. 
+ 
+Nachdem 
+der 
+Hauptaktionär 
+angekündigt 
+hatte, 
+einen 
+Beherrschungs- 
+und 
+Gewinnabführungsvertrag mit der Pfeiffer Vacuum Technology AG anzustreben, befasste sich 
+der Ausschuss mit diesem Vorhaben.  
+ 
+Der Nominierungsausschuss kam im  Berichtsjahr zu einer Sitzung zusammen, in der er 
+Perspektiven für die zukünftige Zusammensetzung des Aufsichtsrats erörterte.  
+ 
+Pandemiebedingt wurden alle Sitzungen der Ausschüsse des Aufsichtsrats im Berichtsjahr als 
+Videokonferenz durchgeführt. 
+ 
+ 
+ 
+ 
+ 
+ 
+48
+
+ 
+ 
+Sitzungspräsenz 
+ 
+Im Geschäftsjahr 2022 haben alle Mitglieder des Aufsichtsrats an sämtlichen Sitzungen des 
+Aufsichtsrats teilgenommen und alle Mitglieder von Ausschüssen auch an allen Sitzungen der 
+Ausschüsse, 
+denen 
+sie 
+angehören. 
+Demgemäß 
+lag 
+die 
+Präsenzquote 
+aller 
+Aufsichtsratsmitglieder bei den Sitzungen des Plenums und der Ausschüsse, wie im Vorjahr, 
+auch im Berichtsjahr bei 100 %.  
+ 
+Corporate Governance 
+ 
+Für die Pfeiffer Vacuum Technology AG gilt als börsennotiertes Unternehmen § 161 Abs. 1 
+des Aktiengesetzes. Danach haben Vorstand und Aufsichtsrat jährlich zu erklären, dass den 
+Empfehlungen des Deutschen Corporate Governance Kodex entsprochen wurde und wird 
+oder welche Empfehlungen nicht angewendet wurden oder werden und warum nicht. Der 
+Aufsichtsrat bekennt sich zu den Grundsätzen einer guten Unternehmensführung. Er hat sich 
+hiermit auch im Geschäftsjahr 2022 eingehend befasst. Seinen Ausdruck findet dies in der 
+weitgehenden Anerkennung und Befolgung der Empfehlungen des Deutschen Corporate 
+Governance Kodex. Vorstand und Aufsichtsrat haben am 4. November 2022 die 
+turnusgemäße Entsprechenserklärung hierzu abgegeben. Sie ist auf der Internetseite der 
+Gesellschaft zugänglich und zudem Bestandteil der Erklärung zur Unternehmensführung. 
+ 
+Nach der Empfehlung E.1 des Deutschen Corporate Governance Kodex soll jedes 
+Aufsichtsratsmitglied Interessenkonflikte unverzüglich offenlegen. Anlässe zur Offenlegung 
+tatsächlicher oder potenzieller Interessenkonflikte sind im Berichtsjahr nicht aufgetreten. Zur 
+Bewältigung des in der Person von Frau Ayla Busch bestehenden potenziellen 
+Interessenkonflikts, der bei der Beratung und Kontrolle des Vorstands im Hinblick auf 
+Rechtsgeschäfte mit Unternehmen der Busch-Gruppe und bei der Umsetzung des mit der 
+Busch SE abgeschlossenen Relationship Agreements auftreten könnte, hat der Aufsichtsrat 
+bereits im November 2019 einen speziellen Ausschuss für Related Party Transactions, den 
+sog. RPT-Ausschuss, eingesetzt, dem Frau Ayla Busch nicht angehört. 
+ 
+Jahres- und Konzernabschluss, Abschlussprüfung, Abhängigkeitsbericht 
+ 
+Nach vorbereitender Befassung im Prüfungsausschuss ist die PricewaterhouseCoopers 
+GmbH, Wirtschaftsprüfungsgesellschaft, Frankfurt am Main, beauftragt worden, den 
+Jahresabschluss und den nach IFRS erstellten Konzernabschluss der Gesellschaft für das 
+Geschäftsjahr 2022 sowie, soweit gesetzlich vorgeschrieben, der Tochtergesellschaften zu 
+prüfen. Gemäß § 315e des Handelsgesetzbuches wurde auf einen Konzernabschluss nach 
+den Regeln des deutschen Handelsgesetzbuches verzichtet. Die PricewaterhouseCoopers 
+GmbH 
+wurde 
+auch 
+mit 
+der 
+Prüfung 
+der 
+nichtfinanziellen 
+Konzernerklärung 
+(„Nachhaltigkeitsbericht 2022“) als Teil des  zusammengefassten Lageberichts 2022 
+beauftragt. Vor Erteilung der Prüfungsaufträge hatte sich der Prüfungsausschuss auf der 
+Grundlage der hierzu abgegebenen Erklärung der Unabhängigkeit der Abschlussprüfer 
+vergewissert.  
+ 
+Der 
+Prüfungsausschuss 
+hat 
+mit 
+dem 
+Abschlussprüfer 
+u.a. 
+die 
+folgenden 
+Prüfungsschwerpunkte  festgelegt: Geschäftsprozesse, Risiko- und Kontrollbewusstsein des 
+Managements (Management-Fraud); Umsatzrealisierung; Vorratsvermögen und Bewertung 
+der Vorräte; Bewertung und Vollständigkeit der Rückstellungen; Pensionsrückstellungen; 
+aktuelle und latente Steuern; Impairment Test (IAS 36); Ansatz von Entwicklungskosten (IAS 
+38); IT-Kosten,/Kapitalisierung/Besteuerung; Vollständigkeit der Angaben im IFRS Anhang; 
+Risiko- und Prognoseberichterstattung; Abhängigkeitsbericht und Kooperationsvereinbarung 
+mit Busch; Vergütungsberichterstattung; finanzielle und nicht-finanzielle KPIs. Als Key Audit-
+Matters wurden wie in den Vorjahren die bilanzierten Geschäfts- oder Firmenwerte und die 
+Bewertungen der Beteiligungen an den verbundenen Unternehmen bestimmt. Für die 
+Kommunikation wurde ein fester Terminkalender mit dem Ausschussvorsitzenden vereinbart. 
+49
+
+ 
+ 
+Mit dem Abschlussprüfer ist vereinbart worden, (i) dass dieser den Prüfungsausschuss 
+unverzüglich über alle für seine Aufgaben wesentlichen Feststellungen und Vorkommnisse 
+unterrichtet, die bei der Durchführung der Abschlussprüfung zu seiner Kenntnis gelangen, 
+außerdem, (ii) dass dieser den Prüfungsausschuss informiert und im Prüfungsbericht 
+vermerkt, wenn er bei Durchführung der Abschlussprüfung Tatsachen feststellt, die eine 
+Unrichtigkeit der von Vorstand und Aufsichtsrat abgegebenen Erklärung zum Kodex ergeben. 
+ 
+Der vom Vorstand erstellte Jahresabschluss, der Konzernabschluss nach IFRS sowie der 
+zusammengefasste Konzernlagebericht, jeweils für das Geschäftsjahr 2022, sind vom 
+Abschlussprüfer geprüft und mit dem uneingeschränkten Bestätigungsvermerk versehen 
+worden. 
+ 
+Gemäß § 315b HGB hat die Gesellschaft für das Geschäftsjahr 2022 die nichtfinanzielle 
+Konzernerklärung („Nachhaltigkeitsbericht 2022“) als Teil des zusammengefassten 
+Lageberichts erstellt. Die inhaltliche Überprüfung der nichtfinanziellen Konzernerklärung durch 
+den 
+Aufsichtsrat 
+erfolgte mit 
+Unterstützung 
+der 
+PricewaterhouseCoopers GmbH, 
+Wirtschaftsprüfungsgesellschaft, Frankfurt am Main, im Rahmen einer Prüfung zur Erlangung 
+begrenzter Sicherheit (limited assurance) nach dem International Standard on Assurance 
+Engagement (ISAE) 3000 (Revised). Bei der Prüfung sind keine Sachverhalte bekannt 
+geworden, nach denen die Wirtschaftsprüfungsgesellschaft zu der Auffassung gelangt wäre, 
+dass die nichtfinanzielle Konzernerklärung der Pfeiffer Vacuum Technology AG für den 
+Zeitraum 1. Januar bis 31. Dezember 2022 in allen wesentlichen Belangen nicht in 
+Übereinstimmung mit § 289c HGB und § 315c HGB aufgestellt worden ist. 
+ 
+Im Bestätigungsvermerk ist die nichtfinanzielle Konzernerklärung als sonstige Information im 
+Sinne von ISA 720 (revised) gekennzeichnet. Der Aufsichtsrat hat in seiner Sitzung vom 
+14. März 2023 die nichtfinanzielle Konzernerklärung für das Geschäftsjahr 2022 gebilligt. 
+ 
+Die Jahresabschlüsse, der zusammengefasste Lagebericht sowie die Prüfungsberichte des 
+Abschlussprüfers haben allen Aufsichtsratsmitgliedern rechtzeitig vorgelegen. Sie wurden am 
+9. März 2023 zunächst vorbereitend vom Prüfungsausschuss und dann am 14. März 2023 
+vom Aufsichtsrat in ihren jeweiligen Bilanzsitzungen ausführlich besprochen. Dabei waren 
+Vertreter des Abschlussprüfers anwesend, die über die wesentlichen Ergebnisse der Prüfung 
+berichteten und Fragen hierzu beantworteten. Der Aufsichtsrat hat den Prüfungsergebnissen 
+des Abschlussprüfers nach eingehender eigener Prüfung zugestimmt. Nach dem 
+abschließenden Ergebnis seiner Prüfung hat der Aufsichtsrat keine Einwendungen gegen den 
+Jahresabschluss und den Konzernabschluss erhoben. Er hat den Jahresabschluss und den 
+Konzernabschluss gebilligt. Der Jahresabschluss wurde damit festgestellt. Der Aufsichtsrat 
+hat mit dem Vorstand dessen Vorschlag zur Ausschüttung einer Dividende eingehend 
+diskutiert und sich sodann dem Vorschlag des Vorstands über die Verwendung des 
+Bilanzgewinns angeschlossen. 
+ 
+Zudem hat der Vorstand der Pfeiffer Vacuum Technology AG gemäß § 312 AktG einen Bericht 
+über die Beziehungen der Gesellschaft zu verbundenen Unternehmen für das Geschäftsjahr 
+2022 (im Folgenden kurz „Abhängigkeitsbericht“) erstellt und dem Aufsichtsrat zur Prüfung 
+vorgelegt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50
+
+ 
+ 
+Die PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft, Frankfurt am Main, hat 
+den Abhängigkeitsbericht geprüft und folgenden Bestätigungsvermerk erteilt: 
+ 
+"Nach unserer pflichtmäßigen Prüfung und Beurteilung bestätigen wir, dass 
+1. die tatsächlichen Angaben des Berichts richtig sind, 
+2. bei den im Bericht aufgeführten Rechtsgeschäften die Leistung der Gesellschaft nicht 
+unangemessen hoch war 
+3. bei den im Bericht aufgeführten Maßnahmen keine Umstände für eine wesentlich 
+andere Beurteilung als die durch den Vorstand sprechen.“   
+ 
+Dem Aufsichtsrat haben sowohl der Abhängigkeitsbericht des Vorstands als auch der 
+Prüfungsbericht des Abschlussprüfers hierzu vorgelegen. Der Aufsichtsrat hat den 
+Abhängigkeitsbericht des Vorstands und den Prüfungsbericht des Abschlussprüfers geprüft. 
+Die abschließende Prüfung durch den Aufsichtsrat erfolgte in der Aufsichtsratssitzung am 
+14. März 2023. An der Sitzung nahm der Abschlussprüfer teil und berichtete über seine 
+Prüfung des Abhängigkeitsberichts und seine wesentlichen Prüfungsergebnisse, erläuterte 
+seinen Prüfungsbericht und beantwortete die Fragen der Aufsichtsratsmitglieder. Nach dem 
+abschließenden Ergebnis seiner Prüfung stimmte der Aufsichtsrat dem Abhängigkeitsbericht 
+des Vorstands und dem Prüfungsbericht des Abschlussprüfers zu und hat keine 
+Einwendungen gegen die Erklärung des Vorstands am Schluss des Berichts über die 
+Beziehungen zu verbundenen Unternehmen erhoben. 
+ 
+Vergütungsbericht 
+ 
+Zu Beginn des Jahres 2023 hat sich der Aufsichtsrat mit der Erstellung des Vergütungsberichts 
+2022 befasst und diesen gemeinsam mit dem Vorstand verabschiedet. Der Vergütungsbericht 
+wurde vom Abschlussprüfer mit einem eigenständigen Prüfungsvermerk versehen und wird 
+der diesjährigen Hauptversammlung der Gesellschaft zur Billigung vorgelegt. 
+ 
+Dank  
+ 
+Der 
+Aufsichtsrat 
+dankt 
+dem 
+Vorstand, 
+den 
+Arbeitnehmervertretungen 
+und 
+allen 
+Mitarbeiterinnen und Mitarbeitern des Konzerns für ihren Einsatz im erfolgreichen 
+Geschäftsjahr 2022 sehr. 
+ 
+Verabschiedung dieses Berichts 
+ 
+Der Aufsichtsrat hat diesen Bericht des Aufsichtsrats mit Beschluss vom 14. März 2023 gemäß 
+§ 171 Abs. 2 AktG verabschiedet. 
+ 
+ 
+ 
+Aßlar, den 14. März 2023 
+ 
+Für den Aufsichtsrat 
+ 
+ 
+ 
+Ayla Busch 
+(Vorsitzende des Aufsichtsrats) 
+51
+
+ 
+ 
+VII. Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+An die Pfeiffer Vacuum Technology AG, Aßlar 
+VERMERK ÜBER DIE PRÜFUNG DES JAHRESABSCHLUSSES UND DES 
+LAGEBERICHTS  
+Prüfungsurteile 
+Wir haben den Jahresabschluss der Pfeiffer Vacuum Technology AG, Aßlar, – bestehend aus 
+der Bilanz zum 31. Dezember 2022 und der Gewinn- und Verlustrechnung für das 
+Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 sowie dem Anhang, einschließlich 
+der Darstellung der Bilanzierungs- und Bewertungsmethoden – geprüft. Darüber hinaus haben 
+wir den Lagebericht der Pfeiffer Vacuum Technology AG, der mit dem Konzernlagebericht 
+zusammengefasst ist, einschließlich des im Abschnitt „Vergütungsbericht 2022“ enthaltenen 
+Vergütungsberichts nach § 162 AktG, einschließlich der dazugehörigen Angaben, für das 
+Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 geprüft. Die im Abschnitt „Sonstige 
+Informationen“ unseres Bestätigungsvermerks genannten Bestandteile des Lageberichts 
+haben wir in Einklang mit den deutschen gesetzlichen Vorschriften nicht inhaltlich geprüft. 
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse 
+• 
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen 
+handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze 
+ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild 
+der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2022 sowie ihrer 
+Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 und 
+• 
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der 
+Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem 
+Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die 
+Chancen und Risiken der zukünftigen Entwicklung zutreffend dar. Unser Prüfungsurteil 
+zum Lagebericht erstreckt sich nicht auf den Inhalt der im Abschnitt „Sonstige 
+Informationen“ genannten Bestandteile des Lageberichts. 
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen 
+gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat. 
+Grundlage für die Prüfungsurteile 
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung 
+mit § 317 HGB und der EU-Abschlussprüferverordnung (Nr. 537/2014; im Folgenden „EU-
+APrVO“) unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten 
+deutschen 
+Grundsätze 
+ordnungsmäßiger 
+Abschlussprüfung 
+durchgeführt. 
+Unsere 
+Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des 
+Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres 
+Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen 
+unabhängig in Übereinstimmung mit den europarechtlichen sowie den deutschen 
+52
+
+ 
+ 
+handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen 
+Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Darüber hinaus erklären 
+wir gemäß Artikel 10 Abs. 2 Buchst. f) EU-APrVO, dass wir keine verbotenen 
+Nichtprüfungsleistungen nach Artikel 5 Abs. 1 EU-APrVO erbracht haben. Wir sind der 
+Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, 
+um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu 
+dienen. 
+Besonders wichtige Prüfungssachverhalte in der Prüfung des Jahresabschlusses 
+Besonders wichtige Prüfungssachverhalte sind solche Sachverhalte, die nach unserem 
+pflichtgemäßen Ermessen am bedeutsamsten in unserer Prüfung des Jahresabschlusses für 
+das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 waren. Diese Sachverhalte 
+wurden im Zusammenhang mit unserer Prüfung des Jahresabschlusses als Ganzem und bei 
+der Bildung unseres Prüfungsurteils hierzu berücksichtigt; wir geben kein gesondertes 
+Prüfungsurteil zu diesen Sachverhalten ab. 
+Aus unserer Sicht war folgender Sachverhalt am bedeutsamsten in unserer Prüfung: 
+❶ Bewertung von Anteilen an verbundenen Unternehmen sowie von Forderungen gegen 
+und Ausleihungen an diese verbundenen Unternehmen 
+Unsere Darstellung dieses besonders wichtigen Prüfungssachverhalts haben wir wie folgt 
+strukturiert: 
+① Sachverhalt und Problemstellung  
+② Prüferisches Vorgehen und Erkenntnisse 
+③ Verweis auf weitergehende Informationen 
+Nachfolgend stellen wir den besonders wichtigen Prüfungssachverhalt dar: 
+❶ Bewertung von Anteilen an verbundenen Unternehmen sowie von Forderungen 
+gegen und Ausleihungen an diese verbundenen Unternehmen 
+① Im Jahresabschluss der Gesellschaft werden unter dem Bilanzposten „Finanzanlagen“ 
+Anteile an verbundenen Unternehmen in Höhe von € 224,0 Mio und Ausleihungen an 
+verbundene Unternehmen von € 37,7 Mio ausgewiesen. Darüber hinaus werden 
+Forderungen gegen diese verbundenen Unternehmen in Höhe von € 102,8 Mio 
+ausgewiesen. Zusammen beträgt der Buchwert des Gesamtengagements € 364,5 Mio 
+(92,9 % der Bilanzsumme). Die handelsrechtliche Bewertung von Anteilen an 
+verbundenen Unternehmen, Forderungen gegen und Ausleihungen an verbundene 
+Unternehmen richtet sich nach den Anschaffungskosten und dem niedrigeren 
+beizulegenden Wert. Die Ermittlung der beizulegenden Werte erfolgt auf der Grundlage 
+der Barwerte der erwarteten künftigen Zahlungsströme, die sich aus den von den 
+gesetzlichen Vertretern erstellten Planungsrechnungen ergeben, mittels Discounted-
+Cashflow-Modellen. 
+Hierbei 
+werden 
+auch 
+Erwartungen 
+über 
+die 
+zukünftige 
+Marktentwicklung 
+und 
+Annahmen 
+über 
+die 
+Entwicklung 
+makroökonomischer 
+Einflussfaktoren berücksichtigt. Die Diskontierung erfolgt mittels der individuell ermittelten 
+Kapitalkosten des jeweiligen verbundenen Unternehmens. Auf Basis der ermittelten Werte 
+53
+
+ 
+ 
+sowie 
+weiterer 
+Dokumentationen 
+ergab 
+sich 
+für 
+das 
+Geschäftsjahr 
+kein 
+Abwertungsbedarf. Das Ergebnis dieser Bewertung ist in hohem Maße abhängig davon, 
+wie die gesetzlichen Vertreter die künftigen Zahlungsströme einschätzen, sowie von den 
+jeweils verwendeten Diskontierungszinssätzen und Wachstumsraten. Die Bewertung ist 
+daher mit wesentlichen Unsicherheiten behaftet. 
+ 
+Vor diesem Hintergrund und aufgrund der hohen Komplexität der Bewertung und der 
+wesentlichen Bedeutung für die Vermögens- und Ertragslage der Gesellschaft war dieser 
+Sachverhalt im Rahmen unserer Prüfung von besonderer Bedeutung. 
+② Im Rahmen unserer Prüfung haben wir unter anderem das methodische Vorgehen der 
+Gesellschaft zur Bewertung der Anteile an verbundenen Unternehmen, Forderungen 
+gegen und Ausleihungen an diese verbundenen Unternehmen nachvollzogen. Wir haben 
+insbesondere beurteilt, ob die beizulegenden Werte sachgerecht auf der Grundlage von 
+Discounted- Cashflow- Modellen unter Beachtung der relevanten Bewertungsstandards 
+ermittelt wurden. Dabei haben wir uns unter anderem auf einen Abgleich mit allgemeinen 
+und branchenspezifischen Markterwartungen sowie auf umfangreiche Erläuterungen der 
+gesetzlichen Vertreter zu den wesentlichen Werttreibern gestützt, die den erwarteten 
+Zahlungsströmen zugrunde liegen. Mit der Kenntnis, dass bereits relativ geringe 
+Veränderungen des verwendeten Diskontierungszinssatzes und der Wachstumsrate 
+werterheblich sein können, haben wir uns intensiv mit den bei der Bestimmung des 
+verwendeten Diskontierungszinssatzes herangezogenen Parametern beschäftigt und das 
+Berechnungsschema nachvollzogen. Abschließend haben wir beurteilt, ob die so 
+ermittelten Werte zutreffend dem entsprechenden Buchwert gegenübergestellt wurden, 
+um einen etwaigen Wertberichtigungs- oder Zuschreibungsbedarf zu ermitteln. 
+ 
+Die von den gesetzlichen Vertretern angewandten Bewertungsparameter und 
+zugrundegelegten Bewertungsannahmen sind unter Berücksichtigung der verfügbaren 
+Informationen aus unserer Sicht insgesamt geeignet, um die Bewertung der Anteile an 
+verbundenen Unternehmen sowie der Forderungen gegen und der Ausleihungen an diese 
+verbundenen Unternehmen sachgerecht vorzunehmen. 
+③ Die Angaben der Gesellschaft zu den Finanzanlagen und zu den Forderungen gegen 
+verbundene Unternehmen sind in den Abschnitten 1.1 und 2.1 des Anhangs enthalten. 
+Sonstige Informationen 
+Die gesetzlichen Vertreter sind für die sonstigen Informationen verantwortlich. Die sonstigen 
+Informationen umfassen die folgenden von uns vor Datum dieses Bestätigungsvermerks 
+erlangten nicht inhaltlich geprüften Bestandteile des Lageberichts: 
+• 
+die in Abschnitt „Erklärung zur Unternehmensführung“ des Lageberichts enthaltene 
+Erklärung zur Unternehmensführung nach § 289f HGB und § 315d HGB 
+• 
+die in Abschnitt „Nachhaltigkeitsbericht 2022“ des Lageberichts enthaltene nichtfinanzielle 
+Konzernerklärung zur Erfüllung der §§ 315b bis 315c HGB 
+• 
+die als ungeprüft gekennzeichneten Angaben in Abschnitt „Internes Kontrollsystem (IKS)“ 
+des Lageberichts  
+Die sonstigen Informationen umfassen zudem alle uns voraussichtlich nach dem Datum des 
+Bestätigungsvermerks zur Verfügung zu stellenden übrigen Teile der Publikation 
+"Jahresabschluss zum 31.12.2022" – ohne weitergehende Querverweise auf externe 
+54
+
+ 
+ 
+Informationen –, mit Ausnahme des geprüften Jahresabschlusses, des geprüften Lageberichts 
+sowie unseres Bestätigungsvermerks. 
+Unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht erstrecken sich nicht auf 
+die sonstigen Informationen, und dementsprechend geben wir weder ein Prüfungsurteil noch 
+irgendeine andere Form von Prüfungsschlussfolgerung hierzu ab. 
+Im Zusammenhang mit unserer Prüfung haben wir die Verantwortung, die oben genannten 
+sonstigen Informationen zu lesen und dabei zu würdigen, ob die sonstigen Informationen 
+• 
+wesentliche Unstimmigkeiten zum Jahresabschluss, zu den inhaltlich geprüften 
+Lageberichtsangaben oder zu unseren bei der Prüfung erlangten Kenntnissen aufweisen 
+oder 
+• 
+anderweitig wesentlich falsch dargestellt erscheinen. 
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und 
+den Lagebericht 
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der 
+den deutschen handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und 
+dafür, 
+dass 
+der 
+Jahresabschluss 
+unter 
+Beachtung 
+der 
+deutschen 
+Grundsätze 
+ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der 
+Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen 
+Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den 
+deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um 
+die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen 
+Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung 
+und Vermögensschädigungen) oder Irrtümern ist. 
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür 
+verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu 
+beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit 
+der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus 
+sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der 
+Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder 
+rechtliche Gegebenheiten entgegenstehen. 
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, 
+der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen 
+wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen 
+gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung 
+zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen 
+und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines 
+Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen 
+Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im 
+Lagebericht erbringen zu können. 
+55
+
+ 
+ 
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der 
+Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts. 
+Der Vorstand und der Aufsichtsrat sind des Weiteren verantwortlich für die Aufstellung des im 
+Lagebericht in einem besonderen Abschnitt enthaltenen Vergütungsberichts, einschließlich 
+der dazugehörigen Angaben, der den Anforderungen des § 162 AktG entspricht. Ferner sind 
+sie verantwortlich für die internen Kontrollen, die sie als notwendig erachten, um die 
+Aufstellung eines Vergütungsberichts, einschließlich der dazugehörigen Angaben, zu 
+ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen 
+Handlungen oder Irrtümern ist. 
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des 
+Lageberichts 
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss 
+als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen 
+oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der 
+Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie 
+mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen 
+gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung 
+zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile 
+zum Jahresabschluss und zum Lagebericht beinhaltet. 
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine 
+in Übereinstimmung mit § 317 HGB und der EU-APrVO unter Beachtung der vom Institut der 
+Wirtschaftsprüfer 
+(IDW) 
+festgestellten 
+deutschen 
+Grundsätze 
+ordnungsmäßiger 
+Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. 
+Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden 
+als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln 
+oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts 
+getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen. 
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische 
+Grundhaltung. Darüber hinaus 
+• 
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im 
+Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, 
+planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie 
+erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für 
+unsere Prüfungsurteile zu dienen. Das Risiko, dass aus dolosen Handlungen resultierende 
+wesentliche falsche Darstellungen nicht aufgedeckt werden, ist höher als das Risiko, dass 
+aus Irrtümern resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, 
+da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte 
+Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner 
+Kontrollen beinhalten können. 
+• 
+gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten 
+internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten 
+Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den 
+56
+
+ 
+ 
+gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur 
+Wirksamkeit dieser Systeme der Gesellschaft abzugeben. 
+• 
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten 
+Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern 
+dargestellten geschätzten Werte und damit zusammenhängenden Angaben. 
+• 
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen 
+Vertretern 
+angewandten 
+Rechnungslegungsgrundsatzes 
+der 
+Fortführung 
+der 
+Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob 
+eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten 
+besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der 
+Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine 
+wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die 
+dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen 
+oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu 
+modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum 
+unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder 
+Gegebenheiten 
+können 
+jedoch 
+dazu 
+führen, 
+dass 
+die 
+Gesellschaft 
+ihre 
+Unternehmenstätigkeit nicht mehr fortführen kann. 
+• 
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt 
+einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden 
+Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung 
+der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen 
+Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der 
+Gesellschaft vermittelt. 
+• 
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine 
+Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft. 
+• 
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten 
+zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter 
+Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten 
+Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen 
+nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus 
+diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben 
+sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein 
+erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den 
+zukunftsorientierten Angaben abweichen. 
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten 
+Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, 
+einschließlich etwaiger bedeutsamer Mängel im internen Kontrollsystem, die wir während 
+unserer Prüfung feststellen. 
+Wir geben gegenüber den für die Überwachung Verantwortlichen eine Erklärung ab, dass wir 
+die relevanten Unabhängigkeitsanforderungen eingehalten haben, und erörtern mit ihnen alle 
+Beziehungen und sonstigen Sachverhalte, von denen vernünftigerweise angenommen werden 
+kann, dass sie sich auf unsere Unabhängigkeit auswirken, und sofern einschlägig, die zur 
+Beseitigung 
+von 
+Unabhängigkeitsgefährdungen 
+vorgenommenen 
+Handlungen 
+oder 
+ergriffenen Schutzmaßnahmen. 
+57
+
+ 
+ 
+Wir bestimmen von den Sachverhalten, die wir mit den für die Überwachung Verantwortlichen 
+erörtert haben, diejenigen Sachverhalte, die in der Prüfung des Jahresabschlusses für den 
+aktuellen Berichtszeitraum am bedeutsamsten waren und daher die besonders wichtigen 
+Prüfungssachverhalte sind. Wir beschreiben diese Sachverhalte im Bestätigungsvermerk, es 
+sei denn, Gesetze oder andere Rechtsvorschriften schließen die öffentliche Angabe des 
+Sachverhalts aus. 
+SONSTIGE GESETZLICHE UND ANDERE RECHTLICHE ANFORDERUNGEN 
+Vermerk über die Prüfung der für Zwecke der Offenlegung erstellten elektronischen 
+Wiedergaben des Jahresabschlusses und des Lageberichts nach § 317 Abs. 3a HGB 
+Prüfungsurteil 
+Wir haben gemäß § 317 Abs. 3a HGB eine Prüfung mit hinreichender Sicherheit durchgeführt, 
+ob die in der Datei Pfeiffer_Vacuum_Technology_AG_EA_LB_ESEF-2022-12-31.zip 
+enthaltenen und für Zwecke der Offenlegung erstellten Wiedergaben des Jahresabschlusses 
+und des Lageberichts (im Folgenden auch als „ESEF-Unterlagen“ bezeichnet) den Vorgaben 
+des § 328 Abs. 1 HGB an das elektronische Berichtsformat („ESEF-Format“) in allen 
+wesentlichen Belangen entsprechen. In Einklang mit den deutschen gesetzlichen Vorschriften 
+erstreckt sich diese Prüfung nur auf die Überführung der Informationen des Jahresabschlusses 
+und des Lageberichts in das ESEF-Format und daher weder auf die in diesen Wiedergaben 
+enthaltenen noch auf andere in der oben genannten Datei enthaltene Informationen. 
+Nach unserer Beurteilung entsprechen die in der oben genannten Datei enthaltenen und für 
+Zwecke der Offenlegung erstellten Wiedergaben des Jahresabschlusses und des 
+Lageberichts in allen wesentlichen Belangen den Vorgaben des § 328 Abs. 1 HGB an das 
+elektronische Berichtsformat. Über dieses Prüfungsurteil sowie unsere im voranstehenden 
+„Vermerk über die Prüfung des Jahresabschlusses und des Lageberichts“ enthaltenen 
+Prüfungsurteile zum beigefügten Jahresabschluss und zum beigefügten Lagebericht für das 
+Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 hinaus geben wir keinerlei 
+Prüfungsurteil zu den in diesen Wiedergaben enthaltenen Informationen sowie zu den anderen 
+in der oben genannten Datei enthaltenen Informationen ab. 
+Grundlage für das Prüfungsurteil 
+Wir haben unsere Prüfung der in der oben genannten Datei enthaltenen Wiedergaben des 
+Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 Abs. 3a HGB unter 
+Beachtung des IDW Prüfungsstandards: Prüfung der für Zwecke der Offenlegung erstellten 
+elektronischen Wiedergaben von Abschlüssen und Lageberichten nach § 317 Abs. 3a HGB 
+(IDW PS 410 (06.2022)) und des International Standard on Assurance Engagements 3000 
+(Revised) durchgeführt. Unsere Verantwortung danach ist im Abschnitt „Verantwortung des 
+Abschlussprüfers für die Prüfung der ESEF-Unterlagen“ weitergehend beschrieben. Unsere 
+Wirtschaftsprüferpraxis hat die Anforderungen an das Qualitätssicherungssystem des IDW 
+Qualitätssicherungsstandards: 
+Anforderungen 
+an 
+die 
+Qualitätssicherung 
+in 
+der 
+Wirtschaftsprüferpraxis (IDW QS 1) angewendet. 
+58
+
+ 
+ 
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für die ESEF-Unterlagen 
+Die gesetzlichen Vertreter der Gesellschaft sind verantwortlich für die Erstellung der ESEF-
+Unterlagen mit den elektronischen Wiedergaben des Jahresabschlusses und des 
+Lageberichts nach Maßgabe des § 328 Abs. 1 Satz 4 Nr. 1 HGB. 
+Ferner sind die gesetzlichen Vertreter der Gesellschaft verantwortlich für die internen 
+Kontrollen, die sie als notwendig erachten, um die Erstellung der ESEF-Unterlagen zu 
+ermöglichen, die frei von wesentlichen – beabsichtigten oder unbeabsichtigten – Verstößen 
+gegen die Vorgaben des § 328 Abs. 1 HGB an das elektronische Berichtsformat sind. 
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Prozesses der Erstellung der 
+ESEF-Unterlagen als Teil des Rechnungslegungsprozesses. 
+Verantwortung des Abschlussprüfers für die Prüfung der ESEF-Unterlagen 
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob die ESEF-Unterlagen 
+frei von wesentlichen – beabsichtigten oder unbeabsichtigten – Verstößen gegen die 
+Anforderungen des § 328 Abs. 1 HGB sind. Während der Prüfung üben wir pflichtgemäßes 
+Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus 
+• 
+identifizieren und beurteilen wir die Risiken wesentlicher – beabsichtigter oder 
+unbeabsichtigter – Verstöße gegen die Anforderungen des § 328 Abs. 1 HGB, planen und 
+führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen 
+Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unser 
+Prüfungsurteil zu dienen. 
+• 
+gewinnen wir ein Verständnis von den für die Prüfung der ESEF-Unterlagen relevanten 
+internen Kontrollen, um Prüfungshandlungen zu planen, die unter den gegebenen 
+Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur 
+Wirksamkeit dieser Kontrollen abzugeben. 
+• 
+beurteilen wir die technische Gültigkeit der ESEF-Unterlagen, d.h. ob die die ESEF-
+Unterlagen enthaltende Datei die Vorgaben der Delegierten Verordnung (EU) 2019/815 in 
+der zum Abschlussstichtag geltenden Fassung an die technische Spezifikation für diese 
+Datei erfüllt. 
+• 
+beurteilen wir, ob die ESEF-Unterlagen eine inhaltsgleiche XHTML-Wiedergabe des 
+geprüften Jahresabschlusses und des geprüften Lageberichts ermöglichen. 
+Übrige Angaben gemäß Artikel 10 EU-APrVO 
+Wir wurden von der Hauptversammlung am 19. Mai 2022 als Abschlussprüfer gewählt. Wir 
+wurden am 16. November 2022 vom Aufsichtsrat beauftragt. Wir sind ununterbrochen seit 
+dem Geschäftsjahr 2018 als Abschlussprüfer der Pfeiffer Vacuum Technology AG, Aßlar, tätig. 
+Wir erklären, dass die in diesem Bestätigungsvermerk enthaltenen Prüfungsurteile mit dem 
+zusätzlichen Bericht an den Prüfungsausschuss nach Artikel 11 EU-APrVO (Prüfungsbericht) 
+in Einklang stehen. 
+59
+
+ 
+ 
+HINWEIS AUF EINEN SONSTIGEN SACHVERHALT – VERWENDUNG DES 
+BESTÄTIGUNGSVERMERKS 
+Unser Bestätigungsvermerk ist stets im Zusammenhang mit dem geprüften Jahresabschluss 
+und dem geprüften Lagebericht sowie den geprüften ESEF-Unterlagen zu lesen. Der in das 
+ESEF-Format 
+überführte 
+Jahresabschluss 
+und 
+Lagebericht 
+– 
+auch 
+die 
+in 
+das 
+Unternehmensregister einzustellenden Fassungen – sind lediglich elektronische Wiedergaben 
+des geprüften Jahresabschlusses und des geprüften Lageberichts und treten nicht an deren 
+Stelle. Insbesondere ist der „Vermerk über die Prüfung der für Zwecke der Offenlegung 
+erstellten elektronischen Wiedergaben des Jahresabschlusses und des Lageberichts nach § 
+317 Abs. 3a HGB“ und unser darin enthaltenes Prüfungsurteil nur in Verbindung mit den in 
+elektronischer Form bereitgestellten geprüften ESEF-Unterlagen verwendbar. 
+VERANTWORTLICHER WIRTSCHAFTSPRÜFER 
+Der für die Prüfung verantwortliche Wirtschaftsprüfer ist Christian Kwasni. 
+Frankfurt am Main, den 6. März 2023 
+PricewaterhouseCoopers GmbH 
+Wirtschaftsprüfungsgesellschaft 
+ 
+ 
+Christian Kwasni 
+ 
+ 
+ 
+ 
+ 
+ppa. Samuel Artzt 
+Wirtschaftsprüfer 
+ 
+ 
+ 
+ 
+ 
+Wirtschaftsprüfer 
+ 
+60
+
+VIII. Versicherung der gesetzlichen Vertreter 2022
+Wir 
+versichern 
+nach 
+bestem 
+Wissen, 
+dass 
+gemäß 
+den 
+anzuwendenden 
+Rechnungslegungsgrundsätzen der Jahresabschluss ein den tatsächlichen Verhältnissen 
+entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt und 
+im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage 
+der Gesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes 
+Bild vermittelt wird, sowie die wesentlichen Chancen und Risiken der voraussichtlichen 
+Entwicklung der Gesellschaft beschrieben sind.  
+Asslar, den 6. März 2023 
+Der Vorstand 
+Dr. Britta Giesen 
+  Wolfgang Ehrk 
+61

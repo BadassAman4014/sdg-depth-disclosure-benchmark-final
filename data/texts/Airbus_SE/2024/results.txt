@@ -1,0 +1,1772 @@
+Airbus Annual Report
+Overview 2023
+ Shaping 
+the future
+
+ In 2023, Airbus focused 
+ on shaping the future
+We pioneer sustainable 
+aerospace for a safe 
+and united world
+We recorded strong order intake across all our businesses 
+and delivered on our commitments despite a complex 
+operating environment. The Company remained dedicated 
+to achieving the operational and strategic goals that support 
+our purpose. We further focused on shaping the future by 
+continuing our industrial transformation and progressing 
+with our decarbonisation journey and innovation strategy.
+
+02	
+2023 at a glance
+04	
+Chairman’s message
+06	
+CEO interview
+08	
+Our purpose in action
+12	
+Strategy
+13	
+Sustainability
+15	
+Airbus
+16	
+Airbus Helicopters
+17	
+Airbus Defence and Space
+18	
+CFO interview
+20	
+Share information
+Where applicable, ‘Airbus’ refers to 
+commercial aircraft activities and 
+the integrated functions while ‘the 
+Company’ refers to Airbus SE 
+together with its subsidiaries.
+ 
+Rounding: Due to rounding, 
+numbers presented may not add up 
+precisely to the totals provided and 
+percentages may not precisely 
+reflect the absolute figures.
+ Contents
+2023 at a glance
+See page 02
+Our purpose in action
+See page 08
+Chairman’s message
+See page 04
+CEO interview
+See page 06
+Sustainability
+See page 13
+Share information
+See page 20
+CFO interview
+See page 18
+Strategy
+See page 12
+Operational review
+See page 15
+01
+Airbus Annual Report Overview 2023
+Contents
+
+ 2023 at a glance
+The year saw many significant events 
+across the Company. These included contract 
+signings and programme milestones as well 
+as progress on our decarbonisation journey.
+Financial
+Revenues (€ million)
+65,446
+(2022: 58,763)
+EBIT Adjusted (€ million)
+5,838
+(2022: 5,627)
+EBIT Reported (€ million)
+4,603
+(2022: 5,325)
+Reported earnings per share(1) (€)
+4.80
+(2022: 5.40)
+Order intake (€ million)
+186,493
+(2022: 82,521)
+Non-Financial(2)
+Scope 1 and 2 CO2 emissions (ktons CO2e)
+645
+(Market-based)
+Total employee training (millions of hours)
+2.18
+(1 Oct. 2022 to 30 Sept. 2023)
+Ethics and Compliance e-learning sessions
+525,280
+(1 Oct. 2022 to 30 Sept. 2023)
+Number of employees
+147,893
+(End 2022: 134,267)
+Total energy consumption (GWh)
+3,646
+(Excluding electricity generated 
+by CHP on site for own use)
+(1)	 FY 2023 average number of shares 788,720,779 compared to 787,080,579 in FY 2022.
+(2)	For further information, see the Non-Financial Information section of the Universal Registration Document 2023.
+Major defence contracts signed 
+A number of significant military 
+orders were received during the 
+year by Airbus Defence and Space. 
+Among them, Spain ordered 
+16 Airbus C295s in maritime patrol 
+and surveillance configurations 
+while Germany renewed a support 
+contract for its A400M fleet. It was 
+a good year for the A330 MRTT, 
+with a major order from Canada. 
+Meanwhile, Phase 1B of the Future 
+Combat Air System was launched, 
+marking a significant stage of this 
+major European defence programme.
+2023 at a glance
+02
+Airbus Annual Report Overview 2023
+
+External revenue split
+Airbus 
+Airbus Helicopters
+Airbus Defence 
+and Space 
+11%
+72%
+€ 65.4bn
+(2022: € 58.8bn)
+17%
+Order book in value by region
+Europe
+Asia Paciﬁc
+North America
+Middle East
+Latin America
+Other
+31%
+34%
+€ 554bn
+(2022: € 449bn)
+16%
+4% 8%
+7%
+A significant year in commercial aircraft
+The first Paris Air Show since the COVID-19 pandemic 
+illustrated Airbus’ successful year in commercial aircraft. 
+Progress was made with the modernisation and upgrading 
+of the industrial system, including the inauguration of a 
+new A320 Family final assembly line in Toulouse. In 2023, 
+a total of 735 commercial aircraft were delivered to 
+87 customers around the world, while net order intake 
+increased to 2,094 aircraft.
+Progress made on decarbonisation strategy
+The Company’s Scope 1, 2 and 3 targets were validated by 
+the Science Based Targets initiative (SBTi). The ZEROe project 
+successfully powered-on a 1.2 megawatt hydrogen fuel cell, and 
+Blue Condor, the modified glider at the centre of Airbus UpNext’s 
+hydrogen-combustion propulsion contrail-studying experiment, 
+made Airbus’ first ever 100% hydrogen-powered flight. The Company 
+increased the use of sustainable aviation fuel (SAF) for its own flight 
+operations during 2023.
+Strong demand for 
+the H145 helicopter 
+The medium twin-engine 
+H145 helicopter 
+demonstrated strong 
+momentum in both the civil 
+and military markets during 
+2023. On the civil side, the 
+French Armament General 
+Directorate (DGA) ordered 
+42 H145s for emergency 
+response, rescue missions 
+and law enforcement. 
+The military variant, 
+the H145M, received its 
+largest-ever order of up 
+to 82 helicopters from the 
+German Bundeswehr.
+2023 at a glance
+03
+Airbus Annual Report Overview 2023
+
+Future 
+focused
+René Obermann outlines the Company’s 
+performance and activities of the Board 
+of Directors during 2023. He also highlights 
+some key agenda items of the 2024 AGM. 
+Dear Shareholders and Stakeholders,
+2023 was a year of fragile economic growth 
+against a backdrop of instability in some parts 
+of the world. As the Russian war of aggression 
+in Ukraine continued, a major conflict flared up 
+in the Middle East as a consequence of terror 
+attacks on civilians. The events of the year 
+underscored the need for nations and companies 
+alike to increase their resilience and prepare for 
+change, whether it be geopolitical, economic, 
+societal or technological.
+Defence again demonstrated its crucial purpose, 
+from protecting people and critical assets to 
+supporting the flow of essential humanitarian aid. 
+A stronger and technologically even more advanced 
+defence industry will be essential to increase 
+Europe’s capability as a reliable partner in NATO 
+in the complex security environment. Cooperation 
+between countries and companies is key in 
+Europe, perhaps the most promising example 
+being the Future Combat Air System (FCAS) 
+project in which Airbus has a key role.
+The aerospace industry saw robust demand for 
+the most efficient commercial aircraft, as airlines’ 
+financials generally improved and passenger traffic 
+increased. Aviation’s vital role in connecting people 
+and businesses has never been clearer as the global 
+economy continues to put the pandemic behind it. 
+Air travel is a necessity in our world, and an aspiration 
+for billions of people, despite cost of living pressures.
+After missing the targeted level in 2022, our 
+Commercial Aircraft business reported an 11% 
+rise in deliveries despite a complex operating 
+environment. In terms of aircraft sales, it enjoyed 
+a stellar year. Helicopters had another successful 
+year with a solid financial performance and higher 
+order intake by units. It was a somewhat mixed 
+year however for Defence and Space, with some 
+major contract wins but unfortunately significant 
+charges had to be taken in the Space business. 
+The Division is now going through a transformation 
+programme to improve its efficiency and capabilities 
+and to better reflect the prevailing market 
+environment. Overall, the Company ended the 
+year with revenues of € 65.4 billion and an EBIT 
+Adjusted of € 5.8 billion.
+During 2023, the Board and its Committees 
+reviewed and monitored a variety of operational 
+and strategic topics central to the Airbus of today 
+and tomorrow, with a continued close monitoring 
+of sustainability developments globally and at 
+Airbus. Another area of focus was supply chain 
+challenges, particularly those regarding engines, 
+in the context of increasing commercial aircraft 
+production rates. There were dedicated sessions 
+focusing on information technology, including 
+the burgeoning area of artificial intelligence and 
+business-critical topic of cybersecurity, as well 
+as enterprise risk management. Board members 
+were also kept informed about developments 
+in safety as well as important human resources 
+topics such as the engagement of employees. 
+2023 Dividend(1) (€ per share)
+1.80
+2023 Special dividend(1) (€ per share)
+1.00
+(1)	 To be proposed to the 2024 AGM.
+Aviation’s vital 
+role in connecting 
+people and businesses 
+has never been clearer.”
+René Obermann
+Chairman of the Board
+04
+Airbus Annual Report Overview 2023
+Chairman’s message
+
+The Board worked closely with management to 
+optimise the governance of Commercial Aircraft 
+after navigating a series of major headwinds 
+in recent years, including the pandemic. 
+By appointing a dedicated Commercial Aircraft 
+CEO and corresponding management team 
+in January 2024, the Company’s single largest 
+activity is well positioned to deliver on both its 
+short- and long-term objectives. It also gives 
+Airbus CEO Guillaume Faury greater bandwidth 
+to drive the strategic agenda and further the 
+Company’s ongoing transformation.
+As said above, sustainability is and will be a 
+central topic for the Board overall, and the Ethics, 
+Compliance and Sustainability Committee in 
+particular. A dedicated strategy session focusing 
+on decarbonisation took place, covering areas 
+such as the roll-out of sustainable aviation fuels 
+and new technologies to develop even more 
+efficient aircraft in the future. There was also 
+a review of human rights and critical materials 
+in the supply chain.
+As in previous years, Board members welcomed 
+the opportunity to visit Airbus sites to increase 
+their knowledge of certain activities and engage 
+with employees. Highlights included a meeting 
+at an Airbus Atlantic facility in Tunisia, a visit to the 
+Getafe site in Spain and a meeting with the FCAS 
+team in Manching, Germany. In Toulouse, Board 
+members were also briefed about progress on the 
+Digital Design, Manufacturing and Services (DDMS) 
+programme, which aims to foster innovation, quality 
+and efficiency, and reduce the time to market for 
+products. With DDMS, we are creating a virtual 
+collaboration platform by progressively including 
+our partners in the supply chain.
+In terms of Board governance, according to the 
+principle of ‘staggered’ terms under which we 
+replace or reappoint one-third of the directors 
+every year, the mandates of Amparo Moraleda, 
+Victor Chu, Jean-Pierre Clamadieu and myself are 
+each due for renewal at the 2024 Annual General 
+Meeting (AGM). In addition, we will propose the 
+appointment of Dr. Feiyu Xu as a non-executive 
+director, to succeed Ralph D. Crosby, Jr. who will 
+leave the Board following the AGM after 11 years 
+of service. The Company wishes to express its 
+profound gratitude to Ralph for his valuable 
+contribution to the Board since his first appointment 
+in 2013. Thanks to her deep technology knowledge 
+and leadership presence, Dr. Xu will be able to 
+support the Company to strategise the impact of 
+emerging technologies on its business, which will 
+be extremely valuable in the years to come.
+The 2023 results and our confidence in the future 
+financial performance underpin our proposal for 
+a gross dividend payment of € 1.80 per share, as 
+in the previous year. The Board is also proposing 
+the payment of a special dividend of € 1.00 per 
+share which also reflects the stronger year-end 
+net cash position. We thank all our shareholders 
+for their continued engagement.
+No annual message would be complete without 
+expressing the Board’s strong appreciation for the 
+great efforts made by Airbus employees in 2023. 
+Their continued dedication means the Company 
+is well positioned to make the most of upcoming 
+opportunities and overcome challenges whenever 
+they arise.
+René Obermann
+Chairman of the Board
+  Audit Committee
+  Remuneration, Nomination and Governance Committee
+  Ethics, Compliance and Sustainability Committee
+The 2023 results and our 
+confidence in the future 
+financial performance underpin 
+our proposal for a gross dividend 
+payment of € 1.80 per share.”
+Board of Directors
+As of 1 January 2024
+René Obermann
+Chairman of the Board 
+of Directors, Airbus SE
+Amparo Moraleda
+Chair of Remuneration, 
+Nomination and 
+Governance Committee 
+Ralph D. Crosby, Jr.
+Guillaume Faury
+Chief Executive Officer 
+Airbus SE
+Claudia Nemat
+Mark Dunkerley
+Victor Chu
+Irene Rummelhoff
+Stephan Gemkow
+Antony Wood
+Jean-Pierre Clamadieu
+Chairman of Ethics, 
+Compliance and 
+Sustainability Committee
+Catherine Guillouard
+Chair of Audit Committee 
+05
+Airbus Annual Report Overview 2023
+Chairman’s message
+
+ Gaining  
+ altitude
+How was the performance 
+per business segment? 
+Commercial aircraft deliveries rose by 11% to 735. 
+It was critically important to achieve this target and 
+progress as planned with the production ramp-up. 
+We are reaping the benefits of the modernisation 
+and upgrading of our industrial system, which is 
+bringing more production flexibility. Notably, we 
+delivered the first A321neo aircraft from the new 
+A320 Family final assembly line in Toulouse and 
+the Tianjin site in China. This reflects our strategy 
+of making all A320 Family assembly sites capable 
+of producing the popular A321. In addition, 
+construction of the second A320 final assembly 
+capacities began at our sites in Tianjin and Mobile 
+in the US, which will bring us to ten A320 Family 
+final assembly lines globally. 
+It was a landmark year for Commercial Aircraft with 
+a record 2,094 net orders, bringing the backlog 
+to almost 8,600 aircraft. This strong performance 
+was driven by both the growth in airline demand 
+and also the replacement of existing aircraft with 
+more modern, fuel-efficient models. It shows our 
+range of products is well placed in this post-
+pandemic world. We also progressed with the 
+flight testing of the long-range capable A321XLR 
+ahead of its planned entry-into-service in 2024. 
+Helicopters had another successful year, both 
+operationally and financially. Deliveries were 
+slightly higher, while net orders rose to 393 units 
+and were well spread across programmes. 
+The Division had a book-to-bill above 1 both in 
+units and value and saw strong services activity, 
+which generates roughly half of revenues. 
+Operational highlights included the first flight of the 
+anti-submarine NH90 Sea Tiger for the German 
+Navy, the Spanish Navy taking delivery of its first 
+H135s and the DisruptiveLab demonstrator flying 
+for the first time. 
+It was a mixed year however for Defence and 
+Space, which pushed ahead with its much needed 
+transformation programme while addressing a 
+difficult business and geopolitical backdrop. This 
+transformation aims to make the business simpler, 
+more agile and have greater customer focus. 
+Significant charges were booked for certain Space 
+programmes in relation to revised timelines and 
+cost estimates as well as for the reassessment of 
+commercial risks and opportunities. These updated 
+Estimates at Completion mean we now have a 
+balanced assessment of our Space programmes 
+Guillaume Faury outlines the year for Airbus, 
+including the operational and financial 
+performance. He also discusses the priorities 
+for the Company in 2024 and beyond. 
+How would you summarise Airbus’ 2023? 
+Overall, we made significant progress in 2023 and 
+met our objectives. This was the result of strong 
+engagement by Team Airbus, which focused on 
+the job at hand in a complex operating environment. 
+There was strong order activity across our 
+Commercial Aircraft, Helicopters, and Defence 
+and Space businesses. Global air passenger traffic 
+bounced back to almost pre-pandemic levels, and 
+the speed of recovery was clearly ahead of initial 
+expectations for the long-haul sector. The year 
+was not without its challenges however, including 
+in the commercial aircraft supply chain, and in 
+particular in our Space business. 
+Ultimately, it was a year of progress in areas vital 
+for preparing our future, including the production 
+ramp-up, transforming the industrial set-up and 
+pushing forward with our sustainability priorities. 
+It was a year of progress 
+in areas vital for preparing 
+our future, including the production 
+ramp-up, transforming the industrial 
+set-up and pushing forward with 
+our sustainability priorities.”
+Guillaume Faury
+Chief Executive Officer
+06
+Airbus Annual Report Overview 2023
+CEO interview
+
+which by nature involve high-tech, complex 
+products. Nevertheless, the Division registered 
+very strong order inflow with a book-to-bill by value 
+of around 1.4, showing the underlying strength 
+of the product line. 
+Key military orders during the year included Spain’s 
+purchase of C295 aircraft and the renewal of an 
+in-service support contract for Germany’s A400M 
+fleet. We also progressed with the demonstrator 
+Phase 1B of the Future Combat Air System (FCAS). 
+How was the overall financial performance? 
+We delivered an EBIT Adjusted of € 5.8 billion, 
+compared to € 5.6 billion in 2022. This outcome 
+reflects the level of commercial aircraft deliveries 
+and the good performance by Helicopters on 
+the positive side, but this was partly offset by 
+the charges in the Space business. 
+Free cash flow before M&A and customer 
+financing totalled € 4.4 billion. This outcome mainly 
+reflected the commercial aircraft deliveries and 
+a strong performance across all the businesses. 
+We ended the year with a net income of € 3.8 billion. 
+Based on the strong 2023 financial performance, 
+prospects going forward and balance sheet 
+strength, the Board has been able to propose a 
+dividend of € 1.80 per share (2022: € 1.80 per share) 
+as well as a special dividend of € 1.00 per share. 
+What are your priorities for 2024 and beyond? 
+We remain fully committed to serving our customers 
+and meeting the strong demand for our modern 
+and fuel-efficient commercial aircraft. We have 
+to work closely with our supply chain partners 
+as we ramp-up production across programmes, 
+with safety and quality at the heart of all we do. 
+The Company will continue to invest in, modernise 
+and adapt the industrial system to support the 
+ramp-up. In addition, we also have to successfully 
+manage the transformation of the Defence and 
+Space business. 
+We need to keep pushing forward with our 
+ambitions in digitalisation and decarbonisation 
+as these are central to the Company’s success 
+and development. Digital tools are an important 
+enabler for the production ramp-up and fundamental 
+for the development of the next generation of civil 
+and military products. We will continue to progress 
+with our sustainability roadmap this year and 
+accelerate the pace of change where required. 
+Philippe Mhun
+Executive Vice President 
+Programmes and Services 
+of the Commercial 
+Aircraft business
+The Company is committed to the decarbonisation 
+of aerospace and is acting as a catalyst to boost 
+the global market for sustainable aviation fuel 
+(SAF). It is a priority, as it’s essential for reducing 
+aircraft lifecycle emissions and reaching the 
+industry’s net-zero ambitions by 2050. At Airbus, 
+we fulfilled our pledge of using 10% SAF in internal 
+flight operations in 2023, en route to the targeted 
+30% by 2030. 
+2024 will be another important year for our future 
+programmes. This decade we will be making 
+crucial decisions about the architecture of our 
+next-generation single-aisle aircraft and first 
+hydrogen-powered airliner. The single-aisle 
+and widebody orders in our commercial aircraft 
+backlog will support us through this required 
+period of intensive innovation and investment. 
+In Defence and Space, we are preparing for the 
+next phase of FCAS while ArianeGroup, the joint 
+venture in which we have an equal stake with 
+Safran, is gearing up for the first launch of 
+Ariane 6. 
+We began 2024 with an evolution in our 
+organisational setup, as Christian Scherer became 
+the head of our Commercial Aircraft business. 
+As Airbus CEO, I am now able to dedicate more 
+time to the broader issues facing the Company, 
+ensuring we have firm foundations for the future 
+in a fast-changing world. This means focusing 
+more on our strategic direction, our company 
+transformation and on opportunities linked to 
+global business in an increasingly complex 
+geopolitical landscape. The leadership team has 
+also evolved across Airbus to better drive this 
+agenda while ensuring a stronger and more 
+dedicated focus on commercial aircraft. 
+As we work towards shaping our future and that 
+of the industry, one thing is certain – our core 
+principles of safety, quality, integrity, compliance 
+and security will guide us in all we do. 
+Florent Massou 
+dit Labaquère
+Executive Vice President 
+Operations of the 
+Commercial Aircraft business
+Christian Scherer
+Chief Executive Officer of the 
+Commercial Aircraft business
+Michael Schoellhorn
+Chief Executive Officer 
+Airbus Defence and Space
+Thomas Toepfer
+Chief Financial Officer
+Guillaume Faury
+Chief Executive Officer 
+John Harrison
+General Counsel and 
+Head of Airbus Public Affairs
+Thierry Baril
+Chief Human 
+Resources Officer
+Catherine Jestin
+Executive Vice President 
+Digital
+Bruno Even
+Chief Executive Officer 
+Airbus Helicopters
+Julie Kitcher
+Chief Sustainability Officer 
+and Communications
+Alberto Gutiérrez
+Executive Vice President 
+Special Industrial Projects
+Sabine Klauke
+Chief Technology Officer
+Executive Committee
+As of 1 January 2024
+07
+Airbus Annual Report Overview 2023
+CEO interview
+
+I’ve always loved flying. 
+When I was a kid my dream 
+was to become a pilot. I studied 
+engineering and qualified as a 
+commercial pilot. Later, at the 
+Airbus design office, I began 
+working with the flight test teams. 
+That’s when I discovered the job 
+of flight test engineer. I never 
+knew it existed until then! Being 
+in the cockpit and focusing on 
+engineering offers a mix of the 
+operational and technical. It’s the 
+best of both worlds. 
+My colleagues and I are lucky 
+enough to fly both in-service 
+aircraft and brand new machines, 
+assessing the latest innovations. 
+For example, I’m already looking 
+forward to handing over our first 
+A321XLRs to their owners in 2024. 
+Seeing our customers from around 
+the world discover our products 
+never gets old! 
+Every delivery is a reminder that 
+we’re just one part of the much 
+bigger team that guides an aircraft 
+through production to its maiden 
+flight. A flight test engineer’s 
+schedule changes all the time. 
+It keeps us on our toes. I never 
+know what I’m doing two days 
+in advance, but I like it that way.”
+The production ramp-up is key for the 
+Company’s future and keeps Airbus’ flight 
+test teams busy. With over 20 years of 
+experience, Lead Flight Test Engineer Lucie 
+Chapirot-Sarda is a familiar face in the 
+cockpit during the hundreds of production 
+test flights and customer acceptance flights 
+that Airbus conducts each year. Among the 
+last steps in the delivery process, these 
+missions put a new aircraft’s systems 
+through their paces in the air.
+ Our purpose 
+ in action
+Airbus’ talented employees are 
+shaping the future. Meet four 
+employees whose dedicated 
+work to bring innovative products 
+and solutions to life contributes 
+to our purpose of pioneering 
+sustainable aerospace for 
+a safe and united world.
+Lucie Chapirot-Sarda 
+Lead Flight Test Engineer
+08
+Airbus Annual Report Overview 2023
+Our purpose in action
+
+The VSR700 unmanned 
+aerial system is a key part 
+of Airbus Helicopters’ strategic 
+roadmap to continuously provide 
+customers with optimised, state-
+of-the-art mission capabilities. 
+This drone incorporates many 
+technological breakthroughs that 
+will help make it a reliable partner 
+for the French Navy in the frame 
+of the SDAM (Système de Drone 
+Aérien pour la Marine) programme.
+In 2023, we tested the VSR700 
+for the first time in an operational 
+configuration at sea, on a French 
+Navy frigate. The mission simulation 
+confirmed the added value of the 
+UAS for the French Navy, so it was 
+a great achievement for the entire 
+team. This step was also crucial 
+to increasing interoperability and 
+implementing a mission system 
+that helps to reduce the crew’s 
+workload in operations.
+The renewed instability of our world has 
+proven the value of combining manned 
+and unmanned aerial assets in complex 
+military operations. In this context, the 
+VSR700 unmanned aerial system (UAS) 
+is a major asset that complements what 
+our helicopters can already achieve in an 
+operational environment. Thomas Philippe 
+has been UAS Programme Manager at 
+Airbus Helicopters for over three years, 
+overseeing the development of the VSR700.
+What’s more, a substantial 
+amount of what we are developing 
+and learning with the VSR700 
+could be reintegrated into other 
+programmes as drivers for 
+continuous improvement across 
+the range. For instance, the 
+autonomous take-off and landing 
+capabilities of our drone are a 
+powerful addition to a rotorcraft’s 
+ability to manoeuvre in demanding 
+conditions. The team and I are 
+thrilled to work on a programme 
+that will be so transformative for 
+vertical flight.”
+Thomas Philippe 
+UAS Programme Manager
+09
+Airbus Annual Report Overview 2023
+Our purpose in action
+
+I’ve always loved maths 
+and physics, and ever since 
+I started at Airbus as a sheet 
+metal apprentice on the shopfloor, 
+I’ve sought to work on technical 
+projects. Over the last 20 years, 
+I’ve had the opportunity to work 
+on helicopters, as well as civil and 
+military aircraft in various locations 
+and countries. Now, to be at the 
+heart of FCAS development is 
+really special. A next generation 
+programme of this magnitude only 
+happens once every 30 to 40 
+years in the defence industry. 
+The Future Combat Air System (FCAS) 
+is one of the most important European 
+defence programmes of the coming 
+decades. Senior Project Manager 
+Yvonne Wittke leads the development of 
+the ‘Loyal Wingman’ drone platforms at 
+Airbus. Within the FCAS, these unmanned, 
+remotely piloted vehicles will be controlled 
+by manned combat aircraft such as the 
+Eurofighter and the New Generation Fighter. 
+They will have access to a ‘system-of-
+systems’ that collects information from 
+air, sea, ground and space systems and 
+combines them in a data cloud, enabling 
+collaboration across domains.
+Remotely piloted aircraft can 
+bring a wide range of benefits 
+to a mission, from providing vital 
+intelligence to enhancing aircrew 
+protection. We are bringing to 
+market a system that does not exist 
+today, and we are driving a leap 
+forward in Europe in areas such as 
+stealth materials and autonomous 
+technologies. And we will do it 
+in a unique international setting, 
+working together across borders 
+and industries. I see this as 
+an historic opportunity.
+FCAS will not only support 
+European autonomy and 
+technological sovereignty in 
+defence, but it will also help 
+to protect lives and contribute 
+to a safer Europe.”
+Yvonne Wittke  
+Senior Project Manager
+10
+Airbus Annual Report Overview 2023
+Our purpose in action
+
+The successful launch in 2023 of the 
+JUICE spacecraft, built by Airbus for 
+the European Space Agency, followed 
+in the footsteps of historical missions 
+that paved the way for exploration of the 
+solar system, such as Rosetta and Mars 
+Express. During its four-year mission 
+around Jupiter and its icy moons, JUICE’s 
+observations will enable scientists to 
+answer questions about deep habitats 
+on ocean worlds and better understand 
+the emergence of life. Cyril Cavel was 
+JUICE Project Manager before moving 
+on to a new mission at Airbus after the 
+spacecraft’s launch.
+Being part of a project 
+of this scale was an 
+opportunity to contribute to a 
+scientific adventure that goes 
+beyond humanity by providing 
+answers to fundamental scientific 
+questions. I am very motivated 
+to contribute to science and the 
+universal understanding of space.
+More than 1,000 people around 
+the world worked on this mission, 
+including 150 Airbus engineers. 
+We were exposed to a unique 
+scientific, technical, human and 
+cultural diversity that motivated us 
+every day. It’s fascinating to think 
+that we are taking the international 
+scientific community to Jupiter.
+This highly complex mission 
+pushed us to our limits. It forced 
+us to innovate, to challenge our 
+engineering, manufacturing and 
+testing methods, and to maintain 
+our key skills in order to remain 
+a preferred partner for large-scale 
+space exploration missions. It kept 
+us at the forefront of technology, 
+inspiring us to always strive to 
+excel while remaining humble in 
+the face of the vastness of space.”
+Cyril Cavel 
+Former JUICE Project Manager
+11
+Airbus Annual Report Overview 2023
+Our purpose in action
+
+  For further details of 
+the strategy, see the Universal 
+Registration Document.
+Grow Airbus as an aerospace 
+and defence leader
+The Company’s ability to grow in the future will 
+be earned through continuous innovation, both 
+in and around its current portfolio, as well as when 
+preparing the future generation of products and 
+related services.
+Increase capacity to invest 
+for the future
+The right combination of growth, profitability 
+and resilience is vital to the Company’s long-term 
+competitiveness. Continuous improvement in cost, 
+efficiency and customer satisfaction is essential 
+to further support the Company’s resilience and 
+prepare for future investments.
+Consolidate European 
+strengths and deepen 
+global reach
+For over 50 years, the Company has built on 
+its strong European heritage to become truly 
+international. Continued investment in its global 
+footprint is a key strength when addressing 
+international markets. 
+Lead the transformation 
+of the aerospace industry
+Through a resilient business model, the Company 
+is striving to lead the decarbonisation of the 
+aerospace sector while meeting international 
+ESG standards. It will focus relentlessly on quality 
+and safety.
+The Airbus strategy is based 
+on four key areas of focus that 
+will enable the Company to 
+deliver on its purpose. 
+ Guided by  
+ our strategy
+12
+Airbus Annual Report Overview 2023
+Strategy
+
+Airbus’ purpose is to pioneer sustainable 
+aerospace for a safe and united world. 
+The Company is aware of its responsibility 
+to society and future generations, and 
+contributes to the UN Sustainable 
+Development Goals (SDGs) through its core 
+business and how it operates. The Company 
+approaches sustainability by striving to 
+respect the planet, being committed to 
+valuing people, and enabling prosperity. 
+These guiding principles are embedded 
+in its operations and activities. 
+Airbus strives to respect the planet by working 
+to reduce the environmental impact of its own 
+manufacturing as well as the emissions created 
+during product lifecycles. In January 2023, the 
+Science Based Targets initiative (SBTi) approved 
+Airbus’ near-term decarbonisation targets for 
+Scope 1, 2 and 3 emissions. The Company 
+increased its use of sustainable aviation fuel (SAF) 
+in 2023 compared to 2022. Airbus also established 
+partnerships to encourage further SAF uptake 
+throughout the aerospace industry. Several 
+demonstrators devoted to decarbonisation 
+technologies reached significant milestones in 2023.
+The Company is committed to valuing people, 
+with a business built on a foundation of safety, 
+quality, integrity, compliance and security. Airbus 
+embeds and advances respect for human rights 
+within its business, operations and supply chain. 
+The Company’s commitments to human rights 
+have been outlined in a Human Rights Policy and 
+embedded in the business management system. 
+This commitment extends beyond the aerospace 
+industry and includes supporting humanitarian 
+efforts and strengthening the resilience of 
+communities around the world. In 2023, worsening 
+geopolitical tensions in certain parts of the world 
+Commitment to the UN Sustainable Development Goals
+Through its business activities and sustainability commitments, the Company 
+contributes to at least eight of the United Nations Sustainable Development Goals.
+ Pioneering 
+sustainable 
+aerospace
+and armed conflict in others brought the 
+relationship between sustainability, security and 
+defence to the forefront of international affairs.
+The Company enables prosperity, and is committed 
+to connecting economies and encouraging global 
+cooperation. Partnerships solidified in 2023 include: 
+an agreement with VDL Group to develop and 
+manufacture a laser communication terminal for 
+aircraft; a joint venture with Voyager Space to 
+develop, build and operate the successor to the 
+International Space Station; the launch of the 
+Quantum Computing Challenge, sponsored jointly 
+with BMW, to develop quantum computing 
+technologies and tackle the most pressing mobility 
+challenges; and partnerships with key hydrogen 
+industry players in New Zealand and Germany.
+The Company’s sustainability strategy remains 
+aligned with four sustainability commitments that 
+correspond to the relevant UN SDGs (see table): 
+to lead the journey towards clean aerospace; to 
+build our business on the foundation of safety and 
+quality; to respect human rights and foster inclusion; 
+and to exemplify business integrity. The Universal 
+Registration Document provides details on each 
+of these commitments.
+13
+Airbus Annual Report Overview 2023
+Sustainability
+Quality education
+Ensure inclusive and equitable quality 
+education and promote lifelong learning 
+opportunities for all.
+Gender equality
+Achieve gender equality and empower 
+all women and girls.
+Decent work and economic growth
+Promote sustained, inclusive and sustainable 
+economic growth, full and productive 
+employment and decent work for all.
+Industry, innovation, and infrastructure
+Build resilient infrastructure, promote 
+inclusive and sustainable industrialisation 
+and foster innovation.
+Responsible consumption and production
+Ensure sustainable consumption and 
+production patterns.
+Climate action
+Take urgent action to combat climate change 
+and its impacts.
+Peace, justice and strong institutions
+Promote peaceful and inclusive societies for 
+sustainable development, provide access to 
+justice for all and build effective, accountable 
+and inclusive institutions at all levels.
+Partnerships for the goals
+Strengthen the means of implementation 
+and revitalise the global partnership for 
+sustainable development.
+
+Expanding our impact via 
+the Airbus Foundation 
+The Airbus Foundation facilitates philanthropic 
+initiatives worldwide by providing access to Airbus’ 
+portfolio of high-tech products, services and 
+know-how. It focuses on making an impact in 
+three strategic areas: humanitarian response, 
+youth development and environmental action. 
+In 2023, the Airbus Foundation coordinated 
+a number of humanitarian flights that delivered 
+material aid to communities impacted by disaster. 
+Additionally, helicopter flight hours were chartered 
+to perform assessments and transport materials 
+in response to natural disasters. The Foundation 
+also provided satellite imagery to partners to 
+facilitate assessments, planning and monitoring. 
+The Foundation’s youth programmes reached 
+thousands of students in 2023. New content was 
+produced, including a video mini-series about 
+helicopters and satellites, as well as a personal 
+development booklet for teenagers. The fifth 
+edition of the Moon Camp Challenge took place, 
+with the participation of students from around 
+the world.
+The Foundation entered the second phase of 
+its three-year project with the International Union 
+for Conservation of Nature, providing technical 
+data, satellite imagery and project management to 
+their forest restoration barometer. It also deepened 
+its collaboration with the Connected Conservation 
+Foundation, providing high resolution satellite data 
+to three community-based organisations through 
+the Satellites for Biodiversity award.
+Low-carbon demonstrator milestones
+2023 was an important year for multiple Airbus 
+flight demonstrators that aim to accelerate the 
+development of carbon mitigation technologies. 
+Regarding advances in hydrogen technology 
+development, the ZEROe project team 
+successfully powered on the ‘iron pod’ of the 
+electric demonstrator model in the lab, using 
+hydrogen fuel cells to power the propulsion system 
+for the first time. Meanwhile, in the United States, 
+the contrail-chasing Blue Condor demonstrator 
+made Airbus’ first 100% hydrogen-powered flight 
+over the deserts of Nevada.
+When it came to electric-battery-powered flight, 
+progress was also made. In November, the 
+EcoPulse demonstrator – a joint project with 
+Safran and Daher – took off on its first test flight 
+with a functional hybrid-propulsion system aboard. 
+The onboard battery, which was designed by 
+Airbus Defence and Space, powered the aircraft’s 
+engines for around 20 minutes during the flight.
+Airbus Helicopters demonstrators also made 
+significant progress on advancing electric flight. 
+In January, DisruptiveLab took its first flight, 
+testing a fully parallel hybrid propulsion system 
+that enables batteries to be recharged in-flight. 
+And in October, FlightLab, a twin-engine 
+technology demonstrator based on the H145 
+platform, successfully tested an electric flight 
+control system that will equip CityAirbus NextGen, 
+Airbus’ eVTOL (electric vertical take-off and 
+landing) prototype.
+Fostering SAF uptake
+The Company increased the share of sustainable 
+aviation fuel (SAF) used in internal aircraft and 
+helicopter flight operations to over 10% in 2023, 
+with the goal of reaching at least 30% by 2030. 
+In July 2023, Airbus began offering up to 5%-pure(1) 
+SAF, at no extra cost, to customers taking delivery 
+of aircraft in Toulouse and Hamburg. 
+To complement this uptake of SAF in-house, 
+Airbus is also encouraging the development of 
+the international SAF ecosystem through strategic 
+partnerships with key industry players. In March, 
+the Qantas Group, Airbus and the Queensland 
+Government invested in a Queensland biofuel 
+production facility being developed by Jet Zero 
+Australia in partnership with leading SAF 
+technology company LanzaJet. The investment 
+will be used to conduct a detailed feasibility study 
+and early-stage project development. In June, 
+a landmark agreement was signed between 
+Airbus and the Qantas Group to invest up to 
+US$ 200 million in accelerating the establishment 
+of an Australian SAF industry. The Company also 
+entered into a memorandum of understanding 
+(MOU) with LanzaJet, which aims to accelerate the 
+construction of SAF facilities and the certification 
+and adoption of 100% drop-in SAF.
+Airbus Helicopters became the first helicopter 
+manufacturer to perform a SAF flight in China, using 
+an H125 powered by a hybrid ratio of 40% of SAF. 
+Airbus Defence and Space also celebrated a SAF 
+milestone in 2023, when the UK Royal Air Force flew 
+an A330 MRTT air-to-air SAF mission that refuelled 
+four Eurofighter Typhoons with a SAF blend.
+The following examples illustrate key 
+progress in sustainability made by the 
+Company in 2023.
+Accelerating social impact
+The Community Impact Policy continued to guide 
+the Company’s social impact in 2023, focusing 
+on three main themes: supporting and developing 
+vulnerable communities, youth and quality 
+education, and safeguarding the future of the planet. 
+Airbus continued six corporate giving partnerships 
+from 2022 and, throughout 2023, 27 new projects 
+across 24 countries were validated. These projects 
+focus on responding to local needs and creating 
+sustainable positive change. They include 
+providing access to safe and clean water in the 
+Philippines and for indigenous communities in 
+Australia; contributing to skills development 
+through career-tech STEM programmes in the 
+US; digitalisation training leading to employment 
+opportunities in India; and planting a community 
+forest in Vietnam. The Company also built upon 
+progress made in 2022 to develop a corporate 
+disaster response procedure.
+Airbus SE expanded opportunities for employee 
+engagement on the +impact digital platform, 
+which launched at the end of 2022, and employee 
+participation increased during 2023. Key to 
+this trend was the growth of the Company’s 
+Sustainability Ambassador network, which 
+increased to over 800 members. This network 
+was instrumental in engaging employees in 
+sustainability challenges. 
+(1)	 5% SAF means a fuel mix consisting of 5% pure SAF and 95% 
+jet fuel.
+14
+Airbus Annual Report Overview 2023
+Sustainability
+
+External revenues by activity
+Platforms
+Services
+91%
+9%
+Airbus
+2023 key events
+•	Deliveries rise 11% to 735 aircraft
+•	Record order intake
+•	Industrial system advances
+•	A321XLR progresses towards certification
+Commercial aircraft orders and deliveries 
+rose year-on-year, with a solid increase 
+in revenues and underlying earnings. 
+2023 included a number of operational 
+and sustainability milestones.
+Gross orders increased to a record 2,319 
+commercial aircraft (2022: 1,078 aircraft), with net 
+orders rising to 2,094 aircraft (2022: 820 aircraft) 
+and corresponding to a book-to-bill ratio well 
+above 1. The recovery of the widebody market was 
+confirmed, with 342 gross orders including 182 in 
+the fourth quarter. Across all product ranges, the 
+total order backlog stood at 8,598 aircraft at the end 
+of 2023, compared with 7,239 at the end of 2022. 
+A total of 735 commercial aircraft were delivered 
+(2022: 661(1) aircraft) and by aircraft type comprised 
+68 A220 Family, 571 A320 Family, 32 A330 
+Family and 64 A350 Family. Revenues increased 
+15% to € 47,763 million (2022: € 41,428 million), 
+mainly reflecting the higher quantity of deliveries. 
+EBIT Adjusted increased to € 4,818 million 
+(2022: € 4,600 million), reflecting the delivery 
+increase and a more favourable currency hedge 
+rate, partially offset by investments for preparing 
+the future. FY 2022 included a non-recurring 
+positive impact from retirement obligations and 
+compliance-related topics, partly offset by the 
+impact resulting from international sanctions against 
+Russia, while in H1 2023 provisions of € 0.1 billion 
+were released for compliance-related topics.
+Operational focus
+To support the ongoing production ramp-up, 
+various operational milestones were achieved to 
+increase the flexibility and capability of the global 
+industrial system. Construction began in both 
+Tianjin, China, and Mobile, US, on their respective 
+second A320 Family final assembly lines, while 
+deliveries began from the new A320 Family final 
+assembly line in Toulouse. All A320 Family assembly 
+sites are being made A321-capable, with both 
+Tianjin and Toulouse delivering their first aircraft 
+of this type. 
+Deliveries (units)
+735 
+(2022: 661(1)) 
+Net order intake (units)
+2,094 
+(2022: 820)
+Revenues (€ million)
+47,763 
+(2022: 41,428)
+EBIT Adjusted (€ million)
+4,818 
+(2022: 4,600)
+(1)	 After a reduction of two aircraft previously recorded 
+as sold in December 2021 for which a transfer was not 
+possible due to international sanctions against Russia.
+Progress continued towards the certification of the 
+A321XLR, with the initial customer aircraft entering 
+the final assembly line towards the end of the year. 
+A new A321XLR equipment installation hangar was 
+opened in Hamburg. The new outsize cargo service, 
+Airbus Beluga Transport (AiBT), using Airbus 
+A300-600ST ‘BelugaST’ aircraft, received its Air 
+Operator Certificate – thus becoming a dedicated 
+airline. AiBT will deliver special payloads to 
+customers worldwide, eventually using five of these 
+transport aircraft as Airbus progressively switches 
+to the larger BelugaXL for its transport needs.
+In 2023, up to 5%-pure(2) sustainable aviation fuel 
+(SAF) was offered to customers taking delivery 
+of aircraft in Toulouse and Hamburg, at no extra 
+cost. The use of SAF in internal flight operations 
+was scaled up during the year. Airbus announced 
+that it will renew its fleet of ships that transport 
+aircraft subassemblies between production 
+facilities in Europe and the US. This renewal aims 
+to halve fleet fuel burn and CO2 emissions on this 
+route by 2030, compared with a 2023 baseline.
+(2)	5% SAF means a fuel mix consisting of 5% pure SAF and 95% 
+jet fuel.
+15
+Airbus Annual Report Overview 2023
+Airbus
+
+External revenues by activity
+53%
+47%
+Platforms
+Services
+2023 key events 
+•	Book-to-bill above 1 
+•	Delivery of 346 helicopters
+•	FAA certifies the H160
+•	Progress with decarbonisation roadmap
+The Division delivered a solid performance, 
+both in terms of order intake and earnings. 
+There were various operational achievements 
+for new products and decarbonisation 
+initiatives. 
+Airbus Helicopters’ order intake was well spread 
+across programmes, with a total of 393 net orders 
+(2022: 362 units). The book-to-bill ratio was above 
+1 both in units and value. There was a strong 
+performance for medium helicopters as well as 
+services. Significant orders included an agreement 
+to expand the German armed forces’ fleet with 
+up to 82 H145M helicopters (62 firm orders and 
+20 options) and 42 H145s for the French Ministry 
+of the Interior. 
+Deliveries increased slightly to 346 units 
+(2022: 344 units) with the Division retaining its 
+strong market position. Revenues increased 
+by 4% to € 7,337 million (2022: € 7,048 million), 
+reflecting the overall solid performance across 
+programmes and services. EBIT Adjusted 
+increased to € 735 million (2022: € 639 million) 
+with a profit margin of 10%, confirming the 
+Division’s progress in recent years. FY 2022 
+included net positive non-recurring elements 
+related to retirement obligations. 
+Product developments
+Various milestones were achieved for new products 
+and development programmes. The NH90 Sea 
+Tiger, a state-of-the-art anti-submarine warfare 
+helicopter ordered for the German Navy, took its 
+first flight, while the H175M successfully performed 
+flight demonstrations in extreme hot and high 
+conditions. The US Federal Aviation Administration 
+certified the H160 helicopter while the VSR700 
+unmanned aerial system demonstrated its 
+performance during sea trials, operating from 
+a French Navy frigate. 
+Airbus Helicopters continued its strong focus 
+on innovation and sustainability, including the 
+development of demonstrators designed to 
+advance its decarbonisation roadmap and 
+enhance aviation safety. The DisruptiveLab 
+demonstrator flew for the first time, featuring 
+a new aerodynamic architecture aimed to reduce 
+fuel consumption, while the PioneerLab was 
+unveiled with the aim of testing hybridisation 
+for twin-engine aircraft and introducing 
+bio-based materials. 
+Assembly of the CityAirbus NextGen electric 
+vertical take-off and landing prototype started, 
+with power-on performed. The Division ramped 
+up the use of sustainable aviation fuel for its 
+development test flights, training, deliveries 
+and ferry flights. 
+Airbus  
+ Helicopters
+Deliveries (units)
+346
+(2022: 344)
+Revenues (€ million)
+7,337
+(2022: 7,048) 
+Net order intake (units)
+393
+(2022: 362)
+EBIT Adjusted (€ million)
+735
+(2022: 639) 
+16
+Airbus Annual Report Overview 2023
+Airbus Helicopters
+
+External revenues by activity
+66%
+34%
+Platforms
+Services
+2023 key events
+•	Strong order inflow, book-to-bill around 1.4
+•	Major contracts for military aircraft
+•	Transformation plan initiated
+•	JUICE spacecraft launched
+The Division achieved record order intake 
+during the year while earnings reflected 
+charges recorded for certain Space 
+programmes. There were various operational 
+and sustainability achievements.
+Airbus Defence and Space’s net order intake 
+increased by 15% to € 15,701 million (2022: € 13,660 
+million), corresponding to a book-to-bill ratio of 
+around 1.4. Key contracts included Spain’s 
+purchase of 16 C295 aircraft for maritime patrol 
+and surveillance roles and a contract renewal by 
+Germany for the in-service support of its A400M 
+fleet. There were notable successes for the A330 
+MRTT, with Canada ordering four newly built 
+and five converted aircraft, while France signed 
+contracts for the capability enhancement and 
+in-service support of its MRTTs. Spain signed 
+a contract for the development and acquisition 
+of SIRTAP, a high-performance tactical unmanned 
+aerial system.
+Revenues increased slightly to € 11,495 million 
+(2022: € 11,259 million), mainly driven by the 
+Military Air Systems and Connected Intelligence 
+business lines, offset by some updated Estimates 
+at Completion assumptions on certain Space 
+programmes. EBIT Adjusted decreased to € 229 
+million (2022: € 384 million), reflecting charges of 
+€ 0.6 billion resulting from these updated Estimates 
+at Completion, partially mitigated by the good 
+performance of the rest of the business for the 
+period. FY 2022 included some non-recurring 
+elements, notably from the loss of two Pléiades 
+Neo satellites.
+The Division initiated its transformation programme 
+in early 2023, designed to make the business 
+simpler, more agile, and more customer oriented. 
+In January 2024, a new organisational structure 
+went live with three business lines: Air Power 
+(combining the Military Air Systems and Future 
+Combat Air System, or FCAS, activities), Space 
+Systems and Connected Intelligence.
+Operational events
+A total of eight A400M airlifters were delivered 
+while construction began on a new maintenance 
+centre for A400Ms of the German air force. 
+The first of 56 C295 aircraft was delivered to the 
+Indian Air Force under an agreement which will 
+see the first 16 aircraft assembled in Spain and 
+the remaining 40 in India. Progress was made on 
+Demonstrator Phase 1B of the FCAS programme, 
+together with Airbus’ partners. In Space, full 
+production began of the first of six Galileo Second 
+Generation satellites at Airbus’ site in Friedrichshafen, 
+Germany, and the Jupiter-bound JUICE spacecraft 
+was launched.
+Sustainability was a continued focus area for the 
+Division. The UK Royal Air Force used an Airbus 
+A330 MRTT to refuel four Eurofighter Typhoons 
+with a SAF blend. Airbus military aircraft operators 
+flew a number of humanitarian missions following 
+earthquakes in Turkey and Morocco, and crises 
+in Sudan and Niger.
+Airbus  
+ Defence  
+ and Space
+Net order intake 
+(€ million)
+15,701
+(2022: 13,660)
+Revenues (€ million)
+11,495
+(2022: 11,259)
+Order book  
+(€ million)
+42,195
+(2022: 38,426) 
+EBIT Adjusted (€ million)
+229
+(2022: 384) 
+17
+Airbus Annual Report Overview 2023
+Airbus Defence and Space
+
+ Progressing 
+with  
+ priorities
+Thomas Toepfer took over as Chief Financial 
+Officer in September 2023. Here he discusses 
+the Company’s financial performance in 2023 
+and the priorities going forward. 
+How was the transition to becoming 
+Airbus CFO? 
+Firstly, it was a huge honour to join Airbus and 
+I thank the Board and management for their trust 
+in me. While my previous company operated in 
+a different industry sector, it was very much a 
+technology-driven business like Airbus. It’s great 
+to be part of a fascinating company that’s a truly 
+multinational organisation with an incredible 
+breadth of products. Obviously there was a lot to 
+learn initially about Airbus, and I’d like to thank all 
+my colleagues, both in finance and outside, for 
+making it such a smooth transition. Since arriving, 
+I have prioritised visiting as many sites as possible 
+to get that added insight about the business 
+and operations. 
+How was the core financial performance 
+in 2023? 
+The 2023 results were strong overall and 
+importantly we achieved our guidance in a 
+complex operating environment. The Airbus teams 
+can be proud of this achievement. If I had to pick 
+out one number that reflects our success it would 
+be the 735 commercial aircraft deliveries that 
+filtered through into the financial performance. 
+As a reminder, we were targeting around 
+720 deliveries for the year. 
+If we start with the topline, our consolidated 
+revenues increased by 11% year-on-year to 
+€ 65.4 billion, mainly reflecting the higher 
+deliveries. EBIT Adjusted, which measures our 
+underlying financial performance, increased to 
+€ 5.8 billion from € 5.6 billion in 2022. It’s worth 
+remembering that 2022 included a net positive 
+impact of € 0.4 billion notably from retirement 
+obligations and compliance-related topics, partly 
+offset by the impact from the loss of two Pléiades 
+Neo satellites and international sanctions 
+against Russia. 
+The year-on-year EBIT Adjusted increase mainly 
+reflected the deliveries, a more favourable hedge 
+rate and the solid performance in the Helicopters 
+business. This was however partly offset by the 
+investments we are making to prepare the future, 
+including to support the production ramp-up, 
+and charges of € 0.6 billion in certain 
+Space programmes. 
+The 2023 results 
+were strong overall 
+and importantly we achieved 
+our guidance in a complex 
+operating environment.”
+Thomas Toepfer
+Chief Financial Officer
+18
+Airbus Annual Report Overview 2023
+CFO interview
+
+These charges followed an in-depth review of 
+Space programmes and updated Estimates at 
+Completion. The charges reflect revised timelines 
+and cost estimates as well as the reassessment 
+of commercial risks and opportunities. While this 
+high-tech business carries risks, this exercise 
+has provided us with a balanced assessment 
+going forward. 
+To complete the picture, it’s also worth noting that 
+further progress was made with compliance-related 
+topics in 2023, allowing us to release provisions 
+of € 0.1 billion in the first half. 
+How were the reported results? 
+Our reported EBIT of € 4.6 billion included sizeable 
+Adjustments that totalled a net negative € 1.2 billion. 
+Here, the largest element was the negative impact 
+resulting from the dollar working capital mismatch 
+and balance sheet revaluation. That’s largely the 
+mechanical impact arising from the difference 
+between the transaction date and delivery date. 
+We report this metric each quarter and it can be 
+negative or positive. 
+The financial result of € 166 million mainly reflected 
+a positive impact from the revaluation of certain 
+equity investments. Once we take into account the 
+Adjustments, financial result and tax, the Company 
+ended the year with a net income of € 3.8 billion 
+(2022: € 4.2 billion) and reported earnings per 
+share of € 4.80 compared to € 5.40 in 2022. 
+How was the cash evolution in 2023? 
+If we start with free cash flow before M&A and 
+customer financing, which was part of our 2023 
+guidance, this totalled € 4.4 billion (2022: € 4.7 billion). 
+On the one hand this reflected the level of deliveries 
+and commercial momentum across all our 
+businesses, which resulted in a good flow of 
+pre-delivery payments. Conversely, the execution 
+of the production ramp-up in commercial aircraft 
+translated into a mechanical build-up of inventory. 
+The A400M also continued to weigh on the cash 
+performance in 2023. Capital expenditure amounted 
+to € 3.1 billion compared to € 2.5 billion in 2022, 
+reflecting investments in enhancing and upgrading 
+our industrial system. 
+We ended 2023 with an improved net cash 
+position of € 10.7 billion, compared to € 9.4 billion 
+a year previously, and a strong liquidity position 
+of well above € 30 billion. This healthy net cash 
+position supported the Board’s proposal for a 
+special dividend alongside the normal dividend 
+payment, which further highlights our focus on 
+shareholder return. 
+What are the priorities for 2024? 
+We need to be laser focused on achieving our 
+objectives again this year, including the ramp-up 
+of production in Commercial Aircraft. At the same 
+time, we need to be efficient and mindful of the 
+costs that we generate. 
+In finance, we need to ensure the Company can 
+meet both its short- and long-term objectives. 
+So this means continuing to invest in the industrial 
+system and also supporting our strategically 
+important ambitions in digitalisation and 
+decarbonisation. 
+(1)	 FY 2023 average number of shares 788,720,779
+compared to 787,080,579 in FY 2022.
+Revenues (€ million)
+65,446
+(2022: 58,763)
+EBIT Adjusted (€ million)
+5,838
+(2022: 5,627)
+EBIT Reported (€ million)
+4,603
+(2022: 5,325)
+Net income (€ million)
+3,789
+(2022: 4,247)
+Reported earnings per share(1) (€)
+4.80
+(2022: 5.40)
+Free cash flow before M&A and 
+customer financing (€ million)
+4,386
+(2022: 4,680)
+This healthy net cash 
+position supported the 
+Board’s proposal for a special 
+dividend alongside the normal 
+dividend payment, which 
+further highlights our focus 
+on shareholder return.”
+19
+Airbus Annual Report Overview 2023
+CFO interview
+
+ Airbus SE
+ DAX 40 Index
+ CAC 40 Index
+ MSCI World Aerospace and Defence Index
+Dec
+2020
+2021
+2022
+2023
+160%
+150%
+140%
+130%
+120%
+110%
+100%
+90%
+80%
+Dec
+2021
+Dec
+2022
+Dec
+2023
+Free ﬂoat(1)
+SOGEPA (French State)
+GZBV (German State)
+SEPI (Spanish State)
+(1) Includes shares held by the Company itself.
+11%
+4%
+11%
+74%
+Shareholding structure 
+As of 31 December 2023
+Share 
+information
+In 2023, the Airbus SE share price remained 
+volatile and closed at € 139.78.
+After opening at € 112.22 in January, the Airbus 
+SE share price outperformed the market during the 
+first quarter, supported by the solid 2022 financial 
+results and positive reaction to the announcement 
+of an increase in the targeted production rate for 
+widebody aircraft. Global equity markets remained 
+volatile given the uncertainty around inflation and 
+interest rates, and concerns around the stability 
+of the banking sector. 
+In the second quarter, the share price was further 
+supported by the acceleration of deliveries and 
+order momentum, in spite of concerns around 
+supply chain tensions in the overall aerospace 
+industry and the back-loaded profile of Airbus 
+deliveries expected in 2023. Global markets 
+remained volatile as mixed economic data fuelled 
+uncertainty around inflation, interest rates and 
+economic growth. 
+In the third quarter, global markets declined due to 
+concerns about the potential for “higher for longer” 
+interest rates and revised economic growth 
+perspectives, despite moderating inflation. In this 
+context, the Airbus SE share price was dragged 
+down by uncertainty around GTF engine issues, 
+resulting from a rare condition in powdered metal 
+used to manufacture certain engine parts, and 
+the fleet management plan developed primarily 
+for the GTF engines, which power the A320neo. 
+In the fourth quarter, global equities were 
+impacted by the escalating conflict in the Middle 
+East, uncertainty around central banks’ interest 
+rate decisions, and relatively underwhelming 
+corporate earnings. However, equity markets 
+recovered towards the end of the quarter, lifted by 
+easing inflation, the stabilisation of US monetary 
+policy with no additional interest rate increases, 
+and further dovish signalling from major central 
+banks. The Company’s share price reached a then 
+all-time high during the course of 14 December 
+at €143.98, benefitting from this positive trend and 
+further supported by a strong order momentum, 
+in spite of concerns about the Airbus Defence 
+and Space business. 
+With a performance of +26% in 2023, Airbus SE 
+shares outperformed the CAC 40 index (+17%) and 
+the DAX 40 index (+20%), as well as the broader 
+aerospace and defence sector (MSCI World 
+Aerospace and Defence Index +14%). 
+Share price evolution
+Annual General Meeting: 
+10 April 2024
+E-mail: ir@airbus.com
+Website: www.airbus.com
+20
+Airbus Annual Report Overview 2023
+Share information
+
+Designed and produced by 
+Design Bridge and Partners
+www.designbridge.com
+Image credits
+Cover © Airbus 2022, © Airbus 2023, © Airbus 
+Helicopters 2023/Thierry Rostang – IMAGIN’R, 
+© Airbus Defence and Space GmbH 
+Inside cover © Airbus SAS 2023 
+p.2 © Airbus SAS 2023
+p.3 © Airbus SAS 2023, © Airbus SAS 2023/
+James Darcy, © Airbus Helicopters/Cara Irina Wagner
+p.4 © Airbus SAS 2023, © Airbus Defence and
+Space GmbH 2023/Martin Agüera
+p.5 © Airbus SAS 2023, © Airbus SAS 2022,
+© Airbus SAS 2021
+p.6 © Airbus SAS 2023, © Airbus Operations
+GmbH 2023/Stefan Kruijer
+p.7 © Airbus SAS, © Airbus SAS 2023
+p.8 © Airbus SAS 2024, © Airbus SAS 2023
+p.9 © Airbus Helicopters 2024/Thierry Rostang,
+© Airbus Helicopters 2023, © Max Bauwens/REA
+p.10 © Airbus Defence and Space GmbH 2024,
+Airbus Defence and Space GmbH 2022, Airbus
+Defence and Space GmbH
+p.11 © Airbus Defence and Space GmbH 2024,
+© Airbus SAS 2022/Guillaume Fraysse – MasterFilms,
+© Airbus Defence and Space GmbH 2015
+p.12 © Adobe Stock, ThomasLENNE
+p.13 © Airbus SAS 2023, © Airbus Defence and
+Space GmbH 2023
+p.14 © Airbus SAS 2024, © Airbus SAS 2023,
+© Daher 2023, © Sang Nguyen
+p.15 © Airbus SAS 2023, © Airbus SAS 2018,
+© Airbus SAS 2014
+p.16 © Airbus Helicopters 2023/Cara Irina Wagner,
+© Airbus Helicopters 2023/Christian Keller,
+© Airbus Helicopters 2018/Anthony Pecchi
+p.17 © Airbus 2023, © Airbus Defence and Space
+SAU 2023, © Airbus Defence and Space SAU
+2023/Adrian Molinos – Mango Producciones
+p.18 © Airbus SAS 2023
+p.20 © Airbus SAS 2023
+All rights reserved.
+Safe Harbour Statement
+This document includes forward-looking statements. 
+Words such as “anticipates”, “believes”, “estimates”, 
+“expects”, “intends”, “plans”, “projects”, “may” 
+and similar expressions are used to identify these 
+forward-looking statements. Examples of forward-
+looking statements include statements made 
+about strategy, ramp-up and delivery schedules, 
+introduction of new products and services and 
+market expectations, as well as statements 
+regarding future performance and outlook. By their 
+nature, forward-looking statements involve risk and 
+uncertainty because they relate to future events 
+and circumstances and there are many factors that 
+could cause actual results and developments to 
+differ materially from those expressed or implied 
+by these forward-looking statements. 
+These factors include but are not limited to:
+• Changes in general economic, political or market
+conditions, including the cyclical nature of some
+of Airbus’ businesses;
+• Significant disruptions in air travel (including as a
+result of the spread of disease or terrorist attacks);
+• Currency exchange rate fluctuations, in particular
+between the Euro and the US dollar;
+• The successful execution of internal
+performance plans, including cost reduction
+and productivity efforts;
+• Product performance risks, as well as
+programme development and management risks;
+• Customer, supplier and subcontractor
+performance or contract negotiations, including
+financing issues;
+• Competition and consolidation in the aerospace
+and defence industry;
+• Significant collective bargaining labour disputes;
+• The outcome of political and legal processes,
+including the availability of government financing
+for certain programmes and the size of defence
+and space procurement budgets;
+• Research and development costs in connection
+with new products;
+• Legal, financial and governmental risks related
+to international transactions;
+• Legal and investigatory proceedings and other
+economic, political and technological risks and
+uncertainties;
+• Changes in societal expectations and regulatory
+requirements about climate change;
+• The lingering effects of the COVID-19 pandemic;
+• Aggravation of adverse geopolitical events,
+including Russia’s invasion of Ukraine and the
+resulting imposition of export control restrictions
+and international sanctions, and rising military
+tensions around the world.
+As a result, Airbus SE’s actual results may differ 
+materially from the plans, goals and expectations 
+set forth in such forward-looking statements. 
+For more information about the impact of 
+Russia’s invasion of Ukraine and the impact 
+of the Macroeconomic Environment, see note 2 
+“Geopolitical and Macroeconomic Environment” 
+of the Notes to the Airbus SE IFRS Consolidated 
+Financial Statements for the twelve-month period 
+ended 31 December 2023 published 15 February 
+2024 (the “Financial Statements”). For more 
+information about factors that could cause 
+future results to differ from such forward-looking 
+statements, please refer to Airbus SE’s most recent 
+annual reports, including the Report of the Board 
+of Directors, the Financial Statements and the Notes 
+thereto, the Universal Registration Document and 
+the most recent Risk Factors. Any forward-looking 
+statement contained in this document speaks as 
+of the date of this document. Airbus SE undertakes 
+no obligation to publicly revise or update any 
+forward-looking statement in light of new 
+information, future events or otherwise.
+21
+Airbus Annual Report Overview 2023
+
+Airbus SE
+Mendelweg 30
+2333 CS Leiden
+The Netherlands

@@ -1,0 +1,3922 @@
+Jahresabschluss der 
+Elmos Semiconductor SE 
+Dortmund 
+zum 31. Dezember 2020 
+ 
+ 
+
+ZUSAMMENGEFASSTER 
+LAGEBERICHT 
+Im zusammengefassten Lagebericht analysieren wir den Geschäfts-
+verlauf, die Lage des Elmos-Konzerns sowie der Elmos Semiconductor 
+SE im Berichtsjahr. Weitere Informationen zur Elmos Semiconductor 
+SE sind im Wirtschaftsbericht in einem eigenen Abschnitt mit HGB-
+Angaben enthalten.
+GESCHÄFTSMODELL DES KONZERNS
+Die Kernkompetenz der Elmos ist die Entwicklung, die Produkti-
+on und der Vertrieb von Mixed-Signal-Halbleitern, vornehmlich für 
+Kunden aus der Automobilindustrie. Als Systemlösungs-Spezialist 
+ist es unser Ziel, das elektronische System des Kunden zu verbessern. 
+So kann durch den Einsatz von Elmos-Halbleitern die Systemkomple-
+xität verringert werden, was für den Kunden u.a. Vorteile in Bezug 
+auf die Produktion, Kosten, Performance oder auch Zuverlässigkeit 
+bedeutet. 
+Spezialisiertes Produktportfolio mit hoher Qualität
+Elmos nimmt eine führende Marktposition als Halbleiterherstel-
+ler für Automobilelektronik ein und beliefert derzeit mehrere Hun-
+dert Kunden, darunter alle großen Automobilzulieferer. Der Umsatz 
+mit Automobilkunden beträgt rund 85% des Konzernumsatzes. Für 
+den Industrie- und Konsumgüterbereich liefert Elmos Produkte z.B. 
+für Anwendungen in Haushaltsgeräten, Installations- und Gebäude-
+technik, sowie Maschinensteuerungen. Der Umsatzanteil dieser Pro-
+dukte belief sich im vergangenen Jahr auf rund 15%.
+Das Produktportfolio ist in sogenannte Business Lines (Geschäfts-
+felder) gegliedert. Die Struktur der Business Lines orientiert sich an 
+den Produkten der Zielapplikationen: 
+->	Business Line „Sensors“: Ranging, Optical, Sensor ICs
+->	Business Line „Smart Control“: Motor Control, Lighting 
+->	Business Line „Smart Solutions“: Safety/Power/Custom ICs
+Die Business Lines vermarkten kundenspezifische Halbleiter (ASICs = 
+Application Specific Integrated Circuits) und applikationsspezifische 
+Standard-Chips (ASSPs = Application Specific Standard Products). 
+Die ASICs werden nach Kundenspezifikationen entwickelt und pro-
+duziert. Bei ASSPs erfolgt die Definition durch Elmos. Die ASSP-Pro-
+duktentwicklungen sind an Marktbedürfnissen ausgerichtet. Dabei 
+priorisiert Elmos verschiedene Produktideen und berücksichtigt u.a. 
+erwartete Stückzahlen, Wettbewerbsinformationen und technische 
+Machbarkeit. Umgesetzt werden nur Projekte, die hinsichtlich Mark-
+terwartung, Margenpotenzial und strategischer Ausrichtung die 
+Zielsetzungen der Gesellschaft erfüllen. ASICs machen derzeit rund 
+35% des Konzernumsatzes aus (2019: rund 45%). Die weiteren rund 
+65% werden mit ASSPs erzielt (2019: rund 55%). Ein Großteil der in Ent-
+wicklung befindlichen Produkte sind ASSPs.
+Die Business Lines arbeiten eng mit der Forschungs- und Ent-
+wicklungsabteilung zusammen. Der Fokus der Forschungs- und Ent-
+wicklungsaktivitäten liegt auf dem wettbewerbsfähigen und ter-
+mingerechten Design der Produkte. 
+Elmos erzielt ein sehr gutes Qualitätsniveau sowohl in ihren Pro-
+dukten als auch in ihren Geschäfts-, Produktions- und Supportpro-
+zessen. Das Elmos Qualitätsmanagementsystem wurde 2018 nach 
+der aktuellsten Fassung des neuen Automobilindustrie-Standards 
+IATF 16949 an ausgewählten Standorten auditiert und zertifiziert. 
+Das Überwachungsaudit in 2020 bestätigt das hohe Niveau des Qua-
+litätsmanagementsystems. Zudem ist Elmos seit 2015 konzernweit 
+nach der ISO 26262 (Funktionale Sicherheit) zertifiziert.
+Organisationsstruktur 
+Die Elmos-Organisation orientiert sich an den Zielmärkten, den Kun-
+den-Bedürfnissen sowie an internen Anforderungen. Der Hauptsitz 
+der Elmos befindet sich in Dortmund. Verschiedene Niederlassungen, 
+Tochter- und Partnerfirmen an mehreren Standorten, im Wesentli-
+chen in Deutschland (Berlin, Bruchsal, Dresden, Düsseldorf, Frank-
+furt/Oder), USA (Detroit) und Asien (u.a. in Seoul, Singapur, Shanghai, 
+Shenzhen und Tokio), dienen der Vertriebs- und Applikationsunter-
+stützung sowie der Produktentwicklung.
+Elmos betreibt am Stammsitz in Dortmund eine eigene Halblei-
+terfertigung. Des Weiteren betrieb Elmos im Rahmen einer Koope-
+ration mit der Fraunhofer Gesellschaft (IMS) bis zur Beendigung des 
+Kooperationsvertrages zum 30. Juni 2020 eine Halbleiterfertigung in 
+Duisburg. Die eigenen Frontend-Kapazitäten werden durch Koope-
+rationen mit Auftragsfertigungen (sogenannte Foundries) ergänzt 
+und optimiert. Die hocheffiziente Fertigung in Dortmund verbun-
+den mit diesen etablierten internationalen Partnerschaften garan-
+tiert auch nach Beendigung der Kooperation mit dem IMS ein sta-
+biles, zukunftssicheres Produktionsnetzwerk. Die Foundry-Partner 
+stellen zusätzliche Kapazitäten zur Verfügung und ermöglichen es 
+Elmos, flexibel – sowohl im Hinblick auf die Lieferfähigkeit als auch 
+hinsichtlich der erforderlichen Investitionen – auf stärker schwan-
+kende Nachfrage reagieren zu können (sog. Fablite-Strategie). Zudem 
+erweitern sie das Prozess-Portfolio der Elmos um neue Technologi-
+en. Der Anteil der in 2020 fremdbezogenen Wafer lag bei gut einem 
+Drittel. Neben der Kooperation mit Partnern bei der Waferprozessie-
+rung im Rahmen der sogenannten Fablite-Strategie, wird auch die 
+Zusammenarbeit mit Partnern im Testbereich in den kommenden 
+Jahren weiter sukzessive ausgebaut. Ziel ist es, analog zur Waferpro-
+zessierung, eine dauerhaft hohe Auslastung der eigenen Fertigung 
+zu erreichen und den darüber hinausgehenden Bedarf an Testkapazi-
+täten durch die Kooperation mit Partnern abzudecken.
+STEUERUNGSSYSTEM 
+Steuerungsgrößen 
+Das Elmos Steuerungssystem basiert auf vier wesentlichen Elemen-
+ten: Umsatz, EBIT, Investitionen und Free Cashflow (bereinigt). 
+Jede Kennziffer wird sowohl isoliert als auch in Kombination mit 
+den anderen betrachtet und analysiert. Als wachstumsorientiertes 
+und innovatives Unternehmen misst Elmos der profitablen Steige-
+rung des Umsatzes hohe Bedeutung bei. Als Ergebnis vor Zinsen und 
+Ertragsteuern reflektiert das EBIT (engl: Earnings before Interest and 
+Taxes) die Ergebnisqualität. 
+Der Investitionsbedarf leitet sich aus der mittelfristigen Absatz-
+planung und den daraus resultierenden Anforderungen an Ferti-
+gungs- und Testkapazitäten sowie wirtschaftlichen Überlegungen 
+ab. Investitionen außerhalb des Budgets finden nur nach zusätzlicher 
+Prüfung statt. Der bereinigte Free Cashflow ist definiert als Cashflow 
+aus der betrieblichen Geschäftstätigkeit, abzüglich Investitionen 
+in/zuzüglich Abgänge von immaterielle/n Vermögenswerte/n und 
+Sachanlagen (inklusive Auszahlungen für Anteilszugänge/Einzah-
+lungen aus Abgängen aus dem Konsolidierungskreis).
+
+Umsatzentwicklung
+Die Umsatzerlöse im fortgeführten Geschäftsbereich „Halbleiter“ 
+reduzierten sich aufgrund der Auswirkungen der COVID-19-Pande-
+mie im Geschäftsjahr 2020 deutlich um 14,9% auf 232,6 Mio. Euro.
+VERKÜRZTE GEWINN- UND VERLUSTRECHNUNG
+in Mio. Euro oder %
+GJ 2020
+GJ 2019 Veränderung
+Umsatzerlöse
+232,6
+273,4
+-14,9%
+Bruttoergebnis
+92,6
+125,6
+-26,3%
+in % vom Umsatz
+39,8%
+45,9%
+Forschungs- und Entwicklungskosten
+47,7
+40,7
+17,3%
+in % vom Umsatz
+20,5%
+14,9%
+Vertriebskosten
+18,9
+19,7
+-4,2%
+in % vom Umsatz
+8,1%
+7,2%
+Verwaltungskosten
+17,4
+23,9
+-27,0%
+in % vom Umsatz
+7,5%
+8,7%
+Betriebsergebnis vor sonstigen 
+betrieblichen Aufwendungen/Erträgen
+8,5
+41,4
+-79,3%
+in % vom Umsatz
+3,7%
+15,1%
+Wechselkursverluste
+-1,8
+-0,8
+>100%
+Sonstiges betriebliches Ergebnis
+2,0
+0,3
+>100%
+Restrukturierungsaufwendungen
+0,0
+-11,1
+n/a
+EBIT (reported)
+8,7
+29,8
+-70,8%
+EBIT (vor Restrukturierung)1
+8,7
+40,9
+-78,7%
+in % vom Umsatz
+3,7%
+15,0%
+Finanzierungserträge
+0,5
+0,6
+-12,4%
+Finanzierungsaufwendungen
+-0,9
+-1,6
+-41,4%
+Ergebnis vor Steuern
+8,2
+28,7
+-71,3%
+in % vom Umsatz
+3,5%
+10,5%
+Konzernüberschuss, der auf die Anteilseigner des 
+Mutterunternehmens entfällt
+6,4
+18,5
+-65,4%
+in % vom Umsatz
+2,8%
+6,8%
+Ergebnis je Aktie (unverwässert) in Euro
+0,35
+0,94
+-63,2%
+Dividende je Aktie in Euro
+0,522
+0,52
+1 Ohne Berücksichtigung des Restrukturierungsaufwands für die Beendigung der Kooperation mit dem Fraunhofer-
+Institut IMS.
+2Vorschlag für die Hauptversammlung am 20. Mai 2021.
+Umsatz nach Regionen: Die Region APAC konnte den Umsatzanteil 
+gegenüber den anderen Regionen im Geschäftsjahr 2020 ausbauen, 
+was auf eine schnellere Erholung der asiatischen Märkte im Rahmen 
+der COVID-19-Pandemie zurückzuführen ist und darüber hinaus die 
+zunehmende strategische Bedeutung dieser Region für das Unter-
+nehmen unterstreicht. 
+WIRTSCHAFTSBERICHT
+GESAMTWIRTSCHAFTLICHE UND BRANCHENBEZOGENE 
+RAHMENBEDINGUNGEN
+Die COVID-19-Pandemie hat sich im Jahr 2020 erheblich auf die inter-
+nationalen Automobilmärkte ausgewirkt. Alle Absatzregionen muss-
+ten teilweise sehr deutliche Rückgänge verkraften. Laut dem Verband 
+der Automobilindustrie (VDA) bildete bei den drei großen Absatz-
+märkten Europa mit einem Rückgang von 24% das Schlusslicht. Auch 
+in den USA gingen die Zulassungszahlen mit -15% deutlich zurück. In 
+China konnten sich die Märkte zwar vergleichsweise wieder zügig 
+erholen, im Gesamtjahresvergleich lag der weltweit größte Pkw-
+Markt aber dennoch mit -6% deutlich unter dem Vorjahresniveau.
+Pkw-Neuzulassungen1
+Veränderung 2020/2019
+Weltweit
+-15%
+Europa
+-24%
+Deutschland
+-19%
+China
+-6%
+USA
+-15%
+Halbleitermarkt
+Allgemeiner Halbleitermarkt (weltweit)2
++4%
+Automobiler Halbleitermarkt (weltweit)3
+-10%
+Quellen: 1 VDA, 2 ZVEI, 3IHS
+Laut dem Zentralverband Elektrotechnik und Elektronikindust-
+rie (ZVEI) ist der weltweite Halbleiterumsatz im Jahr 2020 um 4% 
+auf 428 Mrd. US-Dollar gewachsen. Der Halbleitermarkt hat sich in 
+2020 trotz der Corona-Krise überraschend gut gehalten, indem er sich 
+von der globalen konjunkturellen Entwicklung abgekoppelt hat. Das 
+Umsatzvolumen des automobilen Halbleitermarkts könnte in 2020 
+laut der November-Prognose von IHS Markit um knapp 10% gegen-
+über dem Vorjahr gesunken sein.
+PROGNOSE-IST-VERGLEICH 
+Elmos hatte im Februar 2020 zunächst eine Gesamtjahresprogno-
+se für das abgelaufene Geschäftsjahr 2020 veröffentlicht. Durch die 
+immer größer werdenden Unsicherheiten im Zuge der COVID-19-Pan-
+demie verbunden mit Lockdown-Maßnahmen und Werksschließun-
+gen zahlreicher Automobilhersteller konnte das Unternehmen die 
+finanziellen Auswirkungen der Corona-Pandemie im Frühjahr 2020 
+jedoch dann nicht hinreichend quantifizieren und hatte die Gesamt-
+jahresprognose durch entsprechende Quartalsprognosen für Umsatz 
+und EBIT ersetzt. Alle Quartalsprognosen wurden im Laufe des 
+Geschäftsjahres erfüllt. Mit der Veröffentlichung der Q3-Mitteilung 
+im November 2020 wurde dann eine Prognose für das Gesamtjahr 
+2020 abgegeben, die ebenfalls vollumfänglich erfüllt wurde.
+Prognose 11/2020
+IST 2020
+Umsatz 2020
+227 bis 233 Mio. Euro
+232,6 Mio. Euro 
+EBIT 2020
+6 bis 9 Mio. Euro
+8,7 Mio. Euro 
+Durchschnittlicher 
+Wechselkurs
+1,15 EUR/
+USD
+1,14 EUR/
+USD
+GESCHÄFTSVERLAUF UND LAGE
+Abschluss nach IFRS
+Mit Wirkung zum 1. Juli 2020 wurde die Elmos Semiconductor AG in 
+eine europäische Aktiengesellschaft (Societas Europaea, SE) umge-
+wandelt und firmiert seitdem als Elmos Semiconductor SE. Der Kon-
+zernabschluss der Elmos Semiconductor SE für das Geschäftsjahr 
+2020 wurde gemäß International Financial Reporting Standards 
+(IFRS), wie sie in der EU angewendet werden, erstellt. Mit Wirkung 
+zum 30. September 2019 ist die Tochtergesellschaft SMI aufgrund 
+eines Verkaufs der Anteile aus dem Konsolidierungskreis des Elmos-
+Konzerns ausgeschieden. Die Vorjahreszahlen beziehen sich für eine 
+bessere Vergleichbarkeit, wenn nicht anders angegeben, daher nur 
+auf den fortgeführten Geschäftsbereich „Halbleiter“.
+Berichtswesen des Steuerungssystems 
+Der Vorstand wird mindestens monatlich in Form von standardisier-
+ten Berichten detailliert über den operativen Geschäftsverlauf infor-
+miert. Dieses Berichtswesen wird bei Bedarf durch Ad-hoc-Analysen 
+in schriftlicher Form oder in persönlichen Gesprächen ergänzt. Die 
+durch das konzernweite Berichtswesen generierten Ist-Daten wer-
+den mit den Plandaten abgeglichen. Zielabweichungen werden ana-
+lysiert, erläutert und geplante Gegenmaßnahmen dargestellt.
+
+Umsatzanteil | in %
+GJ 2020
+GJ 2019
+EU-Länder
+45,9%
+48,2%
+Asien/Pazifik
+43,2%
+41,0%
+USA
+1,7%
+3,0%
+Sonstige
+9,2%
+7,9%
+Umsatz nach Kunden und Produkten: In 2020 machten die zehn 
+größten Kunden rund 58% (2019: 60%) des Umsatzes aus, der Anteil 
+der zehn umsatzstärksten Produkte lag bei rund 36% (2019: 41%). Ein 
+Kunde bezieht in der Regel mehrere Produkte, die sich in verschiede-
+nen Phasen ihrer Lebenszyklen befinden, und setzt diese oft in ver-
+schiedenen Modellen, Marken und Märkten ein. Aufgrund der Viel-
+zahl an Kundenbeziehungen entsteht eine hohe Diversität. 
+Auftragsbestand: Auftragseingang und -lage reflektieren typi-
+scherweise die laufende Geschäftsentwicklung. Dieses spiegelt die 
+Umsatzentwicklung des Jahres wider. Hierfür kann die Kennzif-
+fer Book-to-Bill – berechnet als Verhältnis des Auftragsbestands der 
+kommenden drei Monate zum Umsatz der vergangenen drei Monate 
+– eine Indikation geben. Ende des Jahres 2020 lag das Book-to-Bill-Ver-
+hältnis deutlich über eins. Der Auftragsbestand wird üblicherweise 
+bei Erhalt der Kundenbestellung erfasst, kann sich jedoch zwischen 
+diesem Zeitpunkt und der Lieferung aufgrund verschiedener Fakto-
+ren verändern. Es gibt keine Garantie dafür, dass aus dem Auftrags-
+bestand stets Umsatz wird.
+Neuprojekte (Design-Wins): Alle Business Lines waren in 2020 
+hinsichtlich der gewonnenen Neuprojekte trotz der massiven Ein-
+schränkungen durch die COVID-19-Pandemie, insbesondere durch 
+Besuchs-und Reiseverbote, erneut sehr erfolgreich. Sowohl die sum-
+mierten Projektvolumina, welche nur leicht unter dem Vorjahr lie-
+gen, als auch die absolute Anzahl an Design-Wins haben wieder ein 
+sehr gutes Niveau erreicht. Die Anzahl der ASSPs bei den Design-
+Wins lag im Berichtsjahr, wie in den vergangenen Jahren, deutlich 
+über der Anzahl der ASICs. Design-Wins benötigen i.d.R. zwei bis fünf 
+Jahre, bis sie in Serienproduktion starten und zum Umsatz beitragen.
+Ertragslage
+Bruttoergebnis: Das Bruttoergebnis sank aufgrund des Umsatz-
+rückgangs und den damit verbundenen Fixkostenbelastungen 
+überproportional zum Umsatz. Die Bruttomarge reduzierte sich 
+entsprechend auf 39,8% (2019: 45,9%). Die eingeleiteten Anpassungs-
+maßnahmen, wie vor allem die Kurzarbeit im Produktionsbereich, 
+freiwillige Gehaltsverzichte von Vorstand, Führungskräften und 
+Mitarbeitern, der Personalabbau sowie weitere Kostenreduktionen, 
+konnten den Fixkosteneffekt aus der deutlich gesunkenen Produkti-
+onsleistung nicht vollständig kompensieren. 
+Ergebnis vor Zinsen und Steuern (EBIT reported): Das EBIT lag 
+im Geschäftsjahr 2020 bei 8,7 Mio. Euro (2019: 29,8 Mio. Euro), was 
+einer EBIT-Marge von 3,7% (2019: 10,9%) entspricht. 
+Konzernüberschuss, Ergebnis je Aktie: Nach Abzug von Steu-
+ern und Minderheitsanteilen erzielte Elmos im Geschäftsjahr 2020 
+im fortgeführten Geschäftsbereich einen auf die Anteilseigner des 
+Mutterunternehmens entfallenden Konzernüberschuss von 6,4 Mio. 
+Euro (2019: 18,5 Mio. Euro). Der Konzernüberschuss im fortgeführ-
+ten Geschäftsbereich entspricht einem unverwässerten Ergebnis je 
+Aktie von 0,35 Euro (2019: 0,94 Euro).
+Vorschlag zur Gewinnverwendung: Der Jahresüberschuss der 
+Elmos gemäß HGB (weitere Einzelheiten im HGB-Abschluss) beträgt 
+0,3 Mio. Euro (2019: 89,2 Mio. Euro). Der Gewinnvortrag aus dem 
+Jahr 2019 beläuft sich auf 167,1 Mio. Euro nach Ausschüttung und 
+nach Rückkauf eigener Aktien. Vorstand und Aufsichtsrat schla-
+gen der Hauptversammlung am 20. Mai 2021 vor, aus dem Bilanzge-
+winn 2020 der Elmos Semiconductor SE in Höhe von 167,4 Mio. Euro 
+eine gegenüber dem Vorjahr unveränderte Dividende von 0,52 Euro 
+je Aktie auszuschütten. Die Gesamtausschüttung würde damit 9,4 
+Mio. Euro betragen, basierend auf 18.117.307 dividendenberechtigten 
+Aktien per 31. Dezember 2020.
+Umsatz- und Ertragslage in den Segmenten
+VERKÜRZTE SEGMENTBERICHTERSTATTUNG
+Segmente: Nach dem Verkauf der Silicon Microstructures Inc., Milpi-
+tas, (SMI) erfolgte zum Stichtag 30. September 2019 die Entkonsoli-
+dierung des Segments „Mikromechanik“. Der Elmos-Konzern ist seit-
+dem nur noch im fortgeführten Geschäftsbereich „Halbleiter“ aktiv.  
+in Mio. Euro oder %
+Halbleiter (fortgeführter 
+Geschäftsbereich)
+Mikromechanik (aufgege-
+bener Geschäftsbereich)
+GJ 2020 GJ 2019
+Verän-
+derung GJ 2020 GJ 2019
+Verän-
+derung
+Umsatz
+232,6
+273,4
+-14,9%
+0,0
+21,4
+n/a
+Bruttoergebnis
+92,6
+125,6
+-26,3%
+0,0
+11,2
+n/a
+in % vom Umsatz
+39,8%
+45,9%
+n/a
+52,2%
+Forschungs- und
+Entwicklungskosten
+47,7
+40,7
+17,3%
+0,0
+3,9
+n/a
+in % vom Umsatz
+20,5%
+14,9%
+n/a
+18,2%
+Vertriebskosten
+18,9
+19,7
+-4,2%
+0,0
+1,1
+n/a
+in % vom Umsatz
+8,1%
+7,2%
+n/a
+5,0%
+Verwaltungskosten
+17,4
+23,9
+-27,0%
+0,0
+1,8
+n/a
+in % vom Umsatz
+7,5%
+8,7%
+n/a
+8,4%
+Betriebsergebnis vor 
+sonstigen betrieblichen 
+Aufwendungen/Erträgen
+8,5
+41,4
+-79,3%
+0,0
+4,4
+n/a
+in % vom Umsatz
+3,7%
+15,1%
+n/a
+20,6%
+Wechselkursverluste
+-1,8
+-0,8
+>100%
+0,0
+0,0
+n/a
+Ergebnis aus der Veräu- 
+ßerung des aufgegebenen 
+Geschäftsbereichs
+0,0
+0,0
+n/a
+0,0
+63,1
+n/a
+Sonstiges betriebliches 
+Ergebnis
+2,0
+0,3
+>100%
+0,0
+0,0
+n/a
+Restrukturierungs-
+aufwendungen
+0,0
+-11,1
+n/a
+0,0
+0,0
+n/a
+EBIT (reported)
+8,7
+29,8
+-70,8%
+0,0
+67,5
+n/a
+in % vom Umsatz
+3,7%
+10,9%
+n/a
+>100%
+Konzernüberschuss
+6,5
+18,6
+-65,2%
+0,0
+67,2
+n/a
+in % vom Umsatz
+2,8%
+6,8%
+n/a
+>100%
+Die Umsatzerlöse im fortgeführten Geschäftsbereich „Halbleiter“ 
+reduzierten sich aufgrund der Auswirkungen der COVID-19-Pande-
+mie im Geschäftsjahr 2020 deutlich um 14,9% auf 232,6 Mio. Euro. 
+Das EBIT (reported) lag im Berichtsjahr 2020 bei 8,7 Mio. Euro (2019: 
+29,8 Mio. Euro). 
+
+Finanzlage
+VERKÜRZTE KAPITALFLUSSRECHNUNG
+(FÜR 2019 FORTGEFÜHRTER & AUFGEGEBENER GESCHÄFTSBEREICH)
+in Mio. Euro oder %
+GJ 2020
+GJ 2019 Veränderung
+Konzernüberschuss
+6,5
+85,8
+-92,5%
+Abschreibungen
+30,9 
+33,7 
+-8,2%
+Ergebnis aus Abgang Konsolidierungskreis
+0
+-63,1
+n/a
+Veränderung Nettoumlaufvermögen1
+7,2
+-20,7
+n/a
+Übrige Posten
+-17,3
+9,9
+n/a
+Cashflow aus der betrieblichen 
+Geschäftstätigkeit
+27,3
+45,6
+-40,1%
+Investitionen in immaterielle 
+Vermögenswerte und Sachanlagen
+-22,5
+-49,7
+-54,6%
+Abgang von/Investitionen (-) in Wertpapiere(n)
+-16,8
+5,2
+n/a
+Einzahlung aus Abgang Konsolidierungskreis      
+0,0
+82,1
+n/a
+Sonstige Posten
+-3,1
+-0,4
+>100%
+Cashflow aus der Investitionstätigkeit
+-42,4
+37,2
+n/a
+Cashflow aus der Finanzierungstätigkeit
+-39,5
+-18,3
+>100%
+Veränderung der liquiden Mittel
+-54,5
+64,5
+n/a
+Bereinigter Free Cashflow2
+3,6
+76,9
+-95,3%
+1	 Forderungen aus Lieferungen und Leistungen, Vorräte, Verbindlichkeiten aus Lieferungen und Leistungen.
+2 Cashflow aus der betrieblichen Geschäftstätigkeit, abzüglich Investitionen in/zuzüglich Abgänge von immaterielle/n 
+Vermögenswerte/n und Sachanlagen (inklusive Auszahlungen für Anteilszugänge/Einzahlungen aus Abgängen 
+aus dem Konsolidierungskreis).
+Cashflow aus der betrieblichen Geschäftstätigkeit: Der Cashflow 
+aus der betrieblichen Geschäftstätigkeit lag im Geschäftsjahr 2020 
+bei 27,3 Mio. Euro und damit deutlich unter dem Vorjahr (2019: 45,6 
+Mio. Euro). 
+Cashflow aus der Investitionstätigkeit: Die Investitionen in 
+immaterielle Vermögenswerte und Sachanlagen sind im Berichts-
+zeitraum, wie auch im Vorjahr, vornehmlich für den Ausbau der Test-
+kapazitäten verwendet worden. Darüber hinaus hat die Gesellschaft 
+Wertpapiere (Anleihen und Schuldscheinanlagen) erworben. Insge-
+samt belief sich der Cashflow aus der Investitionstätigkeit auf -42,4 
+Mio. Euro im Geschäftsjahr 2020. Im Vorjahr lag der Cashflow aus der 
+Investitionstätigkeit aufgrund des einmaligen SMI-Veräußerungser-
+löses (82,1 Mio. Euro) bei 37,2 Mio. Euro. 
+Cashflow aus der Finanzierungstätigkeit: Der Cashflow aus der 
+Finanzierungstätigkeit lag im Berichtszeitraum bei -39,5 Mio. Euro 
+(2019: -18,3 Mio. Euro) und war maßgeblich von dem Aktienrückkauf-
+programm sowie durch die Dividendenzahlung beeinflusst. Im Rah-
+men eines öffentlichen Kaufangebots hat die Elmos Semiconductor SE 
+im Frühjahr 2020 insgesamt 1.539.922 Aktien mit einem gesamten 
+Kaufpreis von 26,9 Mio. Euro erworben.
+Der bereinigte Free Cashflow lag bei 3,6 Mio. Euro. Im Vorjahr 
+erreichte der bereinigte Free Cashflow im Wesentlichen durch den 
+Mittelzufluss aus der SMI-Veräußerung einen Wert von 76,9 Mio. 
+Euro.
+Liquide Mittel: Der Bestand an Zahlungsmitteln und -äquiva-
+lenten lag zum 31. Dezember 2020 bei 40,3 Mio. Euro. Damit haben 
+sich die liquiden Mittel im Vergleich zum Bilanzstichtag des Vorjah-
+res deutlich um -54,5 Mio. Euro verringert. Der Rückgang ist haupt-
+sächlich auf die oben beschriebenen Investitionstätigkeiten sowie 
+das Aktienrückkaufprogramm zurückzuführen.
+Finanzierungssituation: Elmos finanziert sich durch Eigenkapi-
+tal, Schuldscheindarlehen und Bankdarlehen (aktuell nicht genutzt). 
+Detaillierte Informationen zu den einzelnen Elementen der Finanzie-
+rungssituation finden sich im Anhang.
+Grundsätze und Ziele des Finanzmanagements: Das vorrangi-
+ge Ziel der Kapitalsteuerung des Elmos-Konzerns besteht darin, ein 
+angemessenes Bonitätsrating, die jederzeitige Sicherstellung der 
+Liquidität bei hoher finanzieller Flexibilität sowie eine solide Kapital-
+struktur zu gewährleisten. Dies soll die Geschäftstätigkeit und deren 
+langfristige Fortführung unterstützen sowie die Interessen der 
+Anteilseigner, Mitarbeiter und sonstiger Stakeholder wahren. Elmos 
+verfolgt die Strategie einer kontinuierlichen, nachhaltigen Steige-
+rung des Unternehmenswerts.
+Die Kapitalstruktur des Elmos-Konzerns wird vom Vorstand 
+aktiv gesteuert und unter Berücksichtigung der wirtschaftlichen 
+Rahmenbedingungen sowie der Risiken aus den zugrundeliegenden 
+Vermögenswerten, sofern notwendig, angepasst. Der Konzern über-
+wacht sein Kapital mithilfe der absoluten Höhe der Nettoverschul-
+dung bzw. dem Nettobarmittelbestand und der Eigenkapitalquote. 
+Der Nettobarmittelbestand umfasst Zahlungsmittel und Zahlungs-
+mitteläquivalente sowie Wertpapiere abzüglich kurz- und langfristi-
+ger Finanzverbindlichkeiten. Die Eigenkapitalquote setzt das Eigen-
+kapital ins Verhältnis zur Bilanzsumme.
+Sonstige finanzielle Verpflichtungen und Angaben zu außerbi-
+lanziellen Finanzierungsinstrumenten: Neben den aufgeführten 
+Finanzinstrumenten finanziert die Gesellschaft ihre Investitionen 
+z.T. auch durch Leasing-, Miet- und Dienstleistungsverträge. Es besteht 
+jeweils ein ausgewogenes, in der Ausgestaltung marktübliches Ver-
+hältnis von Vorteilen und Risiken. Die hieraus bestehenden Rückzah-
+lungsverpflichtungen bilden sich in den sonstigen finanziellen Ver-
+pflichtungen ab. Am 31. Dezember 2020 betrugen diese 21,0 Mio. Euro 
+(31. Dezember 2019: 28,7 Mio. Euro). 
+Vermögenslage
+Mit dem Verkauf und der Entkonsolidierung zum 30. September 2019 
+sind die Vermögenswerte und Schulden der SMI ab diesem Zeitpunkt 
+nicht mehr in der Konzernbilanz enthalten.
+VERKÜRZTE BILANZ
+in Mio. Euro oder %
+31.12.2020
+31.12.2019 Veränderung
+Immaterielle Vermögenswerte
+30,2
+32,9
+-8,1%
+Sachanlagen 
+130,4
+137,8 
+-5,4%
+Sonstige langfristige Vermögenswerte
+3,9
+4,8
+-18,2%
+Wertpapiere (kurz- und langfristig)
+45,4
+28,3 
+60,4%
+Vorratsvermögen
+84,7
+78,8
+7,6%
+Forderungen aLuL1
+37,2
+50,9
+-26,9%
+Zahlungsmittel und -äquivalente 
+40,3
+95,0 
+-57,6%
+Sonstige kurzfristige Vermögenswerte
+23,3
+11,1
+>100,0%
+Aktiva, gesamt 
+395,5
+439,5
+-10,0%
+Eigenkapital
+310,2
+339,7
+-8,7%
+Finanzverbindlichkeiten (kurz- und langfristig)
+45,6
+49,1
+-7,1%
+Sonstige langfristige Schulden
+7,4
+7,3
+2,2%
+Verbindlichkeiten aLuL1
+9,0
+10,2 
+-11,0%
+Sonstige kurzfristige Schulden
+23,3 
+33,3 
+-30,4%
+Passiva, gesamt
+395,5
+439,5
+-10,0%
+1 aLuL: aus Lieferungen und Leistungen
+Die Bilanzsumme hat sich zum Stichtag 31. Dezember 2020 um -44,0 
+Mio. Euro auf 395,5 Mio. Euro reduziert (31. Dezember 2019: 439,5 Mio. 
+Euro), was im Wesentlichen auf den Rückgang der Zahlungsmittel und 
+-äquivalente sowie den geschäftsbedingten Rückgang bei den Forde-
+rungen aus Lieferungen und Leistungen zurückzuführen ist.
+
+ERMITTLUNG DES ROIC
+(FÜR 2019 FORTGEFÜHRTER & AUFGEGEBENER GESCHÄFTSBEREICH)
+in Mio. Euro oder %
+2020
+2019
+ EBIT
+8,7
+97,3 | 45,31
+31.12.2020
+31.12.2019
+ Immaterielle Vermögenswerte
+30,2
+32,9
+ Sachanlagen
+130,4
+137,8
+ Vorratsvermögen
+84,7
+78,8
+ Forderungen aus Lieferungen und Leistungen
+37,2
+50,9
+abzüglich
+ Verbindlichkeiten aus Lieferungen und Leistungen
+9,0
+10,2
+ Investiertes Kapital
+273,5
+290,2
+RoIC (/)
+3,2% 33,5% | 15,6%1
+1 Basierend auf dem operativen EBIT.
+Renditekennzahl: Zur Messung der Rendite des investierten, opera-
+tiv genutzten Kapitals ermittelt Elmos die Renditekennzahl Return on 
+Invested Capital (RoIC). Somit wird ein Zusammenhang zwischen der 
+Profitabilität und dem investierten, operativ genutzten Kapital her-
+gestellt. Der RoIC dient damit auch als Indikator für den Wertbeitrag. 
+Aufgrund eines geringeren EBITs im Zuge der COVID-19-Pandemie lag 
+der operative RoIC in 2020 mit 3,2% deutlich unter dem Vorjahr.
+GESAMTAUSSAGE ZUR WIRTSCHAFTLICHEN LAGE 
+Infolge der weltweiten COVID-19-Pandemie hatte Elmos im Berichts-
+jahr signifikante Auswirkungen auf die Vermögens-, Finanz- und 
+Ertragslage zu verzeichnen. Insbesondere die Umsatzerlöse blie-
+ben deutlich unter Vorjahresniveau. Die umfangreichen Anpas-
+sungsmaßnahmen und die Reduzierung von Fixkosten konnten die 
+Auswirkungen des deutlichen Umsatzrückgangs teilweise kom-
+pensieren, sodass noch ein positives EBIT sowie ein Konzernjah-
+resüberschuss erzielt werden konnte. Ab dem vierten Quartal 2020 
+gab es eine deutliche Belebung des Geschäfts mit starkem sequen-
+tiellen Wachstum. Trotz der Auswirkungen der COVID-19-Pandemie 
+hat Elmos das Produktportfolio der Business Lines weiter ausgebaut 
+und in die Entwicklung neuer Produkte investiert. Auch wurde der 
+Entwicklungsbereich im Berichtsjahr vollständig von der Kurzarbeit 
+ausgenommen. Dadurch konnte trotz massiver Einschränkung bei 
+den Kundenkontakten ein sehr gutes Ergebnis bei den Neuaufträgen 
+(Design-Wins) erzielt werden. Die solide finanzielle Basis, der Aus-
+bau des Produktportfolios und der Kundenbasis sowie die gestärkte 
+Wettbewerbsposition bilden ein gutes Fundament für die zukünfti-
+ge Unternehmensentwicklung.
+ELMOS SEMICONDUCTOR SE (HGB-EINZELABSCHLUSS)
+Mit Wirkung zum 1. Juli 2020 wurde die Elmos Semiconductor AG in 
+eine europäische Aktiengesellschaft (Societas Europaea, SE) umge-
+wandelt und firmiert seitdem als Elmos Semiconductor SE.
+Die Elmos Semiconductor SE ist die Muttergesellschaft des 
+Elmos-Konzerns. Der Vorstand der Elmos Semiconductor SE ist für 
+die Leitung der Gesellschaft und des Konzerns verantwortlich. Die 
+Elmos Semiconductor SE ist zudem von ihren direkt und indirekt 
+gehaltenen Tochtergesellschaften und Beteiligungen beeinflusst. 
+Neben der Verantwortung des operativen Geschäfts ist die Konzern-
+muttergesellschaft im Rahmen der übergeordneten Konzernfunkti-
+onen, vertreten durch ihre Vorstände, für die Ausrichtung des Kon-
+zerns zuständig und legt somit die Unternehmensstrategie fest.
+Die Elmos Semiconductor SE stellt ihren Jahresabschluss im 
+Gegensatz zum Konzernabschluss nicht nach den IFRS, sondern nach 
+den Vorschriften des deutschen Handelsgesetzbuchs (HGB) auf. Der 
+vollständige Abschluss wird separat veröffentlicht. Der Jahresab-
+schluss ist mit dem uneingeschränkten Bestätigungsvermerk des 
+Abschlussprüfers versehen. Er wird im Bundesanzeiger veröffent-
+licht, ist beim Unternehmensregister hinterlegt, kann als Sonderdruck 
+angefordert werden und ist auf der Internetseite www.elmos.com 
+verfügbar. 
+Geschäftsverlauf 2020
+Die Geschäftsentwicklung und -lage der Elmos Semiconductor SE 
+bestimmt im Wesentlichen die geschäftliche Entwicklung des Kon-
+zerns. Darüber berichten wir ausführlich im „Geschäftsmodell des 
+Konzerns“ und „Wirtschaftsbericht“.
+Voraussichtliche Entwicklung 2021 und wesentliche Chancen 
+und Risiken
+Die Erwartungen für die Elmos Semiconductor SE spiegeln sich auf-
+grund ihrer Verflechtungen mit den Konzerngesellschaften und 
+ihres Gewichts im Konzern in der Prognose des Konzerns wider. 
+Auch die voraussichtliche Entwicklung der Elmos Semiconductor SE 
+im Geschäftsjahr 2021 hängt wesentlich von der Entwicklung des 
+Gesamtkonzerns sowie dessen Chancen- und Risikolage ab. Diese 
+ist Gegenstand des Chancen- und Risikoberichts sowie der Progno-
+se des Konzerns. Soweit gelten die dort gemachten Aussagen zur vor-
+aussichtlichen Entwicklung und der Risikolage des Konzerns auch 
+für die künftige Entwicklung und die Risikolage der Elmos Semi-
+conductor SE. Die nach § 289 Abs. 4 HGB erforderliche Beschreibung 
+des internen Kontroll- und Risikomanagementsystems im Hinblick 
+auf den Rechnungslegungsprozess für die Elmos Semiconductor SE 
+erfolgt im Abschnitt „Chancen und Risiken“. 
+Als Muttergesellschaft des Konzerns erhält die Elmos Semicon-
+ductor SE auch Erträge von ihren Beteiligungsgesellschaften. Das 
+Beteiligungsergebnis setzt sich aus Ergebnisabführungen bzw. Ver-
+lustübernahmen inländischer sowie Ausschüttungen einzelner 
+Tochtergesellschaften zusammen. Demnach sollte sich die für 2021 
+erwartete Geschäftsentwicklung im Konzern auch auf das Ergeb-
+nis der Elmos Semiconductor SE auswirken. Insgesamt erwarten wir 
+für 2021 bei der Elmos Semiconductor SE einen Bilanzgewinn, der es 
+ermöglicht, unsere Aktionäre angemessen an der Ergebnisentwick-
+lung des Konzerns zu beteiligen. 
+Umsatz- und Ertragsentwicklung
+VERKÜRZTE GEWINN- UND VERLUSTRECHNUNG (HGB)
+in Mio. Euro oder %
+GJ 2020 GJ 2019 Veränderung
+Umsatzerlöse
+232,2
+272,5
+-14,8%
+Bestandserhöhung, andere aktivierte 
+Eigenleistungen und sonst. betriebl. Erträge
+17,5
+95,0
+-81,6%
+Materialaufwand
+109,3
+121,2
+-9,9%
+Personalaufwand
+72,6
+78,5
+-7,5%
+Abschreibungen auf immaterielle 
+Vermögensgegenstände des Anlagevermögens 
+und Sachanlagen
+24,1
+27,9
+-13,6%
+Sonstige betriebliche Aufwendungen
+43,7
+56,0
+-22,0%
+Betriebsergebnis
+-0,0
+83,8
+n/a
+Beteiligungs- und Finanzergebnis
+1,3
+14,0
+-90,6%
+Ergebnis vor Steuern
+1,3
+97,9
+-98,7%
+Jahresüberschuss
+0,3
+89,2
+-99,7%
+
+Die Umsatzerlöse sind im abgelaufenen Geschäftsjahr um 14,8% auf 
+232,2 Mio. Euro gesunken. Das Betriebsergebnis reduzierte sich in 
+2020 auf -0,0 Mio. Euro deutlich, nachdem im Jahr 2019 aufgrund des 
+Erlöses aus dem Verkauf der SMI noch ein positives Betriebsergebnis 
+in Höhe von 83,8 Mio. Euro zu verzeichnen war. 
+Finanzlage
+VERKÜRZTE KAPITALFLUSSRECHNUNG (HGB)
+in Mio. Euro oder %
+GJ 2020 GJ 2019
+Veränderung
+Jahresüberschuss
+0,3
+89,2
+-99,7%
+Abschreibungen
+24,1
+27,9
+-13,6%
+Erträge aus dem Abgang von Anlagevermögen
+0,0
+-70,2
+n/a
+Abnahme(-)/Zunahme(+) der kurzfristigen 
+Rückstellungen und Abschreibungen auf 
+Finanzanlagen
+-8,5
+9,3
+n/a
+Abnahme(+)/Zunahme(-) der Vorräte, 
+Forderungen aus Lieferungen und Leistungen 
+sowie anderer Aktiva
+0,9
+-8,1
+n/a
+Zunahme(+)/Abnahme(-) der 
+Verbindlichkeiten aus Lieferungen und 
+Leistungen sowie anderer Passiva
+3,2
+-19,1
+n/a
+Cashflow aus der laufenden Geschäftstätigkeit
+20,1
+29,1
+-30,9%
+Cashflow aus der Investitionstätigkeit
+-37,6
+52,7
+n/a
+Cashflow aus der Finanzierungstätigkeit
+-35,8
+-14,2
+>100%
+Veränderung der Finanzmittel
+-53,3
+67,5
+n/a
+Finanzmittel am Anfang der Periode
+88,3
+20,8
+>100%
+Finanzmittel am Ende der Periode
+35,0
+88,3
+-60,3%
+Der Cashflow aus der laufenden Geschäftstätigkeit ist im Vergleich 
+zu 2019 gesunken. Die Veränderung beim Cashflow aus der Investi-
+tionstätigkeit resultiert im Wesentlichen aus den Veräußerungserlö-
+sen aus dem SMI-Verkauf im Jahr 2019. Der Cashflow aus der Finan-
+zierungstätigkeit lag im Berichtszeitraum bei -35,8 Mio. Euro (2019: 
+-14,2 Mio. Euro). Der Rückgang ist im Wesentlichen durch das Aktien-
+rückkaufprogramm im Frühjahr 2020 begründet.
+Vermögenslage
+VERKÜRZTE BILANZ (HGB)
+in Mio. Euro oder %
+31.12.2020 31.12.2019 Veränderung
+Anlagevermögen
+190,6
+166,9
+14,2%
+Vorräte
+83,4
+78,0
+6,9%
+Forderungen und sonstige 
+Vermögensgegenstände
+54,4
+61,0
+-10,7%
+Wertpapiere des Umlaufvermögens
+0,0
+11,0
+n/a
+Kassenbestand, Guthaben bei 
+Kreditinstituten
+35,0
+88,3
+-60,3%
+Übrige Aktiva
+1,8
+1,5
+15,1%
+Aktiva, gesamt
+365,3
+406,7
+-10,2%
+Eigenkapital
+280,6
+316,2
+-11,2%
+Rückstellungen
+18,4
+27,6
+-33,3%
+Verbindlichkeiten
+66,2
+63,0
+5,2%
+Passiva, gesamt
+365,3
+406,7
+-10,2%
+Die Bilanzsumme ist im Vergleich zum 31. Dezember 2019 um 10,2% 
+auf 365,3 Mio. Euro per 31. Dezember 2020 gesunken. Auf der Aktiv-
+seite ist dies insbesondere auf den Rückgang der Zahlungsmittel und 
+-äquivalente zurückzuführen. Auf der Passivseite ist die Reduzierung 
+insbesondere durch den Rückgang beim Eigenkapital und den Rück-
+stellungen begründet.
+Bilanzgewinn und Gewinnverwendungsvorschlag
+Die rechtliche Basis für eine Ausschüttung bildet der nach den han-
+delsrechtlichen Rechnungslegungsvorschriften ermittelte Bilanzge-
+winn der Elmos Semiconductor SE. Der Jahresabschluss 2020 weist 
+einen Bilanzgewinn in Höhe von 167,4 Mio. Euro aus. Vorstand und 
+Aufsichtsrat schlagen der Hauptversammlung am 20. Mai 2021 vor, 
+den Bilanzgewinn des Geschäftsjahres 2020 für die Ausschüttung 
+einer gegenüber dem Vorjahr unveränderten Dividende von 0,52 Euro 
+je dividendenberechtigter Stückaktie zu verwenden und den verblei-
+benden Teil auf neue Rechnung vorzutragen.
+NACHTRAGSBERICHT
+Am 23. Dezember 2020 hat die Elmos Semiconductor SE einen Kauf-
+vertrag über den Erwerb der in Dortmund ansässigen Online Engi-
+neering GmbH unterzeichnet. Die Akquisition erfolgt mit wirtschaft-
+licher Wirkung zum 1. Januar 2021. Die Online Engineering GmbH ist 
+auf die Entwicklung von Hard- und Software-Komponenten für elek-
+trische Antriebe spezialisiert. Mit dem Erwerb stärkt Elmos seine in-
+house Kompetenz im Bereich Software und wird seinen Kunden in 
+Zukunft noch umfassendere Systemlösungen anbieten können.
+Mit Wirkung zum 1. Januar 2021 hat Dr. Arne Schneider planmä-
+ßig den Vorstandsvorsitz der Gesellschaft von Dr. Anton Mindl über-
+nommen.
+Darüber hinaus gab es nach Ende des Geschäftsjahres 2020 kei-
+ne Vorgänge von besonderer Bedeutung, welche in der Gewinn- und 
+Verlustrechnung bzw. der Bilanz nicht bereits berücksichtigt sind.
+
+CHANCEN UND RISIKEN
+CHANCEN 
+Chancen werden im Konzern identifiziert und analysiert. Die Unter-
+nehmensführung ist darauf ausgerichtet, den Wert des Unterneh-
+mens systematisch und kontinuierlich zu steigern. Eine Quantifizie-
+rung der Chancen ist nicht durchgängig durchführbar, weil diese in 
+der Regel durch externe Rahmenbedingungen und Einflussfaktoren 
+sowie komplexe Wechselbeziehungen bestimmt sind, welche durch 
+Elmos nur begrenzt oder gar nicht beeinflussbar sind.
+Gesamtwirtschaftliche und branchenspezifische Chancen 
+Gesamtwirtschaftliche Chancen eröffnen sich für Elmos beispiels-
+weise in Wachstumsmärkten. Hierzu zählt insbesondere der asi-
+atische Markt. Gleichzeitig behaupten wir in etablierten Märkten 
+unsere Position mit automobilen Halbleitern in bestimmten Applika-
+tionen und nehmen auch hier Wachstumschancen wahr.
+Branchenspezifische Chancen eröffnen sich für uns insbeson-
+dere durch folgende Megatrends im Automobilbereich: Fahrerassis-
+tenzsysteme bis hin zum autonomen Fahren, Elektromobilität sowie 
+höhere Anforderungen an Sicherheit, Konnektivität und Komfort. 
+Produktspezifische Chancen 
+Produktspezifische Chancen eröffnen sich für Elmos durch Innova-
+tionen. Unsere Business Lines wollen die Chancen bei Kunden durch 
+innovative oder weiterentwickelte und qualitativ hochwertige Pro-
+dukte kontinuierlich steigern. Neben unserem Geschäft mit ASICs 
+bieten sich weitere Chancen durch die vermehrte Entwicklung und 
+den Vertrieb von ASSPs. Des Weiteren nutzen wir diese Chancen, 
+indem wir konsequent in die Forschung und Entwicklung investie-
+ren und die Prozesse unserer Foundry-Partner nutzen können. Sollten 
+wir in unserer Entwicklung bessere Fortschritte machen als derzeit 
+erwartet, könnte dies dazu führen, dass mehr neue und verbesser-
+te Produkte auf den Markt gebracht werden. Zudem sieht Elmos eine 
+Chance in der Erweiterung des Produktportfolios. Dies kann auch 
+durch eine sinnvolle Bereicherung mittels Akquisitionen von Dritt-
+firmen bzw. Technologien oder durch Partnerschaften erfolgen. 
+Elmos vermarktet ihre Produkte nach Applikationen, Regio-
+nen und Branchen. Innerhalb der Regionen konzentrieren wir unse-
+re Vertriebskapazitäten auf die Märkte mit dem größten Geschäfts- 
+und Umsatzpotenzial. Wir investieren in die Weiterentwicklung und 
+Internationalisierung unseres Vertriebs- und Applikations-Supports 
+in der Nähe des Kunden, um unsere Lösungen effektiv zu vertreiben 
+und unsere Kundenbeziehungen zu intensivieren.
+Sonstige Chancen 
+Wir arbeiten permanent an der Optimierung unserer Prozesse u.a. 
+in den Bereichen Entwicklung, Produktion, Technologie, Qualität, 
+Administration und Logistik und investieren konzernweit in Maß-
+nahmen zur Effizienzsteigerung.  
+GESAMTBEURTEILUNG DER CHANCEN DURCH DIE UNTER-
+NEHMENSLEITUNG
+Die Unternehmensleitung der Elmos ist zuversichtlich, dass die Er-
+tragskraft des Konzerns eine solide Basis für die künftige Geschäfts-
+entwicklung darstellt und für die nötigen Ressourcen sorgt, um die 
+dem Konzern zur Verfügung stehenden Chancen zu verfolgen.
+Sollten wir mit diesen Maßnahmen und Methoden bessere Fort-
+schritte machen als derzeit erwartet, könnte sich dies positiv auf unsere 
+Vermögens-, Finanz- und Ertragslage auswirken und dazu führen, dass 
+wir unseren Ausblick und unsere mittelfristigen Perspektiven übertref-
+fen. Dabei haben vor allem die gesamtwirtschaftlichen, branchenspezi-
+fischen und produktspezifischen Chancen das Potenzial, einen positiven 
+Beitrag für die Vermögens-, Finanz- und Ertragslage zu leisten.
+RISIKEN
+Die folgenden Ausführungen beinhalten auch Informationen gemäß 
+§ 289 Abs. 4 HGB und § 315 Abs. 4 HGB und den erläuternden Bericht zu 
+wesentlichen Merkmalen des rechnungslegungsbezogenen internen 
+Kontroll- und Risikomanagementsystems. Elmos fasst die innerhalb 
+des Unternehmens vorhandenen Maßnahmen zur Risikofrüherken-
+nung zusammen. Dieses System ist darauf ausgerichtet, den Bestand 
+des Unternehmens zu sichern. Es entspricht den gesetzlichen Anfor-
+derungen an ein Risikofrüherkennungssystem gemäß § 91 Abs. 2 
+AktG. Die Gesamtverantwortung hierfür obliegt dem Vorstand. Hier-
+zu hat der Vorstand einen Risikofrüherkennungsprozess initiiert und 
+organisatorisch im Rahmen eines Risikofrüherkennungs-Teams im 
+Unternehmen verankert. Das Risikofrüherkennungs-Team setzt sich 
+aus Vertretern der Tochtergesellschaften, den Bereichsleitern sowie den 
+ernannten Risikomanagern zusammen und ist verantwortlich für die 
+zentrale Koordination im Unternehmen, das Risiko-Reporting sowie für 
+die Berichterstattung an den Vorstand. Jedem Risiko werden sogenann-
+te Risk Owner zugeordnet. Diese identifizieren und bewerten die Risiken 
+und legen geeignete Gegenmaßnahmen fest. Gemeinsam mit dem Risi-
+komanager überwachen sie die Wirksamkeit der Maßnahmen. 
+Risiken werden regelmäßig identifiziert und deren Einfluss auf 
+die Unternehmensziele analysiert. Wo der Konzern Kompetenzen 
+besitzt, geht er bewusst bestimmte Risiken ein, wenn gleichzeitig ein 
+angemessener Ertrag zu erwarten ist. Darüber hinaus werden größe-
+re Risiken möglichst vermieden. Eingegangene Risiken, die dem Kon-
+zern bekannt sind, werden analysiert und überprüft. Soweit möglich 
+werden geeignete Gegenmaßnahmen entwickelt.
+Es sind verbindliche Vorgaben und Regeln zur Risikoerfassung 
+formuliert. In einem standardisierten Prozess informieren die Berei-
+che in Reviewgesprächen mit abgestuften Schwellenwerten über 
+den aktuellen Status von bedeutenden Risiken. Ad-hoc-Risiken und 
+eingetretene Schäden werden bei Eilbedürftigkeit unabhängig von 
+den normalen Berichtswegen unmittelbar kommuniziert. 
+Einzelne Risiken werden in Risikogruppen zusammengefasst. 
+Für diese Risikogruppen wird die Risikobewertung als Gesamtein-
+schätzung der Einzelrisiken dargestellt. Gemäß ihrer geschätzten 
+Eintrittswahrscheinlichkeit und voraussichtlichen Schadenshö-
+he bezogen auf unsere Geschäftstätigkeit und unsere Vermögens-, 
+Finanz- und Ertragslage klassifizieren wir die Risiken gemäß der 
+dargestellten Matrix und bewerten diese Risiken mit „sehr gering“, 
+„gering“, „gering bis mittel“, „mittel“, „mittel bis hoch“, „hoch“ und 
+„sehr hoch“. Zu jedem Risiko werden Maßnahmen zur Reduzierung 
+aufgeführt, die auch unter Hinzuziehung von Frühwarnindikatoren 
+regelmäßig mit den Verantwortlichen erörtert werden. 
+Internes Kontrollsystem und Risikomanagementsystem 
+im Hinblick auf den Rechnungslegungsprozess
+Das interne Kontrollsystem besteht aus einer Reihe von Struktu-
+ren und Prozessen zur Steuerung sowie Überwachung von zentralen 
+Geschäftsprozessen. Ziel ist es, Risiken zu erkennen sowie bekannte 
+Risiken zu begrenzen und somit einen reibungslosen Geschäftsver-
+
+interne Kontroll- und Risikomanagementsystem im Hinblick auf den 
+Rechnungslegungsprozess im Konzern.
+Weitere Angaben zu den Grundlagen des Risikomanagements 
+befinden sich im Konzernanhang.
+Ökonomische, politische, gesellschaftliche und regulatori-
+sche Risiken (Risikobewertung: mittel bis hoch)
+Das abgelaufene Geschäftsjahr war wesentlich durch die COVID-
+19-Pandemie geprägt. Die erhebliche Verschlechterung der weltwei-
+ten Wirtschaft und der starke Rückgang der Automobilproduktion 
+aufgrund von COVID-19 hat auch zu negativen Auswirkungen auf die 
+Geschäftsentwicklung von Elmos geführt. Das Ausmaß und die zeit-
+liche Dauer der COVID-19-Pandemie variiert teilweise erheblich zwi-
+schen den betroffenen Regionen und lässt sich daher sehr schwer vor-
+hersagen. Das gilt insbesondere für die Vorhersage der Auswirkungen 
+auf unsere Geschäftstätigkeit. Der Ausbruch von lokalen oder welt-
+weiten Infektionskrankheiten, wie beispielsweise COVID-19, wur-
+de schon in der Vergangenheit als potentielles Risiko im Elmos Risi-
+kofrüherkennungssystem identifiziert und birgt eine Vielzahl an 
+Risiken, die unsere Vermögens-, Finanz- und Ertragslage erheblich 
+beeinträchtigen können. Hierzu zählen unter anderem weitreichen-
+de, wirtschaftliche und politische Beschränkungen zur Eindämmung 
+der Pandemie und ein damit verbundener Nachfragerückgang in den 
+Absatzmärkten des Unternehmens, eine unzureichende oder fehlen-
+de Verfügbarkeit von Rohstoffen und Komponenten, eine Beeinträch-
+tigung der eigenen Produktion oder Lieferung unserer Produkte durch 
+Produktionsausfälle, Werksschließungen von Lieferanten oder Kun-
+den sowie der Ausfall bzw. die fehlende Verfügbarkeit von Arbeits-
+kräften. Elmos hat frühzeitig umfangreiche Präventivmaßnahmen 
+mit Schwerpunkt auf dem Schutz der Gesundheit der Mitarbeiter 
+sowie der Aufrechterhaltung des laufenden operativen Betriebs und 
+der Geschäftsprozesse im gesamten Konzern initiiert. 
+Der Einsatz unserer Produkte hängt auch von weiteren ökonomi-
+schen und politischen Rahmenbedingungen ab. Ereignisse wie bei-
+spielsweise Wirtschaftskrisen, politische Veränderungen oder geo-
+politische Spannungen, Anhebung von Zöllen und weitreichende 
+Handelsbeschränkungen, wie zum Beispiel der Handelskonflikt zwi-
+schen den USA und China oder zwischen den USA und der Europäi-
+schen Union, Schwankungen bei Währungen und Leitzinsen, geän-
+derte Zulassungsbestimmungen für Neufahrzeuge, eine Rezession in 
+Europa oder anderen wichtigen Weltmärkten, eine deutliche Verlang-
+samung des Wachstums in Asien sowie eine Erhöhung von Staats-
+schulden könnten sich negativ auf die Fähigkeit und Bereitschaft 
+unserer Kunden auswirken, unsere Produkte zu nutzen. Bezüglich des 
+Brexits erwartet Elmos zum aktuellen Zeitpunkt keinen absehbaren 
+wesentlichen negativen Einfluss auf das Unternehmen.
+Gesellschaftliche und politische Instabilität, beispielsweise ver-
+ursacht durch Terroranschläge, Krieg oder internationale Konflikte, 
+Naturkatastrophen, anhaltende Streiks oder Pandemien könnten sich 
+negativ über die jeweils betroffene Wirtschaft hinaus auswirken und 
+somit auch unsere Geschäftstätigkeit maßgeblich beeinträchtigen.
+Branchen-/Marktrisiken 
+(Risikobewertung: mittel bis hoch)
+Abhängigkeit von der Automobilindustrie
+Das Kerngeschäft von Elmos steht in direktem Zusammenhang mit 
+der Nachfrage der Automobil- bzw. der Automobilzuliefererindust-
+rie nach Halbleitern. Ein starker Einbruch bei den Automobil-Produk-
+tions- und Absatzzahlen stellt auch für Elmos als Halbleiterlieferan-
+ten ein Risiko dar. Auch wird die Nachfrage nach den Halbleitern und 
+Sensoren von Elmos durch die Lieferfähigkeit anderer Lieferanten 
+beeinflusst, da Systeme und Autos nur dann gefertigt werden kön-
+nen, wenn alle Lieferanten liefern können.
+Der weltweite Automobilmarkt war durch die COVID-19-Pande-
+mie im Berichtsjahr stark beeinflusst, was in einem deutlich rückläu-
+figen Autoabsatz resultierte. Obwohl insbesondere in China im vier-
+ten Quartal 2020 wieder erste Anzeichen einer Erholung zu erkennen 
+waren, könnte ein Andauern der Pandemie die weltweite Pkw-Nach-
+frage weiter deutlich negativ beeinflussen und sich somit auch auf 
+die Geschäftsentwicklung von Elmos maßgeblich auswirken.
+Die Kundenstruktur von Elmos zeigt eine gewisse Abhängigkeit 
+von einigen großen Automobilzulieferern. Hierbei ist allerdings zu 
+berücksichtigen, dass ein Kunde in der Regel mehrere Produkte mit 
+verschiedenen Lebenszyklen bezieht und diese oft in verschiedenen 
+Modellen, Marken und Märkten zum Einsatz kommen. Durch die in 
+den vergangenen Jahren forcierte Hinwendung von Elmos zu ASSPs 
+wird diese Kundenabhängigkeit verringert, da solche Produkte an 
+mehrere Kunden verkauft werden können. Andererseits steigt das 
+Über 25 Mio. 
+Euro
+10-25 Mio. Euro 
+1-10 Mio. Euro
+Unter 1 Mio. 
+Euro
+Einmal in mehr 
+als 100 Jahren
+Einmal in 10 bis 
+100 Jahren 
+Einmal in 2 bis 
+10 Jahren 
+Mind. einmal in 
+2 Jahren
+Schadenshöhe
+Eintrittswahrscheinlichkeit
+sehr 
+gering
+gering 
+bis mittel
+mittel
+mittel 
+bis hoch
+hoch
+sehr 
+hoch
+gering
+lauf sicherzustellen. Es umfasst die vom Management eingeführten 
+Grundsätze, Verfahren und Maßnahmen, die auf die organisatorische 
+Umsetzung der Entscheidungen des Managements gerichtet sind. 
+Im Hinblick auf den Rechnungslegungsprozess der einbezoge-
+nen Unternehmen und des Konzerns sind Strukturen und Prozesse 
+implementiert, die der Ordnungsmäßigkeit des Konzernabschlus-
+ses dienen. Die Grundsätze, Aufbau- und Ablauforganisation sowie 
+die Prozesse des rechnungslegungsbezogenen internen Kontroll- und 
+Risikomanagementsystems sind konzernweit durch entsprechen-
+de Richtlinien, Arbeitsanweisungen und Verantwortlichkeiten gere-
+gelt, die bei Bedarf an aktuelle interne und externe Entwicklungen 
+angepasst werden. Wesentliche Merkmale des auf den Rechnungsle-
+gungsprozess bezogenen internen Kontroll- und Risikomanagement-
+systems sind (i) die Identifikation der wesentlichen Risikofelder und 
+Kontrollbereiche mit Relevanz für den konzernweiten Rechnungs-
+legungsprozess, (ii) Kontrollen zur Überwachung des Rechnungs-
+legungsprozesses und dessen Ergebnisse, (iii) präventive Kontroll-
+maßnahmen im Finanz- und Rechnungswesen und den Bereichen, 
+die wesentliche Informationen für die Aufstellung des Konzernab-
+schlusses generieren, inklusive definierter Genehmigungsprozesse 
+in relevanten Bereichen, (iv) Maßnahmen und Zugriffsregelungen 
+zur ordnungsgemäßen EDV-gestützten Verarbeitung von konzern-
+rechnungslegungsbezogenen Sachverhalten und Daten sowie (v) die 
+Regelung von Verantwortlichkeiten bei der Einbeziehung externer 
+Spezialisten. Der Vorstand trägt die Gesamtverantwortung für das 
+
+Risiko der Austauschbarkeit, weil auch Wettbewerber oftmals ver-
+gleichbare Lösungen anbieten können.
+Wettbewerbsrisiken
+Eine Vielzahl von Wettbewerbern im Halbleitermarkt für automo-
+bile Anwendungen bietet ähnliche Produkte wie Elmos auf ver-
+gleichbarer technologischer Grundlage an. Bei großvolumigen Auf-
+trägen steht Elmos auch im Wettbewerb zu Großproduzenten und 
+ist entsprechendem Preisdruck ausgesetzt.
+Personalrisiken (Risikobewertung: mittel)
+Abhängigkeit von einzelnen Mitarbeitern 
+Die sehr entwicklungsintensive Geschäftstätigkeit des Unterneh-
+mens führt zu einem stark ausgeprägten und sehr spezifischen 
+Know-how, jedoch nicht zwangsläufig zu Patenten. Somit ergibt 
+sich für Elmos, wie für jedes Technologieunternehmen, eine Abhän-
+gigkeit von bestimmten Mitarbeitern.
+Mangel an qualifizierten Mitarbeitern
+Ein wichtiger Aspekt des Erfolges am Markt ist die Qualität und 
+Verfügbarkeit von Mitarbeitern. Es besteht das Risiko, dass quali-
+fizierte Mitarbeiter das Unternehmen verlassen und zeitnah kein 
+adäquater Ersatz gefunden werden kann. Auch besteht das Risi-
+ko, dass das Unternehmen qualifizierte Mitarbeiter nicht für sich 
+gewinnen könnte, falls ein neuer Bedarf entsteht. Dieses könnte die 
+Unternehmensentwicklung negativ beeinflussen.
+Ausfall von Mitarbeitern aufgrund der COVID-19-Pandemie
+Der Ausbruch einer Epidemie oder Pandemie wurde bereits in der 
+Vergangenheit als potentielles Risiko identifiziert und entsprechen-
+de Präventivmaßnahmen vorbereitet. Daher konnten nach Bekannt-
+werden der COVID-19-Pandemie zum Schutz unserer Mitarbeiter vor 
+einer Weiteransteckung innerhalb des Unternehmens sehr frühzei-
+tig umfangreiche Maßnahmen eingeführt werden, wie beispiels-
+weise das Bereitstellen von Schutzmasken und Desinfektionsmitteln, 
+verstärktes Remote-Arbeiten und virtuelle Meetings, Hygiene- und 
+Abstandsregeln sowie das zeitweise Schließen von sozialen Einrich-
+tungen und der Kantine. Obwohl durch die konsequente Umsetzung 
+dieser Maßnahmen bis heute eine maßgebliche Beeinträchtigung 
+unserer Produktion oder Störungen in unseren Geschäftsabläufen 
+vermieden werden konnte, kann dies bei anhaltendem Infektionsge-
+schehen in der Zukunft nicht ausgeschlossen werden. 
+Forschungs- und Entwicklungsrisiken 
+(Risikobewertung: mittel bis hoch)
+Der Markt für Elmos-Produkte ist durch ständige Weiterentwicklung 
+und Verbesserung der Produkte gekennzeichnet. Der Erfolg von Elmos 
+ist deshalb stark von der Fähigkeit abhängig, Markttrends und tech-
+nologische Entwicklungen richtig einzuschätzen, um so innovative 
+und komplexe Produkte oder Nachfolgegenerationen von bestehenden 
+Produkten effizient zu entwickeln, sie rechtzeitig im Markt einzufüh-
+ren und zu erreichen, dass diese Produkte von den Kunden ausgewählt 
+werden. Des Weiteren besteht das Risiko, dass Produkte oder komplet-
+te Applikationsfelder, die für Elmos umsatzrelevant sind, durch neue 
+Technologien ganz oder teilweise substituiert werden und Elmos keine 
+wettbewerbsfähigen Produkte in diesem Bereich mehr anbieten kann.
+Bei kundenspezifischen Produkten wird der Kunde an den Ent-
+wicklungskosten von Elmos beteiligt. Bei Entwicklungen, die nicht in 
+eine Lieferbeziehung münden, besteht das Risiko, dass nicht amorti-
+sierte Kosten von der Gesellschaft vollständig alleine zu tragen sind.
+Für von Elmos selbst initiierte Produktentwicklungen, d.h. alle 
+ASSPs, liegen beim Start der Entwicklung noch keine festen Kunden-
+aufträge vor und daher trägt Elmos die Entwicklungskosten selbst. 
+Bei zu geringer Kundenakzeptanz können die Entwicklungs- und Pro-
+duktionskosten daher nicht durch den späteren Verkauf der Produkte 
+amortisiert werden. Allerdings arbeitet Elmos auch bei der Entwick-
+lung von ASSP-Bausteinen nach Möglichkeit mit Leitkunden zusam-
+men, um die Wahrscheinlichkeit für einen Markterfolg zu erhöhen.
+Der zukünftige Erfolg von Elmos ist auch von der Fähigkeit 
+abhängig, neue Entwicklungs- und Produktionstechnologien zu ent-
+wickeln oder einzusetzen. Elmos entwickelt analoge und digita-
+le Halbleiterstrukturen und -funktionen für ihre selbst entwickelte 
+modulare Hochvolt-CMOS-Prozesstechnologie oder entwickelt Pro-
+dukte auf von Foundries bereitgestellten Prozessen. Trotz sorgfältiger 
+Recherche könnte es der Fall sein, dass Elmos bei Produktentwicklun-
+gen Patentrechte von Dritten verletzt. Dies könnte erheblichen Ein-
+fluss auf das betroffene Produkt und dessen Vermarktung haben.
+Sollte Elmos zukünftig nicht in der Lage sein, neue Produkte und 
+Produktverbesserungen zu entwickeln, zu produzieren und abzu-
+setzen, dürfte dies signifikante Auswirkungen auf die Vermögens-, 
+Finanz- und Ertragslage haben.
+Finanzwirtschaftliche Risiken (Risikobewertung: mittel)
+Beteiligungsbereich
+Durch die Allokation von finanziellen Mitteln in die Tochtergesell-
+schaften und Unternehmensbeteiligungen besteht die erhöhte 
+Pflicht, mit entsprechenden Controlling-Instrumenten und Soll-Ist-
+Analysen mögliche Risiken frühzeitig zu erkennen bzw. zu minimie-
+ren. Darüber hinaus werden regelmäßige Reviews der Tochtergesell-
+schaften und Beteiligungen durchgeführt.
+Weitere finanzwirtschaftliche Risiken sind im Konzernanhang 
+aufgeführt.
+Betriebs- und operative Risiken 
+(Risikobewertung: mittel bis hoch)
+Beschaffungsrisiken
+Die von Elmos für die Fertigung benötigten Rohstoffe sind weltweit 
+zum Teil bei verschiedenen Lieferanten verfügbar, unterliegen jedoch 
+in einigen Fällen einer Monopolsituation. Branchentypischerweise 
+besteht eine gewisse Abhängigkeit von einzelnen fernöstlichen Part-
+nern. Elmos hat das Risiko gestreut, indem sie, wenn möglich, mit meh-
+reren Partnern aus verschiedenen Ländern zusammenarbeitet. Trotz 
+der Streuung des Risikos durch die Nutzung von verschiedenen Part-
+nern besteht das Risiko einer längerfristigen Betriebsunterbrechung, 
+beispielsweise durch einen Streik, Naturkatastrophen, Handelsbe-
+schränkungen oder auch durch eine Betriebsschließung der Partner-
+fertigung. Dadurch könnten Elmos-Produkte in ihrer Lieferfähigkeit 
+beeinträchtigt sein oder durch eine nicht eingetretene Weiterverar-
+beitung unbrauchbar werden. Elmos ist nicht in der Lage, die Unter-
+brechung oder den Stillstand der Produktion in der Fertigung eines 
+Partners auszuschließen oder zu beeinflussen. Falls aus diesen oder 
+anderen Gründen unsere Partner ihre Lieferverpflichtungen gegen-
+über Elmos nicht oder nur teilweise erfüllen, könnte dies negative Aus-
+wirkungen auf unsere Vermögens-, Finanz- und Ertragslage haben.
+Bei den Maschinenanbietern gibt es Konzentrationstendenzen in 
+Richtung eines Oligopolmarkts, sodass die Verhandlungsmacht von 
+Elmos begrenzt ist. Rohmaterialien könnten aufgrund von gestiege-
+
+wird für rechtliche Risiken eine entsprechende bilanzielle Vorsorge 
+durch die Bildung von Rückstellungen getroffen; Ansatz und Bewer-
+tung erfolgen dabei im Konzernabschluss nach IAS 37. Da die Ergeb-
+nisse gerichtlicher Verfahren nicht vorhersagbar sind, können Auf-
+wendungen entstehen, die wesentlichen Einfluss auf unser Geschäft 
+haben und die gebildeten Rückstellungen übersteigen.
+Informationstechnische Risiken 
+Wie für andere globale Unternehmen ist auch für Elmos die Zuverlässig-
+keit und Sicherheit der Informationstechnologie (IT) von großer Bedeu-
+tung. Dies gilt in zunehmendem Maße sowohl für den Einsatz informa-
+tionstechnischer Systeme zur Unterstützung der Geschäftsprozesse, als 
+auch für die Unterstützung der internen und externen Kommunikati-
+on. Elmos beobachtet weltweit einen Anstieg von Bedrohungen für die 
+Informationssicherheit sowie eine zunehmende Professionalisierung 
+der Cyber-Kriminalität, beispielsweise in der Zunahme von Phishing-
+Angriffen. Aus diesen Gründen hat Elmos in den letzten Jahren proaktiv 
+den Schutz gegen sogenannte Cyber-Angriffe erhöht und arbeitet konti-
+nuierlich an weiteren Verbesserungen. Des Weiteren sind Verarbeitungs-
+prozesse und technische Systeme, die persönliche Daten betreffen, an die 
+hohen Anforderungen der 2018 eingeführten Datenschutzgrundverord-
+nung (DSGVO) angepasst. Trotz aller technischen Vorsichtsmaßnahmen 
+sowie auch extern beauftragten Überprüfungen kann jede gravierende 
+Störung dieser Systeme zu einem Datenverlust und/oder zu einer Beein-
+trächtigung der Produktion, Störung von Geschäftsprozessen, Rechts-
+streitigkeiten oder Bußgeldforderungen mit wesentlichen Auswirkun-
+gen auf die Vermögens-, Finanz- und Ertragslage führen.
+Betriebsunterbrechung 
+Neben den bereits dargestellten und erläuterten Betriebsrisiken 
+ist die Zerstörung der Fertigungsanlagen durch Feuer oder ande-
+re Katastrophen ein wesentliches betriebliches Risiko. Auch wenn 
+das Betriebsunterbrechungsrisiko durch solche Ereignisse angemes-
+sen versichert ist, besteht eine erhebliche Gefahr des Verlustes von 
+Schlüsselkunden. Dieses Risiko ist nicht versicherbar. 
+Eine Betriebsunterbrechung könnte auch durch einen Ausfall der 
+Stromversorgung entstehen. Die Fertigungsanlagen sind auf einen kurz-
+fristigen Ausfall des Stromnetzes im Rahmen der Möglichkeiten vorbe-
+reitet. Durch die Produktion in räumlich getrennten eigenen und exter-
+ner Nachfrage, z.B. resultierend in Engpässen beim Hersteller, nicht 
+im benötigten Umfang bezogen werden. Insbesondere der Wafer-
+preis ist auf dem Weltmarkt teils starken Schwankungen ausgesetzt.
+Garantiefälle/Produkthaftung
+Die von Elmos hergestellten Produkte werden als Komponenten in 
+komplexe elektronische Systeme integriert. Fehler oder Funktions-
+mängel der von Elmos produzierten Halbleiter oder der elektroni-
+schen Systeme, in die sie integriert sind, können direkt oder indirekt 
+Eigentum, Gesundheit oder Leben Dritter beeinträchtigen. Elmos 
+ist meist nicht in der Lage, die Haftung gegenüber Abnehmern oder 
+Dritten in ihren Absatzverträgen vollständig auszuschließen. Als ein 
+Instrument zur Begrenzung dieses Risikos hat Elmos eine Produkt-
+haftungsversicherung abgeschlossen.
+Elmos verfolgt konsequent eine Null-Fehler-Strategie und inves-
+tiert stetig in die frühzeitige Erkennung und Vermeidung von Feh-
+lerquellen und Fehlern. Um mögliche Fehlerquellen in sicherheits-
+relevanten Bauteilen für Fahrzeuge zu minimieren, hat Elmos den 
+Entwicklungsprozess nach ISO 26262 (Funktionale Sicherheit) einge-
+führt und zertifiziert. Die Halbleiterchips werden zudem hinsichtlich 
+ihrer Qualität und Funktion in der Produktion im Regelfall für Auto-
+mobilanwendungen umfangreich getestet. Obwohl die Gesellschaft 
+weitreichende und anerkannte Testverfahren vor der Auslieferung 
+ihrer Produkte einsetzt, können sich Produktfehler möglicherweise 
+erst beim Verbau oder dem Gebrauch der Produkte durch den End-
+verbraucher zeigen. Wenn solche Produktfehler auftreten, kann dies 
+kostspielige und zeitaufwändige Produktmodifikationen und weite-
+re Haftungsansprüche nach sich ziehen. Auch ein Rückruf, für den 
+Elmos die Haftung übernehmen müsste, kann wesentliche Auswir-
+kungen auf die Vermögens-, Finanz- und Ertragslage haben.
+Rechtliche Risiken
+Derzeit bestehen keinerlei Rechtsstreitigkeiten, deren Ausgang ein 
+hohes Risiko für die Vermögens-, Finanz- und Ertragslage beinhal-
+ten könnte. Es kann jedoch nicht ausgeschlossen werden, dass es in 
+der Zukunft zu solchen Verfahren kommt. Diese Verfahren könn-
+ten beispielsweise aus operativen Umständen, Schutz- und Marken-
+rechtsangelegenheiten oder im Zusammenhang mit Beteiligungs-
+strukturen im Elmos-Konzern entstehen. Je nach Risikoeinschätzung 
+nen Fertigungen wird das Risiko einer Betriebsunterbrechung reduziert.
+Die üblichen versicherbaren Risiken wie Feuer, Wasser, Sturm, Dieb-
+stahl, Haftpflicht sowie die Kosten eines etwaigen Rückrufs sind ange-
+messen versichert. Auch bestehen Versicherungen für weitere Risiken, 
+beispielsweise Cyber-Angriffe und Vertrauensschäden. Allerdings ist 
+nicht auszuschließen, dass die Kosten eines möglichen Rückrufs oder 
+anderer Ereignisse die Deckungssumme der Versicherung überschrei-
+ten könnten. Weitere typischerweise versicherbare Risiken, die die Ent-
+wicklung des Konzerns wesentlich beeinträchtigen oder den Fortbe-
+stand des Konzerns gefährden können, sind derzeit nicht bekannt.
+Ökologische Risiken
+Elmos ist sowohl nach der anspruchsvollen Umweltmanagement 
+DIN EN ISO 14001 als auch nach der Energiemanagement DIN EN ISO 
+50001 zertifiziert. Diese Zertifizierungen werden durch regelmäßige 
+Wiederholungsaudits bestätigt. Obwohl hierdurch eine Minimierung 
+der ökologischen Risiken erfolgt, kann nicht vollständig ausgeschlos-
+sen werden, dass dem Konzern beispielsweise aufgrund von Fehlver-
+halten oder äußeren Umständen ökologische Risiken mit Auswirkun-
+gen auf die Vermögens-, Finanz- und Ertragslage entstehen.
+GESAMTBEURTEILUNG DER RISIKEN DURCH DIE UNTER-
+NEHMENSLEITUNG
+Elmos konsolidiert und aggregiert alle von den verschiedenen Unter-
+nehmensbereichen und -funktionen gemeldeten Risiken. Die Risiken 
+werden analysiert, allerdings können Einzelrisiken im Extremfall 
+erheblichen substanziellen Schaden anrichten. Dies ist weder vor-
+hersehbar noch auszuschließen. Unabhängig davon ist festzuhalten, 
+dass auch das Eintreten eines Einzelrisikos, ohne bis zum Extrem-
+fall zu eskalieren, erhebliche negative Auswirkungen auf die Vermö-
+gens-, Finanz- und Ertragslage der Gesellschaft haben kann. 
+Die oben aufgeführten Risiken werden vom Management gemäß 
+den dort jeweils genannten Risikoklassen basierend auf der möglichen 
+Schadenshöhe und Eintrittswahrscheinlichkeit bewertet. Dabei ist fest-
+zustellen, dass in einigen Kategorien Risiken bestandsgefährdender 
+Natur vorhanden sind, diese aber i.d.R. mit einer relativ geringen Ein-
+trittswahrscheinlichkeit behaftet sind. So werden derzeit im Unterneh-
+men keine Einzelrisiken sowohl mit der höchsten Schadensklasse als 
+auch der höchsten Eintrittswahrscheinlichkeit bewertet (d.h. keine Risi-
+kobewertung „sehr hoch“).
+
+PROGNOSEBERICHT
+WIRTSCHAFTLICHE UND BRANCHENSPEZIFISCHE RAHMEN-
+BEDINGUNGEN
+Der Internationale Währungsfonds (IWF) rechnet (Stand: Januar 
+2021) für das laufende Jahr mit einem weltweiten Wachstum von 
+5,5% (2020: -3,5%). Obwohl Impfstoffzulassungen die Hoffnung auf 
+eine Trendwende bei der COVID-19-Pandemie geweckt hätten, betont 
+der IWF, dass die Prognosen weiterhin mit großen Unsicherheiten 
+behaftet seien, wie etwa durch neue Varianten des Virus sowie wie-
+der aufkeimende Infektionswellen. Für den weltweiten Automo-
+bilmarkt erwartete der VDA im Januar 2021 für das laufende Jahr ein 
+Plus von 9% gegenüber 2020. Es sei von einer langsamen Verbesse-
+rung der Marktlage auszugehen, wobei die Rückgänge des vorheri-
+gen Jahres nicht wettgemacht werden könnten. Insbesondere mit 
+Blick auf die Zulieferindustrie gebe es daher keine Grundlage für eine 
+Entwarnung. Für den im Januar 2021 bereits verzeichneten Rückgang 
+von in Deutschland produzierten Pkw spielten laut dem VDA vor 
+allem Lieferengpässe bei Halbleitern eine Rolle.
+Der weltweite Halbleitermarkt wird in 2021 laut dem ZVEI 
+(Stand: Dezember 2020) um 8% zulegen. 
+PROGNOSTIZIERTE MARKTENTWICKLUNG
+Bruttoinlandsprodukt1
+Prognose 2021
+Weltweit
++5,5%
+Europa
++4,2%
+Deutschland
++3,5%
+China
++8,1%
+USA
++5,1%
+Auto-Neuzulassungen2
+Weltweit
++9%
+Europa
++12%
+China
++8%
+USA
++9%
+Halbleitermarkt
+Allgemeiner Halbleitermarkt3
++8%
+Quellen: 1IWF (Stand: Januar 2021), 2 VDA (Stand: Januar 2021), 3ZVEI (Stand: Dezember 2020)
+OPERATIVE ZIELE FÜR 2021
+Umsatz- und Ergebnisziele sowie Investitions- und Liqui-
+ditätsziele
+Die Prognose des Unternehmens orientiert sich neben der aktuellen 
+Geschäfts- und Auftragslage auch an den oben genannten Erwar-
+tungen und Annahmen zur allgemeinen Wirtschaftsentwicklung 
+und den spezifischen Branchenentwicklungen. Jedoch sind die aktu-
+ellen Schätzungen für das Jahr 2021 sowohl für relevante Branchen-
+entwicklungen als auch für die gesamtwirtschaftliche Entwick-
+lung aufgrund der anhaltenden COVID-19-Pandemie mit gewissen 
+Risiken verbunden und werden im Jahresverlauf vermutlich auch 
+größeren Schwankungen unterliegen. Darüber hinaus ist die Prog-
+nosefähigkeit von Elmos aktuell durch die weltweite Allokation im 
+Halbleiter-Bereich, verbunden mit Versorgungsschwierigkeiten von 
+Schlüsselkomponenten insbesondere durch die globalen Kapazi-
+tätsengpässe, wesentlich beeinträchtigt. Aufgrund dieser außerge-
+wöhnlich hohen Unsicherheiten, kann das Unternehmen zum jet-
+zigen Zeitpunkt lediglich eine komparative Gesamtjahresprognose, 
+ergänzt um eine quantitative Prognose für das erste Quartal 2021, 
+abgeben. Die Quartalsprognose bezieht sich lediglich auf den Umsatz 
+und die EBIT-Marge, da die sonst zusätzlich prognostizierten Gesamt-
+jahreskennzahlen Investitionen und bereinigter Free Cashflow stär-
+keren unterjährigen Schwankungen unterliegen.
+Unter Berücksichtigung der aktuell unsicheren Gesamtlage 
+erwartet Elmos für das Geschäftsjahr 2021 sowohl beim Umsatz als 
+auch beim EBIT eine deutliche Steigerung gegenüber dem Vorjahr. 
+Die Investitionen in Sachanlagen und immaterielle Vermögenswer-
+te abzgl. aktivierten Entwicklungsleistungen werden deutlich über 
+dem Vorjahreswert prognostiziert (2020: 18,8 Mio. Euro). Das Unter-
+nehmen rechnet mit einem positiven, über dem Vorjahr liegenden 
+bereinigten Free Cashflow für das Geschäftsjahr 2021 (2020: 3,6 Mio. 
+Euro).
+Für das erste Quartal 2021 rechnet Elmos mit einem Umsatz in 
+Höhe von 76 Mio. Euro ±3 Mio. Euro. Die EBIT-Marge wird bei 14,5% 
+±1,5%-Punkte erwartet. Der Prognose liegt ein Wechselkursverhält-
+nis von 1,20 Euro/US-Dollar zu Grunde.
+PROGNOSE FÜR DAS ERSTE QUARTAL 2021
+Umsatz
+76 ±3 Mio. Euro
+EBIT-Marge
+14,5% ±1,5%-Punkte
+Angenommener durchschnittlicher Wechselkurs
+1,20 EUR/USD
+Dividendenziele
+Die freie Liquidität soll teils zur Zahlung einer Dividende verwendet 
+werden. Aufgrund der außerordentlich guten finanziellen Basis der 
+Elmos, werden Aufsichtsrat und Vorstand der Hauptversammlung 
+im Mai 2021 eine im Vergleich zum Vorjahr stabile Dividende in Höhe 
+von 0,52 Euro je Aktie (Vorjahr: 0,52 Euro) vorschlagen.
+Prämissen der Prognosen
+Elmos schätzt die mittel- und langfristigen Wachstumsaussichten 
+für die Automobilelektronik positiv ein. Der vermehrte Einsatz von 
+Elektronik wird durch zahlreiche Trends bestimmt: z.B. Fortschrit-
+te bei Fahrerassistenzsystemen bis hin zum autonomen Fahren, 
+Elektrifizierung des Antriebsstranges sowie steigende Anforderun-
+gen an Sicherheits- und Komfortapplikationen.
+Eine positive Entwicklung für Elmos setzt den Erfolg unserer 
+heutigen und zukünftigen Kunden sowie unsere Fähigkeit voraus, 
+Produkte bei diesen zu platzieren. Der internationale Markt der Auto-
+mobilzulieferer unterliegt einem intensiven Wettbewerb. Effekte, 
+die sich daraus ergeben, wie z.B. Marktveränderungen oder Portfo-
+lioverschiebungen bei unseren Kunden, lassen sich nur schwer vor-
+hersagen. Unsere Prognose beinhaltet die zum Zeitpunkt der Auf-
+stellung dieses Berichtes der Gesellschaft bekannten Ereignisse, 
+die einen wesentlichen Einfluss auf die Geschäftsentwicklung des 
+Elmos-Konzerns haben könnten. Der Ausblick basiert unter anderem 
+auf den dargestellten Prämissen der konjunkturellen Entwicklung 
+sowie den Hinweisen im Chancen- und Risikobericht. Die Erwartun-
+gen können durch Marktturbulenzen bzw. durch weltpolitische und 
+ökonomische Unsicherheiten sowie durch weitreichende Einschrän-
+kungen im Zuge der COVID-19-Pandemie o.ä. beeinträchtigt werden.
+
+RECHTLICHE ANGABEN
+ÜBERNAHMERECHTLICHE ANGABEN
+Im Folgenden sind die nach §§ 289a, 315a HGB geforderten übernah-
+merechtlichen Angaben zum 31. Dezember 2020 dargestellt (zugleich 
+erläuternder Bericht nach § 176 Abs. 1 Satz 1 AktG). Die Zusammenset-
+zung des gezeichneten Kapitals sowie die Beteiligungen am Kapital, die 
+10% der Stimmrechte überschreiten, finden sich im Konzernanhang.
+Beschränkungen, die Stimmrechte oder die Übertragung 
+von Aktien betreffen 
+Gesetzliche Beschränkungen des Stimmrechts von Aktien können 
+sich insbesondere aus den Vorschriften des Aktiengesetzes (AktG) 
+oder des Wertpapierhandelsgesetzes (WpHG) ergeben. Beispielswei-
+se unterliegen Aktionäre unter bestimmten Voraussetzungen nach 
+§ 136 AktG einem Stimmverbot. Weiter stehen der Elmos Semiconduc-
+tor SE gemäß § 71b AktG aus eigenen Aktien keine Rechte zu, auch kein 
+Stimmrecht. Auch können aufgrund von Verstößen gegen kapital-
+marktrechtliche Mitteilungspflichten nach Maßgabe des § 44 WpHG 
+Rechte aus Aktien, wie z.B. das Stimmrecht, zumindest zeitweise nicht 
+bestehen. 
+Aktienbasierte Vergütungsbestandteile von Aufsichtsrat, Vorstand 
+und Mitarbeitern sehen teilweise zeitliche Verfügungsbeschränkun-
+gen, wie z.B. Haltefristen, vor. Des Weiteren bestehen vorsorgliche, zeit-
+lich begrenzte Handelsbeschränkungen für Aufsichtsrat, Vorstand und 
+einzelne Mitarbeiter.
+Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen
+Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen, wurden 
+nicht ausgegeben.
+Art der Stimmrechtskontrolle im Falle von Arbeitnehmer-
+beteiligungen
+Am Kapital der Elmos Semiconductor SE beteiligte Arbeitnehmer 
+üben ihre Kontrollrechte wie andere Aktionäre unmittelbar nach 
+Maßgabe der gesetzlichen Vorschriften und der Satzung aus.
+Gesetzliche Vorschriften und Satzungsbestimmungen 
+über die Ernennung und Abberufung von Vorstandsmit-
+gliedern und über Satzungsänderungen
+Wir verweisen auf die entsprechenden gesetzlichen Vorschriften 
+für die Bestellung und Abberufung von Mitgliedern des Vorstands 
+(§§ 84, 85 AktG, Art. 9 Abs. 1 lit. (ii) SE-VO) sowie für die Änderung der 
+Satzung Art. 57 SE-VO); ergänzende Bestimmungen aus der Satzung 
+ergeben sich aus § 13.2 der Satzung.
+Befugnisse des Vorstands zur Ausgabe von Aktien 
+Der Vorstand ist ermächtigt, das Grundkapital der Gesellschaft bis 
+zum 21. Mai 2025 mit Zustimmung des Aufsichtsrats durch Ausga-
+be neuer, auf den Inhaber lautender Stückaktien gegen Bar- und/
+oder Sacheinlagen einmalig oder mehrmals um bis zu insgesamt 
+10.051.756,00 Euro zu erhöhen (Genehmigtes Kapital 2020).
+Wird das Grundkapital gegen Bareinlagen erhöht, ist den Aktio-
+nären ein Bezugsrecht zu gewähren. Die Aktien können von Kredit-
+instituten mit der Verpflichtung übernommen werden, sie den Akti-
+onären zum Bezug anzubieten. Der Vorstand ist jedoch ermächtigt, 
+mit Zustimmung des Aufsichtsrats dieses Bezugsrecht der Aktionä-
+re auszuschließen: 
+->	wenn die neuen Aktien zu einem Preis ausgegeben werden, der 
+den Börsenpreis nicht wesentlich unterschreitet und die unter 
+Ausschluss des Bezugsrechts gemäß § 186 Abs. 3 Satz 4 AktG aus-
+gegebenen Aktien insgesamt 10% des Grundkapitals nicht über-
+schreiten, und zwar weder im Zeitpunkt des Wirksamwerdens 
+noch im Zeitpunkt der Ausübung dieser Ermächtigung. Auf die-
+se 10%-Grenze ist die Veräußerung eigener Aktien anzurech-
+nen, sofern sie während der Laufzeit dieser Ermächtigung unter 
+Ausschluss des Bezugsrechts gemäß § 186 Abs. 3 Satz 4 AktG 
+erfolgt. Ferner sind auf diese Grenze diejenigen Aktien anzurech-
+nen, die zur Bedienung von Schuldverschreibungen (einschließ-
+lich Gewinnschuldverschreibungen) mit Wandlungs- oder Opti-
+onsrechten bzw. einer Wandlungspflicht ausgegeben wurden 
+bzw. auszugeben sind, sofern die Schuldverschreibungen bzw. 
+die Gewinnschuldverschreibungen während der Laufzeit dieser 
+Ermächtigung unter Ausschluss des Bezugsrechts in entsprechen-
+der Anwendung des § 186 Abs. 3 Satz 4 AktG ausgegeben wurden;
+->	soweit es erforderlich ist, um den Gläubigern der von der Gesell-
+schaft oder ihren Konzerngesellschaften ausgegebenen Schuld-
+verschreibungen (einschließlich Gewinnschuldverschreibungen) 
+mit Wandlungs- oder Optionsrechten bzw. einer Wandlungs-
+pflicht ein Bezugsrecht auf neue Aktien in dem Umfang einzuräu-
+men, wie es ihnen nach Ausübung ihres Wandlungs- oder Opti-
+onsrechts bzw. nach Erfüllung einer Wandlungspflicht zustünde; 
+->	im Falle der Durchführung einer Kapitalerhöhung gegen Barein-
+lagen zur Ausgabe an Mitarbeiter und Führungskräfte der Gesell-
+schaft, Mitarbeiter verbundener Unternehmen sowie freie Mitar-
+beiter;
+->	zur Durchführung einer sogenannten Aktiendividende („Scrip 
+Dividend“), bei der den Aktionären angeboten wird, ihren Dividen-
+denanspruch ganz oder teilweise als Sacheinlage zum Bezug neuer 
+Aktien in die Gesellschaft einzubringen; 
+->	für Spitzenbeträge.
+Darüber hinaus ist der Vorstand ermächtigt, mit Zustimmung des 
+Aufsichtsrats das Bezugsrecht der Aktionäre bei Kapitalerhöhungen 
+gegen Sacheinlagen auszuschließen. 
+Die Summe der nach dieser Ermächtigung unter Ausschluss 
+des Bezugsrechts gegen Bar- und Sacheinlagen ausgegebenen Akti-
+en darf einen anteiligen Betrag des Grundkapitals von 2.010.351,30 
+Euro (10% des derzeitigen Grundkapitals) nicht übersteigen; auf die-
+se Grenze ist die Veräußerung eigener Aktien anzurechnen, sofern 
+sie während der Laufzeit dieser Ermächtigung unter Ausschluss des 
+Bezugsrechts erfolgt. Ferner sind auf diese Grenze diejenigen Akti-
+en anzurechnen, die zur Bedienung von Schuldverschreibungen 
+(einschließlich Gewinnschuldverschreibungen) mit Wandlungs- 
+oder Optionsrechten bzw. einer Wandlungspflicht ausgegeben wur-
+den bzw. auszugeben sind, sofern die Schuldverschreibungen bzw. 
+die Gewinnschuldverschreibungen während der Laufzeit dieser 
+Ermächtigung unter Ausschluss des Bezugsrechts ausgegeben wur-
+den. Der Vorstand ist ferner ermächtigt, mit Zustimmung des Auf-
+sichtsrats den weiteren Inhalt der Aktienrechte und die Bedingun-
+gen der Aktienausgabe festzulegen.
+
+Befugnisse des Vorstands zur Ausgabe von Wandel- und 
+Optionsschuldverschreibungen
+Das Grundkapital ist um bis zu 10.000.000,00 Euro, eingeteilt in bis 
+zu Stück 10.000.000 auf den Inhaber lautende Aktien bedingt erhöht 
+(Bedingtes Kapital 2020). Die bedingte Kapitalerhöhung wird durch 
+Ausgabe von bis zu 10.000.000 auf den Inhaber lautenden Stückak-
+tien nur insoweit durchgeführt, wie die Inhaber bzw. Gläubiger von 
+Wandelschuldverschreibungen oder von Optionsscheinen aus Opti-
+onsschuldverschreibungen, die aufgrund der Ermächtigung des Vor-
+stands durch die Hauptversammlung vom 22. Mai 2020 von der Elmos 
+Semiconductor SE oder durch eine Konzerngesellschaft der Gesell-
+schaft im Sinne von § 18 AktG bis zum 21. Mai 2025 begeben werden, 
+von ihrem Wandlungs-/Optionsrecht Gebrauch machen, ihrer Wand-
+lungs-/Optionspflicht genügen oder Andienungen von Aktien erfol-
+gen und soweit nicht andere Erfüllungsformen zur Bedienung ein-
+gesetzt werden. Die Ausgabe der neuen Aktien erfolgt zu den nach 
+Maßgabe des vorstehend bezeichneten Ermächtigungsbeschlusses 
+in den Schuldverschreibungs- bzw. Optionsbedingungen jeweils zu 
+bestimmenden Wandlungs-/Optionspreisen.
+Die neuen Aktien nehmen vom Beginn des Geschäftsjahres an, in 
+dem sie durch Ausübung von Wandlungs- bzw. Optionsrechten oder 
+durch Erfüllung von Wandlungspflichten entstehen, am Gewinn 
+teil; abweichend hiervon kann der Vorstand mit Zustimmung des 
+Aufsichtsrats festlegen, dass die neuen Aktien vom Beginn des 
+Geschäftsjahres an, für das im Zeitpunkt der Ausübung von Wand-
+lungs- bzw. Optionsrechten oder der Erfüllung von Wandlungspflich-
+ten noch kein Beschluss der Hauptversammlung über die Verwen-
+dung des Bilanzgewinns gefasst worden ist, am Gewinn teilnehmen.
+Der Vorstand ist ermächtigt, mit Zustimmung des Aufsichtsrats die 
+weiteren Einzelheiten der Durchführung der bedingten Kapitalerhö-
+hung festzusetzen.
+Befugnisse des Vorstands zum Rückkauf von Aktien
+Auf Basis der Ermächtigung der Hauptversammlung vom 16. Mai 
+2018 hatte der Vorstand der Elmos Semiconductor am 16. März 2020 
+mit Zustimmung des Aufsichtsrats beschlossen und angekündigt, 
+den Elmos-Aktionären ein öffentliches Rückkaufangebot in Höhe von 
+17,50 Euro je Aktie für bis zu 1.540.000 Stückaktien der Gesellschaft zu 
+unterbreiten. Im Rahmen dieses Angebots erwarb die Gesellschaft 
+1.539.922 Stückaktien, was einem Anteil 7,66% des Grundkapitals der 
+Gesellschaft entspricht. Nach Abschluss dieses Rückkaufsangebots 
+und unter Berücksichtigung der bereits zuvor erworbenen Aktien hielt 
+die Gesellschaft insgesamt 2.008.921 eigene Aktien; dies entspricht ca. 
+9,99% des Grundkapitals. Zum 31. Dezember 2020 hielt die Gesellschaft 
+insgesamt noch 1.986.206 eigene Aktien bzw. 9,88% des Grundkapi-
+tals. Der Vorstand ist aufgrund des Beschlusses der Hauptversamm-
+lung vom 22. Mai 2020 ermächtigt, mit Zustimmung des Aufsichts-
+rats bis zum 21. Mai 2025 eigene Aktien in Höhe von bis zu insgesamt 
+10% des Grundkapitals zu erwerben. Zusammen mit den gegebenen-
+falls auch aus anderen Gründen erworbenen eigenen Aktien, die sich 
+jeweils im Besitz der Gesellschaft befinden oder ihr nach §§ 71a ff. AktG 
+zuzurechnen sind, dürfen die aufgrund dieser Ermächtigung erwor-
+benen Aktien zu keinem Zeitpunkt 10% des Grundkapitals der Gesell-
+schaft übersteigen. Die Ermächtigung zum Erwerb und zur Verwen-
+dung eigener Aktien kann ganz oder in mehreren Teilbeträgen, einmal 
+oder mehrmals, für einen oder mehrere Zwecke im Rahmen der vor-
+genannten Beschränkung ausgeübt werden. Der Erwerb erfolgt über 
+die Börse oder mittels eines an alle Aktionäre der Gesellschaft gerich-
+teten öffentlichen Kaufangebots oder durch einen Ankauf von einzel-
+nen Aktionären aufgrund individueller Vereinbarung; jedoch nicht 
+von der Weyer Beteiligungsgesellschaft mbH, der ZOE-VVG GmbH, 
+der Jumakos Beteiligungsgesellschaft mbH sowie sonstigen Perso-
+nen, die nach Art. 19 Abs. 1 MAR meldepflichtig sind. Zu den einzelnen 
+Erwerbsarten enthält die Ermächtigung differenzierende Anforde-
+rungen, vor allem hinsichtlich des zulässigen Kaufpreises. Die auf der 
+Grundlage des Beschlusses der ordentlichen Hauptversammlung vom 
+16. Mai 2018 bestehende und bis zum 15. Mai 2023 befristete Ermächti-
+gung zum Erwerb und zur Verwendung eigener Aktien wurde durch 
+die neue Ermächtigung aufgehoben.
+Wesentliche Vereinbarungen, die unter der Bedingung 
+eines Kontrollwechsels in Folge eines Übernahmeange-
+bots stehen, und die daraus folgenden Wirkungen
+Diverse Vereinbarungen, insbesondere einige Kreditverträge, Lie-
+ferverträge, Lizenzverträge, Patentlizenzaustauschverträge, Betei-
+ligungsverträge, 
+Kooperationsverträge, 
+Softwareverträge, 
+Ent-
+wicklungsverträge sowie Förderverträge bzw. -bescheide enthalten 
+„Change of Control“-Klauseln. Diese räumen dem Vertragspartner 
+bei wesentlichen Änderungen der Eigentumsverhältnisse bei Elmos 
+insbesondere die Möglichkeit ein, das Vertragsverhältnis vorzei-
+tig enden zu lassen und/oder Schadensersatzansprüche geltend zu 
+machen. Derartige Klauseln sind im Markt weit verbreitet.
+Entschädigungsvereinbarungen für den Fall eines Über-
+nahmeangebots 
+Die Vorstandsmitglieder sind im Falle eines Kontrollwechsels jeweils 
+berechtigt, ihren Dienstvertrag innerhalb von 3-6 Monaten nach 
+Eintritt des Kontrollwechsels mit einer Frist von 3-6 Monaten zum 
+Monatsende zu kündigen und ihre Ämter zum Zeitpunkt der Been-
+digung ihres Dienstvertrages niederzulegen. Für den Fall der Aus-
+übung dieses Kündigungsrechts steht den Vorstandsmitgliedern 
+jeweils eine Abfindung in Höhe von zwei Jahresvergütungen, höchs-
+tens aber in Höhe der für die Restlaufzeit ihres Dienstvertrages noch 
+zu zahlenden Vergütung zu. Maßgeblich ist dabei die im zuletzt 
+abgelaufenen Geschäftsjahr gezahlte Vergütung. Zudem leistet die 
+Gesellschaft für nachvertragliche Wettbewerbsverbote Karenzent-
+schädigung und kann außergewöhnliche Sonderzahlungen leisten. 
+Außerdem wurden teilweise Regelungen zu Aktienhaltefristen, akti-
+enkursbezogener Vergütung (mit der Gewährung des Zwei- bzw. 
+Dreifachen der im Rahmen der aktienkursbezogenen Tantieme zu 
+gewährenden Aktien) sowie zur Altersversorgung getroffen.
+VERGÜTUNGSBERICHT
+Gesamtbezüge des Vorstands
+Der Aufsichtsrat beschließt und überprüft regelmäßig die Vergü-
+tung und die Vertragselemente für den Vorstand. Die Gesamtver-
+gütung des Vorstands umfasst ein fixes Monatsgehalt, Tantiemen, 
+aktienbasierte Vergütung sowie Nebenleistungen und Pensionszu-
+sagen. Auf eine individualisierte Veröffentlichung der Vergütung 
+wird zur Wahrung der Privatsphäre verzichtet. Eine solche Offenle-
+gung trägt nach Einschätzung von Vorstand und Aufsichtsrat nicht 
+zu einer erweiterten Transparenz in Form von zusätzlichen kapital-
+marktrelevanten Informationen bei. Aufgrund des Beschlusses der 
+Hauptversammlung vom 16. Mai 2018 ist die Gesellschaft von der 
+
+Rechtspflicht zur individualisierten Offenlegung der Vorstandsver-
+gütungen für das Geschäftsjahr 2020 befreit. Entsprechend dem 
+ARUG II wird die Vergütung ab dem Geschäftsjahr 2021 individuali-
+siert veröffentlicht werden.
+Abgesehen von Pensionen, Leistungen aus Versicherungen sowie 
+Entschädigungsvereinbarungen im Falle eines Kontrollwechsels 
+oder infolge eines Wettbewerbsverbots sind für den Fall der vertrags-
+gemäßen Beendigung der Tätigkeit keinem Vorstandsmitglied wei-
+tere Leistungen nach Vertragsende zugesagt worden. Ausgenommen 
+davon ist der Abschluss eines Beratervertrags in 2019 mit Dr. Anton 
+Mindl nach seinem Ausscheiden aus dem Vorstand. Ebenso hat kein 
+Mitglied des Vorstands im abgelaufenen Geschäftsjahr Leistungen 
+oder entsprechende Zusagen von Dritten im Hinblick auf seine Tätig-
+keit als Vorstandsmitglied erhalten. Bereits zugesagte, aktienbasier-
+te Vergütungen können in ihrer Laufzeit die Betriebszugehörigkeit 
+eines Vorstands übertreffen. Darüber hinaus erfolgt die Auszahlung 
+bereits erdienter Tantiemeansprüche im Rahmen des normalen Tur-
+nus auch nach Ende der Vertragslaufzeit.
+Gesamtbezüge des Aufsichtsrats
+Die Vergütung des Aufsichtsrats der AG (bis 30. Juni 2020) war in 
+§ 9 der AG-Satzung festgelegt. Die Vergütung des Aufsichtsrats der SE 
+(ab 1. Juli 2020) wird von der nächsten Hauptversammlung beschlos-
+sen. Die Vergütung der Aufsichtsratsmitglieder wird bisher sum-
+miert, jedoch nicht individualisiert ausgewiesen.
+BEZÜGE DES VORSTANDS 2020
+Fixe Bezüge
+Feste Vergütung1 
+-> 1.070 Tsd. Euro (2019: 1.144 Tsd. Euro)
+Pensionszusagen
+-> 514 Tsd. Euro (2019: 373 Tsd. Euro) 
+-> Als Zahlungen an Rückdeckungs-
+     versicherungen in Höhe der zugesagten 
+     Beitragshöhe einer Unterstützungskasse
+Variable, erfolgsabhängige Bezüge
+Kriterien
+-> Konzernergebnis vor Steuern 
+-> Persönliche, individuelle Ziele gemäß   
+     Vereinbarungen mit dem Aufsichtsrat
+Tantieme
+-> 2.411 Tsd. Euro (2019: 3.028 Tsd. Euro)
+Anteilsbasierte Vergütungen
+Aktienzusagen
+-> 35 Tsd. Euro (2019: 0 Tsd. Euro)
+FRÜHERE VORSTANDSMITGLIEDER BZW. IHRE HINTERBLIEBENEN 2020
+Feste Vergütung/
+Pensionsleistungen
+-> 221 Tsd. Euro (2019: 211 Tsd. Euro)
+Tantieme
+-> 0 Tsd. Euro (2019: 368 Tsd. Euro)
+Versicherungsprämien
+-> 84 Tsd. Euro (2019: 115 Tsd. Euro)  
+Erstattungen aus 
+Rückdeckungsversicherungen
+-> 215 Tsd. Euro (2019: 225 Tsd. Euro)
+Bilanzausweis 
+Pensionsrückstellungen
+-> 1.646 Tsd. Euro (2019: 1.464 Tsd. Euro)
+-> Vollständige Abdeckung durch den Zeitwert   
+    der Rückdeckungsversicherungen
+BEZÜGE DES AUFSICHTSRATS 2020
+Fixe Bezüge
+Feste Vergütung1, 2
+-> 264,0 Tsd. Euro (2019: 82 Tsd. Euro)
+Variable Bezüge
+Tantieme
+-> 112,5 Tsd. Euro (2019: 225 Tsd. Euro)
+Weitere Bezüge
+Vergütung für persönlich 
+erbrachte Leistungen
+-> 0 Tsd. Euro (2019: 24 Tsd. Euro)
+Sonstige Vergütungsregeln
+Aufsichtsratsvorsitzender/
+Stellvertreter
+-> Doppelte/ 1½-fache Vergütung der 
+    festen und variablen Bezüge3
+Aktienbasierte Vergütung
+-> Jeweils 25% der festen und 50% der 
+     variablen Bezüge werden in Elmos-Aktien  
+     mit 3-jähriger Haltefrist geleistet (gilt für die 
+     Vergütung durch die AG bis zum 30. Juni 2020)
+1 Inkl. Nebenleistungen, i.W. Spesen und Auslagen.
+2 Vergütung durch die SE vorbehaltlich der Zustimmung der Hauptversammlung am 20. Mai 2021 und  
+  Auszahlung entsprechend erst nach dem 20. Mai 2021.
+3 Entsprechend der Empfehlung des DCGK.
+ERKLÄRUNG ZUR UNTERNEHMENSFÜHRUNG
+Die im Abschnitt „Informationen für unsere Aktionäre“ des vorlie-
+genden Geschäftsberichts enthaltene Erklärung zur Unternehmens-
+führung nach §§ 289f, 315d HGB ist Bestandteil des zusammengefass-
+ten Lageberichts.
+Dortmund, 8. März 2021
+Dr. Arne Schneider
+Guido Meyer
+ Dr. Jan Dienstuhl
+
+Elmos Semiconductor SE, Dortmund (bis 30.06.2020: Elmos Semiconductor AG)
+Bilanz zum 31. Dezember 2020
+Aktiva
+ 31.12.2019
+Passiva
+ 31.12.2019
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+A.
+Anlagevermögen
+A.
+Eigenkapital
+I.
+Immaterielle Vermögensgegenstände
+I.
+Gezeichnetes Kapital
+20.104
+1
+20.104
+./. Eigene Anteile
+-1.986
+-469
+1.
+Entgeltlich erworbene Software und Lizenzen 
+und ähnliche Rechte und Werte
+4.835
+6.440
+Ausgegebenes Kapital
+18.117
+19.635
+2.
+Geleistete Anzahlungen
+188
+16
+5.023
+6.456
+II.
+Kapitalrücklage
+94.973
+94.462
+II.
+Sachanlagen
+III.
+Gewinnrücklagen
+1.
+Grundstücke und Bauten
+26.960
+27.237
+2.
+Technische Anlagen und Maschinen
+84.294
+88.755
+Andere Gewinnrücklagen
+102
+102
+3.
+Andere Anlagen, Betriebs- und Geschäftsausstattung
+8.509
+9.032
+4.
+Geleistete Anzahlungen und Anlagen im Bau
+3.956
+4.869
+IV. Bilanzgewinn
+167.437
+201.958
+123.719
+129.892
+III.
+Finanzanlagen
+280.629
+316.157
+1.
+Anteile an verbundenen Unternehmen
+9.574
+10.174
+B.
+Rückstellungen
+2.
+Beteiligungen
+1
+1
+3.
+Ausleihungen an Unternehmen, mit denen ein
+Beteiligungsverhältnis besteht
+4.896
+3.021
+1.
+Steuerrückstellungen
+0
+5.372
+4.
+Wertpapiere des Anlagevermögens
+45.044
+17.324
+2.
+Sonstige Rückstellungen
+18.409
+22.245
+5.
+Sonstige Ausleihungen
+15
+15
+6.
+Geleistete Anzahlungen auf Anteile an verbundenen Unternehmen
+2.350
+0
+18.409
+27.617
+61.880
+30.534
+Verbindlichkeiten
+190.622
+166.882
+C.
+B.
+Umlaufvermögen
+Verbindlichkeiten gegenüber Kreditinstituten
+40.431
+40.398
+1.
+Erhaltene Anzahlungen auf Bestellungen
+4.012
+2.693
+I.
+Vorräte
+2.
+Verbindlichkeiten aus Lieferungen und Leistungen
+6.809
+7.451
+3.
+Verbindlichkeiten gegenüber verbundenen Unternehmen
+13.800
+10.403
+1.
+Roh-, Hilfs- und Betriebsstoffe
+12.590
+9.866
+4.
+Verbindlichkeiten gegenüber Unternehmen, mit
+2.
+Unfertige Erzeugnisse
+50.537
+39.691
+5.
+denen ein Beteiligungsverhältnis besteht
+0
+120
+3.
+Fertige Erzeugnisse und Waren
+19.914
+26.758
+Sonstige Verbindlichkeiten
+1.179
+1.886
+4. 
+Geleistete Anzahlungen
+366
+1.725
+6.
+83.407
+78.040
+66.232
+62.951
+II.
+Forderungen und sonstige Vermögensgegenstände
+1.
+Forderungen aus Lieferungen und Leistungen
+35.847
+49.750
+2.
+Forderungen gegen verbundene Unternehmen
+2.762
+2.453
+3.
+Sonstige Vermögensgegenstände
+15.826
+8.755
+54.434
+60.958
+III.
+Wertpapiere
+Sonstige Wertpapiere
+0
+11.003
+IV. Kassenbestand, Guthaben bei Kreditinstituten
+35.028
+88.296
+172.868
+238.297
+C.
+Rechnungsabgrenzungsposten
+1.536
+1.043
+D.
+Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
+244
+503
+365.270
+406.725
+365.270
+406.725
+1 Bedingtes Kapital zum 31. Dezember 2020 in Höhe von TEUR 10.000 (Vj. TEUR 9.220)
+
+Elmos Semiconductor SE, Dortmund (bis 30.06.2020: Elmos Semiconductor AG)
+Gewinn- und Verlustrechnung für 2020
+2019
+TEUR
+TEUR
+TEUR
+1. Umsatzerlöse
+232.211
+272.509
+2. Erhöhung des Bestands an fertigen 
+und unfertigen Erzeugnissen
+2.119
+8.572
+3. Andere aktivierte Eigenleistungen
+348
+381
+4. Sonstige betriebliche Erträge
+15.042
+86.036
+davon Erträge aus Währungsumrechnung
+TEUR 1.528 (Vj. TEUR 712)
+249.721
+367.498
+5. Materialaufwand
+a) Aufwendungen für Roh-, Hilfs- und 
+Betriebsstoffe und für bezogene Waren
+-49.511
+-51.688
+b) Aufwendungen für bezogene Leistungen
+-59.751
+-69.556
+6. Personalaufwand
+a) Löhne und Gehälter
+-61.596
+-67.198
+b) Soziale Abgaben und Aufwendungen 
+für Altersversorgung
+-11.007
+-11.254
+davon für Altersversorgung 
+TEUR -341 (Vj. TEUR -156)
+7. Abschreibungen auf immaterielle Vermögens-
+gegenstände des Anlagevermögens und Sachanlagen
+-24.142
+-26.334
+8. Sonstige betriebliche Aufwendungen
+-43.722
+-57.621
+davon Aufwendungen aus der Währungs-
+umrechnung TEUR -3.247 (Vj. TEUR -1.845)
+-249.728
+-283.650
+9. Erträge aus Beteiligungen
+1.750
+13.590
+davon aus verbundenen Unternehmen 
+TEUR 1.750 (Vj. TEUR 13.590)
+10. Erträge aus Gewinnabführungsverträgen
+525
+538
+davon aus verbundenen Unternehmen 
+TEUR 525 (Vj. TEUR 538)
+11. Erträge aus anderen Wertpapieren und 
+Ausleihungen des Finanzanlagevermögens
+353
+70
+davon aus verbundenen Unternehmen 
+TEUR 0 (Vj. TEUR 0)
+12. Sonstige Zinsen und ähnliche Erträge
+202
+629
+davon aus verbundenen Unternehmen 
+TEUR 74 (Vj. TEUR 191)
+13. Abschreibungen auf Finanzanlagen
+-698
+-89
+14. Zinsen und ähnliche Aufwendungen
+-800
+-726
+davon an verbundene Unternehmen 
+TEUR 0 (Vj. TEUR 0)
+15. Aufwendungen aus Vermögensverrechnung
+-10
+-5
+1.321
+14.007
+16. Steuern vom Einkommen und vom Ertrag
+-623
+-8.273
+17. Ergebnis nach Steuern
+692
+89.581
+18. Sonstige Steuern
+-395
+-403
+19. Jahresüberschuss
+297
+89.178
+20. Gewinnvortrag
+167.140
+112.780
+21. Bilanzgewinn
+167.437
+201.958
+
+ 
+ 
+Elmos Semiconductor SE, Dortmund (bis 30.06.2020: Elmos Semiconductor AG) 
+Anhang für das Geschäftsjahr 2020 
+ 
+ 
+Allgemeine Hinweise 
+Vorstand und Aufsichtsrat der Elmos haben beschlossen, die Umwandlung der Gesell-
+schaft in eine Europäische Aktiengesellschaft (Societas Europaea, SE) vorzunehmen 
+um die internationale Positionierung zu stärken. Die virtuelle Hauptversammlung hat 
+einem entsprechenden Umwandlungsplan am 22. Mai 2020 zugestimmt. Die Eintra-
+gung der Umwandlung ins Handelsregister ist am 1. Juli 2020 erfolgt. Die Gesellschaft 
+firmiert seitdem unter der Elmos Semiconductor SE mit Sitz in Dortmund im Handels-
+register des Amtsgerichts Dortmund unter der Nummer HRB 31940 (bis zum 30. Juni 
+2020 HRB 13698). 
+Infolge der weltweiten COVID-19-Pandemie hat Elmos teilweise signifikante Auswir-
+kungen auf die Vermögens-, Finanz- und Ertragslage zu verzeichnen. Insbesondere 
+die Umsatzerlöse blieben deutlich unter Vorjahresniveau. Korrespondierende Aufwen-
+dungen sowie Fixkosten wurden soweit möglich reduziert. Im Laufe des Jahres waren 
+alle Fertigungsbereiche sowie wesentliche Teile der Verwaltung in Kurzarbeit. In die-
+sem Zuge verzichteten Vorstand, Führungskräfte sowie die nicht von der Kurzarbeit 
+betroffenen Mitarbeiter freiwillig solidarisch auf Teile ihrer Entlohnung. Im vierten Quar-
+tal 2020 gab es eine deutliche Belebung des Geschäfts mit starkem sequentiellen 
+Wachstum. Die Kurzarbeit wurde gegen Ende des Jahres eingestellt. Die Investitionen 
+lagen als Reaktion auf die Pandemie auf einem niedrigen Niveau.  
+Die Kooperation mit dem Fraunhofer-Institut für Mikroelektronische Schaltungen und 
+Systeme IMS in Duisburg ist mit Ablauf der vereinbarten Vertragslaufzeit zum 30. Juni 
+2020 beendet worden. 
+Der vorliegende Jahresabschluss wurde gemäß §§ 242 ff. und §§ 264 ff. HGB sowie 
+nach den einschlägigen Vorschriften des AktG und der Satzung aufgestellt. Es gelten 
+die Vorschriften für große Kapitalgesellschaften. 
+Die Gewinn- und Verlustrechnung ist nach dem Gesamtkostenverfahren gegliedert. 
+Um die Klarheit der Darstellung zu verbessern, haben wir einzelne Posten der Bilanz 
+sowie der Gewinn- und Verlustrechnung zusammengefasst und daher in diesem An-
+hang gesondert aufgegliedert und erläutert. Aus dem gleichen Grunde wurden die An-
+gaben zur Mitzugehörigkeit zu anderen Posten und davon-Vermerke ebenfalls an die-
+ser Stelle gemacht. 
+Bilanzierungs- und Bewertungsmethoden 
+Für die Aufstellung des Jahresabschlusses waren im Wesentlichen unverändert die 
+nachfolgenden Bilanzierungs- und Bewertungsmethoden maßgebend. 
+
+ 
+ 
+Erworbene immaterielle Vermögensgegenstände sind zu Anschaffungskosten bilan-
+ziert und werden, sofern sie der Abnutzung unterliegen, entsprechend ihrer Nutzungs-
+dauer um planmäßige Abschreibungen (3 - 20 Jahre, lineare Methode) vermindert. 
+Das Sachanlagevermögen ist zu Anschaffungs- bzw. Herstellungskosten angesetzt 
+und wird, soweit abnutzbar, um planmäßige Abschreibungen vermindert. 
+Die Vermögensgegenstände des Sachanlagevermögens werden nach Maßgabe 
+der voraussichtlichen Nutzungsdauer abgeschrieben. Für Technische Anlagen und 
+Maschinen sowie Andere Anlagen, Betriebs- und Geschäftsausstattung, die vor dem 
+1. Januar 2008 zugegangen sind, wird zum Teil die degressive Abschreibungsmethode 
+angewandt. Zur linearen Methode wird in dem Jahr, für welches die lineare Methode 
+erstmals zu höheren Jahresabschreibungsbeträgen führt, übergegangen. Die übrigen 
+Anlagegüter werden linear abgeschrieben. Geringwertige Anlagegüter bis zu einem 
+Netto-Einzelwert von EUR 250,00 sind im Jahr des Zugangs voll abgeschrieben bzw. 
+als Aufwand erfasst worden; ihr sofortiger Abgang wurde unterstellt. Für Anlagegüter 
+mit einem Netto-Einzelwert von mehr als EUR 250,00 bis EUR 1.000,00 die nach dem 
+31. Dezember 2007 angeschafft worden sind, wird das steuerliche Sammelpostenver-
+fahren aus Vereinfachungsgründen auch in der Handelsbilanz angewandt. Der Sam-
+melposten wird pauschalierend jeweils mit 20 % p. a. im Zugangsjahr und in den vier 
+darauffolgenden Jahren abgeschrieben. Die Abschreibungen auf Zugänge des Sach-
+anlagevermögens werden im Übrigen zeitanteilig vorgenommen.  
+Erhaltene Investitionszuschüsse sowie freie Investitionszulagen werden berücksichtigt, 
+indem die Anschaffungs- oder Herstellungskosten des entsprechenden Vermögens-
+werts um den Betrag des Zuschusses gekürzt werden.  
+Die im Anlagevermögen ausgewiesenen Ersatzteile werden linear über 10 Jahre ab-
+geschrieben. 
+Bei den Finanzanlagen werden die Anteilsrechte und Wertpapiere zu Anschaffungs-
+kosten bzw. niedrigeren beizulegenden Werten und die Ausleihungen grundsätzlich 
+zum Nennwert angesetzt. 
+Die Vorräte werden zu Anschaffungs- und Herstellungskosten bzw. zu den niedrigeren 
+Tageswerten angesetzt. Die Bestände an Roh-, Hilfs- und Betriebsstoffen sind zu 
+durchschnittlichen Einstandspreisen oder zu niedrigeren Tagespreisen am Bilanzstich-
+tag aktiviert. 
+Für ein Freihand- sowie ein Ersatzteillager wurden Festwerte gebildet. 
+Die unfertigen und fertigen Erzeugnisse sind auf der Basis von Einzelkalkulationen, 
+die auf der aktuellen Betriebsabrechnung beruhen, zu Herstellungskosten bewertet, 
+wobei neben den direkt zurechenbaren Materialeinzelkosten, Fertigungslöhnen und 
+Sondereinzelkosten auch Fertigungs- und Materialgemeinkosten sowie Abschreibun-
+gen berücksichtigt werden. In allen Fällen wurde verlustfrei bewertet, d. h. es wurden 
+
+ 
+ 
+von den voraussichtlichen Verkaufspreisen Abschläge für noch anfallende Kosten vor-
+genommen. 
+Alle erkennbaren Risiken im Vorratsvermögen, die sich aus überdurchschnittlicher 
+Lagerdauer, geminderter Verwertbarkeit und niedrigeren Wiederbeschaffungskosten 
+ergeben, sind durch angemessene Abwertungen berücksichtigt.  
+Abgesehen von handelsüblichen Eigentumsvorbehalten sind die Vorräte frei von Rech-
+ten Dritter. 
+Forderungen und sonstige Vermögensgegenstände sind zum Nennwert angesetzt. 
+Allen risikobehafteten Posten ist durch die Bildung angemessener Einzelwertberichti-
+gungen Rechnung getragen; das allgemeine Kreditrisiko ist durch pauschale Abschlä-
+ge berücksichtigt. Unverzinsliche oder niedrig verzinsliche Forderungen mit einer Lauf-
+zeit von mehr als einem Jahr sind abgezinst. 
+Die sonstigen Wertpapiere des Umlaufvermögens wurden zu Anschaffungskosten 
+oder gegebenenfalls nach § 253 Abs. 4 HGB zu niedrigeren Werten, die sich aus den 
+Börsen- oder Marktpreisen am Stichtag ergeben und Zahlungsmittel mit dem Nenn-
+wert, angesetzt. 
+Als aktive Rechnungsabgrenzungsposten werden Ausgaben vor dem Abschluss-
+stichtag ausgewiesen, soweit sie Aufwand für eine bestimmte Zeit nach diesem Tag 
+darstellen. 
+Das Eigenkapital ist zum Nennwert angesetzt. 
+Die ausschließlich der Erfüllung der Altersversorgungsverpflichtungen dienenden, dem 
+Zugriff aller übrigen Gläubiger entzogenen Vermögensgegenstände (Deckungsvermö-
+gen i.S.d. § 246 Abs. 2 Satz 2 HGB) wurden mit ihrem beizulegenden Zeitwert mit den 
+Rückstellungen verrechnet. Die Rückstellungen für Pensionen werden nach dem 
+modifizierten Teilwertverfahren unter Verwendung der „Richttafeln 2018 G“ ermittelt. 
+Für die Abzinsung wurde pauschal der durchschnittliche Marktzinssatz bei einer restli-
+chen Laufzeit von 15 Jahren von 2,31 % (Vj. 2,71 %) verwendet. Der Rechnungszins 
+beruht auf dem durchschnittlichen Marktzinssatz der vergangenen zehn Jahre. Der für 
+die Vergleichsberechnung gemäß § 253 Abs. 6 HGB benötigte durchschnittliche 
+Marktzinssatz der vergangenen sieben Jahre ergibt sich auf die gleiche Weise und 
+zum gleichen Zeitpunkt und beträgt 1,61 % (Vj. 1,97 %). Erwartete Rentensteigerungen 
+wurden mit 1,5 % (Vj. 1,5 %) angesetzt. Erwartete Gehaltssteigerungen wurden wie im 
+Vorjahr nicht berücksichtigt, da die betreffenden Anspruchsberechtigten bereits im Ru-
+hestand sind. Die Fluktuation wurde dementsprechend mit einer Rate von 0 % berück-
+sichtigt. 
+Die Steuerrückstellungen und die sonstigen Rückstellungen berücksichtigen alle 
+ungewissen Verbindlichkeiten und drohenden Verluste aus schwebenden Geschäften. 
+Sie sind in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfül-
+lungsbetrags (d. h. einschließlich zukünftiger Kosten- und Preissteigerungen) ange-
+setzt. Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr werden mit dem 
+
+ 
+ 
+ihrer entsprechenden und von der Deutschen Bundesbank veröffentlichten durch-
+schnittlichen Marktzinssatz abgezinst.  
+Die Rückstellung für Garantieleistungen und Produkthaftung betrifft Verpflichtungen 
+aus Produktverkäufen und wird für konkrete bereits bekannte Einzelmaßnahmen sowie 
+für geschätzte zukünftige Maßnahmen unter Berücksichtigung bisheriger Schadensver-
+läufe ermittelt.  
+Die Berechnung der Bonus-/Tantiemerückstellungen erfolgt über den vertraglich ver-
+einbarten Jahresplanbonus des jeweiligen Mitarbeiters. 
+Die Rückstellung der Stock-Options wurde am Tag der Gewährung unter Anwendung 
+der Black-Scholes-Methode zur Optionsberechnung berechnet.   
+Die Grundlage der Berechnung der Rückstellung für ausstehende Rechnungen bilden 
+die getätigten Bestellungen.  
+Eine Rückstellung für Restrukturierungsmaßnahmen wird erfasst, sobald die Gesell-
+schaft einen detaillierten und formalen Restrukturierungsplan genehmigt hat und die 
+Restrukturierungsmaßnahmen entweder begonnen haben oder öffentlich angekündigt 
+wurden. 
+Verbindlichkeiten sind zum Erfüllungsbetrag angesetzt. Zuschüsse auf Entwicklungs-
+leistungen werden als erhaltene Anzahlungen auf Bestellungen ausgewiesen.  
+Für die Ermittlung latenter Steuern aufgrund von temporären oder quasi-permanenten 
+Differenzen zwischen den handelsrechtlichen Wertansätzen von Vermögensgegen-
+ständen, Schulden und Rechnungsabgrenzungsposten und ihren steuerlichen Wertan-
+sätzen oder aufgrund steuerlicher Verlustvorträge werden die Beträge der sich erge-
+benden Steuerbe- und -entlastung mit den unternehmensindividuellen Steuersätzen im 
+Zeitpunkt des Abbaus der Differenzen bewertet und nicht abgezinst. Aktive und passi-
+ve Steuerlatenzen werden verrechnet. Die Aktivierung latenter Steuern unterbleibt in 
+Ausübung des dafür bestehenden Ansatzwahlrechts. 
+Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten 
+wurden grundsätzlich mit dem Devisenkassamittelkurs zum Abschlussstichtag umge-
+rechnet. Bei einer Restlaufzeit von mehr als einem Jahr wurde dabei das Realisations-
+prinzip (§ 252 Abs. 1 Nr. 4 Halbsatz 2 HGB) und das Anschaffungskostenprinzip (§ 253 
+Abs. 1 Satz 1 HGB) beachtet. 
+ 
+ 
+
+ 
+ 
+Erläuterungen zur Bilanz 
+Anlagevermögen 
+Die Entwicklung der einzelnen Posten des Anlagevermögens ist unter Angabe der Ab-
+schreibungen des Geschäftsjahres im Anlagenspiegel dargestellt. 
+Finanzanlagen 
+Die Geleisteten Anzahlungen auf Anteile an verbundenen Unternehmen sind aufgrund 
+der vorzeitigen Kaufpreiszahlung der Anteile an der Online Engineering GmbH, Dort-
+mund, um TEUR 2.350 gestiegen.  
+Unter den Wertpapieren des Anlagevermögens wird der Teil der Investitionen in Anlei-
+hen ausgewiesen, der eine Laufzeit von mehr als einem Jahr aufweist (TEUR 45.044, 
+Vj. TEUR 17.324). 
+Im Geschäftsjahr 2020 ergaben sich in Ausübung des Bewertungswahlrechts nach 
+§ 253 Abs. 3 Satz 4 HGB Abschreibungen auf Wertpapiere des Anlagevermögens in 
+Höhe von TEUR 98 (Vj. TEUR 89). 
+
+ 
+ 
+Angaben zum Anteilsbesitz 
+Währung
+Beteiligung Eigenkapital 
+Ergebnis 
+ % 
+in Tsd. 
+in Tsd. 
+Inland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DMOS Dresden MOS Design GmbH, Dresden 
+EUR
+74,80 
+2.470 
+218 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Epigone Grundstücksverwaltungsgesellschaft  
+mbH & Co. Vermietungs KG, Mainz 
+EUR
+ 
+6,00 
+21 
+22 1 
+ 
+ 
+ 
+GED Electronic Design GmbH, Frankfurt/Oder 
+EUR
+ 
+100,00 
+898 
+0 1 3 
+ 
+ 
+ 
+ 
+ 
+ 
+Mechaless Systems GmbH, Bruchsal 
+EUR
+100,00 
+212 
+-169 1 
+MAZ Mikroelektronik-Anwendungszentrum GmbH 
+im Land Brandenburg, Berlin 
+EUR
+100,00 
+2.125 
+979 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Ausland 
+ 
+ 
+ 
+Elmos Services B.V., Nijmegen (NL) 
+EUR
+100,00 
+11.157 
+4.895 1 
+Elmos Semiconductor B.V., Nijmegen (NL) 
+EUR
+100,00 
+-1.163 
+-66 1 2 
+European Semiconductor Assembly (eurasem) 
+B.V., Nijmegen (NL) 
+EUR
+ 
+100,00 
+316 
+25 1 2 
+Micro Systems on Silicon (MOS), Limited,  
+Pretoria (Südafrika) 
+ZAR
+51,00 
+- 
+-4 
+Elmos N.A. Inc., Farmington Hills (USA) 
+USD
+100,00 
+1.585 
+73 1 
+Elmos Korea Co. Ltd., Seoul (Korea) 
+KRW
+100,00 
+194.268 
+77.788 1 
+ 
+ 
+ 
+Elmos Semiconductor Singapore Pte. Ltd., Singa-
+pur 
+SGD
+100,00 
+770 
+62 1 
+ 
+ 
+ 
+Elmos Semiconductor Technology (Shanghai) Co.,  
+      Ltd., Shanghai (China) 
+CNY
+100,00 
+4.561 
+722 1 2 
+Elmos Japan K.K., Tokyo (Japan) 
+JPY
+100,00 
+51.292 
+5.8631 
+Omniradar B.V., Eindhoven (NL) 
+EUR
+45,71 
+- 
+-4 
+ 
+ 
+ 
+ 
+                                               
+1 Die vorgelegten Zahlen beruhen auf vorläufigen, ungeprüften Abschlüssen zum 31. Dezember 2020. 
+2 Es handelt sich um mittelbaren Anteilsbesitz der Elmos Semiconductor SE, Dortmund. 
+3 Ergebnisabführungsvertrag 
+4 Es liegt noch kein Abschluss der Gesellschaft vor. 
+ 
+
+ 
+ 
+Forderungen und sonstige Vermögensgegenstände 
+Die Forderungen gegen verbundene Unternehmen betreffen in Höhe von TEUR 1.081 
+(Vj. TEUR 824) Forderungen aus Lieferungen und Leistungen. Die restlichen Forde-
+rungen gegen verbundene Unternehmen betreffen in Höhe von TEUR 1.156 (Vj. TEUR 
+1.091) Darlehensforderungen sowie in Höhe von TEUR 525 (Vj. TEUR 538) Forderun-
+gen aus einem Ergebnisabführungsvertrag. Sämtliche Forderungen gegen verbundene 
+Unternehmen haben wie im Vorjahr eine Restlaufzeit bis zu einem Jahr. 
+Die sonstigen Vermögensgegenstände haben bis auf einen Betrag in Höhe von 
+TEUR 14 (Vj. TEUR 42) eine Restlaufzeit bis zu einem Jahr.  
+ 
+Sonstige Wertpapiere  
+Unter den sonstigen Wertpapieren wird der Teil der Anleihen ausgewiesen, bei denen 
+die Laufzeit bis zu einem Jahr beträgt (TEUR 0, Vj. TEUR 11.003).  
+ 
+Latente Steuern  
+Aktive latente Steuern werden in Höhe der passiven latenten Steuern angesetzt. Der 
+sich insgesamt ergebende aktive Überhang wird aufgrund des Wahlrechts gemäß § 
+274 Abs. 1 Satz 2 HGB nicht angesetzt. Der aktive latente Steuerüberhang resultiert 
+aus folgenden Sachverhalten: 
+ 
+31.12.2020 
+ 
+31.12.2019 
+ 
+TEUR 
+ 
+TEUR 
+Latente Steuerschulden auf Differenzen 
+ 
+ 
+ 
+ 
+bilanzieller Wertansätze für 
+ 
+ 
+ 
+Beteiligungen 
+39 
+ 
+41 
+Rücklagen 
+216 
+ 
+216 
+Rückstellungen für Pensionen 
+605 
+ 
+650 
+Sonstige Verbindlichkeiten 
+66 
+ 
+12 
+ 
+926 
+ 
+919 
+Latente Steueransprüche auf Differenzen 
+bilanzieller Wertansätze für 
+ 
+ 
+ 
+Geschäfts- oder Firmenwert 
+238 
+ 
+285 
+Beteiligungen 
+36 
+ 
+36 
+Anteile an verbundenen Unternehmen 
+175 
+ 
+164 
+Forderungen aus Rückdeckungsversicherung 
+772 
+ 
+784 
+Sonstige Vermögensgegenstände 
+37 
+ 
+166 
+Sonstige Wertpapiere 
+91 
+ 
+76 
+Kassenbestand, Guthaben bei Kreditinstituten 
+1.060 
+ 
+420 
+Sonstige Rückstellungen 
+249  
+249 
+ 
+2.658 
+ 
+2.180 
+ 
+ 
+  
+Latente Steueransprüche netto 
+1.732 
+ 
+1.262 
+ 
+Der Berechnung wurde ein Steuersatz von 32,805 % (Vorjahr: 32,805 %) zugrunde ge-
+legt.  
+
+ 
+ 
+ Aktiver Unterschiedsbetrag aus Vermögensverrechnung 
+Der aktive Unterschiedsbetrag resultiert aus der Saldierung nach § 246 Abs. 2 Satz 
+2 HGB von Altersversorgungsverpflichtungen mit Vermögensgegenständen, die aus-
+schließlich der Erfüllung der Altersversorgungsverpflichtungen dienen und dem Zugriff 
+aller übrigen Gläubiger entzogen sind (Deckungsvermögen i. S. d. § 246 Abs. 2 Satz 2 
+HGB).  
+Angaben zur Verrechnung nach § 246 Abs. 2 Satz 2 HGB:  
+ 
+TEUR 
+Erfüllungsbetrag der verrechneten Schulden 
+1.415 
+Anschaffungskosten der Vermögensgegenstände 
+1.675 
+Beizulegender Zeitwert der Vermögensgegenstände 
+1.675 
+Verrechnete Aufwendungen 
+33 
+Verrechnete Erträge 
+23 
+ 
+Die Pensionsrückstellungen wurden für ehemalige Mitglieder des Vorstands bzw. de-
+ren Hinterbliebene gebildet. 
+Der Unterschiedsbetrag nach § 253 Abs. 6 HGB zwischen dem Ansatz der Pensionen 
+und ähnlichen Verpflichtungen nach Maßgabe des entsprechenden durchschnittlichen 
+Marktzinssatzes aus den vergangenen zehn Geschäftsjahren und dem Ansatz der 
+Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssat-
+zes aus den vergangenen sieben Geschäftsjahren beträgt zum 31. Dezember 2020 
+TEUR 98 und unterliegt einer Ausschüttungssperre. Den ausschüttungsgesperrten Be-
+trägen steht der Bilanzgewinn von TEUR 167.437 gegenüber. Eine Ausschüttungs-
+sperre hinsichtlich des Jahresüberschusses von TEUR 297 besteht daher nicht.  
+ 
+Eigenkapital 
+Das in der Bilanz zum 31. Dezember 2020 aus 20.103.513 auf den Inhaber lautenden, 
+nennwertlosen Stückaktien bestehende Grundkapital in Höhe von EUR 20.103.513 ist 
+voll eingezahlt.  
+Zum 31. Dezember 2020 hält die Gesellschaft 1.986.206 eigene Anteile ohne Nenn-
+wert mit einem rechnerischen Anteil am Grundkapital von insgesamt EUR 1.986.206 
+(9,88 % des Grundkapitals). Diese Anteile resultieren aus Aktienrückkäufen in 2010, 
+2012, 2013, 2017, 2018, 2019 und 2020. In 2010 wurden in mehreren Tranchen 
+119.607 Aktien im Zeitraum vom 7. Juni bis 12. August 2010 zu einem durchschnittli-
+chen Aktienpreis von EUR 7,034, in 2012 wurden in mehreren Tranchen 160.602 Ak-
+tien vom 28. August 2012 bis 27. Dezember 2012 zu einem durchschnittlichen Aktien-
+preis von EUR 6,953 und in 2013 wurden in mehreren Tranchen 188.181 Aktien vom 2. 
+Januar 2013 bis 28. März 2013 zu einem durchschnittlichen Aktienpreis von EUR 
+8,101 zur Verwendung für Zwecke gemäß der Ermächtigung der Hauptversammlung 
+
+ 
+ 
+vom 17. Mai 2011 erworben. In 2017 wurden in mehreren Tranchen 450.000 Aktien im 
+Zeitraum vom 7. März 2017 bis zum 23. Juni 2017 zu einem durchschnittlichen Aktien-
+preis von EUR 21,492 zur Verwendung für Zwecke gemäß der Ermächtigung der 
+Hauptversammlung vom 8. Mai 2015 erworben. In 2018 wurden in mehreren Tranchen 
+44.662 Aktien im Zeitraum vom 17. Dezember 2018 bis zum 28. Dezember 2018 zu 
+einem durchschnittlichen Aktienpreis von EUR 18,553 und in 2019 wurden in mehreren 
+Tranchen 128.136 Aktien im Zeitraum vom 2. Januar 2019 bis zum 1. August 2019 zu 
+einem durchschnittlichen Aktienpreis von EUR 20,154 zur Verwendung für Zwecke 
+gemäß der Ermächtigung der Hauptversammlung vom 16. Mai 2018 erworben. In 2020 
+wurden auf Basis dieser Ermächtigung den Elmos-Aktionären ein öffentliches Rück-
+kaufangebot in Höhe von EUR 17,50 je Aktie für bis zu 1.540.000 Stückaktien unter-
+breitet. Bis zum 31. März 2020 wurden im Rahmen dieses Rückkaufangebotes 
+1.539.922 Aktien zu dem Preis in Höhe von EUR 17,50 zurückerworben. Die Differenz 
+zwischen rechnerischem Anteil am Grundkapital und Kaufpreis wurde gegen den Bi-
+lanzgewinn gebucht (in 2010 EUR 721.709,00; in 2012 EUR 956.069,46; in 2013 EUR 
+1.336.361,83; in 2017 EUR 9.221.616,78; in 2018 EUR 783.968,26; in 2019 EUR 
+2.454.266,63 und in 2020 EUR 25.408.713,00). In 2011 sind von diesen Anteilen 
+13.676, in 2012 26.487, in 2013 45.840, in 2014 26.672, in 2015 22.683, in 2016 
+31.257, in 2017 16.650, in 2018 104.130, in 2019 14.119 und in 2020 22.715 als Ver-
+gütungsbestandteile übertragen worden, bei gleichzeitiger Rückübertragung von 
+12.000 Anteilen in 2016. Durch diese Übertragungen/Rückabwicklungen, durch die 
+Gewährung weiterer Gratisaktien an ausgewählte Mitarbeiter und durch die Fortfüh-
+rung des im Jahr 2014 eingeführten „Share Matching Programmes“ hat sich die Kapi-
+talrücklage um EUR 87.961,00 in 2011, um EUR 159.009,47 in 2012, um EUR 
+260.835,43 in 2013, um EUR 298.144,99 in 2014, um EUR 383.949,89 in 2015, um 
+EUR 339.631,07 in 2016, um EUR 511.841,54 in 2017, um EUR 364.873,49 in 2018 
+um EUR 379.987,48 in 2019 und um EUR 510.959,04 in 2020 erhöht. Zusätzlich wur-
+den in 2013 54.690, in 2014 20.200, in 2015 43.555, in 2016 2.450 und in 2017 
+211.780 eigene Anteile zur Bedienung der Aktienoptionsprogramme verwendet. Infol-
+gedessen und durch Ausübung weiterer Aktienoptionen aus Aktienoptionsprogrammen 
+hat sich die Kapitalrücklage in 2012 zusätzlich um EUR 687.191,14 in 2013 um EUR 
+387.316,61 in 2014 um EUR 1.247.109,22 in 2015 um EUR 955.508,83 in 2016 um 
+EUR 1.331.889,10 in 2017 um EUR 1.786.997,69 in 2018 um EUR 186.569,49 und in 
+2019 um EUR 199.720,16 erhöht. Ab 2018 ist den Optionsinhabern aus den Aktienop-
+tionsprogrammen bei Ausübung ihrer Bezugsrechte ein Barausgleich gewährt worden. 
+Hierdurch hat sich der Bilanzgewinn um EUR 1.623.214,59 in 2018 und um EUR 
+1.698.649,32 in 2019 vermindert. 
+Der Vorstand ist ermächtigt, das Grundkapital der Gesellschaft bis zum 21. Mai 2025 
+mit Zustimmung des Aufsichtsrats durch Ausgabe neuer, auf den Inhaber lautender 
+Stückaktien gegen Bar- und/oder Sacheinlagen einmalig oder mehrmals um bis zu ins-
+gesamt EUR 10.051.756 zu erhöhen (Genehmigtes Kapital 2020).  
+Das Grundkapital ist um bis zu EUR 10.000.000,00 bedingt erhöht (Bedingtes Kapital 
+2020). Die bedingte Kapitalerhöhung wird durch Ausgabe von bis zu 10.000.000 auf 
+den Inhaber lautenden Stückaktien nur insoweit durchgeführt, wie die Inhaber bzw. 
+Gläubiger von Wandelschuldverschreibungen oder von Optionsscheinen aus Options-
+schuldverschreibungen, die aufgrund der Ermächtigung des Vorstands durch die 
+
+ 
+ 
+Hauptversammlung vom 22. Mai 2020 von der Elmos Semiconductor Aktiengesell-
+schaft oder durch eine Konzerngesellschaft der Gesellschaft im Sinne von § 18 AktG 
+bis zum 21. Mai 2025 begeben werden, von Ihrem Wandlungs-/Optionsrecht Gebrauch 
+machen, ihrer Wandlungs-/Optionspflicht genügen oder Andienung von Aktien erfolgen 
+und soweit nicht andere Erfüllungsformen zur Bedienung eingesetzt werden.  
+Der Vorstand ist aufgrund des Beschlusses der Hauptversammlung vom 22. Mai 2020 
+ermächtigt, bis zum 21. Mai 2025 mit Zustimmung des Aufsichtsrats eigene Aktien zu 
+erwerben. Die Ermächtigung ist auf den Erwerb von Aktien, auf die ein Anteil am 
+Grundkapital in Höhe von bis zu insgesamt 10 % des derzeitigen Grundkapitals entfällt, 
+beschränkt. Die Ermächtigung kann ganz oder in mehreren Teilbeträgen, einmal oder 
+mehrmals, für einen oder mehrere Zwecke im Rahmen der vorgenannten Beschrän-
+kung ausgeübt werden. 
+ 
+Bilanzgewinn 
+ 
+2020 
+ 
+2019 
+ 
+TEUR 
+ 
+TEUR 
+Jahresüberschuss 
+297 
+ 
+89.178 
+Bilanzgewinn des Vorjahres 
+201.958 
+ 
+127.151 
+Gewinnausschüttung 
+-9.409 
+ 
+-10.218 
+Rückkauf eigener Anteil 
+-25.409 
+ 
+-2.454 
+Barausgleich Aktienoptionsprogramm 
+0 
+ 
+-1.699 
+Bilanzgewinn des laufenden Jahres 
+167.437 
+ 
+201.958 
+ 
+Im Bilanzgewinn ist ein Gewinnvortrag von EUR 167.140.070,44 enthalten; im Übrigen 
+verweisen wir auf den nachfolgenden Vorschlag zur Verwendung des Bilanzgewinns. 
+ 
+ 
+ 
+Rückstellungen 
+Die Steuerrückstellungen betreffen betriebliche Steuern. 
+Die sonstigen Rückstellungen wurden im Wesentlichen für diverse Personalthemen 
+(i.W. Boni/Tantieme, Stock-Options) (TEUR 8.162) sowie Rückstellungen für Garantie-
+leistungen und Produkthaftung (TEUR 3.910) gebildet.  
+ 
+Verbindlichkeiten 
+Die Restlaufzeiten der Verbindlichkeiten sind im nachfolgenden Verbindlichkeitenspie-
+gel im Einzelnen dargestellt.  
+ 
+
+ 
+ 
+Verbindlichkeitenspiegel in TEUR 
+Restlaufzeit 
+Art der Verbindlichkeit 
+gesamt
+unter 
+1 bis 5
+über 5
+gesamt
+31.12.2020
+1 Jahr 
+Jahre
+Jahre 31.12.2019
+1. Verbindlichkeiten 
+ 
+gegenüber Kreditinstituten 
+40.431
+431 
+26.000
+14.000
+40.398
+2. Erhaltene Anzahlungen auf  
+Bestellungen 
+4.012
+4.012 
+0
+0
+2.693
+3. Verbindlichkeiten aus 
+ 
+Lieferungen und Leistungen 
+6.809
+5.595 
+1.214
+0
+7.451
+4. Verbindlichkeiten gegenüber 
+ 
+verbundenen Unternehmen 
+13.800
+13.800 
+0
+0
+10.403
+5. Verbindlichkeiten gegenüber 
+ 
+Unternehmen, mit denen ein 
+ 
+Beteiligungsverhältnis besteht 
+0
+0 
+0
+0
+120
+6. Sonstige Verbindlichkeiten 
+1.179
+1.179 
+0
+0
+1.886
+- davon aus Steuern 
+857
+ 
+(Vorjahr) 
+(1.413)
+ 
+- davon im Rahmen der 
+ 
+sozialen Sicherheit 
+0
+ 
+(Vorjahr) 
+(0)
+ 
+ 
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen betreffen in Höhe von 
+TEUR 13.800 (Vj. TEUR 10.403) Verbindlichkeiten aus Lieferungen und Leistungen. 
+ 
+Angabe von Art und Form der Sicherheiten 
+Die Darlehen wie auch die Betriebsmittellinien sind unbesichert vergeben. Die Verbind-
+lichkeiten aus Lieferungen und Leistungen sind, bis auf branchenüblich verlängerte Ei-
+gentumsvorbehalte von Lieferanten, im Wesentlichen nicht besichert. Die sonstigen 
+Verbindlichkeiten sind ebenfalls nicht besichert. 
+ 
+Haftungsverhältnisse 
+Im Rahmen einer Leasingstruktur hat sich Elmos gesamtschuldnerisch nachrangig mit-
+verpflichtet, Miet- und Mieterdarlehenszahlungen zu leisten. Bis Ende 2023 sind fixe 
+Zahlungen vereinbart. Zum Stichtag 31. Dezember 2020 betragen die kumulierten 
+Restmietzahlungen bis 2023 TEUR 360 (inkl. Verwaltungskostenbeitrag) und die 
+Restmieterdarlehenszahlungen bzw. -vorauszahlungen TEUR 230. Das Risiko der In-
+anspruchnahme wird aufgrund der geordneten Vermögens-, Finanz- und Ertragslage 
+der Gesellschaft als gering eingeschätzt. 
+In den Wertpapieren des Anlagevermögens und den sonstigen Wertpapieren sind in 
+Höhe von TEUR 3.000 Schuldscheindarlehen enthalten, die mit einer Credit Linked No-
+te-Komponente ausgestattet sind. Hierbei steht die Gesellschaft für mögliche Forde-
+rungsausfälle eines Dritten ein. Das maximale Ausfallrisiko ist auf den Nominalwert der 
+
+ 
+ 
+Papiere (TEUR 3.000) beschränkt; zum Abschlussstichtag 31. Dezember 2020 gibt es 
+keine Anhaltspunkte für eine Inanspruchnahme der Elmos Semiconductor SE. 
+Für ein im Geschäftsjahr 2019 veräußertes verbundenes Unternehmen besteht noch 
+(voraussichtlich) übergangsweise eine Garantie in Höhe von TUSD 6.767. Aus heutiger 
+Sicht rechnet Elmos mit keiner Inanspruchnahme. 
+Elmos hat für verbundene Unternehmen eine Bürgschaft gegenüber einem Lieferanten 
+abgegeben. Diese Garantie besagt, dass die Gesellschaft bis zu einem Betrag in Höhe 
+von TUSD 1.000 für alle aus dem Lieferantenverhältnis entstehenden Zahlungsver-
+pflichtungen der verbundenen Unternehmen einsteht. Die Bürgschaft wurde für den 
+Zeitraum vom 1. Januar 2017 bis zum 31. Dezember 2020 gewährt. Das Risiko der In-
+anspruchnahme wird als gering eingeschätzt.   
+ 
+Derivative Finanzinstrumente 
+Die Gesellschaft hat in 2020 diverse währungsbezogene Sicherungsgeschäfte abge-
+schlossen. Hierbei handelt es sich um Devisentermin-/Devisenoptionsgeschäfte für die 
+Währung USD. Die bilanziellen Auswirkungen zum Stichtag 31. Dezember 2020 be-
+schränken sich für die bis zum Ende des Jahres ausgelaufenen Geschäfte auf die er-
+zielten Kursgewinne in Höhe von TEUR 181 (Vj. TEUR 985) und Kursverluste in Höhe 
+von TEUR 0 (Vj. TEUR 78), die unter den sonstigen betrieblichen Erträgen bzw. Auf-
+wendungen ausgewiesen wurden. Für die über den Stichtag 31. Dezember 2020 hin-
+ausgehenden Termingeschäfte ergibt sich eine Drohverlustrückstellung in Höhe von 
+TEUR 232 (Vj. TEUR 0). Die entsprechenden Aufwendungen wurden in der Gewinn- 
+und Verlustrechnung erfasst. 
+  
+Sonstige finanzielle Verpflichtungen und Angaben zu  
+außerbilanziellen Geschäften 
+Die Gesellschaft hat unkündbare Immobilienleasingverträge für Verwaltungsgebäude 
+sowie das Parkhaus abgeschlossen, deren Laufzeiten sich bis 2021 erstrecken. Es be-
+steht jeweils ein ausgewogenes, in der Ausgestaltung marktübliches Verhältnis von 
+Vorteilen und Risiken. Die Transaktionen dienen der Investitionsfinanzierung.  
+Im Rahmen des Mietvertrages mit Epigone hat Elmos einen Immobilienleasingvertrag 
+über ein Verwaltungsgebäude abgeschlossen und ist zu Restmietzahlungen in Höhe 
+von TEUR 477 (inkl. Verwaltungskostenbeitrag) zzgl. Restzahlungen für Mieterdarle-
+hen in Höhe von TEUR 1.813 bis 2021 verpflichtet. 
+Darüber hinaus hat die Gesellschaft weitere Leasingverträge, insbesondere für techni-
+sche Anlagen und Maschinen sowie Betriebs- und Geschäftsausstattung abgeschlos-
+sen, deren Laufzeiten sich bis 2021 erstrecken. Die Gesellschaft ist insgesamt zu 
+
+ 
+ 
+Restmietzahlungen in Höhe von TEUR 1.708 verpflichtet. Des Weiteren bestehen Lea-
+singverträge für den Fuhrpark, Büromaschinen und EDV-Ausstattung in betriebsübli-
+chem Umfang sowie Verpflichtungen aus Rückdeckungsversicherungen. Für alle vor-
+genannten Transaktionen besteht jeweils ein ausgewogenes, in der Ausgestaltung 
+marktübliches Verhältnis von Vorteilen und Risiken. Die überwiegenden Transaktionen 
+dienen der Investitionsfinanzierung.  
+Zudem bestehen Abnahmeverpflichtungen für Roh-, Hilfs- und Betriebsstoffe sowie 
+Strom und Erdgas. 
+Infolge der bestehenden nichtkündbaren oben genannten Verträge summieren sich die 
+in den folgenden Jahren zu zahlenden Beträge wie folgt: 
+TEUR
+2021 
+20.925
+2022 
+2.840
+2023 
+673
+2024 
+608
+Folgejahre (gesamt) 
+608
+ 
+Auf Verpflichtungen aus Altersvorsorge entfallen TEUR 208. 
+Aus erteilten Investitionsaufträgen besteht ein Bestellobligo von TEUR 11.189. 
+
+ 
+ 
+Erläuterungen zur Gewinn- und Verlustrechnung 
+Umsatzerlöse 
+2020
+2019
+TEUR
+TEUR
+- nach Sparten  
+Produktion 
+228.470
+267.275
+Entwicklung 
+2.012
+3.537
+Sonstiges 
+1.729
+1.697
+Nettoumsatzerlöse 
+232.211
+272.509
+- nach Regionen 
+Inland 
+53.589
+68.863
+Übrige EU-Länder 
+52.989
+61.554
+USA 
+3.953
+8.764
+Übrige Länder 
+121.680
+133.328
+Nettoumsatzerlöse 
+232.211
+272.509
+ 
+ 
+Sonstige betriebliche Erträge 
+Bei den periodenfremden Erträgen handelt es sich im Wesentlichen um Erträge aus 
+der Auflösung von Rückstellungen (TEUR 3.329). 
+ 
+Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens 
+und Sachanlagen 
+In den Abschreibungen auf immaterielle Vermögensgegenstände und Sachanlagen 
+sind außerplanmäßigen Abschreibungen im Sinne des § 253 Abs. 3 Satz 5 HGB i.H.v. 
+TEUR 406 (Vj. TEUR 1.612) enthalten. Die Abschreibungen auf Finanzanlagen und 
+Wertpapiere des Umlaufvermögens enthalten außerplanmäßige Abschreibungen einer 
+Beteiligung im Sinne des § 253 Abs. 3 Satz 6 HGB i.H.v. TEUR 600 (Vj. TEUR 0). 
+
+ 
+ 
+Sonstige Angaben 
+Aufsichtsrat 
+ Dr. rer. nat. Klaus Weyer, Penzberg, Diplom-Physiker (Vorsitzender)  
+Management Consultant 
+Prof. Dr. Günter Zimmer, Duisburg, Diplom-Physiker (stellvertretender Vorsitzen-
+der), Universitätsprofessor i.R. 
+ Dr. Klaus Egger, Steyr-Gleink / Österreich, Diplom-Ingenieur  
+selbständiger Unternehmensberater 
+ 
+Thomas Lehner (Arbeitnehmervertreter), Dortmund, Diplom-Ingenieur  
+Gruppenleiter Engineering im Testbereich 
+ 
+Sven-Olaf Schellenberg (Arbeitnehmervertreter), Dortmund, Diplom-Physiker  
+Leiter Inspektion und Defektreduzierung / Prozessingenieur 
+ 
+Dr. Gottfried Dutiné, Kleve, Diplom-Ingenieur                                                    
+selbständiger Unternehmensberater  
+Herr Dr. Gottfried Dutiné ist Beiratsmitglied bei der Endiio GmbH sowie ein Mitglied des 
+Board of Directors der Stokke A.S. Herr Dr. Klaus Egger übt ein weiteres Aufsichts-
+ratsmandat (AVL List GmbH) aus. 
+ 
+Vorstand 
+Diplom-Physiker Dr. rer. nat. Anton Mindl, Lüdenscheid 
+Vorstandsvorsitzender (bis 31. Dezember 2020) 
+Diplom-Ökonom Dr. Arne Schneider, Hamburg 
+Vorstandsvorsitzender (ab 1. Januar 2021)  
+Vorstand für Finanzen (bis 31. Dezember 2020) 
+ 
+Diplom-Ingenieur (FH) Guido Meyer, Schwerte 
+ 
+ 
+ 
+   
+Vorstand für Produktion  
+Diplom-Elektrotechniker Dr. Jan Dienstuhl, Hagen 
+Vorstand für Vertrieb und Entwicklung 
+
+ 
+ 
+ 
+Gesamtbezüge des Vorstands 
+Die Bezüge des Vorstands teilen sich in fixe Bezüge und variable, erfolgsorientierte 
+Bezüge auf. Demnach betrugen die Bezüge des Vorstands für 2020 insgesamt 
+TEUR 4.030 (Vj. TEUR 4.546). Hiervon entfallen auf den fixen Bestandteil TEUR 
+1.584 (Vj. TEUR 1.518) und auf den variablen Teil TEUR 2.411 (Vj. TEUR 3.028) so-
+wie TEUR 35 (Vj. TEUR 0) auf gewährte Aktienzusagen. Für Mitglieder des Vorstands 
+bestehen mittelbare Pensionszusagen einer Unterstützungskasse. Zur vollständig kon-
+gruenten Abdeckung ihrer Verpflichtungen hat die Unterstützungskasse entsprechende 
+Rückdeckungsversicherungen in genau der zugesagten Beitragshöhe abgeschlossen. 
+In 2020 beliefen sich die Zahlungen für diese Rückdeckungsversicherungen auf TEUR 
+514 (Vj. TEUR 373), die im fixen Bestandteil der Bezüge enthalten sind.    
+In der Hauptversammlung vom 16. Mai 2018 wurde mit der erforderlichen  
+¾-Mehrheit beschlossen, die Angaben gemäß § 285 Nr. 9a Satz 5 bis 8 HGB für die 
+folgenden fünf Jahre zu unterlassen. 
+Die von der Gesellschaft geleisteten Bezüge für frühere Vorstandsmitglieder bzw. ihrer 
+Hinterbliebenen betragen im Geschäftsjahr 2020 TEUR 221 (Vj. TEUR 579). Hiervon 
+entfallen auf den variablen Bestandteil TEUR 0 (Vj. TEUR 368). Daneben wurden für 
+diese Versicherungsprämien in Höhe von TEUR 84 (Vj. TEUR 115) entrichtet. Diesen 
+Beträgen stehen Erstattungen aus Rückdeckungsversicherungen in Höhe von TEUR 
+215 
+(Vj. TEUR 225) 
+gegenüber. 
+Die 
+gebildete 
+Pensionsrückstellung 
+beträgt 
+TEUR 1.415 (Vj. TEUR 1.222), wobei aufgrund der vorgenommenen Saldierung nach 
+§ 246 Abs. 2 Satz 2 HGB mit dem Deckungsvermögen ein aktiver Unterschiedsbetrag 
+aus der Vermögensverrechnung in Höhe von TEUR 244 (Vj. TEUR 503) in der Bilanz 
+ausgewiesen wird. 
+
+ 
+ 
+ 
+Gesamtbezüge des Aufsichtsrats 
+Die fixen Bezüge (inkl. Spesen und Auslagen) des Aufsichtsrats beliefen sich für 2020 
+insgesamt auf TEUR 264 (Vj. TEUR 82), die variable Vergütung beträgt TEUR 112,5 
+(Vj. TEUR 225). An Aufsichtsratsmitglieder wurden in 2020 keine Gratisaktien ausge-
+geben. 
+Für Beratungen und sonstige Dienstleistungen vergütete die Gesellschaft an Mitglieder 
+des Aufsichtsrates im Geschäftsjahr TEUR 0 (Vj. TEUR 24). 
+ 
+Meldepflichtige Wertpapiergeschäfte 
+Die Meldungen von Managers' Transactions gemäß Art. 19 Abs. 1 Marktmissbrauchs-
+verordnung im Zeitraum vom 1. Januar bis 31. Dezember 2020 stehen unter 
+www.elmos.com zur Verfügung. 
+ 
+Honorare für Abschlussprüfer 
+Die als Abschlussprüfer bestellte Warth & Klein Grant Thornton AG hat der Elmos Se-
+miconductor SE Honorare für folgende Dienstleistungen in den Geschäftsjahren 2020 
+und 2019 berechnet: 
+2020
+2019
+TEUR
+TEUR
+Abschlussprüfungsleistungen 
+2571 
+299
+Andere Bestätigungsleistungen 
+0
+0
+Steuerberatungsleistungen 
+25
+ 
+22
+Sonstige Leistungen 
+0
+72
+282
+393
+ 
+In 2020 beinhalten die Abschlussprüfungsleistungen die Honorare für die gesetzliche 
+Jahres- und Konzernabschlussprüfung sowie die prüferische Durchsicht des Halbjah-
+reskonzernabschlusses der Elmos Semiconductor SE. Die erbrachten Steuerbera-
+tungsleistungen beinhalten im Wesentlichen Beratungsleistungen im Zusammenhang 
+mit der Erstellung von Steuererklärungen und die steuerliche Beurteilung von Ein-
+zelsachverhalten. 
+                                               
+1 Davon für das Vorjahr TEUR 11 
+
+ 
+ 
+Darüber hinaus hat die Warth & Klein Grant Thornton AG für von der Elmos Semi-
+conductor SE beherrschte Unternehmen Beratungsleistungen im Zusammenhang mit 
+der Erstellung von Steuererklärungen erbracht. 
+ 
+Mitarbeiter 
+Die durchschnittliche Zahl der während des Geschäftsjahres beschäftigten Mitarbeiter 
+beträgt in den Funktionsbereichen: 
+2020
+Produktion  
+548
+Vertrieb 
+92
+Verwaltung 
+136
+Qualitätswesen 
+44
+Forschung & Entwicklung 
+176
+996
+ 
+Konsolidierungskreis 
+Die Elmos Semiconductor SE stellt als Mutterunternehmen den Konzernabschluss für 
+die Unternehmensgruppe auf (größter Konsolidierungskreis). 
+ 
+Direkte oder indirekte Beteiligungen am Kapital 
+Die Beteiligungsverhältnisse zum 31. Dezember 2020 sind unter den übernahmerecht-
+lichen Angaben im Lagebericht dargestellt. 
+ 
+Gewinnverwendungsvorschlag 
+Der Vorstand schlägt (in Übereinstimmung mit dem Aufsichtsrat) vor, aus dem Bilanz-
+gewinn von EUR 167.436.862,71 eine Dividende in Höhe von EUR 0,52 je Aktie aus-
+zuschütten und den Restbetrag auf neue Rechnung vorzutragen. 
+ 
+Nachtragsbericht 
+Mit wirtschaftlicher Wirkung zum 1. Januar 2021 hat die Elmos Semiconductor SE 
+100 % der Anteile an der Online Engineering GmbH, Dortmund, erworben. Die vorzei-
+
+ 
+ 
+tige Kaufpreiszahlung wurde bereits im Geschäftsjahr 2020 unter den Anzahlungen im 
+Finanzanlagevermögen abgebildet. 
+  
+Angaben gemäß § 160 Abs. 1 Nr. 8 AktG / § 26 Abs. 1 des WpHG 
+Alle Stimmrechtsmitteilungen der vergangenen Jahre und Mitteilungen der Gesamtzahl 
+der Stimmrechte wurden gemäß den gesetzlichen Richtlinien europaweit verbreitet und 
+stehen zudem auf www.elmos.com zur Verfügung. 
+ 
+Erklärung gemäß § 161 AktG zum Corporate-Governance-Kodex 
+Vorstand und Aufsichtsrat der Elmos Semiconductor SE haben die Erklärung nach 
+§ 161 AktG im September 2020 abgegeben und den Aktionären auf der Internetseite 
+(www.elmos.com) dauerhaft öffentlich zugänglich gemacht. 
+ 
+Dortmund, 08. März 2021 
+  
+Der Vorstand 
+ 
+ 
+ 
+Dr. Arne Schneider          Guido Meyer            Dr. Jan Dienstuhl   
+
+Elmos Semiconductor SE, Dortmund (bis 30.06.2020: Elmos Semiconductor AG)
+Entwicklung des Anlagevermögens 2020
+                                 Anschaffungs- und Herstellungskosten
+               Kumulierte Abschreibungen
+      Buchwerte
+01.01.2020
+Zugänge
+Umbuchungen
+Abgänge
+31.12.2020
+01.01.2020
+Zugänge
+Abgänge
+31.12.2020
+31.12.2020
+31.12.2019
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+TEUR
+I.
+Immaterielle Vermögensgegenstände
+1.
+Entgeltlich erworbene Software und Lizenzen 
+und ähnliche Rechte und Werte
+37.190
+557
+9
+7.323
+30.433
+30.750
+2.126
+7.278
+25.598
+4.835
+6.440
+2.
+Geleistete Anzahlungen
+16
+172
+0
+0
+188
+0
+0
+0
+0
+188
+16
+37.206
+729
+9
+7.323
+30.621
+30.750
+2.126
+7.278
+25.598
+5.023
+6.456
+II.
+Sachanlagen
+1.
+Grundstücke und Bauten
+47.567
+1.026
+475
+507
+48.560
+20.330
+1.777
+507
+21.601
+26.960
+27.237
+2.
+Technische Anlagen und Maschinen
+204.245
+10.808
+1)
+2.305
+21.004
+196.353
+115.490
+16.384
+19.814
+112.060
+84.294
+88.755
+3.
+Andere Anlagen, Betriebs- und Geschäftsausstattung
+29.409
+3.478
+0
+1.982
+30.905
+20.377
+3.854
+1.835
+22.396
+8.509
+9.032
+4.
+Geleistete Anzahlungen und Anlagen im Bau
+4.869
+1.877
+2)
+-2.789
+0
+3.956
+0
+0
+0
+0
+3.956
+4.869
+286.089
+17.189
+-9
+23.493
+279.775
+156.197
+22.015
+22.156
+156.056
+123.719
+129.892
+III. Finanzanlagen
+1.
+Anteile an verbundenen Unternehmen
+10.199
+0
+0
+0
+10.199
+26
+600
+0
+626
+9.574
+10.174
+2.
+Beteiligungen
+2.732
+0
+0
+0
+2.732
+2.731
+0
+0
+2.731
+1
+1
+3.
+Ausleihungen an Unternehmen, mit denen
+ein Beteiligungsverhältnis besteht
+3.021
+1.875
+0
+0
+4.896
+0
+0
+0
+0
+4.896
+3.021
+4. Wertpapiere des Anlagevermögens
+17.502
+27.819
+0
+0
+45.321
+178
+98
+0
+276
+45.044
+17.324
+5.
+Sonstige Ausleihungen
+15
+0
+0
+0
+15
+0
+0
+0
+0
+15
+15
+6.
+Geleistete Anzahlungen auf Anteile an verbundenen Unternehmen
+0
+2.350
+0
+0
+2.350
+0
+0
+0
+0
+2.350
+0
+33.469
+32.043
+0
+0
+65.513
+2.935
+698
+0
+3.633
+61.880
+30.535
+356.764
+49.961
+0
+30.816
+375.909
+189.882
+24.840
+29.434
+185.288
+190.622
+166.882
+1)
+Saldierter Wert aus Zugängen und Investitionszuschüssen i.H.v. 153 TEUR
+2)
+Saldierter Wert aus Zugängen und Investitionszuschüssen i.H.v. 216 TEUR
+
+Versicherung der gesetzlichen Vertreter  
+ 
+Wir versichern nach bestem Wissen, dass gemäß den anzuwendenden 
+Rechnungslegungsgrundsätzen der Jahresabschluss ein den tatsächlichen Verhältnissen 
+entsprechendes Bild der Vermögens-, Finanz und Ertragslage der Elmos Semiconductor SE vermittelt 
+und im Lagebericht, der mit dem Konzernlagebericht zusammengefasst ist, der Geschäftsverlauf 
+einschließlich des Geschäftsergebnisses und die Lage der Elmos Semiconductor SE so dargestellt sind, 
+dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, sowie die wesentlichen 
+Chancen und Risiken der voraussichtlichen Entwicklung der Elmos Semiconductor SE beschrieben 
+sind. 
+Dortmund, 08. März 2021 
+ 
+Der Vorstand 
+ 
+ 
+ 
+Dr. Arne Schneider          Guido Meyer            Dr. Jan Dienstuhl   
+ 
+
+Der nachfolgend wiedergegebene Bestätigungsvermerk umfasst auch einen "Vermerk über die 
+Prüfung der für Zwecke der Offenlegung erstellten elektronischen Wiedergaben des 
+Jahresabschlusses und des zusammengefassten Lageberichts nach § 317 Abs. 3b HGB" ("ESEF-
+Vermerk"). Der dem ESEF-Vermerk zugrunde liegende Prüfungsgegenstand (zu prüfende ESEF-
+Unterlagen) ist nicht beigefügt. Die geprüften ESEF-Unterlagen können im Bundesanzeiger 
+eingesehen bzw. aus diesem abgerufen werden. 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   1
+ 
+Bestätigungsvermerk des unabhängigen 
+Abschlussprüfers 
+An die Elmos Semiconductor SE, Dortmund 
+Vermerk über die Prüfung des Jahresabschlus-
+ses und des zusammengefassten Lageberichts 
+Prüfungsurteile 
+Wir haben den Jahresabschluss der Elmos Semiconductor SE, Dortmund, – be-
+stehend aus der Bilanz zum 31. Dezember 2020 und der Gewinn- und Verlust-
+rechnung für das Geschäftsjahr vom 1. Januar 2020 bis zum 31. Dezember 2020 
+sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewer-
+tungsmethoden – geprüft. Darüber hinaus haben wir den zusammengefassten La-
+gebericht der Elmos Semiconductor SE, Dortmund, für das Geschäftsjahr vom 1. 
+Januar 2020 bis zum 31. Dezember 2020 geprüft. Die Erklärung zur Unterneh-
+mensführung nach § 289f HGB, auf die im zusammengefassten Lagebericht ver-
+wiesen wird, haben wir in Einklang mit den deutschen gesetzlichen Vorschriften 
+nicht inhaltlich geprüft. 
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse 
+ entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den 
+deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften 
+und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger 
+Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Ver-
+mögens- und Finanzlage der Gesellschaft zum 31. Dezember 2020 sowie ihrer 
+Ertragslage für das Geschäftsjahr vom 1. Januar 2020 bis zum 31. Dezember 
+2020 und 
+ vermittelt der beigefügte zusammengefasste Lagebericht insgesamt ein zutref-
+fendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht 
+dieser zusammengefasste Lagebericht in Einklang mit dem Jahresabschluss, 
+entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und 
+Risiken der zukünftigen Entwicklung zutreffend dar. Unser Prüfungsurteil zum 
+zusammengefassten Lagebericht erstreckt sich nicht auf den Inhalt der oben 
+genannten Erklärung zur Unternehmensführung. 
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen 
+Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des zu-
+sammengefassten Lageberichts geführt hat. 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   2
+ 
+Grundlage für die Prüfungsurteile 
+Wir haben unsere Prüfung des Jahresabschlusses und des zusammengefassten 
+Lageberichts in Übereinstimmung mit § 317 HGB und der EU-Abschlussprüferver-
+ordnung (Nr. 537/2014; im Folgenden „EU-APrVO“) unter Beachtung der vom 
+Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ord-
+nungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach die-
+sen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschluss-
+prüfers für die Prüfung des Jahresabschlusses und des zusammengefassten La-
+geberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind 
+von dem Unternehmen unabhängig in Übereinstimmung mit den europarechtli-
+chen sowie den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften 
+und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit 
+diesen Anforderungen erfüllt. Darüber hinaus erklären wir gemäß Artikel 10 Abs. 2 
+Buchst. f) EU-APrVO, dass wir keine verbotenen Nichtprüfungsleistungen nach 
+Artikel 5 Abs. 1 EU-APrVO erbracht haben. Wir sind der Auffassung, dass die von 
+uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grund-
+lage für unsere Prüfungsurteile zum Jahresabschluss und zum zusammengefass-
+ten Lagebericht zu dienen. 
+Besonders wichtige Prüfungssachverhalte in der Prüfung 
+des Jahresabschlusses 
+Besonders wichtige Prüfungssachverhalte sind solche Sachverhalte, die nach un-
+serem pflichtgemäßen Ermessen am bedeutsamsten in unserer Prüfung des Jah-
+resabschlusses für das Geschäftsjahr vom 1. Januar 2020 bis zum 31. Dezember 
+2020 waren. Diese Sachverhalte wurden im Zusammenhang mit unserer Prüfung 
+des Jahresabschlusses als Ganzem und bei der Bildung unseres Prüfungsurteils 
+hierzu berücksichtigt; wir geben kein gesondertes Prüfungsurteil zu diesen Sach-
+verhalten ab. 
+Nachfolgend stellen wir den aus unserer Sicht besonders wichtigen Prüfungssach-
+verhalt dar. Unsere Darstellung dieses besonders wichtigen Prüfungssachverhal-
+tes haben wir wie folgt strukturiert: 
+ Risiko für den Abschluss 
+ Prüferisches Vorgehen 
+ Verweis auf zugehörige Angaben  
+Ansatz und Bewertung der Rückstellungen für Garantieleistungen 
+und Produkthaftung 
+  Risiko für den Abschluss 
+Im Jahresabschluss sind unter den sonstigen Rückstellungen unter anderem sol-
+che für Garantieleistungen und Produkthaftung in Höhe von TEUR 3.910 erfasst. 
+Diese betreffen (wahrscheinliche) Verpflichtungen aus Produktverkäufen und wer-
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   3
+ 
+den für konkrete bereits bekannte Einzelmaßnahmen sowie für geschätzte zukünf-
+tige Maßnahmen unter Berücksichtigung bisheriger Schadenverläufe ermittelt. Im 
+Rahmen von Ansatz und Bewertung der Rückstellungen für Garantieleistungen 
+und Produkthaftung sind die Annahmen in hohem Maße von der Einschätzung der 
+Eintrittswahrscheinlichkeit und der Schadenhöhe durch die gesetzlichen Vertreter 
+der Gesellschaft abhängig und damit mit hohen Schätzunsicherheiten behaftet. 
+Aufgrund dieser hohen Schätzunsicherheiten war dieser Sachverhalt von beson-
+derer Bedeutung für unsere Prüfung.  
+  Prüferisches Vorgehen 
+Im Rahmen unserer Prüfung haben wir zunächst den von Elmos eingerichteten 
+Prozess zur Erfassung und Ermittlung der Rückstellungen für Garantieleistungen 
+und Produkthaftung gewürdigt. Darauf aufbauend haben wir die Ansatzvorausset-
+zungen auf der Grundlage von Gesprächen mit den gesetzlichen Vertretern, mit 
+verantwortlichen Mitarbeitern der Gesellschaft sowie uns vorgelegter Sachver-
+haltsbeschreibungen und Vertragsunterlagen beurteilt. Zudem haben wir Rechts-
+anwaltsbestätigungsschreiben eingeholt, um die von den gesetzlichen Vertretern 
+getroffenen Risikoeinschätzungen beurteilen zu können. Wir haben die Angemes-
+senheit der Wertansätze unter anderem anhand der uns vorgelegten Sachver-
+haltsbeschreibungen, Vertragsunterlagen und Berechnungsgrundlagen sowie 
+durch Vergleich mit Vergangenheitswerten beurteilt. Die für die Bewertung der 
+Rückstellungen maßgeblichen, von den gesetzlichen Vertretern getroffenen An-
+nahmen sowie deren Herleitung haben wir gewürdigt. Zudem haben wir die für die 
+Bewertung der Rückstellungen relevanten Informationen auf inhaltliche Konsistenz 
+geprüft und gewürdigt, ob diese zutreffend in die Berechnung der Rückstellungen 
+eingeflossen sind. Die Berechnung haben wir nachvollzogen.   
+  Verweis auf zugehörige Angaben 
+Die Angaben zur Bewertung der Rückstellungen für Garantieleistungen und Pro-
+dukthaftung sind im Abschnitt „Bilanzierungs- und Bewertungsmethoden“ des An-
+hangs enthalten. 
+Sonstige Informationen 
+Die gesetzlichen Vertreter bzw. der Aufsichtsrat sind für die sonstigen Informatio-
+nen verantwortlich. Die sonstigen Informationen umfassen: 
+ die Erklärung zur Unternehmensführung nach § 289f HGB sowie 
+ die Versicherung der gesetzlichen Vertreter nach § 264 Abs. 2 Satz 3 HGB und 
+§ 289 Abs. 1 Satz 5 HGB. 
+Für die Erklärung zur Unternehmensführung nach § 289f HGB sind die gesetzli-
+chen Vertreter und der Aufsichtsrat verantwortlich. Im Übrigen sind die gesetzli-
+chen Vertreter für die sonstigen Informationen verantwortlich. 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   4
+ 
+Unsere Prüfungsurteile zum Jahresabschluss und zum zusammengefassten La-
+gebericht erstrecken sich nicht auf die sonstigen Informationen, und dementspre-
+chend geben wir weder ein Prüfungsurteil noch irgendeine andere Form von Prü-
+fungsschlussfolgerung hierzu ab. 
+Im Zusammenhang mit unserer Prüfung haben wir die Verantwortung, die oben 
+genannten sonstigen Informationen zu lesen und dabei zu würdigen, ob die sonsti-
+gen Informationen 
+ wesentliche Unstimmigkeiten zum Jahresabschluss, zu den inhaltlich geprüften 
+Angaben im zusammengefassten Lagebericht oder zu unseren bei der Prüfung 
+erlangten Kenntnissen aufweisen oder 
+ anderweitig wesentlich falsch dargestellt erscheinen. 
+Falls wir auf Grundlage der von uns durchgeführten Arbeiten zu dem Schluss ge-
+langen, dass eine wesentliche falsche Darstellung dieser sonstigen Informationen 
+vorliegt, sind wir verpflichtet, über diese Tatsache zu berichten. Wir haben in die-
+sem Zusammenhang nichts zu berichten. 
+Verantwortung der gesetzlichen Vertreter und des Auf-
+sichtsrats für den Jahresabschluss und den zusammenge-
+fassten Lagebericht 
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresab-
+schlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtli-
+chen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der 
+Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger 
+Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermö-
+gens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetz-
+lichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstim-
+mung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwen-
+dig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, 
+der frei von wesentlichen – beabsichtigten oder unbeabsichtigten – falschen Dar-
+stellungen ist. 
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür 
+verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unterneh-
+menstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachver-
+halte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern 
+einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der 
+Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unterneh-
+menstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gege-
+benheiten entgegenstehen. 
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des 
+zusammengefassten Lageberichts, der insgesamt ein zutreffendes Bild von der 
+Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem 
+Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften ent-
+spricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar-
+stellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   5
+ 
+und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstel-
+lung eines zusammengefassten Lageberichts in Übereinstimmung mit den anzu-
+wendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausrei-
+chende geeignete Nachweise für die Aussagen im zusammengefassten Lagebe-
+richt erbringen zu können. 
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungs-
+prozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des zu-
+sammengefassten Lageberichts. 
+Verantwortung des Abschlussprüfers für die Prüfung des 
+Jahresabschlusses und des zusammengefassten Lagebe-
+richts 
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jah-
+resabschluss als Ganzes frei von wesentlichen – beabsichtigten oder unbeabsich-
+tigten – falschen Darstellungen ist, und ob der zusammengefasste Lagebericht 
+insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in 
+allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prü-
+fung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen 
+Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung 
+zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prü-
+fungsurteile zum Jahresabschluss und zum zusammengefassten Lagebericht be-
+inhaltet. 
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie da-
+für, dass eine in Übereinstimmung mit § 317 HGB und der EU-APrVO unter Be-
+achtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen 
+Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine we-
+sentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus 
+Verstößen oder Unrichtigkeiten resultieren und werden als wesentlich angesehen, 
+wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt 
+die auf der Grundlage dieses Jahresabschlusses und zusammengefassten Lage-
+berichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflus-
+sen. 
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine 
+kritische Grundhaltung. Darüber hinaus 
+ identifizieren und beurteilen wir die Risiken wesentlicher – beabsichtigter oder 
+unbeabsichtigter – falscher Darstellungen im Jahresabschluss und im zusam-
+mengefassten Lagebericht, planen und führen Prüfungshandlungen als Reak-
+tion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausrei-
+chend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu die-
+nen. Das Risiko, dass wesentliche falsche Darstellungen nicht aufgedeckt wer-
+den, ist bei Verstößen höher als bei Unrichtigkeiten, da Verstöße betrügeri-
+sches Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irre-
+führende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhal-
+ten können. 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   6
+ 
+ gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses 
+relevanten internen Kontrollsystem und den für die Prüfung des zusammenge-
+fassten Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungs-
+handlungen zu planen, die unter den gegebenen Umständen angemessen sind, 
+jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme 
+der Gesellschaft abzugeben. 
+ beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern ange-
+wandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den ge-
+setzlichen Vertretern dargestellten geschätzten Werte und damit zusammen-
+hängenden Angaben. 
+ ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzli-
+chen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung 
+der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungs-
+nachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignis-
+sen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der 
+Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. 
+Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, 
+sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben 
+im Jahresabschluss und im zusammengefassten Lagebericht aufmerksam zu 
+machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prü-
+fungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der 
+Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prü-
+fungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch 
+dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fort-
+führen kann. 
+ beurteilen wir die Gesamtdarstellung, den Aufbau und den Inhalt des Jahresab-
+schlusses einschließlich der Angaben sowie ob der Jahresabschluss die zu-
+grunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jah-
+resabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger 
+Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Ver-
+mögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. 
+ beurteilen wir den Einklang des zusammengefassten Lageberichts mit dem 
+Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild 
+von der Lage der Gesellschaft. 
+ führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern darge-
+stellten zukunftsorientierten Angaben im zusammengefassten Lagebericht 
+durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir 
+dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen 
+Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die 
+sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annah-
+men. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben 
+sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein 
+erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von 
+den zukunftsorientierten Angaben abweichen. 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   7
+ 
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den ge-
+planten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfest-
+stellungen, einschließlich etwaiger Mängel im internen Kontrollsystem, die wir 
+während unserer Prüfung feststellen. 
+Wir geben gegenüber den für die Überwachung Verantwortlichen eine Erklärung 
+ab, dass wir die relevanten Unabhängigkeitsanforderungen eingehalten haben, 
+und erörtern mit ihnen alle Beziehungen und sonstigen Sachverhalte, von denen 
+vernünftigerweise angenommen werden kann, dass sie sich auf unsere Unabhän-
+gigkeit auswirken, und die hierzu getroffenen Schutzmaßnahmen. 
+Wir bestimmen von den Sachverhalten, die wir mit den für die Überwachung Ver-
+antwortlichen erörtert haben, diejenigen Sachverhalte, die in der Prüfung des Jah-
+resabschlusses für den aktuellen Berichtszeitraum am bedeutsamsten waren und 
+daher die besonders wichtigen Prüfungssachverhalte sind. Wir beschreiben diese 
+Sachverhalte im Bestätigungsvermerk, es sei denn, Gesetze oder andere Rechts-
+vorschriften schließen die öffentliche Angabe des Sachverhalts aus. 
+Sonstige gesetzliche und andere rechtliche An-
+forderungen 
+Vermerk über die Prüfung der für Zwecke der Offenlegung 
+erstellten elektronischen Wiedergaben des Jahresab-
+schlusses und des zusammengefassten Lageberichts 
+nach § 317 Abs. 3b HGB 
+Prüfungsurteil 
+Wir haben gemäß § 317 Abs. 3b HGB eine Prüfung mit hinreichender Sicherheit 
+durchgeführt, ob die in der beigefügten Datei „20210305_esef_jahresab-
+schluss_2020.zip, mit dem Hash-Wert 4C0E34A9D031AA0D44E53B9 
+587DFA26AAA5AEC2A6C 450049CFC1A5659C4BD090, berechnet mittels 
+SHA256“ enthaltenen und für Zwecke der Offenlegung erstellten Wiedergaben 
+des Jahresabschlusses und des zusammengefassten Lageberichts (im Folgenden 
+auch als „ESEF-Unterlagen“ bezeichnet) den Vorgaben des § 328 Abs. 1 HGB an 
+das elektronische Berichtsformat („ESEF-Format“) in allen wesentlichen Belangen 
+entsprechen. In Einklang mit den deutschen gesetzlichen Vorschriften erstreckt 
+sich diese Prüfung nur auf die Überführung der Informationen des Jahresab-
+schlusses und des zusammengefassten Lageberichts in das ESEF-Format und 
+daher weder auf die in diesen Wiedergaben enthaltenen noch auf andere in der 
+oben genannten Datei enthaltene Informationen. 
+Nach unserer Beurteilung entsprechen die in der oben genannten beigefügten Da-
+tei enthaltenen und für Zwecke der Offenlegung erstellten Wiedergaben des Jah-
+resabschlusses und des zusammengefassten Lageberichts in allen wesentlichen 
+Belangen den Vorgaben des § 328 Abs. 1 HGB an das elektronische Berichtsfor-
+mat. Über dieses Prüfungsurteil sowie unsere im voranstehenden „Vermerk über 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   8
+ 
+die Prüfung des Jahresabschlusses und des zusammengefassten Lageberichts“ 
+enthaltenen Prüfungsurteile zum beigefügten Jahresabschluss und zum beigefüg-
+ten zusammengefassten Lagebericht für das Geschäftsjahr vom 1. Januar 2020 
+bis zum 31. Dezember 2020 hinaus geben wir keinerlei Prüfungsurteil zu den in 
+diesen Wiedergaben enthaltenen Informationen sowie zu den anderen in der oben 
+genannten Datei enthaltenen Informationen ab. 
+Grundlage für das Prüfungsurteil 
+Wir haben unsere Prüfung der in der oben genannten beigefügten Datei enthalte-
+nen Wiedergaben des Jahresabschlusses und des zusammengefassten Lagebe-
+richts in Übereinstimmung mit § 317 Abs. 3b HGB unter Beachtung des Entwurfs 
+des IDW Prüfungsstandards: Prüfung der für Zwecke der Offenlegung erstellten 
+elektronischen Wiedergaben von Abschlüssen und Lageberichten nach § 317 
+Abs. 3b HGB (IDW EPS 410) durchgeführt. Unsere Verantwortung danach ist im 
+Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung der ESEF-Unterla-
+gen“ weitergehend beschrieben. Unsere Wirtschaftsprüferpraxis hat die Anforde-
+rungen an das Qualitätssicherungssystem des IDW Qualitätssicherungsstandards: 
+Anforderungen an die Qualitätssicherung in der Wirtschaftsprüferpraxis (IDW QS 
+1) angewendet. 
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für 
+die ESEF-Unterlagen 
+Die gesetzlichen Vertreter sind verantwortlich für die Erstellung der ESEF-Unterla-
+gen mit den elektronischen Wiedergaben des Jahresabschlusses und des zusam-
+mengefassten Lageberichts nach Maßgabe des § 328 Abs. 1 Satz 4 Nr. 1 HGB. 
+Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, 
+die sie als notwendig erachten, um die Erstellung der ESEF-Unterlagen zu ermög-
+lichen, die frei von wesentlichen – beabsichtigten oder unbeabsichtigten – Verstö-
+ßen gegen die Vorgaben des § 328 Abs. 1 HGB an das elektronische Berichtsfor-
+mat sind. 
+Die gesetzlichen Vertreter sind zudem verantwortlich für die Einreichung der 
+ESEF-Unterlagen zusammen mit dem Bestätigungsvermerk und dem beigefügten 
+geprüften Jahresabschluss und geprüften zusammengefassten Lagebericht sowie 
+weiteren offenzulegenden Unterlagen beim Betreiber des Bundesanzeigers. 
+Der Aufsichtsrat ist verantwortlich für die Überwachung der Erstellung der ESEF-
+Unterlagen als Teil des Rechnungslegungsprozesses. 
+Verantwortung des Abschlussprüfers für die Prüfung der  
+ESEF-Unterlagen 
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob die 
+ESEF-Unterlagen frei von wesentlichen – beabsichtigten oder unbeabsichtigten – 
+Verstößen gegen die Anforderungen des § 328 Abs. 1 HGB sind. Während der 
+Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische 
+Grundhaltung. Darüber hinaus 
+
+ 
+ 
+Elmos Semiconductor SE – 2020/7243   9
+ 
+ identifizieren und beurteilen wir die Risiken wesentlicher – beabsichtigter oder 
+unbeabsichtigter – Verstöße gegen die Anforderungen des § 328 Abs. 1 HGB, 
+planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch 
+sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als 
+Grundlage für unser Prüfungsurteil zu dienen. 
+ gewinnen wir ein Verständnis von den für die Prüfung der ESEF-Unterlagen re-
+levanten internen Kontrollen, um Prüfungshandlungen zu planen, die unter den 
+gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prü-
+fungsurteil zur Wirksamkeit dieser Kontrollen abzugeben. 
+ beurteilen wir die technische Gültigkeit der ESEF-Unterlagen, d.h. ob die die 
+ESEF-Unterlagen enthaltende Datei die Vorgaben der Delegierten Verordnung 
+(EU) 2019/815 in der zum Abschlussstichtag geltenden Fassung an die techni-
+sche Spezifikation für diese Datei erfüllt. 
+ beurteilen wir, ob die ESEF-Unterlagen eine inhaltsgleiche XHTML-Wiedergabe 
+des geprüften Jahresabschlusses und des geprüften zusammengefassten La-
+geberichts ermöglichen. 
+Übrige Angaben gemäß Artikel 10 EU-APrVO 
+Wir wurden von der Hauptversammlung am 22. Mai 2020 als Abschlussprüfer ge-
+wählt. Wir wurden am 1. Oktober 2020 vom Aufsichtsrat beauftragt. Wir sind unun-
+terbrochen seit dem Geschäftsjahr 2013 als Abschlussprüfer der Elmos Semi-
+conductor SE, Dortmund, tätig. 
+Wir erklären, dass die in diesem Bestätigungsvermerk enthaltenen Prüfungsurteile 
+mit dem zusätzlichen Bericht an den Aufsichtsrat nach Artikel 11 EU-APrVO (Prü-
+fungsbericht) in Einklang stehen. 
+Verantwortlicher Wirtschaftsprüfer 
+Der für die Prüfung verantwortliche Wirtschaftsprüfer ist Ulf Kellerhoff. 
+Düsseldorf, den 8. März 2021 
+Warth & Klein Grant Thornton AG 
+Wirtschaftsprüfungsgesellschaft 
+ 
+ 
+ 
+Eckhard Lewe 
+Ulf Kellerhoff 
+Wirtschaftsprüfer 
+Wirtschaftsprüfer

@@ -1,0 +1,6955 @@
+2024
+Annual Financial 
+Statements of TRATON SE
+
+COMBINED  
+MANAGEMENT  
+REPORT
+The management report for  
+TRATON SE and the management  
+report for the Group have been  
+combined in accordance with section  
+315 (5) of the Handelsgesetzbuch  
+(HGB — German Commercial Code)  
+in conjunction with section 298 (2)  
+of the HGB and published in  
+TRATON’s 2024 Annual Report.
+49
+FURTHER  
+INFORMATION
+Responsibility Statement
+51
+Independent Auditor’s Report
+52
+Publication Details
+58
+ANNUAL FINANCIAL  
+STATEMENTS  
+OF TRATON SE
+Income Statement
+4
+Balance Sheet 
+5
+Notes to the Annual Financial  
+Statements
+6
+CONTENTS
+Legend for interactive navigation:
+Search
+Home
+One page forward
+One page back
+Return to previously  
+viewed page
+1
+2
+3
+Munich, Germany
+
+Income Statement
+4
+Balance Sheet
+5
+Notes to the Annual Financial Statements
+6
+Basis of Presentation
+6
+Accounting Policies 
+6
+Income Statement Disclosures
+8
+Balance Sheet Disclosures
+11
+Other Annual Financial Statement Disclosures
+17
+Members of the Supervisory Board and  
+their Appointments
+27
+Supervisory Board Committees
+30
+Members of the Executive Board and  
+their Appointments
+30
+List of Shareholdings
+32
+1
+ANNUAL FINANCIAL  
+STATEMENTS  
+OF TRATON SE
+
+ANNUAL FINANCIAL STATEMENTS OF TRATON SE
+Income Statement
+for the period from January 1 through December 31, 2024
+ 
+€ thousand
+Note
+2024
+2023
+Net investment income/expense
+(1)
+380,934
+839,319
+Income from long-term loans 
+(2)
+26,696
+189,191
+Net interest income/net interest expense
+(3)
+–288,680
+–247,704
+Sales revenue
+(4)
+46,404
+35,596
+Cost of sales
+ 
+–40,927
+–33,429
+Gross profit
+ 
+5,477
+2,167
+General and administrative expenses
+(5)
+–157,772
+–137,310
+Other operating income
+(6)
+439,752
+381,006
+Other operating expenses
+(7)
+–536,787
+–381,061
+Income taxes
+(8)
+38,564
+–81,045
+Earnings after tax
+ 
+–91,816
+564,563
+Net income/loss for the year 
+ 
+–91,816
+564,563
+Profit carried forward from the previous year
+ 
+202,103
+15,768
+Withdrawal from capital reserves
+ 
+800,000
+400,000
+Allocation to retained earnings
+ 
+–
+–28,228
+Net retained profit
+ 
+910,287
+952,103
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+4
+
+Balance Sheet 
+as of December 31, 2024
+ 
+€ thousand
+Note
+Dec. 31, 2024
+Dec. 31, 2023
+Assets
+ 
+ 
+ 
+Intangible assets
+ 
+1,399
+1,852
+Property, plant, and equipment
+ 
+2,068
+2,384
+Financial assets
+ 
+22,815,985
+22,844,483
+Fixed assets
+(9)
+22,819,452
+22,848,719
+Receivables and other assets
+(10)
+2,826,301
+2,081,065
+Bank balances
+ 
+458,781
+219,534
+Current assets
+ 
+3,285,082
+2,300,599
+Prepaid expenses
+(11)
+10,877
+12,500
+ 
+ 
+26,115,411
+25,161,818
+Equity and liabilities
+ 
+ 
+ 
+Subscribed capital
+ 
+500,000
+500,000
+Common shares
+ 
+500,000,000
+500,000,000
+Contingent capital in € thousand
+ 
+50,000
+50,000
+Capital reserves
+ 
+12,495,313
+13,295,313
+Retained earnings
+ 
+28,228
+28,228
+Net retained profit
+ 
+910,287
+952,103
+Equity
+(12)
+13,933,828
+14,775,644
+Provisions for pensions
+ 
+4,098
+4,272
+Tax provisions
+ 
+143,959
+154,272
+Other provisions
+ 
+242,983
+104,538
+Provisions
+(13)
+391,040
+263,082
+Liabilities to banks
+ 
+2,365,327
+3,643,978
+Other liabilities
+ 
+9,424,950
+6,478,534
+Total liabilities
+(14)
+11,790,277
+10,122,512
+Deferred income
+ 
+266
+580
+ 
+ 
+26,115,411
+25,161,818
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+5
+
+Notes to the Annual Financial Statements
+Basis of Presentation
+TRATON SE has its registered office in Munich, Germany, and is entered in the commercial 
+register at Munich Local Court under no. HRB 246068. The Annual Financial Statements 
+of TRATON SE for the fiscal year from January 1 through December 31, 2024, have been 
+prepared in accordance with the provisions of the Handelsgesetzbuch (HGB — German 
+Commercial Code) and the SE Regulation, in conjunction with the Aktiengesetz 
+(AktG — German Stock Corporation Act). The provisions for large stock corporations apply.
+To enhance clarity, individual items in the balance sheet and income statement have been 
+combined. These items are disclosed separately in the Notes to the Annual Financial 
+Statements. All figures shown have been rounded so minor discrepancies may arise from 
+addition of these amounts. To improve comparability, certain prior-period information 
+was adjusted to reflect the current presentation. Comparable prior-year figures are pre-
+sented in brackets alongside the figures for the fiscal year under review.
+The income statement has been prepared using the cost of sales method.
+As of the reporting date of December 31, 2024, TRATON SE was an 89.72%-owned 
+direct subsidiary of Volkswagen International Luxemburg S.A., Strassen, Luxembourg 
+(Volkswagen International Luxemburg), which in turn is a wholly owned subsidiary of 
+Volkswagen Finance Luxemburg S.A., Strassen, Luxembourg (Volkswagen Finance 
+­Luxemburg). 100% of the shares of Volkswagen Finance Luxemburg are in turn held by 
+Volkswagen Aktiengesellschaft, Wolfsburg (Volkswagen AG). TRATON SE is included in 
+the consolidated financial statements of Volkswagen AG, Wolfsburg (largest basis of 
+consolidation). TRATON SE prepares consolidated financial statements for the smallest 
+basis of consolidation. Both sets of consolidated financial statements are published in 
+the Company Register.
+The Schuldscheindarlehen that had been placed by TRATON SE in 2021 were drawn down 
+in the amount of €350 million (previous year: €700 million) as of December 31, 2024. 
+The TRATON GROUP has access to a revolving credit line at Volkswagen AG of €4,300 mil-
+lion (previous year: €4,300 million), of which €943 million (previous year: €797 million) 
+was drawn down. TRATON SE also has an unused confirmed credit line of €4,500 million 
+(previous year: €4,500 million) available as a liquidity reserve. TRATON SE had entered 
+into this syndicated loan on July 28, 2020, and increased it from the original €3,750 million 
+to €4,500 million on December 15, 2021. The revolving credit line had a term of five years 
+and was extended twice for one year each following agreement after the banking con-
+sortium consisting of 23 banks approved both extension requests. The term of the syndi-
+cated loan ends on December 16, 2028. The credit line serves general corporate purposes 
+as well as to safeguard the TRATON GROUP’s liquidity.
+The TRATON GROUP has had a European Medium Term Notes (EMTN) program since 
+March 12, 2021. This €12,000 million capital market issuance program enables the 
+TRATON GROUP to raise capital on the debt markets flexibly and efficiently. In addition 
+to TRATON SE, the Company’s indirect subsidiary TRATON Finance Luxembourg S.A., 
+Strassen, Luxembourg (TRATON Finance) can also issue bonds under the program. The 
+EMTN program is used for general corporate purposes, with the capital raised being 
+used as needed within the TRATON GROUP. The total principal amount of bonds of 
+TRATON Finance outstanding as of December 31, 2024, was €10,819 million (previous year: 
+€8,330 million) under the €12,000-million EMTN program, hedged in part by interest rate 
+derivatives. 
+In September 2023, the TRATON GROUP had launched a commercial paper program 
+(CP program) with a volume of €2,500 million, of which an equivalent of €189 million 
+(previous year: €999 million) was used for financing in the TRATON Financial Services seg-
+ment as of December 31, 2024. In addition to TRATON SE, the Company’s indirect subsid-
+iaries TRATON Finance and TRATON Treasury AB, Södertälje, Sweden (TRATON Treasury AB) 
+can also issue commercial paper under the CP program. This has opened up an additional 
+financing market for TRATON and complements the existing €12,000-million EMTN program. 
+The CP program is used to finance short-term maturities with terms of up to one year.
+Accounting Policies 
+The principal accounting policies used to prepare the Annual Financial Statements, which 
+were essentially unchanged from the previous year, are set out below.
+Sales revenue
+Sales revenue primarily comprises revenue from services rendered within the 
+TRATON GROUP. 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+6
+
+Intangible assets
+Purchased intangible assets are recognized at cost and amortized over their useful life 
+(generally three to five years) on a straight-line basis.
+Property, plant, and equipment
+Property, plant, and equipment are carried at cost less depreciation and, in some cases, 
+write-downs. 
+Buildings on third-party land are depreciated on a straight-line basis over their rental 
+term. Movable items of property, plant, and equipment are generally depreciated over 
+13 years.
+Low-value movable assets used by the Company that are subject to wear and tear are 
+recognized immediately as expenses or capitalized and written off in the year of acqui-
+sition. 
+Write-downs are recognized if impairment is expected to be permanent.
+Financial assets
+Shares in affiliated companies and other equity investments are measured at the lower 
+of cost or their net realizable value. 
+Loans are recognized at the lower of their nominal amount or present value on the report-
+ing date.
+Write-downs are recognized if impairment is expected to be permanent. In accordance 
+with the requirement for write-downs to be reversed, if the reasons for permanent impair-
+ment no longer apply, the write-down is reversed, but not beyond cost.
+Current assets
+Receivables and other assets are carried at their principal amounts. Appropriate loss 
+allowances are recognized for identifiable individual risks.
+Bank balances are carried at their nominal amount. 
+Deferred taxes 
+Deferred taxes are only recognized if accounting differences result in a surplus of liabili-
+ties over assets, after taking into account applicable loss and interest carryforwards, and 
+an overall tax expense is expected in future fiscal years. In this, accounting differences 
+relating to companies in the tax group are included insofar as it is assumed that future 
+tax income and expense will result from the reversal of temporary differences at 
+TRATON SE as the head of the tax group. If deferred tax assets exceed deferred tax lia-
+bilities, they are not capitalized due to exercise of the recognition option pursuant to 
+section 274 (1) sentence 2 of the HGB.
+Deferred tax assets and liabilities are measured using the applicable corporation tax and 
+trade tax rates for the TRATON tax entity (31.88% (previous year: 31.88%)). 
+Offset of assets and liabilities, and of income and expenses
+Assets that are earmarked solely for meeting pension obligations or obligations under 
+partial retirement agreements and that are protected from all other creditors are recog-
+nized at fair value. Income and expenses relating to these assets are offset against the 
+expense for the unwinding of interest for the corresponding obligation and recognized 
+in net interest income/net interest expense. These assets are offset against the settlement 
+amount of the underlying obligation. If the fair value of these assets exceeds the amount 
+of liabilities, the excess amount must be recognized as “excess arising from the offset of 
+assets and liabilities.” If liabilities exceed assets, the difference is recognized as a provision. 
+Pensions and other post-employment benefits 
+Pension obligations are calculated using the projected unit credit method. Under this 
+method, future obligations are measured on the basis of the proportionate benefit enti-
+tlements acquired at the balance sheet date and discounted to their present value. Mea-
+surement reflects assumptions about the future development of certain parameters, 
+which affect the amount of future benefits. The discount rate for all obligations is the 
+average market interest rate for the past ten years published by the German Bundesbank 
+for a residual maturity of 15 years, in accordance with section 253 (2) of the HGB. 
+Pension provisions are reduced by the fair value of the assets used to cover the benefit 
+obligations. See also “Offset of assets and liabilities, and of income and expenses.”
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+7
+
+Tax provisions, other provisions, liabilities
+The tax provisions and other provisions relate to uncertain liabilities. Measurement 
+ensures that they take account of all identifiable risks, taking into consideration future 
+price and cost increases. Provisions with a maturity of more than one year are discounted 
+on the basis of their remaining maturity.
+Liabilities are recognized at their settlement amount.
+Currency translation
+Receivables and liabilities denominated in foreign currencies and hedged are measured 
+at the hedged rate if they are accounted for using the net hedge presentation method. 
+If the gross hedge presentation method is used, they are measured at the closing rate on 
+the reporting date. Miscellaneous current foreign currency receivables and liabilities are 
+translated at the average exchange rate on the reporting date. Miscellaneous noncurrent 
+foreign currency receivables and liabilities are translated at the exchange rate on the date 
+of recognition, or, in the case of receivables, at the lower exchange rate applicable on the 
+reporting date, or, in the case of liabilities, the higher exchange rate applicable on the 
+reporting date. 
+Derivatives and micro hedges
+TRATON SE uses derivatives exclusively for hedging purposes. Provided the necessary 
+criteria are met, the derivative is combined with the hedged item as a micro hedge. For 
+certain micro hedges, the offsetting changes in the value of the hedged item and the 
+hedging instrument due to the hedged risk are recognized on the balance sheet (gross 
+presentation method). In other cases, the offsetting changes in the value of the hedged 
+item and the hedging instrument due to the hedged risk are netted. In both cases, any 
+net negative amount resulting from changes in the value of the hedged item and hedging 
+instrument (ineffectiveness) is recognized through a provision for the hedge. By contrast, 
+derivatives that do not form a micro hedge with the hedged item are accounted for using 
+the imparity principle, i.e., provisions are recognized for negative fair values but positive 
+fair values are not recognized.
+Income Statement Disclosures
+(1) Net investment income/expense
+ 
+€ thousand
+2024 
+2023
+Income from profit and loss transfer agreements
+361,466
+805,384
+Income from equity investments 
+50,432
+50,749
+of which from affiliated companies
+50,432
+50,663
+Expenses for the absorption of losses
+–30,964
+–16,814
+ 
+380,934
+839,319
+The income from profit and loss transfer agreements comprises the earnings of 
+MAN Truck & Bus SE, Munich, (MAN Truck & Bus SE), Scania CV Deutschland Holding GmbH, 
+Koblenz, Scania Finance Deutschland GmbH, Koblenz, MAN GHH Immobilien GmbH, 
+Oberhausen, and Scania Real Estate Deutschland GmbH, Koblenz. 
+The income from equity investments primarily contains the pro-rata profit of MAN Brand 
+GmbH & Co. KG, Grünwald. 
+Expenses for the absorption of losses related mainly to the earnings of MAN Mobility & 
+Finance GmbH, Munich, and of TB Digital Services GmbH, Munich.
+(2) Income from long-term loans
+The interest income from long-term loans was €26,696 thousand (previous year: 
+€189,191 thousand) and included €26,696 thousand (previous year: €189,191 thousand) 
+from affiliated companies. The decline was primarily attributable to the contribution to 
+TRATON International S.A., Strassen, Luxembourg (TRATON International S.A.) of a loan of 
+€3,500 million granted to TRATON Sweden AB, Södertälje, Sweden (TRATON Sweden AB) 
+by way of capitalization measures.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+8
+
+(3) Net interest income/net interest expense
+ 
+€ thousand
+2024 
+2023
+Miscellaneous interest and similar income 1
+464,057
+372,353
+of which from affiliated companies 1
+274,737
+361,452
+Interest and similar expenses 1
+–756,323
+–622,255
+of which due to affiliated companies 1
+–432,212
+–434,039
+Interest from pension provisions
+3,585
+3,198
+ 
+–288,680
+–247,704
+¹ Since fiscal year 2024, interest expenses and income, which had previously been netted with certain  
+Group companies, will be presented on an unnetted basis, thereby compliant with legal financial reporting 
+­requirements and consistent with Group standards. The relevant prior-year amounts have been adjusted  
+to ensure comparability. 
+The interest income and expenses mainly relate to intragroup receivables, liabilities from 
+financial transactions, and bank interest and commission payments. The interest income 
+contains interest income on taxes of €26,462 thousand (previous year: €1,165 thousand). 
+The increase in miscellaneous interest and similar income and in interest and similar 
+expenses is partly due to interest rate and interest rate/currency hedges entered into since 
+March 2024 for hedged items of TRATON Financial Services that are sensitive to interest 
+rates (for further details, see Note “(20) Derivatives and micro hedges”). Intragroup 
+refinancing had an offsetting effect on both interest and income from affiliated companies 
+and interest and similar expenses to affiliated companies. In the year under review, net 
+interest income/expense contained €–31 thousand (previous year: €–14 thousand) from 
+the unwinding of discounts on provisions and €4,383 thousand (previous year: 
+€4,095 thousand) from the discounting of provisions.
+(4) Sales revenue
+ 
+€ thousand
+2024
+2023
+Services/cost allocations 
+45,491
+32,902
+Rental and leasing
+863
+2,664
+Other
+50
+30
+ 
+46,404
+35,596
+ 
+ 
+ 
+By region
+ 
+ 
+Germany
+15,628
+14,469
+Rest of Europe
+18,102
+11,840
+Other regions
+12,674
+9,287
+ 
+46,404
+35,596
+(5) General and administrative expenses
+ 
+€ thousand
+2024
+2023
+Personnel expenses
+76,275
+73,074
+Depreciation and amortization
+1,089
+1,364
+Other administrative expenses
+80,408
+62,872
+ 
+157,772
+137,310
+The increase in personnel expenses is mainly attributable to new employees joining 
+the Company. In the previous year, higher Executive Board remuneration had been 
+reported under this item due to personnel changes on the Executive Board. The rise in 
+other administrative expenses was mainly due to higher consultancy expenses in con-
+nection with the further realization of the TRATON Way Forward strategy. 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+9
+
+(6) Other operating income
+Other operating income of €439,752 thousand (previous year: €381,006 thousand) mainly 
+comprises income from financial derivatives and from foreign currency translation of 
+€367,687 thousand (previous year: €325,573 thousand). It also includes prior-year income 
+of €1,030 thousand (previous year: €6,853 thousand) from the reversal of provisions and 
+income from final accounting for legacy issues. 
+(7) Other operating expenses
+Other operating expenses of €536,787 thousand (previous year: €381,061 thousand) 
+include expenses that cannot be allocated to functional expenses and other taxes. The 
+item also includes prior-period expenses of €105,595 thousand incurred in connection 
+with the judicial award proceedings, which represent expenses of exceptional significance 
+within the meaning of section 285 no. 31 of the HGB. In addition, other operating expenses 
+include an amount of €381,205 thousand (previous year: €331,413 thousand) relating to 
+expenses from foreign currency translation. 
+(8) Income taxes
+For fiscal year 2024, there is tax income of €38,564 thousand (previous year: tax expense 
+of €81,045 thousand), which includes tax income resulting from an adjustment to the 
+provision for tax risks. A further €11,479 thousand comprises nonperiodic tax income and 
+€5,835 thousand comprises foreign income taxes. In the previous year, the tax expense 
+of €81,045 thousand had been dominated by tax expenses for the period and foreign 
+income taxes.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+10
+
+Balance Sheet Disclosures
+(9) Changes in fixed assets
+ 
+ 
+Cost
+Cumulative depreciation, amortization, 
+and write-downs
+ 
+Net carrying amounts
+€ thousand
+As of 
+01/01/2024
+Additions
+Disposals
+As of 
+12/31/2024
+As of 
+01/01/2024
+Additions
+Disposals
+As of 
+12/31/2024
+As of 
+12/31/2024
+As of 
+12/31/2023
+Intangible assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purchased concessions, industrial and similar rights and assets,  
+and licenses in such rights and assets
+17,296
+– 
+– 
+17,296
+– 15,444
+– 723
+– 
+– 16,167
+1,128
+1,852
+Prepayments
+ 
+271
+– 
+271
+– 
+– 
+– 
+– 
+271
+– 
+ 
+17,296
+271
+0
+17,566
+– 15,444
+–723
+– 
+– 16,167
+1,399
+1,852
+Property, plant, and equipment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Land, land rights, and buildings on third-party land
+1,163
+– 
+– 
+1,163
+– 149
+– 116
+– 
+– 265
+898
+1,014
+Operating and office equipment
+1,864
+55 
+–37 
+1,883
+– 494
+– 249
+30
+– 713
+1,169
+1,370
+ 
+3,027
+55
+– 37
+3,046
+– 643
+– 365
+30
+– 978
+2,068
+2,384
+Financial assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shares in affiliated companies 
+18,190,083
+ 3,824,736
+– 29
+22,014,789
+– 
+– 
+– 
+– 
+ 22,014,789
+18,190,083
+Loans to affiliated companies
+4,654,234
+ 500,000
+– 4,353,204
+801,030
+– 
+– 
+– 
+– 
+ 801,030
+4,654,234
+Equity investments
+97,451
+– 
+– 
+97,451
+– 97,285
+– 
+– 
+– 97,285
+ 166
+166
+ 
+22,941,768
+ 4,324,736
+– 4,353,233
+22,913,270
+– 97,285
+– 
+– 
+– 97,285
+ 22,815,985
+22,844,483
+Fixed assets
+22,962,091
+ 4,325,062
+– 4,353,270
+22,933,882
+– 113,372
+– 1,088
+ 30
+– 114,430
+ 22,819,452
+22,848,719
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+11
+
+The changes in fixed assets are shown in the statement of changes in fixed assets.
+Additions to shares in affiliated companies relate mainly to TRATON International S.A. In 
+the fiscal year, a loan of €3,500 million issued to TRATON Sweden AB was contributed to 
+TRATON International S.A. by way of capitalization measures. In the loans item, this is shown 
+under disposals. Disposals also included further repayments of loans of Scania CV AB in 
+an amount of €500,000 thousand and of TRATON Finance Luxemburg in an amount 
+of €350,000 thousand. Additions to loans relate to a loan of €500,000 thousand to 
+TRATON Treasury AB.
+(10) Receivables and other assets
+ 
+€ thousand
+Dec. 31, 2024
+Dec. 31, 2023
+Receivables from affiliated companies
+2,758,139
+2,054,624
+of which trade receivables
+10,185
+12,315
+of which due in more than one year
+60,136
+97,044
+Other assets
+68,155
+26,434
+of which due in more than one year
+32,271
+4,509
+ 
+2,826,301
+2,081,065
+Receivables from affiliated companies mainly comprise receivables from loans and 
+financial transactions. Their rise was driven mainly by intragroup refinancing, offset by 
+an adjustment to the noncurrent provision for tax risks. The other assets mainly comprise 
+derivative financial instruments, claims to tax refunds and interest payments relating to 
+taxes, and insurance claims. 
+(11) Deferred charges and prepaid expenses
+This item contains a debt discount of €5,537 thousand (previous year: €7,332 thousand).
+(12) Equity
+Subscribed capital (share capital)
+The subscribed capital (share capital) of TRATON SE amounts to €500,000,000 and is 
+composed of 500,000,000 no-par value bearer shares with a notional value of €1.00 each.
+All shares are fully paid up and have the same dividend rights. Under Article 6 (2) 
+­sentence 1 of the Articles of Association, shareholders may not claim delivery of physical 
+share certificates. 
+Authorized capital 
+In accordance with Article 5 (3) of the Articles of Association, the Executive Board is 
+authorized to increase the Company’s share capital on one or several occasions by a total 
+of up to €200,000,000 by issuing up to 200,000,000 no-par value bearer shares on a cash 
+and/or noncash basis on or before May 31, 2028, subject to the Supervisory Board’s 
+approval (Authorized Capital 2023). The dividend entitlement of new shares can be deter-
+mined contrary to the provisions of section 60 (2) of the AktG.
+Shareholders must be granted preemptive rights unless the Executive Board makes use 
+of one of the following authorizations to disapply preemptive rights, with the consent of 
+the Supervisory Board. The new shares may also be underwritten by a credit institution 
+or an entity operating pursuant to section 53 (1) sentence 1 of the Kreditwesengesetz 
+(KWG — German Banking Act) or section 53b (1) sentence 1 or (7) of the KWG (financial 
+institution) to be designated by the Executive Board, or by a consortium of such credit or 
+financial institutions, with the obligation to offer them for sale to shareholders of the 
+Company. The Executive Board is authorized, with the consent of the Supervisory Board, 
+to disapply shareholders’ preemptive rights in the following cases:
+a)	 To settle fractions resulting from a capital increase
+b)	 To the extent necessary to grant holders or creditors of convertible bonds or bonds 
+with warrants, as well as convertible profit participation rights, issued by the Company 
+and/or its direct or indirect majority investees a preemptive right to new shares in the 
+amount to which they would be entitled following the exercise of their options or 
+conversion rights or after meeting their exercise of option or conversion obligations
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+12
+
+c)	 If the new shares are issued against cash contributions and the issue price of the new 
+shares is not materially lower than the quoted market price of existing listed shares of 
+the Company at the date when the issue price is finally determined, which should be 
+as close as possible to the placement of the shares. However, this authorization to 
+disapply preemptive rights applies only to the extent that the notional amount of the 
+share capital attributable to the shares issued with preemptive rights disapplied in 
+accordance with section 186 (3) sentence 4 of the AktG does not exceed a total of 10% 
+of the share capital, meaning neither the share capital existing when this authorization 
+takes effect, nor the share capital existing at the date when this authorization is 
+exercised. Shares that (i) are sold or issued, with preemptive rights disapplied, during 
+the term of this authorization up to the date of its exercise on the basis of other 
+authorizations in direct application, or application with the necessary modifications, 
+of section 186 (3) sentence 4 of the AktG, or (ii) shares that were issued or will be issued, 
+with preemptive rights disapplied, to settle bonds or profit participation rights with 
+conversion or exercise rights or obligations will be counted toward this limit, to the 
+extent that the bonds or profit participation rights were issued during the term of this 
+authorization up to the date of its exercise, in application, with the necessary modifi-
+cations, of section 186 (3) sentence 4 of the AktG. 
+d)	 To the extent that the capital increase is implemented to grant shares against noncash 
+contributions, in particular for the purposes of acquiring companies, parts of compa-
+nies, or investments in companies, or other assets 
+The Executive Board is also authorized to define further details of the capital increase and 
+its implementation, with the consent of the Supervisory Board. The Supervisory Board is 
+authorized to amend the wording of Article 5 of the Articles of Association following the 
+complete or partial implementation of the capital increase from Authorized Capital 2023 
+or after the expiration of the authorization period, in line with the scope of the capital 
+increase.
+Contingent capital
+Additionally, under Article 5 (4) of the Company’s Articles of Association, the Company’s 
+share capital may also be increased by up to €50,000,000 on a contingent basis through 
+the issue of up to 50,000,000 bearer shares (no-par value shares) (Contingent Capital 
+2023). The sole purpose of Contingent Capital 2023 is to issue new shares to the holders/
+creditors of bonds which are issued by the Company or by other companies in which the 
+Company directly or indirectly holds a majority interest up to May 31, 2028, in accordance 
+with a resolution passed by the shareholders under item 10.2 of the agenda for the 
+meeting of June 1, 2023, in the event that conversion and/or option rights are exercised 
+or conversion or option exercise obligations are settled or the Company makes use of 
+its right to grant shares in the Company, either in full or in part, in lieu of payment of the 
+respective cash amount. The shares are issued at the conversion or option price to be 
+determined in accordance with the aforementioned resolution. The contingent capital 
+increase will only be implemented to the extent that conversion rights or options are 
+exercised or conversion or option exercise obligations are settled, or the Company exer-
+cises its right to grant shares of the Company, either in full or in part, in lieu of payment 
+of the cash amount due, and to the extent that other instruments are not used to settle 
+the conversion rights or options.
+The new shares carry dividend rights from the beginning of the fiscal year in which they 
+are issued. To the extent permitted by law, the Executive Board may, with the consent of 
+the Supervisory Board, determine the dividend rights in derogation of the above and of 
+section 60 (2) of the AktG, including for a fiscal year that has already closed.
+The Executive Board is authorized to define further details of the implementation of the 
+contingent capital increase, with the consent of the Supervisory Board.
+Capital reserves
+TRATON SE’s capital reserves of €12,495,313 thousand (previous year: €13,295,313 thousand) 
+constitute the contributions by Volkswagen AG to TRATON SE, in particular from the 
+contribution of MAN SE and Scania AB. €800,000 thousand (previous year: €400,000 thou-
+sand) was withdrawn from the capital reserves during the year under review.
+The entire capital reserves of €12,495,313 thousand are distributable capital reserves 
+within the meaning of section 272 (2) no. 4 of the Handelsgesetzbuch (HGB ― German 
+Commercial Code).
+Retained earnings
+Revenue reserves include legal reserves of €28,228 thousand.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+13
+
+Net retained profit
+The net retained profit changed as follows in the fiscal year:
+ 
+€ thousand
+Dec. 31, 2024
+Opening balance as of 01/01/2024
+952,103
+Payment of a dividend for the 2023 fiscal year in 2024
+–750,000
+Net loss for the year
+–91,816
+Withdrawal from the free capital reserves
+800,000
+Closing balance as of 12/31/2024
+910,287
+The Executive Board and Supervisory Board of TRATON SE will propose the payout of a 
+dividend from net retained profit of €1.70 (previous year: €1.50) per dividend-bearing 
+share to the shareholders at the Annual General Meeting for fiscal year 2024 and that the 
+remaining amount be carried forward to new account. This proposal corresponds to a 
+total payout of €850 million (previous year: €750 million).
+Amounts excluded from distribution
+The difference of €11,381 thousand (previous year: €7,200 thousand) between the acqui-
+sition cost and fair value of assets measured at fair value serving solely to meet pension 
+and partial retirement obligations is subject to restrictions on distribution. The difference 
+between the provision for pension obligations based on the corresponding average mar-
+ket interest rate in the past ten fiscal years and the past seven fiscal years has not resulted 
+in any amount subject to restrictions on distribution (previous year: €162 thousand). This 
+amount is offset by free capital reserves.
+(13) Provisions
+a) Provisions for pensions 
+Occupational pension provision mainly comprises defined benefit pension commitments. 
+TRATON SE grants its employees in Germany occupational pension benefits, including 
+disability and death cover, for the period after the end of their active service based on 
+the works agreements “TRATON occupational pension provision (BV TAV)” and “TRATON 
+capital account plan (BV KKP),” which applies for senior management and Executive Board 
+members. 
+Employees receive employer contributions linked to their remuneration and also have 
+the option — subsidized by the employer in the case of employees covered by collective 
+bargaining agreements — to make additional pension savings through deferred com-
+pensation. The employer- and employee-funded contributions plus returns on capital 
+market investments allow staff to accumulate plan assets during their active employment 
+that are paid out as a lump sum or in installments on retirement, or that can be annuitized 
+in certain cases. The risk of the investments is gradually reduced as employees get older 
+(life cycle concept). The performance of the plan assets is based on the return on capital 
+investments.
+The pension assets of TRATON SE are managed by MAN Pension Trust e.V., Munich. These 
+assets are irrevocably protected from recourse by TRATON SE and may only be used to 
+fund current pension benefit payments or to settle claims by employees in the event of 
+insolvency. 
+The following measurement parameters were used:
+ 
+ 
+Dec. 31, 2024
+Dec. 31, 2023
+Actuarial interest rate
+1.90%
+1.82%
+Actuarial interest rate (average market rate in seven fiscal years)
+1.96%
+1.74%
+Pension trend
+2.00%
+2.20%
+Salary trend 
+3.20%
+3.20%
+The percentage used to calculate the salary trend takes into account increases attributable 
+to career development as an addition to regular salary increases. 
+A company-specific staff turnover probability rate is used to reflect termination of employ-
+ment contracts before entitlement to claim benefits.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+14
+
+The biometric parameters are based on the 2005 G mortality tables published by 
+­Professor Klaus Heubeck. These were adapted to match TRATON GROUP-specific experi-
+ence, most recently in 2017, and thus model mortality at TRATON SE better than the 
+updated RT 2018 G mortality tables.
+Change in pension obligations
+€ thousand
+ 
+Value of obligations as of 01/01/2024
+–66,899
+Interest allocation
+–1,062
+Allocation from personnel expenses
+–5,592
+Payments/employee contributions
+2,120
+Staff turnover
+–861
+Value of pension obligations as of 12/31/2024
+–72,294
+ 
+ 
+Change in pension assets
+ 
+Pension assets as of 01/01/2024
+62,626
+Income realized from pension assets
+484
+Other changes
+923
+Gains/losses from fair value measurement
+4,163
+Fair value of pension assets as of 12/31/2024
+68,196
+Purchase cost of pension assets as of 12/31/2024
+56,833
+ 
+ 
+Provisions for pensions
+–4,098
+The impact on profit or loss resulting from fund assets in the amount of €4,647 thousand 
+has been combined with the interest allocations of €1,062 thousand in accordance with 
+section 246 (2) sentence 2 of the HGB. The resulting amount of €3,585 thousand is con-
+tained in net interest income/expense in the “Interest from pension provisions” item.
+The difference between the provision for pension obligations based on the corresponding 
+average market interest rate in the past ten fiscal years and the past seven fiscal years is 
+€–106 thousand (previous year: €162 thousand).
+b) Tax provisions
+As of December 31, 2024, tax provisions amounted to €143,959 thousand (previous year: 
+€154,272 thousand).
+c) Other provisions
+Other provisions were mainly recognized for the judicial award proceedings, expected 
+losses on derivatives, obligations under public law, obligations for Executive Board remu-
+neration, and for other individual risks. The increase is principally attributable to an addi-
+tion of €100,888 thousand for the judicial award proceedings and of €28,470 thousand 
+for expected losses on derivatives, taking them to €50,037 thousand. This was set against 
+the reversal of a provision of €1,890 thousand for obligations under public law. 
+As of December 31, 2024, derivatives with positive fair values of €5,296 thousand (previous 
+year: €5,382 thousand) and negative fair values of €6,395 thousand (previous year: 
+€1,931 thousand) were recognized in other assets and other provisions due to use of the 
+gross hedge presentation method. 
+The partial retirement liabilities of €2,542 thousand (previous year: €2,540 thousand) 
+were offset against partial retirement credits of €1,279 thousand (previous year: 
+€1,037 thousand). The purchase cost of the partial retirement credits was €1,251 thousand 
+(previous year: €1,051 thousand). The fair value of the partial retirement credits offset 
+was determined on the basis of market prices. Fair value measurement resulted in a loss 
+of €32 thousand (previous year: €34 thousand). The income of €43 thousand (previous 
+year: €39 thousand) was netted with the expenses of €18 thousand (previous year: 
+€11 thousand) and reported in other interest and similar income.  
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+15
+
+(14) Liabilities
+ 
+ 
+€ thousand 
+12/31/2024 
+Total
+of which 
+< 1 year
+of which 
+1–5 years
+of which 
+> 5 years
+12/31/2023 
+Total
+of which 
+< 1 year
+of which 
+1–5 years
+of which 
+> 5 years
+Liabilities to banks
+2,365,327
+365,327
+2,000,000
+–
+3,643,978
+1,793,978
+1,850,000
+–
+Trade payables
+28,861
+28,861
+–
+–
+20,008
+20,008
+–
+–
+Liabilities to affiliated companies
+9,319,937
+7,619,937
+950,000
+750,000
+6,418,437
+3,656,437
+1,812,000
+950,000
+of which trade receivables
+10,059
+10,059
+–
+–
+10,944
+10,944
+ 
+ 
+Liabilities to long-term investees and investors
+16,460
+16,460
+–
+–
+16,287
+16,287
+–
+–
+Other liabilities
+59,692
+59,692
+–
+–
+23,802
+23,802
+ 
+–
+of which from taxes 
+6,724
+6,724
+–
+–
+963
+963
+–
+–
+Other liabilities
+9,424,950
+7,724,950
+950,000
+750,000
+6,478,534
+3,716,534
+1,812,000
+950,000
+ 
+11,790,277
+8,090,277
+2,950,000
+750,000
+10,122,512
+5,510,512
+3,662,000
+950,000
+The liabilities to banks are unsecured.
+The liabilities to affiliated companies mainly comprise loan liabilities and liabilities 
+relating to the central financing of the TRATON GROUP. The €2,901 million increase is 
+attributable to intragroup refinancing. In this context, liabilities to Scania CV rose by 
+€1,443 million and those to TRATON Sweden AB by €1,039 million.
+The liabilities to long-term investees and investors are financial liabilities. 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+16
+
+Other Annual Financial Statement Disclosures
+(15) Contingent liabilities and commitments
+ 
+€ thousand
+Dec. 31, 2024
+Dec. 31, 2023
+Contingent liabilities under guarantees
+11,014,934
+9,869,112
+ 
+11,014,934
+9,869,112
+The year-on-year increase in contingent liabilities under guarantees mainly results from 
+further drawings under the EMTN program launched in 2021 (increase of €2,487 million 
+to now €10,817 million), which is secured by a guarantee provided by TRATON SE for the 
+liabilities of TRATON Finance Luxemburg in respect of the bond creditors. 
+At the same time there was a decrease in guarantees for the liabilities of TRATON Finance 
+Luxemburg relating to issuances under the CP program in 2023 (decrease of €810 million 
+to now €189 million). 
+Moreover, there was no longer a need for guarantees provided by TRATON SE (previous 
+year: €531 million) to collateralize litigation guarantees of Volkswagen Truck & Bus 
+Indústria e Comércio de Veículos Ltda. in connection with possible tax risks, after the 
+corresponding litigation guarantees had been replaced by insurance bonds without 
+recourse liability by TRATON SE. 
+The miscellaneous guarantees amounting to €9 million (previous year: €10 million) secure 
+obligations of present or former Group companies relating to order processing.
+The contingent liabilities under guarantees to third parties exclusively provide collateral 
+for liabilities of affiliated companies. Since it is probable that the affiliated companies 
+concerned will be able to settle the obligations underlying the contingent liabilities, we 
+do not expect the guarantees to be utilized.
+TRATON SE is liable for the pension liabilities it transferred to WTW Pensionsfonds AG, 
+Wiesbaden, in the event of nonperformance. Under German GAAP, the settlement amount 
+of these indirect obligations is not fully funded by the attributable pension assets. 
+However, the assets available at WTW Pensionfonds AG, Wiesbaden, meet the statutory 
+minimum asset requirement. Therefore, under Article 28 (2) of the Einführungsgesetz 
+zum Handelsgesetzbuch (EGHGB — Introductory Act to the German Commercial 
+Code), the risk of utilization is deemed to be low at €13,200 thousand (previous year: 
+€14,562 thousand).
+TRATON SE recognizes contingent liabilities of €35 million (previous year: €35 million) 
+for the provision of security for third-party liabilities comprising possible expenses in 
+connection with its business activities in fiscal year 2024. TRATON SE does not currently 
+expect these to have a material adverse effect on its assets, financial position, or results 
+of operations because it is probable that the underlying liabilities of the affiliates con-
+cerned can be settled in full so we do not expect the security to be utilized.
+(16) Litigation/legal proceedings
+MAN and Scania/EU antitrust proceedings
+In July 2016, the European Commission reached settlements (the “Settlement Decision”) 
+with MAN and four other European truck manufacturers (excluding Scania) finding col-
+lusive arrangements on pricing and the timing and the passing on of costs for emission 
+technologies for medium- and heavy-duty trucks from January 17, 1997, to January 18, 2011 
+(for MAN: until September 20, 2010). MAN was granted immunity from fines since it had 
+revealed these practices to the European Commission in September 2010. Scania decided 
+not to apply for leniency and not to settle this antitrust case and, by decision of the Euro-
+pean Commission dated September 27, 2017 (the “Scania Decision”), received a fine in 
+the amount of approximately €880.5 million. Scania appealed the Scania Decision to the 
+General Court of the European Union and asked for full annulment. On February 2, 2022, 
+the General Court rendered its judgment, whereby Scania’s appeal was dismissed in its 
+entirety and the amount of fines set by the European Commission upheld. On April 8, 2022, 
+Scania appealed against the judgment of the General Court of the European Union from 
+February 2, 2022, to the European Court of Justice. The €880.5 million fine plus interest 
+from the EU antitrust proceedings was paid on April 12, 2022, to avoid additional interest 
+penalties. On February 1, 2024, the European Court of Justice decided to dismiss Scania’s 
+appeal. 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+17
+
+Following the Settlement Decision, a significant number of (direct and indirect) truck 
+customers in various jurisdictions have initiated or joined lawsuits against MAN and/or 
+Scania. With the merger of MAN SE with TRATON SE taking effect, TRATON SE has — in 
+most jurisdictions — automatically assumed the procedural role of MAN SE as legal suc-
+cessor in the respective proceedings (and is insofar covered by “MAN companies”). Even 
+if such claims may have expired under the respective applicable local laws, it cannot be 
+excluded that further lawsuits will be filed. The claims against MAN companies differ 
+significantly in scope; while some truck customers only bought or leased a single truck, 
+other cases concern a multitude of trucks. Furthermore, some truck customer damages 
+claims have been combined in class actions or through claim aggregators to which the 
+truck customers assigned their respective damages claims. 
+MAN takes the view that there are well-founded arguments against such claims and takes 
+appropriate steps to defend itself. 
+However, it cannot be excluded that these claims result in substantial liabilities for MAN 
+including significant costs for their defense, which may have a material adverse effect on 
+MAN’s financial results, cash flows and financial positions. Given the inherently complex 
+nature of these claims and the different stages of the proceedings (with a number of 
+cases still in a rather early stage), it is not possible to make a reliable estimate of the total 
+liability that may arise from these claims. MAN is continuously monitoring the develop-
+ment and re-assesses the respective risks on a regular basis.
+A relatively small number of (direct and indirect) customers in various jurisdictions have 
+initiated or joined lawsuits against Scania. Further, Scania has received a number of third-
+party notices from other defendant commercial vehicle manufacturers. As is the case for 
+MAN, the claims against Scania differ significantly in scope as some customers only 
+bought or leased one truck while others operate a whole fleet of commercial vehicles. 
+Furthermore, some customer damages claims in other jurisdictions have been combined 
+in class actions or through claim aggregators. The exact number of commercial vehicles 
+involved is, however, unknown. 
+As of December 31, 2024, no provisions were recognized in the TRATON GROUP for the 
+majority of these cases as it is not assumed as of the reporting date that there will be a 
+final and unappealable court ruling awarding damages. 
+VW Truck & Bus Ltda.
+In the tax proceedings between Volkswagen Truck & Bus Indústria e Comércio de 
+Veículos Ltda. (VW Truck & Bus Ltda.), formerly MAN Latin America Indústria e Comércio 
+de Veículos Ltda. (MAN Latin America), and the Brazilian tax authorities, the Brazilian tax 
+authorities took a different view of the tax implications of the acquisition structure chosen 
+by MAN SE (now merged with TRATON SE) for the acquisition of VW Truck & Bus Ltda. in 
+2009. The tax proceedings have been divided into two auditing periods, covering the 
+years 2009–2011 (Phase 1) and 2012–2014 (Phase 2). In December 2017, an adverse last 
+instance judgment was rendered by the Brazilian Administrative Court (Phase 1), which 
+was negative for VW Truck & Bus Ltda. VW Truck & Bus Ltda. appealed this judgment 
+before a regular judicial court in 2018. This lawsuit was dismissed in 2019, and an appeal 
+was filed against the dismissal. The appeal was then rejected in June 2023, and a petition 
+for review was filed in July 2023. In the tax proceeding related to Phase 2, a partial success 
+was achieved that partly reduced the penalties. An appeal against this decision was 
+filed, which was rejected in September 2023, thus concluding the Administrative Court 
+proceedings. As a result of a new law regarding the handling of casting vote decisions 
+in September 2023, VW Truck & Bus Ltda. filed an objection to the determinations in 
+October 2023. In May 2024, a law amendment already resulted in a significant reduction 
+in the penalties in Phase 2, followed in November 2024 by the complete repeal of isolated 
+and qualified Phase 2 penalties. 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+18
+
+Due to the potential range of penalties plus interest which could apply under Brazilian 
+law, the estimated size of the risk in the event that the tax authorities are able to prevail 
+overall with their view is uncertain. This could result in a risk of about BRL 3,068 million 
+(equivalent to €477 million as of December 31, 2024) for the contested period from 2009 
+onward. This assessment is based on the accumulated accounts at the reporting date for 
+the claimed tax liability including the potential penalty surcharges, as well as accumulated 
+interest, but excluding any future interest and without discounting any cash flows. Several 
+insurers have issued bank guarantees for the benefit of VW Truck & Bus Ltda. as is cus-
+tomary in connection with such tax proceedings. 
+Update on the MAN SE merger squeeze-out
+The merger of MAN SE with TRATON SE was entered in the commercial register of MAN SE 
+and TRATON SE on August 31, 2021. With this, MAN SE ceased to exist as an independent 
+legal entity, and all rights and obligations were transferred to TRATON SE. MAN SE shares 
+were delisted at the same time.
+Cash compensation in the amount of €70.68 per common and preferred share was 
+paid out to MAN SE noncontrolling shareholders on September 3, 2021. This marked the 
+conclusion of the MAN SE merger squeeze-out. The appropriateness of the cash compen-
+sation will be reviewed by a court-appointed auditor as part of the judicial award proceed-
+ings initiated by affected noncontrolling interest shareholders as applicants. 
+By way of a ruling dated December 20, 2024, which is not yet final, the Regional Court of 
+Munich I increased the cash compensation to €79.71 per common and preferred share. 
+Various applicants as well as TRATON SE appealed against this ruling in January 2025. 
+In fiscal year 2024, €106 million was recognized under other operating expenses and 
+€3 million was recognized as interest income from discounting.
+(17) Other financial obligations
+Other financial obligations mainly comprise rental and lease agreements and purchase 
+commitments. The future payments — up to the end of the minimum term of these agree-
+ments — are due as follows:
+ 
+€ thousand
+Dec. 31, 2024
+Dec. 31, 2023
+Due within one year
+19,697
+16,624
+Due in more than one and up to five years
+38,109
+38,448
+Due after more than five years
+8,911
+12,340
+ 
+66,717
+67,412
+of which due to affiliated companies
+2,667
+1,895
+(18) Other income statement disclosures
+Cost of materials
+€ thousand
+2024
+2023
+Expenses for purchased services
+33,668
+27,537 
+ 
+33,668
+27,537
+General and administrative expenses contain the following personnel expenses:
+ 
+€ thousand
+2024
+2023
+Wages and salaries
+71,317
+67,298
+Social security contributions, retirement benefit expenses
+12,217
+11,669
+ 
+83,534
+78,967
+Retirement benefit expenses were €5,640 thousand (previous year: €6,165 thousand).
+During the year, there were an average of 345 (previous year: 312) employees employed 
+exclusively in administration.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+19
+
+(19) Deferred taxes
+The tax rate used to measure deferred taxes is 31.88%.
+Deferred tax liabilities relating to measurement differences between the commercial and 
+tax accounts are offset against deferred tax assets relating to the measurement differ-
+ences. Deferred tax assets remaining after this offset are not capitalized due to exercise 
+of the recognition option pursuant to section 274 (1) sentence 2 of the HGB. The remaining 
+deductible temporary differences, for which no deferred tax assets are recognized, in 
+application of the above recognition option, mainly comprise loss carryforwards and mea-
+surement differences relating to provisions for pensions and other noncurrent provisions.
+The introduction of Global Minimum Taxation (Pillar 2) has not led to any material costs 
+for the TRATON GROUP. The TRATON GROUP has applied the exemption from the recog-
+nition and disclosure of deferred taxes in connection with Pillar 2 income taxes.
+(20) Derivatives and micro hedges
+The companies in the TRATON GROUP hedge their interest rate, foreign currency, 
+and commodity risks on an arm’s length basis via the central Group Treasury unit at 
+TRATON SE or the central Group Treasury unit at TRATON Treasury AB, Södertälje, Sweden 
+(Scania CV AB). 
+TRATON SE’s risks positions are hedged externally with banks. TRATON SE currently enters 
+into currency forwards, currency options, interest rate swaps, cross-currency swaps, and 
+commodity futures transactions with cash settlement. Exceptions from this process are 
+TRATON Finance Luxembourg S.A. and TRATON SWEDEN AB, which enter into external 
+interest rate and currency hedges in connection with risks resulting from external 
+financing transactions, which are passed on internally. Some companies of International 
+Motors LLC, Lisle, Illinois, USA (formerly Navistar) enter into their own external currency 
+options and commodity futures. However, the majority of these hedging transactions are 
+undertaken through TRATON SE. As of December 31, 2024, International had commodity 
+derivatives amounting to USD 37 million and FX derivatives amounting to USD 137 million 
+in its portfolio. Of these derivatives, only the commodity derivatives of USD 37 million had 
+been entered into separately with external parties without being passed on by TRATON SE. 
+The maximum term of the commodity derivatives is year-end 2025. The maximum term 
+of the FX derivatives is June 2027. Apart from those, International had no external interest 
+rate swaps, but it does have two internal interest rate swaps with TRATON SE, which run 
+until April 2026.
+In addition, the portfolio contains a large number of currency forwards, currency options, 
+interest rate swaps and cross-currency swaps of Scania CV AB. TRATON Treasury AB also 
+continues to enter into external transactions in the name of Scania CV AB.
+The fair value of currency forwards and commodity futures is calculated on the basis of 
+the exchange rates applicable as of the reporting date, which are obtained from recog-
+nized providers of market data, compared with the agreed forward exchange rate or 
+commodity futures price and the discount rate for the remaining term of the derivatives. 
+The fair value of the interest rate swaps and cross-currency swaps is determined by 
+discounting the expected future cash flows over the remaining term of the swap using 
+current market interest rates and the interest structure curve. 
+TRATON SE uses micro hedges, where an individual hedged item is allocated to a hedging 
+instrument, and portfolio hedges. In portfolio hedges, several transactions are grouped, 
+for example, in annual maturity bands per currency. The individual currency and maturity 
+combinations and the interest rate and maturity bands therefore comprise exposure to 
+similar risks. Hedging of the foreign currency portfolio of TRATON SE is close to 100%. 
+Similarly, items of TRATON SE that are sensitive to interest rates are hedged on a case-by-
+case basis using external interest rate swaps. As of December 31, 2024, the hedged items 
+that were sensitive to interest rates comprised one fixed-interest intragroup loan in a 
+foreign currency and one fixed-interest external loan in euros; these are hedged through 
+interest rate swaps. The external loan in the amount of €1,000 million was hedged using 
+five interest rate swaps. Moreover, there are two internal interest rate swaps with Interna-
+tional that are hedged by back-to-back external interest rate swaps as well as a loan at 
+Volkswagen AG that has been hedged by an external interest rate swap. Since March 2024, 
+items and foreign exchange risk exposures of the TRATON Financial Services Group are 
+also hedged by Treasury of TRATON Treasury AB in the name of TRATON SE. This has 
+resulted in a sharp rise in the volume of interest rate hedges, interest rate/currency hedges 
+and currency forwards entered into in the name of TRATON SE.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+20
+
+Changes in the fair value of the hedging instruments are offset by offsetting movements 
+in the fair value of the hedged items. The opposing fluctuations in value essentially cancel 
+each other out by the end of the term of the hedge because the risks correlate due to the 
+correlation between the parameters. The hedging instruments have terms of up to four 
+years. The effectiveness of each portfolio hedge is determined retrospectively during its 
+term on the basis of the change in the fair values of the hedged items and the hedging 
+instruments (dollar offset method). For each micro hedge, the amounts, currency units, 
+and settlement dates of the hedged item and the hedging instrument are compared 
+(critical term match). If they are basically identical, the hedge is assumed to be effective. 
+Effectiveness is determined when preparing the Annual Financial Statements. 
+For micro hedges where internal accounts at TRATON are hedged against currency risk, 
+all changes in the fair value of the hedged item and hedging instrument are recognized 
+in the financial statements (gross hedge presentation method). Where internal derivatives 
+are hedged, they are recognized using the net hedge presentation method. If the hedge 
+is effective and the net fair value is negative, a provision is established for the hedge. In 
+principle, both methods can be used for hedges of foreign currency money market trans-
+actions, but only one method is used for each transaction.
+As of December 31, 2024, there was a provision of €50,037 thousand (previous year: 
+€21,566 thousand) for micro hedges. Further, there was no ineffectiveness due to the use 
+of micro hedges.
+As of December 31, 2024, derivatives with positive fair values of €5,296 thousand (previous 
+year: €5,382 thousand) and negative fair values of €6,395 thousand (previous year: 
+€1,931 thousand) were recognized in other assets and other provisions due to use of the 
+gross hedge presentation method.
+For currency option contracts concluded with affiliated companies and passed through 
+to banks, option premiums of €4,873 thousand (previous year: €4,873 thousand) were 
+capitalized as other assets and option premiums of €4,873 thousand (previous year: 
+€4,873 thousand) were expensed as other liabilities.
+The following table shows the risk exposure resulting from transactions in foreign cur-
+rencies. These were hedged through derivatives entered into with banks.
+Hedged items
+€ million
+Dec. 31, 2024
+Dec. 31, 2023
+Assets
+851
+418
+Liabilities
+780
+83
+Forecast transactions 1)
+1,990
+1,210
+1) Of which as of December 31, 2024: assets €1,620 million, liabilities €369 million  
+(previous year: assets €1,030 million, liabilities €179 million)
+On the reporting date, hedging transactions were as follows:
+ 
+€ million
+Dec. 31, 2024
+Dec. 31, 2023
+Intragroup hedging transactions
+ 
+ 
+Nominal amount
+ 
+ 
+Purchase of foreign currency
+1,574
+1,028
+Sale of foreign currency
+317
+178
+Currency options
+136
+132
+Commodity futures
+94
+107
+Interest rate swaps
+4,300
+271
+Cross-currency swaps
+1,797
+–
+ 
+ 
+ 
+Fair value (FV)
+Pos. FV
+Neg. FV
+Pos. FV
+Neg. FV
+Currency forwards
+13
+–13
+11
+–27
+Currency options
+5
+0
+5
+–1
+Commodity futures
+3
+–3
+2
+–2
+Interest rate swaps
+20
+–29
+–
+–
+Cross-currency swaps
+14
+–56
+–
+–
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+21
+
+ 
+€ million
+Dec. 31, 2024
+Dec. 31, 2023
+Hedging transactions with external counterparties
+ 
+ 
+Nominal amount
+ 
+ 
+Purchase of foreign currency
+913
+319
+Sale of foreign currency
+2,241
+1,504
+Currency options
+136
+132
+Commodity futures
+94
+107
+Interest rate swaps
+5,551
+1,273
+Cross-currency swaps
+1,797
+–
+ 
+ 
+ 
+Fair value (FV)
+Pos. FV
+Neg. FV
+Pos. FV
+Neg. FV
+Currency forwards
+18
+–18
+46
+–16
+Currency options
+0
+–5
+1
+–5
+Commodity futures
+3
+–3
+2
+–2
+Interest rate swaps
+44
+–20
+–
+–
+Cross-currency swaps
+56
+–14
+–
+–
+There were no stand-alone derivatives either on December 31, 2024, or in the previous year.
+(21) Auditor’s fees
+ 
+€ thousand
+2024
+2023
+Audit services
+1,766
+1,807
+Other assurance services
+280
+497
+Other benefits
+–334
+28
+ 
+2,379
+2,332
+Audit services comprise the auditing of the consolidated financial statements and the 
+single-entity financial statements of TRATON SE and the audit review of the consolidated 
+interim financial statements. The other assurance services were incurred primarily in con-
+nection with capital measures, and the audit of the remuneration report required under 
+stock corporation law. Other benefits also include the reasonable assurance audit of the 
+nonfinancial Group statement.
+(22) Related party disclosures
+Liabilities to the current members of the Executive Board and Supervisory Board comprise 
+outstanding balances for the remuneration of the Supervisory Board, for the fair values 
+of performance shares granted to members of the Executive Board, and for variable remu-
+neration in the amount of €15,081 thousand (previous year: €8,524 thousand). Of this 
+amount, €3,099 thousand (previous year: €1,692 thousand) will be reimbursed by 
+MAN Truck & Bus SE and €– thousand (previous year: €473 thousand) by TRATON SE to 
+International. Disclosures on pension provisions for members of the Executive Board can 
+be found in Note “(23) Remuneration of the Executive Board and Supervisory Board.”
+The following expenses were recorded for remuneration and benefits granted to the 
+members of the Executive Board and Supervisory Board of TRATON SE in connection with 
+their membership of these boards: 
+ 
+€ thousand
+2024
+2023
+Amounts due in the short term
+11,086
+9,492
+Amounts based on performance shares
+5,622
+3,531
+Post-employment benefits
+1,068
+968
+Termination benefits
+–
+11,463
+Total 1)
+17,776
+25,454
+1) Pro-rata reimbursement of fixed (excluding fringe benefits) and variable remuneration components by  
+MAN Truck & Bus SE: amounts due in the short term €1,659 thousand (previous year: €1,411 thousand); amounts 
+based on performance shares €1,279 thousand (previous year: €672 thousand). Pro-rata reimbursement of fixed 
+(excluding fringe benefits) and variable remuneration components to International until September 30, 2024: 
+amounts due in the short term €128 thousand (previous year: €378 thousand); amounts based on performance 
+shares €– thousand (previous year: €192 thousand).
+The employee representatives on the Supervisory Board who are employed by TRATON SE 
+also receive their regular salaries as specified in their employment contracts. If they are 
+members of German works councils, this is based on the provisions of the Betriebs­
+verfassungsgesetz (BetrVG — German Works Council Constitution Act).
+Benefits based on performance shares include the expenses for the performance shares 
+granted to Executive Board members under the remuneration system in place. 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+22
+
+Post-employment benefits relate to additions to pension provisions and — depending 
+on the social security system — contributions to the Swedish pension system for current 
+members of the Executive Board. 
+The termination benefits in 2023 relate to the payments to Ms. Danielski and Mr. Osterloh 
+in connection with their departure from the Executive Board before the end of their term 
+of office. No member left the Executive Board of TRATON SE in 2024.
+(23) Remuneration of the Executive Board and Supervisory Board
+The total remuneration granted to the members of the Executive Board amounted to 
+€11,057 thousand (previous year: €10,000 thousand). Of this amount, €2,333 thousand 
+(previous year: €1,905 thousand) will be reimbursed by MAN Truck & Bus SE. The amount 
+also includes €128 thousand (previous year: €510 thousand) to be reimbursed by 
+TRATON SE to International. 
+Four of the TRATON SE Executive Board members also serve as executive board members 
+at TRATON SE’s foreign subsidiaries (Mr. Levin: Scania CV AB, Mr. Cortes: Volkswagen 
+Truck & Bus Indústria e Comércio de Veículos  Ltda., Mr. Carlbaum: International; 
+Ms. Modahl Nilsson: TRATON AB). Mr. Levin’s remuneration has been divided between 
+TRATON SE and Scania CV AB based on areas of responsibility. Mr. Cortes receives 20% 
+of his fixed (without fringe benefits) and variable remuneration components from 
+TRATON SE and the remaining 80% from Volkswagen Truck & Bus Indústria e Comércio 
+de Veículos Ltda. Until September 30, 2024, Mr. Carlbaum received 100% of his remuner-
+ation from Scania CV AB and International on the basis of a secondment agreement 
+between him and these two companies. TRATON SE bears 20% of the expenses for fixed 
+remuneration (excluding fringe benefits) and variable remuneration through intragroup 
+cross-charging. The secondment ended on October 1, 2024, and since then Mr. Carlbaum 
+has been employed directly by International in addition to his employment contract with 
+TRATON SE. Since October 1, 2024, Mr. Carlbaum has received 20% of his fixed (without 
+fringe benefits) and variable remuneration components from TRATON SE and the remain-
+ing 80% from International. Ms. Modahl Nilsson receives 20% of her fixed (without fringe 
+benefits) and variable remuneration components from TRATON SE and the remaining 
+80% from TRATON AB.
+The remuneration of the members of the Executive Board is based on the revised remu-
+neration system (“remuneration system”), which features a performance share plan with 
+a forward-looking four-year term (share-based payment). It was adopted by the Supervisory 
+Board effective from January 1, 2024, and largely corresponds to the remuneration system 
+already adopted on December 16, 2020, and effective from January 1, 2021, and most 
+recently approved by the Annual General Meeting on June 9, 2022. The remuneration 
+system applies to all members of the Executive Board with new or extended employment 
+contracts from the date of the 2024 Annual General Meeting. For the members of the 
+Executive Board who were already in office prior to December 16, 2020, the remuneration 
+system shall apply until their contract is renewed and with the proviso that the perfor-
+mance share plan will continue to have a performance period of three years. This no 
+longer applied to any active members of the Executive Board in fiscal year 2024. A per-
+formance share plan with a four-year performance period has also been in place for 
+Mr. Levin and Mr. Cortes since fiscal year 2024. At the time the LTI is granted, the annual 
+target amount under the LTI is converted into virtual performance shares on the basis of 
+the initial reference price of TRATON SE shares. These performance shares are allocated 
+to the individual member of the Executive Board as a pure calculation value. At the end 
+of the three- or four-year performance period, a final number of virtual performance shares 
+is determined, based on the degree to which the earnings per share (EPS) performance 
+criterion of the TRATON GROUP has been met. A cash settlement is made at the beginning 
+of the fiscal year following the last fiscal year of the performance period. The payment 
+amount corresponds to the number of specified performance shares multiplied by the 
+closing reference price at the end of the three- or four-year performance period, plus a 
+dividend equivalent for the relevant term. The payment amount from the performance 
+share plan is limited to 250% of the target amount. For 2024, the Executive Board mem-
+bers were allocated a total of 192,949 performance shares (previous year: 239,712 perfor-
+mance shares). Their fair value on the grant date was €3,016 thousand (previous year: 
+€2,669 thousand). Under German GAAP, this amount is included in remuneration. The 
+carrying amount of the obligation as of December 31, 2024, was €8,489 thousand (previ-
+ous year: €7,427 thousand). The remuneration expense of €5,662 thousand (previous 
+year: €6,142 thousand) was recognized in personnel expenses. These amounts do not 
+constitute remuneration within the meaning of German GAAP. The intrinsic value was 
+€2,108 thousand (previous year: €324 thousand) and corresponds to the amount that the 
+Executive Board members would have received if they had left the Executive Board as of 
+December 31, 2024. Only the vested performance shares earned as of reporting date are 
+included in this calculation.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+23
+
+In the 2024 fiscal year, a total of €– thousand (previous year: €161 thousand) of the advances 
+paid on the 2020–2022 tranche of the performance share plan were offset against claims 
+by the respective Executive Board member against the Company or repayment was 
+requested.
+Former members of the Executive Board and their surviving dependents received 
+€– thousand (previous year: €7,479 thousand) in connection with their termination agree-
+ments in fiscal year 2024. There were pension provisions of €11,181 thousand (previous 
+year: €11,059 thousand) for this group of persons.
+The total remuneration granted to the members of the Supervisory Board amounted to 
+€2,389 thousand (previous year: €1,760 thousand).
+The members of the Executive Board in fiscal year 2024 are listed under “Members of the 
+Executive Board and their Appointments.” 
+The members of the Supervisory Board in fiscal year 2024 are listed under “Members of 
+the Supervisory Board and their Appointments.”
+(24) Notifications of investments in TRATON SE in accordance with section 33 
+of the Wertpapierhandelsgesetz (WpHG — German Securities Trading Act)
+The disclosures below, which are required pursuant to section 160 (1) no. 8 of the AktG, 
+on investments of which the company was notified pursuant to section 33 (1) or (2) of the 
+Wertpapierhandelsgesetz (WpHG – German Securities Trading Act) have been taken from 
+the latest notifications by the respective notifiers:
+a)	 Dr. Hans Michel Piëch, born on January 10, 1940, notified us on September 5, 2024, by 
+way of a voluntary Group notification pursuant to sections 33ff. of the WpHG as the 
+threshold was reached only at the level of subsidiaries that, on September 2, 2024, his 
+share of the voting rights of TRATON SE, Munich, was 89.72% of the voting rights (cor-
+responding to 448,623,725 voting rights). All of these voting rights are attributable to 
+Dr. Hans Michel Piëch pursuant to section 34 of the WpHG. The name of the shareholder 
+with 3% or more of the voting rights is: VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+	
+Complete chain of subsidiaries, starting with the highest-level controlling person or 
+the highest-level controlling entity:
+ 
+ 
+ 
+Company
+Voting rights 
+in %, if 
+3% or higher
+Instruments 
+in %, if 
+5% or higher
+Total 
+in %, if 
+5% or higher
+Dr. Hans Michel Piëch
+%
+%
+%
+Dr. Hans Michel Piëch GmbH
+%
+%
+%
+HMP Vermögensverwaltung GmbH
+%
+%
+%
+Porsche Automobil Holding SE
+%
+%
+%
+VOLKSWAGEN AKTIENGESELLSCHAFT
+%
+%
+%
+VOLKSWAGEN FINANCE LUXEMBURG S.A.
+%
+%
+%
+VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+89.72%
+%
+89.72%
+b)	 Porsche Piech Holding GmbH, Salzburg, Austria, notified us on September 5, 2024, by 
+way of a voluntary Group notification pursuant to sections 33ff. of the WpHG as the 
+threshold of a subsidiary was reached that, on September 2, 2024, its share of the 
+voting rights of TRATON SE, Munich, was 89.72% of the voting rights (corresponding to 
+448,623,725 voting rights). All of these voting rights are attributable to Porsche Piech 
+Holding GmbH pursuant to section 34 of the WpHG. The name of the shareholder with 
+3% or more of the voting rights is: VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+24
+
+	
+Complete chain of subsidiaries, starting with the highest-level controlling person or 
+the highest-level controlling entity:
+ 
+ 
+ 
+Company
+Voting rights 
+in %, if 
+3% or higher
+Instruments 
+in %, if 
+5% or higher
+Total 
+in %, if 
+5% or higher
+Porsche Piech Holding GmbH
+%
+%
+%
+Porsche Gesellschaft m.b.H.
+%
+%
+%
+Porsche Gesellschaft mit beschränkter Haftung
+%
+%
+%
+Porsche Automobil Holding SE
+%
+%
+%
+VOLKSWAGEN AKTIENGESELLSCHAFT
+%
+%
+%
+VOLKSWAGEN FINANCE LUXEMBURG S.A.
+%
+%
+%
+VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+89.72%
+%
+89.72%
+c)	 Mag. Josef Ahorner, born on March 26, 1960, notified us on September 5, 2024, by way 
+of a voluntary Group notification pursuant to sections 33ff. of the WpHG as the threshold 
+of a subsidiary was reached that, on September 2, 2024, his share of the voting rights 
+of TRATON SE, Munich, was 89.72% of the voting rights (corresponding to 448,623,725 
+voting rights). All of these voting rights are attributable to Mag. Josef Ahorner pursuant 
+to section 34 of the WpHG. The name of the shareholder with 3% or more of the voting 
+rights is: VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+	
+Complete chain of subsidiaries, starting with the highest-level controlling person or 
+the highest-level controlling entity:
+ 
+ 
+ 
+Company
+Voting rights 
+in %, if 
+3% or higher
+Instruments 
+in %, if 
+5% or higher
+Total 
+in %, if 
+5% or higher
+Mag. Josef Ahorner
+%
+%
+%
+Ahorner Holding GmbH
+%
+%
+%
+Ahorner GmbH
+%
+%
+%
+Porsche Automobil Holding SE
+%
+%
+%
+VOLKSWAGEN AKTIENGESELLSCHAFT
+%
+%
+%
+VOLKSWAGEN FINANCE LUXEMBURG S.A.
+%
+%
+%
+VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+89.72%
+%
+89.72%
+d)	 The notifiers (1st) Dr. Wolfgang Porsche, born May 10, 1961, (2nd) Dr. Dr. Christian Porsche, 
+born March 21, 1974, (3rd) Dipl.-Design. Stephanie Porsche-Schröder, born February 11, 
+1978, (4th) Ferdinand Rudolf Wolfgang Porsche, born April 14, 1993, (5th) Felix Alexander 
+Porsche, born February 15, 1996, (6th) Gerhard Anton Porsche, born June 5, 1938, (7th) 
+Dr. Ferdinand Oliver Porsche, born March 13, 1961, (8th) Mag. Mark Philipp Porsche, 
+born September 17, 1977, (9th) Kai Alexander Porsche, born December 14, 1964, (10th) 
+Dr. Geraldine Porsche, born July 22, 1980, (11th) Ing. Hans-Peter Porsche, born October 29, 
+1940, (12th) Peter Daniell Porsche, born September 17, 1973, and (13th) Diana Porsche, 
+born March 3, 1996, (collectively “notifiers”) notified us on September 5, 2024, by way 
+of a voluntary Group notification pursuant to sections 33ff. of the WpHG as the threshold 
+of a subsidiary was reached that, on September 2, 2024, their share of the voting rights 
+of TRATON SE, Munich, was 89.72% of the voting rights (corresponding to 448,623,725 
+voting rights). All of these voting rights are attributable to the notifiers pursuant to 
+section 34 of the WpHG. The name of the shareholder with 3% or more of the voting 
+rights is: VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+25
+
+	
+Complete chain of subsidiaries, starting with the highest-level controlling person or 
+the highest-level controlling entity:
+ 
+ 
+ 
+Company
+Voting rights 
+in %, if 
+3% or higher
+Instruments 
+in %, if 
+5% or higher
+Total 
+in %, if 
+5% or higher
+Notifiers 1 through 13
+%
+%
+%
+Ferdinand Porsche Familien-Privatstiftung
+%
+%
+%
+Ferdinand Porsche Familien-Holding GmbH
+%
+%
+%
+Ferdinand Alexander Porsche GmbH
+%
+%
+%
+Familie Porsche Beteiligung GmbH
+%
+%
+%
+Porsche Automobil Holding SE
+%
+%
+%
+VOLKSWAGEN AKTIENGESELLSCHAFT
+%
+%
+%
+VOLKSWAGEN FINANCE LUXEMBURG S.A.
+%
+%
+%
+VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+89.72%
+%
+89.72%
+–
+%
+%
+%
+Dr. Wolfgang Porsche, Dr. Dr. Christian Porsche, 
+Dipl.-Design. Stephanie Porsche-Schröder,  
+Ferdinand Rudolf Wolfgang Porsche, Felix  
+Alexander Porsche
+%
+%
+%
+Familie WP Holding GmbH
+%
+%
+%
+Ferdinand Porsche Familien-Holding GmbH
+%
+%
+%
+Ferdinand Alexander Porsche GmbH
+%
+%
+%
+Familie Porsche Beteiligung GmbH
+%
+%
+%
+Porsche Automobil Holding SE
+%
+%
+%
+VOLKSWAGEN AKTIENGESELLSCHAFT
+%
+%
+%
+VOLKSWAGEN FINANCE LUXEMBURG S.A.
+%
+%
+%
+VOLKSWAGEN INTERNATIONAL LUXEMBURG S.A.
+89.72%
+%
+89.72%
+e)	 Ing. Hans-Peter Porsche, born on October 29, 1940, notified us on December 18, 2024, 
+pursuant to section 33ff. of the WpHG that, on December 18, 2024, his share of the 
+voting rights of TRATON SE, Munich, had dropped below the thresholds of 75%, 50%, 
+30%, 25%, 20%, 15%, 10%, 5% and 3% and on this day amounted to 0.00% of the voting 
+rights (corresponding to 0 voting rights).
+The Company has not received any other notifications pursuant to section 33ff. of the 
+WpHG after the reporting date.
+(25) Declaration of compliance
+The Executive Board and Supervisory Board of TRATON SE issued their annual Declaration 
+of Compliance in December 2024 in accordance with section 161 of the Aktiengesetz 
+(AktG — German Stock Corporation Act), which is reproduced in the Corporate Governance 
+Statement as a separate part of the Combined Management Report and published on 
+TRATON SE’s website at https://ir.traton.com/corporate-governance. Furthermore, 
+TRATON has published a statement regarding departures by TRATON’s corporate gover-
+nance system from the Swedish Corporate Governance Code. This is also available at 
+https://ir.traton.com/corporate-governance.
+(26) Report on post-balance sheet date events
+Niklas Klingenberg has been a new Executive Board member for Group R&D since 
+January 1, 2025. He will continue to drive the Group’s research and development activities.
+In January 2025, the TRATON GROUP issued several bonds in euros and Swedish krona 
+with a total volume equivalent to €1,635 million under TRATON’s €12,000 million EMTN 
+program.
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+26
+
+Members of the Supervisory Board and their Appointments
+Hans Dieter Pötsch
+Wolfsburg
+Chairman of the Executive Board of Porsche Automobil Holding SE
+Chairman of the Supervisory Board of Volkswagen AG 
+Chairman of the Supervisory Board
+1 	
+Bertelsmann Management SE 
+  	
+Bertelsmann SE & Co. KGaA
+  	
+Wolfsburg AG
+2 	
+AUDI AG
+2, 5 	 Dr. Ing. h.c. F. Porsche AG
+  	
+Volkswagen AG (Chairman)
+4 	
+Autostadt GmbH
+  	
+Porsche Austria Gesellschaft m.b.H., Austria (Chairman)
+  	
+Porsche Holding Gesellschaft m.b.H., Austria (Chairman)
+  	
+Porsche Retail GmbH, Austria (Chairman)
+   	
+VfL Wolfsburg-Fußball GmbH (Deputy Chairman)
+Michael Lyngsie*
+Gnesta, Sweden
+Chair of IF Metall (labor union in Sweden) at Scania
+4 	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden
+Ödgärd Andersson 
+Gothenburg, Sweden
+Chairwoman of the Executive Board of Zenseact AB, Sweden
+Torsten Bechstädt*
+Helmstedt
+Head of Supervisory Board matters of the Chair of the Group Works Council  
+of Volkswagen AG
+2 	
+Volkswagen Financial Services Overseas AG (since July 1, 2024) 
+Mari Carlquist*
+Södertälje, Sweden
+Representative of PTK (Privattjänstemannakartellen, Confederation of Labor Unions  
+in Sweden) at Scania 
+4 	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden
+  	
+TRATON Financial Services AB, Sweden
+Daniela Cavallo*
+Wolfsburg
+Chairwoman of the General and Group Works Councils of Volkswagen AG 
+1 	
+Wolfsburg AG
+2, 5 	 Volkswagen AG
+2 	
+PowerCo SE (Deputy Chairwoman)
+	
+Volkswagen Financial Services AG (Deputy Chairwoman) (until June 30, 2024)
+3 	
+Brose Sitech Sp. z o.o., Poland
+4 	
+Autostadt GmbH
+ 	
+Porsche Holding Gesellschaft m.b.H., Austria
+	
+SEAT, S.A., Spain
+  	
+Skoda Auto a.s., Czech Republic
+  	
+VfL Wolfsburg-Fußball GmbH
+  	
+Volkswagen Group Services GmbH
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+27
+
+Dr. Manfred Döss
+Wolfsburg
+Member of the Executive Board of Porsche Automobil Holding SE  
+(Legal Affairs and Compliance)
+Member of the Board of Management of Volkswagen AG (Integrity and Legal Affairs) 
+2 	
+AUDI AG (Chairman)
+3 	
+Grizzlys Wolfsburg GmbH
+Jürgen Kerner*
+Frankfurt
+Executive Board member of IG Metall 
+1 	
+Airbus GmbH 
+1, 5 	 Siemens AG
+  	
+Siemens Energy AG
+  	
+Thyssenkrupp AG (Deputy Chairman)
+2 	
+MAN Truck & Bus SE (Deputy Chairman)
+Gunnar Kilian
+Lehre
+Member of the Board of Management of Volkswagen AG (Human Resources and Trucks)
+1 	
+Wolfsburg AG (Deputy Chairman) 
+2 	
+AUDI AG 
+  	
+MAN Energy Solutions SE (Chairman)
+  	
+MAN Truck & Bus SE
+  	
+PowerCo SE
+  	
+Volkswagen Group Services GmbH (Chairman)  
+3 	
+FAW-Volkswagen Automotive Co., Ltd., China
+4 	
+Autostadt GmbH (Chairman)
+  	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden
+  	
+VfL Wolfsburg-Fußball GmbH
+  	
+Volkswagen Immobilien GmbH (Chairman)
+	
+Volkswagen (China) Investment Co., Ltd., China (from February 1, 2025)
+Dr. Albert X. Kirchmann
+Lindau, Bodolz
+Independent Industry Consultant
+1 	
+Stremler AG (Deputy Chairman) 
+2 	
+MAN Truck & Bus SE 
+3, 5 	 Sumida Corporation, Japan (since April 1, 2024) 
+Dr. Julia Kuhn-Piëch
+Salzburg, Austria
+Real estate manager 
+2 	
+AUDI AG
+  	
+MAN Truck & Bus SE
+4 	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden
+Lisa Lorentzon*
+Huddinge, Sweden
+Chairwoman of the Labor Unions for Graduate Employees at Scania 
+4 	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden
+  	
+TRATON Financial Services AB, Sweden
+Bo Luthin*
+Södertälje, Sweden
+Head of Occupational Health and Safety at Scania Södertälje and Coordinator for  
+IF Metall (labor union in Sweden)
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+28
+
+Nina Macpherson
+Stocksund, Sweden
+Member of the Board of Directors of Scania AB and of Scania CV AB
+3 	
+M&K Industrials AB, Sweden (Deputy Member)
+  	
+Netel Holding AB, Sweden  
+  	
+Scandinavian Enviro Systems AB, Sweden
+4 	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden
+Dr. Dr. Christian Porsche
+Salzburg, Austria
+Specialist in Neurology 
+2 	
+MAN Truck & Bus SE
+4 	
+Scania AB, Sweden
+  	
+Scania CV AB, Sweden 
+Dr. Wolf-Michael Schmid
+Helmstedt
+Businessman (Managing Director of the Schmid Group) 
+1 	
+BRW Finanz AG (Chairman)
+Karina Schnur*
+Reichertshofen
+Chairwoman of the SE Works Council and Chairwoman of the Group Works Council  
+of TRATON SE
+Chairwoman of the SE Works Council and the General and Group Works Council  
+of MAN Truck & Bus SE
+Chairwoman of the Works Council of MAN Truck & Bus SE, Munich
+2 	
+MAN Truck & Bus SE
+2, 5 	 Volkswagen AG
+3 	
+Rheinmetall MAN Military Vehicles GmbH 
+Josef Sedlmaier*
+Weichs
+Chairman of the Works Council of TRATON SE 
+Markus Wansch*
+Schwabach
+Deputy Chairman of the Group Works Council of TRATON SE and  
+Chairman of the Works Council of MAN Truck & Bus SE, Nuremberg plant
+2 	
+MAN Truck & Bus SE
+Frank Witter
+Braunschweig
+Former member of the Board of Management of Volkswagen AG
+Supervisory Board member 
+1, 5 	 Deutsche Bank AG
+3, 5 	 CGI Inc., Canada
+4 	
+VfL Wolfsburg-Fußball GmbH (Chairman) (until July 31, 2024)
+* Elected by the workforce
+As of December 31, 2024, unless stated otherwise, or date of departure 
+1 	
+Membership of statutory German supervisory boards
+2 	
+Membership of statutory German supervisory boards,  
+Volkswagen AG Group appointments
+3 	
+Membership of comparable German or foreign governing bodies
+4 	
+Membership of comparable German or foreign governing bodies,  
+Volkswagen AG Group appointments
+5 	
+Listed company
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+29
+
+Supervisory Board Committees
+(As of December 31, 2024) 
+Presiding Committee
+Hans Dieter Pötsch (Chairman)
+Jürgen Kerner (Deputy Chairman)
+Michael Lyngsie 
+Gunnar Kilian
+Dr. Dr. Christian Porsche
+Karina Schnur
+Audit Committee
+Frank Witter (Chairman)
+Torsten Bechstädt (Deputy Chairman)
+Dr. Julia Kuhn-Piëch
+Lisa Lorentzon
+Nina Macpherson
+Karina Schnur
+Nomination Committee
+Hans Dieter Pötsch 
+Gunnar Kilian
+Dr. Dr. Christian Porsche
+Members of the Executive Board and their Appointments
+Christian Levin
+Lidingö, Sweden
+Chairman of the Executive Board and Chief Executive Officer of TRATON SE 
+Chief Executive Officer of Scania AB/Scania CV AB
+2 	
+MAN Truck & Bus SE (Chairman)
+3 	
+Vattenfall AB, Sweden (since April 29, 2024)
+4 	
+Navistar International Corporation, USA
+  	
+Scania Growth Capital AB, Sweden
+  	
+Scania Growth Capital II AB, Sweden
+  	
+TRATON Financial Services AB, Sweden (Chairman)
+  	
+Volkswagen Truck & Bus Indústria e Comércio de Veículos Ltda., Brazil (Chairman)
+Mathias Carlbaum
+Hinsdale, USA
+Member of the Executive Board of TRATON SE
+Chief Executive Officer and President of  
+Navistar International Corporation/International Motors, LLC
+4 	
+TRATON Financial Services AB, Sweden
+Antonio Roberto Cortes
+São Paulo-Indianópolis, Brazil
+Member of the Executive Board of TRATON SE
+Chief Executive Officer of Volkswagen Truck & Bus
+4 	
+TRATON Financial Services AB, Sweden
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+30
+
+Dr. Michael Jackstein
+Braunschweig
+Member of the Executive Board of TRATON SE,
+responsible for Finance, Business Development, and Human Resources
+2 	
+MAN Truck & Bus SE 
+4 	
+Navistar International Corporation, USA
+  	
+Scania AB, Sweden (Chairman)
+  	
+Scania CV AB, Sweden (Chairman)
+  	
+TRATON Financial Services AB, Sweden
+  	
+TRATON Sweden AB, Sweden (Chairman)
+  	
+TRATON AB, Sweden
+  	
+TRATON US, LLC, USA (since May 21, 2024)
+  	
+Volkswagen Middle East QFZ LLC, Qatar
+  	
+Volkswagen Truck & Bus Indústria e Comércio de Veículos Ltda., Brazil
+Niklas Klingenberg (since January 1, 2025)
+Bromma, Sweden
+Member of the Executive Board of TRATON SE,
+responsible for Research & Development in the TRATON GROUP
+Head of Group Research & Development at TRATON AB
+3 	
+Cummins Scania XPI Manufacturing Södertälje AB, Sweden
+Catharina Modahl Nilsson 
+Stockholm, Sweden
+Member of the Executive Board of TRATON SE,
+responsible for Product Management in the TRATON GROUP
+3 	
+Chalmers University of Technology AB, Sweden
+  	
+Knightec AB, Sweden
+  	
+Knightec Group AB, Sweden (since December 12, 2024) 
+  	
+Modahlen Group AB, Sweden
+   	
+Semcon AB, Sweden (until November 20, 2024)
+4 	
+TRATON AB, Sweden
+Alexander Vlaskamp
+Munich
+Member of the Executive Board of TRATON SE
+Chief Executive Officer of MAN Truck & Bus SE
+2 	
+MAN Truck & Bus Deutschland GmbH (Chairman)
+3 	
+Sinotruk (Hong Kong) Ltd., China (until August 21, 2024)
+  	
+Rheinmetall MAN Military Vehicles GmbH 
+4 	
+TRATON Financial Services AB, Sweden
+As of December 31, 2024, unless stated otherwise
+1 	
+Membership of statutory German supervisory boards
+2 	
+Membership of statutory German supervisory boards,  
+Volkswagen AG Group appointments
+3 	
+Membership of comparable German or foreign governing bodies
+4 	
+Membership of comparable German or foreign governing bodies,  
+Volkswagen AG Group appointments
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+31
+
+List of Shareholdings
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+I. PARENT COMPANY
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TRATON SE, Munich
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II. SUBSIDIARIES
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Consolidated companies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KOSIGA GmbH & Co. KG, Pullach i. Isartal
+EUR
+ 
+94.00
+39,609
+1,025
+ 
+2023
+LOTS Germany GmbH, Koblenz
+EUR
+ 
+100.00
+25
+–
+ 
+2023
+M A N Verwaltungs-Gesellschaft mbH, Munich
+EUR
+ 
+100.00
+1,039
+–
+1)
+2024
+MAN Brand GmbH & Co. KG, Grünwald
+EUR
+ 
+100.00
+25
+50,663
+ 
+2023
+MAN Finance & Mobility Services GmbH, Munich
+EUR
+ 
+100.00
+2,673
+–
+ 
+2023
+MAN GHH Immobilien GmbH, Oberhausen
+EUR
+ 
+100.00
+44,668
+–
+1)
+2024
+MAN Grundstücksgesellschaft mbH & Co. Epsilon KG, Munich
+EUR
+ 
+100.00
+1,032
+33
+ 
+2023
+MAN Marken GmbH, Munich
+EUR
+ 
+100.00
+27
+–
+1)
+2024
+MAN Service und Support GmbH, Munich
+EUR
+ 
+100.00
+25
+–
+1)
+2024
+MAN Truck & Bus Deutschland GmbH, Munich
+EUR
+ 
+100.00
+130,934
+–
+1)
+2024
+MAN Truck & Bus SE, Munich
+EUR
+ 
+100.00
+564,841
+–
+1)
+2024
+Navistar Europe GmbH, Nuremberg
+EUR
+ 
+100.00
+649
+12
+ 
+2023
+Scania CV Deutschland Holding GmbH, Koblenz
+EUR
+ 
+100.00
+66,295
+–
+1)
+2024
+SCANIA DEUTSCHLAND GmbH, Koblenz
+EUR
+ 
+100.00
+36,625
+–
+1)
+2024
+Scania Finance Deutschland GmbH, Koblenz
+EUR
+ 
+100.00
+62,913
+–
+1)
+2024
+SCANIA Real Estate Deutschland GmbH, Koblenz
+EUR
+ 
+100.00
+15,183
+–
+1)
+2024
+Scania Versicherungsvermittlung GmbH, Koblenz
+EUR
+ 
+100.00
+1,538
+216
+ 
+2023
+SCANIA Vertrieb und Service GmbH, Koblenz
+EUR
+ 
+100.00
+9,463
+–
+1)
+2024
+TARONA Verwaltung GmbH & Co. Alpha KG, Pullach i. Isartal
+EUR
+ 
+100.00
+5,124
+1,893
+ 
+2023
+TB Digital Services GmbH, Munich
+EUR
+ 
+100.00
+25
+–
+1)
+2024
+TORINU Verwaltung GmbH & Co. Beta KG, Pullach i. Isartal
+EUR
+ 
+100.00
+18,100
+710
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+32
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AB Dure, Södertälje
+SEK
+11.4501
+100.00
+1,440
+–
+2)
+2023
+AB Folkvagn, Södertälje
+SEK
+11.4501
+100.00
+100
+–
+2)
+2023
+AB Scania-Vabis, Södertälje
+SEK
+11.4501
+100.00
+100
+–
+2)
+2023
+Ainax AB, Södertälje
+SEK
+11.4501
+100.00
+120
+–
+2)
+2023
+Banco Volkswagen Truck & Bus S.A., São Paulo
+BRL
+6.4314
+100.00
+–
+–
+3)
+2023
+Bilmetro Lastbilar i Hudiksvall AB, Gävle
+SEK
+11.4501
+100.00
+155
+126
+ 
+2023
+Blue Diamond Parts LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+56,839
+14,436
+ 
+2023
+Centurion Truck & Bus (Pty) Ltd. t/a, Centurion
+ZAR
+19.6255
+70.00
+30,801
+6,464
+ 
+2023
+Codema Comercial e Importadora Ltda., Guarulhos
+BRL
+6.4314
+99.98
+331,072
+109,888
+ 
+2023
+Fastighetsaktiebolaget Flygmotorn, Södertälje
+SEK
+11.4501
+100.00
+18,793
+75
+ 
+2023
+Fastighetsaktiebolaget Hjulnavet, Södertälje
+SEK
+11.4501
+100.00
+55,878
+618
+ 
+2023
+Fastighetsaktiebolaget Vindbron, Södertälje
+SEK
+11.4501
+100.00
+45,216
+1,070
+ 
+2023
+Fastighetsbolaget Bärgningsbilen 2 Örebro AB, Stockholm
+SEK
+11.4501
+100.00
+46,403
+995
+ 
+2023
+Fastighetsbolaget Fluoret AB, Stockholm
+SEK
+11.4501
+100.00
+10,783
+1,717
+ 
+2023
+Fastighetsbolaget Gilltuna Västerås AB, Stockholm
+SEK
+11.4501
+100.00
+26,205
+1,022
+ 
+2023
+Ferruform AB, Luleå 
+SEK
+11.4501
+100.00
+69,145
+–11,124
+ 
+2023
+Griffin Automotive Ltd., Road Town
+TWD
+34.1011
+100.00
+733,448
+454,207
+ 
+2023
+Griffin Lux S.à r.l., Luxembourg
+EUR
+ 
+–
+–
+–
+4)
+2023
+Harbour Assurance Company of Bermuda Ltd., Hamilton
+USD
+1.0410
+100.00
+11,561
+2,386
+ 
+2023
+HTD I Oskarshamn AB, Oskarshamn
+SEK
+11.4501
+100.00
+553
+–19
+ 
+2023
+IC Bus LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+1,137,638
+151,445
+ 
+2023
+IC Bus of Oklahoma, LLC, Tulsa, Oklahama
+USD
+1.0410
+100.00
+–
+–
+5)
+2023
+International DealCor Operations, Ltd., George Town
+USD
+1.0410
+100.00
+69,570
+1,151
+ 
+2023
+International Engine Intellectual Property Company, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+493,710
+–9,320
+ 
+2023
+International Motors Canada, ULC, Hannon, Ontario
+CAD
+1.4972
+100.00
+370,651
+232,915
+ 
+2023
+International Motors Mexico CV, SRL de CV, Mexico City
+MXN
+21.5892
+100.00
+6,509,490
+1,893,296
+ 
+2023
+International Motors, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+–10,459,939
+–3,444,092
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+33
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+International of Mexico Holding Corporation LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+720,198
+–130
+ 
+2023
+International Parts Distribution S. de R.L. de C.V., Miguel Hidalgo
+MXN
+21.5892
+100.00
+790,782
+392,371
+ 
+2023
+International Truck and Engine Corporation Cayman Islands Holding Company,  
+George Town
+USD
+1.0410
+100.00
+–75,153
+56
+ 
+2023
+International Truck and Engine Overseas Corp., Lisle, Illinois
+USD
+1.0410
+100.00
+–15,820
+–5,696
+ 
+2023
+International Truck Intellectual Property Company, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+1,012,949
+3,727
+ 
+2023
+International Truck Leasing Corp., Lisle, Illinois
+USD
+1.0410
+100.00
+6,754
+1,067
+ 
+2023
+Italscania S.p.A., Trento
+EUR
+ 
+100.00
+86,847
+56,001
+ 
+2023
+Kai Tak Holding AB, Södertälje
+SEK
+11.4501
+100.00
+120
+–
+2)
+2023
+Laxå Specialvehicles AB, Laxå
+SEK
+11.4501
+100.00
+138,507
+37
+ 
+2023
+LOTS Chile S.p.A., Santiago de Chile
+CLP
+1,034.6000
+100.00
+–5,461
+–8,427
+2)
+2023
+LOTS Group AB, Södertälje
+SEK
+11.4501
+100.00
+317,966
+–168,814
+ 
+2023
+LOTS Latin América Logística de Transportes Ltda., São Bernardo do Campo
+BRL
+6.4314
+100.00
+78,117
+–72,704
+ 
+2023
+Lots Logistics (Guangxi) Co. Ltd., Beihai
+CNY
+7.5986
+100.00
+4,780
+–
+2)
+2023
+LOTS SPV USA LLC, Wilmington, Delaware
+USD
+1.0410
+70.00
+2,387
+–5,729
+ 
+2023
+LOTS Ventures Canada Inc., Vancouver, British Columbia
+CAD
+1.4972
+80.00
+6,039
+–3,416
+ 
+2023
+LOTS Ventures USA Inc., Wilmington, Delaware
+EUR
+ 
+100.00
+8,084
+–
+ 
+2023
+Mälardalens Tekniska Gymnasium AB, Södertälje
+SEK
+11.4501
+80.00
+30,681
+2,058
+ 
+2023
+MAN Automotive (South Africa) (Pty) Ltd., Johannesburg
+ZAR
+19.6255
+100.00
+1,139,789
+67,620
+ 
+2023
+MAN Bus Sp. z o.o., Starachowice
+PLN
+4.2719
+100.00
+1,040,577
+54,078
+ 
+2023
+MAN Components s.r.o., Bánovce nad Bebravou
+EUR
+ 
+100.00
+14,944
+3,161
+ 
+2023
+MAN Engines & Components Inc., Pompano Beach, Florida
+USD
+1.0410
+100.00
+48,644
+14,738
+ 
+2023
+MAN Finance and Holding S.A., Strassen
+EUR
+ 
+100.00
+3,841,780
+124,006
+ 
+2023
+MAN Financial Services GesmbH, Eugendorf
+EUR
+ 
+100.00
+11,194
+1,553
+10)
+2022
+MAN Financial Services Polska Sp.z o.o, Wolica
+PLN
+4.2719
+100.00
+–
+–
+3)
+2023
+MAN Financial Services UK Limited, Swindon
+GBP
+0.8302
+100.00
+–
+–
+3)
+2023
+MAN Hellas Truck & Bus A.E., Aspropygros
+EUR
+ 
+100.00
+2,661
+261
+ 
+2023
+MAN Kamion és Busz Kereskedelmi Kft., Dunaharaszti
+HUF
+410.9350
+100.00
+8,167,026
+1,247,536
+ 
+2023
+MAN Kamyon ve Otobüs Ticaret A.S., Ankara
+TRY
+36.8107
+100.00
+–1,194,121
+–18,774
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+34
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+MAN Nutzfahrzeuge Immobilien GmbH, Vienna
+EUR
+ 
+100.00
+37,807
+4,979
+ 
+2023
+MAN Servicios Financieros Hispania S.A., Madrid
+EUR
+ 
+100.00
+–
+–
+3), 6)
+2024
+MAN Shared Services Center Sp. z o.o., Poznan
+PLN
+4.2719
+100.00
+16,194
+612
+ 
+2023
+MAN Truck & Bus (Korea) Ltd., Yongin
+KRW
+1,534.3200
+99.90
+23,463,853
+6,188,287
+ 
+2023
+MAN Truck & Bus (M) Sdn. Bhd., Rawang
+MYR
+4.6548
+100.00
+51,439
+–2,804
+ 
+2023
+MAN Truck & Bus Czech Republic s.r.o., Cestlice
+CZK
+25.1505
+100.00
+1,483,487
+54,857
+ 
+2023
+MAN Truck & Bus Danmark A/S, Greve
+DKK
+7.4576
+100.00
+173,954
+21,499
+ 
+2023
+MAN Truck & Bus France S.A.S., Evry
+EUR
+ 
+100.00
+101,835
+12,307
+ 
+2023
+MAN Truck & Bus Iberia S.A., Coslada
+EUR
+ 
+100.00
+138,990
+8,331
+ 
+2023
+MAN Truck & Bus Italia S.p.A., Dossobuono di Villafranca
+EUR
+ 
+100.00
+44,594
+8,503
+ 
+2023
+MAN Truck & Bus Middle East FZE, Dubai
+AED
+3.8235
+100.00
+55,842
+2,983
+ 
+2023
+MAN Truck & Bus N.V., Kobbegem
+EUR
+ 
+100.00
+36,912
+5,463
+ 
+2023
+MAN Truck & Bus Norge A/S, Lorenskog
+NOK
+11.7832
+100.00
+181,119
+20,936
+ 
+2023
+MAN Truck & Bus Polska Sp. z o.o., Nadarzyn
+PLN
+4.2719
+100.00
+162,039
+47,386
+ 
+2023
+MAN Truck & Bus Portugal S.U. Lda., Lisbon
+EUR
+ 
+100.00
+10,205
+940
+ 
+2023
+MAN Truck & Bus Schweiz AG, Otelfingen
+CHF
+0.9421
+100.00
+32,792
+1,031
+ 
+2023
+MAN Truck & Bus Slovakia s.r.o., Bratislava
+EUR
+ 
+100.00
+15,444
+1,450
+ 
+2023
+MAN Truck & Bus Slovenija d.o.o., Ljubljana
+EUR
+ 
+100.00
+15,962
+1,397
+ 
+2023
+MAN Truck & Bus Trading (China) Co., Ltd., Beijing
+CNY
+7.5986
+100.00
+86,461
+19,131
+ 
+2023
+MAN Truck & Bus UK Ltd., Swindon
+GBP
+0.8302
+100.00
+133,425
+12,686
+ 
+2023
+MAN Truck & Bus Vertrieb Österreich GmbH, Vienna
+EUR
+ 
+100.00
+277,611
+12,626
+ 
+2023
+MAN Trucks Sp. z o.o., Niepolomice
+PLN
+4.2719
+100.00
+1,720,323
+252,135
+ 
+2023
+MAN Türkiye A.S., Ankara
+TRY
+36.8107
+99.99
+7,436,148
+930,747
+ 
+2023
+Metrobus AB, Gävle
+SEK
+11.4501
+100.00
+1,448
+359
+ 
+2023
+MW-Hallen Restaurang AB, Södertälje
+SEK
+11.4501
+100.00
+1,968
+19
+ 
+2023
+N.W.S. S.r.l.,Trento
+EUR
+ 
+52.50
+–
+–
+7)
+2023
+Navistar (Shanghai) Trading Co., Ltd., Shanghai
+CNY
+7.5986
+100.00
+26,987
+1,374
+ 
+2023
+Navistar Aftermarket Products, Inc., Lisle, Illinois
+USD
+1.0410
+100.00
+38,617
+–159
+ 
+2023
+Navistar Auspac Pty. Ltd., Tullamarine
+AUD
+1.6761
+100.00
+1,480
+–278
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+35
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Navistar Big Bore Diesels, LLC, Huntsville, Alabama
+USD
+1.0410
+100.00
+–99,923
+–40,908
+ 
+2023
+Navistar Comercial S.A. de C.V., Miguel Hidalgo
+MXN
+21.5892
+100.00
+633,557
+325,828
+ 
+2023
+Navistar Diesel of Alabama, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+77,678
+–12,378
+ 
+2023
+Navistar Financial Corporation, Lisle, Illinois
+USD
+1.0410
+100.00
+205,559
+14,125
+ 
+2023
+Navistar Financial Dealer Note Master Owner Trust II, Wilmington, Delaware
+USD
+1.0410
+–
+–
+–
+4)
+2023
+Navistar Financial Retail Receivables Corporation, Lisle, Illinois
+USD
+1.0410
+100.00
+–
+–
+3), 6)
+2024
+Navistar Financial Securities Corp., Lisle, Illinois
+USD
+1.0410
+100.00
+82,256
+14,660
+ 
+2023
+Navistar Financial Services North America Holding LLC, Herndon, Virginia
+USD
+1.0410
+100.00
+1,420
+–
+ 
+2023
+Navistar Financial, S.A. de C.V. SOFOM E.R., Miguel Hidalgo
+MXN
+21.5892
+100.00
+4,025,113
+963,965
+ 
+2023
+Navistar Hong Kong Holding Company Ltd., Hong Kong
+HKD
+8.0843
+100.00
+3,994
+–116
+ 
+2023
+Navistar International B.V., Amsterdam
+USD
+1.0410
+100.00
+605,392
+–139
+ 
+2023
+Navistar International Corporation, Lisle, Illinois
+USD
+1.0410
+100.00
+7,195,363
+3,884,521
+ 
+2023
+Navistar International Employee Leasing Company, Lisle, Illinois
+USD
+1.0410
+100.00
+11,457
+1,014
+ 
+2023
+Navistar International Mexico, S. de R.L. de C.V., Escobedo
+MXN
+21.5892
+100.00
+7,569,277
+2,330,192
+ 
+2023
+Navistar International Pvt. Ltd., Pune
+INR
+89.1080
+100.00
+159,316
+7,429
+5)
+2023
+Navistar International Southern Africa (Pty) Ltd., Johannesburg
+ZAR
+19.6255
+100.00
+–56,472
+2,913
+ 
+2023
+Navistar Leasing Company, Lisle, Illinois
+USD
+1.0410
+–
+–
+–
+4)
+2023
+Navistar Leasing Services Corp., Lisle, Illinois
+USD
+1.0410
+100.00
+40,133
+162
+ 
+2023
+Navistar San Antonio Manufacturing LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+–183,189
+–93,376
+ 
+2023
+NC2 Global LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+141,944
+1,863
+ 
+2023
+NC2 Luxembourg S.a.r.l., Luxembourg
+USD
+1.0410
+100.00
+–134,076
+–3,427
+5)
+2023
+Norsk Scania AS, Oslo
+NOK
+11.7832
+100.00
+304,795
+699,744
+ 
+2023
+Norsk Scania Eiendom AS, Oslo
+NOK
+11.7832
+100.00
+130,671
+10,007
+ 
+2023
+OCC Technologies, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+3,540
+–11,603
+ 
+2023
+OOO Scania Peter, St. Petersburg
+RUB
+112.4384
+100.00
+264,420
+–136,756
+7)
+2023
+Parts and Service Ventures, Inc., Lisle, Illinois
+USD
+1.0410
+100.00
+1,105
+–615
+ 
+2023
+Power Vehicle Co. Ltd., Bangkok
+THB
+35.7428
+49.00
+34,332
+30,369
+ 
+2023
+PT Scania Parts Indonesia, Balikpapan
+USD
+1.0410
+100.00
+396
+–4,623
+ 
+2023
+Reliable Vehicles Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+2,500
+–
+2)
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+36
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Sågverket 6 AB, Södertälje
+SEK
+11.4501
+100.00
+172
+–949
+ 
+2023
+Scan Siam Service Co. Ltd., Bangkok
+THB
+35.7428
+49.00
+61,344
+31,976
+ 
+2023
+Scania (Hong Kong) Ltd., Hong Kong
+HKD
+8.0843
+100.00
+58,272
+19,962
+ 
+2023
+Scania (Malaysia) Sdn. Bhd., Shah Alam
+MYR
+4.6548
+100.00
+64,509
+19,881
+ 
+2023
+Scania AB, Södertälje
+SEK
+11.4501
+100.00
+16,793,268
+6,190,596
+ 
+2023
+Scania Administradora de Consórcios Ltda., Cotia
+BRL
+6.4314
+100.00
+243,358
+72,169
+ 
+2023
+Scania Americas S.A., Montevideo
+USD
+1.0410
+100.00
+73,346
+798
+ 
+2023
+Scania Argentina S.A., Buenos Aires
+ARS
+1,073.2711
+100.00
+203,834,324
+45,218,560
+ 
+2023
+Scania Australia Pty. Ltd., Melbourne
+AUD
+1.6761
+100.00
+92,031
+38,241
+ 
+2023
+Scania Banco S.A., São Bernardo do Campo
+BRL
+6.4314
+100.00
+1,163,788
+148,282
+8)
+2023
+Scania Belgium N.V., Neder-Over-Heembeek
+EUR
+ 
+100.00
+3,113
+11,374
+ 
+2023
+Scania BH d.o.o., Sarajevo
+BAM
+1.9558
+100.00
+4,303
+1,494
+ 
+2023
+Scania Botswana (Pty) Ltd., Gaborone
+BWP
+14.5391
+100.00
+38,744
+7,215
+ 
+2023
+Scania Bulgaria EOOD, Sofia
+BGN
+1.9557
+100.00
+21,617
+16,725
+ 
+2023
+Scania Bus & Coach UK Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+1,029
+–
+2)
+2023
+Scania Bus Financing AB, Södertälje
+SEK
+11.4501
+100.00
+100
+–
+ 
+2023
+Scania Central Asia LLP, Almaty
+KZT
+546.1650
+100.00
+1,971,396
+1,380,648
+ 
+2023
+Scania Chile S.A., Santiago de Chile
+CLP
+1,034.6000
+100.00
+22,265,556
+–1,353,105
+ 
+2023
+Scania China Holding AB, Södertälje
+SEK
+11.4501
+100.00
+25
+–
+ 
+2023
+Scania Colombia S.A.S., Bogotá
+COP
+4,585.5200
+100.00
+161,943,084
+4,703,105
+ 
+2023
+Scania Comercial, S.A. de C.V., Querétaro
+MXN
+21.5892
+100.00
+700,081
+394,337
+ 
+2023
+Scania Commercial Vehicles India Pvt. Ltd., Bengaluru
+INR
+89.1080
+100.00
+–2,237,984
+11,843
+ 
+2023
+Scania Commercial Vehicles Renting S.A., San Fernando de Henares
+EUR
+ 
+100.00
+45,191
+2,924
+ 
+2023
+Scania Commerciale S.p.A., Trento
+EUR
+ 
+100.00
+15,747
+3,230
+ 
+2023
+Scania Corretora de Seguros Ltda., São Bernardo do Campo
+BRL
+6.4314
+100.00
+10,541
+4,411
+ 
+2023
+Scania Credit (Malaysia) Sdn. Bhd., Shah Alam
+MYR
+4.6548
+100.00
+10,446
+5,450
+ 
+2023
+Scania Credit AB, Södertälje
+EUR
+ 
+100.00
+13,406
+6,725
+ 
+2023
+Scania Credit Argentina S.A.U., Buenos Aires
+ARS
+1,073.2711
+100.00
+3,143,849
+1,442,278
+ 
+2023
+Scania Credit Hrvatska d.o.o., Lucko (Zagreb)
+EUR
+ 
+100.00
+4,034
+–44
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+37
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Scania Credit Romania IFN S.A., Ciorogârla
+RON
+4.9744
+100.00
+65,382
+7,471
+ 
+2023
+Scania Credit Singapore Pte. Ltd., Singapore
+SGD
+1.4189
+100.00
+427
+172
+ 
+2023
+Scania Credit Solutions (T) Ltd., Dar es Salaam
+TZS
+2,524.4300
+100.00
+10,729,705
+341,807
+ 
+2023
+Scania Credit Solutions Pty Ltd., Aeroton
+ZAR
+19.6255
+100.00
+–29,645
+–33,284
+ 
+2023
+Scania Credit Taiwan Ltd., New Taipei City
+TWD
+34.1011
+100.00
+21,954
+9,227
+ 
+2023
+Scania Crna Gora d.o.o., Danilovgrad
+EUR
+ 
+100.00
+316
+76
+ 
+2023
+Scania CV AB, Södertälje
+SEK
+11.4501
+100.00
+55,685,422
+22,740,233
+ 
+2023
+Scania Czech Republic s.r.o., Prague
+CZK
+25.1505
+100.00
+1,107,513
+711,316
+ 
+2023
+Scania Danmark A/S, Ishöj
+DKK
+7.4576
+100.00
+426,746
+199,968
+ 
+2023
+Scania Danmark Ejendom ApS, Ishöj
+DKK
+7.4576
+100.00
+111,275
+802
+ 
+2023
+Scania DCS AB, Stockholm
+SEK
+11.4501
+100.00
+–
+–
+3)
+2023
+Scania del Perú S.A., Lima
+PEN
+3.9114
+100.00
+75,845
+38,808
+ 
+2023
+Scania Delivery Center AB, Södertälje
+SEK
+11.4501
+100.00
+398,770
+53,360
+ 
+2023
+Scania East Africa Ltd., Nairobi
+KES
+134.6550
+100.00
+–917,395
+–767,173
+ 
+2023
+Scania Eesti AS, Tallinn
+EUR
+ 
+100.00
+15,752
+6,381
+ 
+2023
+Scania Finance Australia Pty. Ltd., Melbourne
+AUD
+1.6761
+100.00
+27,687
+906
+ 
+2023
+Scania Finance Belgium N.V., Neder-Over-Heembeek
+EUR
+ 
+100.00
+21,059
+872
+ 
+2023
+Scania Finance Bulgaria EOOD, Sofia
+BGN
+1.9557
+100.00
+22,650
+4,154
+ 
+2022
+Scania Finance Chile S.A., Santiago de Chile
+CLP
+1,034.6000
+100.00
+34,347,281
+4,689,512
+9)
+2023
+Scania Finance Colombia S.A.S., Bogotá
+COP
+4,585.5200
+100.00
+30,438,715
+4,404,425
+ 
+2023
+Scania Finance Czech Republic spol. S r.o., Prague
+CZK
+25.1505
+100.00
+740,021
+–133,701
+ 
+2023
+Scania Finance Great Britain Ltd., London
+GBP
+0.8302
+100.00
+140,411
+2,867
+ 
+2023
+Scania Finance Hispania EFC S.A., San Fernando de Henares
+EUR
+ 
+100.00
+53,613
+3,368
+ 
+2023
+Scania Finance Ireland Ltd., Dublin
+EUR
+ 
+100.00
+16,066
+952
+ 
+2023
+Scania Finance Italy S.p.A., Milan
+EUR
+ 
+100.00
+75,932
+7,785
+ 
+2023
+Scania Finance Luxembourg S.A., Munsbach
+EUR
+ 
+100.00
+5,570
+156
+ 
+2022
+Scania Finance Magyarország Zrt., Biatorbágy
+HUF
+410.9350
+100.00
+3,399,492
+222,917
+ 
+2023
+Scania Finance Maroc S.A., Casablanca
+MAD
+10.5161
+100.00
+–
+–
+3)
+2023
+Scania Finance Mexico, S.A. de C.V. SOFOM, E.N.R., El Marqués
+MXN
+21.5892
+100.00
+215,698
+27,057
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+38
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Scania Finance Nederland B.V., Breda
+EUR
+ 
+100.00
+46,923
+3,540
+9)
+2023
+Scania Finance New Zealand Ltd., Auckland
+NZD
+1.8525
+100.00
+5,996
+29
+ 
+2023
+Scania Finance Polska Sp. Z o.o., Nadarzyn
+PLN
+4.2719
+100.00
+306,449
+55,300
+ 
+2023
+Scania Finance Schweiz AG, Kloten
+CHF
+0.9421
+100.00
+8,967
+250
+ 
+2023
+Scania Finance Slovak Republic s.r.o., Senec
+EUR
+ 
+100.00
+13,648
+615
+ 
+2023
+Scania Finance Southern Africa (Pty) Ltd., Aeroton
+ZAR
+19.6255
+100.00
+1,097,252
+210,693
+ 
+2023
+Scania Financial Leasing (China) Co., Ltd., Shanghai
+CNY
+7.5986
+100.00
+151,490
+1,111
+ 
+2023
+Scania Finans AB, Södertälje
+SEK
+11.4501
+100.00
+2,780,728
+–15,325
+ 
+2023
+Scania France S.A.S., Angers
+EUR
+ 
+100.00
+114,408
+68,968
+ 
+2023
+Scania Great Britain Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+149,971
+88,978
+ 
+2023
+Scania Griffin Sales & Services AB, Södertälje
+SEK
+11.4501
+100.00
+100
+–
+2)
+2023
+Scania Group (Thailand) Co., Ltd., Bangkok
+THB
+35.7428
+100.00
+32,394
+–
+7)
+2023
+Scania Growth Capital AB, Södertälje
+SEK
+11.4501
+90.10
+399,925
+–
+ 
+2023
+Scania Growth Capital II AB, Södertälje
+SEK
+11.4501
+90.10
+480,269
+–
+ 
+2023
+Scania Hispania S.A., San Fernando de Henares
+EUR
+ 
+100.00
+51,430
+79,952
+ 
+2023
+Scania Holding France S.A.S., Angers
+EUR
+ 
+100.00
+121,907
+62,734
+ 
+2023
+Scania Holding Inc., Columbus, Indiana
+USD
+1.0410
+100.00
+–977
+–1,609
+ 
+2023
+Scania Hrvatska d.o.o., Lucko (Zagreb)
+EUR
+ 
+100.00
+9,130
+3,966
+ 
+2023
+Scania Hungaria Kft., Biatorbágy
+HUF
+410.9350
+100.00
+6,962,978
+5,636,299
+ 
+2023
+Scania Industrial Maintenance AB, Södertälje
+SEK
+11.4501
+100.00
+27,044
+–233
+ 
+2023
+Scania Insurance Nederland B.V., Middelharnis
+EUR
+ 
+100.00
+3,836
+471
+8)
+2023
+Scania Insurance Polska Sp. Z o.o., Nadarzyn
+PLN
+4.2719
+100.00
+4,355
+4,271
+ 
+2023
+Scania Invest AB, Södertälje
+SEK
+11.4501
+100.00
+–
+–
+3)
+2023
+Scania Investimentos Imobiliários S.A., Vialonga
+EUR
+ 
+100.00
+493
+–200
+ 
+2023
+Scania IT France S.A.S., Angers
+EUR
+ 
+100.00
+191
+83
+ 
+2023
+Scania IT Nederland B.V., Zwolle
+EUR
+ 
+100.00
+505
+303
+ 
+2023
+Scania Japan Ltd., Tokyo
+JPY
+163.2300
+100.00
+–397,466
+35,969
+ 
+2023
+Scania Korea Group Ltd., Seoul
+KRW
+1,534.3200
+100.00
+73,035,461
+45,387,536
+ 
+2023
+Scania Latin America Ltda., São Bernardo do Campo
+BRL
+6.4314
+100.00
+5,263,275
+2,496,772
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+39
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Scania Latvia SIA, Riga
+EUR
+ 
+100.00
+12,592
+5,246
+ 
+2023
+Scania Leasing BH d.o.o., Sarajevo
+BAM
+1.9558
+100.00
+3,067
+–995
+ 
+2023
+Scania Leasing d.o.o., Ljubljana
+EUR
+ 
+100.00
+9,159
+948
+ 
+2023
+Scania Leasing Ltd., Dublin
+EUR
+ 
+100.00
+100
+–
+2)
+2023
+Scania Leasing Österreich GmbH, Brunn am Gebirge
+EUR
+ 
+100.00
+15,411
+–403
+ 
+2023
+Scania Leasing RS d.o.o., Krnješevci
+RSD
+117.0700
+100.00
+232,212
+54,317
+ 
+2023
+Scania Lízing Kft., Biatorbágy
+HUF
+410.9350
+100.00
+632,547
+355,055
+ 
+2023
+Scania Locacao Ltda., São Bernardo do Campo
+BRL
+6.4314
+100.00
+–1,957
+–2,457
+ 
+2023
+Scania Location S.A.S., Angers
+EUR
+ 
+100.00
+10,503
+6,132
+ 
+2023
+Scania Logistics Netherlands B.V., Zwolle
+EUR
+ 
+100.00
+6,744
+2,733
+ 
+2023
+Scania Luxembourg S.A., Munsbach
+EUR
+ 
+100.00
+–
+841
+ 
+2019
+Scania Makedonija d.o.o.e.l., Ilinden
+MKD
+61.5500
+100.00
+24,133
+12,346
+ 
+2023
+Scania Manufacturing (Thailand) Co., Ltd., Bangkok
+THB
+35.7428
+100.00
+105,289
+–
+7)
+2023
+Scania Maroc S.A., Casablanca
+MAD
+10.5161
+100.00
+141,179
+34,219
+ 
+2023
+Scania Middle East FZE, Dubai
+AED
+3.8235
+100.00
+35,587
+26,141
+ 
+2023
+Scania Milano S.p.A., Lainate
+EUR
+ 
+100.00
+12,417
+3,021
+ 
+2023
+Scania Moçambique, S.A., Beira
+MZN
+66.5250
+100.00
+–4,500
+–7,109
+ 
+2022
+Scania Namibia (Pty) Ltd., Windhoek
+NAD
+19.6274
+100.00
+58,414
+34,129
+ 
+2023
+Scania Nederland B.V., Breda
+EUR
+ 
+100.00
+102,135
+43,497
+ 
+2023
+Scania New Zealand Ltd., Wellington
+NZD
+1.8525
+100.00
+43,049
+8,381
+ 
+2023
+Scania Omni AB, Södertälje
+SEK
+11.4501
+100.00
+2,400
+–
+2)
+2023
+Scania Österreich Ges.m.b.H., Brunn am Gebirge
+EUR
+ 
+100.00
+43,243
+30,590
+ 
+2023
+Scania Österreich Holding GmbH, Brunn am Gebirge
+EUR
+ 
+100.00
+18,573
+–6
+ 
+2023
+Scania Overseas AB, Södertälje
+SEK
+11.4501
+100.00
+71,635
+–
+ 
+2023
+Scania Polska S.A., Nadarzyn
+PLN
+4.2719
+100.00
+464,459
+355,865
+ 
+2023
+Scania Portugal, Unipessoal Lda., Santa Iria de Azóia
+EUR
+ 
+100.00
+17,989
+10,378
+ 
+2023
+Scania Production (China) Co., Ltd., Rugao
+CNY
+7.5986
+100.00
+629,524
+–292,004
+ 
+2023
+Scania Production Angers S.A.S., Angers
+EUR
+ 
+100.00
+28,122
+2,722
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+40
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Scania Production Meppel B.V., Meppel
+EUR
+ 
+100.00
+31,789
+3,097
+ 
+2023
+Scania Production Slupsk S.A., Slupsk
+PLN
+4.2719
+100.00
+57,468
+8,894
+ 
+2023
+Scania Production Zwolle B.V., Zwolle
+EUR
+ 
+100.00
+58,568
+9,490
+ 
+2023
+Scania Properties Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+501
+–
+2)
+2023
+Scania Real Estate (UK) Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+9,445
+540
+ 
+2023
+Scania Real Estate Belgium N.V., Neder-Over-Heembeek
+EUR
+ 
+100.00
+4,716
+260
+ 
+2023
+Scania Real Estate Bulgaria EOOD, Sofia
+BGN
+1.9557
+100.00
+128
+–39
+ 
+2023
+Scania Real Estate Czech Republic s.r.o., Prague
+CZK
+25.1505
+100.00
+120,427
+15,930
+ 
+2023
+Scania Real Estate Finland Oy, Helsinki
+EUR
+ 
+100.00
+18,937
+568
+ 
+2023
+Scania Real Estate France S.A.S., Angers
+EUR
+ 
+100.00
+5,437
+3
+ 
+2023
+Scania Real Estate Hispania S.L., San Fernando de Henares
+EUR
+ 
+100.00
+1,687
+82
+ 
+2023
+Scania Real Estate Holding Luxembourg S.àr.l., Munsbach
+EUR
+ 
+100.00
+5,724
+–13
+ 
+2023
+Scania Real Estate Holding Oy, Helsinki
+EUR
+ 
+100.00
+5,571
+–3
+ 
+2023
+Scania Real Estate Hungaria Kft., Biatorbágy
+HUF
+410.9350
+100.00
+976,410
+19,819
+ 
+2023
+Scania Real Estate Kenya Ltd., Nairobi
+KES
+134.6550
+100.00
+–
+–
+ 
+2021
+Scania Real Estate Lund AB, Södertälje
+SEK
+11.4501
+100.00
+190
+86
+ 
+2023
+Scania Real Estate New Zealand Limited, Auckland
+NZD
+1.8525
+100.00
+–
+–
+3)
+2023
+Scania Real Estate Österreich GmbH, Brunn am Gebirge
+EUR
+ 
+100.00
+8,837
+1,025
+ 
+2023
+Scania Real Estate Polska Sp. z o.o., Nadarzyn
+PLN
+4.2719
+100.00
+91,882
+10,757
+ 
+2023
+Scania Real Estate Romania S.R.L., Ciorogârla
+RON
+4.9744
+100.00
+10,006
+1,380
+ 
+2023
+Scania Real Estate Schweiz AG, Kloten
+CHF
+0.9421
+100.00
+5,390
+1,927
+ 
+2023
+Scania Real Estate Services AB, Södertälje
+SEK
+11.4501
+100.00
+1,208,581
+25,148
+ 
+2023
+Scania Real Estate Slovakia s.r.o., Senec
+EUR
+ 
+100.00
+12,946
+333
+ 
+2023
+Scania Real Estate The Netherlands B.V., Breda
+EUR
+ 
+100.00
+8,085
+1,215
+ 
+2023
+Scania Rent Romania S.R.L., Ciorogârla
+RON
+4.9744
+100.00
+27,522
+6,014
+ 
+2023
+Scania Research & Development (Jiangsu) Co., Ltd., Rugao
+CNY
+7.5986
+100.00
+–
+–
+3), 6)
+2024
+Scania Romania S.R.L., Ciorogârla
+RON
+4.9744
+100.00
+98,563
+58,320
+ 
+2023
+Scania Sales (China) Co., Ltd., Beijing
+CNY
+7.5986
+100.00
+115,518
+–5,915
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+41
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Scania Sales and Service (Guangzhou) Co., Ltd., Guangzhou
+CNY
+7.5986
+100.00
+–47,468
+–5,024
+ 
+2023
+Scania Sales and Services AB, Södertälje
+SEK
+11.4501
+100.00
+19,152,818
+4,763,345
+ 
+2023
+Scania Schweiz AG, Kloten
+CHF
+0.9421
+100.00
+31,420
+27,842
+ 
+2023
+Scania Senegal S.U.A.R.L., Dakar
+XOF
+655.9570
+100.00
+83,297
+–3,490
+ 
+2023
+Scania Services del Perú S.A., Lima
+PEN
+3.9114
+100.00
+89,130
+27,618
+ 
+2023
+Scania Servicii Asigurari S.R.L., Ciorogârla
+RON
+4.9744
+100.00
+2,368
+–17
+ 
+2023
+Scania Servicios, S.A. de C.V., El Marqués
+MXN
+21.5892
+100.00
+110
+–
+ 
+2023
+Scania Siam Co. Ltd., Bangkok
+THB
+35.7428
+99.99
+507,098
+34,746
+ 
+2023
+Scania Siam Leasing Co. Ltd., Bangkok
+THB
+35.7428
+100.00
+477,623
+65,608
+ 
+2023
+Scania Singapore Pte. Ltd., Singapore
+SGD
+1.4189
+100.00
+6,382
+2,762
+ 
+2023
+Scania Slovakia s.r.o., Senec
+EUR
+ 
+100.00
+38,740
+10,021
+ 
+2023
+Scania Slovenija d.o.o., Ljubljana
+EUR
+ 
+100.00
+12,930
+8,567
+ 
+2023
+Scania South Africa (Pty) Ltd., Aeroton
+ZAR
+19.6255
+100.00
+1,031,215
+506,175
+ 
+2023
+Scania Srbija d.o.o., Krnješevci
+RSD
+117.0700
+100.00
+776,927
+384,662
+ 
+2023
+Scania Sumistradora de Flota Tres SpA, Santiago de Chile
+CLP
+1,034.6000
+100.00
+–
+–
+6), 8)
+2023
+Scania Sumistradora de Flota Uno SpA, Santiago de Chile
+CLP
+1,034.6000
+100.00
+–
+–
+6), 8)
+2023
+Scania Suomi Oy, Helsinki
+EUR
+ 
+100.00
+33,931
+20,433
+ 
+2023
+Scania Sverige AB, Södertälje
+SEK
+11.4501
+100.00
+81,720
+–239,609
+ 
+2023
+Scania Sverige Bussar AB, Södertälje
+SEK
+11.4501
+100.00
+42,966
+–
+2)
+2023
+Scania Tanzania Ltd., Dar es Salaam
+TZS
+2,524.4300
+100.00
+14,990,000
+986,216
+ 
+2023
+Scania Thailand Co. Ltd., Bangkok
+THB
+35.7428
+99.99
+140,942
+31,087
+ 
+2023
+Scania Transportlaboratorium AB, Södertälje
+SEK
+11.4501
+100.00
+3,213
+20
+ 
+2023
+Scania Treasury AB, Södertälje
+SEK
+11.4501
+100.00
+82,060,456
+3,978,042
+ 
+2023
+Scania Trucks & Buses AB, Södertälje
+SEK
+11.4501
+100.00
+83,045
+2,324
+ 
+2023
+Scania USA Inc., San Antonio, Texas
+USD
+1.0410
+100.00
+16,976
+5,806
+ 
+2023
+Scania West Africa Ltd., Accra
+GHS
+15.3027
+100.00
+–9,381
+–5,925
+ 
+2022
+Scania-Kringlan AB, Södertälje
+SEK
+11.4501
+100.00
+6,000
+–
+2)
+2023
+Scania-Vabis 118 AB, Värnamo
+SEK
+11.4501
+100.00
+5,106
+–
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+42
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Scanlink Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+1,956
+–
+2)
+2023
+Scanrent - Alguer de Viaturas sem Condutor, S.A., Santa Iria de Azóia
+EUR
+ 
+100.00
+15,182
+1,087
+ 
+2023
+Scantruck Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+1,671
+–
+2)
+2023
+Shanghai Tedatong Heavy Duty Truck Sales Co., Ltd, Shanghai
+CNY
+7.5986
+100.00
+–
+–
+3), 6)
+2024
+SLA Treasury Spain S.L., Barcelona
+BRL
+6.4314
+100.00
+–
+–
+ 
+2023
+Södertälje Bilkredit AB, Södertälje
+SEK
+11.4501
+100.00
+100
+–
+2)
+2023
+Southway Scania Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+1,170
+–
+2)
+2023
+SST Sustainable Transport Solutions India Pvt. Ltd., Nagpur
+INR
+89.1080
+99.99
+24,629
+–695
+ 
+2023
+Stop 134 AB, Stockholm
+SEK
+11.4501
+100.00
+8,367
+1,452
+ 
+2023
+Tachy Experts S.A.S., Angers
+EUR
+ 
+100.00
+354
+125
+ 
+2023
+TFS Brasil Holding Ltda., São Paulo
+BRL
+6.4314
+100.00
+233,673
+–463
+ 
+2023
+TOV Donbas-Scan-Service, Makiivka
+UAH
+43.7814
+100.00
+12,364
+800
+ 
+2023
+TOV Kyiv-Scan, Kyiv
+UAH
+43.7814
+100.00
+12,566
+–34
+ 
+2023
+TOV MAN Truck & Bus Ukraine, Kyiv
+UAH
+43.7814
+100.00
+551,630
+172,719
+ 
+2023
+TOV Scania Credit Ukraine, Kyiv
+UAH
+43.7814
+100.00
+426,763
+128,261
+ 
+2023
+TOV Scania Ukraine, Kyiv
+UAH
+43.7814
+100.00
+541,844
+263,361
+ 
+2023
+TOV Scania-Lviv, Lviv
+UAH
+43.7814
+100.00
+33,023
+254
+ 
+2023
+Transproteccion Agente de Seguros S.A. de C.V., Miguel Hidalgo
+MXN
+21.5892
+100.00
+124,394
+32,995
+ 
+2023
+TRATON AB, Södertälje
+SEK
+11.4501
+100.00
+26,191
+–13,498
+ 
+2023
+TRATON Finance & Services AS, Tallinn
+EUR
+ 
+100.00
+–788,449
+–21,316
+ 
+2023
+TRATON Finance Luxembourg S.A., Strassen
+EUR
+ 
+100.00
+8,506
+9,485
+ 
+2023
+TRATON Financial Services Aktiebolag, Södertälje
+SEK
+11.4501
+100.00
+5,752,816
+202,727
+ 
+2023
+Traton Financial Services France S.A.S., Angers
+EUR
+ 
+100.00
+65,496
+1,744
+ 
+2023
+Traton Financial Services Korea Co., Ltd., Chung-Ang
+KRW
+1,534.3200
+100.00
+76,058,932
+5,442,070
+ 
+2023
+TRATON International S.A., Strassen
+EUR
+ 
+100.00
+18,858,179
+127,292
+ 
+2023
+TRATON Sweden AB, Södertälje
+SEK
+11.4501
+100.00
+12,541,304
+1,242,586
+ 
+2023
+TRATON Treasury AB, Södertälje
+SEK
+11.4501
+100.00
+500
+–
+3)
+2023
+TRATON US, LLC, Pompano Beach, Florida
+EUR
+ 
+100.00
+1,420,856
+16,766
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+43
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+UAB Scania Lietuva, Vilnius
+EUR
+ 
+100.00
+19,623
+10,587
+ 
+2023
+Union Trucks Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+573
+–
+2)
+2023
+Uppsala Danmark-Säby 8:1 AB, Gävle
+SEK
+11.4501
+100.00
+180
+–854
+ 
+2023
+UTP Holdings, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+–
+–
+5)
+2023
+Vabis Bilverkstad AB, Södertälje
+SEK
+11.4501
+100.00
+101
+–
+2)
+2023
+Vabis Försäkringsaktiebolag, Södertälje
+SEK
+11.4501
+100.00
+198,195
+–526
+5)
+2023
+Vindbron Arendal AB, Södertälje
+SEK
+11.4501
+100.00
+13,548
+84
+ 
+2023
+Vita Gjuteriets Fastighetsbolag AB, Stockholm
+SEK
+11.4501
+100.00
+440
+276
+ 
+2023
+Volkswagen Truck & Bus Indústria e Comércio de Veículos Ltda., São Paulo
+BRL
+6.4314
+100.00
+2,766,995
+375,192
+ 
+2023
+Volkswagen Truck & Bus México S.A. de C.V., El Marqués
+MXN
+21.5892
+100.00
+456,908
+79,112
+ 
+2023
+Westrucks Ltd., Milton Keynes
+GBP
+0.8302
+100.00
+336
+–
+2)
+2023
+Workhorse International Holding Company, Lisle, Illinois
+USD
+1.0410
+100.00
+–111,959
+–110,827
+ 
+2023
+B. Unconsolidated companies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erinion GmbH, Düsseldorf
+EUR
+ 
+100.00
+–
+–
+3), 6)
+2024
+LoadFox GmbH, Munich
+EUR
+ 
+100.00
+3,614
+–65
+7)
+2023
+LoadFox Transport Solutions GmbH, Munich
+EUR
+ 
+100.00
+296
+–
+1)
+2024
+MAN Brand Management GmbH, Grünwald
+EUR
+ 
+100.00
+25
+–
+1)
+2024
+MAN Catering & Personal Services GmbH, Munich
+EUR
+ 
+100.00
+25
+–
+1)
+2024
+MAN Grundstücksgesellschaft mbH & Co. Gamma KG, Munich
+EUR
+ 
+100.00
+1,647
+118
+ 
+2023
+MAN HR Services GmbH, Munich
+EUR
+ 
+100.00
+1,109
+–
+1)
+2024
+MAN-Unterstützungskasse GmbH, Munich
+EUR
+ 
+100.00
+342
+–21
+ 
+2023
+Ortan Verwaltung GmbH & Co. Objekt Karlsfeld KG, Pullach i. Isartal
+EUR
+ 
+100.00
+1,530
+543
+ 
+2023
+TRATON Beteiligungsverwaltungs GmbH, Munich
+EUR
+ 
+100.00
+25
+–
+1)
+2024
+TRATON Financial Services Group Management Gmbh, Munich
+EUR
+ 
+100.00
+–
+–
+3), 6)
+2024
+TRATON R&D Germany GmbH, Munich
+EUR
+ 
+100.00
+–
+–
+10)
+2024
+Unterstützungseinrichtung VGW GmbH, Munich
+EUR
+ 
+100.00
+183
+27
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+44
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bellwether Forest Products, LLC, Camden, South Carolina
+USD
+1.0410
+100.00
+–
+–
+ 
+2023
+ERF Ltd., Swindon
+GBP
+0.8302
+100.00
+–
+–
+2)
+2023
+Erinion AS, Oslo
+NOK
+11.7832
+100.00
+–
+–
+3), 6)
+2024
+Erinion B.V., Amsterdam
+EUR
+ 
+100.00
+–
+–
+3), 6)
+2024
+Erinion Ltd, Milton Keynes
+GBP
+0.8302
+100.00
+–
+–
+3), 6)
+2024
+HRVS Group Ltd., Belper
+GBP
+0.8302
+100.00
+–
+–
+2), 7)
+2023
+Lauken S.A., Montevideo
+UYU
+45.4660
+100.00
+–
+–
+2), 7)
+2023
+MAN Bus & Coach (Pty) Ltd., Olifantsfontein
+ZAR
+19.6255
+100.00
+–
+–
+2), 7)
+2023
+MAN Financial Services Administrators (S.A.) (Pty) Ltd., Isando
+ZAR
+19.6255
+100.00
+–
+–
+2), 7)
+2023
+MAN Truck & Bus (S.A.) (Pty) Ltd., Isando
+ZAR
+19.6255
+100.00
+–
+–
+2), 7)
+2023
+MAN Truck & Bus Asia Pacific Co. Ltd., Bangkok
+THB
+35.7428
+99.99
+3,592
+–24,258
+ 
+2023
+MAN Truck & Bus India Pvt. Ltd., Pune
+INR
+89.1080
+99.99
+1,353,950
+187,240
+ 
+2023
+MAN Truck and Bus Hong Kong Ltd., Hong Kong
+HKD
+8.0843
+100.00
+8,500
+5,287
+ 
+2023
+OOO MAN Truck & Bus Production RUS, St. Petersburg
+RUB
+112.4384
+100.00
+351,961
+–232,841
+ 
+2023
+Qingdao Sinoform Auto Parts Co., Ltd, Qingdao
+CNY
+7.5986
+74.00
+–
+–
+3), 6)
+2024
+Rio Soluções Digitais Ltda., São Paulo
+BRL
+6.4314
+100.00
+–
+–
+ 
+2023
+Scani VT Wuxi Auto Parts Co., Ltd, Wuxi
+CNY
+7.5986
+51.00
+–
+–
+3), 6)
+2024
+Scania Cote D'Ivoire SA, Abidjan
+XOF
+655.9570
+100.00
+–
+–
+3), 6)
+2024
+Scania de Venezuela S.A., Valencia
+VES
+54.0925
+100.00
+–5,892,535
+–7,243,176
+ 
+2022
+Scania-MAN Administration ApS, Copenhagen
+DKK
+7.4576
+100.00
+310
+21
+ 
+2022
+TFS Servicos Brasil Ltda, São Paulo
+BRL
+6.4314
+100.00
+–
+–
+3), 6)
+2024
+TRATON Charging Solutions AB, Södertälje
+EUR
+ 
+100.00
+1,251
+44
+ 
+2023
+TRATON R&D US, LLC, Lisle, Illinois
+USD
+1.0410
+100.00
+–
+–
+3), 6)
+2024
+Volkswagen Caminhões e Ônibus Comércio e Serviços Ltda., Limeira
+BRL
+6.4314
+100.00
+19,199
+–2,833
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+45
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+III. JOINT VENTURES
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Equity-accounted companies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Commercial Vehicle Charging Europe B.V, Amsterdam
+EUR
+ 
+33.33
+1,251
+44
+ 
+2023
+Cummins-Scania XPI Manufacturing, LLC, Columbus, Indiana
+USD
+1.0410
+50.00
+–
+–
+ 
+2023
+MAN Financial Services (SA) (RF) (Pty) Ltd., Johannesburg
+ZAR
+19.6255
+50.00
+271,132
+67,508
+11)
+2022
+Oppland Tungbilservice A/S, Fagernes
+NOK
+11.7832
+50.00
+5,701
+1,864
+ 
+2023
+Tynset Diesel A/S, Tynset
+NOK
+11.7832
+50.00
+7,053
+1,534
+ 
+2023
+B. Companies accounted for at cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HINO & TRATON Global Procurement GmbH, Munich
+EUR
+ 
+51.00
+498
+11
+7)
+2023
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMEXCI AB, Karlskoga
+SEK
+11.4501
+13.56
+273,707
+–31,782
+ 
+2023
+IV. ASSOCIATES
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Equity-accounted associates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 Technologies GmbH, Berlin
+EUR
+ 
+46.73
+2,806
+87
+ 
+2023
+Rheinmetall MAN Military Vehicles GmbH, Munich
+EUR
+ 
+49.00
+78,704
+9,770
+ 
+2023
+Scantinel Photonics GmbH, Ulm
+EUR
+ 
+49.19
+5,223
+–7,192
+ 
+2023
+sennder Technologies GmbH, Berlin
+EUR
+ 
+13.69
+286,645
+–36,213
+ 
+2023
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BITS DATA i Södertälje AB, Södertälje
+SEK
+11.4501
+33.00
+18,232
+–539
+ 
+2023
+ScaValencia, S.A., Ribarroja del Turia
+EUR
+ 
+26.00
+15,298
+2,710
+ 
+2023
+Sinotruk (Hong Kong) Ltd., Hong Kong
+CNY
+7.5986
+25.25
+40,272,161
+5,826,851
+9), 11)
+2023
+UZ Truck and Bus Motors, LLC, Samarkand
+UZS
+13,434.0050
+32.89
+221,950,000
+–25,059,000
+ 
+2022
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+46
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+B. Associates accounted for at cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bex technologies GmbH, Stuttgart
+EUR
+ 
+46.24
+3,429
+2,217
+ 
+2023
+Juna Technologies GmbH, Berlin
+EUR
+ 
+49.00
+–
+–
+3)
+2023
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corebon AB, Arlöv
+SEK
+11.4501
+35.50
+69,828
+–25,517
+ 
+2023
+Innokraft AB, Sundsvall
+SEK
+11.4501
+46.00
+4,508
+–
+ 
+2023
+Magnum Power Products, LLC, Franklin, Indiana
+USD
+1.0410
+30.00
+44,004
+5,228
+ 
+2023
+Maudlin International Parts and Services of Palm Bay, LLC, Lisle, Illinois
+USD
+1.0410
+49.00
+2
+–68
+ 
+2023
+Parcelly Limited, London
+GBP
+0.8302
+33.40
+2,217
+–1,289
+ 
+2023
+Roboyo Group Limited, London
+GBP
+0.8302
+13.05
+30,558
+–30,098
+ 
+2023
+SIB Solutions AB, Lund
+SEK
+11.4501
+20.70
+29,801
+–44,445
+ 
+2023
+Södertälje Science Park AB, Södertälje
+SEK
+11.4501
+25.00
+561
+–2,068
+ 
+2023
+V. EQUITY INVESTMENTS
+ 
+ 
+ 
+  
+ 
+ 
+ 
+1. Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Black Semiconductor GmbH, Aachen
+EUR
+ 
+5.48
+–
+–
+10)
+2024
+Car2Car Communication Consortium GbR, Braunschweig
+EUR
+ 
+7.40
+521
+122
+ 
+2022
+Cycle Mobility Holding GmbH, Berlin
+EUR
+ 
+17.65
+–
+–
+ 
+2023
+FFK Fahrzeugservice Förtsch GmbH Kronach, Kronach
+EUR
+ 
+30.00
+1,597
+139
+ 
+2023
+Grundstücksgesellschaft Schlossplatz 1 mbH & Co. KG, Berlin
+EUR
+ 
+8.16
+1,120
+826
+ 
+2023
+Roland Holding GmbH, Munich
+EUR
+ 
+22.83
+3,857
+–138
+ 
+2023
+Verwaltungsgesellschaft Wasseralfingen mbH, Aalen
+EUR
+ 
+50.00
+14,501
+354
+ 
+2023
+vialytics GmbH, Stuttgart
+EUR
+ 
+19.43
+12,241
+–6,779
+ 
+2023
+2. Other countries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Car IQ Inc., Oakland, California
+USD
+1.0410
+0.20
+8,242
+–15,342
+ 
+2023
+Combient AB, Stockholm
+SEK
+11.4501
+4.65
+125,432
+82,983
+ 
+2023
+CreateAI Holdings Inc., San Diego, California
+USD
+1.0410
+7.41
+719,587
+–277,877
+ 
+2023
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+47
+
+List of shareholdings of TRATON SE pursuant to section 285 (11) of the HGB
+Name and domicile of the company
+Currency
+Exchange 
+rate 
+(1 euro =) 
+12/31/2024
+Equity interest 
+ in %
+Equity 
+in thousands 
+Local currency
+Result 
+in thousands 
+Local currency
+Footnote
+Year
+Doral Tech SI, Limited Partnership, Ramat-Gan
+ILS
+3.7953
+100.00
+–
+–
+10)
+2024
+Lindholmen Science Park Aktiebolag, Gothenburg
+SEK
+11.4501
+8.98
+11,033
+–9,374
+ 
+2023
+Maghreb Truck Industry S.p.A., Sidi M'Hamed
+DZD
+141.0837
+10.00
+129,936
+–1,008
+ 
+2023
+Neutreeno Limited, Cambridge
+GBP
+0.8302
+2.23
+–
+–
+10)
+2024
+Northvolt AB, Stockholm
+SEK
+11.4501
+0.94
+32,754,748
+–4,348,756
+ 
+2023
+OneH2, Inc., Hickory, North Carolina
+USD
+1.0410
+5.13
+83,772
+337
+ 
+2023
+Shenzhen Haylion Technologies Co. Ltd., Shenzhen
+CNY
+7.5986
+2.00
+104,123
+11,450
+ 
+2023
+SI Orion Limited Partnership, Jerusalem
+ILS
+3.7953
+100.00
+–
+–
+3), 6)
+2024
+Stegra AB, Stockholm
+SEK
+11.4501
+2.02
+12,087,383
+–380,784
+9)
+2023
+Waabi Innovation Inc., Toronto, Ontario
+CAD
+1.4972
+0.13
+–
+–
+10)
+2024
+ 1) Profit and loss transfer agreement
+ 2) Currently not trading
+ 3) Short fiscal year
+ 4) Structured company in accordance with IFRS 10 and IFRS 12 
+ 5) Different fiscal year 
+ 6) Newly established company/spin-off 
+ 7) In liquidation 
+ 8) Figures included in the consolidated financial statements of the parent company 
+ 9) Consolidated financial statements 
+10) Newly acquired company
+11) Figures in accordance with IFRSs 
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+48
+
+The management report for TRATON SE and the 
+management report for the Group have been 
+combined in accordance with section 315 (5)  
+of the Handelsgesetzbuch (HGB — German 
+Commercial Code) in conjunction with  
+section 298 (2) of the HGB and published in 
+TRATON’s 2024 Annual Report.
+COMBINED  
+MANAGEMENT REPORT
+2
+
+FURTHER  
+INFORMATION
+Responsibility Statement
+51
+Independent Auditor’s Report
+52
+Publication Details
+58
+3
+
+Responsibility Statement
+To the best of our knowledge, and in accordance with the applicable reporting principles, 
+the annual financial statements give a true and fair view of the assets, liabilities, financial 
+position, and profit or loss of TRATON SE, and the combined management report includes 
+a fair review of the development and performance of the business and the position of the 
+Company, together with a description of the material opportunities and risks associated 
+with the expected development of the Company.
+Munich, February 12, 2025
+TRATON SE
+The Executive Board
+Christian Levin	
+Dr. Michael Jackstein	
+Catharina Modahl Nilsson	
+Niklas Klingenberg
+Alexander Vlaskamp	
+Mathias Carlbaum 	
+Antonio Roberto Cortes
+51
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+Independent Auditor’s Report
+To TRATON SE
+Report on the audit of the annual financial statements  
+and of the combined management report
+Opinions
+We have audited the annual financial statements of TRATON SE, Munich, which comprise 
+the income statement for the fiscal year from 1 January to 31 December 2024 and the 
+balance sheet as at 31 December 2024, and notes to the financial statements, including 
+the recognition and measurement policies presented therein. In addition, we have 
+audited the management report of TRATON SE, which is combined with the group man-
+agement report (“combined management report”), for the fiscal year from 1 January to 
+31 December 2024. In accordance with the German legal requirements, we have not 
+audited the content of the parts of the combined management report listed in the appen-
+dix to the auditor’s report and the company information stated therein that is provided 
+outside of the annual report and is referenced in the combined management report.
+In our opinion, on the basis of the knowledge obtained in the audit, 
+	–
+the accompanying annual financial statements comply, in all material respects, with 
+the requirements of German commercial law applicable to business corporations 
+and give a true and fair view of the assets, liabilities and financial position of the 
+Company as at 31 December 2024 and of its financial performance for the fiscal year 
+from 1 January to 31 December 2024 in compliance with German legally required 
+accounting principles, and 
+	–
+the accompanying combined management report as a whole provides an appropriate 
+view of the Company’s position. In all material respects, this combined management 
+report is consistent with the annual financial statements, complies with German legal 
+requirements and appropriately presents the opportunities and risks of future devel-
+opment. We do not express an opinion on the content of the parts of the combined 
+management report listed in the appendix to the auditor’s report.
+Pursuant to Sec. 322 (3) Sentence 1 HGB [“Handelsgesetzbuch”: German Commercial 
+Code], we declare that our audit has not led to any reservations relating to the legal com-
+pliance of the annual financial statements and of the combined management report.
+Basis for the opinions
+We conducted our audit of the annual financial statements and of the combined man-
+agement report in accordance with Sec.  317  HGB and the EU Audit Regulation 
+(No 537/2014, referred to subsequently as “EU Audit Regulation”) and in compliance with 
+German Generally Accepted Standards for Financial Statement Audits promulgated by 
+the Institut der Wirtschaftsprüfer [Institute of Public Auditors in Germany] (IDW). Our 
+responsibilities under those requirements and principles are further described in the 
+“Auditor’s responsibilities for the audit of the annual financial statements and of the com-
+bined management report” section of our auditor’s report. We are independent of the 
+Company in accordance with the requirements of European law and German commercial 
+and professional law, and we have fulfilled our other German professional responsibilities 
+in accordance with these requirements. In addition, in accordance with Art. 10 (2) f) of the 
+EU Audit Regulation, we declare that we have not provided non-audit services prohibited 
+under Art. 5 (1) of the EU Audit Regulation. We believe that the audit evidence we have 
+obtained is sufficient and appropriate to provide a basis for our opinions on the annual 
+financial statements and on the combined management report.
+Key audit matters in the audit of the annual financial statements
+Key audit matters are those matters that, in our professional judgment, were of most 
+significance in our audit of the annual financial statements for the fiscal year from 
+1 January to 31 December 2024. These matters were addressed in the context of our 
+audit of the annual financial statements as a whole, and in forming our opinion thereon; 
+we do not provide a separate opinion on these matters. 
+52
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+Below, we describe what we consider to be the key audit matters:
+Recoverability of shares in affiliated companies
+Reasons why the matter was determined to be a key audit matter:
+To assess the recoverability of shares in affiliated companies, each year the Company 
+tests on the basis of the affiliated companies’ budgets and forecasts whether there are 
+any indications that a recognized share in an affiliated company could be permanently 
+impaired. The result of the impairment testing of the shares in affiliated companies is 
+highly dependent on the executive directors’ estimate of future cash flows and which 
+discount rates they use. 
+In addition, the executive directors have scope for judgment in determining the discount 
+rates used and the long-term growth rates assumed.
+In view of the foregoing, the materiality of the shares in affiliated companies in relation 
+to total assets, the complexity of their valuation and the judgment exercised during val-
+uation, the impairment test of the shares in affiliated companies was a key audit matter.
+Auditor’s response:
+During our audit, we involved internal valuation specialists to test among other things 
+the methods used to test impairment. In particular, we assessed the procedures for iden-
+tifying indications of impairment likely to be permanent affecting recognized shares in 
+affiliated companies. In this context, we assessed whether the procedures are suitable 
+for providing objective evidence of a lower net realizable value following prolonged 
+impairment and whether these procedures were consistent with those used in the prior 
+year. We also checked the arithmetical accuracy of the valuation models used.
+We analyzed the planning process established in the TRATON Group, which includes the 
+affiliated companies, and tested the operating effectiveness of the controls implemented 
+in the planning process. As a starting point, we compared the TRATON Group’s five-year 
+operational plan prepared by the executive directors and acknowledged by the Super-
+visory Board with the forecast figures in the underlying impairment tests. 
+We discussed the key planning assumptions for affiliated companies selected on the 
+basis of risk and materiality aspects with the executive directors and compared them with 
+past earnings and cash inflows to assess the planning accuracy. 
+We based plausibility testing of the inputs for the impairment tests among other things 
+on a comparison with general and industry-specific market expectations underlying the 
+expected cash inflows. We discussed the significant assumptions with the responsible 
+employees. In doing so, we considered in particular inflation expectations and increases 
+in the cost of materials and personnel expenses. 
+Furthermore, we discussed and assessed the planning assumptions regarding the effects 
+of climate change and the associated expansion of e-mobility, particularly the existing 
+uncertainties related to the estimation of market shares for electric vehicles and margins 
+as well as long-term growth rates used for the planning. With respect to the rollforward 
+from the medium-term plan to the long-term forecast, we assessed the plausibility of the 
+assumed growth rates by comparing them with observable data. 
+To assess the discount rates applied, we analyzed the inputs used to determine them 
+on the basis of publicly available information and obtained an understanding of the 
+methods used.
+We also assessed the sensitivity analyses performed by the executive directors in order 
+to estimate any potential impairment risk associated with a reasonably possible change 
+in one of the significant assumptions used in the valuation. 
+As part of our audit of intragroup reorganizations, we examined the underlying contrac-
+tual documents and assessed the propriety of accounting according to German commer-
+cial law on the basis of the principles applicable to exchange transactions and non-cash 
+contributions. Furthermore, we assessed the proper accounting treatment of the trans-
+actions in the annual financial statements of TRATON SE, including the disclosures in the 
+notes. 
+Our procedures did not lead to any reservations relating to the assessment of the recov-
+erability of shares in affiliated companies.
+Reference to related disclosures:
+With regard to the recognition and measurement policies applied for shares in affiliated 
+companies, refer to the disclosures on financial assets in the “Accounting Policies” section 
+and note 9 of the “Balance Sheet Disclosures” section of the notes to the financial state-
+ments. 
+53
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+Other information
+The executive directors and the Supervisory Board are responsible for the declaration 
+pursuant to Sec. 161 AktG [“Aktiengesetz”: German Stock Corporation Act] on the German 
+Corporate Governance Code, which is part of the Corporate Governance Statement. In all 
+other respects, the executive directors are responsible for the other information. The other 
+information comprises the parts of the annual report listed in the appendix.
+Our opinions on the annual financial statements and on the combined management 
+report do not cover the other information, and consequently we do not express an opinion 
+or any other form of assurance conclusion thereon.
+In connection with our audit, our responsibility is to read the other information and, in so 
+doing, to consider whether the other information
+	–
+is materially inconsistent with the annual financial statements, with the combined 
+management report or our knowledge obtained in the audit, or
+	–
+otherwise appears to be materially misstated.
+Responsibilities of the executive directors and the Supervisory Board for  
+the annual financial statements and the combined management report
+The executive directors are responsible for the preparation of the annual financial state-
+ments that comply, in all material respects, with the requirements of German commercial 
+law applicable to business corporations, and that the annual financial statements give a 
+true and fair view of the assets, liabilities, financial position and financial performance of 
+the Company in compliance with German legally required accounting principles. In addi-
+tion, the executive directors are responsible for such internal control as they, in accordance 
+with German legally required accounting principles, have determined necessary to enable 
+the preparation of annual financial statements that are free from material misstatement, 
+whether due to fraud (i.e., fraudulent financial reporting and misappropriation of assets) 
+or error.
+In preparing the annual financial statements, the executive directors are responsible for 
+assessing the Company’s ability to continue as a going concern. They also have the 
+responsibility for disclosing, as applicable, matters related to going concern. In addition, 
+they are responsible for financial reporting based on the going concern basis of account-
+ing, provided no actual or legal circumstances conflict therewith.
+Furthermore, the executive directors are responsible for the preparation of the combined 
+management report that, as a whole, provides an appropriate view of the Company’s 
+position and is, in all material respects, consistent with the annual financial statements, 
+complies with German legal requirements and appropriately presents the opportunities 
+and risks of future development. In addition, the executive directors are responsible for 
+such arrangements and measures (systems) as they have considered necessary to enable 
+the preparation of a management report that is in accordance with the applicable German 
+legal requirements, and to be able to provide sufficient appropriate evidence for the 
+assertions in the combined management report. 
+The Supervisory Board is responsible for overseeing the Company’s financial reporting 
+process for the preparation of the annual financial statements and of the combined 
+management report.
+Auditor’s responsibilities for the audit of the annual financial statements and 
+of the combined management report
+Our objectives are to obtain reasonable assurance about whether the annual financial 
+statements as a whole are free from material misstatement, whether due to fraud or error, 
+and whether the combined management report as a whole provides an appropriate view 
+of the Company’s position and, in all material respects, is consistent with the annual 
+financial statements and the knowledge obtained in the audit, complies with the German 
+legal requirements and appropriately presents the opportunities and risks of future 
+development, as well as to issue an auditor’s report that includes our opinions on the 
+annual financial statements and on the combined management report.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit 
+conducted in accordance with Sec. 317 HGB and the EU Audit Regulation and in compliance 
+with German Generally Accepted Standards for Financial Statement Audits promulgated 
+by the Institut der Wirtschaftsprüfer (IDW) will always detect a material misstatement. 
+Misstatements can arise from fraud or error and are considered material if, individually 
+or in the aggregate, they could reasonably be expected to influence the economic deci-
+sions of users taken on the basis of these annual financial statements and this combined 
+management report.
+54
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+We exercise professional judgment and maintain professional skepticism throughout 
+the audit. We also: 
+	–
+Identify and assess the risks of material misstatement of the annual financial state-
+ments and of the combined management report, whether due to fraud or error, design 
+and perform audit procedures responsive to those risks, and obtain audit evidence 
+that is sufficient and appropriate to provide a basis for our opinions. The risk of not 
+detecting a material misstatement resulting from fraud is higher than the risk of not 
+detecting a material misstatement resulting from error, as fraud may involve collusion, 
+forgery, intentional omissions, misrepresentations, or the override of internal control.
+	–
+Obtain an understanding of internal control relevant to the audit of the annual financial 
+statements and of arrangements and measures relevant to the audit of the combined 
+management report in order to design audit procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an opinion on the effectiveness 
+of the Company’s internal control and of such arrangements and measures.
+	–
+Evaluate the appropriateness of accounting policies used by the executive directors 
+and the reasonableness of estimates made by the executive directors and related 
+disclosures. 
+	–
+Conclude on the appropriateness of the executive directors’ use of the going concern 
+basis of accounting and, based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may cast significant doubt on 
+the Company’s ability to continue as a going concern. If we conclude that a material 
+uncertainty exists, we are required to draw attention in the auditor’s report to the 
+related disclosures in the annual financial statements and in the combined manage-
+ment report or, if such disclosures are inadequate, to modify our respective opinions. 
+Our conclusions are based on the audit evidence obtained up to the date of our audi-
+tor’s report. However, future events or conditions may cause the Company to cease to 
+be able to continue as a going concern.
+	–
+Evaluate the overall presentation, structure and content of the annual financial state-
+ments, including the disclosures, and whether the annual financial statements present 
+the underlying transactions and events in a manner that the annual financial state-
+ments give a true and fair view of the assets, liabilities, financial position and financial 
+performance of the Company in compliance with German legally required accounting 
+principles.
+	–
+Evaluate the consistency of the combined management report with the annual finan-
+cial statements, its conformity with [German] law, and the view of the Company’s 
+position it provides.
+	–
+Perform audit procedures on the prospective information presented by the executive 
+directors in the combined management report. On the basis of sufficient appropriate 
+audit evidence we evaluate, in particular, the significant assumptions used by the 
+executive directors as a basis for the prospective information, and evaluate the proper 
+derivation of the prospective information from these assumptions. We do not express 
+a separate opinion on the prospective information and on the assumptions used as a 
+basis. There is a substantial unavoidable risk that future events will differ materially 
+from the prospective information.
+We communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit and significant audit findings, including any 
+significant deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied 
+with the relevant independence requirements, and communicate with them all relation-
+ships and other matters that may reasonably be thought to bear on our independence 
+and where applicable, the related safeguards.
+From the matters communicated with those charged with governance, we determine 
+those matters that were of most significance in the audit of the annual financial state-
+ments of the current period and are therefore the key audit matters. We describe these 
+matters in our auditor’s report unless law or regulation precludes public disclosure about 
+the matter.
+Other legal and regulatory requirements
+Report on the assurance on the electronic rendering of the annual financial statements 
+and the combined management report prepared for publication purposes in accordance 
+with Sec. 317 (3a) HGB 
+55
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+Opinion
+We have performed assurance work in accordance with Sec. 317 (3a) HGB to obtain 
+reasonable assurance about whether the rendering of the annual financial statements 
+and the combined management report (hereinafter the “ESEF documents”) contained in 
+the file TRATON_SE_JA_ZLB_ESEF-2024-12-31 and prepared for publication purposes 
+complies in all material respects with the requirements of Sec. 328 (1) HGB for the elec-
+tronic reporting format (“ESEF format”). In accordance with German legal requirements, 
+this assurance work extends only to the conversion of the information contained in the 
+annual financial statements and the combined management report into the ESEF format 
+and therefore relates neither to the information contained within these renderings nor 
+to any other information contained in the file identified above.
+In our opinion, the rendering of the annual financial statements and the combined man-
+agement report contained in the file identified above and prepared for publication pur-
+poses complies in all material respects with the requirements of Sec. 328 (1) HGB for the 
+electronic reporting format. Beyond this assurance opinion and our audit opinions on the 
+accompanying annual financial statements and the accompanying combined manage-
+ment report for the fiscal year from 1 January to 31 December 2024 contained in the 
+“Report on the audit of the annual financial statements and of the combined management 
+report” above, we do not express any assurance opinion on the information contained 
+within these renderings or on the other information contained in the file identified above. 
+Basis for the opinion 
+We conducted our assurance work on the rendering of the annual financial statements 
+and the combined management report contained in the file identified above in accordance 
+with Sec. 317 (3a) HGB and the IDW Assurance Standard: Assurance on the Electronic 
+Rendering of Financial Statements and Management Reports Prepared for Publication 
+Purposes in Accordance with Sec. 317 (3a) HGB (IDW AsS 410 (06.2022)) and the Inter-
+national Standard on Assurance Engagements 3000 (Revised). Our responsibility in 
+accordance therewith is further described in the “Auditor’s responsibilities for the assur-
+ance work on the ESEF documents” section. Our audit firm applies the IDW Standard 
+on Quality Management 1: Requirements for Quality Management in the Audit Firm 
+(IDW QMS 1 (09.2022)). 
+Responsibilities of the executive directors and the Supervisory Board  
+for the ESEF documents
+The executive directors of the Company are responsible for the preparation of the ESEF 
+documents including the electronic rendering of the annual financial statements and 
+the combined management report in accordance with Sec. 328 (1) Sentence 4 No. 1 HGB.
+In addition, the executive directors of the Company are responsible for such internal 
+control as they have determined necessary to enable the preparation of ESEF documents 
+that are free from material intentional or unintentional non-compliance with the require-
+ments of Sec. 328 (1) HGB for the electronic reporting format. 
+The Supervisory Board is responsible for overseeing the process for preparing the ESEF 
+documents as part of the financial reporting process. 
+Auditor’s responsibilities for the assurance work on the ESEF documents 
+Our objective is to obtain reasonable assurance about whether the ESEF documents are 
+free from material intentional or unintentional non-compliance with the requirements 
+of Sec. 328 (1) HGB. We exercise professional judgment and maintain professional skep-
+ticism throughout the assurance work. We also:
+	–
+Identify and assess the risks of material intentional or unintentional non-compliance 
+with the requirements of Sec. 328 (1) HGB, design and perform assurance procedures 
+responsive to those risks, and obtain assurance evidence that is sufficient and appro-
+priate to provide a basis for our assurance opinion.
+	–
+Obtain an understanding of internal control relevant to the assurance on the ESEF 
+documents in order to design assurance procedures that are appropriate in the circum-
+stances, but not for the purpose of expressing an assurance opinion on the effectiveness 
+of these controls. 
+	–
+Evaluate the technical validity of the ESEF documents, i.e., whether the file containing 
+the ESEF documents meets the requirements of Commission Delegated Regulation 
+(EU) 2019/815, in the version in force at the date of the financial statements, on the 
+technical specification for this file.
+	–
+Evaluate whether the ESEF documents enable an XHTML rendering with content 
+equivalent to the audited annual financial statements and to the audited combined 
+management report. 
+56
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+Further information pursuant to Art. 10 of the EU Audit Regulation
+We were elected as auditor by the Annual General Meeting on 13 June 2024. We were 
+engaged by the Supervisory Board on 12 July 2024. We have been the auditor of TRATON SE 
+since fiscal year 2020.
+We declare that the opinions expressed in this auditor’s report are consistent with the 
+additional report to the Audit Committee pursuant to Art. 11 of the EU Audit Regulation 
+(long-form audit report).
+Other matter – use of the auditor’s report
+Our auditor’s report must always be read together with the audited annual financial 
+statements and the audited combined management report as well as the assured ESEF 
+documents. The annual financial statements and the combined management report 
+converted to the ESEF format – including the versions to be published in the Unterneh­
+mensregister [German Company Register] – are merely electronic renderings of the 
+audited annual financial statements and the audited combined management report and 
+do not take their place. In particular, the ESEF report and our assurance opinion contained 
+therein are to be used solely together with the assured ESEF documents made available 
+in electronic form.
+German Public Auditor responsible for the engagement
+The German Public Auditor responsible for the engagement is Heiko Hummel.
+Appendix to the auditor’s report:
+1. Parts of the combined management report whose content is unaudited
+We have not audited the content of the following parts of the combined management 
+report:
+	–
+The Corporate Governance Statement contained in the section “Supplemental Infor-
+mation on Fiscal Year 2024” of the combined management report
+	–
+The Nonfinancial Group Statement contained in the combined management report
+Furthermore, we have not audited the content of the following disclosures extraneous to 
+management reports. Disclosures extraneous to management reports are such disclo-
+sures that are not required pursuant to Secs. 289, 289a HGB or Secs. 289b to 289f HGB:
+	–
+The section “Appropriateness and effectiveness of risk management” contained in the 
+section “Report on Expected Developments, Opportunities, and Risks, 2. Report on 
+opportunities and risks” of the combined management report.
+2. Further other information
+The other information also comprises other parts to be included in the annual report, of 
+which we obtained a copy prior to issuing this auditor’s report, in particular the section:
+	–
+Responsibility Statement
+but not the annual financial statements, not the management report disclosures whose 
+content is audited and not our auditor’s report thereon.
+3. Company information outside of the annual report referenced  
+in the combined management report
+The combined management report contains cross-references to webpages of the Com-
+pany and the Group. We have not audited the content of the information to which these 
+cross-references refer.
+Munich, 17 February 2025
+EY GmbH & Co. KG
+Wirtschaftsprüfungsgesellschaft
+Meyer	
+Hummel 
+Wirtschaftsprüfer	
+Wirtschaftsprüfer 
+[German Public Auditor]	
+[German Public Auditor]
+57
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+Publication Details
+Published by
+TRATON SE
+Hanauer Str. 26
+80992 Munich, Germany
+www.traton.com
+Corporate Communications
+media-relations@traton.com
+Investor Relations
+investor.relations@traton.com
+T: +49 89 36098 70
+Concept, design, and layout
+3st kommunikation GmbH, Mainz, Germany
+English Translation
+Leinhäuser Language Services GmbH,  
+Unterhaching, Germany
+Sabinah Black EI/Sabinah Russul Saib EI,  
+Colomiers, France (Editing and Proofreading)
+Photography
+Markus Kleimaier/Moment via Getty Images (Cover Page) 
+The Good Brigade/DigitalVision via Getty Images (Cover Page)
+Copyright
+©2025 TRATON SE and 3st kommunikation GmbH
+This is a translation of the German original.  
+In the event of discrepancies between the  
+German language version and any translation  
+thereof, the German version will prevail.
+58
+Annual Financial Statements of TRATON SE
+Combined Management Report
+Further Information
+
+W W W . T R A T O N . C O M

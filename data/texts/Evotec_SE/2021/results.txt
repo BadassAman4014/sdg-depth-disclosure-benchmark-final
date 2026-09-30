@@ -1,0 +1,4564 @@
+www.evotec.com
+Evotec SE, Manfred Eigen Campus, Essener Bogen 7, 22419 Hamburg (Deutschland) 
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Evotec SE  
+NACHHALTIGKEITS- 
+BERICHT 2021 
+#RESeArChneVErSTOpS
+
+2
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Inhaltsverzeichnis
+1. ÜBER DIESEN BERICHT
+1.1. Vorwort des Vorstands
+1.2. Unsere Nachhaltigkeitsstrategie auf einen Blick
+1.3. Wir halten unser Versprechen – ESG-Maßnahmen 2021
+2. ÜBER UNSERE ORGANISATION
+2.1. Wer wir sind und wie wir unseren Auftrag erfüllen
+2.2. Unsere Struktur
+2.3. Unser Geschäftsmodell
+3. UNSER NACHHALTIGKEITSMANAGEMENT
+3.1. Unser ESG-Ansatz 
+3.2. Risiken im Zusammenhang mit nicht-finanziellen Sachverhalten
+3.3. Stakeholder- & Wesentlichkeitsanalyse
+3.4. Unser Beitrag zu den SDG
+4. SOZIALES 
+4.1. Globale Gesundheit 
+4.2. Faire Beschäftigung
+4.3. Aus- und Weiterbildung 
+4.4. Diversität, Gleichstellung und Inklusion
+4.5. Gesundheit und Sicherheit am Arbeitsplatz
+5. UMWELT
+5.1. Den Planeten schützen
+5.2.	Verpflichtung zur Einhaltung von Umweltauflagen
+5.3. Betrieblicher Umweltschutz
+5.4. Emissionsbericht
+6. GOVERNANCE	
+ 
+6.1. Compliance	
+ 
+6.2. Bekämpfung von Korruption	
+ 
+6.3. Menschenrechtsfragen 	
+6.4. Supply Chain	
+6.5. IT-Sicherheit 	
+7. AUSBLICK
+8. GRI-INHALTSINDEX	
+9. MITGLIEDSCHAFTEN & INITIATIVEN	
+10. ANHANG
+	
+P. 	 3
+	
+P. 	 5
+	
+P. 	 6
+	
+P. 	 7
+	
+P. 	 8
+	
+P. 	 8
+	
+P. 	 8
+	
+P. 	 9
+	
+P. 	11
+	
+P. 	11
+	
+P. 	14
+	
+P. 	14
+	
+P. 	15
+	
+P. 	19
+	
+P. 	19
+	
+P. 	22
+	
+P. 	24
+	
+P. 	27
+	
+P. 	28
+	
+P. 	32
+	
+P. 	32
+	
+P. 	33
+	
+P. 	33
+	
+P. 	33
+	
+P. 	35
+	
+P. 	35
+	
+P. 	36
+	
+P. 	37
+	
+P. 	41
+	
+P. 	42
+	
+P. 	44
+	
+P. 	45
+	
+P. 	49 
+	
+P. 	50
+Aus Gründen der besseren Lesbarkeit verwenden wir bei Personenbezeichnungen und 
+personenbezogenen Hauptwörtern in diesem Nachhaltigkeitsbericht die männliche 
+Form. Entsprechende Begriffe gelten im Sinne der Gleichbehandlung grundsätzlich 
+für alle Geschlechter. Die verkürzte Sprachform haben wir aus redaktionellen Gründen 
+gewählt und sie beinhaltet keine Wertung.
+Der Nachhaltigkeitsbericht bezieht sich auf den Evotec-Konzern. Zur größeren Einheit-
+lichkeit in unserer Kommunikation verwenden wir den englischen Begriff Evotec Group, 
+wenn wir vom Evotec Konzern sprechen oder die Kurzform Evotec. Die Kennzahlen 
+betreffen, soweit nicht anders vermerkt, die gesamte Evotec Group. Informationen, die 
+lediglich bestimmte Standorte betreffen, sind als solche gekennzeichnet.
+
+3
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+unseren Wirtschaftssektoren sowie relevanten Konzernfunktionen geprüft 
+und bestätigt. Im vorliegenden Bericht werden die folgenden wesentlichen 
+Themen gemäß HGB und CSR (Corporate Social Responsibility)-Richtlinie-
+Umsetzungsgesetz 
+(CSR-RUG) 
+berücksichtigt: 
+Arbeitnehmerbelange 
+(einschließlich Arbeitssicherheit und Gesundheitsschutz), Menschenrechts-
+fragen (einschließlich Tierschutz) sowie Antikorruption, Umwelt- und 
+Sozialbelange im Sinne der CSR-RUG. Nachfolgende Tabelle zeigt die 
+Schnittmenge aus den wesentlichen Themen gemäß CSR-RUG und den 
+wesentlichen Themen gemäß unserer eigenen Untersuchung. 
+In einem zweiten Schritt wurden neben den gesetzlichen Anforderungen 
+der CSR-RUG im Nachhaltigkeitsbericht 2021 auch wesentliche Aspekte der 
+Kriterien der GRI (Global Reporting Initiative) berücksichtigt. Die Standards 
+der Global Reporting Initiative zählen zu den weltweit meistgenutzten 
+Berichtsstandards bzw. Rahmen für Nachhaltigkeitsberichte. Sie liefern 
+unseres Erachtens einen umfassenden Überblick über unsere Maßnahmen 
+zur Verbesserung unserer Performance in allen ESG-Bereichen.
+Im Sinne der Transparenz und der Petitionen internationaler Stakeholder 
+berücksichtigen wir darüber hinaus auch Branchenstandards wie die des 
+SASB (Sustainability Accounting Standards Board). Eine sorgfältige Prüfung 
+hat ergeben, dass sich die SASB-Standards stark auf Aspekte der Herstellung 
+in der pharmazeutischen Industrie konzentrieren, während Evotec den Fokus 
+auf die Arzneimittelforschung legt. In den wesentlichen Themenbereichen 
+wird dennoch auch auf diese Standards verwiesen.
+Dies ist Evotecs zweiter Nachhaltigkeitsbericht. Er befasst sich mit den 
+Themen Umwelt, Soziales und Governance (ESG) und dazugehörigen Para-
+metern, insofern sich diese in wesentlichem Maße auf unser Unternehmen 
+auswirken. Mit diesem Bericht geben wir unseren Stakeholdern detaillierte 
+Einblicke in unsere Nachhaltigkeitsaktivitäten und -Kennzahlen.
+Wie bereits in vorherigen Berichtszeiträumen richten wir uns bei der 
+inhaltlichen Ausgestaltung unseres Nachhaltigkeitsberichts nach den 
+Offenlegungsanforderungen gemäß §§ 315b, 315c i. V. m. §§ 289b bis 289e 
+HGB. Diese Vorschriften verpflichten uns zur Durchführung einer zweige-
+teilten Wesentlichkeitsprüfung („doppelte Wesentlichkeit“). In erster Linie 
+sind wir zur Offenlegung nicht-finanzieller Angaben verpflichtet, wenn 
+diese notwendig sind, um den Geschäftsverlauf, das Geschäftsergebnis 
+und die finanzielle Lage des Unternehmens zu verstehen. Zudem müssen 
+nicht-finanzielle Angaben gemacht werden, wenn diese erforderlich sind, 
+um nachzuvollziehen, wie sich die Geschäftstätigkeiten des Unternehmens 
+auf nicht-finanzielle Aspekte auswirken. Die Abschnitte dieses Berichts, 
+die im Zusammenhang mit den Anforderungen des HGBs relevant sind 
+und unsere materiellen Themen betreffen, sind mit dem folgenden Symbol 
+gekennzeichnet: 
+Im Rahmen einer umfassenden Nachhaltigkeitsprüfung im November/
+Dezember 2020 wurden die für den Konzern und seine Stakeholder wesent-
+lichen ESG-Themen festgelegt. Die Ergebnisse wurden von Experten aus 
+1. Über diesen Bericht
+
+4
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Soweit dies zweckdienlich ist, reichen die hier enthaltenen Informationen 
+über die rechtlichen Anforderungen hinaus und gewähren einen umfassen-
+deren Überblick über Evotecs Nachhaltigkeitsstrategie und die Position des 
+Unternehmens im Zusammenhang mit ESG-relevanten Faktoren. Im Laufe 
+des Jahres 2021 haben wir die Berichterstattung verbessert und auf unserer 
+Website einen Bereich eingerichtet, der speziell dem stetigen Informations-
+fluss dient. Für jede der drei Dimensionen der Nachhaltigkeit (Umwelt, Sozi-
+ales und Governance) werden Kennzahlen vorgelegt. Der neue ESG-Bereich 
+auf unserer Website ist über folgenden Link erreichbar: ESG - Evotec
+Aus Gründen der besseren Lesbarkeit verwenden wir bei Personenbezeich-
+nungen und personenbezogenen Hauptwörtern in diesem Nachhaltig-
+keitsbericht die männliche Form. Entsprechende Begriffe gelten im Sinne 
+der Gleichbehandlung grundsätzlich für alle Geschlechter. Die verkürzte 
+Sprachform haben wir aus redaktionellen Gründen gewählt und beinhaltet 
+keine Wertung. 
+TABELLE 1: WESENTLICHE THEMEN GEMÄSS CSR-RUG BZW. GRI
+ABSCHNITT IM BERICHT
+WESENTLICHE THEMEN  
+NACH EIGENER EINSCHÄTZUNG
+SCHNITTMENGE AUS CSR-RUG  
+UND WESENTLICHKEITSPRÜFUNG
+AKTUELLE UND  
+KÜNFTIGE OFFEN­
+LEGUNG GEMÄSS GRI
+SASB
+Unsere Organisation  
+und unser Nachhaltigkeits-
+management
+Markterfolg
+201
+Stakeholder Engagement 
+102 
+Soziales
+Verfügbarkeit von & Zugang  
+zu medizinischer Versorgung
+Innovation/F&E
+Investitionen in Menschen
+401 & 404
+HC-BP-330a.1    
+HC-BP-330a.2
+Diversität, Gleichstellung & Inklusion
+405
+Gesundheit und Sicherheit  
+am Arbeitsplatz
+403
+Unternehmenskultur und Führung
+Umwelt
+Kohlenstoff-/Treibhausgasemissionen
+301, 302, and 305
+Betrieblicher Umweltschutz
+306 & 303
+Governance
+Tierschutz
+IT-Sicherheit
+418
+Dieser Bericht wird zeitgleich mit unserem Geschäftsbericht veröffentlicht, 
+um den Bewertungsprozess von Investoren anhand zusätzlicher nicht-finan-
+zieller Kennzahlen zu unterstützen. Der Berichtszeitraum entspricht Evotecs 
+Geschäftsjahr, d. h. dem Zeitraum vom 1. Januar 2021 bis 31. Dezember 2021. 
+Der Bericht betrifft den gesamten Evotec-Konzern einschließlich seiner 
+15 Standorte in sechs Ländern. Sollten hier enthaltene Informationen von 
+diesen Parametern abweichen, wird ausdrücklich darauf hingewiesen.
+Dieser Nachhaltigkeitsbericht wurde am 21. März 2022 vom Vorstand der 
+Evotec SE und nachfolgend am 25. April vom Aufsichtsrat im Rahmen seiner 
+Verpflichtung zur inhaltlichen Prüfung gemäß HGB geprüft. Der Bericht 
+wurde am 26. April 2022 verabschiedet.
+
+5
+die akademische Forschung unterstützen, haben wir im Juni 2021 unter dem 
+Namen PRROTECT (pandemic Preparedness and Rapid RespOnse TEChno-
+logy plaTform) eine offene, vorwettbewerbliche Netzwerk-Initiative für den 
+besten Schutz gegen zukünftige Pandemien gestartet. Evotec besitzt bereits 
+ein Portfolio von antiviralen Arzneimitteln zur weiteren Entwicklung und 
+beabsichtigt, mehr als 10 Mio. € zu investieren, um Projekte in Krankheits-
+bereichen voranzubringen, die unter dem UN-Nachhaltigkeitsziel SDG 3, 
+Gesundheit und Wohlergehen, konkret angesprochen werden. Die ersten 
+klinischen Daten aus PRROTECT-Projekten werden bereits 2023 erwartet.
+Neben den Pandemien wird auch der Klimawandel die Lebensgrundlage 
+der Menschen verändern. Daher ist nicht nur unser Hauptauftrag – die 
+Entwicklung präziser Arzneimittel – sondern auch die Minimierung der 
+Treibhausgasemissionen für Evotec eine wichtige Aufgabe. Startpunkt für 
+unsere Bestrebungen war der Beitritt zur Science Based Targets Initiative 
+(SBTi) im Januar 2021, mit dem wir uns den Zielen des Pariser Abkom-
+mens von 2015 verpflichtet haben. Im Umgang mit der Notwendigkeit, die 
+globale Erwärmung auf ein Niveau von 1,5 Grad Celsius zu begrenzen, fügt 
+sich ein wissenschaftlich fundierter und datenbasierter Ansatz perfekt in 
+unsere Unternehmenskultur ein. Aktuell laufen die Vorbereitungen zur 
+Kommunikation der SBTi-Ziele und des dazugehörigen Fahrplans. Dies soll 
+bis Ende 2022 erfolgen.
+Unsere Pläne sind ehrgeizig, und gemeinsam kommen wir schneller ans 
+Ziel. Wir freuen uns auf den weiteren Dialog mit unseren Partnern und 
+laden alle Freunde und Stakeholder Evotecs herzlich dazu ein, uns auf 
+unserer spannenden Reise zu begleiten. Ihre Fragen, Ideen und Rückmel-
+dungen sind uns stets willkommen.
+Herzliche Grüße im Namen des Management-Teams,
+Liebe Stake-
+holder und 
+Freunde  
+von Evotec,
+#researchneverstops – unser Leitbild, steht für die natürliche Integration 
+unserer Unternehmens- und Nachhaltigkeitsstrategie. Die Erforschung und 
+Entwicklung präziser, für jedermann zugänglicher und erschwinglicher 
+Heilmittel ist unser wichtigster Beitrag zur globalen Gemeinschaft in ihrer 
+ganzen Vielfalt. Bis heute gibt es mehr als 3.300 nicht behandelbare Krank-
+heiten, und die Zahl der verschiedenen Patientenpopulationen, die auf 
+verschiedene Art und Weise von ihnen betroffen sind, ist weiter gestiegen. 
+Daher ist ein ganzheitlicher und langfristiger Denkansatz Grundvoraus-
+setzung für Evotecs Erfolg. Unsere Strategie, bahnbrechende Technologien 
+und effiziente Verfahren dafür zu nutzen, in der Wirkstoffforschung und 
+-entwicklung mit Partnern die größte co-owned Pipeline der Branche zu 
+entwickeln, entspricht voll und ganz unserem Ziel, die Lebensqualität jedes 
+einzelnen Patienten zu verbessern. 
+Unser Geschäftsmodell ist an der moralischen Pflicht ausgerichtet, mit 
+knappen und wertvollen Ressourcen verantwortungsvoll umzugehen und 
+die Umwelt zu schützen sowie an der Verpflichtung zur Schaffung eines 
+physisch und psychisch sicheren Arbeitsumfelds, das die Kreativität und 
+Selbstverwirklichung unserer Mitarbeiter fördert. Die Entwicklung und 
+Umsetzung einer Strategie für Diversität, Gleichstellung & Inklusion für 
+rund 4.200 Mitarbeiter aus mehr als 80 Nationen ist ein weitreichendes 
+Projekt, das 2022 starten wird.
+COVID-19 hatte zweifellos erhebliche Auswirkungen auf alle Bereiche des 
+Lebens. Hier möchte ich vor allem das große Engagement unserer Mitar-
+beiter hervorheben. Durch unternehmerisches, gemeinschaftliches und 
+innovatives Handeln im Umgang mit neuen Herausforderungen ist es uns 
+gelungen, Service und Kundenzufriedenheit auf einem hohen Niveau zu 
+halten und zugleich unsere Mitarbeiter zu schützen. 
+Die wirtschaftlichen Auswirkungen der COVID-19-Pandemie haben tief-
+greifende Folgen auf globaler Ebene. Dazu zählen etwa größere Armut, 
+Ungleichheiten und mittelfristig auch Auswirkungen auf das Bildungsni-
+veau. In Zukunft wird es darauf ankommen, besser vorbereitet zu sein, und 
+unsere Branche spielt dabei eine entscheidende Rolle. Bei Evotec gehen wir 
+den Prozess hin zu einer besseren Vorbereitung auch künftig proaktiv an. 
+Neben den „Academic BRIDGES“, mit denen wir seit mehr als zehn Jahren 
+Werner Lanthaler
+Chief Executive Officer
+V O R W O R T D E S V O R S T A N D S
+
+6
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+1.2. Unser Nachhaltigkeitsbericht  
+auf einen Blick
+4.198
+>2.000
+81
+31 %
+38.5
+54 %
+46 %
+82 %
+Mitarbeiter weltweit
+Zulieferer werden auf 
+ESG-Aspekte geprüft
+3,80
+Globale 
+Unfallrate
+Nationalitäten
+28
+Projekte im Bereich 
+Infektionskrankheiten
+Durchschnitts-
+Alter der 
+Beschäftigten
+Männer
+Frauen
+von oberer Führungsebene 
+sind Frauen
+Mitarbeiter mit akademischen 
+Abschluss
+>1.000
+neue Mitarbeiter
+Verhaltenskodex
+—
+EVOwhIstle
+—
+GLOBALEN GRUNDSÄTZEN
+—
+ComplIance 
+trainIng
+scOpes
+1
+2
+3
+ManAgementsystem
+für Umweltdaten
+Zielsetzungen 
+für 1,5 Grad
+Ziel bis Ende
+2022 
+SBTI.
+I N n o vatI O n
+C o l L a b o r a t I o n
+EnTR EPrEN EUrsh i p
+EVOsafe
+Guided 
+governance
+visIon 2025
+w
+e
+r
+t
+e
+
+7
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+ESG-Themen sind Teil unserer DNA
+	 	Konzernweite Integration von ESG-Themen in die persönlichen 
+Zielsetzungen sämtlicher Mitarbeiter für 2021
+	 	Festlegung von Verantwortlichkeiten für die Erweiterung der 
+Nachhaltigkeitskennzahlen
+	 Konzernweite Anerkennung & Teilnahme an Diversity Day (Mai) und 
+Pride Month (Juni)
+	 DEI – Diversität, Gleichstellung & Inklusion: Erarbeitung einer 
+globalen Diversitätsstrategie
+Verantwortungsvoller Umgang mit Ressourcen
+	 	Seit Januar 2021 beziehen alle Standorte ausschließlich Strom aus 
+erneuerbaren Energien 
+	 	Beschluss zur Erneuerung der Heizung von Gebäude B95 in Abingdon 
+(geschätzte CO2-Einsparungen: ca. 800 t/Jahr)
+	 	EVOearth-Woche zur Stärkung des Umweltbewusstseins insgesamt
+	 	Verbesserung der Datenqualität zur Messung unseres CO2-Fußabdrucks 
+durch die Einführung einer EDV-gestützten, systematischen Erhebung 
+von Daten als Grundlage für SBTi-Zielsetzungen
+1.3. Wir halten unser Versprechen – 
+ESG-Massnahmen 2021
+Unser Beitrag zur besseren Vorbereitung auf Pandemien
+Im Juni 2021 startete das Projekt PRROTECT (pandemic Preparedness 
+and Rapid RespOnse TEChnology plaTform) zur Vorbereitung auf 
+zukünftige Pandemien über drei verschiedene Kanäle:  
+	 Vorentwicklung einer multimodalen Pipeline therapeutischer 
+Kandidaten gegen Viren, die gemäß Weltgesundheitsorganisation 
+(„WHO“) als besondere Bedrohung eingestuft werden
+	 Technologien zur Verkürzung der F&E-Zeitlinien für die 
+Neuentwicklung von hochwirksamen, neutralisierenden 
+Antikörpern unter Verwendung von AI- & ML-Plattformen (z. B. 
+J.HALSM)
+	 Flexibles Netzwerk aus verdichteten Produktionsanlagen (J.POD®), 
+um bei Bedarf schnell therapeutische Antikörper herzustellen
+Verstärkter Dialog mit Stakeholdern
+	 	ESG-Rating von MSCI verbesserte sich im Januar 2021 von BBB auf A
+	 	ESG-Rating von ISS verbesserte sich im Mai 2021 von C- auf C
+	 	EcoVadis-Ranking stieg im 4. Quartal von 48 Punkten auf 52 Punkte
+	 	Beschluss zur Berücksichtigung von GRI-Standards bei der 
+Berichterstattung für das Geschäftsjahr 2021 
+
+8
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+2.1. Wer wir sind und wie  
+wir unseren Auftrag erfüllen
+Als Partner von Pharma- und Biotechunternehmen genießt Evotec eine 
+führende Stellung in der Wirkstoffforschung und -entwicklung. Unsere 
+Vision ist es, für alle Erkrankungen Heilmittel zu finden: #researchneverstops 
+– diese Maxime wird gelten, bis auch für die letzte nicht behandelbare Krank-
+heit Heilmethoden gefunden sind, und sie ist der Kern der Nachhaltigkeit 
+unserer Unternehmensentwicklung. Unser Auftrag ist die Erforschung 
+von Arzneimitteln für schwer zu behandelnde Krankheiten im Rahmen von 
+hocheffizienten Kooperationen. Zur Erhöhung der Erfolgswahrscheinlich-
+keit konzentrieren wir uns dabei auf die datenbasierte Präzisionsmedizin 
+sowie die frühe Bewertung der Krankheitsrelevanz. In der Forschung und 
+Entwicklung haben wir eine Shared Economy erschaffen, aus der ein großes 
+Reservoir an Lizenzzahlungen hervorgehen soll. Unser Netzwerk von Koope-
+rationspartnern reicht von führenden Pharmaunternehmen, großen und 
+kleinen Biotechnologieunternehmen über akademische Einrichtungen, Pati-
+entenorganisationen und Risikokapitalgesellschaften bis hin zu Stiftungen 
+und gemeinnützigen Organisationen. Gemeinsam widmen wir unsere 
+Arbeit dem gesamten Spektrum von Erkrankungen mit hohem ungedecktem 
+medizinischem Bedarf, darunter seltene Indikationen oder auch Volkskrank-
+heiten, die in vielen medizinisch unterversorgten oder gar nicht versorgten 
+Regionen der Welt wüten. Zu diesem Zweck haben wir ein umfassendes 
+Angebot an vollintegrierten Technologieplattformen entwickelt, das die 
+Arzneimittelforschung unseres Erachtens grundlegend verändern wird. 
+Mit den jüngsten wissenschaftlichen und technologischen Fortschritten 
+hat sich das Verständnis der Molekularbiologie, Zellregulation und Patho-
+genese einzelner Krankheiten in erheblichem Maße verändert. Zu diesen 
+Entwicklungen zählen etwa patientenspezifische Krankheitsmodelle auf der 
+2. Über unsere  
+Organisation
+Basis von induzierten pluripotenten Stammzellen („iPSC“), die Genomik, die 
+Transkriptomik, die Proteomik und die Metabolomik. Im Zuge des raschen 
+Fortschritts der wissenschaftlichen Forschung zum Verständnis von Krank-
+heiten auf molekularer Ebene und der Entwicklung der personalisierten 
+Medizin steigt der Bedarf an neuen Plattformen, Tools und Methoden für 
+künstliche Intelligenz/maschinelles Lernen (KI/ML), die dabei helfen, die 
+enorme Menge erzeugter Informationen und Daten besser zu verstehen, zu 
+interpretieren und zu übersetzen.
+2.2. Unsere Struktur
+Evotec wurde 1993 von BioSystems GmbH unter der Leitung des Nobelpreis-
+trägers Manfred Eigen gegründet. Das Unternehmen ist eine börsennotierte 
+Aktiengesellschaft nach deutschem Recht. Aufgrund eines 2018 gefassten 
+Beschlusses der Hauptversammlung wurde Evotec 2019 in Evotec SE umge-
+wandelt. Seit 2009 ist Evotec im TecDAX, seit 2018 im MDAX gelistet. Im 
+November 2021 kam die Notierung an der NASDAQ hinzu.
+Evotec ist global aufgestellt und beschäftigt rund 4.200 hochqualifizierte 
+Mitarbeiter an 15 Standorten in sechs Ländern in Europa und den USA. Das 
+Unternehmen unterhält operative Standorte in Hamburg (Hauptsitz), Köln, 
+Göttingen und München (Deutschland), Lyon und Toulouse (Frankreich), 
+Abingdon und Alderley Park (Großbritannien), Verona (Italien), Orth an 
+der Donau (Österreich) sowie Branford, Princeton, Seattle, Redmond und 
+Watertown (USA). Dem Konzern ist es durch organisches Wachstum und 
+strategische Akquisitionen gelungen, sowohl operative als auch technolo-
+gische Synergien zwischen den Standorten und geografischen Regionen zu 
+schaffen.
+
+9
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+2.3. Unser Geschäftsmodell
+Als Partner von Pharma- und Biotechunternehmen genießt Evotec eine 
+führende Stellung in der Wirkstoffforschung und -entwicklung. Dank der 
+revolutionären Leistungsfähigkeit unserer integrierten Plattformen sind wir 
+in der Lage, unseren Partnern Lösungen anzubieten, die neue Arzneimittel 
+von erheblich höherer Qualität hervorbringen, zugleich den Forschungspro-
+zess beschleunigen und die hohen Ausfallkosten reduzieren, die häufig mit 
+konventionellen Forschungsverfahren einhergehen.
+Um dem Bedarf an Verfahren für die frühe Wirkstoffforschung zu begegnen, 
+die schneller und kostengünstiger Ergebnisse von höherer Qualität liefern, 
+bieten wir unseren Partnern vollintegrierte Lösungen für die Wirkstofffor-
+schung und -entwicklung sowie umfassendes Know-how in den Bereichen 
+Deep Learning und computergestützte Wissensintegration entlang der 
+gesamten Wertschöpfungskette der Forschung und der Wirkstoffforschung 
+und -entwicklung. Wir bieten Leistungen für alle Forschungsbereiche der 
+Präzisionsmedizin, darunter die Selektion von Biomarkern, pharmakoki-
+netische (PK) Versuche am Menschen, die Planung klinischer Studien und 
+die Bewertung von Sicherheit und Herstellbarkeit. Durch die Integration 
+von fest etablierten F&E-Leistungen, führenden proprietären Technologien 
+und Fachkenntnissen erfahrener Wissenschaftler erzielen wir differenzierte 
+Ergebnisse.
+Wir erzielen Umsätze über drei Hauptachsen der Zusammenarbeit: 
+1.	 “Fee-for-service”: Wir bieten unseren Partnern modulare und vollständig 
+integrierte Lösungen für die Wirkstoffforschung und -entwicklung, von 
+der frühen Target-Identifizierung bis zur Herstellung von Wirkstoffen und 
+kommerziellen Produkten – in allen Modalitäten. Umfang und Art unserer 
+Leistungen sind klar definiert. Üblich ist eine Vergütung auf der Basis von 
+FTEs (full time equivalent, Vollzeitäquivalent) oder für erbrachte Leistungen 
+(fee for service).
+2.	EVOroyalty: Wir nutzen unsere proprietären Technologieplattformen 
+sowohl intern als auch im Rahmen von Kooperationen für die Entwicklung 
+neuer Wirkstoffforschungsprojekte, Forschungsprodukte und Plattformen. 
+Solche Projekte schaffen eine Ausgangsbasis für strategische Partnerschaften 
+im Rahmen unseres Kooperationsmodells EVOroyalty. Die Kooperationen 
+basieren üblicherweise auf Vereinbarungen mit Partnern, die eine Kombi-
+nation aus Abschlagszahlungen und laufenden Forschungszahlungen sowie 
+erhebliches Aufwärtspotenzial durch Meilenstein- und Lizenzzahlungen 
+beinhalten. 
+3.	EVOequity: Über Kapitalbeteiligungen sichern wir uns frühzeitig den Zugang 
+zu innovativen Produkten, Technologieplattformen und Unternehmen. Mit 
+Kapital und durch den Zugang zu unseren Technologieplattformen, Fach-
+kenntnissen und Netzwerken leisten wir einen Beitrag zur Beschleunigung von 
+Innovationen. Wir gehen davon aus, dass Evotec durch die Fee-for-service- und 
+FTE-basierten Umsätze der Portfoliounternehmen bzw. deren Veräußerung 
+eine Kapitalrendite erzielen wird.
+Weitere Informationen zum Geschäftsmodell finden Sie im Konzernlage-
+bericht.
+2.3.1. PATIENT IM ZENTRUM
+Der Patient steht im Zentrum unseres Geschäftsmodells. Im Sinne unseres 
+Auftrags sind wir bestrebt, Heilmittel für eine breite Spanne von Krankheiten 
+zu finden – unabhängig von der Größe der betroffenen Patientenpopulati-
+onen. Mit unseren Forschungstätigkeiten unterstützen wir nicht nur die 
+Bekämpfung der Symptome von Erkrankungen, sondern insbesondere auch 
+der Ursachen.
+Unser Fokus auf Patientendaten und personalisierte Medizin könnte in 
+vielen Fällen zu sehr gezielten Patientengruppen führen, im Gegensatz zu so 
+genannten Blockbuster-Medikamenten. Andererseits bilden auch endemi-
+sche und pandemische Krankheiten den Schwerpunkt vieler Projekte.
+ Diabetes und Diabetesfolgeerkrankungen 
+wie Nierenerkrankungen
+ Infektionskrankheiten
+– Globale Gesundheit  
+(z. B. Tuberkulose, Malaria)
+– Virologie (z. B. Chikungunya-Virus, HBV)
+– Antimikrobielle Resistenzen (AMR)
+ Fibrose
+ Erkrankungen des 
+zentralen Nerven‑ 
+systems (ZNS)
+ Schmerz- und  
+Entzündungskrankheiten
+ Immunologie
+ Seltene Krankheiten
+ Atemwegserkrankungen
+ Frauengesundheit
+TABELLE 2: UNSERE KERNTHERAPIEBEREICHE
+
+1 0
+1 0
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Auch wenn Evotec selbst nicht mit Arzneimitteln handelt, verbessern sich 
+damit für Patienten in aller Welt die Chancen auf eine bessere und kosten-
+günstigere Medizin. Die Fokussierung auf Patientenrelevanz, Zugang und 
+Erschwinglichkeit soll dazu beitragen, dass Ungleichheit abgebaut und 
+letztendlich der weltweite Wohlstand gesteigert wird.
+Unser voll integriertes Wirkstoffforschungsangebot beruht auf dem Prinzip 
+des Technologietransfers. Wir gewähren unseren Partnern Zugang zu inno-
+vativen Plattformen, die schnelle Lernfortschritte erlauben. So erreichen wir 
+eine höhere Ressourceneffizienz und gelangen schneller zu entscheidenden 
+Ergebnissen als die konventionellen unternehmensinternen Verfahren 
+in der Industrie – und dies bei geringeren Kosten und besserer Qualität. 
+Zwar schlagen die Einsparungen durch die Vermeidung struktureller 
+Redundanzen nicht notwendigerweise bei Evotec selbst zu Buche, aber ein 
+nachhaltiger Nutzen für die Branche ist klar erkennbar. Durch externe Inno-
+vationseffizienz lässt sich der zeitliche Aufwand gegenüber konventionellen, 
+unternehmensinternen Verfahren um 30 % und der finanzielle Aufwand um 
+50 % reduzieren. 
+2.3.2. EFFIZIENZ VON MAXIMALER NACHHALTIGKEIT 
+Unser Geschäftsmodell zeichnet sich insbesondere durch hohe Effizienz aus. 
+Das Ziel ist mehr Nachhaltigkeit im Gesundheitswesen durch Fortschritt in 
+der Wirkstoffforschung und -entwicklung. Mehr als 90 % der Arzneimittel 
+wirken bei nur 50 % (oder weniger) der Patienten. In wirtschaftlicher 
+Hinsicht führt dies zu Verschwendung, und es liegt auch nicht im Interesse 
+der Patienten oder der Menschen im Allgemeinen. Dem wollen wir durch 
+Erkenntnisse zur Krankheitsrelevanz schon im frühesten Forschungssta-
+dium, statt erst in einem späteren klinischen Versuch, entgegenwirken. So 
+wird die Erfolgswahrscheinlichkeit in der Wirkstoffforschung und -entwick-
+lung zukünftig steigen. Jedes einzelne Experiment steht bei Evotec unter dem 
+Leitbild der Patientenrelevanz. 
+ABBILDUNG 1: SCHNELLERE UND BESSERE ERKENNUNG DER KRANKHEITSRELEVANZ
+TARGET
+DRUG SCREENING
+DRUG SCREENING
+DRUG OPTIMISATION
+DRUG OPTIMISATION
+IND ENABLING
+IND ENABLING
+CLINICAL DEVELOPMENT
+CLINICAL DEVELOPMENT
+KRANKHEITSRELEVANZ
+WIRKSAMKEIT
+AKTUELLES PARADIGMA: 12-15 JAHRE
+AKTUELLES PARADIGMA: 12-15 JAHRE
+ZUKÜNFTIGES PARADIGMA 8-12 JAHRE
+ZUKÜNFTIGES PARADIGMA 8-12 JAHRE
+DRUG LIKENESS
+SICHERHEIT
+BESTÄTIGUNG  
+DER SICHERHEIT
+KRANKHEITSRELEVANZ
+BESTÄTIGUNG DER 
+KRANKHEITSRELEVANZ
+
+1 1
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+3. Unser Nachhaltigkeits‑ 
+management
+3.1. UNSER ESG-Ansatz
+Die Struktur unseres Nachhaltigkeitsmanagements orientiert sich an den 
+drei ESG-Kriterien: Umwelt, Soziales und Governance. Der Bereich Soziales 
+trägt den Titel „Empowering People“, Governance fällt unter „Responsible 
+Business“, und das Thema Umwelt unter „Protecting the Planet“.
+Im Folgenden werden die drei Bereiche unserer Nachhaltigkeitsstrategie 
+näher erläutert:
+Empowering People 
+ Wir legen den Fokus auf die Aus- und Weiterbildung sowie Gesundheit 
+und Sicherheit am Arbeitsplatz für alle unsere Mitarbeiter.
+ Wir legen Wert auf Diversität, Gleichheit und Inklusion durch Respekt 
+und Achtung gegenüber allen Mitarbeitern.
+ Wir verfolgen das Ziel, allen Menschen Zugang zu erschwinglichen, 
+hochmodernen Behandlungsmöglichkeiten zu gewähren.
+Responsible Business
+ Wir verfügen über eine breite strategische Pipeline, die nachhaltige 
+Innovationen gewährleistet.
+ Wir führen unsere Geschäftstätigkeit nach höchsten ethischen  
+Standards aus.
+ Wir schaffen Strukturen und Vorsorge für eine transparente und 
+verantwortungsvolle Entwicklung der Mitarbeiter.
+Protecting the Planet
+ Wir arbeiten an den Zielsetzungen für das Erreichen der CO2-Neutralität.
+ Wir bemühen uns um einen verantwortungsvollen Umgang mit Wasser 
+und anderen Ressourcen. 
+Die Verantwortung für die Umsetzung der Nachhaltigkeitsmaßnahmen 
+und -standards im Konzern trägt der Vorstand unter der Leitung des 
+Vorstandsvorsitzenden, und das Erreichen ESG-bezogener Ziele ist Teil 
+unserer kurz- und langfristigen Motivationskonzepte. Das Engagement 
+und die Unterstützung der Unternehmensleitung sind zwar entscheidende 
+Faktoren, aber der Erfolg wird davon abhängen, ob das Thema Nachhaltigkeit 
+in der Unternehmenskultur verankert wird und Verantwortlichkeiten 
+innerhalb der Organisation etabliert werden. Die EVOleader, d. h. unsere 
+Führungskräfte, sind dazu aufgerufen, ESG-Ziele in die Bonusprogramme 
+ihrer Teams zu integrieren.
+Die strukturelle Integration des Nachhaltigkeitsmanagements hat sichtbare 
+Fortschritte gemacht. Im Geschäftsjahr 2020 wurden die Abteilung 
+Global ESG sowie die dazugehörige Leitungsfunktion Head of Global ESG 
+geschaffen. Dieser berichtet direkt an den Vorstandsvorsitzenden und 
+genießt den Rückhalt des Aufsichtsrats, der die Gesamtaufsicht über 
+den Bereich ESG innehat und sich bei seinen Sitzungen regelmäßig mit 
+ESG-Themen befasst. Der Aufsichtsrat genehmigt die ESG-Strategie und 
+die vom Vorstand festgelegten Meilensteine und legt relevante ESG-Ziele 
+(Gewichtung von 20 % in den kurzfristigen Motivationszielen) für die 
+Vorstandsvergütung fest. 
+ABBILDUNG 2: UNSERE NACHHALTIGKEITSSTRATEGIE
+EMpowerI
+nG peoPle
+responsi
+BLE Bu
+sINeS
+s
+prote
+cTIng
+ the
+ PLA
+net
+
+1 2
+1 2
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+3.1.1. ZIELE 
+Nachfolgende Tabelle zeigt die Nachhaltigkeitsziele, die von der Abteilung ESG 
+im Rahmen ihrer Beratungsfunktion gegenüber dem Vorstand entwickelt und 
+vom Aufsichtsrat genehmigt wurden. 
+Damit die Ziele im Zusammenhang mit den ESG-Themen erreicht werden, 
+wurde ein Rahmen für die kurzfristigen Motivationsziele des Vorstands 
+geschaffen. Die Leistung wird jährlich anhand von verschiedenen Kenn-
+zahlen überprüft, in denen sich die drei ESG-Bereiche widerspiegeln. Die 
+Leistungsüberprüfung ist wie folgt strukturiert:
+ 5 % für Umweltbelange: Bis Dezember 2022 sollen die Ziele und ein Fahr-
+plan für das Thema CO2-Emissionen fertiggestellt werden.
+ 5 % für Governance-Themen: Es sollen mehr als 10 % der wissenschaftlichen 
+Ressourcen in Bereiche investiert werden, die vom UN-Nachhaltigkeitsziel 
+SDG 3 angesprochen werden; mindestens 10 Mio. € sollen in Frauenge-
+sundheit, Infektionskrankheiten, globale Gesundheit und AMR investiert 
+werden.
+ 10 % für Sozialbelange: Es sollen langfristig Führungskompetenzen, 
+Weiterbildungschancen und Nachfolgepläne entwickelt werden; die Fluk-
+tuationsrate soll unter dem Niveau von 2021 gehalten werden. Im Detail 
+sollen mindestens 75 % der Mitarbeiter mit EVOgrades zwischen 7 und 12 
+EVOleaders-Programme absolvieren, die Fluktuationsrate soll unter 11 % 
+gehalten werden, und die Zahl der Mitarbeiter um mehr als 700 steigen.
+3.1.2. ESG ALS UMFASSENDER ANSATZ  
+ZUR ERFÜLLUNG DES UNTERNEHMENSZWECKS
+Unser Nachhaltigkeitskonzept, das die drei Dimensionen Umwelt, Soziales 
+und Governance beinhaltet, betrifft zahlreiche Stakeholder, und die unter-
+schiedlichen Gruppen legen den Fokus auf unterschiedliche wesentliche 
+Themen. Wir sind bestrebt, diese Interessen in die Unternehmensstrategie 
+zu integrieren. Um eine zielgerichtete Kontrolle zu gewährleisten, konzen-
+ABBILDUNG 3: BETEILIGTE ABTEILUNGEN
+berichtet
+leitet und 
+unterstützt
+definiert die 
+Unternehmens‑ 
+ziele
+führt und 
+leitet
+berichtet und 
+unterstützt bei 
+der Umsetzung 
+von ESG-Zielen
+führt und 
+leitet 
+unterstützt bei der der 
+Strategieentwicklung 
+berichtet
+informiert
+überwacht und leitet
+Vorstand
+Aufsichtsrat
+Globales IR &  
+ESG Department
+Evotec Enabling Functions
+(HR, Compliance, EHS, SCM)
+Evotec Operations
+Im Jahr 2022 wird der Aufsichtsrat von Evotec die Einrichtung eines 
+speziellen Ausschusses für ESG-Themen prüfen.
+Seit 2021 wird der Head of Global ESG in seiner Funktion durch den 
+ESG Coordinator unterstützt. Aufgrund der zunehmenden Bedeutung 
+der Umsetzung von ESG-bezogenen Maßnahmen ab 2022 wurde ein 
+Budget für zwei zusätzliche Stellen für die Abteilung Global IR & ESG 
+genehmigt. Neben dem direkten Kontakt zu Vorstand und Aufsichtsrat 
+ist die Abteilung ESG gegenüber den Funktionsbereichen weisungsbefugt 
+und berät diese im Rahmen der Zielsetzung und der Definition von 
+Kennzahlen für wesentliche ESG-Themen. Sie pflegt den direkten Kontakt 
+mit den operativen Bereichen und ist letztendlich für die Umsetzung der 
+ESG-Maßnahmen verantwortlich. 
+ 
+TABELLE 3: UNTERNEHMENSZIELE 2022
+ZIEL
+MASSNAHME
+BETROFFENE GRUPPEN
+FRIST
+STAND
+Das Beste aus  
+Governance & 
+Nachhaltigkeit
+Bewertung der „ESG-Bereitschaft“ und  
+interne Wesentlichkeitsanalyse
+Evotec Group
+laufendes Programm
+Erledigt*
+Integration von ESG-Faktoren in die Zielsetzungen 
+der Funktionsbereiche
+Evotec Group
+1. Quartal 2022
+in Bearbeitung
+Festlegung und Umsetzung einer DEI-Strategie
+Evotec Group
+ab dem 1.Quartal 2023
+in Bearbeitung
+Festlegung und Kommunikation wissenschaftlich 
+fundierter Ziele
+Evotec Group
+4. Quartal 2022
+in Bearbeitung
+Dialog mit Ratingagenturen und ESG-Experten auf 
+der Buy Side
+Externe Stakeholder
+in Arbeit
+in Bearbeitung
+Etablierung von ESG-Zielen und -Zwecken als 
+zentrale Werte des Gesamtkonzerns und als fester 
+Bestandteil des Aktionsplans 2025
+Evotec Group
+in Arbeit
+in Bearbeitung
+* Ständige Überprüfung, nach dem Börsengang an der NASDAQ unter Berücksichtigung der Anforderungen in den USA 
+
+1 3
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+trieren wir uns auf die Kennzahlen zur Nachhaltigkeit. Diese sind der 
+Schlüssel zur erfolgreichen Erfüllung unserer Aufgabe, d. h. der Einsatz 
+innovativer Technologien, Mitarbeiter mit Unternehmenskultur und 
+Werten, proaktives Engagement im Umweltschutz sowie eine verantwor-
+tungsvolle Unternehmensführung.
+ 
+Für Evotec sind die sozialen Aspekte der wichtigste ESG-Faktor. Durch 
+unsere innovativen Ansätze der Wirkstoffforschung und -entwicklung 
+sollen bessere Medikamente für Menschen in aller Welt entstehen. Wissen 
+liefert daher den Antrieb für unsere „R&D Autobahn to Cures“. Aus diesem 
+Grund sind es die Ursachen einer Krankheit auf molekularer Ebene, und 
+nicht nur die Symptome, die uns im Arbeitsalltag beschäftigen. Beispiele 
+hierfür finden Sie in 3.4.1. UNSER Beitrag zu SDG 3 sowie in 4.1. Globale 
+Gesundheit.
+ 
+Darüber hinaus werden von den Abteilungen Personal und EHS (Environ-
+ment, Health & Safety) Maßnahmen durchgeführt, um der Verpflichtung zur 
+Gewährleistung der Sicherheit & Gesundheit sowie des allgemeinen Wohls 
+der Mitarbeiter gerecht zu werden. Zugleich soll sich hierin die Diversität 
+sowohl unserer Mitarbeiter als auch der Gesellschaft widerspiegeln. Daher 
+ist es Teil unserer Unternehmenspolitik, für alle Mitarbeiter harmonische, 
+sichere, inklusive und gleiche Arbeitsbedingungen zu schaffen. Gleiches gilt 
+für Arbeitsmittel und -systeme. Zu diesem Zweck werden bei Bedarf Infor-
+mationen, Schulungsangebote und Aufsicht bereitgestellt. Wir sind uns der 
+Bedeutung der vollen Einhaltung aller Aspekte nationaler und regionaler 
+Gesetze zu Nichtdiskriminierung, Gesundheit und Sicherheit bewusst. Aus 
+diesem Grund pflegen wir den regelmäßigen Dialog mit unseren Mitarbei-
+tern. Details dazu finden Sie in 4.2. Empowering People; weitere Beispiele 
+in 4.4. DEI – Diversität, Gleichstellung & Inklusion und 4.5. Gesundheit und 
+Sicherheit am Arbeitsplatz.
+ 
+Darüber hinaus verpflichten wir uns zum Klimaschutz. Auch hier streben 
+wir nach Exzellenz, denn der Klimaschutz ist fester Bestandteil unserer 
+Unternehmens-DNA. In diesem Sinne setzen wir uns Ziele zur Reduzierung 
+der CO2-Emissionen gemäß dem Ziel des Pariser Abkommens, die globale 
+Erwärmung auf deutlich unter 2 Grad Celsius über dem vorindustriellen 
+Niveau zu begrenzen, und bemühen uns um eine Begrenzung auf 1,5 Grad 
+Celsius. Startpunkt dafür ist die Analyse unseres CO2-Fußabdrucks. Als 
+wachstumsstarkes Unternehmen werden wir künftig eine innovative Online-
+Plattform nutzen, um auf verantwortungsvolle und nachvollziehbare Weise 
+Umweltdaten zu erheben, die für die Unternehmensleitung relevant sind. 
+Details hierzu finden Sie in Punkt 5. Umweltbelange.
+ 
+Die Unternehmensleitung und die Aufsichtsgremien der Evotec SE handeln 
+nach den Prinzipien der guten und verantwortungsvollen Unternehmens-
+führung (Corporate Governance). Eine effektive Corporate Governance ist 
+nicht nur für das Geschäft, sondern auch für die Kapitalmarktkommunika-
+tion des Unternehmens von entscheidender Bedeutung. Bei Evotec genießt 
+sie seit jeher höchste Priorität. Mit der Verpflichtung zur Einhaltung der 
+höchsten Corporate Governance-Standards beweisen wir den Marktteilneh-
+mern, dass wir uns ausgewogenen und transparenten Regeln unterwerfen 
+und verdeutlichen intern die Bedeutung klar definierter Steuerungsinstru-
+mente und Verantwortlichkeiten.
+2019
+2020
+2021
+Anzahl der Kunden*
+769
+829
+833
+Anzahl der Kunden mit 
+Umsätzen > 1 Mio. €
+79
+86
+97
+Wiederholungsgeschäft (in %)
+92 %
+90 %
+91 %
+Neukunden während des Jahres
+283
+315
+355
+Aufgrund der Notierung der Evotec-Aktie an der Frankfurter Börse und der 
+NASDAQ und im Hinblick auf die Internationalität unserer Stakeholder 
+berücksichtigt Evotec sowohl deutsche als auch internationale Corporate 
+Governance-Standards. Eine gute und transparente Corporate Governance 
+gewährleistet eine verantwortungsvolle Unternehmensführung und -kont-
+rolle mit dem Ziel einer nachhaltigen Wertschöpfung. 
+ 
+Es ist daher nur natürlich, dass wir eine sehr langfristige und nachhaltige 
+Wachstumsstrategie verfolgen. Aus diesem Grund streben wir nach dauer-
+haften und starken Partnerschaften bzw. Programmen für unsere co-owned 
+Pipeline mit führenden Pharma- und Biotechunternehmen sowie akade-
+mischen Einrichtungen. Durch eine Kombination aus engagierten, hoch-
+karätigen Wissenschaftlern, modernster Technologie und umfangreichen 
+Erfahrungen und Expertise in therapeutischen Schlüsselbereichen haben 
+wir uns eine auf unserem Gebiet einmalige, führende Position gesichert. 
+Um diese Position zu erhalten, setzen wir insbesondere auf langfristige 
+Beziehungen mit unseren Partnern. Diese entstehen nur dann, wenn die 
+Anerkennung unserer Arbeit dazu führt, dass Verträge verlängert und 
+erweitert werden (siehe nachfolgende Tabelle). 
+ 
+Unsere Kundenbindungsrate ist unserer Ansicht nach ein Beweis für die 
+Integrität und Qualität unseres Geschäfts. Diese Werte sind und bleiben ein 
+integraler Bestandteil der Unternehmenskultur und genießen als Quelle 
+wiederkehrender Umsätze und als Basis für nachhaltiges Wachstum höchste 
+Priorität. 
+3.1.3. GETÄTIGTE ESG-MASSNAHMEN
+Die folgende Übersicht zeigt, welche Schritte in den letzten zwei Jahren 
+unternommen wurden, um die Transparenz und Nachvollziehbarkeit der 
+weiteren Integration von Unternehmens- und Nachhaltigkeitsstrategie zu 
+verbessern.
+TABELLE 4: KUNDENBINDUNG
+ * 2019: davon 8 im Zusammenhang mit der Übernahme von Just Biotherapeutics.
+
+1 4
+1 4
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+TABELLE 5: ESG-MASSNAHMEN 2020-2021
+Aktive Einbindung von ESG-Ratingagenturen/  
+ESG Kontakten
+Durchführung einer Wesentlichkeitsprüfung zur 
+Identifizierung wesentlicher ESG-Themen
+Prüfung möglicher Klimaziele nach den Anforderungen 
+der Science-Based Target Initiative
+ESG-Bereich auf der Website
+×
+Ausarbeitung einer Klima-/Nachhaltigkeitsstrategie
+Konzernweite Anerkennung & Teilnahme an Diversity Day 
+und Pride Month
+-
+Q2
+Konzernweite Integration von ESG-Themen in die 
+persönlichen Zielsetzungen sämtlicher Mitarbeiter
+-
+Integration von ESG-Themen in die  
+Investorenkommunikation
+×
+Steigerung der Wahrnehmung und Würdigung durch 
+Investoren und Ratingagenturen
+Zuordnung der Geschäftstätigkeiten zu den UN-Nachhal-
+tigkeitszielen
+Durchführung der EVOearth-Woche zur Stärkung des 
+Umweltbewusstseins insgesamt
+-
+Q4
+Strombezug ausschließlich aus erneuerbaren Energien an 
+allen Standorten in Deutschland
+-
+Q1
+Geschätzte CO2-Einsparungen von ca. 800 t pro Jahr 
+nach dem Entschluss, die Heizung von Gebäude B95 in 
+Abingdon zu erneuern
+-
+Einhaltung international anerkannter Standards bei der 
+nicht-finanziellen Berichterstattung
+×
+3.2. Risiken im Zusammenhang mit  
+nicht-finanziellen Sachverhalten 
+Evotec versteht Risiko- und Chancenmanagement als die fortwährende 
+Aufgabe, Risiken zu identifizieren, zu analysieren und zu vermindern. 
+Dazu zählt auch, geeignete Gegenmaßnahmen zu ergreifen, um mögliche 
+negative Entwicklungen sowohl innerhalb des Unternehmens als auch in 
+dessen Geschäftsumfeld zu reduzieren. Dies schließt auch die für Evotec 
+wesentlichen Sachverhalte mit ein, die unter die gesetzlichen Vorgaben zur 
+nicht-finanziellen Berichterstattung fallen, wie etwa Risiken im Zusam-
+menhang mit Arbeitnehmerbelangen, Korruption und Menschenrechten. 
+Aus unserer Risikoanalyse, die sich an der internen Risikopolitik orientiert, 
+ergeben sich keine wesentlichen Risiken in den Bereichen Umweltbelange 
+oder Soziales. Im Umkehrschluss konnten wir ebenfalls keine Risiken 
+identifizieren, die sich aus der Tätigkeit von Evotec in Bezug auf die fünf 
+Aspekte gemäß CSR-RUG ergeben könnten. Die Berichterstattung über 
+wesentliche Risiken in Zusammenhang mit den Geschäftstätigkeiten des 
+Unternehmens finden Sie im Abschnitt Risiko- und Chancenmanagement des 
+Konzernlageberichts 2021. 
+3.3. Stakeholder- &  
+  Wesentlichkeitsanalyse 
+Bei der Erstellung des ersten Nachhaltigkeitsberichts im Geschäftsjahr 
+2020 wurden die jeweiligen Stakeholder, die ein Interesse an der nach-
+haltigen Leistung und Entwicklung des Unternehmens haben und diese 
+beeinflussen können, entsprechend definierten Gruppen zugeordnet. 
+Anschließend wurden in einem zweistufigen Verfahren, das mehr als 20 
+Einzelgespräche mit EVOleaders beinhaltete, die wesentlichen Themen 
+festgelegt (siehe dazu auch Tabelle 1 des vorliegenden Berichts) und 
+im Rahmen eines Workshops priorisiert. Hauptbewertungsfaktor war 
+dabei der Dialog mit bzw. das Feedback von unseren drei Fokusgruppen: 
+Mitarbeitern, Partnern und Investoren. Aber auch die Bedürfnisse der 
+verbleibenden Stakeholder wurden berücksichtigt. 
+Geplant ist, im Geschäftsjahr 2023 in Zusammenarbeit mit unseren Stakehol-
+dern eine umfassende Überprüfung sowie Anpassungen im Sinne der neuen 
+EU-Richtlinie zur Nachhaltigkeitsberichterstattung (CSRD) vorzunehmen. 
+Im Anschluss daran wird der Vierjahreszyklus fortgesetzt. Die Themen, die 
+sich mit hoher Wahrscheinlichkeit auf die ESG-Strategie des Unternehmens 
+auswirken könnten, entwickeln sich dynamisch und werden jährlich auf ihre 
+Gültigkeit und Relevanz überprüft. Die Überprüfung der Wesentlichkeits-
+analyse 2021 hat ergeben, dass diese weiterhin Bestand hat und auch die 
+Qualitätsanforderungen des Prinzips der Wesentlichkeit gemäß GRI erfüllt. 
+Dennoch wurden einige geringfügige Anpassungen vorgenommen: 
+ Das Thema Abfall- und Wasserwirtschaft fassen wir unter dem Begriff 
+betrieblicher Umweltschutz zusammen und folgen damit einem ganzheit-
+licheren Ansatz. So fällt beispielsweise der Materialverbrauch in diesen 
+Bereich. 
+ Zum besseren Verständnis verwenden wir für den Bereich „Cyber“ den 
+Begriff „IT-Sicherheit“. Dieser umfasst aktive Vorkehrungen zum Schutz 
+von Unternehmens-, Kunden- und auch von Patientendaten, da Patienten 
+menschliches Gewebe für unsere Zelllinien zur Verfügung stellen. 
+ABBILDUNG 4: STAKEHOLDER & WESENTLICHE THEMEN
+Unternehmensleitbild
+Beitrag zu Fokus SDGs
+Fokus auf  
+materielle Themen
+Bauen auf unser  
+Fundament
+Zusammenarbeit mit 
+unseren wichtigsten
+Stakeholdern
+Heilen
+SDG3, SDG5,  
+SDG8, SDG9,  
+SDG12, SDG13
+Investitionen in unsere
+Mitarbeiter sowie in Forschung
+und Entwicklung
+Kultur & Werte: 
+Zusammenarbeit,  
+Innovation, Unternehmertum
+Governance & 
+Enabling Systems
+Patienten
+Mitarbeiter
+Partner
+
+1 5
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Wir ermutigen unsere Stakeholder, insbesondere unsere Mitarbeiter, zur 
+Weiterentwicklung der wesentlichen Themen beizutragen.
+3.4. UNSER Beitrag zu den SDG
+Mit unserer Nachhaltigkeitsstrategie leisten wir einen Beitrag zu den 
+Nachhaltigkeitszielen (SDG) der Vereinten Nationen. Sie sollen weltweit 
+auf wirtschaftlicher, sozialer und ökologischer Ebene für eine nachhaltige 
+Entwicklung sorgen. Wir wollen sicherstellen, dass wir nicht nur für unsere 
+Mitarbeiter und unser engstes Umfeld sorgen, sondern weltweit zu mehr 
+Nachhaltigkeit beitragen. Eine 2021 durchgeführte Untersuchung auf der 
+Grundlage der von uns festgelegten wesentlichen Themen ergab, dass wir 
+im Bereich „Gesundheit und Wohlergehen“ (SDG 3) den größten Beitrag 
+leisten. Auch in den Bereichen „Menschenwürdige Arbeit und Wirtschafts-
+wachstum“ (SDG 8) und „Industrie, Innovation und Infrastruktur (SDG 9), 
+die unserer Unternehmensstrategie und unseren Geschäftszielen sehr 
+nahekommen, ist unser Einfluss groß. Weitere Beiträge leisten wir in den 
+Bereichen „Geschlechtergleichheit (SDG 5), „Nachhaltige/r Konsum und 
+Produktion“ (SDG 12) und „Klimaschutz“ (SDG 13). Nachfolgende Abbildung 
+verdeutlicht die hier erwähnten Nachhaltigkeitsziele.
+Auf diese Weise möchten wir im Rahmen unserer Geschäftstätigkeit zu einer 
+nachhaltigen Welt beitragen. In diesem Jahr werden wir einen Fahrplan für 
+die weitere Entwicklung unserer Beiträge zu jedem dieser Ziele und spezifi-
+schen Unterziele aufstellen.
+3.4.1. UNSER BEITRAG ZU SDG 3: EIN GESUNDES  
+LEBEN FÜR ALLE MENSCHEN JEDEN ALTERS  
+GEWÄHRLEISTEN UND IHR WOHLERGEHEN FÖRDERN
+Das wesentliche Interesse unseres Unternehmens – die Erforschung von 
+Heilmitteln für bislang nicht behandelbare Krankheiten – hat eine bedeu-
+tende soziale Dimension. Wir sind entschlossen, einen sichtbaren Beitrag zur 
+Erreichung des UN-Nachhaltigkeitsziels SDG 3 zu leisten, d. h. ein gesundes 
+Leben für alle Menschen jeden Alters zu gewährleisten und ihr Wohlergehen 
+zu fördern. Nachfolgende Abbildung veranschaulicht unseren allgemeinen 
+Beitrag zu SDG 3. Wir verfolgen die Ziele 3.3, 3.4 und 3-B.
+Fokus  
+SDGs
+ABBILDUNG 6: FOKUSSIERUNG AUF UNSEREN BEITRAG ZU  
+DEN NACHHALTIGKEITSZIELEN
+Erheblichkeit für die Stakeholders
+Wirtschaftliche, ökologische und soziale Auswirkungen
+ABBILDUNG 5: WESENTLICHKEITSMATRIX
+	 1.	CO2-/Treibhausgasemissionen
+	 2.	Verfügbarkeit von & Zugang zu 
+medizinischer Versorgung
+	 3.	Gesundheit & Sicherheit am 
+Arbeitsplatz
+	 4.	Investitionen in Menschen
+	 5.	Betrieblicher Umweltschutz
+	 6.	Diversität & Inklusion
+	 7.	Innovation/F&E
+	 8.	Tierschutz
+	 9.	IT Sicherheit
+	10.	Stakeholder Engagement
+	11.	Unternehmenskultur & 
+Führung
+	12.	Markterfolg
+4
+5
+2
+4
+5
+2
+MEDIUM  
+PRIORITY
+HIGH  
+PRIORITY
+TOP PRIORITY
+1
+11
+9
+12
+5
+4
+8
+2
+10
+7
+3
+6
+
+1 6
+1 6
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Aktuell legen wir den Schwerpunkt auf das Chikungunya-Programm, unser 
+Tuberkulose-Projekt, antimikrobielle Resistenzen, die Plattform PRROTECT 
+(Rapid RespOnse TEChnology PlaTform) für die Vorbereitung auf Pande-
+mien sowie auf die personalisierte Medizin. Von Beginn an beteiligte sich 
+Evotec zudem an der Suche nach Impfstoffen und Therapieansätzen gegen 
+COVID-19 und wirkte an verschiedenen Projekten mit.
+ Als Mitglied der öffentlich-privaten Partnerschaft Accelerating COVID-19 
+Therapeutic Interventions and Vaccines (ACTIV) engagiert sich Evotec für 
+eine beschleunigte Entwicklung von Impfstoffen und Therapeutika gegen 
+COVID-19.
+ Darüber hinaus hat Evotec im Rahmen der Crowdsourcing-Initiative 
+COVID R&D eine Koordinationsplattform für die Feststellung alternativer 
+Verwendungsmöglichkeiten bereitgestellt.
+ Evotec hat ein bispezifisches, immunmodulatorisches Protein mit hoher 
+Wirksamkeit gegen verschiedene Viruserkrankungen z.B. Hepatitis B (HBV) 
+identifiziert und entwickelt. Mit mehr als 250 Millionen chronisch Kranken 
+ist Hepatitis B ein globales Gesundheitsproblem, und es gibt dafür keine 
+Heilmethoden. 2021 wurden Studien mit nichtmenschlichen Primaten 
+durchgeführt, die eine Beantragung zur Genehmigung als Prüfpräparat 
+ermöglichen. Die Ergebnisse deuteten darauf hin, dass das Molekül 
+gut vertragen wird. Die klinische Dokumentation zur Konsultation der 
+Regulierungsbehörden ist in Arbeit. Ziel ist der Beginn der klinischen 
+Phase 1-Studie mit gesunden, freiwilligen Probanden im 2. bzw. 3. Quartal 
+2022.
+Auch unser Kerngeschäft behalten wir im Blick und treiben alle Projekte in 
+den sieben schwerpunktmäßig verfolgten Krankheitsfeldern weiter voran. 
+Der Bedarf an neuen Therapieansätzen ist hier unverändert hoch.
+Der Bereich Infektionskrankheiten von Sanofi in Lyon wurde bereits im 
+Juli 2018 integriert und ein Großteil von Sanofis Forschungsportfolio in 
+diesem Bereich einlizenziert. Seitdem umfasst unsere F&E-Infrastruktur 
+für Infektionskrankheiten die folgenden drei Segmente: Globale Gesund-
+heit (z. B. Tuberkulose, Malaria), Virologie (z. B. Therapieansätze für 
+Chikungunya, chronische Hepatitis B und SARS-CoV-2) und Antimikrobi-
+elle Resistenzen (AMR). 
+ 1) als prozentualer Anteil am Personalbestand von Innovate F&E
+3.4.2. UNSER BEITRAG ZU SDG 8 UND SDG 9: 
+SDG 8: Dauerhaftes, inklusives und nachhaltiges Wirtschaftswachstum, 
+produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern; 
+SDG 9: Eine widerstandsfähige Infrastruktur aufbauen, inklusive und 
+nachhaltige Industrialisierung fördern und Innovationen unterstützen
+Wir leisten einen Beitrag zu SDG 8 und SDG 9, denn sie sind fest in Evotecs 
+Geschäftsmodell verankert. Unser Geschäftsmodell konzentriert sich auf 
+Qualität, Effizienz und Innovation, und unser Auftrag, die Zahl der nicht 
+heilbaren Krankheiten zu reduzieren, lässt sich nur dann erfüllen, wenn 
+unser Geschäft nachhaltig bleibt und die ständige Weiterentwicklung 
+unserer Strategien und Prozesse die Produktivität der Branche deutlich und 
+nachhaltig verbessert. Insgesamt ist es unser Ziel, die innovative wissen-
+schaftliche Forschung weltweit zu unterstützen (Ziel 9.5).
+2019
+2020
+2021
+Globale Gesundheit
+11
+9
+8
+Virologie
+6
+8
+8
+AMR
+13
+12
+12
+Summe
+30
+29
+28
+Zugeordnete Vollzeitäquivalente, 
+„FTE“ (1)
+38 %
+35 %
+29 %
+TABELLE 6: PROJEKTÜBERSICHT UND MITARBEITERZAHLEN IM BEREICH 
+INFEKTIONSKRANKHEITEN
+ABBILDUNG 7: UNSER BEITRAG ZU DEN ZIELEN DES SDG 3
+ZIEL
+ZIEL
+ZIEL
+BEKÄMPFUNG VON 
+ÜBERTRAGBAREN 
+KRANKHEITEN
+SENKUNG DER 
+STERBLICHKEIT 
+VON NICHTÜBER­
+TRAGBAREN 
+KRANKHEITEN 
+UND PSYCHISCHE 
+GESUNDHEIT 
+FÖRDERN
+FÖRDERUNG VON 
+FORSCHUNG UND 
+ENTWICKLUNG 
+UND ZUGANG ZU 
+MEDIKAMENTEN 
+UND IMPFUNGEN 
+FÜR ALLE
+
+1 7
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Für 2022 haben wir uns das Ziel gesetzt, die Attraktivität von Evotec als 
+Arbeitgeber weiter zu steigern und damit einen Beitrag zu Vollbeschäftigung 
+und menschenwürdiger Arbeit für alle zu leisten. 
+3.4.3 UNSER BEITRAG ZU SDG 5: GESCHLECHTERGLEICHSTEL-
+LUNG ERREICHEN UND ALLE FRAUEN UND MÄDCHEN ZUR 
+SELBSTBESTIMMUNG BEFÄHIGEN
+Durch die Unterziele 5.1, 5.5 und 5.6 wollen wir einen deutlichen Beitrag 
+zur Erreichung der Geschlechtergleichheit und Selbstbestimmung aller 
+Frauen und Mädchen (SDG 5) leisten.
+ABBILDUNG 8: UNSER BEITRAG ZU DEN ZIELEN DES SDG 8
+ABBILDUNG 9: UNSER BEITRAG ZU DEN ZIELEN DES SDG 9
+ABBILDUNG 10: UNSER BEITRAG ZU DEN ZIELEN DES SDG 5
+ZIEL
+ZIEL
+ZIEL
+ZIEL
+ZIEL
+ZIEL
+ZIEL
+PRODUKTIVITÄT 
+DURCH DIVER­
+SIFIZIERUNG, 
+MODERNISIERUNG 
+UND INNOVATION
+FORSCHUNG 
+UND AUSBAU 
+TECHNOLOGISCHER 
+KAPAZITÄTEN
+DISKRIMINIERUNG 
+VON FRAUEN UND 
+MÄDCHEN BEENDEN
+VOLLE TEILHABE 
+VON FRAUEN IN 
+FÜHRUNGSROLLEN 
+BEI ALLEN 
+ENTSCHEIDUNGS­
+FINDUNGEN
+ALLGEMEINER 
+ZUGANG ZU 
+REPRODUKTIVER 
+GESUNDHEIT UND 
+ENTSPRECHENDEN 
+RECHTEN
+VERBESSERUNG 
+VON RESSOURCEN­
+EFFIZIENZ IN 
+KONSUM UND 
+PRODUKTION
+VOLLBESCHÄF­
+TIGUNG UND 
+MENSCHEN-
+WÜRDIGE ARBEIT 
+MIT GLEICHEM 
+ENTGELT
+
+1 8
+1 8
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Die Unterstützung der Geschlechtergleichheit entspricht unserem Selbst-
+verständnis. Sämtliche Aspekte unseres Arbeitsumfelds unterliegen einem 
+strengen Diskriminierungsverbot, von der Auswahl und Einstellung bis zur 
+Vergütung, Fortbildung und Beförderung von Mitarbeitern, und dies gilt für 
+den gesamten Beschäftigungszyklus.
+Um die Teilhabe von Frauen an der Unternehmensführung und Entschei-
+dungsfindung zu gewährleisten, haben wir uns zum Ziel gesetzt, 30 % der 
+Führungspositionen mit Frauen zu besetzen. Dieses Ziel wurde 2021 erreicht. 
+Die Ziele im Bereich Diversität, Gleichstellung & Inklusion werden daher in 
+diesem Jahr weiterentwickelt.
+Unser Beitrag zu Ziel 5.6 leitet sich aus der Maxime #researchneverstops sowie 
+aus dem Unternehmensziel ab, Frauengesundheit zum Schwerpunkt zu 
+machen. Im Zuge dieser Bemühungen erhielt Evotec Fördermittel von der 
+Bill & Melinda Gates Stiftung für die integrierte Erforschung und Entwick-
+lung eines neuartigen First-in-Class-Programms zur Beschleunigung des 
+Fortschritts in den Bereichen Frauengesundheit und Empfängnisverhütung.
+Darüber hinaus befinden wir uns inmitten einer Multi-Target-Allianz, die 
+auf der Grundlage der wissenschaftlichen Erkenntnisse und Ergebnisse der 
+Wirkstoffforschung erste Vertreter einer neuen Arzneimittelklasse gegen das 
+polyzystische Ovarialsyndrom (PCOS) entwickelt. 
+3.4.4. UNSER BEITRAG ZU SDG 13: UMGEHEND  
+MASSNAHMEN ZUR BEKÄMPFUNG DES KLIMAWANDELS  
+UND SEINER AUSWIRKUNGEN ERGREIFEN
+Seitdem wir uns im Rahmen der SBTi dazu verpflichtet haben, Ziele zu 
+formulieren, arbeiten wir an der Verbesserung der Datenerhebung, um eine 
+akkurate Zielsetzung zur Emissionsminderung zu gewährleisten. 
+2021 wurden zwei Datenverwaltungssysteme in Auftrag gegeben: eines für die 
+Bewertung von Umweltdaten und eines für die Erstellung eines Programms 
+zur Emissionsminderung.
+3.4.5. UNSER BEITRAG ZU SDG 12: NACHHALTIGE
+ KONSUM- UND PRODUKTIONSMUSTER SICHERSTELLEN
+Nachhaltigkeit in Konsum und Produktion sind in unserem Geschäft von 
+zentraler Bedeutung. Wir wollen einen Beitrag zu Ziel 12.2 leisten und bis 
+2030 Nachhaltigkeit und Effizienz im Umgang mit natürlichen Ressourcen 
+erreichen.
+Geplant ist ein strategisches Ressourcenmanagement auf der Grundlage 
+zahlreicher Initiativen, die von den Mitarbeitern aller Standorte getragen 
+werden, um eine Verbesserung der Abfall- und Energiewirtschaft zu erzielen. 
+Vom papierlosen Labor über grüne Chemie bis zur Abfalltrennung haben 
+unsere Mitarbeiter Unternehmergeist und Innovationskraft bewiesen, um 
+sich für Nachhaltigkeitsthemen zu engagieren.
+ABBILDUNG 11: UNSER BEITRAG ZU DEN ZIELEN DES SDG 13
+ABBILDUNG 12: UNSER BEITRAG ZU DEN ZIELEN DES SDG 12
+EMpowerI
+nG peoPle
+responsi
+BLE Bu
+sINeS
+s
+prote
+cTIng
+ the
+ PLA
+net
+ZIEL
+ZIEL
+ZIEL
+KLIMASCHUTZ­
+MASSNAHMEN 
+IN NATIONALE 
+POLITIK UND 
+DEREN PLANUNG 
+EINBEZIEHEN
+NACHHALTIGE 
+BEWIRTSCHAFTUNG 
+UND NUTZUNG 
+NATÜRLICHER 
+RESSOURCEN
+UNTERNEHMEN 
+ERMUTIGEN, 
+NACHHALTIGE 
+VERFAHREN UND 
+NACHHALTIGKEITS­
+BERICHTERSTAT­
+TUNG EINZUFÜHREN
+
+1 9
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+4. Soziales
+4.1. Globale Gesundheit
+Besonders groß ist unser Beitrag zum Wohlergehen der Menschen. Für 
+viele schwere Erkrankungen gibt es nach wie vor keine Heilung, und im 
+Zuge des demografischen Wandels, mit einer alternden Bevölkerung, 
+steigt auch der Bedarf an neuartigen Therapien. Unser Ziel ist es, neue, 
+wirksame Arznei- und Heilmittel zu finden, die die Lebensqualität von 
+Millionen Patienten und damit der gesamten Gesellschaft verbessern. 
+Innovation entsteht durch die Notwendigkeit, medizinische Probleme zu 
+lösen, deshalb werden bei Evotec – unter dem Namen EVT Innovate – die 
+vielversprechendsten wissenschaftlichen Ideen geboren, die in wichtigen 
+Bereichen der medizinischen Forschung wirklich etwas bewegen können. 
+Aus diesem Grund investieren wir in First-in-Class-Projekte in Bereichen 
+mit hohem und sehr dringendem ungedecktem medizinischem Bedarf und 
+konzentrieren uns auf potenziell krankheitsmodifizierende Mechanismen, 
+statt nur auf Symptome. Um die Nachhaltigkeit dieser Innovationen zu 
+gewährleisten, verfolgt EVT Innovate das Ziel, eine breite strategische 
+Pipeline aufzubauen, aus der Partnerschaften entstehen.
+Die Marktzulassung neuer Medikamente stößt nicht nur an natürliche 
+Grenzen. Der Weg von der Forschung & Entwicklung bis zur klinischen 
+Phase unterliegt auch regulatorischen Einschränkungen. Neue Arznei-
+mittel bekämpfen sehr neuartige und sich ändernde Erkrankungen. Daher 
+arbeiten unsere Forschungsteams mit gleichbleibend hoher Motivation an 
+innovativen Lösungen für die Entwicklung von Heilmitteln. Die Innovation 
+steht in Zusammenhang mit vielen wichtigen Fragen der „Herausforderung 
+F&E“. Die wichtigste Arbeit, die Evotec im Rahmen der Innovation für Pati-
+enten und Partner leistet, ist die Entwicklung von Lösungen zur Beschleu-
+nigung und Verbesserung wissenschaftlicher Experimente und Prozesse 
+in der frühen Forschungsphase. Wir übernehmen soziale Verantwortung, 
+um Menschen in aller Welt ungeachtet ihres wirtschaftlichen oder gesell-
+schaftlichen Status Zugang zu erschwinglichen, innovativen Behandlungs-
+methoden zu verschaffen – auch in medizinisch unterversorgten Regionen.
+Durch eine genaue Beobachtung des Markts und die Modernisierung von 
+Schlüsseltechnologien und Infrastruktur schaffen wir ein nachhaltiges 
+Arbeitsumfeld sowohl für unsere Mitarbeiter als auch für unsere Partner 
+aus der Pharma- und Biotechindustrie. Der Schlüssel zum Erfolg ist unser 
+Fokus auf potenziell krankheitsmodifizierende Mechanismen, deren 
+Identifizierung in bestimmten Krankheitsbereichen sowie die Entwicklung 
+einer Plattform, auf der diese Mechanismen genutzt werden können. 
+Darüber hinaus erlaubt uns die Vernetzung mit weltweit führenden 
+Experten der Krankheitsbiologie und die Zusammenarbeit mit den 
+besten Hochschulen und Wissenschaftlern, gebündeltes Wissen in unsere 
+Wirkstoffforschungsplattform zu integrieren. Wir besitzen die kritische 
+Größe, die Infrastruktur, das Personal und das Wissen, um gleich mehrere 
+Programme von der Target-Validierung über die positive Identifizierung 
+und Leitstrukturoptimierung bis zur präklinischen Entwicklung zu führen.
+ZIEL 
+MASSNAHME
+BETROFFENE GRUPPEN
+NÄCHSTER MEILENSTEIN
+STAND
+Chikungunya EVT894 
+Etablierung als Therapie und 
+Prophylaxe in Form einer 
+einmaligen Injektion
+Auslesen der Ergebnisse der Phase-I-Studie
+Evotec-Group
+2023
+in Bearbeitung
+Tuberkulose
+Entwicklung neuartiger 
+Arzneimittelkandidaten  
+und Regime
+TB Drug Discovery Portfolio & Accelerator-
+Konsortium
+ERA4TB-Konsortium 
+Evotec Lyon
+2023
+in Bearbeitung
+PAN-TB-Konsortium
+Evotec Toulouse
+Laufendes Programm
+ERA4TB-Konsortium
+Evotec Verona
+2026
+Bekämpfung  
+antimikrobieller Resistenzen
+Verschiedene Projekte
+Evotec/Evotec ID Lyon
+Mitte 2025
+in Bearbeitung
+Pandemien
+Optimale Vorbereitung & Schutz 
+für die Zukunft bieten 
+Auftakt von „PRROTECT“ (Pandemic 
+Preparedness and Rapid RespOnse 
+TEChnology PlaTform)
+Evotec-Group
+2021
+Erledigt
+TABELLE 7: ZIELE IM BEREICH GLOBALE GESUNDHEIT
+
+2 0
+2 0
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+EVT Innovate ist in verschiedene Therapiebereiche und interne innovative 
+Plattform-Initiativen unterteilt. Die Strategien und Schwerpunkte dieser 
+internen oder verpartnerten F&E-Bereiche bzw. Plattformen werden 
+quartalsweise vom Vorstand überprüft, hinterfragt und genehmigt. 
+Zudem erfolgt die Entscheidungsfindung bei EVT Innovate im Rahmen 
+von Fokus-Meetings zu speziellen Themen und wichtigen strategischen 
+F&E-Initiativen unter Anleitung des Vorstands. Die Forschung und ihre 
+Ergebnisse werden vom Vorstand überwacht, um Projekte zu identifizieren, 
+die das Potenzial besitzen, in Partnerschaften eingebracht zu werden. In 
+regelmäßigen Abständen werden „Wissenschaftstage“ abgehalten, um den 
+Aufsichtsrat über wichtige neue EVT Innovate-Initiativen oder Änderungen 
+der strategischen Ausrichtung in Kenntnis zu setzen. Geschäftstätigkeiten 
+von fundamentaler Bedeutung erfordern die Zustimmung aller Vorstands-
+mitglieder. Diese Governance- und Lenkungsgremien gewährleisten, dass 
+Lösungen für einige der größten und dringendsten globalen Gesundheits-
+probleme gefunden werden.
+4.1.1. DAS CHIKUNGUNYA-PROGRAMM –  
+DIE KLINISCHE ENTWICKLUNG EINES MONOKLONALEN  
+ANTIKÖRPERS FÜR THERAPIE UND PROPHYLAXE
+Das Programm EVT894 zur Entwicklung eines monoklonalen Antikörpers 
+gegen das Chikungunya-Virus wurde im Dezember 2020 in die klinische 
+Phase überführt. EVT894 wurde von einem mit Chikungunya infizierten 
+Patienten gewonnen. Der Antikörper zeigte in Therapie- und Prophylaxe-
+modellen in vitro und in vivo eine starke neutralisierende Aktivität und ist 
+gegen die Gesamtheit der zirkulierenden Virus-Genotypen wirksam. EVT894 
+ist der erste Vertreter einer neuen, antiviralen Arzneimittelklasse gegen das 
+Chikungunya-Virus und könnte auch als Prophylaxelösung für sofortigen 
+Schutz sorgen. Ziel ist es, EVT894 in Therapie und Prophylaxe in Form einer 
+einmaligen Injektion zu etablieren.
+Neben diesem weit fortgeschrittenen Projekt im Bereich der Virologie hat 
+sich der Umfang der Aktivitäten auf diesem Feld seit 2018 von vier auf acht 
+Programme verdoppelt.
+4.1.2. TUBERKULOSEPROJEKTE – ZIEL IST DIE  
+BESCHLEUNIGTE ENTWICKLUNG NEUER BEHANDLUNGSREGIME
+Im Bereich der Tuberkuloseforschung ist Evotec in der Wirkstoffforschung 
+und translationalen Wissenschaft unverändert stark vertreten und engagiert 
+sich in einer globalen Allianz aus philanthropischen, Non-Profit- und 
+privatwirtschaftlichen Organisationen, die die Erforschung und Entwick-
+lung neuartiger Arzneimittel und Behandlungsregime für alle Tuberku-
+losepatienten vorantreiben will. Seit 2018 ist Evotec Mitglied des TB Drug 
+Accelerator Programme (TBDA), in dessen Rahmen neue, präklinische 
+Arzneimittel­kandidaten entwickelt werden sollen, die das Potenzial besitzen, 
+Behandlungszeiten zu verkürzen. Außerdem soll die Wirksamkeit (Proof of 
+Concept) einer einmonatigen Kombinationstherapie aus drei Komponenten 
+nachgewiesen werden.
+Bereits seit 2020 unterstützen wir die Bildung zweier neuer Konsortien zur 
+Entwicklung neuer Medikamente und Behandlungsregime gegen Tuberku-
+lose. Ersteres, mit Namen European Accelerator of Tuberculosis Regimens 
+(ERA4TB), bündelt nachgewiesene Fachkenntnis und Kompetenzen in der 
+Entwicklung von Tuberkulosemedikamenten in einem multidisziplinären 
+Team und soll Profile für Tuberkulosewirkstoffe erstellen und diese bis zum 
+Abschluss von Phase I führen. Das zweite Konsortium, das Project Accele-
+rate New Treatments for Tuberculosis (PAN-TB), ist ein globaler Zusammen-
+schluss zur beschleunigten Entwicklung von Behandlungsregimen gegen 
+Tuberkulose und das erste dieser Art. 
+Das Projekt ERA4TB ist eine öffentlich-private Initiative zur beschleunigten 
+Entwicklung neuer Behandlungsregime gegen Tuberkulose. Es vereint 
+mehr als dreißig Organisationen aus der Europäischen Union und den 
+Vereinigten Staaten, darunter die wichtigsten globalen Akteure im Kampf 
+gegen Tuberkulose. Das Projekt ERA4TB soll in einem Zeitraum von sechs 
+Jahren mindestens zwei neue Kombinationstherapien entwickeln, die das 
+Potenzial besitzen, Behandlungszeiten zu verkürzen. Die Erwartung ist, dass 
+diese bis zur klinischen Reife für die Phase II geführt werden. Die Partner 
+beabsichtigen, die ERA4TB-Plattform auch nach Ablauf des offiziellen 
+Projektzeitraums offen zu halten.
+Ziel des PAN-TB-Projekts ist die Entwicklung von Behandlungsregimen aus 
+Arzneimitteln, gegen die keine oder nur wenig Resistenzen bestehen, bis zur 
+Reife für die Entwicklungsphase 3. Für die globalen Herausforderungen und 
+die Komplexität der Tuberkulosediagnostik und -behandlung könnte sich 
+dies als bedeutender Fortschritt erweisen. Neben Evotec engagieren sich 
+auch GSK, Johnson & Johnson, Otsuka Pharmaceutical Co., Ltd. aus Japan, 
+das Bill & Melinda Gates Medical Research Institute, die Bill & Melinda Gates-
+Stiftung und, als neues Mitglied, die Global Alliance for TB Drug Develop-
+ment in diesem Projekt. Die Mitglieder haben sich dazu verpflichtet, Assets, 
+Ressourcen und wissenschaftliche Expertise in das Projekt einzubringen, um 
+die Entwicklung neuer Behandlungsansätze voranzutreiben. Es ist die größte 
+globale Allianz auf dem Gebiet der Tuberkulose.
+ 
+Im Rahmen des TBDA-Konsortiums treiben wir zwei Projekte voran, die sich 
+in verschiedenen Forschungsphasen befinden, und leisten weitere Beiträge 
+durch die Führung von Initiativen zur Förderung der Erforschung und 
+Entwicklung von Medikamenten und Regimen zur Behandlung von Tuber-
+kulose. Zwischen den Mitgliedern erfolgt ein breiter Austausch von Daten 
+und Erkenntnissen. Das PAN-TB-Projekt fügt sich harmonisch in unsere 
+Politik des Wissensaustauschs und der Offenheit ein. Ein rascher Fortschritt 
+dürfte uns der Verwirklichung des UN-Ziels, die Tuberkulose bis 2030 zu 
+besiegen, ein Stück näher bringen.
+Neben den Projekten, die im Rahmen dieser Konsortien vorangetrieben 
+werden, arbeiten wir unverändert an einem breit aufgestellten Portfolio 
+von Wirkstoffforschungsprogrammen zur Bekämpfung von Tuberkulose, 
+das finanziell von der Bill & Melinda Gates-Stiftung unterstützt wird. Die 
+Pipeline umfasst verschiedene Reihen neuer chemischer Substanzen in 
+unterschiedlichen Forschungsphasen. Programme, die sich in den frühen 
+Phasen befinden, einschließlich der Entwicklung neuer Reihen und neuar-
+tiger Assays, liefern potenziellen Nachschub für die Tuberkulose-Pipeline. 
+Die meisten Programme werden in Zusammenarbeit mit Partnern und/oder 
+im Rahmen von Konsortien entwickelt.
+Darüber hinaus untersuchen wir innovative Ansätze der Tuberkulosebehand-
+lung wie etwa wirtsgerichtete Therapeutika. Ein weiteres Forschungsfeld ist 
+die Identifizierung von Tuberkulose-Biomarkern. Biomarker zeigen an, ob 
+eine Behandlung anschlägt oder erfolgreich ist. Sie könnten die Effizienz 
+klinischer Studien deutlich erhöhen und auch bei der Bestimmung der für 
+
+2 1
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+den einzelnen Patienten erforderlichen Behandlungsdauer helfen. Aktuell 
+untersuchen wir Möglichkeiten, diesen Bereich kraft unserer Kerntechnolo-
+gien zu unterstützen. 
+Zudem sind wir entschlossen, mit der kontinuierlichen Weiterentwicklung 
+und Erweiterung unserer umfassenden Tuberkulose-Assay-Plattform sowohl 
+interne Programme voranzutreiben als auch die Wirkstoffforschung und 
+-entwicklung unserer Partner zu unterstützen.
+4.1.3. ANTIMIKROBIELLE RESISTENZEN –  
+BEKÄMPFUNG VON „SUPER-BAKTERIEN“
+Auf dem Feld der antimikrobiellen Resistenzen (AMR) sind unsere Projekte 
+gänzlich auf die von der Weltgesundheitsorganisation priorisierten Patho-
+gene ausgerichtet, die Entwicklungsländer betreffen. Weltweit sind bakteri-
+elle Infektionen durch arzneimittelresistente Erreger pro Jahr für mindestens 
+700.000 Todesfälle verantwortlich. Schätzungen zufolge könnte die aktuelle 
+Entwicklung dazu führen, dass bis 2050 jedes Jahr zehn Millionen Menschen 
+an Infektionen durch arzneimittelresistente Bakterien sterben und weitere 
+24 Millionen in extreme Armut stürzen.
+Seit Mitte 2019 engagiert sich Evotec als führender Partner in der Gram-
+negative Antibacterials NOW (GNA NOW), eine Initiative zur Entwicklung 
+antimikrobieller Therapien gegen gramnegative nosokomiale Pathogene. 
+GNA NOW ist eine öffentlich-private Partnerschaft unter dem Dach der 
+Innovative Medicines Initiative 2 (IMI2). Das Konsortium verfolgt das Ziel, 
+mindestens einen Wirkstoffkandidaten durch alle Phasen der präklinischen 
+Entwicklung bis zur klinischen Reife und zum Abschluss von Phase 1 und 
+einen weiteren bis zum Eintritt in Phase 1 zu führen sowie einen präklini-
+schen Entwicklungskandidaten zu liefern.
+Einschließlich Evotec arbeiten derzeit zwölf Partner im Rahmen des GNA 
+NOW-Projekts, das für eine Dauer von sechs Jahren angelegt ist, zusammen. 
+Dazu zählen hochkarätige akademische Forschungseinrichtungen sowie 
+Nosopharm, ein industrieller Partner. Die Förderung der verschiedenen 
+Projekte des Konsortiums beläuft sich auf insgesamt rund 31 Mio. €, davon 
+Sachleistungen in Höhe von 19 Mio. €. Evotec bringt F&E-Expertise auf dem 
+Gebiet der Antibiotika sowie F&E-Plattformen (u. a. für medizinische Chemie, 
+Mikrobiologie, Verfahrenschemie, ADME, PK, Toxikologie) in das Projekt 
+ein. Das ursprüngliche Portfolio des Konsortiums umfasste drei innovative 
+Projekte, die sämtlich auf neuartige Antibiotika-Klassen aus natürlichen 
+Quellen ausgerichtet sind, davon eines aus Evotecs Portfolio. Schwerpunkt 
+dieser Projekte (ursprünglich in Phasen von der Lead-Identifizierung bis 
+zur präklinischen Entwicklung) sind neuartige Wirkungsmechanismen 
+zur Bekämpfung gramnegativer Pathogene, die von der WHO gelistet sind 
+(u. a. Escherichia coli, Klebsiella pneumoniae, Acinetobacter baumannii und 
+Pseudomonas aeruginosa), und dazugehöriger nosokomialer Infektionen 
+(u. a. Harn- und Atemwegsinfektionen). Am weitesten fortgeschritten ist 
+ein Projekt, in dem gerade Studien zum Abschluss gebracht werden, die 
+Voraussetzung für die Beantragung zur Genehmigung als Prüfpräparat sind. 
+Geplant ist der Eintritt in Phase 1 bis Anfang 2023.
+4.1.4. PRROTECT – BUILDING A UNIQUE PANDEMIC  
+PREPAREDNESS AND RAPID RESPONSE TECHNOLOGY PLATFORM
+Evotec besitzt die Expertise und die Plattformen, um die Entwicklung neuar-
+tiger niedermolekularer Substanzen und Biologika zur Bekämpfung von 
+Pandemiegefahren zu unterstützen. Unsere aktuellen Tätigkeiten im Kampf 
+gegen COVID-19 verdeutlichen die zentrale Rolle unserer Plattformen inner-
+halb der Branche. Im Rahmen einer neuen Initiative zur klinischen Entwick-
+lung neuartiger Therapeutika gegen COVID-19 hat Evotec als eines von 
+drei Unternehmen stark umkämpfte Fördermittel des Bundesministeriums 
+für Bildung und Forschung (kurz „BMBF“) erhalten. Evotec entwickelt ein 
+hochwirksames, immunmodulatorisches Molekül, das die Immunantwort 
+verstärken und das Risiko eines schweren Krankheitsverlaufs mit stationärer 
+Behandlung senken soll. Unser Beitrag zu einer besseren Vorbereitung auf die 
+Zukunft liegt in einem stärker vorgreifenden Ansatz, das heißt wir nutzen 
+diese Plattformen für ein breites Spektrum von Infektionskrankheiten.
+PRROTECT ist eine offene, vorwettbewerbliche Netzwerk-Initiative für den 
+besten Schutz gegen zukünftige Pandemien über drei verschiedene Kanäle: 
+Erstens die Vorbereitung auf virale Gefahren durch die Vorentwicklung 
+einer multimodalen Pipeline von therapeutischen Kandidaten gegen die 
+Viren, die von der Weltgesundheitsorganisation („WHO“) als besondere 
+Bedrohungen definiert wurden; zweitens Technologien zur Verkürzung 
+der F&E-Zeitlinien für die Neuentwicklung von hochwirksamen, neutrali-
+sierenden Antikörpern unter Verwendung von AI- & ML-Plattformen (z. B. 
+J.HALSM); drittens ein flexibles Netzwerk aus verdichteten Produktionsan-
+lagen (J.POD®), die bei Bedarf eine schnelle Bereitstellung therapeutischer 
+Antikörper gewährleisten.
+Darüber hinaus hat Evotec ein bispezifisches, immunmodulatorisches Protein 
+mit hoher Wirksamkeit gegen das Hepatitis B-Virus (HBV) identifiziert und 
+entwickelt. Mit mehr als 250 Millionen chronisch Kranken ist Hepatitis B 
+eine globale Gesundheitsgefahr, und es gibt dafür keine Heilmethoden. Das 
+Molekül wurde von nichtmenschlichen Primaten gut vertragen, und die 
+klinische Dokumentation zur Konsultation der Regulierungsbehörden ist in 
+Arbeit. Ziel ist der Beginn der klinischen Phase-1-Studie im 1. Quartal 2022.
+4.1.5. INNOVATION/F&E: PERSONALISIERTE MEDIZIN –  
+  DIVERSITÄT IN DER WIRKSTOFFFORSCHUNG 
+Das Bewusstsein über die gesellschaftliche Dimension der Diversität in 
+der Wirkstoffforschung ist in jüngster Zeit gestiegen. Im November 2020 
+veröffentliche die US-Arzneimittelbehörde FDA ihren endgültigen Leitfaden 
+für die Industrie. Hier werden adaptive Studien als eine von mehreren 
+Möglichkeiten dargestellt, die Diversität der Patientenpopulationen klini-
+scher Studien zu erhöhen. Ziel ist die Reduzierung von Ungleichheiten in 
+den Behandlungsergebnissen und die Erhöhung der Diversität der Pati-
+entenpopulationen klinischer Studien. Dieser Leitfaden könnte zu einem 
+Paradigmenwechsel in der Wirkstoffforschung und -entwicklung führen, der 
+mit unserem eigenen, patientenzentrierten Ansatz konvergiert.
+
+2 2
+2 2
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Die folgenden Maßnahmen wurden von der FDA vorgeschlagen:
+	 a)	 Anpassung der Teilnehmerschaft nach Zwischenstandsanalyse auf der 
+Basis vordefinierter Kriterien
+	 b)	 breitere Teilnahmekriterien, sodass auch Patienten erreicht werden 
+können, die häufig ohne fundierte klinische oder wissenschaftliche 
+Rechtfertigung von Studien ausgeschlossen werden
+	 c)	 Charakterisierung des Wirkstoffmetabolismus und gruppenübergrei-
+fende Freigabe in der Frühphasenforschung zur Dosisoptimierung und 
+Vermeidung des Ausschlusses in späteren Phasen
+	 d)	 Sponsoren sollen spätestens zur Besprechung zum Ende der Phase II 
+ein Konzept für die Berücksichtigung klinisch relevanter Populationen 
+vorlegen
+Diese Auffassung entspricht voll und ganz unserer eigenen Herangehens-
+weise und bestätigt die Bedeutung von „Omics“-Faktoren in der Wirkstoff-
+forschung.
+  4.2. Faire Beschäftigung 
+Der geschäftliche Erfolg von Evotec beruht maßgeblich auf dem Erfolg 
+unserer Mitarbeiter, das heißt ihrem Engagement und ihrer persönlichen 
+Entwicklung im Unternehmen. Für ein nachhaltig schnelles und kontinu-
+ierliches Wachstum bemühen wir uns als Arbeitgeber um ein attraktives 
+Arbeitsumfeld, in dem sich die drei Werte unserer Unternehmenskultur 
+als ONE Evotec – Innovation, Unternehmergeist und Zusammenarbeit – 
+widerspiegeln und in dem sich auch unsere Mitarbeiter verwirklichen und 
+weiterentwickeln können. 
+Der Bereich Arbeitnehmerbelange betrifft also eine wichtige Stakeholder-
+gruppe, die für die Erfüllung unseres Auftrags von größter Bedeutung ist. 
+Aus diesem Grund beanspruchen die Arbeitnehmerbelange den Großteil 
+unseres Nachhaltigkeitsberichts. In der Betrachtung der Relevanz unserer 
+Mitarbeiter unterscheiden wir zwischen zwei Bereichen: Personal und Envi-
+ronment, Health & Safety (EHS). Die Themen Bildung und Weiterbildung, 
+Diversität, Gleichstellung und Inklusion sowie Gesundheit und Sicherheit 
+am Arbeitsplatz sind für den gesamten Evotec-Konzern relevant. Die Funk-
+tionsbereiche Personal und EHS tragen die Hauptverantwortung für Arbeit-
+nehmerbelange, da diese naturgemäß sowohl den einzelnen Mitarbeiter als 
+auch das Unternehmen als Ganzes betreffen. Als direkte Verbindung zu einer 
+wichtigen externen Stakeholdergruppe, den potenziellen Bewerbern, ist die 
+Personalbeschaffung ein wichtiger Erfolgsfaktor. Darüber hinaus geht von 
+unseren Mitarbeitern überall dort eine Wirkung aus, wo sie mit anderen 
+Stakeholdern, z. B. Investoren, Partnern, Behörden oder akademischen 
+Einrichtungen, in Kontakt treten.
+Der Bereich Human Resources (HR) als globale, befähigende Funktion 
+berichtet seit 2018 direkt an den Vorstandsvorsitzenden. Er trägt die Verant-
+wortung für konzernweit einheitliche Methoden und Standards, Prozesse 
+und Vorschriften sowie alle Fragen der Organisationsentwicklung. Realisiert 
+wird dies über spezielle Kompetenzzentren und das Global Strategic HR Busi-
+ness Partnering und betreut durch ein globales HR-Team sowie lokale Teams 
+in allen Ländern, in denen Evotec präsent ist. Das dynamische Wachstum des 
+Unternehmens erfordert eine anpassungsfähige Organisation, daher wurde 
+das Personalmanagement mit der Einführung der Personalverwaltungs-
+software „Workday“ als erster Geschäftsbereich vollständig digitalisiert. Die 
+Software sorgt für global einheitliche Prozesse in der Personalverwaltung des 
+gesamten Konzerns.
+Zur Bewertung unserer Performance werden verschiedene Mitarbeiterkenn-
+zahlen herangezogen, unter anderem die Gesamtanzahl der Mitarbeiter, die 
+Fluktuationsrate, die Anzahl der Neueinstellungen, die durchschnittliche 
+Zahl der Vollzeitäquivalente, die Zahl der Vollzeitäquivalente zum Jahresende, 
+die durchschnittliche Gesamtanzahl der Mitarbeiter, die Zahl der unbefristet 
+Beschäftigten zum Endes des Geschäftsjahrs, die Zahl der befristet Beschäf-
+tigten zum Ende des Geschäftsjahrs, die Zahl der neu eingestellten unbefri-
+stet Beschäftigten, die Zahl der ausgeschiedenen unbefristet Beschäftigten, 
+der Anteil der Mitarbeiter im Land des Hauptsitzes und das Durchschnitts-
+alter der Mitarbeiter. Diese sind in den nachfolgenden Abschnitten dieses 
+Berichts aufgeführt.
+4.2.1. PERSONALZUWACHS
+In allen Ländern und über alle Funktionen hinweg wurden sowohl in Europa 
+als auch in den USA neue Mitarbeiter eingestellt, um die Innovationskraft 
+des Unternehmens weiter zu stärken und unseren Partnern und Kunden 
+erstklassige Dienstleistungen zu liefern.
+4.2.2. MITARBEITERZAHLEN
+Zum 31. Dezember 2021 waren im Evotec-Konzern weltweit insgesamt 4.198 
+Mitarbeiter beschäftigt. Gegenüber dem Vorjahresende entspricht dies einem 
+Anstieg um insgesamt 17,5 %. Die Anzahl der im Geschäftsjahr durchschnitt-
+lich Beschäftigten betrug 3.908. Insgesamt ist die Zahl der Mitarbeiter 2021 
+um 626 gestiegen. Die durchschnittliche Anzahl der Mitarbeiter basierend 
+auf Vollzeitäquivalenten1 stieg von 3.120,7 im Jahr 2020 um 18,4 % auf 3.696,4 
+im Jahr 2021. Zum Jahresende lag die Anzahl der Mitarbeiter basierend auf 
+Vollzeitäquivalenten bei 3.945,4.
+PERSONALSTAND* ZUM 31. DEZEMBER
+2019
+2020
+2021
+Österreich
+-
+29
+42
+Frankreich
+649
+766
+903
+Deutschland
+720
+862
+1.054
+Italien
+666
+703
+785
+UK
+727
+839
+935
+USA
+268
+373
+479
+Gesamtkonzern
+3.030
+3,3.572
+4.198
+Execute
+2.425
+2.874
+3346
+Innovate
+161
+209
+310
+Vertrieb und administrative 
+Funktionen
+444
+489
+542
+Gesamtkonzern
+3.030
+3,3.572
+4.198
+TABELLE 8: PERSONALSTAND* ZUM 31. DEZEMBER
+* Anzahl Mitarbeiter: einschließlich unbefristete und befristete Verträge, Auszubil-
+dende, Studierende, bezahlte Praktikanten, Mitarbeiter in Mutterschutz, Elternzeit, 
+Sabbatical etc., nicht zeitanteilig berechnet
+1 Vollzeitäquivalent: einschließlich unbefristete und befristete Verträge und 
+ausschließlich Mitarbeiter in Mutterschutz, Elternzeit, Sabbatical etc., 
+
+2 3
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+4.2.3. TALENTE GEWINNEN, BEGEISTERN UND BINDEN 
+Bei Evotec besteht eine starke Korrelation zwischen der Entwicklung des 
+Unternehmens und der Entwicklung seiner Mitarbeiter – und zwar sowohl 
+in Bezug auf ihre Anzahl als auch auf ihre Kompetenzen. Die Wachstums-
+dynamik des Unternehmens hängt folglich stark von der Fähigkeit ab, die 
+richtigen Mitarbeiter für Evotec zu gewinnen, sie zu entwickeln und lang-
+fristig zu binden.
+Im Jahr 2021 wurde ein neues Kompetenzzentrum eingerichtet: Global Talent 
+Acquisition & Employer Branding. Dieses konzentriert sich auf die global 
+einheitliche Gestaltung einer exzellenten Personalbeschaffung sowie die 
+Bildung und Positionierung unserer Arbeitgebermarke an den verschiedenen 
+Arbeitsmärkten in aller Welt.
+Erstmals in der Geschichte des Unternehmens wurden an Evotecs verschie-
+denen Standorten weltweit in einem einzigen Jahr insgesamt mehr als 1.000 
+neue Mitarbeiter eingestellt. Dies entspricht einem Nettozuwachs um 626 
+Mitarbeiter und beinhaltet einen Ausgleich für die relativ geringe Fluktua-
+tion im Geschäftsjahr 2020 im Zusammenhang mit der COVID-19-Krise.
+Im Jahr 2020 war die Personalfluktuation auf 8 % gesunken, gegenüber jeweils 
+10,5 % in den Jahren 2018 und 2019. Ziel ist es, dieses Niveau in Zukunft zu 
+halten, aber bereits im letzten Jahr zeichnete sich ab, dass die COVID-19-Krise 
+die Entwicklung beeinflussen und 2021 zu Ausgleichseffekten führen würde. 
+Der Zweijahresdurchschnitt für 2020/2021 bewegt sich auf dem Niveau der 
+Vorjahre, eine im Branchenvergleich positive Entwicklung. Allgemein halten 
+wir ein gewisses Maß an Fluktuation für akzeptabel, da neue Mitarbeiter 
+auch neue Kompetenzen in das Unternehmen einbringen. Dennoch wollen 
+wir erfahrene Mitarbeiter so lange wie möglich an Evotec binden. Länger-
+fristig betrachten wir eine Fluktuationsrate im hohen einstelligen Bereich als 
+angemessenes Niveau für eine gute Balance zwischen Wissenserhalt, neuem 
+Input und Personalbeschaffungsaufwand.
+Der globale Personalzuwachs im Geschäftsjahr 2021 beinhaltet keine Akqui-
+sitionen und umfasst mehr als 700 unbefristet und beinahe 300 befristet 
+Beschäftigte, Letztere überwiegend als Ersatz für bereits vorhandene befris-
+tete Stellen oder durch Vertragsverlängerungen.
+Zum Jahresende 2021 lag der durchschnittliche Anteil der unbefristeten 
+Stellen bei 91,5 % (3.823 Mitarbeiter), und der Anteil der befristeten Stellen 
+bei 8,5 % (375 Mitarbeiter), gegenüber 8,7 % im Vorjahr. Der Anteil der Mitar-
+beiter in Deutschland, dem Land des Unternehmenssitzes, liegt bei 25 %. 
+Im Rahmen unserer Bemühungen, die Attraktivität von Evotec als Arbeit-
+geber weiter zu steigern und Mitarbeiter zu binden bieten wir Personalleis-
+tungen, die über die gesetzlichen Anforderungen hinausgehen. Einige dieser 
+Leistungen sind in nachfolgender Abbildung dargestellt.
+ABBILDUNG 13: PERSONALFLUKTUATION
+2 %
+0 %
+10 %
+8 %
+6 %
+4 %
+12 %
+2019
+10,5 %
+2021
+12,0 %
+2020
+8,0 %
+ABBILDUNG 14: NEUEINSTELLUNGEN
+20 %
+0 %
+80 %
+100 %
+60 %
+40 %
+63 %
+37 %
+2019
+75 %
+25 %
+2020
+71 %
+29 %
+2021
+befristet 
+unbefristet
+Anteil neuer Mitarbeiter
+
+2 4
+2 4
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Weitere Leistungen, wie etwa Kranken-, Berufsunfähigkeits- und Invalidi-
+tätsversicherungen sowie Altersvorsorgeleistungen werden in Abhängigkeit 
+von den Gegebenheiten in den einzelnen Ländern erbracht. 
+Der Anspruch auf Elternzeit ist gesetzlich verankert und steht somit allen 
+Mitarbeitern zu. Im Geschäftsjahr 2021 haben 135 Mitarbeiter die Elternzeit 
+in Anspruch genommen. 
+Im Sinne unserer Bemühungen um bessere Arbeitsbedingungen fallen 66% 
+unserer Mitarbeiter in Österreich, Frankreich, Deutschland und Italien unter 
+die Bestimmungen eines Tarifvertrags. Darüber hinaus verpflichten wir uns 
+an allen Standorten zur Förderung des gesellschaftlichen Dialogs. 
+4.2.4. BERICHTE UND ANALYSEN
+Des Weiteren wurde 2020 mit der Entwicklung von Standardanalysen 
+begonnen, die im Personalmanagement bei der Entscheidungsfindung 
+helfen und den Erfolg von Maßnahmen messen sollen. An dieser Aufgabe 
+wurde 2021 weitergearbeitet, und es wurden weitere Standardberichte und 
+Dashboards entwickelt, die 2022 eingeführt werden.
+  4.3. Aus- und Weiterbildung 
+Die Aus- und Weiterbildung von Mitarbeitern fällt bei Evotec in den Bereich 
+Global People Development und umfasst mehr als nur die Teilnahme an 
+Schulungen oder Lehrgängen. Die Funktion Learning & Development setzt 
+auf Produkte und Abläufe, die es unseren Mitarbeitern ermöglichen, sich 
+gemeinsam mit dem Unternehmen zu entwickeln. Nur mit den richtigen 
+Leuten zur rechten Zeit am rechten Ort (bzw. im richtigen Job) werden wir es 
+schaffen, unsere ehrgeizigen Wachstumsziele zu erreichen.
+Bei Evotec sind wir davon überzeugt: Der Erfolg des Unternehmens beruht 
+auf der Kompetenz unserer Mitarbeiter. Mit der Funktion Global People 
+Development (darin enthalten der Bereich Aus- & Weiterbildung) stellen 
+wir sicher, dass unsere Mitarbeiter mit allem versorgt sind, was sie zur 
+bestmöglichen Erfüllung ihrer Aufgaben brauchen und dass sie die richtigen 
+Zukunftskompetenzen entwickeln. Evotec investiert in Weiterbildung, damit 
+Kompetenzen bei Bedarf erworben oder aufgefrischt werden, und fördert 
+eine Kultur des lebenslangen Lernens. Unser Aus- und Weiterbildungs-
+portfolio umfasst eine Vielzahl verschiedener Schulungen zur Entwicklung 
+verschiedener Kompetenzen. Diese sind entweder auf inhaltliche Aufgaben 
+oder auf Rollen wie etwa Führungsverantwortung zugeschnitten. Weitere 
+Maßnahmen umfassen die Einführung des Global Coaching Process sowie 
+Investitionen in die globale Nachfolgeplanung. So entsteht eine zukunfts-
+gerichtete Organisation und damit die Grundlage für ein leistungsstarkes 
+Unternehmen mit einem herausragenden Angebot.
+Zur Gewährleistung der bestmöglichen Qualität werden die verschiedenen 
+Lernangebote regelmäßig geprüft und weiterentwickelt. Maßnahmen:
+ 	 EVOlead: Programme für Führungskräfte: Halbzeit- und Endüberprüfung 
+der Programme im Hinblick auf Qualität und Wirkung auf die Rolle. 
+ 	 EVOacademy: Teilnahmequoten, Schulungsqualität, Eignung für bestimmte 
+Rollen usw.
+App für psychische 
+Gesundheit
+Zuschuss für  
+Fitness
+Gewinnbeteiligung
+Urlaubsgeld
+Fahrtkosten­‑ 
+zuschuss
+* Alle Mitarbeiter erhalten für die Dauer von drei Jahren bis Januar 2023 einen  
+Zugang zur Headspace-App.
+ABBILDUNG 15: PERSONALLEISTUNGEN
+ABBILDUNG 16: ELTERNZEIT
+25
+0
+125
+100
+75
+50
+Männer
+43
+25
+Frauen
+123
+110
+2020
+2021
+Anzahl der Mitarbeiter in Elternzeit nach Geschlechtern
+
+2 5
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+4.3.1 WACHSTUM DURCH BILDUNG & ENTWICKLUNG
+Evotec bemüht sich um Ansätze zur Bildung und Entwicklung, die alle Mitar-
+beiter unterstützen. Um für Unternehmen und Mitarbeiter eine maximale 
+Wirkung zu erzielen, wird der Erfolg in regelmäßigen Abständen gemessen. 
+Daher fördert Evotec eine Lernkultur, in der jeder Einzelne dazu aufgefordert 
+ist, seine berufliche Entwicklung selbst in die Hand zu nehmen, sei es durch 
+Zusammenarbeit mit anderen oder durch Fortbildungen. Unser Lernansatz 
+folgt dem Prinzip 70/20/10 (durch Praxis/von anderen/durch Fortbildung). 
+Wir sind davon überzeugt, dass ein förderliches Lernumfeld die beste 
+Entwicklung gewährleisten kann.
+Wie in nachfolgender Abbildung gezeigt, bieten alle Standorte ihren Mitar-
+beitern Lernangebote, die eine Vielzahl verschiedener und von Land zu Land 
+unterschiedlicher Themen umfassen.
+von Anderen
+durch Praxis
+durch Fortbildung
+4.3.2. FEEDBACKKULTUR & EVOtalks 
+Bei Evotec gilt Feedback als elementarer Bestandteil der Weiterentwicklung. 
+Durch unsere leicht verständliche Feedbackmethode fördern wir einen 
+ständigen und aussagekräftigen Austausch in alle Richtungen. In offenen 
+Gesprächen (EVOtalks) diskutieren Vorgesetzte und Mitarbeiter mindestens 
+viermal pro Jahr konkrete Erwartungen, individuelle Ziele und Entwick-
+lungsschritte und stärken damit die Feedbackkultur und Performance des 
+gesamten Unternehmens. Sämtliche Mitarbeiter weltweit folgen diesem 
+Verfahren und dokumentieren die Gesprächsergebnisse mindestens einmal 
+pro Quartal mithilfe von Workday.
+Neue Vorgesetzte und Mitarbeiter werden während der Einführungsphase 
+gezielt im Hinblick auf die EVOtalks geschult.
+ZIEL
+MASSNAHME
+BETROFFENE GRUPPEN
+FRIST
+STAND
+Ausbau des Schulungs­
+angebots für Mitarbeiter
+Einrichtung einer globalen Lernplattform 
+(EVOacademy)
+Evotec Group
+2022
+in Bearbeitung
+Weitere Verbesserung der 
+Führungskräfteschulungen
+Teilnahmequote der berechtigten 
+Führungskräfte an den Führungs­
+kräfteprogrammen bis Ende 2022  
+auf 100 % steigern
+Evotec Group
+2022
+in Bearbeitung
+TABELLE 9: ZIELE DER AUS- UND WEITERBILDUNG
+ABBILDUNG 17: LERNANSÄTZE FÜR MITARBEITER
+EVOlead
+Sich selbst & andere 
+führen
+Fremd­- 
+sprachen
+(Englisch, Deutsch, 
+Italienisch,  
+Französisch)
+EVOtalk- 
+Fortbildung
+SBI Feedback 
+Training
+1-1  
+Einzelcoaching
+Fortbildung im 
+Bereich Umwelt, 
+Gesundheit, 
+Sicherheit
+Policy  
+training
+ABBILDUNG 18: ART DER FORTBILDUNG
+
+2 6
+2 6
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Unsere Feedbackkultur und die EVOtalks folgen dem SBI-Ansatz (Situation, 
+Behaviour (Verhalten), Impact (Wirkung)). Feedbackgespräche sollten sich 
+auf eine bestimmte Situation beziehen und das zugrundeliegende, beobach-
+tete Verhalten sowie die damit verbundene Wirkung beschreiben.
+4.3.3. ORGANISATIONSENTWICKLUNG  
+FÖRDERT DAS FÜHREN UND LERNEN
+Mit unserem neuen Kompetenzzentrum für globale Personalentwicklung 
+schaffen wir maßgeschneiderte globale Lösungen für die Organisations- und 
+Mitarbeiterentwicklung, die das Unternehmen sowohl heute als auch für die 
+Zukunft stark machen. Wir bemühen uns um Entwicklungslösungen, von 
+denen alle Mitarbeiter des Unternehmens profitieren. Mit unser Lernkultur 
+ermutigen wir unsere Mitarbeiter dazu, ihre Entwicklung selbst in die Hand 
+zu nehmen.
+4.3.4. GLOBALE ANSÄTZE & PROGRAMME  
+ZUR FÜHRUNGSKRÄFTEENTWICKLUNG
+Verantwortliche Führungskräfte, die klare Vorgaben machen, transparent 
+kommunizieren und die Entwicklung ihrer Mitarbeiter fördern, sind das 
+Rückgrat einer erfolgreichen Mitarbeiterentwicklung. Aus diesem Grunde ist 
+die Entwicklung der Führungskompetenz auf allen Ebenen bei Evotec von 
+großer Bedeutung. Im Rahmen eines umfassenden Konzepts zur Führungs-
+kräfteentwicklung wurden 2021 drei globale Programme erarbeitet und als 
+hybride Lernerfahrung umgesetzt: ein Programm zu den Grundsätzen der 
+Personalführung für Manager der unteren Führungsebene (EVOlead Leading 
+Self & Others), eines für das mittlere Management (EVOlead Leading Leaders) 
+und eines für Manager der obersten Führungsebene, die globale Verantwor-
+tung tragen (EVOlead Leading Globally). Im Geschäftsjahr 2021 nahmen 
+304 Führungskräfte, das heißt 46 % der Betroffenen, an diesen Programmen 
+teil, und auch 2022 folgen in allen drei Programmen weitere Gruppen aus 
+dem Kreis der jeweiligen teilnahmeberechtigten Führungskräfte. Durch 
+die Schaffung einer globalen Plattform für Vernetzung, Inspiration und 
+Unterstützung wird auf diese Weise eine globale Führungsmannschaft – die 
+EVOlead-Community – entstehen. Der globale Ansatz wird zudem durch 
+lokale Lernmaßnahmen ergänzt, die an die jeweiligen Bedürfnisse der Stand-
+orte angepasst sind.
+Neben den formalen Schulungsprogrammen gibt es ein globales Coaching-
+Angebot, das Führungskräften erlaubt, unter der Anleitung externer, 
+geprüfter Trainer an ihren jeweiligen Führungsthemen zu arbeiten. 
+4.3.5. EVOACADEMY ZUR FÖRDERUNG 
+ DER GLOBALEN LERNKULTUR
+Wir sind davon überzeugt: Der Erfolg des Unternehmens beruht nicht 
+zuletzt auf der Fähigkeit unserer Mitarbeiter, kontinuierlich zu lernen und 
+ihre fachliche Kompetenz zu steigern. Deshalb sind wir bestrebt, eine echte 
+Lernkultur zu schaffen, in der unsere Mitarbeiter ihre Kräfte entfalten.
+Im Geschäftsjahr 2021 stand den Mitarbeitern ein breites Angebot an lokal 
+organisierten technischen Fortbildungen und Schulungen zur Verhaltens-
+kompetenz offen. Dieses breite und vielfältige Fortildungsangebot wird 2022 
+unter der globalen Lernplattform EVOacademy gebündelt und weiter ausge-
+baut. Konzept und Umsetzung der Plattform sind der gemeinsamen Arbeit 
+des Personalbereichs mit Vertretern aus sämtlichen Geschäftsbereichen des 
+Unternehmens zu verdanken. Damit entsteht eine einzige globale Lern-
+plattform, über die Lerninhalte für alle Mitarbeiter angeboten und effektiv 
+gesteuert werden können. Zudem wird Evotec so in der Lage sein, global 
+über Schulungen und sonstige Fortbildungsmaßnahmen zu berichten. Die 
+EVOacademy wurde im März 2022 eröffnet und wird kontinuerlich mit 
+globalen Schulungs- und Lerninhalten befüllt. 
+4.3.6. EVOsuccession
+Im Geschäftsjahr 2021 wurden die ersten Schritte in Richtung einer globalen 
+Nachfolgeplanung unternommen, um die globale Geschäftskontinuität 
+zu gewährleisten. Dafür wurden rund 30 Schlüsselpositionen der obersten 
+Führungsebene einer Bewertung unterzogen. Die wesentlichen Ziele der 
+Nachfolgeplanung EVOsuccession sind:
+75 %
+70 %
+95 %
+90 %
+85 %
+80 %
+Männer
+Frauen
+ABBILDUNG 19: FEEDBACKMETHODE UND LEISTUNGSBEURTEILUNGEN
+K
+O
+N
+TI
+N
+U
+IE
+R
+L
+IC
+H
+E
+S 
+FE
+E
+D
+B
+A
+C
+K
+K
+O
+N
+T
+IN
+U
+I
+E
+RL
+IC
+H
+E
+S 
+F
+EE
+D
+B
+A
+C
+K
+BETEILIGEN
+&
+ENTWICKELN
+ 
+	
+ 
+	
+E
+V
+O
+t
+a
+l
+k 
+Q
+4 
+	
+E
+V
+O
+t
+a
+l
+k 
+Q
+1
+Erwartungen,
+Vorgaben &
+Ziele
+Zusammen-
+fassung & 
+Perspektive
+	
+E
+V
+O
+ta
+l
+k 
+Q
+3
+	
+E
+V
+O
+t
+a
+l
+k 
+Q
+2
+Fortschritt
+Fortschritt
+REGELMÄSSIGE ÜBERPRÜFUNG DER LEISTUNG  
+UND LAUFBAHNENTWICKLUNG
+
+2 7
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Frauen
+Männer
+	Erstellung von Aktionsplänen für das Ausscheiden von Mitarbeitern 
+der obersten Führungsebene aus dem Unternehmen, 
+ 	Identifizierung interner und/oder externer Nachfolger und Vertreter, 
+ 	Transparenz der Nachfolge-Pipeline.
+Pläne für die Vorbereitung von Nachfolgern, die dauerhaft Verantwortung 
+übernehmen können, sowie von Vertretern wurden bereits erstellt. Die 
+globale Nachfolgeplanung wird 2022 weiterentwickelt und dahingehend 
+strukturiert, dass auch die Leistung und das Potenzial der Nachfolgekandi-
+daten bewertet werden. 
+4.4. Diversität,  
+  Gleichstellung und Inklusion 
+Als erklärter inklusiver Arbeitgeber verfolgt Evotec einen globalen Ansatz 
+der „denkerischen Vielfalt“, in dem sich die Diversität unserer Mitarbeiter 
+widerspiegelt. Unser Denken und Handeln sind von Respekt, Kooperation, 
+Offenheit und Flexibilität geprägt. Bei der Einstellung und Entwicklung 
+von Talenten ebenso wie bei Beförderungen und Gehältern ist gelebte 
+kulturelle Vielfalt in all ihren Facetten die beste Voraussetzung für Chan-
+cengleichheit, unabhängig von Geschlecht, geschlechtlicher Identität, 
+ethnischer Herkunft & Nationalität, sexueller Orientierung, Alter, Religion 
+& Weltanschauung, körperlichen & geistigen Fähigkeiten oder sozialem 
+Hintergrund. So entsteht eine optimale Kombination aus Kompetenz, 
+Talent, Ideen, Kreativität und Engagement; sie macht uns stark für den Weg 
+zur globalen Marktführerschaft. Bis heute haben wir keine Beschwerden zu 
+Diskriminierung von unseren Mitarbeitern erhalten.
+Weitere Schritte zur Erhöhung der Attraktivität und Diversität des Unter-
+nehmens waren die Unterzeichnung der Charta der Vielfalt mit ihren 
+sieben Dimensionen im Jahr 2020 und die Durchführung einer Sensibili-
+sierungskampagne im Jahr 2021.
+Ende 2021 waren bei Evotec Mitarbeiter aus 81 verschiedenen Nationen 
+beschäftigt (2020: 75). Das Durchschnittsalter der Beschäftigten lag Ende 
+2021 bei 38,5 Jahren (2020: 38,6 Jahre), und 1.6 % der Beschäftigten hatten 
+eine anerkannte Behinderung (2020: 1,2 %). 
+Der Blick auf die Geschlechterdiversität zeigt einen gegenüber 2020 unver-
+änderten Frauenanteil von 54 %.
+Seit 2018 verfolgt Evotec das Ziel, bis 30. Juni 2022 auf der Führungsebene 
+zwei Stufen unterhalb des Vorstands einen Frauenanteil von 30 % zu errei-
+chen. Mit einem Frauenanteil von 31 % wurde dieses Ziel bereits 2021 und 
+damit vorzeitig erreicht.
+Frauen besetzten somit 77 von insgesamt 246 Führungspositionen im Jahr 
+2021.
+* Aus rechtlichen Gründen enthalten diese Grafiken keine Angaben zu den USA
+10 % 55+
+19 % 45-54
+27 % 35-44
+ALTERSGRUPPEN*
+36 % 25-34
+8 % <25
+GESCHLECHTERVERTEILUNG UND ANZAHL DER 
+MITARBEITER NACH LÄNDERN, 2021
+ABBILDUNG 21: GESCHLECHTERVERTEILUNG NACH LÄNDERN
+MITARBEITER NACH NATIONALITÄTEN *
+21 % Französisch
+20 % Deutsch
+22 % Sonstige
+19 % Italienisch
+18 % Britisch  
+0 %
+100 %
+935
+479
+903
+1054
+785
+42
+4198
+75 %
+25 %
+50 %
+58 %
+51 %
+37 %
+40 %
+47 %
+40 %
+42 %
+49 %
+63 %
+60 %
+53 %
+60 %
+UK
+USA
+Frankreich Deutschland
+Italien
+Österreich
+Evotec 
+Group
+46 %
+54 %
+ABBILDUNG 20: MITARBEITER NACH NATIONALITÄT & ALTERSGRUPPEN 
+IM GESCHÄFTSJAHR 2021
+
+2 8
+2 8
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Mehr als 80 % unserer Mitarbeiter haben dabei einen akademischen oder 
+vergleichbaren Bildungshintergrund; mit diesem Anteil liegen wir über dem 
+Branchendurchschnitt. Nichtsdestotrotz ist eine Gruppe von Menschen mit 
+vielfältigen Kenntnissen und Fähigkeiten essentiell für den Erfolg unseres 
+Unternehmens. 
+4.5. Gesundheit und  
+  Sicherheit am Arbeitsplatz 
+Für Evotec sind Arbeitnehmerbelange der wichtigste ESG-Faktor. Unsere 
+Stärke beruht auf der Vielfalt der Menschen, die das Unternehmen 
+voranbringen. Wir bemühen uns um faire, gesundheitsfördernde, respekt-
+volle, sichere und attraktive Arbeitsbedingungen, die uns unserem Ziel 
+#researchneverstops näher bringen. 
+ 
+Fragen der Gesundheit und Sicherheit am Arbeitsplatz genießen daher bei 
+Evotec einen hohen Stellenwert, und zwar nicht nur im Sinne der geltenden 
+rechtlichen Anforderungen, sondern insbesondere deshalb, weil wir für 
+unsere Mitarbeiter ein entsprechendes Umfeld schaffen wollen. Für Gesund-
+heit, Sicherheit und Wohlergehen zu sorgen ist unsere Pflicht, die Gewähr-
+leistung der bestmöglichen Arbeitsbedingungen dagegen ein Anliegen.
+Durch die Gestaltung der Arbeitsplätze und -bedingungen können wir das 
+Wohlbefinden und die Sicherheit jedes Mitarbeiters direkt beeinflussen. 
+Zugleich sind auch die Mitarbeiter selbst verantwortlich für die Schaffung 
+eines positiven Arbeitsumfelds und nehmen mit ihrem Verhalten Einfluss 
+auf das Unternehmen. Alle Mitarbeiter, aktuelle wie zukünftige, sollen ihre 
+Kreativität in einem dafür optimalen Umfeld entfalten können. Auch der 
+Abbau von unnötigen Ineffizienzen und Stress durch verbesserte Abläufe 
+sowie die Sicherheit, nicht am Ergebnis eines Experiments, sondern an 
+der Qualität der Arbeit gemessen zu werden, sollen eine Atmosphäre des 
+Vertrauens schaffen (weitere Informationen dazu finden Sie im Abschnitt 
+Arbeitnehmerbelange).
+Die Prozessanpassungen, die wir aufgrund von COVID-19 im Jahr 2020 
+vornehmen mussten, haben die Sicherheit der Mitarbeiter und die Fähigkeit 
+zur Aufrechterhaltung der Geschäftskontinuität auf hohem Qualitätsniveau 
+gewährleistet. Die hohe Kundenzufriedenheit und -treue legt nahe, dass 
+unsere Nachhaltigkeitsstrategie auch in einem schwierigen Umfeld ein im 
+Sektorvergleich überdurchschnittliches Wachstum begünstigt (Beispiele 
+hierfür sind im Abschnitt Gesundheit und Sicherheit beschrieben). 
+Die folgende Tabelle zeigt die Entwicklung der Zusammensetzung auf 
+Führungsebene in den vergangenen drei Jahren 2019-2021.
+In Zukunft werden wir in enger Zusammenarbeit mit unserem Aufsichtsrat 
+neue Ziele für eine noch breitere Diversität entwickeln. Diese werden auch 
+Teil der DEI-Strategie für die gesamte Evotec Gruppe sein.
+Bereits heute bringen unsere Mitarbeiter  verschiedene Abschlüsse und Titel 
+ein, wie in Abbildung 23* dargestellt.
+4 % Abschluss einer weiter-
+führenden Schule oder 
+vergleichbarer Abschluss
+33 % Doktorgrad
+19 % Bachelorabschluss 
+oder vergleichbarer 
+Abschluss
+14 % Abitur/Fachschule 
+oder vergleichbare 
+Ausbildung
+30 % Masterabschluss oder 
+vergleichbarer Abschluss
+ABBILDUNG 23: BILDUNGSNIVEAU
+Frauen
+Männer
+ABBILDUNG 22: OBERE FÜHRUNGSEBENEN IM GESCHÄFTSJAHR 2021
+0
+140
+175
+210
+Anzahl der 
+Mitarbeiter: 246
+105
+35
+70
+27
+142
+8
+69
+Obere  
+Führungsebene 1
+Obere  
+Führungsebene 2
+* Bis 2020 basierten diese Angaben auf der Anzahl der Mitarbeiter, die direkt an den 
+Vorstand berichteten. Heute basieren sie auf der Einstufung in die obere Führungse-
+bene. Die Daten für 2019 wurden entsprechend angepasst.
+Geschlecht
+2019
+2020
+2021
+Oberste Führungsebene*
+Frauen
+25,8 %
+26,5 %
+31,3 %
+Männer
+74,2 %
+73,5 %
+68,7 %
+Oberste Führungsebene 1*
+Frauen
+23,1 %
+17,9 %
+22,9 %
+Männer
+76,9 %
+82,1 %
+77,1 %
+Oberste Führungsebene 2*
+Frauen
+26,4 %
+28,0 %
+32,7 %
+Männer
+73,6 %
+72,0 %
+67,3 %
+TABELLE 10: GESCHLECHTERVERTEILUNG NACH FÜHRUNGSEBENE
+
+2 9
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Gesundheits- und Sicherheitsbelange werden im Konzern mit derselben 
+Kompetenz und Professionalität behandelt wie das operative Kerngeschäft. 
+Mit der organisatorischen Strukturierung dieser Themen unter der neuen 
+Funktion Global Head of Environment, Health & Safety, die direkt dem 
+Vorstand unterstellt ist, wurde 2020 eine erste Maßnahme abgeschlossen. Auf 
+nationaler Ebene unterstützen die lokalen EHS-Verantwortlichen das globale 
+Team und sind zuständig für die operative Umsetzung der Maßnahmen 
+an ihren Standorten – unter Berücksichtigung nationaler Richtlinien und 
+Gesetze. Im Geschäftsjahr 2021 gewann Evotec für die Leitung des EHS-
+Bereichs zwei neue Führungskräfte (in Frankreich und Großbritannien) 
+sowie fünf neue Experten mit Fachkenntnissen in den Bereichen Chemie, 
+Arzneimittelherstellung, allgemeine Schadenprävention sowie Gesundheit 
+und Wohlergehen. Der Personalzuwachs in diesem Bereich entspricht dem 
+Im 3. Quartal 2021 wurde die webbasierte EHS-Softwarelösung Quentic, die in 
+Deutschland und Österreich bereits seit 2020 im Einsatz ist, an zwei weiteren 
+Standorten eingeführt: in Seattle und Redmond (USA). Quentic unterstützt 
+die Dokumentation, Organisation und Bewertung aller Gesundheits- und 
+Sicherheitsthemen und gewährleistet ein akkurates Berichtswesen. Die 
+Softwarelösung soll im Verlauf von 2022 und 2023 an allen Standorten als 
+Organisationswachstum, und es wurden neue Fachkenntnisse in den Berei-
+chen Brandschutz, Biosicherheit, Bau, Umweltmanagement und allgemeine 
+Sicherheit erworben. 
+Parallel zu den organisatorischen Anpassungen lag das Hauptaugenmerk 
+bei der strukturellen Anpassung auf der Vereinheitlichung von Richtlinien 
+und Prozessen und der Einführung eines verlässlichen Berichtswesens für 
+Unfälle, Beinaheunfälle und sonstige meldepflichtige Ereignisse sowie 
+den sicheren Umgang mit Chemikalien. Die im März 2018 veröffentlichte 
+Norm für Arbeitsschutzmanagementsysteme (ISO 45001) dient unverändert 
+als Vorlage für unsere eigenen Regelungen. Darüber hinaus hat Evotec die 
+Kosten für Headspace-Abonnements übernommen, um das Bewusstsein 
+für das Thema psychische Gesundheit zu schärfen. Ab 2020 erhalten alle 
+Mitarbeiter für die Dauer von drei Jahren einen Zugang zur Headspace-App.
+Standardinstrument in Betrieb genommen werden. Durch die Digitalisie-
+rung der EHS-Aktivitäten wird es möglich sein, die Anforderungen an die 
+Datenintegrität bei der ESG-Berichterstattung zu erfüllen sowie Abläufe und 
+Eskalation im Störfallmanagement und die Planung von Korrektur- und 
+Präventivmaßnahmen, Abschluss und Überprüfung gemäß ISO 14001:2015 
+und ISO 45001:2018 zu straffen. 
+ZIEL
+MASSNAHME
+BETROFFENE GRUPPEN
+FRIST
+STAND
+Branchenführerschaft im 
+Bereich Gesundheit und 
+Sicherheit am Arbeitsplatz 
+Mitarbeiterbefragung, Analyse von 
+Vergleichsangeboten in der Branche
+Evotec Group
+2025
+in Bearbeitung
+Einen besseren Überblick 
+über das Gesundheitsangebot 
+an den verschiedenen 
+Standorten verschaffen 
+Durch aktives Case Management die Zahl der 
+Ausfalltage nach Unfällen reduzieren 
+Evotec Group
+2025
+in Bearbeitung
+Gesundheitsförderung
+Einrichtung digitaler Angebote im Rahmen der 
+Gesundheitsförderung
+Evotec Group
+EVOzone 
+Lokaler EHS Sharepoint 
+vierteljährlich
+in Bearbeitung
+Schulungen und 
+Sensibilisierung
+Schulungen zu Sicherheitsfragen werden  
+allen Mitarbeitern in Form von  
+Präsenzkursen, offenen Online-Kursen  
+und Workshops angeboten 
+Evotec untere/mittlere 
+Führungsebene 
+Entwicklung von  
+Sicherheitsmodulen 
+EVOsafe 
+2022–2025
+in Arbeit 
+(Pilotprojekt in  
+Großbritannien 
+2022)
+Risikobewertung und 
+Präventionsmaßnahmen 
+– Arbeitsplätze werden regelmäßig geprüft
+– Umsetzung gezielter Maßnahmen 
+– Gestaltung eines attraktiven Arbeitsumfeldes
+Evotec-Mitarbeiter
+laufendes 
+Programm
+in Bearbeitung
+Störungs- und 
+Katastrophenbereitschaft
+Durchführung von Schulungen für Ersthelfer und 
+Brandschutzbeauftragte einschl. unter Einsatz 
+eines AED
+Evotec Group
+AED 
+laufendes 
+Programm
+in Bearbeitung
+Konzernweite Einführung 
+einer Verwaltungssoftware für 
+Gesundheit und Sicherheit
+Förderung der Einführung dieser Software im 
+Sinne der Transparenz der Maßnahmen in den 
+Bereichen EHS und Risikosteuerung 
+Ostküste/USA 
+Frankreich/
+Großbritannien/Italien 
+1./2. Quartal 2022  
+3. Quartal 2022 –  
+3. Quartal 2023
+in Bearbeitung
+TABELLE 11: EHS-ZIELE
+
+3 0
+3 0
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Unsere EHS-Spezialisten überprüfen die lokalen Vorgaben für den Einsatz 
+krebserregender, erbgutverändernder oder fortpflanzungsgefährdender 
+Gefahrstoffe (CMR-Stoffe) und neuartiger Moleküle und entwickeln 
+Konzepte für die Arbeitshygiene an allen Standorten. Des Weiteren werden 
+zur Verbesserung der technischen Steuerungsstrategien nach Maßgabe der 
+guten Laborpraxis für Chemikalien bei Bedarf Investitionen getätigt, die die 
+gesamte Versorgungskette vom Labor bis zum Patienten umfassen. 
+Mit zunehmendem Tempo auf unserer „Autobahn to Cures“ steigt nicht 
+nur unser Anspruch, es ergeben sich auch zusätzliche Umwelt-, Gesund-
+heits- und Sicherheitsaspekte. Vor diesem Hintergrund sorgt Evotec für eine 
+kontinuierliche Entwicklung der Teams und Ressourcen. Die EHS-Manager 
+der Länder sorgen für eine geeignete Weiterqualifizierung ihrer Teams und 
+kommen selbst dank der EHS-Zertifizierung (nach lokalen Gegebenheiten) 
+in ihrer Laufbahn ein Stück voran. Darüber hinaus werden zu verschiedenen 
+Themen maßgeschneiderte Schulungen organisiert, die den Bedürfnissen 
+der einzelnen Standorte gerecht werden. Dazu zählen Bereiche wie Biosi-
+cherheit, Strahlenschutz, Bauleitung, Legionellenprophylaxe, chemische 
+Hygiene, Umweltmanagement, Brandschutz, Sicherheit im Umgang mit 
+hochaktiven pharmazeutischen Wirkstoffen (HPAPI) und Toxikologie. 
+4.5.1. BELASTBARE GESUNDHEITS- UND  
+SICHERHEITSSTRUKTUREN IN EINEM SCHWIERIGEN JAHR
+Das Jahr 2021 stand im Zeichen anhaltender Sicherheitsmaßnahmen im 
+Zusammenhang mit der COVID-19-Pandemie, die beibehalten werden 
+mussten, um die krisenbedingten Auswirkungen unter Kontrolle zu halten. 
+Dass Evotec dadurch nur geringfügige Nachteile entstanden sind, ist 
+bewährten Eindämmungsmaßnahmen und der unablässigen Wachsamkeit 
+unserer Mitarbeiter zu verdanken – eine wirklich großartige Leistung. Der 
+Betrieb konnte an allen Standorten aufrechterhalten werden, mit minimalen 
+Unterbrechungen in isolierten Bereichen in Verona, Toulouse, Seattle und 
+Oxford. Es ist jedoch kein einziger Fall von direkter Übertragung zwischen 
+Mitarbeitern bekannt. Angesichts der Ausbreitung der Delta- und zuletzt der 
+ansteckenderen Omikron-Variante, die ein höheres Übertragungsrisiko mit 
+sich bringt, ist dies umso bemerkenswerter. 
+Die kurz nach dem Ausbruch im Jahr 2020 eingeführten Gesundheits- und 
+Sicherheitsvorgaben erwiesen sich als wirkungsvoll und wurden von den 
+Standorten an die Anforderungen der 2021 jeweils geltenden Gesetzgebung 
+angepasst. Gleiches gilt für die vorbereitenden Maßnahmen, die auf lokaler 
+Ebene entwickelt wurden. Des Weiteren wurden weiterhin leicht zugängliche 
+Mittel für zusätzliche Kontrollmaßnahmen und persönliche Schutzausrüs-
+tung zur Verfügung gestellt. Geschäftsreisen wurden eingeschränkt, sodass 
+die Führungskräftekonferenz der lokalen EHS-Verantwortlichen 2021 nicht 
+in Präsenz durchgeführt wurde. 
+Die maximal zulässige Raumbelegung wurde 2021 kontinuierlich überwacht 
+und zur Gewährleistung der uneingeschränkten Betriebsfähigkeit gegebenen-
+falls gelockert oder gestrafft. Trotz der Aufhebung der Corona-Maßnahmen 
+in einigen Ländern hatten Vorgaben wie die minimale Laborfläche je 
+Wissenschaftler, das Social Distancing und das Tragen eines Mund-Nase-
+Schutzes im gesamten Unternehmen Bestand. Evotec-Mitarbeiter nutzten 
+nach Möglichkeit das Home Office, sodass mehr Bürofläche zur Verfügung 
+stand. Allerdings geschieht ein Großteil der Arbeit im Labor, sodass vor 
+Ort Hygienemaßnahmen nach den höchsten Schutzstandards gefordert 
+waren. Neben den bestehenden Schutzmaßnahmen wurden an den meisten 
+Standorten allen Mitarbeitern kostenlose Schnelltests (Lateral Flow Tests) 
+zur Verfügung gestellt, die mehrmals wöchentlich zu Hause durchgeführt 
+wurden. Bei positivem Ergebnis war ein zusätzlicher PCR-Test erforderlich. 
+Interne wie externe Mitarbeiter und Besucher zeigten in dieser Situation 
+ein sehr verantwortungsvolles Verhalten. Mitarbeiter, die Symptome einer 
+potenziellen COVID-19-Infektion zeigten, begaben sich unverzüglich in 
+Quarantäne. 
+Mit Blick auf nationale Übertragungsraten und regionale Lockdowns/
+Beschränkungen ist dies ein weiterer Beweis dafür, dass wir uns unserem 
+Auftrag #researchneverstops verpflichtet fühlen.
+4.5.2. ZIELE FÜR 2021 TROTZ PANDEMIE ERREICHT
+Bereits 2020 berichtete Evotec über die Zielsetzung des Unternehmens, sich 
+im Bereich Gesundheit und Sicherheit am Arbeitsplatz bis 2025 einen Platz 
+unter den Besten der Branche zu erarbeiten. Gesundheits- und Sicherheits-
+belange werden im Konzern mit derselben Kompetenz und Professionalität 
+behandelt wie das operative Kerngeschäft. Mit der organisatorischen Struk-
+turierung dieser Themen unter der neuen Funktion Global Head of Environment, 
+Health & Safety, die direkt dem Vorstand unterstellt ist, wurde 2020 eine erste 
+Maßnahme abgeschlossen. Auf nationaler Ebene unterstützen die lokalen 
+EHS-Verantwortlichen das globale Team und sind zuständig für die operative 
+Umsetzung der Maßnahmen an allen Standorten – unter Berücksichtigung 
+nationaler Richtlinien und Gesetze.
+Um dem Wachstum des Unternehmens gerecht zu werden und unsere Ziel-
+vorgaben erreichen zu können, wird das EHS-Team erweitert. Bis Anfang 2022 
+war der Bereich um neun Mitarbeiter auf 36 Vollzeitäquivalente gewachsen. 
+Darin enthalten sind bereits budgetierte, noch zu besetzende Stellen und 
+Vertretungen für Mitarbeiter im Mutterschutzurlaub. Mit den Neuzugängen 
+gewann Evotec Fachkenntnisse in den Bereichen Bauleitung, Gesundheit 
+und Wohlbefinden am Arbeitsplatz, Gesundheitskoordination und -dienst-
+leistungen sowie Gesundheit in der Laborpraxis und Risikomanagement 
+hinzu. Mit Ausnahme eines Teammitglieds, das 2021 unternehmensintern in 
+die Logistik wechselte, ist das EHS-Team seit 2018 unverändert. 
+Zudem wurden 2021 gemäß dem Risikoprofil der Standorte mehrere Konzepte 
+für das globale EHS Team, ausgearbeitet, die es im Jahr 2021 beschlossen 
+hat und unten gelistet sind. Sie sollen dafür sorgen, den Bedürfnissen des 
+wachsenden Unternehmens gerecht zu werden. Die Konzepte basieren auf 
+den Normen, die aus der Unfallerfassung entwickelt wurden und spiegeln 
+Aspekte der Vision für 2025 im Rahmen von EVOsafe wider.
+ 	 Führung im EHS-Bereich 
+ 	 Risikomanagement 
+ 	 Notfallplanung 
+ 	 Umgang mit Chemikalien 
+ 	 Bereiche mit hohem Gefährdungspotenzial 
+ 	 Umgang mit Veränderungen 
+ 	 Fremdfirmenmanagement 
+
+3 1
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Diese Dokumente werden 2022 fertiggestellt und um eine Lückenanalyse zu 
+den Standorten und Selbsteinschätzungen ergänzt. Sie werden im Rahmen 
+der Konzernrevision des Bereichs EHS (Phase 1) geprüft, sodass hieraus ein 
+Kontrollmechanismus sowie ein Aktionsplan entwickelt werden können. 
+An allen Standorten gibt es Sicherheitsausschüsse, die sich aus Mitarbeitern, 
+Vorgesetzten und Sicherheitsfachleuten zusammensetzen und in der Regel 
+monatlich oder zweimonatlich zusammentreten. Sie tauschen Informati-
+onen zu Unfällen, Beinaheunfällen sowie Aktualisierungen von Richtlinien, 
+Verfahren, Anliegen der Mitarbeiter und Weiteres aus. Im Jahr 2021 lag die 
+Zahl der Arbeitsunfälle mit Ausfalltagen einschließlich aller Standorte bei 
+27. Zwölf dieser Unfälle ereigneten sich auf dem Arbeitsweg und 15 am 
+Arbeitsplatz. Die Zahl der Ausfalltage aufgrund von Arbeitsunfällen lag 2021 
+bei insgesamt 353. Davon waren 204 auf Unfälle zurückzuführen, die sich 
+auf dem Arbeitsweg ereigneten. Vorbeugende Sicherheitskampagnen werden 
+sich 2021 hauptsächlich mit den nachfolgend ausgewiesenen Ursachen 
+beschäftigen.. 
+Die Unfallrate wurde bereits 2020 als wichtige Leistungskennzahl im Bereich 
+EHS eingeführt. Die Berechnung erfolgt nach untenstehener Methode:
+Ausschließlich der Unfälle, die sich auf dem Arbeitsweg ereigneten, ist die 
+Zahl der Ausfalltage demnach 2021 gegenüber dem Vorjahr um 40 Tage 
+gesunken. Mehr als 50 % der 308 Ausfalltage wurden durch drei Unfälle 
+verursacht, die sich auf dem Arbeitsweg ereigneten. Von diesen waren 57 
+Tage auf Stürze (gebrochener Arm), 53 auf Stürze mit dem Fahrrad und 60 
+auf Verkehrsunfälle mit Rollern zurückzuführen. Daraus ergibt sich eine 
+effektive Zahl von 308 Ausfalltagen im Jahr 2021, gegenüber 244 im Vorjahr. 
+Aufgrund der COVID-19-Pandemie waren regelmäßige Führungskräfte-
+treffen im EHS-Bereich nur in virtueller Form möglich. Dennoch ist es uns 
+gelungen, die Erhebung von Baseline-Daten zu steigern – die Zahl der gemel-
+deten Beinaheunfälle (Sicherheitsmeldungen) hat sich verdoppelt – und im 
+Rahmen der regelmäßigen virtuellen Sitzungen (EHS Digest) Themen wie 
+die „OHS Vision 2025“ oder die eingehendere Prüfung von Unfällen und 
+Vorfällen (4four Blocker-Untersuchungen) zu diskutieren. Dazu zählen der 
+Austausch von Untersuchungsergebnissen zu Ausfalltagen oder signifi-
+kanten Beinaheunfällen, die verpflichtende Durchführung von Lücken-
+analysen an den Standorten und, sofern dies in vertretbarer Weise möglich 
+ist, die Einführung von Kontrollmaßnahmen. Auch die Entwicklung eines 
+EHS-Rahmenwerks wurde thematisiert. 
+Im Jahr 2021 hat sich die Zahl der gemeldeten Beinaheunfälle und Sicher-
+heitsmeldungen gegenüber dem Vorjahr mehr als verdoppelt. Tatsächlich ist 
+dies ein gutes Zeichen, denn es beweist, dass das Bewusstsein weiter deutlich 
+steigt und dass die Standorte sich unverändert engagieren und das proaktive 
+Arbeitsschutzmanagement annehmen. Dies schließt auch die Weitergabe 
+von Informationen zu Untersuchungen mit ein. 
+Insgesamt wurden 2021 310 Unfälle gemeldet, die Schäden verursachten 
+(Unfälle + Unfälle mit Ausfalltagen). Der Anstieg von 15 % gegenüber 2020 
+liegt unter dem Personalwachstum von 16 %. Noch erfreulicher ist die 
+Tatsache, dass die Schwere der Ereignisse deutlich geringer war, sodass sich 
+die Zahl der Ausfalltage um 15 % von 175 im Jahr 2020 auf 149 im Jahr 2021 
+reduzierte. 
+2019
+2020
+2021
+GGÜ. VJ. 
+20/21
+Unfälle mit Ausfalltagen 
+(einschl. Arbeitsweg)
+27
+21
+27
++22,2 %
+Ausfalltage
+275
+175
+149
++14,8 %
+Unfälle
+232
+248
+283
++14,1 %
+Vorfälle
+203
+216
+243
++12,5 %
+Beinaheunfälle/ 
+Sicherheitsmeldungen
+419
+926
+2.210
++138,7 %
+TABELLE 13: UNFALLBERICHT
+2 Die Erhebung von Daten zu Arbeitsunfällen auf dem Arbeitsweg ist nur in 
+Deutschland, Frank-reich und Italien gesetzlich vorgeschrieben. Daten zu den 
+Mitarbeitern in den USA und Großbritannien liegen derzeit nicht vor.
+3 Vollzeitäquivalente zum Jahresende
+Anzahl der zu berichtenden Subjekte* 1.000
+Unfallrate =
+Mitarbeiter (Anzahl)3
+Globalle Unfallrate 2020  =
+= 3,85
+3.376
+13 * 1.000
+= 3,80
+3.945
+15 * 1.000
+Globalle Unfallrate 2021  =
+URSACHE
+ANZAHL UNFALL
+ANZAHL 
+AUSFALLTAGE
+Klima (Hitze oder Kälte)
+1
+9
+Treppen, Stufen, Leitern
+3
+56
+Stolpern, Rutschen und  
+Stürzen auf einer Ebene
+2
+29
+Kontakt mit Chemikalien
+2
+3
+Manuelle Handhabung
+4
+12
+Anstoßen
+1
+13
+Arbeitsweg*
+13
+231
+* Die Erhebung von Daten zu Arbeitsunfällen auf dem Arbeitsweg ist nur in 
+Deutschland, Frankreich und Italien gesetzlich vorgeschrieben. Daten zu den 
+Mitarbeitern in den USA und Großbritannien liegen derzeit nicht vor.
+TABELLE 12: GLOBALE ARBEITSUNFÄLLE MIT AUSFALLTAGEN IM JAHR 2021
+
+3 2
+3 2
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+5. Umwelt 
+5.1. Den Planeten schützen
+Bereits 2018 legte eine Gruppe führender Klimaforscher unter dem Vorsitz 
+des Weltklimarats (Intergovernmental Panel on Climate Change, IPCC) In 
+dem Sonderbericht „1,5°C globale Erwärmung“ Maßnahmen zur Verhin-
+derung der schwerwiegendsten Auswirkungen des Klimawandels und zur 
+Eindämmung der globalen Erwärmung auf unter 1,5°C vor.4 Umweltver-
+antwortung geht daher über die allgemeine soziale Verantwortung und 
+Bürgerpflicht, die wir ohnehin als selbstverständlich erachten, hinaus. Sie 
+ist Grundvoraussetzung für ein nachhaltig dynamisches Wachstum. Zudem 
+ist unser Engagement ganz einfach konsequent. Das Bekenntnis zu wissen-
+schaftlich fundierten Zielsetzungen fügt sich perfekt in unser unabhängiges, 
+datenbasiertes Geschäftsmodell ein. In diesem Zusammenhang ergab unsere 
+Stakeholder- & Wesentlichkeitsanalyse im Geschäftsjahr 2020 für Evotec 
+zwei wesentliche Einflussbereiche: CO2-Neutralität (Klimaschutz) und grüne 
+& sichere Standorte.
+Im Dezember 2020 unterzeichnete Evotecs Vorstand daher ein Bekenntnis 
+zur Science Based Targets Initiative (SBTi) und verpflichtete sich dazu, 
+künftig Ziele zu entwickeln, die den Zielen des Pariser Abkommens entspre-
+chen, nämlich die globale Erwärmung auf deutlich unter zwei Grad Celsius 
+– idealerweise sogar auf 1,5 Grad Celsius – gegenüber dem Niveau vor Beginn 
+der Industrialisierung zu begrenzen. 
+Im Januar 2021 wurde unser Bekenntnis von der SBTi geprüft und akzeptiert, 
+und Evotec wird auf der Website der Initiative5 mit Stand Dezember 2021 als 
+eines von 2.257 engagierten Unternehmen geführt (2020: 1.245) sowie als 
+eines von 1.134 (615), die sich dem 1,5-Grad-Ziel verpflichtet haben und bis 
+spätestens 2050 Kohlenstoffneutralität („Netto-Null“) erreichen wollen.
+Bis Ende 2021 hatten sich 50 Pharma-, Biotech- und Life-Sciences-
+Unternehmen dazu verpflichtet, den Vorgaben der SBTi zu folgen (die Liste 
+der Unternehmen befindet sich im Anhang). In 48 % dieser Unternehmen 
+wurden bereits Zielsetzungen zur Unterstützung des 1,5-Grad-Ziels formu-
+liert und von der Initiative bestätigt. Der Anteil der Unternehmen, die sich 
+dem 2,0-Grad-Ziel verschrieben haben, ist in der Minderheit. Wie Evotec 
+verfolgt die Hälfte der Teilnehmer das ehrgeizigere Ziel.
+Von den 50 Unternehmen sind nur drei Teil unserer Vergleichsgruppe (Details 
+dazu entnehmen Sie bitte der Liste der Vergleichsunternehmen im Anhang). 
+Die Verantwortung für die Steuerung sämtlicher Umweltthemen trägt die 
+Abteilung Global Environment, Health & Safety (EHS) unter der Mitwirkung 
+der Bereiche Facility Management (FM), Supply Chain und Beschaffung. 
+Neben den offiziellen Verantwortlichkeiten konzentrieren wir uns auf die 
+Schaffung einer Kultur der Nachhaltigkeit, die von den Mitarbeitern getragen 
+wird und in der jeder Einzelne einen Beitrag zum Umweltschutz leisten kann. 
+Darüber hinaus wird der regelmäßige Dialog mit unseren Stakeholdern fester 
+Bestandteil aller künftigen Aktivitäten.
++84 %
+Verpflichtung zu 
+-1,5°C
++153 %
+Verpflichtung  
+zu deutlich  
+unter 2°C
+-81 %
+Unternehmen legen 
+Emissionsreduktions­
+ziele fest
+ 2020:
+1.245
+ 2021:
+2.257
+39
+1.134
+615
+203
+427
+1.084
+Quelle: Science Based Targets Initiative mit Stand Dezember 2021
+ABBILDUNG 24: VERPFLICHTETE UNTERNEHMEN DES SBTI   
+4 Global Warming of 1.5 ºC — (ipcc.ch) 
+5 https://sciencebasedtargets.org/companies-taking-action
+
+3 3
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Wir sind überzeugt, dass sich die frühzeitige Vorbereitung auf eine kohlen-
+stoffarme Wirtschaft letztendlich als Wettbewerbsvorteil erweisen wird. 
+Auch viele unserer wichtigsten Kooperationspartner haben sich der SBTi 
+bereits angeschlossen – Tendenz steigend. Vereinfacht sind die Scope-1- und 
+Scope-2-Emissionen von Evotec die Scope-3-Emissionen unserer Partner und 
+künftigen Kunden. Wir geben ihnen die Sicherheit, dass die Zusammenarbeit 
+mit Evotec auch aus der Perspektive der Umweltschutzanforderungen in 
+ihrem Interesse liegt, sodass sie selbst auf Rückstellungen für zusätzliche 
+Kompensierungsmaßnahmen verzichten können. Das Bekenntnis zur SBTi 
+könnte sich somit als Wettbewerbsvorteil erweisen und die Verlängerung von 
+Verträgen oder die Erweiterung von Allianzen um zusätzliche Krankheitsbe-
+reiche nach sich ziehen.
+5.2. Verpflichtung zur  
+Einhaltung von Umweltauflagen
+Um Wirtschaftstätigkeiten besser nach ihrer Nachhaltigkeit einordnen, 
+Greenwashing verhindern und Investitionen besser zuordnen zu können, 
+veröffentlichte die Europäische Kommission die Taxonomie-Verordnung, die 
+im Juli 2020 in Kraft getreten ist.
+Unsere Verpflichtung zu mehr Nachhaltigkeit fügt sich gut in die geforderte 
+Offenlegung nicht-finanzieller Informationen gemäß Taxonomie-Verord-
+nung ein.
+Evotec hat die Tätigkeiten des Unternehmens im Geschäftsjahr 2021 im 
+Hinblick auf die ersten beiden Ziele untersucht, um zu bestimmen, ob sie 
+in den Anwendungsbereich der EU-Taxonomie fallen. Das Screening hat 
+gezeigt, dass die Haupttätigkeiten des Unternehmens nach aktuellem Stand 
+nicht unter die Taxonomie-Verordnung fallen. Bezogen auf die Taxonomie-
+Größe „Umsatz“ ergibt sich daraus eine Taxonomie-Eignung von 0 %. 
+Dessen ungeachtet wurde der Investitions- und Betriebsaufwand des Unter-
+nehmens einer Bewertung unterzogen. Der Anteil der Taxonomie entspre-
+chenden Tätigkeiten am Investitionsaufwand wurde auf 3,5 % geschätzt, 
+während in den betrieblichen Aufwendungen keine Anhaltspunkte für 
+relevante Tätigkeiten gefunden wurden. Bezogen auf den Betriebsaufwand 
+greifen auch hier die Anforderungen der Taxonomie nicht und ergeben 
+rechnerisch eine Taxonomie-Eignung von 0 %.
+5.3. Betrieblicher Umweltschutz
+Der Umweltschutz hat viele Aspekte und wird bei Evotec als integrierter 
+Bereich verstanden. Wir sind entschlossen, unseren Beitrag zum Umwelt-
+schutz zu leisten. Ein gesunder Planet ist die Grundlage für unsere Existenz 
+und damit auch für unser Geschäft.  
+Darüber hinaus lassen sich durch den verantwortungsvollen und ökonomi-
+schen Umgang mit Ressourcen auch Kosten einsparen. 
+Als Biotechunternehmen betreibt Evotec eine Reihe von Laboren und Anlagen 
+für die Entwicklung von Wirkstoffen. Ein Beispiel dafür ist das Kühlen oder 
+Erhitzen von Material und der damit verbundene Verbrauch von Ressourcen. 
+Ein weiteres Beispiel ist die Unterhaltung von Büroflächen. Evotec ist also in 
+der Lage, direkt auf das eigene Umfeld einzuwirken. 
+In diesem Zusammenhang beschäftigen wir uns mit den Themen Abfall, 
+Wasser und Abwasser sowie Energie.
+Die Überwachung des Energie- und Wasserverbrauchs erfolgt bei Evotec auf 
+jährlicher Basis. Ende 2021 haben wir mit der Einführung einer Software 
+begonnen, mit der Daten zum Energie- und Wasserverbrauch konzernweit 
+erhoben und sinnvoll zusammengeführt werden.
+  5.4. Emissionsbericht 
+In einem ersten Schritt auf dem Weg zur Reduzierung unseres CO2-Fußab-
+drucks haben wir damit begonnen, die Emissionsdaten aller Standorte 
+zu erfassen. Bis zum Jahresende 2020 war es dank der Zusammenarbeit 
+verschiedener Funktionsbereiche gelungen, einen ersten, eingeschränkten 
+Ansatz zur Berechnung des Fußabdrucks zu finden. Im Geschäftsjahr 2021 
+wurden weitere Schritte unternommen, darunter die Beauftragung externer 
+Experten, deren Erhebung und Berechnung unserer Emissionen für den 
+Nachhaltigkeitsbericht 2022 vorliegen werden.
+Die Berechnung des CO2-Fußabdrucks für das Geschäftsjahr 2021 erfolgte 
+nach demselben Ansatz wie die Berechnung für 2020. Die Treibhausgasemis-
+sionen waren 2020 infolge der COVID-19-Pandemie gesunken, und mit der 
+zunehmenden Normalisierung des Arbeitsumfelds stieg auch die Variabilität.
+Der Vergleich zwischen 2020 und 2021 wird durch die Tatsache beeinflusst, 
+dass die Datenerfassung zu Standorten und Funktionen erweitert und präzi-
+siert wurde. Dessen ungeachtet erfolgte eine Neuberechnung für 2020.
+Die globalen Treibhausgasemissionen des Konzerns (Verbrauch von Strom 
+und Gas gem. Scope 1 und Scope 2) erreichten im Geschäftsjahr 2021 ein 
+Volumen von mehr als 34.000 t CO2.
+Die Scope-1-Emissionen aus unternehmenseigenen Quellen sind auf die 
+Verwendung von Zellinkubatoren und Trockeneis zurückzuführen. Evotec 
+unterhält keine Fahrzeugflotte, sodass diese Emissionen weniger als ein 
+Prozent des Fußabdrucks ausmachen.
+So ist es kaum verwunderlich, dass der bei weitem größte Teil der Emissi-
+onen bei der Erzeugung von Energie entsteht, die von außerhalb bezogen 
+wird (Scope 2). Während die absoluten Zahlen infolge deutlich höherer 
+Geschäftsvolumina, Umsatzerlöse, Mitarbeiterzahlen und Laborflächen 
+steigen, schlagen unsere Bemühungen um höchste Dienstleistungseffizienz 
+auch im Energieverbrauch positiv zu Buche. Die Gesamtemissionen durch 
+den Verbrauch von Strom und Gas zu Heizzwecken unter Scope 1+2 sind 
+im Geschäftsjahr 2021 zwar gestiegen, aber die CO2-Intensität, also das 
+Verhältnis der CO2-Emissionen (in t) zum Umsatz (in Mio.), ist um 16,4 % 
+gegenüber dem Vorjahr gesunken. Gemessen an den Emissionen je Mitar-
+beiter war diese Entwicklung noch stärker (-26,2 % ggü. 2021).
+
+3 4
+3 4
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+CO2-EMISSIONEN 
+GESAMT (CO2 IN T) 
+CO2 IN T / 
+UMSATZ IN MIO EUR
+CO2 IN T / 
+DURSCHN. MITARBEITERZAHL
+Treibhausgasemissionen
+2020
+2021
+2020
+2021
+2020
+2021
+CO2-Emissionen gemäß, Scope 1 und 2 (CO2 in t), gesamt
+33.407
+34.347
+66,69
+55,78
+11,84 
+8,73
+Veränderung ggü. Vj.
+2,8%
+-16,4%
+-26,2%
+O2-Emissionen gemäß, Scope 1, 2 und 3 (CO2 in t), gesamt
+33.820
+34.670
+67,52
+56,31
+11,98
+8,82
+Veränderung ggü. Vj.
+2,5%
+-16,6%
+-26,4%
+Treibhausgasemissionen gemäß Scope 1 – Zellinkubatoren CO2 und 
+Trockeneis (CO2 -eq in t)
+41,86
+69,71
+0,08
+0,11
+0,01
+0,02
+Veränderung ggü. Vj.
+66,6%
+35,5%
+19,5%
+Treibhausgasemissionen gemäß Scope 1 – Energieverbrauch (CO2 -eq in t)
+33.365
+34.277
+66,61
+55,67
+11,82
+8,72
+Veränderung ggü. Vj.
+2,7%
+-16,4%
+-26,3%
+Die Entwicklung der Zielvorgaben soll im Laufe des Jahres 2022 erfolgen. Auf 
+Empfehlung der SBTi folgen wir in der Bilanzierung von Treibhausgasemissi-
+onen und dem dazugehörigen Berichtswesen dem international anerkannten 
+GHG-Protokoll.
+Die Einschätzung der Emissionen unter Scope 3 beschränkt sich auch für 
+2021 auf geschäftlich bedingte Flugreisen. Im ersten Quartal 2022 wurde 
+der Aufbau eines Berichtswesens für eine verlässliche Analyse von vor- und 
+nachgelagerten Aktivitäten – insbesondere Pendelverkehr, Zulieferer und die 
+Logistik zwischen Standorten – durch einen externen Dienstleister in Angriff 
+genommen.
+Die Daten zu den europäischen Flugreisen beziehen sich auf die Reisen der 
+Mitarbeiter in den Jahren 2020 und 2021. Aufgrund der Einschränkungen des 
+Flugreiseverkehrs im Zusammenhang mit COVID-19 sanken die Emissionen 
+zwischen 2019 und 2020. Erneute Reisebeschränkungen im Schlussquartal 
+2020, die in einigen Ländern bis in das Jahr 2021 hinein verlängert wurden, 
+sowie bestimmte weltweite Einreisebeschränkungen sorgten auch 2021 für 
+einen Rückgang der Emissionen durch Flugreisen. In Ermangelung verwert-
+barer Daten haben wir die Emissionen in den USA geschätzt. Die Werte für 
+Flugreisen in den USA basieren auf geschätzten Emissionen von 0,13 t CO2 
+je Mitarbeiter im Jahr 2020 und 0,08 t im Jahr 2021. Auf der Basis dieser 
+Annahmen betrugen die CO2-Emissionen im Zusammenhang mit Flugreisen 
+im Jahr 2020 rund 469 Tonnen und im Jahr 2021 rund 319 Tonnen.
+Der Umfang der erhobenen Daten zu Umweltfaktoren ist nach wie vor 
+begrenzt, wurde aber 2022 erweitert. Die Emissionen unter Scope 1+2 
+umfassen nun unter anderem Strom, Wasserverbrauch, Heizung und 
+verschiedene Brennstoffarten. Eine breitere Erfassung von Daten gemäß 
+Scope 3 wird sowohl Flug- als auch Bahnreisen sowie extern bezogene Waren 
+und Dienstleistungen beinhalten.
+TABELLE 14: ÜBERSICHT DER TREIBHAUSGASEMISSIONEN
+Datenquellen für die Berechnung des Energiemix:
+Deutschland: https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-04-01_climate-change_13-2020_strommix_2020_fin.pdf
+Italien: AXPO Italia
+Großbritannien: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877047/Press_Notice_March_2020.pdf
+Frankreich : https://www.rte-france.com/eco2mix
+Seattle/Redmond: Seattle City Light
+US-Ostküste: https://www.eia.gov/electricity/data/state/
+Zur Berechnung der Emissionen ausgewählter Stromversorgungstechnologien haben wir CO2-Äquivalente über den Lebenszyklus je Energiequelle herangezogen. Die Multiplikatoren sind 
+vom Weltklimarat berechnete Medianwerte (IPCC; https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf).
+EUROPA
+USA
+GESAMT
+Flugreisen 
+(Business, 
+Konferenzen) - 
+CO2 in t *
+420,2
+282,4
+49,0
+36,4 
+469,2
+318,8
+Veränderung 
+ggü. Vj.
+-32,8%
+-25,8%
+-32,1%
+Meilen
+1.145.290
+326.622
+Veränderung 
+ggü. Vj.
+-71,5%
+Anzahl der 
+Mitarbeiter
+3.199
+3.719
+373
+479
+3.572
+4.198
+CO2 in t je 
+Mitarbeiter
+0,13
+0,08
+0,13
+0,08
+0,13
+0,08
+Veränderung 
+ggü. Vj.
+-42,2%
+-42,2%
+-42,2%
+TABELLE 15: EMISSIONEN UNTER SCOPE 3 – FLUGVERKEHR
+*Schätzungen auf der Basis des durchschnittlichen CO2 in t je Mitarbeiter
+1) Die Berechnung basiert auf der Methodik von myclimate.org und atmosfair.de
+
+3 5
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+6. Governance
+6.1. Compliance 
+Der Bereich Corporate Compliance ist ein wichtiges Feld und Teil der 
+Corporate Governance. Eine effektive Corporate Governance ist für die Steue-
+rung unserer Geschäftsangelegenheiten von entscheidender Bedeutung. 
+Bei Evotec genießt sie seit jeher höchste Priorität. Der Bereich Corporate 
+Compliance umfasst interne Richtlinien und Verfahren und hilft uns dabei, 
+Verstöße gegen Vorschriften zu erkennen, sie zu verhindern und auf sie 
+zu reagieren und so Bußgeldern und gerichtlichen Auseinandersetzungen 
+vorzubeugen. Zweck des Bereichs Compliance ist somit der Schutz von 
+Geschäft, Mitarbeitern und Stakeholdern. Investitionen in Compliance-
+Instrumente könnten sich daher in hohem Maße auszahlen. Ziel ist es, 
+Betrug, Missbrauch, Diskriminierung und sonstiges Verhalten, das den 
+Betrieb stören oder das Geschäft gefährden könnte, zu verhindern. 
+Evotecs Unternehmenskultur ist den höchsten Standards der Offenheit, 
+Integrität und Rechenschaft verpflichtet. Ein wesentlicher Bestandteil der 
+Integrität ist die Einhaltung der geltenden Gesetze und Unternehmens-
+leitlinien. Evotec toleriert keinerlei Verstöße gegen geltendes Recht oder 
+interne Vorschriften. 
+Die Überwachung des Compliance-Programms obliegt dem Compliance 
+Officer und den ihm unterstellten Mitarbeitern. Dies ist eine unabhängige 
+und objektive Funktion, die alle Fragen der Compliance prüft und bewertet. 
+Das Compliance-Programm umfasst unseren Verhaltenskodex, Richtlinien, 
+Schulungen sowie eine spezielle Meldeplattform und einen funktionsüber-
+greifenden Compliance-Ausschuss:
+Compliance-Schulungen: 
+Alle neuen Mitarbeiter nehmen an Compliance-Schulungen teil, die 
+konzernweit in elektronischer Form angeboten werden. Derzeit erfolgt 
+das Angebot über einen externen Bildungsanbieter. Nach dem Roll-out 
+der internen Schulungsplattform EVOacademy im ersten Quartal 2022 
+muss das Programm in regelmäßigen Abständen wiederholt werden. 
+Zur Verbesserung des Schulungsprogramms wurde im August 2021 der 
+konzernweite Roll-out einer neuen, ebenfalls elektronischen Schulung 
+zum Thema Datenschutz abgeschlossen. Auch diese Schulungen erfolgen 
+derzeit über einen externen Bildungsanbieter. Die Teilnahme an beiden 
+Schulungen ist für alle Vorstandsmitglieder und Mitarbeiter verpflichtend. 
+Ziel des Trainings ist die Sensibilisierung für Compliance-Themen, um zu 
+gewährleisten, dass jede Entscheidung den Richtlinien des Unternehmens 
+entspricht und Compliance-Risiken auf ein Minimum reduziert werden.
+Die Abteilung Global Compliance überwacht die Teilnahme in regelmä-
+ßigen Abständen. Den gesetzlichen Anforderungen entsprechend wird 
+das Compliance-Programm bei der Konzerngesellschaft Aptuit (Verona) 
+S.r.L. zusätzlich durch ein Aufsichtsgremium überwacht, das sich aus 
+Mitarbeitern und externen, unabhängigen Beratern zusammensetzt. Das 
+Compliance-Modell für Aptuit (Verona) S.r.l. wird regelmäßig dem Unter-
+nehmensgegenstand und den geltenden Gesetzen angepasst. 
+Verhaltenskodex:
+Evotecs Verpflichtung zu einer Complianceorientierten Unterneh-
+menskultur manifestiert sich im Verhaltenskodex der Gesellschaft, der 
+Werte und Grundsätze des unternehmerischen Handelns für Vorstand, 
+Aufsichtsrat und die gesamte Belegschaft gleichermaßen vorgibt. Der 
+Verhaltenskodex ist auf der Unternehmenswebsite im Bereich „IR & ESG“ 
+veröffentlicht 
+(www.evotec.com/en/investor-relations/governance). 
+Er 
+wurde im Rahmen des US-Börsengangs an der Nasdaq im November 
+2021 aktualisiert und entsprechend umgesetzt. Die neue Fassung umfasst 
+Themen wie die Verwendung von Finanzmitteln, eine akkurate Buchhal-
+tung, Betrug und Korruption, Geldwäsche, den Umgang mit persönlichen 
+Interessenkonflikten und Insiderhandel, kartellrechtliche Vorschriften, 
+unzulässige Kursabsicherungsgeschäfte oder Verpfändung von Aktien, das 
+Arbeitsumfeld unserer Mitarbeiter, Umwelt, Gesundheit und Sicherheit, 
+Tierschutz, Patente, Schutzrechte und Vertraulichkeit, persönliche Daten, 
+globaler Handel, allgemeine Meldepflichten, Meldepflichten gegenüber 
+der US-Börsenaufsichtsbehörde sowie Verantwortung für den Verhal-
+tenskodex.
+Konzernrichtlinien:
+Neben dem Verhaltenskodex hat die Abteilung Global Compliance mehrere, 
+konzernweit für alle Mitarbeiter geltenden Compliance-Richtlinien etab-
+liert, einschließlich der Mitglieder des Vorstands und des Aufsichtsrats. 
+Aktuelle Richtlinien:
+ 	 Richtlinie zur Bekämpfung von Betrug und Korruption  
+(neu seit November 2021); 
+ 	 Richtlinie zu Insider-Informationen  
+(überarbeitete Fassung vom November 2021); 
+ 	 Richtlinie zur Meldung von und zum Umgang mit Verstößen  
+(Whistleblowing), und 
+ 	 Richtlinie zum Schutz persönlicher Daten (neu seit August 2021)
+Im August 2021 wurde über das elektronische Personalverwaltungssystem 
+ein Prozess eingerichtet, über den alle Mitarbeiter auf elektronischem 
+Wege bestätigen müssen, dass sie die Compliance-Richtlinien gelesen und 
+verstanden haben. Diese Art der Kenntnisnahme ist auch dann erforder-
+lich, wenn neue Richtlinien festgelegt oder bestehende aktualisiert werden.
+Meldeplattform
+Ein weiterer wichtiger Aspekt von Rechenschaft und Transparenz ist die 
+Möglichkeit, Befürchtungen auf verantwortungsvolle und effektive Weise 
+Ausdruck zu geben. Wir bei Evotec engagieren uns für eine Speak-up-Kultur. 
+
+3 6
+3 6
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Mitarbeiter können mögliche Verstöße gegen Gesetze und Vorschriften 
+dem verantwortlichen Manager, dem Compliance Officer des Konzerns, der 
+Abteilung Global Compliance oder anderen Abteilungsleitern oder Personen 
+mit relevanten Funktionen melden. Im Januar 2020 wurde eine webbasierte 
+Meldeplattform eingerichtet, über die sich Mitarbeiter vertraulich und 
+unter Gewährleistung des Datenschutzes äußern können. Die Plattform 
+ist über folgenden Link erreichbar https://evotecgroup.integrityline.org/. 
+Hier finden die Mitarbeiter und externen Stakeholder von Evotec einen 
+Kanal, über den compliancerelevante Bedenken, wie etwa mutmaßliches 
+oder beobachtetes Fehlverhalten, Verstöße gegen den Verhaltenskodex oder 
+andere Verstöße gegen Vorschriften, geäußert werden können. EVOwhistle 
+ist eine zweckgebundene und sichere Website, die außerhalb des Unterneh-
+mensnetzwerks gehostet wird. Sie soll ein zuverlässiges System schaffen, 
+das sowohl dem Meldenden als auch der Person, die unter Verdacht steht, 
+Schutz bietet. Im Jahr 2021 wurden acht Fälle über dieses System gemeldet. 
+Sechs davon betrafen Fragen zum Thema Compliance und zwei bein-
+halteten Befürchtungen/Vorfälle. 
+Zur Gewährleistung einer zeitnahen, fairen und professionellen Untersu-
+chung und gegebenenfalls geeigneter Folge- bzw. Korrekturmaßnahmen 
+erfolgt die Bearbeitung der Vorfälle, die der Abteilung Global Compli-
+ance gemeldet werden, nach den Richtlinien zur Meldung von und zum 
+Umgang mit Verstößen. Das Whistleblowing spielt bei der Identifizierung 
+Die Bewertung des Bereichs Compliance umfasst die Meldeplattform 
+EVOwhistle, die Einführung automatischer elektronischer Erinnerungen 
+zur Teilnahme an Schulungen und zur Kenntnisnahme von Richtlinien 
+sowie das Compliance-Managementsystem gemäß ISO 37301:2021, das im 
+3. Quartal 2021 eingerichtet wurde. Unsere Compliance-Abteilung befasst 
+sich mit einem weiten Bereich von Themen im sozialen und wirtschaftlichen 
+Bereich. Bisher wurden keine wesentlichen Probleme im Zusammenhang 
+mit der Nichteinhaltung von Vorschriften gemeldet 
+ZIEL
+MASSNAHME
+BETROFFENE GRUPPEN
+FRIST
+STAND
+Auffrischungsschulungen
+Durchführung von Auffrischungsschulungen 
+mindestens für diejenigen Mitarbeiter, die das 
+Compliance-Training vor 2021 absolviert haben; 
+nach dem Roll-out der EVOacademy für alle 
+Mitarbeiter
+Evotec Group
+ 2022
+ausstehend
+Einführung eines Compli-
+ance-Managementsystems 
+gemäß ISO 37301:2021
+Umsetzung verschiedener dokumentierter 
+Abläufe und Verfahren
+regional (Hamburg) und 
+inhaltlich beschränkt (die 
+Umsetzung übernimmt 
+die Abteilung Global 
+Compliance in Hamburg)
+2022 – geplant ist 
+eine Ausweitung 
+auf weitere 
+Gruppen im Jahr 
+2023
+in Bearbeitung
+von Risikothemen eine große Rolle, und jeder Meldende ist vor negativen 
+Auswirkungen geschützt, auch wenn sich später herausstellt, dass die 
+Meldung grundlos war, oder wenn ein Fehlverhalten sich nicht bestätigt. 
+Aktives Engagement in diesem Bereich verstehen wir als gute Unterneh-
+menskultur. Über die Plattform EVOwhistle können Vorfälle auch anonym 
+gemeldet werden. 
+Compliance-Ausschuss:
+ Es wurde ein Compliance-Ausschuss eingerichtet, der sich aus Funktionen 
+der Konzernabteilungen Global Compliance, Risikomanagement und 
+interne Revision zusammensetzt. Zweck des Ausschusses ist eine gemein-
+same Ausrichtung in Fragen der Compliance zur Gewährleistung der funk-
+tionsübergreifenden Kommunikaiton zwischen den Schutzmechanismen 
+der zweiten und dritten Ebene. Nach der ersten Sitzung im Dezember 2021 
+tritt der Ausschuss regelmäßig zusammen.
+Tierschutz: 
+An allen Standorten sind Tierwohlbeauftragte und Veterinäre beschäftigt, 
+die die forschenden Abteilungen beraten, unterstützen und kontrollieren 
+sowie zum tierschutzgerechten Handeln anleiten. Zudem wird der Einsatz 
+eines Compliance-Tools (Croneri) die Standorte dabei unterstützen, 
+jederzeit die aktuellen lokalen Rechtsvorschriften und Compliance-Anfor-
+derungen zu erfüllen.
+6.2. Bekämpfung von Korruption 
+Evotec versteht Risiko- und Chancenmanagement als die fortwährende 
+Aufgabe, Risiken zu identifizieren, zu analysieren und zu vermindern. Dazu 
+zählt auch, geeignete Gegenmaßnahmen zu ergreifen, um potenziellen und 
+tatsächlichen Entwicklungen sowohl innerhalb des Unternehmens als auch 
+in dessen Geschäftsumfeld zu begegnen. Dies schließt auch die für Evotec 
+wesentlichen Sachverhalte mit ein, die unter die gesetzlichen Vorgaben zur 
+nichtfinanziellen Berichterstattung fallen, wie etwa Risiken im Zusammen-
+hang mit Arbeitnehmerbelangen, Korruption und Menschenrechten.
+Das Ziel im Hinblick auf Korruptionsthemen lautet: keine Vorfälle. 
+Tatsächlich sind bei Evotec bis heute keine Fälle von Korruption bekannt. 
+Im November 2021 wurde eine spezielle Richtline zur Bekämpfung 
+von Korruption und Bestechung eingeführt, die von allen Mitarbeitern 
+sowie den Mitgliedern des Vorstands und des Aufsichtsrats zur Kenntnis 
+TABELLE 16: COMPLIANCE-ZIELE
+
+3 7
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+genommen werden muss. Diese Richtlinie ergänzt den Verhaltenskodex 
+des Unternehmens und ist Ausdruck der Nulltoleranz gegenüber jeder Art 
+von Bestechung, unzulässigen Zuwendungen oder Korruption. Unseren 
+Mitarbeiter ist es untersagt, Gegenstände oder Dienstleistungen von Wert 
+(einschließlich Geschenke, Bewirtungs- oder Unterhaltungsangebote) 
+anzunehmen oder zu gewähren, um sich auf unzulässige Weise einen 
+Geschäftsvorteil zu verschaffen oder diesen zu bewahren. Es ist den 
+Mitarbeitern ebenfalls untersagt, Gegenstände oder Dienstleistungen von 
+Wert für unzulässige Geschäftszwecke zu verlangen oder anzunehmen. Die 
+Richtlinie soll Vorfälle von Bestechung verhindern, jeden Anschein der 
+Unredlichkeit vermeiden und gewährleisten, dass Evotec Anfragen zum 
+Geschäftsgebaren unverzüglich und effektiv beantworten kann. Verstöße 
+ZIEL
+MASSNAHME
+BETROFFENE  
+GRUPPEN
+FRIST
+STAND
+Wirtschaftskriminalität/Betrug 
+verhindern/vorbeugen
+Einstellung eines Experten für die Bekämpfung 
+von Wirtschaftskriminalität
+nicht definiert
+Ende 2022
+ausstehend
+Dokumentation der Über-
+wachung im Hinblick auf die 
+Richtlinie zu Korruption und 
+Bestechung
+Weitere Definition und Dokumentation von 
+Abläufen und Verfahren zur Überwachung der 
+Einhaltung dieser Richtlinie
+nicht definiert
+2022/2023
+ausstehend
+TABELLE 17: MASSNAHMEN ZUR BEKÄMPFUNG VON KORRUPTION
+gegen diese Richtlinie können Disziplinarmaßnahmen bis hin zur Kündi-
+gung nach sich ziehen. 
+Ein weiterer Aspekt im Kontext von Antikorruption ist die Vermeidung 
+von Geschäften mit Personen oder Organisationen, die in internationalen 
+Sanktionslisten geführt werden. 
+a)	Seit Ende 2017 verfolgt Evotec einen systematischen Ansatz, der sicher-
+stellen soll, dass entsprechende Personen oder Organisationen vor dem 
+Eintritt in Geschäftsbeziehungen überprüft und identifiziert werden.
+b)	Darüber hinaus wurde im März 2021 eine neue Reiserichtlinie einge-
+führt, die Vorschriften und Genehmigungsprozesse für Geschäftsreisen 
+beinhaltet.
+Die Richtlinie zur Bekämpfung von Korruption und Bestechung wurde 
+erst kürzlich eingeführt. Im Geschäftsjahr 2022 können unregelmäßige 
+Überprüfungen von Reisekostenabrechnungen durch die Abteilung Global 
+Compliance erfolgen oder die Revision mit einer konkreten Überprüfung 
+beauftragt werden.
+6.3. Menschenrechtsfragen 
+Die klassischen Menschenrechtsthemen wie z. B. Arbeits- und Sozialstan-
+dards werden im Abschnitt SOZIALES umrissen. Die Tätigkeit der Wirkstoff-
+forschung und -entwicklung bringt jedoch spezifische Herausforderungen 
+mit sich. Dazu zählen insbesondere die Verwendung von menschlichem 
+Gewebe und menschlichen Zellen und der Einsatz von Tieren für Versuchs-
+zwecke. In diesem Zusammenhang stellen sich Evotec Fragen der Menschen-
+rechte und Bioethik.
+6.3.1. VERANTWORTLICHER UMGANG  
+MIT MENSCHLICHEN GEWEBEPROBEN
+Menschliche Bioproben sind für die Identifizierung neuer und besserer 
+Prophylaxe-, Diagnose- und Behandlungsmethoden gegen verschiedene 
+Krankheiten von entscheidender Bedeutung. Sie zählen zu den wert-
+vollsten Ressourcen der biomedizinischen Forschung. Als Partner in der 
+Arzneimittelforschung und -entwicklung ist Evotec häufig auf den Einsatz 
+von menschlichen Bioproben und dazugehörigen Daten angewiesen. Damit 
+tragen wir eine große Verantwortung gegenüber den Spendern und nutzen 
+solche Proben konsequent auf ethisch vertretbare Weise und nur mit der 
+Zustimmung der Spender. Wir ergreifen technische und organisatorische 
+Maßnahmen, um die Privatsphäre der Spender unter allen Umständen zu 
+schützen. Vor diesem Hintergrund wurde die Bioethik im Rahmen unserer 
+Wesentlichkeitsanalyse als für das Unternehmen und seine Investoren 
+äußerst wichtiger Bereich eingestuft, einerseits basierend auf unseren 
+allgemeinen Nachhaltigkeitsstandards andererseits resultierend aus zahl-
+reichen internen Diskussionen.
+Wir nutzen menschliche Bioproben (z. B. Blut, Urin, Gewebe) von Pati-
+enten und gesunden Spendern, um Daten für die Präzisionsmedizin, die 
+Diagnostik und die Wirkstoffforschung und -entwicklung zu erzeugen 
+– letztendlich mit dem Ziel, die Gesundheit der Menschen in aller Welt zu 
+verbessern. Menschliche Bioproben und relevante klinische Daten erhalten 
+wir auf verschiedenen Wegen: über strategische Partnerschaften mit großen 
+Kliniken, über gesponserte Studien unserer Kunden oder durch den Ankauf 
+von Händlern oder Biobanken. Ein Beispiel für Evotecs Einfluss in diesem 
+Bereich ist die Rolle des Unternehmens als Kapitalgeber und strategischer 
+Partner der National Unified Renal Translational Research Enterprise 
+(NURTuRE), die erste Nieren-Biobank für England, Schottland und Wales 
+und eine wichtige Ressource der Nierenforschung. In einem ähnlichen Fall 
+unterhält Evotec eine strategische Partnerschaft mit der britischen Biobank 
+Quality and Organ Donation zur Förderung der Organtransplantation, 
+Wirkstoffforschung und der klinischen und Biomarker-Forschung. Darüber 
+hinaus nutzt Evotec im Rahmen des internen EVOgnostic-Programms eine 
+molekulare Patientendatenbank (E.MDP), die durch das Sammeln wertvoller 
+Humandaten entstanden ist, zur Patientenstratifizierung auf der Basis von 
+Omik- und Biomarker-Daten. Diese Datenbank kommt auch in der Wirkstoff-
+forschung mit strategischen Partnern wie Chinook und Novo Nordisk zum 
+Einsatz, um Behandlungsmethoden für Patienten mit lebensbedrohlichen 
+Nierenerkrankungen zu finden. 
+
+3 8
+3 8
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+ZIEL
+MASSNAHME
+BETROFFENE 
+GRUPPEN
+FRIST
+STAND
+Einrichtung des HBSO für das 
+Bioprobenmanagement
+Der Bereich HBSO nimmt seine Arbeit im Jahr 2021 auf
+Evotec Group
+2021
+erledigt
+Interne Veröffentlichung einer 
+Richtlinie zur Verwendung von 
+menschlichen Bioproben
+Veröffentlichung der Richtlinie im 2. Quartal 2022
+Evotec Group
+2. Quartal 2022
+in Bearbeitung
+Global einheitliche Gestaltung 
+der Dokumentation (Weisungen, 
+Standardverfahrensanweisungen, 
+Arbeitsanleitungen) an allen 
+Standorten unter Einhaltung der 
+Richtlinie zur Verwendung von 
+menschlichen Bioproben
+– Inkraftsetzen aller Richtlinien und von 70 % der 
+konzernweiten Standardver-fahrensanweisungen bis  
+Ende 2022
+– Inkraftsetzen von 90 % der konzernweiten 
+Standardverfahrensanweisungen bis Ende 1. Quartal 2023
+– Anpassung von 90 % der lokalen 
+Standardverfahrensanweisungen/Arbeitsanleitungen an die 
+konzernweiten Vorgaben bis Ende 2. Quartal
+Evotec Group
+2. Quartal 2023
+in Bearbeitung
+Einrichtung & Entwicklung des 
+Bioprobenmanagementsystems 
+nach dem Modell von Göttingen
+– Regelmäßige Aufgaben: Prüfung, Bewertung und 
+Dokumentation des Fortschritts in Bezug auf Aufgaben  
+und Zeitvorgaben 
+– Einholung von Mitarbeiterfeedback für die weitere 
+Optimierung des Systems
+Evotec Göttingen
+4. Quartal 2021
+erledigt
+Auflistung der erforderlichen 
+Dokumente (Standardverfahrens-
+anweisungen, Protokolle gem. 
+ISBER-Richtlinien)
+– Regelmäßige Aufgaben: Prüfung, Bewertung und 
+Dokumentation des Fortschritts in Bezug auf Aufgaben und 
+Zeitvorgaben
+– Bewertung und Prüfung der vorgelegten Dokumente durch 
+Rechtsabteilung und Qualitätsmanagement im Hinblick auf 
+Regelkonformität und Anwendbarkeit 
+Evotec Göttingen
+4. Quartal 2021
+erledigt
+Entwicklung von Dokumenten 
+und Arbeitsabläufen für 
+Kooperationen und strategische 
+Partnerschaften, in denen 
+menschlichen Bioproben zum 
+Einsatz kommen
+– Regelmäßige Aufgaben: Prüfung, Bewertung und 
+Dokumentation des Fortschritts in Bezug auf Aufgaben und 
+Zeitvorgaben 
+– Einholung von Mitarbeiter-Feedback 
+– Überwachung der aktuellen regulatorischen Anforderungen 
+und ggf. daraus resultierende Anpassungen
+Evotec Göttingen
+4. Quartal 2022
+in Bearbeitung
+TABELLE 18: ZIELE IM BEREICH BIOETHIK
+Evotec etabliert ethische Grundsätze und Regeln für alle Mitarbeiter gemäß 
+den jeweils geltenden lokalen gesetzlichen Bestimmungen. Dasselbe 
+erwarten wir von unseren Geschäftspartnern und Zulieferern. 
+Wir schätzen die Spender von Bioproben für die biomedizinische Forschung 
+sehr und stellen sicher, dass diese Proben unter Einhaltung ethischer Grund-
+sätze und geltender Gesetze und nur mit der Zustimmung des Patienten 
+entnommen, transportiert, gelagert und verwendet werden. Dies gilt für 
+Evotec selbst ebenso wie für unsere Partner. Das Spenden von Biomaterial für 
+die biomedizinische Forschung verdient unseren Respekt und verpflichtet 
+uns dazu, für den Schutz der Persönlichkeitsrechte der Spender zu sorgen. 
+Um zu gewährleisten, dass die von Evotec verwendeten menschlichen 
+Proben unter Einhaltung ethischer Grundsätze und geltender Gesetze und 
+Vorschriften gewonnen wurden, werden die Anbieter von menschlichem 
+Biomaterial von uns regelmäßig überprüft.
+Menschliche Bioproben kommen an vielen unserer Standorte in unter-
+schiedlichen Zusammenhängen zum Einsatz. Dafür wurde auf lokaler Ebene 
+ein Probenmanagement eingerichtet, das den Erwerb, die Lagerung, die 
+Verarbeitung und den Umgang mit menschlichen Proben, klinischen und 
+probenbasierten Daten und Dokumentation beinhaltet und gewährleistet, 
+dass diese sowohl den lokalen Gesetzen als auch internationalen Richtlinien 
+entsprechen. Für einen einheitlichen Umgang mit menschlichen Proben an 
+allen Standorten und zur weiteren Verbesserung des Probenmanagements 
+und der dazugehörigen Belange wurde im 4. Quartal das System Human 
+Biosample Strategy and Operations (HBSO) eingerichtet. Es wird die Tätig-
+keiten, bei denen menschliche Proben zum Einsatz kommen, unter dem 
+Dach von Evotec Discovery zusammenführen und so Expertise in ethischen, 
+rechtlichen und logistischen Fragen bündeln. Ein Beispiel für die Tätig-
+keiten des Bereichs ist die Ausarbeitung einer Richtlinie zu menschlichen 
+Bioproben sowie die Schaffung einer Struktur zur Aufbewahrung solcher 
+Proben und der dazugehörigen Daten.
+Viele aktuelle Fragen zur ethischen Verwendung von Bioproben gehen über 
+den Anwendungsbereich der derzeit geltenden Gesetzgebung hinaus. Wir 
+verfolgen die Debatten und pflegen den Dialog mit Stakeholdern, Unter-
+nehmen und Experten in diesem Bereich. Dies geschieht nicht zuletzt über 
+Mitgliedschaften und aktives Engagement in Expertenverbänden wie der 
+International Society for Biological and Environmental Repositories (ISBER).
+
+3 9
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Die Methode des Bioprobenmanagements und seiner Wirksamkeit wird 
+regelmäßig unter dem Gesichtspunkt der jüngsten Entwicklungen auf 
+dem Gebiet der Bioethik überprüft. Der Einsatz von Humanproben gibt viel 
+Anlass zu Diskussionen, insbesondere im Hinblick auf neue Technologien. 
+Zur Gewährleistung des bestmöglichen Umgangs mit Humanproben bringt 
+Evotec das eigene Wissen in diese Debatten ein und profitiert zugleich von 
+der Fachkenntnis anderer. Somit werden interne Prozesse regelmäßig im 
+Hinblick auf ihre Robustheit und Wirksamkeit bewertet und erforderlichen-
+falls angepasst.
+6.3.2. KRANKHEITSMODELLIERUNG MIT IPSC
+Induzierte pluripotente Stammzellen (iPSC) sind für die Entwicklung 
+menschlicher Krankheitsmodelle und die regenerative Medizin von großer 
+Bedeutung. Sie potenzieren die Chancen, über Screening-Formate neue Wirk-
+stoffe zu entdecken, sodass Zelltherapien zur Behandlung lebensbedrohlicher 
+Erkrankungen entwickelt werden können. Durch die Umprogrammierung 
+somatischer Zellen von gesunden oder erkrankten Spendern in induzierte 
+pluripotente Stammzellen ist eine Plattform entstanden, die Zusammen-
+hänge zwischen Krankheitsverlauf und genetischer Prädisposition herstellen 
+kann. Im Rahmen der Forschungsallianz mit Bristol Myers Squibb hat Evotec 
+im Jahr 2021 Meilensteine erreicht, die den Fortschritt in diesem Bereich 
+bescheinigen. Zudem wurde die Zusammenarbeit um zusätzliche Bereiche 
+erweitert (weitergehende Informationen finden Sie im Konzernlagebericht).
+Induzierte Stammzellen sind keine natürlichen Zellen. Sie werden vielmehr 
+durch Ko-Expression von spezifischen Transkriptionsfaktoren in Kulturen 
+aus somatischen Zellen hergestellt. Im Gegensatz zur Gewinnung von 
+embryonalen Stammzellen (ESC) ist die Vernichtung von Präimplantati-
+onsembryos hier nicht erforderlich. Induzierte Stammzellen werden mit 
+Zustimmung der Patienten aus menschlichem Gewebe gewonnen und sind 
+aus ethischer Sicht unproblematisch. Evotec arbeitet in diesem Bereich mit 
+zugelassenen Partnern zusammen, die darauf spezialisiert sind, unter den 
+Teilnehmern klinischer Studien Spender zu werben. Auch die Zustimmung 
+wird von klinischen Experten eingeholt. Patienteninformationen zu den 
+Forschungsaktivitäten erfolgen nach dem Prinzip der Verblindung im Vorfeld 
+der Zustimmungserklärung. Erst wenn ein Patient seine Zustimmung erklärt 
+hat, werden ihm von unseren Partnern Gewebeproben entnommen. Ab 
+diesem Zeitpunkt werden die Proben unter einer eindeutigen Kennnummer 
+geführt, und es werden zum Schutz der Rechte der Patienten keinerlei perso-
+nenbezogene Daten an Evotec weitergegeben. Patienten können ihre Zustim-
+mung am Ort der klinischen Studie oder über den Partner zu einem späteren 
+Zeitpunkt zurücknehmen. Evotec ist dann verpflichtet, die betroffenen 
+Proben und alle dazugehörigen Derivate zu vernichten. Dabei ist wichtig zu 
+erwähnen, dass die meisten von Partnern hergestellten iPSC-Linien nicht der 
+Exklusivität unterliegen. Sie stehen vielmehr der gesamten Forschung offen. 
+Die Umprogrammierung in iPSC-Zellen erfolgt nach standardisierten 
+Verfahren am Standort der Partner oder bei Evotec selbst. Bei seltenen 
+Krankheiten, die nur einen geringen Anteil der Bevölkerung betreffen, und 
+bei bestimmten Mutationen, für die kaum Patienten zu finden sind, kommt 
+Gentechnologie zum Einsatz. So werden krankheitsspezifische Mutationen 
+in iPSC-Linien eingeführt. Diese Methode ist immer dann erforderlich, wenn 
+die Patientenpopulation zu klein ist, um Patienten zu pseudonymisieren. Die 
+Kryolagerung der iPSC-Linien erfolgt an den dafür vorgesehenen Standorten 
+von Evotec. Um langfristig Sicherheit und Beständigkeit zu gewährleisten, 
+wird jede Zelllinie in kleinerer Quantität gespiegelt und in Zellbanken an 
+verschiedenen Standorten gelagert.
+  6.3.3. STANDARDS IM TIERSCHUTZ 
+Im Rahmen unserer Forschungstätigkeiten setzen wir uns sehr hohe 
+Standards beim Tierschutz. Parallel dazu bemühen wir uns stark um eine 
+Reduzierung der Tierversuche. Tierschutz bedeutet für uns immer auch 
+Mitarbeiterschutz, denn hier bietet sich die Möglichkeit zur Reduzierung 
+psychischer Belastungen – eine der Zielsetzungen im Bereich EHS. Höchste 
+Ansprüche beim Tierschutz – und zugleich auch beim Mitarbeiterschutz 
+– über die geltenden Vorschriften hinaus sind daher Teil unserer Unterneh-
+mensphilosophie. Evotec unterstützt verschiedene freiwillige Initiativen, 
+wie etwa die Culture of Care, die im Jahr 2022 zur Verbesserung der in-vivo-
+Forschung umgesetzt werden soll.
+Im Bereich der Tierversuche finden die 3R-Prinzipien Anwendung. Ziel ist 
+es, Tierversuche allgemein zu vermeiden (Replacement), die Zahl der Tiere 
+zu reduzieren (Reduction) und ihr Leiden zu minimieren (Refinement). 
+Das 3R-Prinzip wirkt auf einen guten Schutz für Versuchstiere hin und ist 
+integraler Bestandteil unserer Forschungs- und Entwicklungsprozesse. Die 
+Anwendung zusätzlicher R-Prinzipien wie Respekt und Reproduzierbarkeit 
+wird sehr begrüßt. Als Anreiz zur Verbesserung von Prozessen können sich 
+Mitarbeiter des Laborpersonals für eine interne Auszeichnung qualifizieren, 
+indem sie Initiativen zur Umsetzung der 3R-Prinzipien anstoßen.
+Mit dem Ziel, den Einsatz von Tieren in der Forschung und Entwicklung so 
+weit wie möglich zu minimieren, greift Evotec in der Wirkstoffentwicklung 
+schon heute auf eine breite Palette von pharmakologischen In-vitro-Versuchen 
+zurück. Bei solchen Versuchen in der Kulturschale können die verschie-
+densten Parameter an humanen Zelllinien und Geweben getestet werden. 
+Auch der Einsatz neuester Technologien, wie bildgebende und zunehmend 
+nicht-invasive Verfahren (z. B. Lichtschranken), verfeinerte Methoden und 
+die Beratung durch Biostatistiker stehen im Sinne des 3R-Prinzips. 
+In der Umsetzung der „Replace“-Leitlinie der 3Rs erkennen wir großes Poten-
+zial. Bei Evotec werden eine Reihe von Methoden genutzt (in-vitro-, in-silico-, 
+computergestützte Forschung), die regelmäßig Tierversuche ersetzen. In 
+unserem stark wissenschaftlich geprägten Umfeld sind wir stets bemüht, die 
+neusten und besten Methoden zur Erreichung unserer Ziele einzusetzen.
+Bereits heute liefern viele Methoden, z. B. in der Zellforschung, überdurch-
+schnittlich gute Ergebnisse und ersetzen Tierversuche – insbesondere 
+solche, die eine große Zahl von Tieren erfordern würden. Den Fortschritt in 
+diesem Bereich in Zahlen auszudrücken ist schwierig, denn Evotec beginnt 
+üblicherweise mit der Ersatzmethode, sodass der Einsatz von Tierversuchen 
+von Anfang an vermieden wird. 
+Bei der Toxizitätsprüfung, ein stark regulierter Bereich, der es verdient, vom 
+Gesetzgeber einmal überarbeitet zu werden, produzieren wir so bereits heute 
+Daten mit einer deutlich höheren Vorhersagekraft als die verpflichtenden 
+Tierversuche. In diesem Bereich kann die überdurchschnittliche Performance 
+mit Zahlen belegt werden. Auf dem Gebiet der medikamenteninduzierten 
+Leberschädigungen liegt die Vorhersagegenauigkeit bei 82 %, während Tier-
+versuche eine Genauigkeit von 50 % zeigen.
+
+4 0
+4 0
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+In der Methode der Krankheitsmodellierung, wo zweimal so viele Tierver-
+suche zum Einsatz kommen wie in der Toxizitätsprüfung, sehen wir ein 
+noch höheres Potenzial zur Reduzierung von Tierversuchen. Wie zuvor 
+beschrieben, verspricht die auf Patientendaten basierende Präzisionsme-
+dizin, Krankheitsmodelle mit höherer Vorhersagekraft hervorzubringen. 
+In Deutschland kommt etwa die Hälfte der in der Arzneimittelforschung 
+verwendeten Tiere in der Krankheitsmodellierung zum Einsatz (klassifiziert 
+als Grundlagenforschung). Die Daten anderer Länder zeigen vermutlich eine 
+ähnliche Verteilung. Das Potenzial für Ersatzmethoden ist in diesem Bereich 
+des Forschungsprozesses also vermutlich noch größer als im Bereich der 
+Toxizitätsprüfung.
+Seit 2016 beschäftigt sich ein global agierendes Team von fest angestellten 
+Veterinären mit der Verbesserung und Harmonisierung von Standards 
+zwischen den unterschiedlichen Standorten. Im Jahr 2019 wurde eine 
+überarbeitete Fassung der Konzernrichtlinie zum Wohlergehen und Schutz 
+von Tieren (Global Animal Welfare Policy) eingeführt. Das Veterinärteam 
+führte außerdem neue Richtlinien zur Beibehaltung des hohen Niveaus bei 
+der Tierhygiene ein. Mit der Beschäftigung von insgesamt 20 hausinternen 
+Veterinären hebt sich Evotec von vielen anderen Unternehmen der Branche 
+ab. Im Vergleich zu 2020 wurde das Team um acht Veterinäre verstärkt. Zu 
+den Vorteilen dieser Praxis zählen die uneingeschränkte zeitnahe Verfüg-
+ABBILDUNG 25: EVOTECS NEUE VORHERSAGE-PLATTFORM
+16 %
+Aktueller Goldstandard 
+bildgebende DILI-Plattform1
+ Primäre humane Hepatozyten
+ High-Content Imaging –  
+Sieben Daten-Auslese
+VORHERSAGE GENAUIGKEIT
+70 %
+2D PHH
+Evotec’s neue DILI  
+Vorhersage-Plattform1
+ Menschliche Leber-Mikrogewebe 
+(hLiMTs)
+ High-throughput  
+Transcriptomics
+VORHERSAGE GENAUIGKEIT
+86 %
+3D hLiMT 
+pOS uP
+EVOpanOmics
+Datengenerierung
+EVOpanHunter
+Datenanalyse
+barkeit der Experten vor Ort, eine deutlich effizientere Kommunikation 
+sowie der zielgerichtete Aufbau von Wissen über unternehmensspezifische 
+Zusammenhänge und Prozesse.
+6.3.4. TIERVERSUCHE IN DER WIRKSTOFFFORSCHUNG
+Um dem aktuellen Stand für Tierversuchskunde aus Sicht des Tierschutzes 
+gerecht zu werden, stützt sich Evotec auf Empfehlungen der Gesellschaften 
+für Versuchstierkunde (GV-SOLAS, FELASA) und der Tierärztlichen Vereini-
+gung für Tierschutz (TVT). Des Weiteren haben alle Forschungsstandorte 
+die Akkreditierung der international anerkannten Tierschutzorganisation 
+AAALAC International (Association for Assessment and Accreditation of 
+Laboratory Animal Care International) beantragt und sind in vollem Umfang 
+akkreditiert worden. Die aufwendige Akkreditierung erfolgte jeweils nach 
+eingehender Prüfung der Bedingungen und Programme zur Haltung und für 
+den Einsatz der Versuchstiere sowie der fachlichen Qualifikation der Tier-
+pfleger und des wissenschaftlichen Personals. Die Akkreditierungen werden 
+im Dreijahresturnus erneuert (2021 für die Standorte Hamburg und Verona). 
+Evotec hat das Ziel, für alle sechs relevanten Standorte eine Akkreditierung 
+nach AAALAC zu erlangen, Ende 2020 erreicht. 
+1 Die Vorhersagen beruhen auf entsprechenden primären menschlichen Hepatozyten-Assays oder menschlichem Leber-Mikrogewebe in 2D, mit denen 128 Referenzsubstanzen 
+getestet wurden (die größte bekannte Datenbank von Referenzsubstanzen)
+
+4 1
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Neben der ethischen Verpflichtung zum Tierschutz ist für Evotec auch die 
+Qualität der Daten entscheidend, die im Tierversuch generiert werden. Nur 
+wenn sich die Versuchstiere wohl fühlen, so wenig wie möglich belastet sind 
+und unter guten und standardisierten Haltungsbedingungen leben, können 
+auch qualitativ hochwertige Versuchsergebnisse generiert und die Zahl der 
+Experimente auf ein Minimum reduziert werden. 
+Sämtliche Tierversuche erfolgen ausschließlich nach behördlicher Geneh-
+migung auf der Grundlage der in der europäischen Richtlinie 2010/63/
+EU ausgeführten Vorgaben bzw. der meist noch strengeren nationalen 
+Gesetzgebungen (z. B. Tierschutzgesetz, Tierschutz-Versuchstierverordnung, 
+Arzneimittelgesetz). So ist in jedem einzelnen Fall zu begründen, warum ein 
+Projekt nicht ohne Tierversuche durchgeführt werden kann. Zudem ist die 
+Anzahl der Versuchstiere auf das minimale Maß zu reduzieren, mit dem das 
+Versuchsziel erreicht werden kann.
+Die zuständigen nationalen Fachbehörden ziehen zur Beurteilung dieser 
+Anträge eine Expertenkommission zu Rate, die sich aus fachkundigen, im 
+Bereich Tierversuche erfahrenen Experten und aus Vertretern von Tier-
+schutzverbänden zusammensetzt. Darüber hinaus wird die Arbeit von Evotec 
+regelmäßig von den lokalen zuständigen Veterinärbehörden kontrolliert. 
+Intern sind an allen Standorten Gremien etabliert, die tierschutzrechtliche 
+Aspekte regelmäßig diskutieren und an die jeweils geltende Gesetzgebung 
+bzw. aktuelle Standards anpassen. 
+Der Tierschutz ist als Staatsziel in der deutschen Verfassung verankert und im 
+Tierschutzgesetz geregelt. Es ist daher wenig überraschend, dass vielfältige 
+regulatorische Anforderungen erfüllt und regelmäßige Prüfungen durch-
+laufen werden müssen. Evotec ist jederzeit und an jedem Standort offen für 
+spontane oder angekündigte Prüfungen dieser Art, sowohl in Deutschland 
+LAND
+STANDORT
+DATUM
+BEHÖRDE
+2019 
+Deutschland
+Göttingen
+28. Juni
+AAALAC
+England
+Manchester
+22. November
+AAALAC
+2020
+Deutschland
+Hamburg
+3. Juni
+Prüfung gem. § 16 TierSchG, Behörde für Gesundheit und 
+Verbraucherschutz
+Deutschland
+Göttingen
+15.Juli
+Niedersächsisches Landesamt für Verbraucherschutz und 
+Lebensmittelsicherheit
+Österreich
+Orth
+5. November
+AAALAC
+Deutschland
+Hamburg
+9. November
+Behörde für Justiz und Verbraucherschutz
+Italien
+Verona
+14. Dezember
+Italienisches Gesundheitsministerium
+2021
+Italien
+Verona
+31. Mai 31 & 1. Juni
+AAALAC
+Deutschland
+Hamburg
+7. Juli 
+Prüfung gem. Tierschutztransportverordnung
+Deutschland
+Göttingen
+18. Oktober
+unangekündigte Prüfung gem.  
+Tierschutztransportverordnung
+Italien
+Verona
+19. Oktober
+unangekündigter Besuch der Behörden
+Österreich
+Orth
+20. Oktober
+unangekündigte Prüfung gem. §32(2) TVG 2012
+Frankreich
+Toulouse
+26., 28. & 29. 
+Oktober
+AAALAC
+TABELLE 19: BEHÖRDLICHE PRÜFUNGEN UND BESUCHE VON IN-VIVO-EINRICHTUNGEN 2019-2021
+als auch an den internationalen Standorten. In den vergangenen Jahren 
+wurden von verschiedenen Regulierungsbehörden an allen sechs Standorten 
+Prüfungen oder Besuche durchgeführt. Es wurden keine wesentlichen Bean-
+standungen zurückgemeldet, und alle notwendigen Korrekturen wurden 
+innerhalb weniger Wochen oder sogar Tage vorgenommen.
+6.4. Supply Chain
+Unsere Welt ist zunehmend global und vernetzt, und Gleiches gilt für 
+unsere Lieferketten. Evotecs Erfolg beruht nicht zuletzt auch auf der guten 
+Zusammenarbeit mit Geschäftspartnern und einer zuverlässigen und 
+verantwortungsvollen Beschaffung von Materialien. Wir erwarten von 
+unseren Zulieferern, dass sie die wesentlichen Umwelt- und Sozialstandards 
+einhalten. In diesem Zusammenhang richten wir uns nach den OECD-
+Leitsätzen für multinationale Unternehmen. Eine wichtige Aufgabe ist die 
+Vorbereitung auf die Anforderungen des Lieferkettengesetzes, welches 2023 
+in Kraft treten und ab 2024 für Evotec bindend sein wird. 
+Evotecs Supply Chain Management umfasst die Bereiche Beschaffung, 
+Logistik, Facility Management und Engineering. Einerseits haben wir 
+Einfluss auf die Wahl der Zulieferer und Produkte und z. B. die damit 
+verbundenen Emissionen je angekauftes Produkt, und andererseits können 
+sich Störungen der Lieferkette in hohem Maße auf unseren Geschäftsbetrieb 
+auswirken.
+Überwachung der Supply Chain
+Evotec arbeitet mit rund 6.800 aktiven Zulieferern zusammen, davon 79 % 
+aus Europa, 20 % aus Nordamerika und 1 % aus der Region Asien-Pazifik. 
+Insgesamt stammen 99,1 % unserer Zulieferer aus OECD-Ländern.
+
+4 2
+4 2
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+Um die Einhaltung von ESG-Standards in der Lieferkette zu gewährleisten, 
+wurde 2021 auf der Grundlage von Daten aus der 2020 eingeführten Platt-
+form IntegrityNext eine Bewertungsmatrix entwickelt. Diese Plattform 
+ermöglicht, soziale Medien im Hinblick auf das Thema Nachhaltigkeit zu 
+durchsuchen und Zulieferer nach ESG-Gesichtspunkten zu bewerten. Jeder 
+Zulieferer muss Zertifikate hochladen und einen Fragebogen zu den fol-
+genden Kategorien ausfüllen: 
+ 	 Bekämpfung von Bestechung und Korruption
+ 	 Umweltschutz
+ 	 Menschenrechtsfragen und Arbeitsstandards
+ 	 Qualitätsmanagement
+ 	 Energiemanagement
+ 	 Datenschutz (DSGVO, Datenschutz-Grundverordnung)
+ 	 Konfliktmineralien
+ 	 REACH
+ 	 CO2-Fußabdruck
+Von den 6.800 Zulieferern wurden bislang 3.200 eingeladen, sich auf Inte-
+grityNext zu registrieren. Dies betrifft alle Zulieferer, mit einem Auftrags-
+volumen von mehr als 1.000 EUR seit dem 01. Januar . Bis Ende 2021 hatten 
+bereits mehr als 2.000 Zulieferer Profile angelegt. Auf diese entfallen 80 % der 
+Unternehmensausgaben. In einem nächsten Schritt sollen die verbleibenden 
+aktiven Zulieferer auf die Plattform geholt und diejenigen Profile analysiert 
+werden, die nicht ganz den Anforderungen des Unternehmens entsprechen. 
+Geeignete Korrekturmaßnahmen sollen folgen. Des Weiteren ist für 2022 
+geplant, eine Risikobewertung in den Onboarding-Prozess für neue Zulie-
+ferer zu integrieren, sodass noch vor Aufnahme der Geschäftsbeziehungen 
+Konformität gewährleistet ist.
+Um die Grundsätze ethischen Verhaltens systematisch entlang der Wertschöp-
+fungskette durchzusetzen, plant Evotec bis Mitte 2022 die Veröffentlichung 
+eines Verhaltenskodex für Zulieferer sowie neuer Einkaufsbedingungen.
+ZIEL 
+MASSNAHME
+BETROFFENE 
+GRUPPEN
+FRIST
+STAND
+ESG-Konformität der Zulieferer 
+gewährleisten
+Veröffentlichung neuer Einkaufsbedingungen
+Evotec Group
+2. Quartal 2022
+in Bearbeitung
+Veröffentlichung eines Verhaltenskodex für Zulieferer
+Evotec Group
+2. Quartal 2022
+in Bearbeitung
+Transparenz der Supply Chain 
+erhöhen
+– Verbleibende aktive Zulieferer auf die IntegrityNext-
+Plattform holen
+– Korrekturmaßnahmen mit Zulieferern vereinbaren, die 
+Evotecs Anforderungen nicht entsprechen
+Evotec Group
+laufendes 
+Programm
+in Bearbeitung
+Auswahl der Zulieferer 
+verbessern
+Integration einer Risikobewertung in den Onboarding-Prozess 
+für neue Zulieferer
+Evotec Group
+2. Quartal 2022
+in Bearbeitung
+TABELLE 20: ZIELE IM HINBLICK AUF DIE SUPPLY CHAIN
+Die entwickelte Risikomatrix beinhaltet eine Übersicht, die die Gesamt-
+bewertung unserer Zuliefererbasis im Hinblick auf die ESG-Konformität 
+abbildet. Mit Zulieferern, die nicht den Anforderungen des Unternehmens 
+entsprechen, vereinbart das Beschaffungsteam Verbesserungsmaßnahmen. 
+Im Geschäftsjahr 2022 werden Vorgaben zum Umgang mit Zulieferern 
+festgelegt, die Evotecs Anforderungen nicht erfüllen und die, insbesondere 
+im Hinblick auf ESG-Themen, auch nicht bereit sind, Verbesserungen vorzu-
+nehmen. Die Verantwortung für die Umsetzung dieser Vorgaben, die von der 
+internen Revision und dem Risikomanagement geprüft werden, tragen die 
+Beschaffungsteams.
+Im Geschäftsjahr 2021 wurden 37 % der neuen Zulieferer unter ökologischen 
+und sozialen Gesichtspunkten geprüft. Es wurden 1.701 Zulieferer im Hinblick 
+auf die ökologischen und 1.631 im Hinblick auf die sozialen Auswirkungen 
+ihrer Tätigkeiten geprüft.
+Mithilfe unserer externen Plattform IntegrityNext wurde eine durchaus 
+relevante Anzahl von Zulieferern identifiziert, deren Tätigkeiten nicht 
+sozial- bzw. umweltverträglich sind. Ursache dafür war etwa das Fehlen von 
+Zertifizierungen für die Einhaltung sozialer Standards (z. B. die Zertifizie-
+rung nach SA8000) oder das Fehlen von Umweltmanagementsystemen (z. B. 
+nach ISO  14001 oder EMAS) oder Richtlinien zu ökologischen oder sozialen 
+Themen. In anderen Fällen fehlten die diesbezüglichen Angaben.
+  6.5. IT-Sicherheit 
+In einem Umfeld, in dem der Schutz des geistigen Eigentums ein entschei-
+dender Wettbewerbsfaktor ist, sind die Sicherheit, Qualität und Integrität 
+der Informationstechnologie Grundvoraussetzung für den Erhalt der 
+eigenen Reputation. Aus diesem Grund ist die Informationssicherheit für 
+Evotec von größter Bedeutung. Dazu zählt nicht nur der Schutz des geistigen 
+Eigentums, sondern auch der Schutz der Kunden, Mitarbeiter und sonstigen 
+Stakeholder. Um die Geschäftskontinuität und Gesetzeskonformität des 
+Unternehmens sowie die Einhaltung interner Standards zu gewährleisten, 
+ist die Informationssicherheit fest in unserer Führungsstruktur verankert. 
+Die Vertraulichkeit, Verfügbarkeit und Integrität der Datenbestände ist von 
+essentieller – im Hinblick auf Vertrauen und Privatsphäre auch strategischer 
+– Bedeutung. Digitale Technologien sind auf dem Vormarsch, und Evotecs 
+Geschäftsbereiche sind fast ausnahmslos dem Risiko von Cyberangriffen 
+ausgesetzt. Zum Erhalt unserer operativen Performance beabsichtigen wir 
+daher, die Mechanismen zum Schutz unserer Daten und Informationssys-
+teme zu verstärken.
+Zur Steuerung der Informationssicherheitsrisiken wurde ein Management-
+system für Informationssicherheit (Information Security Management 
+System, ISMS) gemäß ISO/IEC 27001 eingerichtet. Teil davon ist die 
+Entwicklung standardisierte Informationssicherheitsprozesse und die 
+
+4 3
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Sensibilisierung der Mitarbeiter für Aspekte der Informationssicherheit. 
+Die Verantwortung für das ISMS tragen der Chief Finance Officer (CFO) und 
+der Chief Operations Officer (COO). Die Abstimmung der Strategie mit dem 
+Vorstand und die Sicherung ausreichender Mittel und Ressourcen obliegen 
+dem Leiter der Informationstechnologie. Er unterrichtet den Vorstand 
+laufend über die aktuellen Entwicklungen bei wichtigen Sicherheitsfragen.
+ 
+Unser Ansatz der Informationssicherheit ist die Gewährleistung der Vertrau-
+lichkeit, Integrität und Verfügbarkeit unserer Datenbestände, Informationen 
+und IT-Dienste durch den Schutz vor nicht autorisiertem Zugriff oder nicht 
+autorisierter Verwendung, Offenlegung, Störung, Änderung, Speicherung 
+oder Zerstörung. Ein proaktiver Ansatz, das heißt die Bewertung und 
+Minderung von Risiken durch geeignete Maßnahmen, ist unseres Erachtens 
+der Schlüssel zu einer nachhaltig gesicherten Performance. Unser Erfolg 
+beruht auf dem Prinzip der ständigen Verbesserung: Mit dem Status quo 
+geben wir uns niemals zufrieden. Unseren Mitarbeitern stehen jederzeit 
+Schulungsangebote offen, die über die sich ändernden Bedrohungen 
+informieren und die Mitarbeiter dafür sensibilisieren, wie Zwischenfälle 
+verhindert werden können. Ziel ist es, eine gemeinsame Sprache und ein 
+gemeinsames Verständnis für Aspekte der Informationssicherheit zu entwi-
+ckeln. Um den Interessen unserer Stakeholder Rechnung zu tragen, wurden 
+ihre Anforderungen in die Strategien zur Informationssicherheit, die sich 
+in der Einrichtung des ISMS manifestieren, integriert. Die Einhaltung der 
+geltenden gesetzlichen und regulatorischen Anforderungen ist ein wesentli-
+cher Aspekt des ISMS. Um diese zu gewährleisten, wird das System laufend 
+im Hinblick auf die aktuellen Entwicklungen geprüft, damit Möglichkeiten 
+zur Verbesserung identifiziert werden.  
+Ziel ist die Zertifizierung des ISMS nach ISO/IEC 27001 im Geschäftsjahr 
+2023. Die Tätigkeiten in diesem Zusammenhang werden entsprechend 
+priorisiert.
+TABLE 21: IT GOALS
+ZIEL
+MASSNAHME
+BETROFFENE 
+GRUPPEN
+FRIST
+STAND
+ISO/IEC 
+27001
+Zertifizie-
+rung
+Konzernweiter 
+Roll-out des 
+ISMS und 
+Zertifizierungs­
+audit
+Evotec 
+Group
+2023
+in Bearbetung
+6 Die internationale Norm ISO/IEC 27001 spezifiziert die Best Practice für 
+Managementsysteme für Informationssicherheit. Die akkreditierte Zertifizierung 
+nach ISO 27001 ist ein Nachweis dafür, dass Evotec den aktuellen Standards der 
+Informationssicherheit folgt. Sie ist eine unabhängige, fachliche Prüfung der 
+Informationssicherheit nach internationalen Standards unter Berücksichtigung 
+geschäftlicher Zielsetzungen.
+Das ISMS beruht auf der ISO/IEC 27001. Der darin enthaltene PDCA-
+Zyklus ("plan-do-check-act") gewährleistet regelmäßige Überprüfungen 
+und die kontinuierliche Verbesserung des Systems selbst. Neben den 
+Prozessen zur Steuerung der Informationssicherheitsrisiken erfolgt die 
+Beurteilung des ISMS anhand verschiedener Prüfungen, darunter interne 
+Sicherheitsbewertungen/-tests, Prüfungen auf der Führungsebene sowie 
+interne und externe Audits. Die Ergebnisse dieser Beurteilung dienen als 
+Grundlage für die Bestimmung von Inkonsistenzen und nötigen Korrektur-
+maßnahmen. Eine erkannte Nichtkonformität oder Korrekturmaßnahme 
+führt zu Schutzmaßnahmen wie Prozess-/Verfahrensupdates oder der 
+Verstärkung der Sicherheitsmechanismen und unterstützt somit Systemver-
+besserungen und die Behebung von Systemschwächen.
+In den Jahren 2020 und 2021 wurden Evotec keine Beschwerden in Bezug auf 
+den Schutz oder Verlust von Kundendaten von Außenstehenden und/oder 
+Aufsichtsbehörden gemeldet.
+
+4 4
+4 4
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+7. Ausblick
+Das Prinzip der Nachhaltigkeit ist fest in unserem Geschäftsmodell verankert, 
+und es ist ein integraler Bestandteil unserer Unternehmenskultur. Durch 
+neue Strukturen für ein systematisches Nachhaltigkeitsmanagement haben 
+wir in diesem Bereich beachtliche Fortschritte erzielt. Die zunehmende 
+Digitalisierung der wesentlichen Leistungsindikatoren für ESG-Aspekte 
+unterstützt unseren integrierten Ansatz zur Ausrichtung der Unter-
+nehmens- und Nachhaltigkeitsstrategie sowohl auf die Anforderungen der 
+Stakeholder als auch auf die Bedürfnisse des Planeten. Unvoreingenommene 
+Entscheidungen auf der Grundlage von Wissenschaft und Daten sind 
+unser Leitprinzip. Wir möchten den Dialog mit unseren wichtigsten 
+Stakeholdern verstärken und haben mit der Governance-Roadshow im 
+Februar einen ersten Schritt auf diesem Weg unternommen. In acht 
+Sitzungen traf die Vorsitzende des Aufsichtsrats, Prof. Dr. Löw-Friedrich, 
+erstmals mit Aktionären zusammen, die einen Großteil des Grundkapitals 
+kontrollieren, sowie mit sogenannten Stimmrechtsvertretern. Zweck des 
+Ideenaustauschs war es unserem Aufsichtsrat ein besseres Verständnis der 
+Nachhaltigkeitsstrategie zu vermitteln und darüber hinaus hat der Austausch 
+wichtigen Input von unseren Stakeholdergruppen geliefert, der im Gegenzug 
+in die Entscheidungen des Aufsichtsrats einfließen und letztendlich die 
+weitere Ausrichtung der gesamten Organisation beeinflussen wird. Das 
+Nachhaltigkeitsmanagement verstehen wir als dynamischen und flexiblen 
+Prozess, der messbare Ergebnisse liefert. Mit der Kommunikation der 
+CO2-Ziele und des dazugehörigen Fahrplans für deren Umsetzung werden 
+2022 die Voraussetzungen für das Erreichen der Netto-Null geschaffen. Die 
+Publikationsabläufe für unseren Nachhaltigkeitsbericht nach international 
+anerkannten 
+Berichtsstandards 
+werden 
+weiterentwickelt, 
+und 
+das 
+ursprünglich für 2022 gesteckte Ziel, einen geprüften Bericht vorzulegen, ist 
+eine der Prioritäten für 2023.
+
+4 5
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+8. GRI -Inhaltsindex
+GRI STANDARD
+ANGABE
+SASB
+SEITENZAHL(EN)
+KAPITEL/ABSCHNITT
+ALLGEMEINE ANGABEN
+GRI 102: Allgemeine 
+Angaben 2016
+102-1 Name der Organisation
+8
+Unsere Struktur
+102-2 Tätigkeiten, Marken, Produkte und 
+Dienstleistungen
+9
+Unser Geschäftsmodell
+102-3 Ort des Unternehmenssitzes
+8
+Unsere Struktur
+102-4 Betriebsstandorte
+8
+Unsere Struktur
+102-5 Eigentumsverhältnisse und Rechtsform
+8
+Unsere Struktur
+102-6 Bediente Märkte
+8
+Unsere Struktur
+102-7 Größe der Organisation
+Weitere Informationen finden Sie im 
+Konzernlagebericht
+102-8 Informationen zu Angestellten und 
+sonstigen Mitarbeitern
+22, 23, 27
+Faire Beschäftigung; Diversität, 
+Gleichstellung und Inklusion
+102-9 Lieferkette
+41
+Supply chain
+102-10 Signifikante Änderungen in der 
+Organisation und ihrer Lieferkette
+8, 41
+Wer wir sind und wie wir 
+unseren Auftrag erfüllen; 
+Supply Chain
+102-11 Vorsorgeansatz oder Vorsorgeprinzip
+14, 33
+Risiken im Zusammenhang 
+mit nicht-finanziellen 
+Sachverhalten; Betrieblicher 
+Umweltschutz
+102-12 Externe Initiativen
+49
+Mitgliedschaften & Initiativen
+102-13 Mitgliedschaft in Verbänden und  
+Interessengruppen
+49
+Mitgliedschaften & Initiativen
+102-14 Erklärung des höchsten 
+Entscheidungsträgers
+5
+Vorwort des Vorstands
+102-16 Werte, Grundsätze, Standards und 
+Verhaltensnormen
+8, 22, 35
+Wer wir sind und wie wir 
+unseren Auftrag erfüllen; Faire 
+Beschäftigung; Compliance
+102-18 Führungsstruktur
+11
+Unser ESG Ansatz
+102-40 Liste der Stakeholder-Gruppen
+14
+Stakeholder- & 
+Wesentlichkeitsanalyse
+102-41 Tarifverträge
+24
+Faire Beschäftigung
+102-42 Ermittlung und Auswahl der Stakeholder
+14
+Stakeholder- & 
+Wesentlichkeitsanalyse
+102-43 Ansatz für die Einbindung von 
+Stakeholdern
+14
+Stakeholder- & 
+Wesentlichkeitsanalyse
+102-44 Wichtige Themen und vorgebrachte 
+Anliegen
+14
+Stakeholder- & 
+Wesentlichkeitsanalyse
+Dieser Bericht wurde unter Berücksichtigung der Kriterien der Global Reporting Initiative (GRI) erstellt. Folgende Faktoren wurden dabei berücksichtigt:
+
+4 6
+4 6
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+102-45 Im Konzernab-schluss enthaltene Gesell-
+schaften
+Weitere Informationen finden Sie im 
+Konzernlagebericht
+102-46 Vorgehen zur Bestimmung des Berichtsin-
+halts und der Abgrenzung der Themen
+3
+Über diesen Bericht
+102-47 Liste der wesentlichen Themen
+14
+Stakeholder- & 
+Wesentlichkeitsanalyse
+102-48 102-48 Neudarstellung von Informationen
+3
+Allgemeiner 
+Berichterstattungsstandard
+102-49 Änderungen bei der Berichterstattung
+14
+Stakeholder- & 
+Wesentlichkeitsanalyse
+102-50 Berichtszeitraum
+3, 5
+Über diesen Bericht; Vorwort 
+des Vorstands
+102-51 Datum des letzten Berichts
+4
+Über diesen Bericht
+102-52 Berichtszyklus
+4
+Über diesen Bericht
+102-53 Kontaktangaben bei Fragen zum Bericht
+52
+102-55 GRI-Inhaltsindex
+45
+GRI-Inhaltsindex
+Wesentliche Themen
+WIRTSCHAFTLICHE THEMEN
+GRI 205: Korruptions­
+bekämpfung 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+36
+Bekämpfung von Korruption
+103-2 Der Managementansatz und seine  
+Bestandteile
+36
+103-3 Beurteilung des Managementansatzes
+37
+205-2 Kommunikation und Schulungen 
+zu Richtlinien und Verfahren zur Korrup-
+tionsbekämpfung
+37
+205-3 Bestätigte Korruptionsvorfälle und 
+ergriffene Maßnahmen
+HC-BP-510a.1
+36
+UMWELTTHEMEN
+GRI 305: Emissionen 
+2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+32
+Den Planeten schützen; 
+Emissionsbericht
+103-2 Der Managementansatz und seine 
+Bestandteile
+32
+103-3 Beurteilung des Managementansatzes
+32
+305-1 Direkte Treibhausgasemissionen (Scope 1)
+34
+305-2 Indirekte energiebedingte Treibhausgas-
+emissionen (Scope 2)
+34
+305-3 Sonstige indirekte Treibhausgasemissionen 
+(Scope 3)
+34
+GRI 308: 
+Umweltbewertung 
+der Zulieferer 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+41
+Supply Chain
+103-2 Der Managementansatz und seine  
+Bestandteile
+41
+103-3 Beurteilung des Managementansatzes
+42
+308-1 Neue Zulieferer, die anhand von 
+Umweltkriterien überprüft wurden
+42
+GRI STANDARD
+ANGABE
+SASB
+SEITENZAHL(EN)
+KAPITEL/ABSCHNITT
+ALLGEMEINE ANGABEN
+
+4 7
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+GRI STANDARD
+ANGABE
+SASB
+SEITENZAHL(EN)
+KAPITEL/ABSCHNITT
+UMWELTTHEMEN
+308-2 Negative Umweltauswirkungen in der 
+Lieferkette und ergriffene Maßnahmen
+42
+SOZIALTHEMEN
+GRI 401: 
+Beschäftigung 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+22
+Faire Beschäftigung
+103-2 Der Managementansatz und seine  
+Bestandteile
+22
+103-3 Beurteilung des Managementansatzes
+22
+401-1 Neu eingestellte Mitarbeiter und  
+Mitarbeiterfluktuation
+23
+401-2 Betriebliche Leistungen, die nur 
+vollzeitbeschäftigten Angestellten, nicht aber 
+Zeitarbeitnehmern oder teilzeitbeschäftigten 
+Angestellten angeboten werden
+24
+401-3 Elternzeit
+24
+GRI 403: 
+Arbeitssicherheit und 
+Gesundheitsschutz 
+2018
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+28
+Gesundheit und Sicherheit am 
+Arbeitsplatz
+103-2 Der Managementansatz und seine  
+Bestandteile
+28
+103-3 Beurteilung des Managementansatzes
+29
+403-1 Managementsystem für Arbeitssicherheit 
+und Gesundheitsschutz
+29
+403-2 Gefahrenidentifizierung, Risikobewertung 
+und Untersuchung von Vorfällen
+31
+403-4 Mitarbeiterbeteiligung, Konsultation 
+und Kommunikation zu Arbeitssicherheit und 
+Gesundheitsschutz
+31
+403-5 Mitarbeiterschulungen zum Thema 
+Gesundheit und Sicherheit am Arbeitsplatz
+30
+403-6 Förderung der Gesundheit der Mitarbeiter
+28
+403-9 Arbeitsbedingte Verletzungen
+31
+GRI 404: Aus- und 
+Weiterbildung 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+24
+Aus- und Weiterbildung
+103-2 Der Managementansatz und seine 
+Bestandteile
+24
+103-3 Beurteilung des Managementansatzes
+24
+404-2 Programme zur Verbesserung der Kompe-
+tenzen der Mitarbeiter und zur Übergangshilfe
+25, 26
+404-3 Prozentsatz der Mitarbeiter, die eine 
+regelmäßige Beurteilung ihrer Leistung und ihrer 
+beruflichen Entwicklung erhalten
+26
+GRI 405: 
+Diversität und 
+Chancengleichheit 
+2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+27
+DEI - Diversität, Gleichstellung 
+und Inklusion
+103-2 Der Managementansatz und seine  
+Bestandteile
+27
+103-3 Beurteilung des Managementansatzes
+27
+405-1 Diversität in Kontrollorganen und unter 
+Mitarbeitern
+28
+
+4 8
+4 8
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+GRI 406: Diskriminie-
+rungsfreiheit 2016
+103-1 Erläuterung der we-sentlichen Themen und 
+ihrer Abgrenzungen
+27
+DEI - Diversität, Gleichstellung 
+und Inklusion
+103-2 Der Managementansatz und seine 
+Bestandteile
+27
+103-3 Beurteilung des Managementansatzes
+27
+406-1 Diskriminierungsvorfälle und ergriffene 
+Abhilfemaßnahmen
+27
+GRI 414: Soziale 
+Bewertung der 
+Zulieferer 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+41
+Supply Chain
+103-2 Der Managementansatz und seine  
+Bestandteile
+41
+103-3 Beurteilung des Managementansatzes
+42
+414-1 Neue Zulieferer, die anhand von sozialen 
+Kriterien überprüft wurden
+42
+414-2 Negative soziale Auswirkungen in der 
+Lieferkette und ergriffene Maßnahmen
+42
+GRI 418: Schutz der 
+Kundendaten 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+42
+IT-Sicherheit
+103-2 Der Managementansatz und seine 
+Bestandteile
+42
+103-3 Beurteilung des Managementansatzes
+43
+418-1 Begründete Beschwerden in Bezug auf die 
+Verletzung des Schutzes und den Verlust von 
+Kundendaten
+43
+GRI 419: 
+Sozioökonomische 
+Compliance 2016
+103-1 Erläuterung der wesentlichen Themen und 
+ihrer Abgrenzungen
+35
+Compliance
+103-2 Der Managementansatz und seine  
+Bestandteile
+35
+103-3 Beurteilung des Managementansatzes
+36
+419-1 Nichteinhaltung von Gesetzen und 
+Vorschriften im sozialen und wirtschaftlichen 
+Bereich
+36
+GRI STANDARD
+ANGABE
+SASB
+SEITENZAHL(EN)
+KAPITEL/ABSCHNITT
+SOZIALTHEMEN
+
+4 9
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+Mitgliedschaften
+International Society for Biological and Environmental Repositories (ISBER)
+Accelerating COVID-19 Therapeutic Interventions and Vaccines (ACTIV)
+COVID R&D Alliance
+Advanced Oxford
+9. Mitgliedschaften & 
+Initiativen
+Externe Initiativen
+Charta der Vielfalt — 2020
+Science Based Targets initiative (SBTi) — unterschrieben im Dezember 2020 
+und angenommen im Februar 2021 
+
+5 0
+5 0
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1 
+10. Anhang
+A. AUF DER SBTI-WEBSITE AUFGEFÜHRTE UNTERNEHMEN MIT "TAKING ACTION" (DE-ZEMBER 2021)
+NAME
+COUNTRY
+NEAR-TERM ACTION
+AbbVie
+USA
+verpflichtet
+Abdi Ibrahim Pharmaceuticals
+Türkei
+verpflichtet
+Alchem International Private Limited
+Indien
+verpflichtet
+Astellas Pharma Inc.
+Japan
+2°C
+AstraZeneca
+UK
+1.5°C
+BIAL
+Portugal
+verpflichtet
+Bayer AG
+Deutschland
+1.5°C
+Biogen Inc.
+USA
+1.5°C
+Catalent Pharma Solutions*
+USA
+verpflichtet
+Charles River Laboratories, Inc.*
+USA
+1.5°C
+Chiesi Farmaceutici S.p.A.
+Italien
+1.5°C
+Chugai Pharmaceutical Co., Ltd.
+Japan
+1.5°C
+Daiichi Sankyo Co., Ltd.
+Japan
+deutlich unter 2°C
+Dechra Pharmaceuticals PLC
+UK
+verpflichtet
+Dr. Reddy’s Laboratories Ltd.
+Indien
+1.5°C
+Eisai Co., Ltd.
+Japan
+2°C
+Eisai Europe Limited
+UK
+verpflichtet
+Evotec SE
+Deutschland
+verpflichtet
+Gilead Sciences, Inc.
+USA
+1.5°C
+GlaxoSmithKline
+UK
+1.5°C
+Glenmark Pharmaceuticals Limited
+Indien
+verpflichtet
+Grupo Ferrer Internacional SA
+Spanien
+1.5°C
+IQVIA Holdings Inc
+USA
+verpflichtet
+Illumina, Inc.
+USA
+1.5°C
+Ipsen SA
+Frankreich
+verpflichtet
+Johnson & Johnson
+USA
+1.5°C
+LEO Pharma A/S
+Dänemark
+verpflichtet
+Labcorp
+USA
+verpflichtet
+Lundbeck A/S
+Dänemark
+1.5°C
+McKesson Corporation
+USA
+verpflichtet
+Merck & Co., Inc.
+USA
+1.5°C
+Merck KGaA
+Deutschland
+verpflichtet
+Novartis
+Schweiz
+1.5°C
+Novo Nordisk A/S
+Dänemark
+1.5°C
+
+5 1
+N A C H H A L T I G K E I T S B E R I C H T 2 0 2 1
+B. ANGABEN IM HINBLICK AUF DIE TAXONOMIE
+UMSATZANTEIL DER PRODUKTE UND DIENSTLEISTUNGEN AUS  
+GESCHÄFTSTÄTIGKEITEN, DIE IN DEN ANWENDUNGSBEREICH DER  
+TAXONOMIE FALLEN – ANGABEN FÜR DAS GESCHÄFTSJAHR 2021
+Umsätze der Taxonomie-Eignung Tätigkeiten
+0 %
+Umsätze der nicht Taxonomie-Eignung Tätigkeiten
+100 %
+Summe
+100 %
+ANTEIL DER PRODUKTE UND DIENSTLEISTUNGEN AUS GESCHÄFTSTÄTIG-
+KEITEN, DIE IN DEN ANWENDUNGSBEREICH DER TAXONOMIE FALLEN,  
+AM BETRIEBSAUFWAND – ANGABEN FÜR DAS GESCHÄFTSJAHR 2021
+Betriebsaufwand der Taxonomie-Eignung Tätigkeiten
+0 %
+Betriebsaufwand der nicht Taxonomie-Eignung Tätigkeiten
+100 %
+Summe
+100 %
+ANTEIL DER PRODUKTE UND DIENSTLEISTUNGEN AUS GESCHÄFTSTÄTIG-
+KEITEN, DIE IN DEN ANWENDUNGSBEREICH DER TAXONOMIE FALLEN, AM 
+INVESTITIONSAUFWAND – ANGABEN FÜR DAS GESCHÄFTSJAHR 2021
+Code
+Investitionsaufwand der  
+Taxonomie-Eignung Tätigkeiten
+3,5 %
+Modernisierung des HVAC-Standorts
+F43
+1,6 %
+MEC I zusätzlicher Dampfkessel
+F43
+0,8 %
+schrittweise Modernisierung des veralteten 
+BMS (DCS)
+F43
+0,7 %
+Abdichtung von Dach/Terrassen und 
+Außenanstrich
+F43
+0,5 %
+Investitionsaufwand der nicht Taxonomie-
+Eignung Tätigkeiten
+96,5 %
+Summe
+100 %
+ONO PHARMACEUTICAL CO., LTD.
+Japan
+1.5°C
+Otsuka Pharmaceutical Co., Ltd.
+Japan
+2°C
+Pfizer Inc.
+USA
+1.5°C
+QIAGEN N.V.
+Niederlande
+verpflichtet
+SANOFI
+Frankreich
+1.5°C
+SERVIER
+Frankreich
+2°C
+SILAB
+Frankreich
+deutlich unter 2°C
+Santen Pharmaceutical Co., Ltd
+Japan
+1.5°C
+Shionogi & Co.,Ltd
+Japan
+1.5°C
+SkyCell AG
+Schweiz
+1.5°C
+TAIHO PHARMACEUTICAL CO., LTD
+Japan
+2°C
+TCI Co., Ltd.
+Taiwan
+1.5°C
+Takeda Pharmaceutical Company
+Japan
+1.5°C
+Teva Pharmacuetical Industries LTD
+Israel
+verpflichtet
+Thermo Fisher Scientific Inc.*
+USA
+verpflichtet
+UCB
+Belgien
+deutlich unter 2°C
+NAME
+COUNTRY
+NEAR TERM ACTION
+* Unsere Peers
+Verpflichtet: Offiziell erklärte Absicht, Ziele zu setzen.
+1.5°C: Die Unternehmen haben Ziele gesetzt, die mit der Begrenzung des globalen Tem-peraturanstiegs auf 1,5°C vereinbar sind. 
+2°C: Die Unternehmen haben Ziele gesetzt Die Unternehmen haben Ziele vorgelegt, die mit der Begrenzung des globalen Temperaturanstiegs auf 2°C vereinbar sind.
+Deutlich unter 2°C: Die Unternehmen haben Ziele gesetzt, die mit der Begrenzung des globalen Temperaturanstiegs auf deutlich unter 2°C vereinbar sind.
+
+Für weitere Informationen  
+wenden Sie sich gerne an 
+Volker Braun
+SVP, Global Head of  
+Investor Relations & ESG
++ 49.(0)40.56081-755
+volker.braun@evotec.com

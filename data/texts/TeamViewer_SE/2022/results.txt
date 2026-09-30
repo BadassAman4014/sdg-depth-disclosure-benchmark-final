@@ -1,0 +1,3471 @@
+TeamViewer AG – Annual Report 2022 
+Annual Report 
+2022 
+ 
+ 
+ 
+ 
+Important notice 
+ 
+This report is a non-binding English translation of 
+the German Annual Report 2022. 
+ 
+Interactive PDF 
+This PDF document is optimised for use on screen.  
+• Clicking the house icon at the top right will take 
+you to the table of contents. 
+• Information included in the table of contents is 
+linked and leads to the respective chapter. 
+ 
+Rounding 
+Percentage changes and totals presented in tables 
+throughout this report are generally calculated on 
+unrounded numbers. Therefore, numbers in tables 
+may not add up precisely to the totals indicated and 
+percentage change data may not precisely reflect 
+the change data of the rounded figures for the same 
+reason. 
+ 
+Creating a world that works better 
+Non-Financial Report 
+2022 
+
+2 
+Non-financial Report - 1 Fundamentals of the Non-financial Report  
+ 
+TeamViewer AG – 2022 
+ 
+Table of contents  
+ 
+ 
+ 
+ 
+1_ Fundamentals of the Non-financial Report 
+4 
+2_ Sustainability at TeamViewer 
+5 
+3_ Governance and Integrity 
+19 
+4_ Employees 
+22 
+5_ Environmental and Climate Protection 
+28 
+6_ Energy, Waste and Water Management 
+33 
+7_ Social Responsibility 
+35 
+8_ Index for GRI, SDG, UN Global Compact, WEPs and SASB 
+37 
+
+3 
+Non-financial Report - 1 Fundamentals of the Non-financial Report  
+ 
+TeamViewer AG – 2022 
+TeamViewer AG – 2022 
+ 
+ 
+ 
+Non-financial Report 
+ 
+ 
+The Non-Financial Report is an excerpt from the Annual Report 2022. 
+ 
+ 
+ 
+
+4 
+Non-financial Report - 1 Fundamentals of the Non-financial Report  
+ 
+TeamViewer AG – 2022 
+1 
+Fundamentals of the Non-financial 
+Report 
+With the non-financial report according to §§ 289b to 289e, 315b and c of the German 
+Commercial Code (Handelsgesetzbuch – HGB) and the requirements of the Corporate Social 
+Responsibility Directive Implementation Act (CSR-RUG), TeamViewer provides information 
+about the aspects of environmental concerns, employee concerns, social concerns, 
+combating corruption and bribery as well as respect for human rights and the focal points to 
+be reported within the framework of the EU Taxonomy Regulation for the fiscal year 2022. If 
+further relevant non-financial aspects can be derived from the economic performance of the 
+Company, these are listed in accordance with § 289 c (2) HGB.  
+ 
+In preparing the non-financial report, the reporting principles set out by the Global Reporting 
+Initiative (GRI) were taken into account in determining the content and quality of the report. 
+Where useful for comparability and comprehensibility, some chapters also include data from 
+the previous year in order to show changes over time. An overview of the GRI references can 
+be found in the Section E (Further Information) in the Annual Report 2022. 
+ 
+The aim of the non-financial report is to transparently meet the relevant needs and 
+requirements of TeamViewer’s stakeholders, including shareholders, customers, partners, 
+employees, suppliers, rating agencies, vulnerable 
+groups, local communities, non-
+governmental organisations and other civil society organisations, and to communicate 
+material and relevant non-financial aspects with integrity. 
+ 
+The topic of security and data protection is important for TeamViewer, along with the sub-
+aspects of infrastructure and product security, and can be found as a separate chapter in the 
+combined management report of the Annual Report 2022. Non-financial performance 
+indicators as defined by § 289 (3) of the German Commercial Code (HGB) on the aspects of 
+employees and the environment are also listed in the combined management report and 
+dealt with in greater detail in the Company’s Non-financial Report. 
+ 
+The Non-financial Report was reviewed and approved by the Supervisory Board of 
+TeamViewer AG in accordance with § 171 (1) AktG. 
+ 
+
+5 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+2 
+Sustainability at TeamViewer 
+As a global technology company, TeamViewer offers a cloud-based platform to connect 
+computers, machines and industrial equipment and digitally supports work processes along 
+the entire value chain in both the industrial and service sectors. Through its core business, 
+the Company makes a valuable contribution to a more sustainable world:  
+ 
+• 
+TeamViewer connects people who help others with private applications worldwide – 
+millions of times, every day and free of charge. 
+• 
+TeamViewer helps businesses and their workforces employ flexible work models to 
+achieve a better work-life balance. 
+• 
+TeamViewer's solutions enable millions of corporate customers and free users to 
+maintain or increase their productivity despite physical distance. 
+• 
+TeamViewer enables users to reduce climate-damaging greenhouse gas emissions by 
+avoiding travel. 
+ 
+A detailed description of TeamViewer’s business model can be found in the combined 
+management report. 
+ 
+Our corporate values, next to climate and environmental protection and respect for human 
+rights, form the basis for our actions. We complement these values by practicing good 
+corporate governance and upholding our social responsibility. 
+ 
+Our customers’ trust in the security of their personal data and critical information, as well as 
+the reliability and availability of our software solutions and services, are the basis of our 
+sustainable growth. We consider it our greatest responsibility to guarantee these 
+requirements at all times. We describe how we fulfil this responsibility in the sub-chapter 
+“Data protection” contained in the combined management report. 
+ 
+As a signatory to the UN Global Compact, TeamViewer supports the ten principles of the UN 
+Global Compact and the Sustainable Development Goals (SDGs) of the United Nations. The 
+SDGs are a central conceptual framework for our materiality analysis and our sustainability 
+goals and important guidelines for the Group’s sustainability strategy. The following SDGs 
+play a special role in this respect: #4 (Quality Education), #5 (Gender Equality), #8 (Decent 
+Work and Economic Growth), #9 (Industry, Innovation and Infrastructure), #10 (Reducing 
+Inequalities), #12 (Responsible Consumption and Production), #13 (Climate Action) and #17 
+(Partnerships for the Goals). TeamViewer has also pledged its commitment to the UN 
+Women’s Empowerment Principles. 
+Materiality analysis  
+Based on the multi-stage materiality analysis conducted in the 2020 fiscal year, which 
+identified the relevant and material non-financial topics specific to TeamViewer, a review of 
+the results of the materiality analysis was conducted in the 2022 fiscal year. This review did 
+not result in any changes in the materiality of non-financial aspects.  
+ 
+To identify possible relevant topics, TeamViewer evaluated internal documents, three non-
+financial ratings (MSCI, Sustainalytics, ISS ESG), benchmarks, competitors, industry 
+benchmarks and resources, regulatory issues, ESG and other reporting (particularly GRI, 
+SASB, SDGs). By including stakeholder-oriented standards, the demands of various interest 
+groups were thoroughly considered in the materiality analysis. An overview of 70 topics and 
+sub-topics relevant to TeamViewer was derived from this external approach. In an internal 
+expert workshop (participants: sustainability manager, compliance and risk manager, general 
+counsel), the overview was further enhanced with the addition of relevant internal aspects. 
+In particular, a qualitative assessment was made of whether and to what extent TeamViewer's 
+economic activities have an impact on the economy, the environment, employees and society. 
+ 
+ 
+ 
+
+6 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+To validate the results, an extended internal expert group consisting of the Group’s 
+Communications, Compliance, Corporate Operations, Corporate Development, CSR, 
+Finance, Human Resources, Investor Relations, Legal, Marketing and Public Relations 
+departments quantified and qualified the results on a scale of 0 to 20. The prioritisations 
+made previously were essentially confirmed and left unchanged. 
+ 
+As a result of the classification process, six overarching fields of action were defined: 
+ 
+1.  Governance and integrity 
+2.  Trust and security 
+3.  Environment and climate protection 
+4.  Attractive employer 
+5.  Equality 
+6. Corporate citizenship 
+ 
+The six defined fields of action group the non-financial aspects that TeamViewer 
+fundamentally classifies as relevant or material. 
+ 
+Non-financial topics are considered relevant when, from the perspective of the stakeholders 
+(outside-in perspective), at least a high or very high significance is attributed to them, or 
+when they can have a high or very high impact (inside-out perspective) on the relevant 
+protected assets. For TeamViewer, the analysis conducted results in nine non-financial topics 
+that are to be classified as material. These can be visualised with the help of a materiality 
+matrix illustration on the following page). 
+ 
+ 
+ 
+ 
+ 
+
+7 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+Material non-financial aspects of TeamViewer  
+The following non-financial topics were identified as material in relation to at least one of the 
+two perspectives of outside-in and inside-out: 
+ 
+• 
+Good corporate governance (see “Corporate Governance Statement” in the combined 
+management report) 
+• 
+Data protection and information security (see “Security and data protection” in the 
+combined management report) 
+• 
+Reliability and availability of systems and services (see “Security and data protection” in 
+the combined management report) 
+• 
+Product impact on environmental protection (see “Environmental and climate 
+protection” in the non-financial report) 
+• 
+Climate protection (see “Environmental and climate protection” in the non-financial 
+report) 
+• 
+Attractiveness as an employer (see “Employees” in the non-financial report)  
+• 
+Diversity and anti-discrimination (see “Employees” in the non-financial report) 
+• 
+Accessibility of products (see “Environmental and climate protection” in the  
+non-financial report) 
+• 
+Social responsibility (see “Social Responsibility” in the non-financial report) 
+ 
+Based on the materiality analysis, resources such as time, effort and budget are allocated to 
+the material non-financial topics in order to make further progress on these topics in the 
+future. They thus shape the sustainability strategy and our reporting. As TeamViewer is 
+particularly committed to these concerns, this non-financial report also reports on non-
+financial topics that are classified as not relevant according to the materiality analysis. This 
+concerns in particular the chapters “Transparency and Cooperation”, “Health and Well-being” 
+as well as “Energy, Waste and Water Management”. 
+ 
+
+8 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+Sustainability targets 
+The 2030 Agenda for Sustainable Development, adopted by all United Nations member states 
+in 2015, is an action plan for people, planet and prosperity. TeamViewer is committed to the 
+Sustainable Development Goals (SDGs) and recognises the importance of all 17 goals. 
+TeamViewer believes that the potential for technological innovation is fundamental to 
+leading our society to a more sustainable way of working and living. 
+ 
+To optimally deploy its energies and resources, TeamViewer concentrates on the eight SDGs 
+where it believes it can make a significant contribution to achieving the targets. 
+ 
+1. Quality Education (SDG #4) 
+2. Gender Equality (SDG #5) 
+3. Decent Work and Economic Growth (SDG #8) 
+4. Industry, Innovation and Infrastructure (SDG #9) 
+5. Reduced Inequalities (SDG #10) 
+6. Responsible Consumption and Production (SDG #12) 
+7.  Climate Action (SDG #13) 
+8. Partnerships for the Goals (SDG #17) 
+ 
+Based on the eight defined focus SDGs, TeamViewer has set itself the following key 
+sustainability goals, which the Company is working to achieve with concrete measures and a 
+binding timeframe: 
+ 
+• 
+Achieve climate neutrality no later than 2025 
+• 
+Provide better access to technology and education 
+• 
+Support our customers in achieving their climate protection goals using our technology 
+• 
+Promote participation of women in leadership positions 
+Sustainability management 
+For TeamViewer, corporate responsibility in all areas of sustainability is of central importance, 
+but particularly in relation to the topics of climate protection and equal opportunity. The deep 
+anchoring of these topics in TeamViewer’s sustainability management has been ensured 
+through targeted measures and a separate sustainability budget to finance Group-wide 
+sustainability efforts. The measures implemented include the c-a-r-e sustainability 
+programme, the 2025 climate neutrality goal, the monitoring of sustainability management 
+by the Supervisory Board and Audit Committee, and pledging our commitment to the UN-
+WEPs programme as well as to the Science-Based Targets Initiative (SBTi). 
+ 
+TeamViewer’s Sustainability department reports directly to the Chief Financial Officer 
+(CFO). The half-year reporting to the Supervisory Board and Sustainability Committee 
+establishes the reporting line to the two highest business bodies of TeamViewer AG, 
+underlining the priority of the topic of sustainability. Regular reports to the Management 
+Board and the Supervisory Board on the progress and planning surrounding the main 
+sustainability topics allow to promptly address the set priorities. The Sustainability 
+department acts as an interface and coordinates the non-financial topics; submits 
+analyses, decision papers and recommendations; facilitates strategic and operational 
+development and ensures sustainability reporting in cross-functional dialogue. It is also 
+the point of contact for ESG rating agencies. 
+ 
+To strategically manage sustainability topics, the Group-wide Senior Leadership Team (in 
+total 10 members, including the Management Board and the first leadership layer below the 
+Management Board) assumes the function of a Sustainability Steering Board. Within the 
+Audit Committee of the Supervisory Board, a Sustainability Committee was established under 
+the leadership of Hera Kitwan Siu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+ 
+ 
+ 
+ 
+ 
+
+10 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+Sustainability programme c-a-r-e 
+TeamViewer’s sustainability programme c-a-r-e serves to communicate the Group-wide 
+sustainability priorities in a targeted, easy-to-understand and ongoing manner and is linked 
+to clear commitments, targets and measures. 
+ 
+The word c-a-r-e is an acronym for the terms 
+ 
+• 
+C – Climate neutrality 
+• 
+A – Access to technology 
+• 
+R – Reduced emissions 
+• 
+E – Equality 
+ 
+c-a-r-e combines TeamViewer’s ambition, “Creating a world that works better”, with its 
+sustainable business model, products and corporate culture, which are also characterised by 
+a sense of responsibility combined with sustainable thoughts and actions. 
+ 
+With the publication of the c-a-r-e sustainability programme, concrete measures and goals 
+were communicated: 
+ 
+• 
+C – Climate neutrality: 
+1. Achieve climate neutrality no later than 2025  
+2. Support the SBT initiative (“1.5°C target”) 
+• 
+A – Access to technology 
+1. Provide free use of our solutions for private and socially beneficial purposes 
+2. Increase access to education and technology 
+• 
+R – Reduction of emissions 
+1. Enable customers to avoid emissions  
+2. Deliver climate-neutral products sourced 100 % from renewable energies 
+• 
+E – Equality 
+1. Increase the proportion of women in all management levels 
+2. Celebrate cultural diversity with a zero-tolerance discrimination policy 
+ 
+Our employees are actively involved in the development and implementation of sustainability 
+measures to achieve the set goals through their participation in internal company workshops. 
+Around 390 employees participated in the first workshops in 2022. Four working groups were 
+formed and have already been actively involved in sustainability efforts through their first 
+specific actions: 
+ 
+• 
+Female Empowerment (promotion of women) 
+• 
+Climate Action (Climate Protection) 
+• 
+LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Inter, Asexual, +) 
+• 
+Parents@TeamViewer (Parents with TeamViewer) 
+ 
+Details on these work groups and the measures they are undertaking can be found in the sub-
+chapter “Employees” of the non-financial report. 
+Sustainability opportunities and risks 
+The opportunities and risk assessment associated with sustainability topics at TeamViewer 
+are derived from the company-wide opportunity and risk management as well as the 
+materiality analysis of non-financial topics.  
+ 
+Since the opportunity and risks report (part of the combined management report) lists only 
+material risks, this sustainability report supplements it with all non-financial topics. The 
+quantification follows the same evaluation logic that is used for the recording and evaluation 
+of financial risks. 
+Climate change 
+Risks from climate change will increasingly affect areas of life and the economy in the future. 
+The impact on the business environment and products of TeamViewer is currently rated as 
+“medium”. By taking climate protection measures, such as the commitment to the SBTi goals, 
+TeamViewer is assuming an active role in keeping the impacts of climate change as low as 
+possible. At the same time, opportunities arise when TeamViewer actively invests in climate 
+protection, as this makes the “TeamViewer” brand more attractive to employees and 
+customers alike. 
+
+11 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+Net zero strategy 
+A net zero business model means that the carbon emissions generated by an activity are 
+reduced to a minimum that is unavoidable, and the remaining balance is offset by carbon 
+removal activities. The risk that TeamViewer does not achieve its set net zero targets within 
+the envisioned timeframe is assessed as ‘Medium’. Non-achievement could lead to a loss of 
+reputation. Numerous companies also have a net zero strategy, which also presents 
+TeamViewer with opportunities by supporting its partners and customers in achieving their 
+own net zero targets. 
+Diversity and anti-discrimination 
+With its “Diversity, Inclusion & Non-Discrimination Policy”, TeamViewer has set its own 
+standards leading to an open and inclusive corporate culture. The positive effects of this can 
+be observed in the daily interaction between employees, as well as with partners and 
+customers. This is accompanied by the risk of not fulfilling the Company’s own policy. This risk 
+is rated as “medium”. Regular training of employees reduces this risk. 
+Unethical behaviour 
+Our unique corporate culture is underpinned by our corporate values and the company-wide 
+Code of Conduct and is an important element in our engagement with employees. Unethical 
+behaviour that ignores our values and violates our Code of Conduct represents a “medium” 
+risk. Regular training of our employees reduces this risk. 
+Disclosure of confidential information 
+The disclosure of confidential information and the associated possible competitive 
+disadvantages is classified as a risk and rated as “medium”. This risk is mitigated by employing 
+high security standards and providing regular training for employees. 
+Regulatory framework 
+Particularly within the realm of sustainability reporting, the regulatory framework is in a 
+constant process of change. Especially in the global context, this requires continuous 
+monitoring of the relevant regulations and amending the Company’s own disclosures. The 
+risk of not meeting the changing standards is rated as “medium”. Continuous internal training 
+and the inclusion of external expertise reduce this risk. 
+Social responsibility 
+TeamViewer is aware of its social responsibility and is involved in numerous projects (see the 
+sub-chapter “Social Responsibility”). The risk of a loss of reputation due to insufficient social 
+commitment is rated “low”. 
+Accessibility of our products 
+The easy accessibility and associated wide distribution of our products have been a success 
+factor since the foundation of our company. We rate the restriction of this accessibility as a 
+“low” risk because, among other factors, free private use will continue to exist. 
+ 
+No material non-financial risks with a potential impact on our business, revenue and cost base 
+were identified in the risk analysis we conducted in the 2022 fiscal year. 
+ 
+Risk assessments 
+Non-financial risks 
+Group risk assessment  
+(gross risk) 
+Trend1 
+Climate change 
+Medium 
+
+Net zero strategy 
+Medium 
+
+Diversity and anti-discrimination 
+Medium 
+
+Unethical behaviour 
+Medium 
+
+Disclosure of confidential information 
+Medium 
+
+Official regulations 
+Medium 
+
+Social responsibility 
+Low 
+
+Accessibility of our products 
+Low 
+
+1 Trend: Net risk level compared to previous year 
+ 
+
+Legend: 
+Decreased net risk  
+Unchanged net risk  
+Increased net risk  
+
+12 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+EU Taxonomy 
+In view of the worsening climate crisis, the European Union (EU) has committed itself to a 
+sustainable growth strategy with the “European Green Deal”. The EU Sustainable Finance 
+Taxonomy (EU Taxonomy) aims to guide investment flows into environmentally sustainable 
+economic activities and, as such, represents an EU-wide classification system for sustainable 
+economic activities.  
+ 
+In a first step, taxonomy eligibility is examined by analysing whether a company’s economic 
+activity is listed in the delegated act of the EU Taxonomy. If this is the case and the company’s 
+business activity contribute to the potential achievement of at least one of the following six 
+environmental objectives, the economic activity can be considered taxonomy-eligible. The 
+environmental objectives as defined by the EU Taxonomy are: 
+ 
+• 
+Climate change mitigation 
+• 
+Climate change adaptation 
+• 
+Stainable use and protection of water and marine resources 
+• 
+Transition to a circular economy 
+• 
+Pollution prevention and control 
+• 
+Protection and restoration of biodiversity and ecosystems 
+ 
+The second step is to assess taxonomy alignment. An economic activity is considered 
+taxonomy-aligned if the following three conditions are met: 
+ 
+• 
+Substantial contribution to at least one of the environmental targets through alignment 
+with the evaluation criteria defined for the respective economic activity (e.g. CO₂ 
+emissions saved for the environmental target of climate protection). 
+• 
+Significant harm to at least one other environmental objective is excluded by complying 
+with the Do-No-Significant-Harm (DNSH) criteria of the EU Taxonomy. 
+• 
+A minimum level of protection (Minimum Safeguards) of human and consumer rights, 
+anti-corruption, taxation and fair competition is observed. 
+ 
+We analysed all business activities of TeamViewer and assessed which of those are taxonomy-
+eligible and taxonomy-aligned in accordance with the EU Taxonomy Annex I and II of the 
+delegated act ((EU) 2021/2139). For TeamViewer, as a provider of data-based remote  
+connectivity solutions, one of the economic activities listed in the EU Taxonomy is considered 
+to be material: 
+ 
+• 
+Data-based solutions to reduce greenhouse gas emissions  
+(Annex 1, 8.2) 
+ 
+The economic activity “8.2 – Data-based solutions to reduce greenhouse gas emissions” 
+covers remote access, remote control and remote maintenance that works with almost all 
+desktop and mobile platforms, including Windows, macOS, iOS and Android. With 
+TeamViewer solutions, computers, mobile devices or machines – i.e. any technical device that 
+holds a data connection to the Internet – can be remotely controlled and used anywhere in 
+the world. Our data-based solution is provided from 100 % renewable energy. Taxonomy-
+wise, this activity has a clear potential to avoid travel activities and associated greenhouse 
+gas emissions, in particular, if these activities are primarily intended to provide data and 
+analysis to enable the reduction of greenhouse gas emissions. Avoiding climate-harming CO₂ 
+emission is an important ESG measure for TeamViewer, which has been collected since 2020 
+and verified by external advisers. It measures how many (business) travels are actually avoided 
+and calculates the corresponding CO₂ emissions saved. 
+ 
+All revenue, operating expenses (OpEx) and capital expenditures (CapEx) as defined by the EU 
+Taxonomy that are associated with our taxonomy-eligible products and services are allocated 
+to the “climate protection” objective as defined by the EU Taxonomy. 
+Taxonomy eligibility of business activities  
+Revenue
+OpEx as defined by 
+EU Taxonomy 
+CapEx as defined by 
+EU Taxonomy 
+8.2 Data-based solutions 
+to reduce greenhouse 
+gas emissions (in EUR 
+million) 
+543.3 
+35.3 
+16.8 
+Non-taxonomy 
+compliant activities (in 
+EUR m) 
+22.6 
+11.7 
+5.6 
+Total (in EUR m) 
+565.9 
+47.1 
+22.4 
+Share of taxonomy-
+eligible activities (in %) 
+96 % 
+75 % 
+75 % 
+ 
+
+13 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+The EU Taxonomy Regulation and the related delegated act comprise formulations and terms 
+that are still subject to considerable interpretation uncertainties. For the allocation of activities 
+and the respective calculation of the KPIs, other evalutations may arise in subsequent years as 
+a result of interpretation decisions. 
+ 
+Compared to the previous year, this uncertainty of interpretation has led us to no longer 
+consider activity 8.1. “Data processing, hosting and related activities” to be material because it 
+does not generate direct revenue, although third-party servers and hosting services are an 
+integral part of our solution offering. 
+ 
+In the 2022 fiscal year, we have changed the calculation methodology and do not apply a fixed 
+discount in the determination of taxonomy-eligible revenue anymore, but used an application-
+based approach to determine the KPIs. In 2021, a fixed discount of 15 % was applied resulting in 
+85 % taxonomy-eligible revenue. For 2022, the application-based determination results in a 
+96 % share of taxonomy-eligible revenue, meaning that only 4 % of the use cases failed to 
+demonstrate a clear potential to reduce GHG emissions. 
+ 
+When calculating OpEx and CapEx in 2021, a fixed discount of 15 % was used as well. For 2022, 
+the methodology was also replaced by an application-based approach, which is essentially 
+driven by the largest cost factor (personnel costs) in research and development (see operating 
+expenses for the 2022 fiscal year). 
+Significant contribution to climate protection 
+In accordance with the EU Taxonomy, it must be verified whether the information and 
+communication technology solutions are used primarily to reduce GHG emissions and what 
+emission savings can be achieved by TeamViewer compared with the “best performing 
+alternative solution” on the market. TeamViewer started to develop a comprehensive GHG Life 
+Cycle Assessment in 2022 and will continue to work on demonstrating the GHG emission 
+reduction potential in a competitive comparison in 2023.  
+Do-No-Significant-Harm (DNSH) and Minimum Safeguards 
+The key contribution criteria for Activity 8.2 were not met in fiscal year 2022. For this reason, no 
+further investigation of the DNSH criteria and “Minimum Safeguards” were conducted and 
+TeamViewer’s business activity can only be validated under taxonomy eligibility. 
+KPIs according to the EU Taxonomy Regulation 
+The EU Taxonomy defines the revenue, OpEx and CapEx KPIs. Mandatory disclosures on 
+taxonomy eligibility and alignment are to be made for the 2022 fiscal year. The financial data 
+relevant for TeamViewer are derived from its consolidated financial statements for the 2022 
+fiscal year. 
+Revenue 2022 fiscal year 
+The Group’s revenue according to IFRS of EUR 565.9 million, as reported in the consolidated 
+financial statements of TeamViewer (sub-chapter 1 – Consolidated statement of profit and 
+loss and other comprehensive income (p. 91); details of the accounting policies relating to net 
+revenue might be found in part 5.3 (b) of the consolidated financial statements (pp. 99 ff.)) 
+serves as the basis. TeamViewer develops and distributes software for remote access to/ 
+remote maintenance of devices to digitize work processes, increase process efficiency on the 
+customer side and help to avoid travel and GHG emissions. However, some of our solutions 
+focus primarily on increasing efficiency and quality assurance rather than avoiding travel (e.g. 
+in the context of workflow optimisation in logistics). Therefore, only the use cases for remote 
+access, remote control, and remote management solutions were classified as taxonomy-
+eligible. These account for 96 % of total revenues (see table: “Taxonomy eligibility of business 
+activities”). 
+Operating expenses (OpEx) in the 2022 fiscal year 
+The consolidated financial statements according to IFRS are the basis for determining 
+operating expenses (OpEx) as defined by EU Taxonomy. Operating expenses essentially 
+comprise: 
+ 
+• 
+All direct, non-capitalised research and development costs.  
+• 
+Non-capitalised lease expenses for short-term leases in accordance with IFRS 16. 
+• 
+Maintenance and repair costs and other direct expenses relating to the day-to-day 
+servicing of property, plant and equipment, determined on the basis of our internal cost 
+centres. 
+ 
+ 
+ 
+
+14 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+At 92 %, direct, non-capitalised research and development costs of EUR 43.1 million account 
+for the largest share of operating expenses as defined by the EU Taxonomy. Of this, around 
+95 % is accounted for by personnel costs. About 25 % of the FTEs in R&D are focusing on the 
+development of solutions that do not make a substantial contribution to the reduction of 
+greenhouse gas emissions. As a result, we only account 75 % of the total operating expenses 
+of EUR 47.1 million as taxonomy-eligible under the EU Taxonomy. This corresponds to 
+EUR 35.3 million (see table: “Taxonomy Eligibility of Economic Activities”). 
+Overview of operating expenses (OpEx) 2022 as defined by EU Taxonomy  
+ 
+In EUR m 
+Research & Development (recurring) 
+43.1 
+Non-capitalised lease expenses for short-term leases in  
+accordance with IFRS 16 
+1.0 
+Maintenance and repair costs and other direct expenses relating to the  
+day-to-day maintenance of property, plant and equipment 
+3.0 
+Total 
+47.1 
+ 
+Capital expenditures (CapEx) 2022 fiscal year 
+Capital expenditure (CapEx), as defined by the EU Taxonomy, is determined based on the 
+consolidated financial statements according to IFRS. In particular, this includes additions to 
+intangible assets and property, plant and equipment. The data can be determined from the 
+financials reported in the consolidated statement of cash flows within the consolidated 
+statement of financial position (p. 93). 
+ 
+In the 2022 fiscal year, additions totalled EUR 22.4 million. This comprises the reported 
+investments in property, plant and equipment and intangible assets of EUR 8.8 million, 
+supplemented by the capitalised rights of use in accordance with IFRS 16 of EUR 13.6 million. 
+The breakdown of additions to intangible assets and property, plant and equipment is  
+as follows: 
+ 
+• 
+EUR 3.7 million additions to intangible assets 
+• 
+EUR 18.7 million additions to property, plant and equipment 
+ 
+Further details on our accounting policies for additions under IAS 16, IAS 38 and IFRS 16 are 
+described in the consolidated financial statements of our Annual Report 2022 (pp. 102 ff.), 
+note 5.3 (f). 
+ 
+As the capital expenditures of EUR 22.4 million cannot be directly incurred and determined in 
+connection with individual products, we use the allocation of 75 % determined on the basis of 
+revenue to determine taxonomy eligibility. This results in total taxonomy-eligible CapEx of 
+EUR 16.8 million. 
+ 
+Further details on our taxonomy-eligible activities can be found in the detailed reporting 
+forms on revenue, OpEx and CapEx as defined by the EU taxonomy presented below. 
+ 
+ 
+ 
+ 
+ 
+
+15 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+Revenue 
+ 
+ 
+ 
+ 
+Substantial Contribution Criteria 
+DNSH Criteria 
+ 
+ 
+ 
+ 
+ 
+Economic activities (1) 
+Code(s) (2) 
+Absolute Turnover (3) 
+Proportion of Turnover (4) 
+Climate Change 
+Mitigation (5) 
+Climate Change Adaption 
+(6) 
+Water and Marine 
+Resources (7) 
+Circular Economy (8) 
+Pollution (9) 
+Biodiversity and 
+Ecosystems (10) 
+Climate Change 
+Mitigation (11) 
+Climate Change Adaption 
+(12) 
+Water and Marine 
+Resources (13) 
+Circular Economy (14) 
+Pollution (15) 
+Biodiversity and 
+Ecosystems (16) 
+Minimum Safeguards (17) 
+Taxonomy-
+aligned 
+proportion 
+of Turnover 
+year N  
+(18) 
+Taxonomy-
+aligned 
+proportion 
+of Turnover 
+year N-1  
+(19) 
+Category 
+(enabling 
+activity)  
+(20) 
+Category 
+(transitional 
+activity)  
+(21) 
+  
+  
+EUR m 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+% 
+% 
+E 
+T 
+A. TAXONOMY-ELIGIBLE ACTIVITIES 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A.1. Environmentally sustainable activities 
+(Taxonomy-aligned) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turnover of environmentally sustainable 
+activities (Taxonomy-aligned) (A.1) 
+  
+0 
+0 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.2. Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8.2 Data-based solutions to reduce 
+greenhouse gas emissions 
+J62.
+01 
+543.1 
+96 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turnover of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2) 
+  
+543.1 
+96 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Turnover of Taxonomy eligible 
+activities (A.1 + A.2) (A) 
+  
+543.1 
+96 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0 % 
+  
+  
+  
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES 
+  
+  
+  
+Turnover of Taxonomy-non-eligible 
+activities (B) 
+22.6 
+5 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total (A + B) 
+565.9 
+100 % 
+ 
+ 
+ 
+ 
+ 
+
+16 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+OpEx 
+ 
+ 
+ 
+ 
+Substantial Contribution Criteria 
+DNSH Criteria 
+ 
+ 
+ 
+ 
+ 
+Economic activities (1) 
+Code(s) (2) 
+Absolute OpEx (3) 
+Proportion of OpEx (4) 
+Climate Change 
+Mitigation (5) 
+Climate Change Adaption 
+(6) 
+Water and Marine 
+Resources (7) 
+Circular Economy (8) 
+Pollution (9) 
+Biodiversity and 
+Ecosystems (10) 
+Climate Change 
+Mitigation (11) 
+Climate Change Adaption 
+(12) 
+Water and Marine 
+Resources (13) 
+Circular Economy (14) 
+Pollution (15) 
+Biodiversity and 
+ecosystems (16) 
+Minimum Safeguards (17) 
+Taxonomy-
+aligned 
+proportion 
+of OpEx 
+year N  
+(18) 
+Taxonomy-
+aligned 
+proportion 
+of OpEx year 
+N-1  
+(19) 
+Category 
+(enabling 
+activity)  
+(20) 
+Category 
+(transitional 
+activity)  
+(21) 
+  
+  
+EUR m 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+% 
+% 
+E 
+T 
+A. TAXONOMY-ELIGIBLE ACTIVITIES 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A.1. Environmentally sustainable activities 
+(Taxonomy-aligned) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OpEx of environmentally sustainable 
+activities (Taxonomy-aligned) (A.1) 
+  
+0 
+0 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.2. Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8.2 Data-based solutions to reduce 
+greenhouse gas emissions 
+J62.
+01 
+35.3 
+75 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+OpEx of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2) 
+  
+35.3 
+75 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total OpEx of Taxonomy eligible activities 
+(A.1 + A.2) (A) 
+  
+35.3 
+75 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0 % 
+  
+  
+  
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES 
+  
+  
+  
+OpEx of Taxonomy-non-eligible activities 
+(B) 
+11.7 
+25 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total (A + B) 
+47.1 
+100 % 
+ 
+ 
+ 
+
+17 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+CapEx 
+ 
+ 
+ 
+ 
+Substantial Contribution Criteria 
+DNSH Criteria 
+ 
+ 
+ 
+ 
+ 
+Economic activities (1) 
+Code(s) (2) 
+Absolute CapEx (3) 
+Proportion of CapEx (4) 
+Climate Change 
+Mitigation (5) 
+Climate Change Adaption 
+(6) 
+Water and Marine 
+Resources (7) 
+Circular Economy (8) 
+Pollution (9) 
+Biodiversity and 
+Ecosystems (10) 
+Climate Change 
+Mitigation (11) 
+Climate Change Adaption 
+(12) 
+Water and Marine 
+Resources (13) 
+Circular Economy (14) 
+Pollution (15) 
+Biodiversity and 
+Ecosystems (16) 
+Minimum Safeguards (17) 
+Taxonomy-
+aligned 
+proportion 
+of CapEx 
+year N  
+(18) 
+Taxonomy-
+aligned 
+proportion 
+of CapEx 
+year N-1  
+(19) 
+Category 
+(enabling 
+activity)  
+(20) 
+Category 
+(transitional 
+activity)  
+(21) 
+  
+  
+EUR m 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+% 
+% 
+E 
+T 
+A. TAXONOMY-ELIGIBLE ACTIVITIES 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A.1. Environmentally sustainable activities 
+(Taxonomy-aligned) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CapEx of environmentally sustainable 
+activities (Taxonomy-aligned) (A.1) 
+  
+0 
+0 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.2. Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8.2 Data-based solutions to reduce 
+greenhouse gas emissions 
+J62.
+01 
+16.8 
+75 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+CapEx of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2) 
+  
+16.8 
+75 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total CapEx of Taxonomy eligible 
+activities (A.1 + A.2) (A) 
+  
+16.8 
+75 % 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0 % 
+  
+  
+  
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES 
+  
+  
+  
+CapEx of Taxonomy-non-eligible activities 
+(B) 
+5.6 
+25 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total (A + B) 
+22.4 
+100 % 
+ 
+ 
+ 
+ 
+ 
+
+18 
+Non-financial Report - 2 Sustainability at TeamViewer  
+ 
+TeamViewer AG – 2022 
+Sustainability ratings 
+For TeamViewer, ESG ratings and the annual feedback process that accompanies the review 
+and revision of the rating results are particularly helpful in evaluating and improving its own 
+sustainability efforts. The independent rating analyses are critically evaluated and the 
+outcomes are used to derive the appropriate actions to take for improvement. In 2022, 
+TeamViewer was rated with regard to its performance in the areas of environment, social 
+and governance (ESG) by several ESG rating agencies, including the following: 
+ 
+• 
+MSCI: TeamViewer was able to improve its ESG rating from the leading global analysis 
+institute MSCI compared to the previous year. For the year 2022, TeamViewer received a 
+rating of AAA (2021: AA), moving it up into the highest category. This rating places 
+TeamViewer among the top 8 % of companies in the software and services industry 
+worldwide. The rating analyses the business practices of companies in the areas of 
+environmental, social, and governance and gives each of these pillars a score from 0 to 10. 
+For 2022, TeamViewer received a score of 6.0 for its environmental activities, 5.8 for social 
+aspects and 8.0 for its governance practices. In the area of governance, TeamViewer has 
+one of the best global ratings of all companies in its industry.1 
+ 
+1 https://www.teamviewer.com/de/unternehmen/presse/teamviewer-erhaelt-aaa-bewertung-im-msci-esg-rating-2/ 
+(retrieved 31 December 2022). 
+2https://ir.teamviewer.com/websites/teamviewer/English/3480/news-
+details.html?newsID=2356291#:~:text=In%20September%202022%2C%20TeamViewer%20received,financial%20imp
+acts%20from%20ESG%20factors (retrieved 31 December 2022). 
+• 
+Sustainalytics: TeamViewer improved its ESG risk rating again in the 2022 fiscal year 
+awarded by Morningstar Sustainalytics, the leading independent ESG market research 
+and rating company. Sustainalytics’ ESG risk rating assesses a Company’s exposure to 
+material industry-specific ESG topics and evaluates how well the Company manages the 
+identified risks. With this multi-dimensional measurement, Sustainalytics arrives at an 
+overall ESG risk score that is comparable across all industries. Companies are classified  
+in five different risk categories, ranging from negligible (0 to 10), low (10 to 20), medium 
+(20 to 30) and high (30 to 40) to severe (40+). In 2022, Sustainalytics gave TeamViewer an 
+ESG risk rating of 9.9 points (2021: 12.8). This rating reflects Sustainalytics’ assessment 
+that the risk of TeamViewer facing material adverse financial effects from ESG factors 
+negligible. With this rating, TeamViewer is now one of the top 3 from a total of 419 rated 
+companies within the industry “Enterprise & Infrastructure Software”.2 
+ 
+• 
+ISS ESG: In 2021, TeamViewer received the “Prime” status rating from ISS ESG Corporate 
+Rating. An update of this rating was not conducted in 2022 but is planned for 2023.3 
+ 
+It is our goal to continuously improve our sustainability positioning, which will also have a 
+positive influence on our ESG rating results. 
+3 https://ir.teamviewer.com/websites/teamviewer/German/3280/ir-news.html?newsID=1907329 (retrieved on 31 
+December 2022). 
+
+19 
+Non-financial Report - 3 Governance and Integrity  
+ 
+TeamViewer AG – 2022 
+3 
+Governance and Integrity 
+Good corporate governance 
+At TeamViewer, we believe it is our responsibility to maintain and deepen the trust of our 
+shareholders, customers and employees in line with our high standards of corporate 
+governance and responsibility. This trust is an essential prerequisite for our entrepreneurial 
+actions and helps us to measure our success. Further details on this topic can be found in the 
+“Corporate Governance Statement” chapter of the combined management report. 
+Respect for human rights  
+As a responsible global enterprise, TeamViewer is committed to ensuring that human rights 
+are not violated in its own operations, throughout its value chain, or by its products. 
+TeamViewer respects the international standards for protecting human rights and is 
+committed to observing these standards within its scope of influence. The provisions to this 
+effect are set out in our Code of Conduct and Supplier and Business Partner Code of Conduct, 
+which must be recognised by all suppliers and other business partners.4 They are also 
+encouraged to analyse and access their own conduct, and TeamViewer reserves the right to 
+conduct its own random checks. In the past fiscal year, there were no anomalies that required 
+taking action. 
+ 
+To fully meet its commitments, TeamViewer adheres to the human rights standards 
+highlighted in the United Nations Universal Declaration of Human Rights (UDHR), the 
+European Convention for the Protection of Human Rights and Fundamental Freedoms, and 
+the International Labour Organization (ILO) Declaration on Fundamental Principles and 
+Rights at Work. As a signatory to the United Nations Global Compact, the world’s largest and 
+most important initiative for sustainable and responsible corporate governance, TeamViewer 
+also reaffirms its commitment to the integration of the ten universal principles of the 
+UN Global Compact (focus areas: Human Rights, Labour, Environment and Anti-Corruption) 
+ 
+4 The current version can be displayed via the following web link: 
+https://ir.teamviewer.com/websites/teamviewer/English/4700/sustainability-and-corporate-social-responsibility.html. 
+into its own business operations, particularly the principles related to compliance with 
+human rights standards. 
+ 
+TeamViewer’s Code of Conduct formalises these beliefs and commitments and applies them 
+internally, globally, and to all entities and employees. The Code reflects the existing 
+guidelines ensuring a basic standard of business conduct, which is intended to prevent 
+potential human rights violations. TeamViewer has several functions tasked with performing 
+ongoing due diligence on human rights. This helps to identify and if possible, prevent human 
+rights violations in the Company and in the value chain, facilitate the reporting of risks and 
+actual violations, terminate potentially negative human rights impacts of business activities 
+and provide reparations where appropriate. 
+ 
+TeamViewer employees receive periodic training at least once each year on human rights 
+policies and procedures. A whistle-blower system is in place to allow for the anonymous 
+reporting of potential human rights violations, among other things. 
+ 
+In the 2022 fiscal year, as in the prior year, there were no significant incidents of human 
+rights violations reported at TeamViewer. 
+
+20 
+Non-financial Report - 3 Governance and Integrity  
+ 
+TeamViewer AG – 2022 
+Combating corruption and bribery 
+TeamViewer is committed to complying with the applicable laws and guidelines when 
+conducting its business activities. The Company has adopted mandatory internal 
+guidelines in an effort to combat any forms of corruption and bribery.  
+ 
+Ethical and transparent conduct in business and between employees, suppliers and 
+business partners is an absolute must. Alongside compliance with statutory anti-corruption 
+provisions, this also includes fairness in business, marketing and competition. The 
+principles, processes and reporting channels are set out in the Code of Conduct, the Anti-
+Bribery and Corruption Policy, the Supplier and Business Partner Code of Conduct, and the 
+Anti-trust and Fair Competition Policy. All employees receive routine training at least once 
+annually (at least once a year). Performing due diligence on our suppliers and partners is 
+also intended to ensure regulatory compliance. 
+ 
+To ensure compliance with the principles of the Anti-Bribery and Corruption Policy, the 
+heads of the Compliance department carry out a review as part of their regular reporting 
+activities. Observations and violations can also be reported anonymously via the whistle-
+blower system.  
+ 
+In the 2022 fiscal year, as in the prior year, TeamViewer was not aware of any identified or 
+reported material cases of violations of the provision of the Anti-corruption and Bribery Policy. 
+Transparency and collaboration 
+TeamViewer firmly believes that behind every successful business lies transparent 
+communication and open cooperation with the relevant organisations and authorities. 
+TeamViewer aims to maintain the highest possible level of transparency and disclosure 
+possible consistently in all aspects of its business activities, while continuing to comply with 
+the regulatory requirements. Information security and privacy are of particular importance in 
+this context (see Security and data privacy in the combined management report). 
+Communication with external stakeholders, such as ESG rating agencies, will also continue in 
+an open and transparent manner.  
+Tax transparency 
+Tax payments are an important part of TeamViewer’s economic and social contribution to 
+society. In the 2022 fiscal year, the TeamViewer Group paid a total of EUR 46.4 million in 
+income taxes. Fair and equitable tax systems play an essential role for TeamViewer in every 
+country the Company operates. TeamViewer takes a transparent and responsible approach 
+to all tax matters and ensures this by paying its fair share of taxes and cooperating with local 
+tax authorities worldwide in a spirit of trust.  
+ 
+TeamViewer is in support of a goal of a global tax system that promotes stability and fair taxes 
+for all the countries and companies involved. TeamViewer monitors tax developments, 
+particularly at OECD level, and aligns its tax strategy accordingly. 
+Tax strategy 
+The Company’s tax strategy encompasses the following main principles:  
+ 
+• 
+Comply with applicable tax laws  
+• 
+Establish an organisational structure appropriate to the size of the Company for 
+adequate tax management 
+• 
+Apply effective tax risk and compliance management  
+• 
+Act as a responsible taxpayer 
+ 
+The tax strategy is in line with TeamViewer’s business and sustainability strategy. The 
+payment of its “fair share” of taxes has an indirect influence on the achievement of the 
+Company’s sustainability goals in the respective countries, and TeamViewer rejects tax 
+practices that contradict these goals. This approach incorporates the following practices:  
+
+21 
+Non-financial Report - 3 Governance and Integrity  
+ 
+TeamViewer AG – 2022 
+No aggressive tax planning  
+TeamViewer applies the current tax regulations based on their prevailing interpretation. This 
+also applies to the avoidance of double taxation through corresponding intergovernmental 
+agreements.  
+ 
+The tax practices applied by TeamViewer, as well as transactions with and between Group 
+companies, are disclosed to the respective tax authorities in the context of tax returns and 
+other notification requirements. The Company also ensures that the pricing of intercompany 
+activities is in line with the OECD arm’s length principle and local transfer pricing rules to 
+ensure it pays the appropriate taxes on profits in the countries involved. TeamViewer does 
+not practice aggressive tax planning, such as creating entities without an underlying business 
+purpose or substantial economic substance. 
+No engagement in tax havens  
+TeamViewer does not relocate business activities to tax havens in order to avoid taxes that 
+would be incurred elsewhere. The term “tax haven” refers to those jurisdictions contained in 
+the “EU list of non-cooperative jurisdictions for tax purposes”.  
+Tax governance, tax compliance and tax risk management 
+Tax governance 
+TeamViewer’s tax activities are the responsibility of the finance function, which reports to 
+the CFO. The tax function monitors compliance with the overall tax strategy, ensures 
+alignment on tax issues across the Group, and coordinates local tax requirements within 
+the Group. The remuneration of the employees working in the tax function is in no way 
+linked to the Company’s tax rate.  
+Tax compliance 
+TeamViewer operates in most countries worldwide. In addition to paying taxes on its own 
+income, TeamViewer also withholds sales taxes or other withholding taxes on customer 
+and supplier payments. Tax payments therefore represent a significant portion of the 
+Company’s contribution to society. The tax department provides guidance to the entire 
+Group on how to comply with local tax regulations.  
+ 
+The Company’s employees also have access to Group-wide mechanisms, such as a 
+whistleblowing system, to report existing unethical or unlawful behaviour and activities with 
+tax relevance. 
+Tax risk management 
+Tax risk management is integrated into the overall Group-wide risk management. The internal 
+tax department identifies, assesses, monitors and manages potential tax risks. The tax 
+department exchanges regularly with the Head of Finance regarding tax risks and external tax 
+experts are consulted in the event of uncertainties.  
+Stakeholder dialogue and advocacy 
+TeamViewer believes that responsible tax compliance also benefits economic and social 
+development. TeamViewer supports efforts to sustain a better and more equitable tax 
+system domestically and internationally to balance the different interests of society, politics 
+and the economy. The Company underscores this belief by working cooperatively with the 
+responsible tax authorities. 
+ 
+The Group’s responsible persons are not currently members of any tax interest groups or 
+have any related political exchanges.  
+ 
+ 
+
+22 
+Non-financial Report - 4 Employees  
+ 
+TeamViewer AG – 2022 
+4 
+Employees 
+Human resources management and 
+corporate culture 
+A central element in the fulfilment of our corporate goals is our employees. In times of a 
+general shortage of skilled workers and the continuing trend of “Great Resignation”, our 
+future success is based more than ever on attracting, developing and, above all, retaining 
+highly qualified and motivated employees. 
+ 
+Despite the challenging economic developments, we were again perceived as an attractive 
+employer in the 2022 fiscal year and were able to attract and retain valuable employees. 
+ 
+In such a rapidly changing environment, our value-based corporate culture is an essential 
+basis for our sustainable growth. This is one reason why anchoring our values within our work 
+environment and shaping a sustainable, value-based corporate culture remains a high priority. 
+ 
+We strive to create a work environment characterised by openness and honesty that 
+enables our employees to thrive with the agility and reach required in a digital work 
+environment. This commitment is also reflected in our work practices and the daily exchange 
+employees can have with our management team and leaders across the Company. 
+Development of employee headcount 
+As at 31 December 2022, the TeamViewer Group employed 1,386 FTEs worldwide (31 
+December 2021: 1,477 FTEs). Consequently, the number of employees was approximately 6 % 
+lower than the prior year’s year-end reporting date. The decrease was related to the Group-
+wide ReMax programme, which was completed in the first half of 2022. In the second half of 
+2022, TeamViewer strengthened the Group’s growth areas with new talent through selective 
+hiring, making a targeted and sustainable investment in the Company’s future capabilities. 
+New hires were made in the APAC and AMERICAS regions, in particular, as well as in the sales 
+organisation.  
+Employees by function 
+Function 
+2022 
+2021 
+YoY change 
+Distribution 
+572 
+605 
+-5 % 
+Research & Development 
+404 
+460 
+-12 % 
+Administration 
+243 
+239 
++1 % 
+Marketing 
+98 
+86 
++13 % 
+Technical Customer Service 
+69 
+86 
+-20 % 
+FTEs Total 
+1,386 
+1,477 
+-6 % 
+Status: 31 December 2022 (2021) in full-time equivalents (FTEs) 
+ 
+Employees by region 
+Region 
+2022 
+2021 
+YoY change 
+EMEA 
+947 
+1,061 
+-11 % 
+AMERICAS 
+260 
+245 
++6 % 
+APAC 
+179 
+171 
++5 % 
+FTEs Total 
+1,386 
+1,477 
+-6 % 
+Status: 31 December 2022 (2021) in full-time equivalents (FTEs) 
+
+23 
+Non-financial Report - 4 Employees  
+ 
+TeamViewer AG – 2022 
+Employee retention 
+With a view to a future-proof and sustainable employee structure, the topic of employee 
+retention remains of great importance. TeamViewer employees are often knowledge carriers. 
+Training new employees is therefore often associated with a significant time commitment 
+and high costs. Yet, this is not the only reason why it is important to us to retain as many 
+motivated employees as possible for the long term. To this end, we offer competitive 
+remuneration and other employee benefits, flexible work schedules, a positive and dynamic 
+working environment, and personal development opportunities. Our offers are aimed at 
+attracting and retaining the best employees, both globally and locally. 
+ 
+In addition to competitive remuneration within the respective role and depending on the 
+respective regional circumstances, all employees are granted a company bonus based on the 
+achievement of operational and financial targets. A separate bonus system applies to our 
+sales staff. 
+ 
+In addition, we introduced an employee share programme for the first time in 2022. As part of 
+the programme, employees worldwide will be granted shares which, for the time they remain 
+an employee of a TeamViewer Group company, will be transferred to the employees. The 
+transfer takes place over a period of 4 years, meaning the shares are initially subject to a 
+vesting period. Once the shares have been transferred to the employees, all restrictions cease 
+to apply. 
+ 
+We will carry out the granting and subsequent transfer of shares once a year, so that 
+employees are continuously granted additional share quotas. Through this programme, we 
+strengthen both short- and long-term employee loyalty. 
+ 
+The flexible work scheduling programmes introduced by TeamViewer in 2021 also turned out 
+to be a major competitive advantage in the recruitment market in 2022. The hybrid work 
+model is particularly advantageous for attracting and retaining employees, but the offer to 
+work part of the year away from home was also popular in 2022. A total of 167 employees 
+worldwide took advantage of this offer. We were able to extend this offer to many more 
+locations in 2022, provided this was permitted under the applicable local regulations. 
+ 
+In addition to location flexibility, our part-time programme also offers time flexibility. At the 
+end of the 2022 fiscal year, 92 employees were participating in this programme. 
+ 
+TeamViewer is in a position to offer secure jobs, maintain an attractive remuneration and 
+benefits package, and provide individual flexible working options. 
+Diversity and anti-discrimination 
+In the 2021 fiscal year, we created an important foundation for diversity and anti-
+discrimination with the publication of a company-wide “Diversity, Inclusion and Non-
+Discrimination Policy”, our participation in the “Target Gender Equality Programme” of the 
+UN Global Compact and becoming a signatory of the “Female Empowerment Principles” of 
+the United Nations. Building on these commitments, we created multiple opportunities for 
+our employees to participate in these relevant topics in 2022. With the launch of our c-a-r-e 
+sustainability programme (see chapter “Sustainability programme c-a-r-e”), our intention is 
+to give employees an opportunity to get involved in the area of ESG and make a contribution 
+to achieving our sustainability goals. With this in mind, we formed the following four work 
+groups during the year: 
+ 
+• 
+Female Empowerment (promotion of women) 
+• 
+Climate Action (Climate Protection) 
+• 
+LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Inter, Asexual, +)  
+• 
+Parents@TeamViewer (Parents with TeamViewer) 
+ 
+These groups are open to all TeamViewer employees and are led by at least two volunteer 
+“ambassadors”. Employees join the groups on their own initiative and activities take place 
+alongside their main job at TeamViewer, but can be integrated into their regular work 
+schedules. A total of 390 employees worldwide took part in the first meetings of these groups. 
+The following is a brief overview of the agenda and activities of the four groups to date: 
+Female Empowerment (promotion of women) 
+This group is dedicated to the visibility and targeted promotion and networking of women at 
+TeamViewer. It addresses not only the topic of women in leadership positions but also other 
+topics. The group’s first step is to create more visibility for women at the Company and 
+provide information about different career paths through various internal and external 
+campaigns. One of these campaigns is the interview series “She Leads”, which portrays 
+different women in leadership positions at TeamViewer. The group is also planning 
+campaigns and events to raise awareness of the problem of unconscious bias, especially in 
+
+24 
+Non-financial Report - 4 Employees  
+ 
+TeamViewer AG – 2022 
+relation to gender. Other plans include local and global networking events as well as a 
+mentoring programme in cooperation with other work groups. 
+Climate Action (Climate Protection) 
+This group is focused on raising awareness of climate change issues and how each employee 
+and TeamViewer as a company can behave in a more (more) sustainable way. It is planning 
+awareness-raising campaigns on energy saving, recycling and the use of resources. The group 
+initiated and organised its first TeamViewer Clean-Up Day in November 2022. The majority of 
+TeamViewer sites participated, with employees taking time out to collect and remove trash 
+and litter around the offices. 
+LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Inter, Asexual, +) 
+The aim of the group is to promote an inclusive workplace for employees from the LGBTQIA+ 
+community. In June, the group launched an internal and external visibility campaign around 
+the “Pride Month” (traditionally celebrated in the LGBTQIA+ community with campaigns, 
+marches, celebrations, etc. to honour the LGBTQIA+ movement). The group also organised 
+TeamViewer’s participation in an audit conducted by an external service provider to evaluate 
+the current status of various LGBTQIA+ issues at TeamViewer. It also organised various local 
+events related to “Pride Office Day” in October 2022. The group also acts as a point of contact 
+for employees from the LGBTQIA+ community with questions and uncertainties, which has 
+evolved into the initial idea for a mentoring programme in cooperation with the Female 
+Empowerment group. 
+Parents@TeamViewer (Parents with TeamViewer) 
+This group is primarily concerned with the issue of reconciling family and work. Its goal is to 
+identify initiatives that improve the workplace environment for parents and contribute to 
+more flexibility. The group is specifically aimed at fathers and mothers and therefore 
+differentiates itself from the Female Empowerment group in terms of content. The group is 
+planning visibility campaigns on parenthood and work, a survey on childcare options and 
+possible problems at the various locations, networking events for parents and children, 
+improved onboarding after parental leave, and participation in the mentoring programme 
+described above. 
+Equality between women and men 
+The equal position of women and men at different levels is of great importance to 
+TeamViewer. In 2022, we continued to recruit women whenever possible, especially in 
+previously underrepresented areas. TeamViewer applies the principle of equal treatment in 
+all recruitment activities and grants equal remuneration for women and men. Furthermore, 
+we use inclusive language in our job advertisements and provide training on equal treatment 
+and inclusivity to the managers involved in recruitment processes. In addition to providing 
+equal pay for new hires, TeamViewer is also committed each year to reviewing and achieving 
+gender pay equality. As part of our Diversity, Inclusion and Non-Discrimination Policy, we are 
+committed to taking concrete action if the salary difference within a comparable group of 
+employees with the same qualifications, professional experience, company affiliation and 
+regional location exceeds 3 %. 
+ 
+As at 31 December 2022, the proportion of women in our global workforce was 34.3 %, an 
+increase of 0.4 % compared to the previous year. Our goal is to continue to increase the 
+proportion of women and to be one of the top companies in this area when compared with 
+other leading companies in our industry. 
+Women and men as percentage of employee workforce  
+ 
+2021 
+In % 
+2022 
+In % 
+Women 
+522 
+33.9 % 
+493 
+34.3 % 
+Men 
+1,016 
+66.1 % 
+943 
+65.7 % 
+ 
+1,538 
+100 % 
+1,436 
+100 % 
+Note: Calculation of the women and men as percentage of total workforce is based on TeamViewer's total headcount. 
+ 
+With a 33.5 % share of women in management positions, we have already reached our 2024 
+target early in the 2022 fiscal year. TeamViewer expects this trend to continue, which has 
+resulted from the Company’s current recruitment and development measures. These 
+measures include a target of a minimum of 33 % women in management training courses. The 
+proportion of women recruited across all hierarchy levels was 38 %, unchanged from the 
+previous year. 
+ 
+ 
+ 
+
+25 
+Non-financial Report - 4 Employees  
+ 
+TeamViewer AG – 2022 
+The target by the end of 2023 is to increase the proportion of women on both the Supervisory 
+Board and the Management Board to 25 %. 
+Proportion of women in leadership positions 
+  
+2022 
+Target 
+Deadline 
+Supervisory Board 
+16.7 % 
+33 % 
+31 December 2023 
+Board of Directors 
+0 % 
+25 % 
+31 December 2023 
+Women in leadership 
+positions 
+33.5 % 
+33 % 
+31 December 2024 
+ 
+ 
+ 
+ 
+In addition, we are aiming for a quota of a minimum of 33 % women in our career and 
+leadership training programmes in the 2023 fiscal year. In 2022, 28 % of women took part in 
+career and leadership training. 
+Employee training and  
+development 
+In 2022, employees participated in virtual and face-to-face training for an average of 5.5 days. 
+New employees were trained for an average of two months as part of our onboarding process. 
+For us, the (further) qualification and development of our employees is a decisive building 
+block for the security and sustainability of the Group. In 2022, TeamViewer invested in new basic 
+infrastructure for learning and further development. This included a learning management 
+system, which we can use to provide our employees globally with both mandatory online 
+training and content for self-directed online learning on a central platform and to present the 
+content in such a way that it is easy for the various target groups to find the relevant topics. 
+This includes our own internal training on our products and solutions as well as content from 
+external providers. In this learning environment, employees have access to a catalogue of 
+various topics to choose from, which includes the following: 
+ 
+Compliance: This catalogue bundles all mandatory courses in the area of compliance, such as 
+risk management, occupational health and safety, IT security, data protection and anti-
+bribery. Selected courses are organised as learning plans so that employees automatically 
+receive a refresher on the topic at regular intervals. Other topics are provided with new 
+content on an annual basis. This catalogue also includes courses on all TeamViewer policies, 
+which all employees must agree to.  
+ 
+TeamViewer products: This catalogue includes all training courses for our own products. 
+These courses are created internally and primarily aimed at employees in functional areas 
+with direct customer contact. These employees receive separate learning plans with 
+compulsory courses. 
+ 
+Systems: In this topic area, employees can find training on the IT systems used at TeamViewer 
+with information on basic functionality as well as the possibilities for advanced use. 
+ 
+Technical knowledge: Two different catalogues summarise training and education on 
+technical content that employees in Research & Development and Technical Customer 
+Service can use for self-directed development. 
+ 
+Soft skills: In addition to technical competences and product knowledge, soft skills are also 
+essential for collaborating both internally and externally. In this catalogue, employees will 
+find content and training to expand their knowledge and skills in this area in a self-directed 
+manner. 
+ 
+Managers: Two different catalogues are available for managers at TeamViewer. One bundles 
+content and training surrounding the topic of leadership competence. This includes not only 
+online training but also registration for the qualification programmes described below. 
+Another catalogue is dedicated to the topics of the hiring process and interviewing, with 
+helpful resources about TeamViewer’s hiring and interviewing processes. 
+Compliance Training 
+In the area of compliance, we rolled out a total of seven new training courses on various topics 
+to all employees in the 2022 fiscal year. Employees received a total average of four hours of 
+compliance training in 2022. As part of TeamViewer’s onboarding process, new employees are 
+required to complete all of the existing courses, if they are still current, and to begin all their 
+learning plans. The compliance training portion of the onboarding programme for new 
+employees consists of 3.5 hours of training. 
+
+26 
+Non-financial Report - 4 Employees  
+ 
+TeamViewer AG – 2022 
+Product training 
+Every employee is encouraged to use up to 6 days per year for professional and personal 
+development beyond the obligatory training. The use of the offers from our learning platform 
+are supplemented by the option of taking advantage of external training. In 2022, an average 
+of 5 days per employee was invested in product training and around 14 days in sales training, 
+which surpassed the company-wide average. 
+Onboarding for new employees 
+In the 2022 fiscal year, we were able to hold our onboarding programme in person again after 
+conducting it online in 2021. The modular process first covers general topics important for all 
+departments. This is followed by product training, which is adapted to the respective functional 
+department, and takes place before starting to become familiar with the department.  
+ 
+For our managers, in addition to the content and resources within our learning platform, we 
+also have three different qualification programmes that are conducted virtually or on a hybrid 
+basis that are taught annually by external trainers: 
+ 
+Junior managers: Our programme for junior managers is aimed at employees who have 
+recently taken on a management role, or will do so in the near future. In 2022, the focus of 
+participation had shifted to upcoming managers so that more and more junior managers can 
+start their new role well prepared. During the past year, a total of 26 junior managers 
+participated in the programme, with the proportion of women participating remaining 
+unchanged at 35 %. 
+ 
+Experienced leaders: Our programme for experience leaders consists of a hybrid programme 
+consisting of various full-day modules offering further in-depth training in all areas related to 
+managing people and coping with an agile environment. A total of 11 experienced executives 
+participated in this programme in 2022, 36 % of whom were women, a slight increase compared 
+to the previous year.  
+ 
+Senior level executives: This hybrid programme was designed in cooperation with INSEAD 
+Business School to last a total of one year and is conducted hybrid over several modules. In 
+2022, 32 managers participated in the programme, 19 % of whom were women. 
+ 
+All of our leadership programmes are interdisciplinary and global in nature. This approach 
+promotes networking across departments and disciplines as well as across our different 
+locations. 
+ 
+In 2023, we intend to further expand our range of self-directed learning offered by our online 
+learning platform in all areas in order to make the content even more diverse and individually 
+relevant. We also plan to further expand and standardise the offers available outside of the 
+learning platform, including centralised offers on the topics of soft skills and project 
+management.  
+Health and well-being 
+Compared to previous fiscal years, 2022 was significantly less affected by measures due to 
+the COVID-19 pandemic. This allowed us to revive proven programmes in the area of good 
+health. In September, after a two-year break, we held our TeamViewer Health Days in again in 
+cooperation with various external partners, including health insurance companies and the 
+company physician. At our headquarters in Göppingen, employees had the opportunity to 
+take advantage of various preventive or general medical diagnostic examinations on-site. 
+The programme also held virtual events on various health topics such as stress management, 
+nutrition and exercise, as well as practical courses such as yoga classes, which were also open 
+to all other employees. 
+Flexible work models 
+For TeamViewer, flexible work models are an integral part of the offers provided by desirable 
+employers. Examples include flexible work schedules, attractive part-time offers and a hybrid 
+work model. With the hybrid work model, employees have an opportunity to find the right 
+balance between working from home and from the respective office location. They also have 
+the option to work part of the year independently away from their place of residence. In the 
+
+27 
+Non-financial Report - 4 Employees  
+ 
+TeamViewer AG – 2022 
+2022 fiscal year, 92 employees participated in the part-time programme. In addition, 167 
+employees made use of the offer to work abroad. 
+ 
+In order to promote the compatibility of family and career, TeamViewer offers various forms 
+of maternity or parental leave within the framework of the legal possibilities and depending 
+on the location, and actively promotes the reintegration of mothers and fathers after their 
+return to work. 
+Feedback and employee engagement 
+Engagement opportunities in the form of structured feedback are important, highly desirable 
+factors for our motivated and committed employees. At 82 %, the percentage of permanent 
+employees who took part in our annual employee survey continued to be high. TeamViewer 
+used the comprehensive, diverse insights gained from the survey to create a company-wide 
+action plan at several levels, both locally and globally. This plan will be implemented in the 
+upcoming year in the form of various optimisation projects. 
+ 
+After completing the initial planning in 2021, we have worked on the implementation of a 
+central global feedback process at TeamViewer in the 2022 fiscal year. The introduction of 
+this process is in line with our goal of providing employees individual evaluations of 
+performance as well as structured appreciation and feedback on development potential. In 
+preparation, we have provided all managers with comprehensive training on the topics of 
+individual feedback and performance evaluation. All non-managerial staff have also been 
+fully informed of the process, especially to enable them to effectively use the self-reflection 
+phase that is part of the process. We plan to continue this process in the 2023 fiscal year and 
+tailor it even more specifically to individual roles and introduce further levels of feedback 
+(upward feedback, feedback from colleagues).  
+ 
+Openness and organisational transparency are important to us so that we can keep our 
+employees up to date on both strategic and operational issues. We use regular staff 
+meetings (all-hands meetings) to help accomplish this. Frequent interactions within teams 
+as well as across departments are important for employee engagement. We encourage this 
+interaction through our collaboration platforms. Regular updates allow employees to network 
+on a global level and develop a better sense of the open and diverse TeamViewer culture.  
+ 
+ 
+
+28 
+Non-financial Report - 5 Environmental and Climate Protection  
+ 
+TeamViewer AG – 2022 
+5 
+Environmental and Climate Protection 
+Climate strategy 
+Protecting the environment and the climate are important concerns for TeamViewer and 
+were classified as material topics for the Company in its materiality analysis. Climate and 
+environmental protection are also topics that have a high priority in our c-a-r-e sustainability 
+programme.  
+ 
+As a provider of remote connectivity software, TeamViewer considers it its duty to help 
+customers 
+save 
+CO₂ 
+emissions 
+while 
+ensuring 
+its 
+own 
+business 
+operations 
+are 
+environmentally friendly and climate neutral. TeamViewer’s own business operations have 
+been climate-neutral since 2018 by using 100 % renewable energy for operating its software 
+applications and office buildings. 
+ 
+As the climate crisis continues to progress and environmental and climate concerns are 
+incorporated into the Company’s own opportunity and risk management, climate protection 
+has taken on special significance for TeamViewer. As part of this, the Company has been 
+calculating its product-related CO₂ footprint since the 2019 fiscal year. 
+ 
+By collecting, validating and analysing the relevant data, CO₂ emissions, reduction targets are 
+derived while quantifying the emissions avoided through the use of our products. 
+TeamViewer is committed to making its entire business operations (Scope 1, 2, 3) climate 
+neutral as of 2025 (see sub-chapter “Environmental and climate protection” in the non-
+financial report). 
+ 
+The Group’s previous emission reduction targets, which set the emissions relative to 
+employees and revenue, were already achieved in the 2021 and 2022 fiscal years.  
+ 
+To ensure that the climate and environmental protection measures continue to be optimised, 
+TeamViewer created the role of sustainability manager in the 2022 fiscal year. The 
+sustainability manager reports to the head of sustainability. Among the tasks of the 
+sustainability manager is the bundling of the existing measures to create an environmental 
+management system and continuously optimising them. 
+ 
+ 
+ 
+ 
+ 
+
+29 
+Non-financial Report - 5 Environmental and Climate Protection  
+ 
+TeamViewer AG – 2022 
+ 
+ 
+ 
+We use industry standards and regularly undergo external assessments to permanently 
+validate our climate strategy. Participation in Carbon Disclosure Project (CDP) reporting 
+since 2021 and the improvement in our score from ‘B-‘ to ‘B’ in 2022 substantiates 
+TeamViewer’s active management of environmental issues.  
+ 
+As an important next step on our pathway to climate neutrality and net zero emissions, we 
+have joined the Science Based Targets Initiative (SBTi). With the publication of our SBTi 
+reduction targets in the course of the 2023 fiscal year, we are committing to verifying our 
+climate targets according to scientific standards, aligning them with limiting global warming 
+by a maximum of 1.5 °C and thereby meeting the targets of the Paris Agreement. In 2022, we 
+agreed with SBTi on a mid-term target for 2030 and net zero emissions in 2040 as part of the 
+“Business Ambition for 1.5°C”. We are currently assuming a linear reduction of about -5 % per 
+year, increasing up to about -90 % in 2040 versus the 2021 baseline year. TeamViewer has set 
+itself a target to achieve the net zero commitment 10 years earlier than required by SBTi, 
+underlining TeamViewer’s readiness to engage in carbon removal activities. In concrete 
+terms, this means that, as of 2040, TeamViewer is committed to removing CO₂ from the 
+atmosphere equal to the amount CO₂ it is emitting. TeamViewer will take into account its 
+complete CO₂ footprint of all GHG scopes, including all products it provides to users. 
+ 
+We want to take a pioneering role with our more ambitious goals, which should also 
+encourage other companies to take responsibility and act. 
+Climate protection and climate 
+neutrality 
+When TeamViewer was founded in 2005, overcoming physical distances by allowing users to 
+connect remotely to computers and other devices was already a key ambition. Accomplishing 
+this not only delivers more efficiency to our customers in terms of time and money savings, 
+but it also contributes to reducing carbon emissions by avoiding travel. 
+ 
+
+30 
+Non-financial Report - 5 Environmental and Climate Protection  
+ 
+TeamViewer AG – 2022 
+It is our ultimate environmental goal to enable other businesses and individuals to reduce 
+their carbon emissions by providing easy-to-use green technology to connect remotely to any 
+device, anytime, from anywhere. At the same time, TeamViewer is committed to reducing its 
+own emissions and has achieved carbon neutrality in its own business operations by offsetting 
+CO₂ emissions since 2018. 
+ 
+Environmental protection is an important topic throughout the Company’s entire value chain. 
+Basic principles on actions to conserve resources are anchored in our Code of Conduct as well 
+as in our Supplier and Business Partner Code of Conduct, which is aimed at upstream and 
+downstream business partners. TeamViewer strives to use energy, water and other natural 
+resources responsibly across all of its business operations. The Company commits to optimise 
+its energy efficiency and gives preference to renewable energy sources when feasible. 
+ 
+Climate education is also seen as a key factor influencing future improvements, which is why 
+projects to promote climate education are supported annually in coordination with the 
+TeamViewer framework on social responsibility (see the chapter “Social responsibility”). We 
+also train our employees internally to teach resource-conserving behaviour. 
+ 
+In 2022, no environmentally relevant incidents occurred, and no corresponding fines  
+were imposed. 
+Carbon footprint 
+TeamViewer places a special emphasis on transparent value chains in carrying out its global 
+climate strategy. In the 2022 fiscal year, the Company once again determined its greenhouse 
+gas emissions in accordance with the Greenhouse Gas (GHG) Protocol and plans to continue 
+to carry out this measurement annually. TeamViewer used a certified software solution to 
+calculate the CO₂ footprint in 2022. 
+ 
+The central ambition within the climate strategy is to achieve climate neutrality and the net 
+zero emissions target, extended to GHG Protocol Scopes 1-3. The five steps of the climate 
+strategy – measure, set targets, avoid, compensate, communicate – were defined as the 
+control approach. 
+Emission reduction measures 
+TeamViewer solutions continue to enjoy solid demand. While this increases revenue and the 
+length of time our products are used, it also increases the level of CO₂ emissions attributed to 
+the Group from its business operations. 
+ 
+In order to keep the increase in these emissions as low as possible, in 2022, TeamViewer 
+worked with SBTi on science-based targets to reduce greenhouse gas emissions (GHG). 
+Targets are considered “science-based” when they are consistent with the reduction 
+pathway that current climate science believes is necessary to achieve the goals of the Paris 
+Climate Agreement – limit global warming to well below 2°C above pre-industrial levels and 
+work to limit warming to 1.5°C. 
+ 
+TeamViewer has defined five key measures to achieve its reduction targets: 
+ 
+1.  Renewable energy 
+Obtain data services with 100 % renewable energy 
+→ Operation of the office buildings with 100 % renewable energies  
+ 
+2.  Influence the supply chain 
+Require suppliers to define climate neutrality targets 
+ 
+3.  Increase product efficiency 
+Reduce the data intensity of our services and thereby reduce energy demand along the 
+entire value chain 
+ 
+4.  Emission-efficient business travel 
+Increase the use of rail and public transport, be more conscious of flying  
+ 
+5.  Hybrid working model 
+Reduce emissions of work commuting by increasing work from home of up to 60 % 
+(+10 % compared to previous year) 
+ 
+In the 2022 fiscal year, the entire energy requirement for business operations, which included. 
+Energy for offices and providing products was already covered by 100 % renewable energy. 
+We verify this through electronically documented Energy Attribute Certificates (EACs). 
+ 
+
+31 
+Non-financial Report - 5 Environmental and Climate Protection  
+ 
+TeamViewer AG – 2022 
+Environmental protection is an essential topic in TeamViewer’s value chain. Basic principles 
+for resource-conserving actions are anchored in TeamViewer’s Code of Conduct as well as in 
+the Supplier and Business Partner Code of Conduct, which is aimed at upstream and 
+downstream business partners. TeamViewer strives to use energy, water and other natural 
+resources responsibly throughout its business operations.  
+ 
+For the reasons described, the remuneration of the Management Board is also linked to 
+clearly defined ESG targets. As of the 2023 fiscal year, the plan is to include clearly measurable 
+reductions in CO₂ emissions as personal performance criteria for individual Management 
+Board members, in addition to the ESG targets already included (employee satisfaction, 
+proportion of women and NPS). 
+TeamViewer technology protects the environment 
+Remote connectivity can have a significant, positive effect on achieving global climate goals. 
+In order to quantify this effect, TeamViewer worked together with an established climate 
+research institute to determine the CO₂ savings attributable to the use of TeamViewer 
+products and extrapolated this data to one calendar year. 
+ 
+As part of the study on “avoided emissions” prepared in 2019 (study results are also valid in 
+the 2022 fiscal year), a corporate carbon footprint (CCF) was first determined for the 2019 
+base year in accordance with the GHG Protocol followed by a product carbon footprint (PCF) 
+based on this data. An evaluation of anonymous connection data was then combined with 
+feedback from more than 1,000 private and commercial users on their usage and associated 
+travel behaviour and verified by further expert interviews. 
+ 
+According to this study, TeamViewer products are responsible for avoiding approximately 
+37 million tonnes of CO₂ in a single year. This is roughly equivalent to the compensation of 3.5 
+billion trees, or the entire tree population of Austria. This means that approximately 500 times 
+the amount of emissions is saved than is required annually for the development and operation 
+of the software. This demonstrates the significant contribution TeamViewer’s products make 
+to achieving global climate goals. 
+ 
+The results of the study were verified by evaluating the underlying connection data. The 
+results were reaffirmed for the year 2022. A further recalculation was not carried out, but is 
+planned for 2023. 
+Emissions 
+With the support of a certified software solution and external advice, TeamViewer calculated 
+its own CO₂ emissions in 2022. 
+ 
+The emissions were determined in t CO₂ are allocation to scopes 1 to 3 as follows.  
+Development of CO₂ emissions 
+Figures in tonnes  
+CO₂ change in % 
+2019 
+2020 
+2021 
+2022 
+YoY % 
+change 
+Scope 1 
+283 
+266 
+222 
+73 
+-67 % 
+Scope 2 
+1,049 
+986 
+255 
+54 
+-79 % 
+Total Scope 1 & 2 
+1,332 
+1,252 
+477 
+127 
+-73 % 
+Scope 3 – operational emissions 
+4,673 
+2,211 
+1,909 
+4,770 
++150 % 
+Total operational  
+Total (Scope 1, 2 and 3 
+Operations)1 
+6,005 
+3,463 
+2,386 
+4,897 
++105 % 
+Scope 3 – remaining emissions 
+87,926 
+94,366 
+76,112 
+61,362 
+-19 % 
+Total Scope 3 
+92,598 
+96,557 
+78,021 
+66,131 
+-15 % 
+CCF total3 
+93,931 
+97,829 
+78,4992 
+66,259 
+-16 % 
+1 Since 2018, TeamViewer has achieved climate neutrality for its business activities by purchasing certificates to offset 
+them. 
+2 A change in the underlying assumptions for the calculation of Scope 3.11 “Use of sold products” has led to an 
+underestimation of emissions. The correction has increased the total CO₂ footprint from 45,000 t CO₂ to 78,500 t CO₂. 
+The changed in approach was used for the calculation of emissions in 2022 and will continue to be applied in the future. 
+3 As of 2025, TeamViewer will make all emissions (Scope 1, 2, 3) climate-neutral by offsetting all emissions not avoided by 
+then with certificates. 
+ 
+The Company’s total carbon footprint decreased by 16 % in the 2022 fiscal year compared to 
+the previous year. This corresponds to a saving of around 12,000 t CO₂. This was achieved 
+mainly by transitioning to 100 % renewable energy through the use of Energy Attribute 
+Certificates (EACs). EACs allow companies to track the origin of electricity, demonstrate 
+renewable energy consumption and meet clean energy targets. This allows TeamViewer to 
+offer its customers a 100 % “green” product that is generated and provided entirely with 
+renewable energy. An increase in emissions was recorded in Scope 3.06. “Business Travel” and 
+is attributable to an increase in the number of flights following the COVID-19 pandemic. An 
+
+32 
+Non-financial Report - 5 Environmental and Climate Protection  
+ 
+TeamViewer AG – 2022 
+adjusted travel policy was already rolled out in 2022 and relies on the increased use of public 
+transport and lower booking classes for air and train travel to reduce emissions associated 
+with travel activities. 
+ 
+As explained in more detail in the chapter “Climate strategy”, we have also set ourselves 
+ambitious targets in the year ahead with the science-based targets to further save climate-
+damaging CO₂ emissions.  
+ 
+Development of CO₂ emissions per million of EUR revenue 
+Figures in tonnes  
+CO₂ change in % 
+2019 
+2020 
+2021 
+2022 
+YoY % 
+change 
+Scope 1 
+0.7 
+0.6 
+0.4 
+0.1 
+-71 % 
+Scope 2 
+2.7 
+2.1 
+0.5 
+0.1 
+-81 % 
+Total Scope 1 & 2 
+3.4 
+2.7 
+1.0 
+0.2 
+-76 % 
+Scope 3 – operational emissions 
+12.0 
+4.8 
+3.8 
+8.4 
++121 % 
+Total Operations Total (Scope 1, 
+2 and 3 Operations)4 
+15.4 
+7.5 
+4.8 
+8.7 
++82 % 
+Scope 3 – remaining emissions 
+225.0 
+205.0 
+77.2 
+108.4 
++29 % 
+Total Scope 3 
+237.0 
+210.0 
+155.7 
+116.9 
+-25 % 
+CCF total 
+241.0 
+213,0 
+156.7 
+117.1 
+-25 % 
+4 By the year 2025, TeamViewer aims to reduce the emissions caused by its own business activities, converted into one 
+million in revenue, by 50 % relative to the baseline year of 2019. 
+ 
+The development of CO₂ emissions measured against turnover shows an overall decrease of 
+-25 %. This also means that the goal of reducing the emissions caused by the Company’s 
+own business activities by 50 % by 2025, based on turnover, has been achieved ahead of 
+schedule, relative to the year 2019. 
+ 
+ 
+
+33 
+Non-financial Report - 6 Energy, Waste and Water Management  
+ 
+TeamViewer AG – 2022 
+6 
+Energy, Waste and Water Management 
+Energy 
+As one of the most important measures to reduce our emissions, we are forging ahead with 
+our transition to renewable energy sources. The goal of having all TeamViewer-operated 
+buildings run on 100 % CO₂-neutral energy by 2025 was already achieved in the 2022 fiscal 
+year. Energy consumption in 2022 was as follows: 
+ 
+Year 
+Absolute 
+energy 
+consumption 
+(in kWh) 
+YoY % 
+change 
+Relative 
+energy 
+consumption 
+per employee  
+YoY % 
+change 
+Relative energy 
+consumption 
+per EUR million 
+(in kWh)  
+YoY % 
+change 
+2022 
+3,256,292 
+-2 
+2,349 
+4 
+5,754 
+-13 
+2021 
+3,328,197 
+-23 
+2,306 
+-44 
+6,643 
+-29 
+2020 
+4,309,053 
+-1 
+4,088 
+-44 
+9,386 
+-29 
+2019 
+4,336,024 
+– 
+5,036 
+-19 
+11,112 
+-16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By using 100 % renewable energy, we could save a total of around 6,365 t CO₂ in 2022. 
+ 
+In line with the achievement of our reduction targets, we also oblige our suppliers to achieve 
+greater efficiency and a rapid transition to renewable energy sources. This is monitored 
+through a due diligence process as part of the globally binding Supplier & Business Partner 
+Code of Conduct. 
+Waste 
+Waste separation options have already been introduced at all German sites over the past 
+several years and are increasingly being rolled out and implemented globally. 
+ 
+To avoid disposable plastic, we make available washable and reusable tableware, cutlery and 
+drinking vessels and water dispensers at almost all locations. 
+ 
+It is particularly important to us to extend the life cycles of our IT and electrical equipment. 
+After an average of three years, our equipment is sorted out but not scrapped. Instead, it is 
+sold to secondary recycling partners (in some cases donated locally) and can be used again 
+after a technical and data protection overhaul. 
+ 
+Year 
+Absolute 
+waste 
+quantity 
+(in kg) 
+YoY % 
+change 
+Relative waste 
+volume per 
+employee 
+(in kg) 
+YoY % 
+change 
+Relative waste 
+volume per 
+EUR million 
+revenue 
+(in kg) 
+YoY % 
+change 
+2022 
+111,418 
+3 
+80 
+7 
+197 
+-8 
+2021 
+107,720 
++193 % 
+75 
++113 % 
+215 
++169 % 
+2020 
+36,817 
+-18 % 
+35 
+-33 % 
+80 
+-30 % 
+2019 
+44,864 
+– 
+52 
+– 
+115 
+– 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+34 
+Non-financial Report - 6 Energy, Waste and Water Management  
+ 
+TeamViewer AG – 2022 
+Water management 
+Waste and wastewater are further optimised despite their low contribution (< 5 %) to our CO₂ 
+footprint. The efficient use of resources is increasingly promoted at all TeamViewer locations, 
+among others, through employee training. 
+ 
+ 
+Year 
+Absolute 
+wastewater 
+quantity  
+(m3) 
+YoY % 
+change 
+Relative 
+wastewater 
+volume per 
+employee 
+YoY % 
+change 
+Relative 
+wastewater 
+volume per 
+EUR million 
+revenue 
+YoY % 
+change 
+2022 
+11,275 
+-2 % 
+16 
+2 % 
+40 
+-13 % 
+2021 
+11,5001 
+83 % 
+16 
+167 % 
+46 
+229 % 
+2020 
+6,298 
++1 % 
+6 
+-14 % 
+14 
+-13 % 
+2019 
+6,257 
+– 
+7 
+– 
+16 
+– 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 The change in the calculation method results in a correction of the 2021 values (23,100 m³). 
+ 
+ 
+ 
+ 
+
+35 
+Non-financial Report - 7 Social Responsibility  
+ 
+TeamViewer AG – 2022 
+7 
+Social Responsibility 
+Our understanding 
+TeamViewer’s mission is to create a world that works better (Purpose: Creating a world that 
+works better). We want to be a role model as a local, regional, national and international 
+partner. 
+ 
+To make the best use of time, effort and budget, TeamViewer bases its social responsibility 
+strategy and projects on the following four main pillars: 
+Technology 
+As a global player in the technology sector, TeamViewer uses its solutions to make life easier 
+for customers worldwide. We know that collective efforts are important and use our position 
+to facilitate targeted positive change. 
+Local engagement 
+TeamViewer values not only its ability to assert itself as a global player but also the 
+opportunity to share its success for the benefit of its immediate neighbourhood. Therefore, 
+we try to be actively involved outside of politics in the regions where we are located. 
+Education 
+Companies like TeamViewer only stand to benefit from the academic and innovative efforts 
+of schools and universities, which is why we make a conscious effort to support educational 
+systems that strive to advance society through research and learning.  
+Diversity 
+With around 80 nationalities comprising our workforce, diversity is one of our core values at 
+TeamViewer. We benefit from the creativity that comes from the intentional and accidental 
+intertwining of diverse people and ideas. Diverse experiences and perspectives have allowed 
+us to develop ideas and products that reflect our differences, which is something we want to 
+see in society and the world at large. 
+Our contribution 
+Based on the four pillars of our social responsibility strategy, we are involved in numerous 
+projects and initiatives. The following are among the concrete activities we carried out this 
+year:  
+TeamViewer for Good 
+The TeamViewer for Good initiative has long enjoyed a quiet but central position in our sales 
+and marketing departments. Under this initiative, TeamViewer grants licences at a greatly 
+reduced rate or even for free to non-profit institutions (NGOs). With more than 3,400 licences 
+donated to NGOs in 2022, this initiative has already helped many users looking for a digital 
+solution to facilitate their non-profit work. 
+Partnership with the Esslingen University of Applied Sciences 
+The Göppingen campus is not far from our corporate headquarters. We support several 
+projects dedicated to the promotion of technology degree programmes and, most importantly, 
+the promotion of women. This commitment encompasses all our social responsibility pillars: 
+Technology, Education, Local Engagement and Diversity. Through this initiative, many 
+students have been introduced to our company.  
+ 
+The following projects were organised and implemented as part of the partnership with the 
+Esslingen University of Applied Sciences:  
+Scholarships 
+In 2022, scholarships were made available to two students (one female and one male) at 
+Esslingen University of Applied Sciences under the umbrella of the Germany Scholarship. We 
+want to encourage outstanding young talent to continue their academic development. In this 
+way, we also support students who are committed to conducting research studies and 
+experiments, which are essential for technological innovations.  
+ 
+ 
+
+36 
+Non-financial Report - 7 Social Responsibility  
+ 
+TeamViewer AG – 2022 
+Girls’ Digital Camp 
+The transfer programme “Girls’ Digital Camp” is an initiative sponsored by the Esslingen 
+University of Applied Sciences. It aims to engage young female students and school pupils and 
+encourage them to get involved in STEM subjects (mathematics, computer science, nature 
+and technology). As STEM subjects are predominantly pursued by male students, it has 
+become essential to promote the appeal of STEM subjects to female students and demystify 
+these subjects as a whole. TeamViewer is a major sponsor of this initiative, committing not 
+only to financially supporting the programme for a three-year period but also to providing 
+opportunities for interaction between the students and TeamViewer’s staff. To kick off the 
+partnership, TeamViewer organised an online event led by two female employees who shared 
+their own experiences in the tech industry and offered career tips. Our sponsorship and 
+involvement in this programme are in line with our corporate goal to promote and increase 
+the employment of women in the technology sector. 
+Education Partner Network Göppingen 
+We support academic institutions in our local neighbourhoods and promote academic 
+excellence. We are an official education partner in various elementary and secondary schools 
+in Göppingen. Through our support, we hope to involve many more schools in this partnership 
+and form a stronger school network in Göppingen. We believe this will be an effective way to 
+help students early to make more conscious career decisions by giving them insight into the 
+potential career paths that exist at a technology leader.  
+Social facilities  
+With the common goal of promoting diversity, TeamViewer continued to make a 
+commitment to financially support some local projects in 2022. The focus of the projects was 
+on the areas of education and youth work.  
+Sponsorship in elite sport 
+TeamViewer recognises the importance of employee health as a key part of corporate 
+longevity and sustainable employment. We therefore strive to promote a movement-
+oriented culture within the Company.  
+ 
+This has strengthened our commitment to promoting sporting activities in Göppingen. For 
+example, we have been the main sponsor of the handball Bundesliga team Frisch Auf 
+Göppingen since 2020. This sponsorship helps us successfully harmonise our sponsorship 
+activities with our local social commitment in Göppingen. 
+ 
+A common understanding of social and local responsibility is particularly important to us in 
+this commitment.  
+ 
+Our other two sponsoring activities are also designed to be compatible with the sustainability 
+goals set by TeamViewer.  
+Manchester United 
+With Manchester United, TeamViewer shares a focus on diversity, education and talent 
+development. Our expert groups exchange regularly to ensure our close cooperation.  
+Mercedes-AMG Petronas Formula 1 Team  
+The Mercedes-AMG Petronas Formula 1 Team describes itself and its work in racing as the 
+“fastest laboratory in the world”. We share the view that technology can be a key driver of 
+change in global climate strategy and can positively influence the mitigation of the climate 
+crisis. Both TeamViewer and the Formula 1 racing team, as well as the parent company 
+Mercedes-Benz Group AG, are committed to climate neutrality and aim to achieve this by 
+2025 (Mercedes-AMG Petronas Formula 1 Team and TeamViewer) and 2039 (Mercedes-Benz 
+Group AG). 
+Other and local sports activities 
+Sponsoring top-class sports is not the only area that fits in with our social responsibility 
+strategy. We also sponsor amateur sports activities in a variety of ways, combining the health 
+of our employees with local social commitment. For example, we support a local women’s 
+football club as well as a tennis club, both of which are located in the region of the Company’s 
+headquarters in Göppingen, Germany.  
+Core values 
+Based on our core values and our understanding of global cooperation, we condemn Russia’s 
+terrible war against Ukraine. We have therefore immediately stopped all new business in 
+Russia and Belarus and are not renewing any contracts with customers from these countries. 
+We have stopped all non-commercial connections to and from Russia and Belarus and have 
+also made our software available to local organisations in Ukraine free of charge. TeamViewer 
+has also donated approximately EUR 750,000 to Red Cross organisations for humanitarian aid 
+on the ground. 
+ 
+ 
+
+37 
+Non-financial Report - 8 Index for GRI, SDG, UN Global Compact, WEPs and SASB  
+ 
+TeamViewer AG – 2022 
+8 
+Index for GRI, SDG, UN Global Compact, 
+WEPs and SASB 
+Chapter in Non-Financial Report 
+GRI  
+SDGs 
+UNGC 
+Principles 
+WEPs 
+01 Fundamentals of the Non-Financial Report 
+  
+  
+  
+ 
+02 Sustainability at TeamViewer 
+102–15 
+12, 13 
+9 
+ 
+Materiality analysis 
+102–15 
+103–1 
+201–2 
+  
+  
+1, 2 
+Sustainability targets 
+  
+  
+  
+2 
+Sustainability management 
+102–29 
+103–2 
+  
+  
+1 
+03 Governance and Integrity 
+ 
+ 
+ 
+ 
+Respect for human rights 
+  
+5, 8, 10 
+1, 2, 3, 4, 5, 6 
+2 
+Combating corruption and bribery 
+205, 206 
+16 
+10 
+ 
+Transparency and collaboration 
+  
+  
+  
+ 
+Tax transparency 
+207 
+17 
+  
+ 
+04 Employees 
+  
+  
+  
+ 
+Human resource management and corporate 
+culture 
+102–8 
+8  
+  
+1, 2 
+Employee recruitment 
+405, 406 
+5, 8 
+6 
+ 
+Employee retention 
+  
+  
+6 
+ 
+Diversity and anti-discrimination 
+405, 406  
+5, 8 
+6 
+2, 6 
+Equality of women and men 
+405, 406 
+5, 8 
+6 
+2, 5, 6, 7 
+Employee training and development 
+404 
+4, 8 
+  
+2, 4 
+Health and well-being 
+403 
+3, 8 
+  
+3 
+Flexible working 
+401–2 
+8 
+  
+2, 3 
+Chapter in Non-Financial Report 
+GRI  
+SDGs 
+UNGC 
+Principles 
+WEPs 
+Employee engagement and feedback 
+102–43 
+403–4 
+8 
+2 
+ 
+05 Environment and climate protection 
+  
+  
+  
+ 
+Climate strategy 
+103–2 
+308 
+12, 13 
+7 
+ 
+Climate protection and carbon neutrality 
+305 
+12, 13 
+7 
+ 
+Carbon footprint 
+305 
+ 13 
+  
+ 
+Emissions 
+305 
+12, 13 
+7 
+ 
+Targets and measures 
+103–2 
+305 
+12, 13 
+7 
+ 
+06 Energy management, waste management 
+and water management 
+  
+  
+  
+ 
+Energy 
+302, 303 
+12, 13, 
+15  
+7 
+ 
+Waste 
+302, 303 
+12, 13, 
+15  
+7 
+ 
+Water 
+302, 303 
+ 12, 13, 
+15  
+7  
+ 
+07 Social responsibility 
+  
+  
+  
+ 
+Our view 
+413 
+4, 8, 10, 
+12, 13 
+8 
+ 
+Our contribution 
+413 
+4, 5, 17  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+38 
+Non-financial Report - 8 Index for GRI, SDG, UN Global Compact, WEPs and SASB  
+ 
+TeamViewer AG – 2022 
+Overview of the references to relevant Sustainability Accounting Standards Board 
+(SASB) Standards 
+ 
+References Annual Report 2022 
+SASB 
+Group fundamentals (Combined management report) 
+TC-SI-000.A 
+Financial statement TeamViewer AG 
+TC-SI-000.A 
+Security and data protection (Combined management report) 
+TC-SI-000.B 
+Financial statement TeamViewer AG 
+TC-SI-000.B 
+Security and data protection (Combined management report) 
+TC-SI-000.C 
+Financial statement TeamViewer AG 
+TC-SI-000.C 
+Energy management, waste management and water management  
+(Non-financial report) 
+TC-SI-130a.1 
+Energy management, waste management and water management  
+(Non-financial report) 
+TC-SI-130a.2 
+Climate protection and carbon neutrality (Non-financial report) 
+TC-SI-130a.3 
+Security and data protection (Combined management report) 
+TC-SI-220a.1 
+Markets and distribution (Combined management report) 
+TC-SI-220a.5 
+Respect for human rights (Non-financial report) 
+TC-SI-220a.5 
+Security and data protection (Combined management report) 
+TC-SI-230a.2 
+Employees (Combined management report and non-financial report) 
+TC-SI-330a.1 
+Employees (Combined management report and non-financial report) 
+TC-SI-330a.2 
+Diversity and anti-discrimination (Non-financial report) 
+TC-SI-330a.3 
+Combating corruption and bribery (Non-financial report) 
+TC-SI-520a.1 
+Opportunities and risks report (Combined management report) 
+TC-SI-550a.1 
+Opportunities and risks report (Combined management report) 
+TC-SI-550a.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+39 
+Non-financial Report - 8 Index for GRI, SDG, UN Global Compact, WEPs and SASB  
+ 
+TeamViewer AG – 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TeamViewer AG 
+Bahnhofsplatz 2 
+73033 Göppingen 
+Germany 
+ 
+www.teamviewer.com

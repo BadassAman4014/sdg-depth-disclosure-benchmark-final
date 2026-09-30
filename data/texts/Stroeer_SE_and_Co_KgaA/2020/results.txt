@@ -1,0 +1,2524 @@
+a
+Zusammengefasster Lagebericht
+Wirtschaftsbericht
+2020 PROGRESS REPORT 
+ON SUSTAINABILITY PERFORMANCE
+Ströer SE & Co. KGaA
+
+b
+Zusammengefasster Lagebericht
+Wirtschaftsbericht
+CONTENTS
+1 | Foreword
+01
+2 | 2020 Progress report
+02
+2.1 Sustainability in 2020
+02
+2.2 Business model
+03
+2.3 Ströer’s concept of sustainability
+04
+2.4 The guiding principles of efficiency, innovation, and responsibility
+05
+3 | 	Climate action and the environment:
+	
+progress toward meeting our target
+08
+3.1 Reducing energy consumption
+08
+3.2 Cutting CO2 emissions
+09
+3.3 Using sustainable materials
+10
+3.4 Energy-dependent advertising rates
+10
+3.5 Carbon-neutral advertising
+10
+3.6 The smart city
+11
+4 | Welfare and community: 
+	
+progress toward meeting our target
+16
+4.1 Automating administrative processes
+16
+4.2 More flexible working hours
+17
+4.3 Pro-bono advertising
+17
+4.4 Raising awareness of the need for greater sustainability
+19
+4.5 Infrastructure improvements
+19
+5 | Corporate governance: 
+progress toward meeting our target
+20
+5.1 Improving IT security
+20
+5.2 Improving data protection
+21
+5.3 Changes on the Supervisory Board
+21
+5.4 Launch of a sustainability workshop
+25
+5.5 Ongoing improvement of 
+	
+Ströer’s sustainability performance
+25
+6 | Sustainability in major subsidiaries
+26
+6.1 Asambeauty
+26
+6.2 Statista
+27
+6.3 blowUP media
+28
+7 | ESG data
+29
+7.1 Energy consumption
+29
+7.2 Greenhouse gas emissions
+30
+7.3 Material
+32
+7.4 Employees
+33
+8 | Formal sustainability communication
+34
+
+1
+Foreword
+1 | FOREWORD
+Dear reader,
+Ströer has a long history of sustainable and environmentally friendly business practices. This is the second year in which we 
+are documenting our performance in this area, enabling us to meet the growing demand from our customers and employees 
+for transparency with regard to sustainability, and to integrate the increasingly stringent requirements of national and Euro-
+pean policymakers into our day-to-day business in a clear way.
+Through its Green Deal, the European Union is planning to reduce greenhouse gas emissions by 55% by 2030 compared to 
+the base year of 1990, and to achieve full climate neutrality by 2050. The expectation is that an effective circular economy 
+will have become established in Europe by then, with a significant increase in the recycling rate and the reuse of materials 
+along the entire value chain.
+Ströer did not record its CO2 emissions in 1990, but within the next decade the Company will significantly reduce its green-
+house gas emissions. Our operations will be completely carbon-neutral by 2025, and any emissions that Ströer has not 
+reduced by then will be offset through appropriate measures. We have also been working very hard to reuse materials more 
+often for some time now.
+Over the past year, in particular, we have launched a series of processes and taken numerous measures to improve sustaina-
+bility. Today, we can be proud of the pace of our progress and of what we have already achieved. But we will not rest on our 
+laurels; we will continue to work on further improvements at all levels in 2021. This progress report provides a good impres-
+sion of the steps that we took in 2020. While we are far from meeting all of our targets yet, we have planned and initiated the 
+action that will be required to enable us to do so.
+In the environmental sphere, we aim to switch our advertising media and offices almost completely to green electricity by the 
+end of 2021. The necessary changes to our contracts were initiated during the year under review. Our numerous measures 
+to reduce energy consumption are having a noticeable, positive effect on various sustainability indicators, though it should 
+be noted that the government restrictions to combat the SARS-CoV-2 virus and the resultant impairment of business perfor-
+mance are exaggerating these figures. This means that 2022 is likely to be the first year to provide meaningful data that can 
+be compared to 2019.
+In the area of welfare and the community, Ströer is working very hard to strengthen its culture of sustainability across all 
+hierarchy levels and to raise awareness among its stakeholders. Ströer is using the reach of its media to publicize the need for 
+greater sustainability and more community-focused action, for example by championing charitable projects worthy of sup-
+port. Furthermore, we entered into a strategic partnership with UNICEF, the United Nations children’s charity, in the summer 
+of 2021. And last but not least, Ströer assumes responsibility for actions in the supply chain.
+In the area of corporate governance, Ströer actively promotes a sustainable corporate culture and has developed a code of 
+conduct to provide transparent and standardized guidelines for collaboration across the Company. IT security benefited from 
+this in 2020. Ströer invested extensively in further groupwide improvements and launched processes that will progressively 
+and significantly enhance IT security by 2022.
+As a family-owned company, Ströer is aware of its responsibilities and has made sustainability in thought and deed part of 
+its corporate culture. A sustainability-oriented mindset can only be embedded within a company in a meaningful way if it 
+becomes a long-term pillar of corporate strategy and is directly relatable to the Company’s core business. There is no inherent 
+contradiction between sustainability and business success; in fact, one depends on the other. We prefer to think in decades, 
+not quarters.
+Udo Müller	
+Christian Schmalzl	
+Dr. Christian Baier	
+Henning Gieseke
+Founder/Co-CEO	
+Co-CEO	
+COO 	
+CFO
+
+2
+2020 Progress report
+2 | PROGRESS REPORT 
+Ströer’s 2020 progress report outlines the essential elements 
+of the Company’s sustainability strategy and pertinent de-
+velopments in 2020. The statements made in the relevant 
+report in 2019, which also details the long-term 2030 Sus-
+tainability Strategy, remain valid.
+Ströer has set itself a timeline of up to ten years for achieving 
+its sustainability goals. Some targets in the strategy will be 
+achieved a lot earlier, some later, and some perhaps not until 
+2030. Nevertheless, Ströer is fully committed to achieving 
+each of the sustainability targets as early as possible.
+2.1 Sustainability in 2020
+Despite all the challenges presented by coronavirus, Ströer 
+recorded very good results – in relative terms – in a diffi-
+cult market environment, enabling the Company to invest 
+EUR 95m. The focus was on further expanding its digital and 
+dialog-oriented business segments, which primarily covers 
+the Company’s position in digital advertising media and the 
+automated, programmatic marketing of digital inventory. By 
+expanding these areas, Ströer also aims to improve its over-
+all sustainability performance, as the switch from traditional 
+out-of-home advertising using posters to digital advertising 
+media powered by green electricity reduces the emission of 
+pollutants and ties the business more closely into the circular 
+economy. The remaining task is to offset the CO2 emissions 
+generated by the manufacture of advertising media.
+Key data
+EUR m
+2018
+2019[1]
+2020
+Revenue
+1,507.8 
+1,591.1 
+1,442.2 
+Earnings before interest, tax, depreciation, and amortization (EBITDA adjusted)
+538.2
+538.3
+452.8
+Taxes
+–21.9
+–19.9 
+–12.8 
+Cash flows from operating activities (continuing operations)
+409.8
+451.5
+380.0
+Capital expenditure
+111.9
+81.4
+95.4
+Total assets[2] 
+2,998.4 
+2,854.5 
+2,621.6 
+Number of employees[3]
+12,514
+12,210
+10,003
+[1] 	Restated
+[2] 	On December 31 of each year.
+[3]	Based on full-time positions as at December 31 of each year. The significant drop in the number of employees in 2020 	
+	 resulted mainly from the sale of part of the dialog segment.
+
+3
+2020 Progress report
+2.2 Business model
+Ströer SE & Co. KGaA, a listed German company with its 
+headquarters in Cologne, is a leading provider of out-of-
+home and online advertising as well as all forms of dialog 
+marketing in Germany. Ströer offers both focused and ho-
+listic communication solutions across the entire media spec-
+trum that are tailored to the advertiser’s needs, from large 
+national organizations to small local advertisers.
+Ströer’s core business is out-of-home (OOH) media. Under 
+the OOH+ strategy, this core business is complemented by 
+the Digital OOH & Content and Direct Media segments to 
+deliver an even stronger service offering. Ströer offers cus-
+tomers the possibility to combine all relevant media chan-
+nels and to use them in parallel in order to convey their ad-
+vertising message with maximum impact. Ströer is the only 
+vendor to offer this.
+In the out-of-home business, Ströer uses around 300,000 
+advertising media in Europe, predominantly in Germany. The 
+service offering includes traditional formats, such as post-
+ers or screens and projectors, and digital formats featuring 
+LED/LCD screens. Ströer organizes the set-up, maintenance, 
+servicing, and illumination of all advertising media, street 
+furniture, and advertising on the side of buildings. In the 
+OOH business, Ströer generated EUR 548m in 2020 (2019: 
+EUR 709m) with 1,816 employees (2019: 1,903).
+With the complementary digital out-of-home & content busi-
+ness, Ströer is one of the leading providers of online adver-
+tising in Germany. The Ströer Group currently operates and 
+commercializes several thousand websites, predominantly in 
+the German-speaking countries. In the digital OOH & con-
+tent business, Ströer generated EUR 548m in 2020 (2019: 
+EUR 588m) with 2,572 employees (2019: 2,431).
+The acquisition of t-online.de represented a milestone in 
+Ströer’s evolution from an advertising services provider into 
+a news provider, and thus an integrated media company. 
+t-online.de is Ströer’s own news portal, and an established 
+political medium and journalistic force in Germany. The news 
+service is complemented by key information on business and 
+social matters thanks to Ströer’s equity investment in Statista, 
+a leading data provider.
+The direct media segment is a further addition to the OOH 
+business. This segment includes the sale of products and ser-
+vices by phone and the operation of call centers on behalf 
+of customers (dialog marketing). Ströer is one of the largest 
+providers of call center capacity in Germany and Europe. In 
+the direct media business, Ströer generated EUR 369m in 
+2020 (2019: EUR 341m) with 5,148 employees (2019: 7,381).
+The combination of these three segments enables the Com-
+pany to continually expand its offering and increase its rele-
+vance to advertising customers, while its strong market pres-
+ence and long-term contracts in the German market provide 
+an excellent basis for it to capture an increasing share of a 
+growing market over the coming years.
+
+4
+2020 Progress report
+2.3 Ströer’s concept of sustainability
+Sustainable business means trying to balance the interests 
+of those involved in and those affected by the business pro-
+cess. Sustainability is synonymous with decency, integrity, 
+and fairness. Sustainable business practices avoid know-
+ingly disadvantaging third parties. The United Nations (UN) 
+describes sustainable development as “development that 
+meets the needs of the present without compromising the 
+ability of future generations to meet their own needs”.
+For Ströer, sustainability involves effective environmental 
+protection and energy savings, comprehensive product 
+stewardship, recycling where possible and avoiding waste, 
+and having a personnel policy that focuses on employee wel-
+fare. But above all, it means ensuring effective compliance, 
+risk management, comprehensive data protection, and IT se-
+curity, and having a transparent corporate governance policy 
+aligned with the interests of all stakeholders.
+Ströer abides by the principle of sustainability throughout 
+the value chain, and has developed a supplier code of con-
+duct, incorporating sustainability criteria, with which the 
+Company’s mainly domestic suppliers must comply. Its in-
+ternational suppliers must follow the Responsible Business 
+Alliance’s code of conduct.
+The main aspects of sustainability in the Ströer business segments[1] 
+Environment
+Welfare and community
+Governance
+Head office
+• 	Energy consumption 
+• 	Office buildings and vehicle fleet
+• 	Personnel matters 
+• 	Data protection 
+• 	IT security
+• 	Compliance
+• 	Risk management
+• 	Supervision
+Out-of-home advertising
+• 	Energy consumption and material 
+	 requirements of advertising media
+•	Energy consumption of office buildings
+• 	Production and logistics
+• 	Value chain
+• 	Personnel matters 
+• 	Customer relationships 
+• 	Data protection 
+• 	IT security
+Digital content business
+• 	Energy consumption of data centers, 
+	 websites, and office buildings
+• 	Personnel matters 
+• 	Customer relationships 
+• 	Data protection 
+• 	IT security
+Direct media
+•	Energy consumption of office buildings
+• 	Personnel matters 
+• 	Customer relationships 
+• 	Data protection 
+• 	IT security
+Production 
+(Asambeauty)
+•	Energy consumption of production 
+	 processes
+• 	Energy consumption of office buildings
+• 	Raw materials
+• 	Value chain
+•	Waste management 
+• 	Water management
+• 	Personnel matters 
+• 	Customer relationships 
+• 	Data protection 
+• 	IT security
+Statista
+• 	Energy consumption of data centers, 
+	 websites, and office buildings
+• 	Personnel matters 
+• 	Customer relationships 
+• 	Data protection 
+• 	IT security
+[1]  Following a restructuring from 2021 onwards, out-of-home advertising will form the Out-of-home Media segment, the digital content business and direct media 
+	 the Digital & Dialog Media segment, and Asambeauty and Statista the DaaS & E-Commerce segment.
+So far, climate change has not had a noticeable impact on 
+Ströer’s business. In the coming years, however, climate 
+change could force significant adjustments to the businesses 
+of Ströer’s customers, and thus influence their approach to 
+advertising. Ströer aims to anticipate this development now 
+by using digitalization and cross-sector approaches to design 
+additional advertising concepts and formats that continue to 
+be more appealing to customers than the offerings of com-
+petitors – not least because they already take into account 
+sustainability requirements that will become more stringent 
+going forward.
+
+5
+2020 Progress report
+2.4 	The guiding principles of efficiency, innovation,
+	
+and responsibility
+Ströer combines its commercially focused business strategy 
+with its sustainability strategy, which prioritizes environ-
+mental issues, social responsibility, and corporate govern-
+ance aspects. This results in efficient practices that conserve 
+resources and reduce emissions, innovative practices that 
+use more environmentally friendly materials and processes, 
+and responsible practices that ensure that Ströer readjusts 
+where efficiency and innovation have not yet led to the de-
+sired level of sustainability.
+To Ströer, efficiency, innovation, and responsibility mean:
+•	 Optimizing all beneficial aspects of sustainability based 
+on cost-benefit considerations.
+•	 Using novel products and work processes to offer more 
+attractive services or to introduce more aspects of the 
+circular economy.
+•	 Targeting expenditure only at sustainable activities in 
+the absence of opportunities for rationalization and in-
+novation.
+Ströer can implement the sustainability strategy particularly 
+effectively when it comes to protection of the environment. 
+The Company continuously optimizes its processes in the 
+name of efficiency while systematically reducing its con-
+sumption of resources. This results in lower carbon emis-
+sions. Under the guiding principle of innovation, Ströer is 
+driving forward the ongoing technological improvement of 
+screens in out-of-home advertising and the development of 
+new, environmentally friendly advertising concepts. Ströer is 
+also pursuing innovative ways of greenscaping street furni-
+ture and using renewable energy. The guiding principle of 
+responsibility promotes the use of more expensive green 
+electricity, rather than conventionally generated power, and 
+of more sustainable materials in advertising media.
+blowUP media Benelux transformed the Belgian spa resort of Knokke into a 100m² square meter vertical garden 
+that absorbs a net tonne of CO2 annually.
+
+6
+2020 Progress report
+The spectrum of sustainability at Ströer
+Category
+Environment
+Welfare and community
+Governance
+Efficiency
+•	Continuously optimizing operational 
+processes and using the latest 
+	 technology to continually reduce 
+energy and resource consumption.
+• 	Further standardizing/digitalizing HR 
+management frees up more time for 
+better employee support. 
+•	Ströer pays close attention to key 
+standards along the entire value chain. 
+	
+• 	Introducing a consistent, 
+groupwide data protection 
+regime. 
+• 	Ensuring uniform, 
+	 groupwide IT security.
+• 	Harmonizing organizational 
+structures and standards 
+across the Group.
+Innovation/
+environment
+•	Transitioning out-of-home advertising 
+from conventional materials to digital 
+technology improves the overall 
+environmental footprint.
+• 	Improved LED technology reduces 
+energy consumption of screens by up 
+to a third. 
+• 	Ströer supports customers in the 
+development of new, environmentally 
+friendly advertising concepts. 
+• 	Greenscaping street furniture improves 
+micro-climate and aesthetics. 
+• 	Going forward, the street furniture 
+used by Ströer will offer a range of 
+added benefits for a better ‘smart city’. 
+•	Introducing systematic knowledge 
+management is expected to more 
+effectively retain experience in the 
+Company. 
+• 	Participating in various initiatives 
+aimed at permanently increasing the 
+proportion of women, especially in 
+management positions.
+•	Awareness of the need for greater 
+sustainability must be raised right 
+from initial training. 
+•	Creating sustainability sites within 
+t-online.de and watson.de with the 
+aim of raising awareness in society.
+Responsibility
+•	Increased reliance on green electricity 
+instead of conventional energy sources 
+significantly reduces CO2 emissions.
+•	Using sustainable materials and 
+	 designs for advertising media in order 
+to conserve resources in accordance 
+with the principles of the circular 
+economy.
+•	The provision of advertising free of 
+charge or at heavily discounted rates 
+(pro bono) for customers such as 
+non-governmental organizations or 
+	 for public-benefit purposes such as 
+	 the search for missing children is to 
+	 be retained, or even expanded. 
+•	Participating in events that promote 
+more sustainable behavior in 
+	 society with the aim of raising 
+public awareness. One example is 
+the Greentech Festival in Berlin and 
+related marketing activities. 
+•	Establishing a sustainability 
+team within the Company 
+tasked with assessing 
+sustainable (capital 
+	 investment) projects. 
+•	Establishing a consultancy 
+service to promote more 
+sustainability in advertising 
+and ‘more sustainable 
+content’. 
+	
+
+7
+2020 Progress report
+The most important measure is to no longer power out-
+of-home advertising media with gray electricity (a mixture 
+of electrical energy of unknown origin, which could come 
+from fossil fuels, nuclear power, or from renewable ener-
+gy sources), but only with green electricity, which comes 
+exclusively from renewable energy sources. This means a 
+huge reduction in greenhouse gas emissions caused by 
+out-of-home advertising. Only a small amount of gray 
+electricity remains, which is generated during the physical 
+transmission of the electricity.
+Another measure is the documenting of all CO2 sources in 
+the campaign, for example the electricity used in the data 
+centers for the campaign’s data processing. Other sourc-
+es of emissions in conventional out-of-home advertising 
+include the paper and textiles used, the printing process, 
+and waste disposal. Finally, there are the logistics of out-
+of-home advertising, such as changing the poster, clean-
+ing it, or repairing it.
+Guided by the principles of efficiency, innovation, and 
+responsibility, Ströer will continue its efforts to reduce 
+its greenhouse gas emissions, and expand its offsetting 
+measures as required. Ströer will also formulate a detailed 
+plan outlining each optimization step on the way to car-
+bon neutrality by 2025. This plan will be presented in next 
+year’s progress report.
+ADVERTISING GOES GREEN: 
+CLIMATE-NEUTRAL BY 2025
+Ströer plans to make all of the Group’s business opera-
+tions completely climate-neutral from 2025 onwards. This 
+target will be achieved in three ways. First, Ströer will 
+continue to reduce its energy consumption. Second, Ströer 
+will gradually switch its energy supply from conventional 
+to green electricity. Third, Ströer will offset any remaining 
+greenhouse gases it generates through suitable carbon 
+offsetting projects around the world.
+This covers not only the greenhouse gases generated dur-
+ing the course of business but also any significant amount 
+of CO2 released during the manufacture of the advertising 
+media. While these emissions are generated only once, 
+the expansion of digital advertising media, as is the case 
+at Ströer, means that they are ongoing. Ströer also aims 
+to completely offset these emissions through certified cli-
+mate change mitigation projects.
+Ströer has already taken the first steps toward climate 
+neutrality. In 2020, for example, the Company decided 
+to only place out-of-home and digital campaigns that 
+have zero negative impact on the climate. Customers 
+can now run carbon-neutral advertising campaigns with 
+Ströer without incurring additional costs, a step that was 
+made possible by combining a range of measures. Since 
+mid-2021, out-of-home advertising through Ströer is now 
+completely carbon neutral at no extra charge.
+Greenhouse gases generated by Ströer out-of-home 
+advertising (Scope 2) in tonnes, CO2 equivalent
+(t) = target
+Zero-carbon giant posters: Since the start of the year, 
+all giant posters offered by blowUP media have been produced 
+carbon-neutrally.
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+2019               2020              2021 (t)          2022 (t) 
+
+8
+Climate action and the environment: progress toward meeting our target
+3 | 	CLIMATE ACTION AND THE ENVIRONMENT: 
+	
+PROGRESS TOWARD MEETING OUR TARGET
+3.1 Reducing energy consumption
+GOAL: To significantly reduce the power consump-
+tion of digital LED displays by 25% from a 2019 
+baseline by 2025. This will be complemented by ad-
+ditional energy savings in other advertising media.
+To reduce the power consumption of the Company’s adver-
+tising media and street furniture, a variety of measures were 
+implemented depending on the type of advertising media.
+SIGNIFICANT PROGRESS 
+• 	 The night-time shutdown of installations has been ex-
+tended where ambient lighting is otherwise sufficient 
+(improved stand-by management), for example in train 
+and underground stations outside of operating hours or 
+for installations near street lighting.
+•	
+Ströer has redefined the quality standard for the bright-
+ness of its projectors and now employs a fully automatic 
+brightness control system that requires less power while 
+maintaining the same image quality. It measurably ex-
+tends the service life of the projectors and significantly 
+reduces their energy consumption.
+•	
+Ströer is increasingly using powerful sensors for ambient 
+light measurement which continuously adjust the bright-
+ness of the advertising media depending on the weather 
+and light conditions.
+•	
+Digital systems with built-in LCD and LED technology are 
+dimmed.
+•	
+As part of its digitalization drive, Ströer has developed 
+its own LED module designed for the lowest possible en-
+ergy consumption and a long service life. This versatile 
+module will be used in a range of advertising media with 
+screen sizes between nine and 65 square meters.
+•	
+In consultation with the customer, the percentage of the 
+color black in advertisements is increased during play-
+back, which reduces energy consumption.
+•	
+Our advertising media increasingly feature optimized 
+control units, and LEDs and other components are being 
+selected specifically according to their energy efficiency.
+
+Ströer has identified potential for optimizing its green cre-
+dentials in its advertising media, in its vehicle fleet, and 
+in the servicing of its sites. Another area where noticeable 
+improvements are possible is in the commute to and from 
+work. Measures to be taken in the areas outlined above in-
+clude cutting energy consumption and related greenhouse 
+gas emissions, reducing material consumption, and using 
+renewable materials.
+With this in mind, Ströer has set several relevant targets for 
+the Group:
+•	
+Reduce energy consumption
+•	
+Reduce greenhouse gas emissions, 
+	
+especially carbon dioxide (CO2)
+•	
+Use sustainable materials
+•	
+Develop carbon-neutral advertising
+•	
+Make a tangible contribution to shaping the ‘smart city’
+With regard to these targets, which cannot be met to the de-
+sired extent overnight, Ströer took a number of measures in 
+2020 that have shown rapid success already or are expected 
+to prove highly successful in the coming years. For example, 
+Ströer is driving forward innovative developments in display 
+and lighting technology, and collaborating with companies 
+in Germany and abroad. In particular, Ströer is bringing its 
+experience in the use, usability, and service life of products 
+to bear to further reduce the power consumption of out-of-
+home advertising. At the same time, the demand for post-
+er paper, which can only be disposed of by incineration, is 
+to be continuously reduced. The long-term goal is largely 
+paper-free, predominantly digital out-of-home advertising 
+powered by energy from renewable sources.
+Out-of-home advertising powered by 
+energy from renewable sources.
+
+9
+Climate action and the environment: progress toward meeting our target
+3.2 Cutting CO2 emissions
+GOAL: To significantly reduce CO2 emissions by 
+2030 compared to 2020 levels. Ströer has now 
+brought the deadline forward and will be fully car-
+bon-neutral by 2025 at the latest (see ‘Advertising 
+goes green : climate-neutral by 2025’ on page 7).
+The main sources of emissions at Ströer are the (out-of-
+home) advertising business, the servicing of its premises, 
+and the vehicle fleet. Relative emissions in these areas are 
+continually being reduced. Additionally, there are the CO2 
+emissions generated by its employees’ office commute.
+In 2020, Ströer initiated a number of measures to cut green-
+house gas emissions by reducing energy consumption or 
+changing the type of energy used. Some of these measures 
+were implemented in the second half of 2020 or are being 
+implemented during 2021, which is why significant visible 
+effects will only become apparent in the figures for 2021 and 
+2022.
+Ströer will also support a number of projects around the 
+world aimed at reducing CO2 in the atmosphere, including ex-
+tensive reforestation, including rainforest, in South America. 
+These measures apply if energy savings and the purchase of 
+energy from renewable sources alone cannot reduce Ströer’s 
+greenhouse gas emissions to zero. In which case, the offset-
+ting projects mentioned above will be used.
+SIGNIFICANT PROGRESS 
+•	
+Integrated solar power systems developed inhouse can 
+completely cover the energy needed to illuminate out-
+door advertising columns and City Stars, eliminating the 
+need to purchase any further electricity. As a result, CO2 
+emissions drop to zero and there is considerably less 
+construction involved as the advertising medium does 
+not need power cables.
+•	
+The gradual switch of the electricity supply contracts for 
+advertising media and street furniture to 100% green 
+electricity began at the beginning of 2021. By June 30, 
+2021, 80% of our advertising media’s electricity con-
+sumption had already been converted to renewable 
+energy sources. By December 31, 2021, almost all of 
+the out-of-home advertising infrastructure will be car-
+bon-neutral. Most of the power supplied to the offices 
+used by Ströer was also switched to green electricity at 
+the turn of 2020/2021.
+•	
+For the second half of 2021, Ströer has initiated a com-
+prehensive analysis of the Company’s key logistics 
+service providers, examining different transportation 
+methods (air, ship, truck, and rail) in terms of sustaina-
+bility and CO2 emissions. The results of this analysis will 
+be used in 2022 to improve sustainability in Ströer’s 
+logistics.
+Rainforest in South America
+
+10
+Climate action and the environment: progress toward meeting our target
+3.3 Using sustainable materials
+GOAL: To significantly increase the use of sustain- 
+able materials, as a proportion of total materials, 
+for advertising media by 2030.
+With this goal in mind, Ströer examined the main areas of its 
+material consumption. With regard to the materials used for 
+the manufacture of advertising media, including steel, glass, 
+aluminum, rubber, and plastic, it has proven almost impossi-
+ble to find renewable substitutes, and the search is ongoing. 
+However, Ströer pays close attention to the purity and sepa-
+rability of the materials it uses, and thus to the recyclability 
+of the complete systems at the end of their useful life or in 
+the event of significant damage. Ströer has created an in-
+creasingly standardized design for its advertising media (the 
+same components in as many different media as possible) 
+to keep the costs and material consumption of production, 
+maintenance, and repair processes to a minimum.
+This contrasts with conventional advertising posters, which 
+are only partially recyclable. Often, the materials (poster 
+board, adhesive) are not water-soluble. This means that 
+only 40% of advertising materials can be recycled, with 
+60% of posters incinerated as household or hazardous 
+waste (thermal recycling). Ströer is pursuing a comprehen-
+sive digitalization strategy in its out-of-home advertising 
+to reduce this problem and to promote the shift towards a 
+circular economy.
+SIGNIFICANT PROGRESS 
+•	
+In the areas of waste disposal and recycling, Ströer 
+began recording all relevant material flows in 2020 to 
+enable the Company to identify optimization potential 
+and report comprehensively on these areas in the future. 
+There is a particular focus on documenting the disposal 
+of decommissioned advertising media and street furni-
+ture by type and weight. The number of posters affixed 
+to conventional billboards is also recorded according to 
+marketing type and frequency of replacement.
+•	
+In its product development, Ströer increasingly ensures 
+that the products and components used meet the re-
+quirements of an improved circular economy. Examples 
+of this are the growing use of modular designs when de-
+veloping new products, and reusing components from 
+decommissioned systems to extend the lifecycles of es-
+sential components, such as computers, controllers, and 
+motors for poster changers, in the event of a fault.
+3.4 Energy-dependent advertising rates
+GOAL: To be able to base the advertising rate on 
+the energy required to display the advertisement 
+(LED technology).
+Ströer has now scrapped this goal as the Company will ensure 
+that its out-of-home advertising business is carbon-neutral 
+from 2022 onwards at no additional cost to customers. Ströer 
+also aims to make the Group’s entire business carbon-neutral 
+by 2025 at the latest. While Ströer continues to work on cut-
+ting energy consumption, it is unlikely to base its pricing on 
+the energy efficiency of different advertising formats.
+3.5 Carbon-neutral advertising
+GOAL: To offer companies sustainable and carbon- 
+neutral advertising by offsetting the CO2 emissions 
+associated with it.
+As of mid-2021, Ströer already offers a number of car-
+bon-neutral advertising formats. The plan is to make the 
+entire product portfolio carbon-neutral by the turn of 
+2021/2022.
+SIGNIFICANT PROGRESS 
+•	
+In 2020, Ströer measured the amount of greenhouse 
+gases generated by out-of-home advertising. Based on 
+the findings, the Company developed a program to min-
+imize the impact of out-of-home and digital campaigns 
+and make them carbon-neutral.
+•	
+Starting in 2020, Ströer has been switching its out-of-
+home advertising almost completely to renewable ener-
+gy sources (green electricity).
+•	
+Since mid-2021, 80% of the energy used by its advertis-
+ing media is green electricity.
+•	
+Ströer will offset any remaining CO2 emissions generated 
+by advertising, for example from data centers, printing, 
+and paper consumption and disposal, by supporting cer-
+tified climate change mitigation projects.
+•	
+All out-of-home advertising offered by Ströer will be car-
+bon-neutral no later than early 2022, at no additional 
+cost or effort for customers.
+
+11
+Climate action and the environment: progress toward meeting our target
+3.6 The smart city
+GOAL: To offer more functionality in Ströer street 
+furniture to support the transition toward the 
+‘smart city’.
+Over the next decade, street furniture is set to become more 
+than an advertising medium; it will be part of an urban 
+system known as the ‘smart city’. With this development 
+in mind, Ströer will use street furniture to offer a range of 
+additional benefits for an even more efficient infrastructure 
+in cities in the future. Several projects are in the test phase, 
+while some are already being implemented.
+SIGNIFICANT PROGRESS 
+•	
+Ströer has tested a range of plants for greenscaping 
+street furniture in recent years. In addition to looking 
+appealing, the plants should help to improve air qual-
+ity and create insect-friendly zones. They also need to 
+be hardy as they are exposed to both intense sunlight 
+and longer periods of drought. Ströer started greenscap-
+ing its first shelter roofs in 2020, for example in Bonn, 
+Bergisch Gladbach, and Kamp-Lintfort. Greenscaping is 
+now set to be rolled out across Germany in stages.
+•	
+The shelter is equipped with sensors to measure air qual-
+ity, which significantly increases the number of meas-
+uring points without taking up additional public space. 
+This enables municipal authorities to take more targeted 
+action to combat air pollution. The technology was pre-
+sented at the Greentech Festival in Berlin in the summer 
+of 2021.
+•	
+Shelters can also be equipped with air filters, primarily 
+to reduce particulates. The system was well received by 
+visitors to the Greentech Festival in Berlin in the summer 
+of 2021.
+
+12
+Climate action and the environment: progress toward meeting our target
+GREENTECH FESTIVAL 
+INNOVATION PLATFORM
+In June 2021, the Greentech Festival took place for the third 
+time at two locations in Berlin, Kraftwerk Berlin and Maga- 
+zin in der Heeresbäckerei. The festival was also livestreamed 
+around the world online.
+The Greentech Festival is a showcase for the latest technol-
+ogies for a sustainable lifestyle and has rapidly grown into 
+one of the leading and most successful international green 
+technology events.
+The event consists of several formats, including exhibitions, 
+conferences, concerts, and award ceremonies, and offers a 
+diverse approach to the topic of sustainability. The Greentech 
+Festival is one of the largest events of its kind in the world.
+With more than 80 exhibitors from the fields of mobility, en-
+ergy, smart cities, food, lifestyle, and the media, the event 
+presents its visitors with a broad spectrum of innovative 
+green technologies and aims to inspire a more sustainable 
+way of life.
+As in the previous two years, Ströer was a premium partner 
+of the Greentech Festival in 2021 and supported it with a 
+high-reach sustainability campaign on the Company’s public 
+video network. Ströer was also an exhibitor at the event and 
+presented its own approach to sustainable infrastructure, 
+such as systems to improve the environment and IT-based 
+information solutions (see the overview of the multifunction-
+ality of street furniture).
+12
+Climate action and the environment: progress toward meeting our target
+
+13
+Climate action and the environment: progress toward meeting our target
+MULTIFUNCTIONALITY OF STREET FURNITURE
+Over time, Ströer aims to equip its street furniture, such 
+as benches, shelters, outdoor advertising columns, street 
+lights, clock towers, and billboards, with additional function-
+ality that goes beyond what they were originally designed 
+for. A shelter will soon offer more than protection from the 
+rain, and a bench more than just a place to sit.
+Green roof
+Greenscaping the roofs of street furniture with succulents 
+like sedum improves the micro-climate and the aesthetics. 
+While the exact impact of greenscaping can be difficult to 
+quantify, it does have a positive effect in the long term, looks 
+more appealing, and absorbs more water.
+Filter system
+The space beneath benches usually remains unused, but not 
+at Ströer. In the future, filter systems will be placed there to 
+remove particulates, especially tire wear and soot, from the 
+surrounding air with a purification level of 90%. The sys-
+tems’ position at street level ensures that they work particu-
+larly effectively. 
+13
+Climate action and the environment: progress toward meeting our target
+
+14
+Climate action and the environment: progress toward meeting our target
+14
+Solar power
+Ströer is equipping its street furniture with photovoltaic sys-
+tems to provide their own power. This makes them 100% en-
+vironmentally friendly to run and obviates the need for costly 
+and sometimes noisy construction work to lay power lines.
+els 
+6
+Insect hotel
+Insect or bug hotels provide nesting space for insects. They 
+particularly benefit a range of bee and wasp species, and the 
+environment overall, by providing holes and tubes of varying 
+diameters for nesting. An insect hotel is easy to integrate 
+into street furniture and requires no maintenance other than 
+the occasional removal of cobwebs.
+Climate action and the environment: progress toward meeting our target
+
+15
+Climate action and the environment: progress toward meeting our target
+15
+Measuring station
+Shelters are equipped with sensors to measure air quality, 
+which significantly increases the number of measuring points 
+without taking up additional public space. This enables mu-
+nicipal authorities to take more targeted action to combat air 
+pollution. The technology was presented at the Greentech 
+Festival in Berlin in the summer of 2021.
+Information boards
+Ströer equips its street furniture at bus stops with updated 
+timetables and travel information, enabling transport com-
+panies to change departure times, provide information on 
+delays, or specify new routes at any time. Important alerts 
+can also be displayed if required. What makes the displays 
+so unique is that they require almost no energy (see chapter 
+4.5, Infrastructure improvements).
+Climate action and the environment: progress toward meeting our target
+
+16
+Welfare and community: progress toward meeting our target
+4 | WELFARE AND COMMUNITY: PROGRESS TOWARD MEETING OUR TARGET
+Ströer believes that the way in which it interacts with em-
+ployees and customers is an important facet of sustainabil-
+ity. Going forward, Ströer wants to devote even more time 
+to supporting and developing its workforce. It also aims to 
+make working hours and the place of work more flexible, 
+for the benefit of both the Company and its employees. For 
+Ströer’s sites this means a transformation from conventional 
+offices into spaces where people can meet informally and 
+share creative ideas. 
+Ströer has also set itself several targets in the area of welfare 
+and community:
+• 	 Automating HR processes
+• 	 Offering more flexible and optimized working hours
+• 	 Institutionalizing pro-bono advertising
+• 	 Raising public awareness of the need for greater 
+	
+sustainability
+• 	 Improving urban infrastructure
+Corporate responsibility is another important aspect for 
+Ströer. In this context, the Company offers advertising space 
+at cost or heavily discounted rates (pro bono) to non-profit 
+organizations such as children’s charities and environmen-
+tal organizations, or for public-benefit purposes such as the 
+search for missing children. Ströer also believes that raising 
+public awareness of more sustainable lifestyles and improv-
+ing sustainable infrastructure in urban areas is in the com-
+mon interest.
+4.1 Automating administrative processes
+GOAL: To automate administrative processes and 
+free up more time for employee support and de-
+velopment.
+Over the past decades, Ströer steadily increased its work-
+force in line with the rapid growth of its business. As the 
+expansion of the HR department did not keep pace during 
+this period, the proportion of its time dedicated to adminis-
+trative processes continually grew, leaving less and less time 
+for employee development.
+SIGNIFICANT PROGRESS 
+•	
+In 2020, Ströer started switching numerous HR formats 
+from paper to digital across large parts of the Group. 
+These include, for example, the personnel file itself and 
+the automated display of employment contracts, the 
+creation of master data, and the formulation and doc-
+umentation of target agreements. Consultations with 
+the works council, for example, are now also recorded 
+this way. This ensures that all personnel-related infor-
+mation is available at any time and does not deterio-
+rate in quality.
+•	
+Alongside these new processes, Ströer also created ad-
+ditional training and development opportunities through 
+inhouse training. Examples include the ‘workinars’ held 
+in 2020 and which focused on teaching leadership skills. 
+The successful format, covering topics such as ‘long-dis-
+tance leadership’, will be continued in 2021.
+
+17
+Welfare and community: progress toward meeting our target
+4.2 More flexible working hours
+GOAL: To use the experience of organizing Flex 
+Work in the first and second quarters of 2020 to 
+develop even more attractive and flexible working 
+hours and family-friendly working time models.
+Ströer has many years’ experience with Flex Work, i.e. with 
+variable working hours and work locations. There are cur-
+rently 269 working time models at Ströer covering a range of 
+days, times, and breakdowns.
+During the coronavirus pandemic in 2020 and 2021, employ-
+ees were free to take advantage of Flex Work as they wanted, 
+although the offices remained open at all times. Positive out-
+comes for employees during this period include time savings, 
+greater flexibility, better work-life balance, less stress, and 
+lower costs. But there were also negative aspects such as so-
+cial isolation, more distractions, a lack of mutual motivation, 
+less sophisticated workplace equipment, and the blurring of 
+professional and private life.
+SIGNIFICANT PROGRESS 
+•	
+Thanks to the experience gained through Flex Work, 
+Ströer successfully implemented remote working across 
+the Company during the pandemic.
+•	
+At the same time, the assessment that the disadvantag-
+es outweigh the advantages when Flex Work is used 
+excessively over a longer period of time was confirmed. 
+This is because Ströer’s corporate culture and creativity 
+works best when employees interact in person, rather 
+than just virtually.
+•	
+While individual circumstances have varied, the experi-
+ences of 2020 and 2021 have highlighted the need to 
+fine-tune the balance between Flex Work and working 
+in the office.
+4.3 Pro-bono advertising
+GOAL: To offer advertising space at cost or heavily 
+discounted rates (pro bono) to customers such as 
+non-government organizations or for public-benefit 
+purposes such as the search for missing children.
+Ströer will continue its long-standing partnerships with char-
+ities and non-profit organizations. Ströer supports a wide 
+range of charitable and cultural initiatives, some of them as 
+long-standing partners, others with ad hoc aid. Our support 
+focuses on children, development aid, and art. Ströer either 
+covers the full cost of the campaign, including materials, or 
+waives its fee for the service provided.
+SIGNIFICANT PROGRESS 
+•	
+After several years of working together, Ströer AG and 
+the German Committee for UNICEF, the United Nations 
+children’s charity, agreed a strategic partnership for an 
+initial term of three years.
+•	
+Under this agreement, Ströer provides reach and pres-
+ence in public spaces for UNICEF’s programmatic cam-
+paigns or to support emergency aid projects and appeals 
+for donations (see the ‘Partnership with UNICEF’ box).
+•	
+The partnership with UNICEF covers out-of-home adver-
+tising, including digital formats, and editorial content in 
+online media.
+
+18
+Welfare and community: progress toward meeting our target
+PARTNERSHIP WITH UNICEF
+The partnership with UNICEF agreed in the summer of 
+2021 covers out-of-home advertising, including digital 
+formats, and editorial content in online media. Ströer 
+supports UNICEF in its efforts to promote the rights and 
+interests of children in Germany and around the world, 
+and to raise public awareness of children’s rights. To 
+this end, the Company provides a nationwide presence 
+in German towns and cities. The partnership will also 
+focus on developing and delivering joint campaigns to 
+promote children’s rights in Germany and, in particular, 
+on publicizing and anchoring children’s rights in Ger-
+man schools. The partnership launched this summer in 
+time for UNICEF’s 75th anniversary in December 2021.
+SELECTED PRO-BONO SERVICES 
+PERFORMED BY STRÖER 
+•	
+Ströer regularly works with partners such as SOS 
+Children’s Villages, the German Children’s Fund, 
+Kindernothilfe (supporting children in need), and 
+the v. Bodelschwingh Foundation Bethel.
+•	
+#wirfürschule (children), an initiative to develop the 
+school of the future. 
+•	
+Every year on March 21, World Down Syndrome Day 
+(children) helps to raise public awareness of Down 
+syndrome.
+•	
+ARWED (children), an association of parent’s 
+groups for children who take or are at risk of taking 
+drugs, supports parents in Rhineland-Westphalia 
+with information and advice on children with drug 
+problems.
+•	
+Impacc (development aid), a non-profit organiza-
+tion that supports green start-ups in Africa.
+•	
+Internationale Photoszene Köln (art) supports artis-
+tic photography and aims to permanently strength-
+en Cologne’s position as a hub for photography. 
+•	
+The Young Euro Classic (art) in Berlin is the leading 
+international youth orchestra festival and focuses on 
+European classical music tradition and its evolution.
+• 	 Corona School is a project aimed at helping all 
+schoolchildren reach educational milestones and 
+celebrate progress in learning, regardless of their 
+social, cultural or financial backgrounds.
+• 	 #kochenfürhelden (#cookingforheroes) is a grass-
+roots restaurants movement that has emerged dur-
+ing the coronavirus crisis. The charitable initiative 
+provides meals to anyone who is working to ensure 
+that our life can continue under the current circum-
+stances.
+
+19
+Welfare and community: progress toward meeting our target
+4.4 Raising awareness of the need for 
+	
+greater sustainability
+GOAL: To add comprehensive information on con-
+sumer behavior and economic activity to the sus-
+tainability sections of the t-online.de and watson.de 
+portals in order to raise awareness among the wider 
+population of the need for greater sustainability.
+Through its news and information portals, Ströer has the 
+ability to present topical and consumer-oriented sustainabil-
+ity content to the public and to encourage more sustainable 
+lifestyles.
+SIGNIFICANT PROGRESS 
+•	
+In 2020, Ströer added specialized editorial content to its 
+t-online.de and watson.de portals to significantly ex-
+pand its reporting on a wide range of sustainability top-
+ics. Both portals have developed their own formats for 
+this purpose, tailored to the information requirements of 
+their respective audiences. Over time, the editorial of-
+fering of topical, scientific, technological, and political 
+developments relating to sustainability will be enhanced 
+and expanded.
+•	
+t-online.de reports on sustainability in eight key areas. 
+The editorial content includes information on topical, 
+scientific, technological, and political events as well as 
+developments relating to the climate and the environ-
+ment. It also features information on finances, career, 
+diet, health, gardening, and the home, covering every 
+aspect of sustainability in daily life.
+•	
+watson.de reports on sustainability as one of six core 
+topics. Information on environmental factors is com-
+plemented by extensive advice for a healthier and more 
+sustainable lifestyle.
+4.5 Infrastructure improvements
+GOAL: To provide the infrastructure needed for ad-
+ditional services. This gives municipal authorities 
+the ability to manage traffic flows to ensure great-
+er efficiency and sustainability, for example, or to 
+maximize local benefit by improving the informa-
+tion they provide.
+Going forward, it will be increasingly important that systems 
+in urban areas are effective enough to make environmentally 
+friendly public transport more attractive than the car.
+SIGNIFICANT PROGRESS 
+•	
+Ströer is installing energy-efficient timetables that can 
+be continually updated at stops on public transport net-
+works. To date, timetables printed on paper have been 
+updated every quarter or every six months, and tempo-
+rary changes such as rail replacement services or addi-
+tional connections during major events cannot be taken 
+into account. This is exactly what electronic paper using 
+E Ink technology offers. Black and white microparticles 
+change their position in minute chambers to create an 
+image that resembles a printed page. To achieve this, 
+the chambers only need one electrical charge for the mi-
+croparticles to change their position as required. Once 
+that has been achieved, the written or drawn content 
+is retained for weeks without any power needing to be 
+applied. In bright sunlight, electronic paper is just as 
+easy to read as normal paper. Thanks to this technology, 
+which was also presented at the Greentech Festival in 
+Berlin in the summer of 2021, it is possible to display the 
+latest timetables, disaster alerts, and other information.
+
+
+20
+Corporate governance: progress toward meeting our target
+5 | CORPORATE GOVERNANCE: PROGRESS TOWARD MEETING OUR TARGET
+Ströer aims to make its operations more sustainable over 
+the coming years while driving the change toward more en-
+vironmentally friendly behavior in the economy. Processes 
+and standards within the Group are being harmonized and 
+brought in line with the high standards at head office to cre-
+ate a solid basis for greater sustainability.
+With this in mind, Ströer has set several relevant targets for 
+the Group:
+• 	 Protecting the IT infrastructure
+• 	 Protecting (customer) data
+• 	 Ensuring that the composition of the Supervisory Board 
+enables it to carry out its duties effectively
+• 	 Establishing a sustainability workshop run by committed 
+volunteers from the workforce with the aim of improving 
+our sustainable corporate culture
+• 	 Continuously improving Ströer’s overall sustainability 
+performance
+5.1 Improving IT security
+GOAL: To ensure that structures are harmonized 
+through standardized cybersecurity guidelines 
+across the Group.
+In 2020, Ströer engaged a well-respected external consulting 
+firm to put the security structures for the Company’s IT to the 
+test. All relevant subsidiaries were included in the second 
+half of 2020 and a comprehensive audit of the current state 
+of IT protection in each company was carried out. As IT is 
+often managed by the subsidiaries rather than through the 
+IT department at head office, the analysis identified differing 
+levels of performance.
+One of the outcomes of this analysis was the definition of 
+appropriate performance and security levels that are man-
+datory across the Group. The companies within the Ströer 
+Group now have high security standards in place to ensure 
+that their technologies and procedures are up to date.
+SIGNIFICANT PROGRESS 
+•	
+Stage 1: The starting point for improving cybersecurity 
+was the analysis of all Group companies to identify any 
+security gaps. The results of this analysis provided the 
+basis for individual ‘task packages’ and the appropriate 
+tools were made available to close any gaps identified. 
+This stage has already been successfully completed.
+•	
+Stage 2: Ströer has developed a ‘cybersecurity strategy’ 
+for the entire Group under the leadership of the IT de-
+partment at head office. The strategy is a guideline for 
+the security levels that Ströer IT must meet from now 
+on (the minimum requirements have been significantly 
+increased) and the procedures to be used for monitoring 
+and optimization. It includes a definition of the specific 
+duties and responsibilities of each employee. This stage 
+has also been successfully completed.
+•	
+Stage 3: Going forward, Ströer will provide very close 
+support to areas within the Group that are particularly 
+exposed to potential cyberattacks, for example web-
+sites, and will continuously monitor their vulnerability. 
+Ströer will also run a campaign to increase awareness 
+among the workforce of the need for IT security. And 
+finally, IT protection will be more closely interlinked 
+with data protection and compliance to create uniform 
+reporting and response processes in the event of attacks 
+and incidents, and thus faster response times. This stage 
+of the process has already been initiated and is sched-
+uled for completion by 2022.
+
+21
+Corporate governance: progress toward meeting our target
+5.2 Improving data protection
+GOAL: To put in place data protection that is spe-
+cific to each business segment on the basis of uni-
+form, groupwide data protection guidelines.
+In 2020, Ströer began to increase the effectiveness of its data 
+protection processes by organizing them according to each 
+business segment and introducing centralized tools. The first 
+step was to create new structures across the Group while 
+taking uniform standards and specifications into account.
+The second step was to adapt the decentralized processes 
+and operational data protection activities to the require-
+ments of each business segment’s activities. For example, 
+data protection in relation to the activities of the t-online.de 
+team requires a different focus and different specifications 
+to those that apply in units handling production activities. 
+These adapted processes enable effective and efficient pro-
+cedures while improving the overall organization of data 
+protection. This strategy of uniform standards across the 
+Group combined with adapted processes at unit level will be 
+developed further and extended to other areas of corporate 
+governance.
+SIGNIFICANT PROGRESS 
+•	
+Each business segment now has its own data protec-
+tion officer and coordinator.
+•	
+All relevant employees have received the training they 
+need to complete their tasks and have access to the ap-
+propriate tools. The introduction of a centralized data 
+protection system started in 2021.
+•	
+The integration of data protection into a central cor-
+porate governance function makes it possible to take 
+a holistic view of data protection risks.
+5.3 Changes on the Supervisory Board
+GOAL: To maintain or improve the level of qualifi-
+cations and the independence of the members of 
+the Supervisory Board.
+In view of the current Group structure, the quality of the su-
+pervisory function is hugely important, especially in the eyes 
+of investors. The shareholder representatives on the Supervi-
+sory Board of Ströer SE & Co. KGaA (‘Supervisory Board’) are 
+appointed solely on the basis of performance and ability. This 
+requirement presents Ströer with the challenge of identifying 
+an attractive selection of candidates in a very narrow market 
+segment who have the requisite expertise and skill to over-
+see a fully integrated advertising and media company with a 
+commercial focus on Germany. Due to Ströer’s particular busi-
+ness model, but also to the media industry’s relatively small 
+share of the German economy, the group of potential can-
+didates is comparatively small compared to other industries.
+When appointing members to the Supervisory Board, the 
+shareholder representatives on the Supervisory Board give 
+priority to expertise and market knowledge, in accordance 
+with the requirements formulated by the Supervisory Board 
+in its profile of skills and expertise. With the exception of 
+one, all members of the Supervisory Board meet the require-
+ments and recommendations of the German Corporate Gov-
+ernance Code (DCGK). Due to the small number of suitable 
+candidates, any requirements and recommendations from 
+investment companies or proxy advisors that go beyond this, 
+in particular regarding internal mandates in the companies 
+of Ströer Supervisory Board members, cannot always be fully 
+taken into account.
+Although business relationships exist between the com-
+panies of the Ströer Group and the companies in which 
+the members of the Supervisory Board are active, they are 
+not material in terms of their scope and are communicated 
+transparently by Ströer. The arm’s length principle is always 
+applied and is supported by expert reports in all material 
+transactions. Furthermore, the objectivity and neutrality of 
+decisions taken by each member of the Supervisory Board 
+of the general partner are examined with regard to these 
+business relationships.
+
+22
+Corporate governance: progress toward meeting our target
+The capabilities of shareholder representatives 
+on the Supervisory Board of Ströer SE & Co. KGaA
+Assessment criteria
+DCGK ▼
+Investors ▼
+Qualifications, diversity, 
+and organization
+The members of the Supervisory 
+Board as a whole have the 
+knowledge, skills, and experience 
+required to properly perform their 
+duties. 
+
+
+Compliance with the
+statutory gender ratio (≥ 30%).
+
+–
+The Supervisory Board specifies 
+targets for its composition and 
+defines a profile of skills and 
+expertise.
+
+–
+There is an age limit for members 
+of the Supervisory Board.
+
+–
+The length of membership of the 
+Supervisory Board is disclosed.
+
+–
+Diligence
+Each member of the Supervisory 
+Board has sufficient time to 
+perform their duties.
+
+
+A member of the Supervisory 
+Board who is not a member of 
+the executive board of a listed 
+company shall not hold more 
+than five supervisory board 
+mandates at listed companies 
+that are not part of the Group, or 
+comparable functions, whereby 
+one position as supervisory 
+board chair counts twice. 
+Executive board members of 
+listed companies shall hold no 
+more than two (DCGK)/five 
+(investors) supervisory board 
+mandates at listed companies 
+that are not part of the Group, 
+or comparable functions, and 
+(DCGK) shall not be the chair of 
+a supervisory board of a listed 
+company that is not part of the 
+Group.
+
+
+Independence
+On the shareholder side, the 
+Supervisory Board shall have an 
+appropriate (as deemed by the 
+shareholders) number of inde-
+pendent members. The ownership 
+structure shall be taken into 
+account in this regard. A member 
+of the Supervisory Board is con-
+sidered independent if they are 
+independent of the Company and 
+its Board of Management, and 
+independent of any controlling 
+shareholder.
+
+
+Assessment criteria
+DCGK ▼
+Investors ▼
+• 	A member of the Supervisory 
+Board is independent if they 
+have no personal or business 
+relationship with the 
+	
+Company that could consti-
+tute a material and not merely 
+temporary conflict of interest.
+
+
+• 	A member of the Supervisory 
+Board is independent if they 
+do not act as the represen-
+	
+tative of a shareholder.
+–
+
+• 	A member of the Supervisory 
+Board is independent if the 
+company for which the mem-
+ber works does not provide 
+goods and services valued at 
+more than USD 10,000 to the 
+Supervisory Board company.
+–
+
+• 	A member of the Supervisory 
+Board is independent if the 
+company for which the mem-
+ber works does not have a 
+material business relationship 
+with Ströer (material = more 
+than 1% of sales).
+–
+–
+• 	A member of the Supervisory 
+Board is independent if they 
+have been a member of the 
+Supervisory Board for no 
+longer than twelve years.
+
+
+The proportion of independent 
+shareholder representatives is 
+greater than 50%, i.e. there is no 
+personal or business relationship 
+with the company that would 
+constitute a material and not 
+merely temporary conflict of 
+interest.
+
+
+Conflicts of interest
+Members of the Supervisory 
+Board are obliged to act in the 
+Company’s best interests. In 
+making their decisions, they must 
+not pursue personal interests 
+or take advantage of business 
+opportunities to which the 
+Company is entitled.
+
+
+Each member of the Supervisory 
+Board shall disclose conflicts of 
+interest to the chair of the 
+Supervisory Board without delay.
+
+
+
+23
+Corporate governance: progress toward meeting our target
+Assessment criteria
+DCGK ▼
+Investors ▼
+Each member of the Board of 
+Management shall disclose
+conflicts of interest without delay 
+to the chair of the Supervisory 
+Board of the general partner, 
+Ströer Management SE, and 
+the chair or spokesperson of 
+the Board of Management, and 
+inform the other members of the 
+Board of Management.
+
+
+Members of the Supervisory 
+Board shall not exercise any 
+governance or advisory functions 
+for significant competitors of the 
+Company, and shall not have 
+a personal relationship with a 
+significant competitor.
+
+
+Committees
+The Supervisory Board establishes 
+an Audit Committee to examine 
+the financial reporting, the 
+financial reporting process, the 
+effectiveness of the internal 
+control system, the risk manage-
+ment system, the internal audit 
+system, the auditing of financial 
+statements, and compliance.
+
+
+The chair of the Audit Committee 
+shall be independent and have 
+expertise and experience in 
+the application of accounting 
+principles and internal control 
+procedures, and be familiar 
+with the auditing of financial 
+statements. The chair of the 
+Supervisory Board shall not chair 
+the Audit Committee.
+
+
+The chair of the Supervisory 
+Board and the chair of the Audit 
+Committee are independent of 
+the Company.
+
+
+The Supervisory Board shall form 
+a Nomination Committee, 
+composed exclusively of 
+shareholder representatives. This 
+committee suggests suitable 
+candidates for the Supervisory 
+Board’s proposals to the share-
+holder meeting regarding the 
+election of its members.
+
+
+▼ 	 The German Corporate Governance Code (DCGK) and the 
+	
+key corporate governance requirements of international 
+	
+market participants (investors) include standard market 
+criteria for assessing the capabilities of supervisory bodies.
+ 	 Criterion met
+ 	 Criterion not met
+– 	 Criterion not relevant to this requirement
+As at August 2021
+: The chair of the Supervisory Board, Christoph Vilanek, 
+chairs the executive board of Freenet AG and is a member 
+of the supervisory boards of two listed companies outside 
+the Group. He therefore holds no more than the two relevant 
+offices recommended by the German Corporate Governance 
+Code (DCGK). In this scenario, however, he should not take 
+on a position as chair of the supervisory board of a listed 
+company that is not part of the Group. Mr. Vilanek is the 
+chair of the Supervisory Boards of Ströer SE & Co. KGaA and 
+Ströer Management SE and consequently does not fully meet 
+the requirements of the DCGK in this respect. No other mem-
+bers of the Supervisory Board of Ströer SE & Co. KGaA hold 
+any mandates that result in ‘overboarding’.
+: The chair of the Supervisory Board, Christoph Vilanek, 
+chairs the executive board of Freenet AG and is a member of 
+the supervisory boards of two listed companies outside the 
+Group. According to the assessment of numerous interna-
+tional investors, a person on the executive board of a listed 
+company should hold no more than five other mandates as a 
+member of a supervisory or executive board. In this context, 
+being the chair of an executive board counts three times and 
+being the chair of a supervisory board counts twice. This 
+means that Mr. Vilanek holds a total of six mandates and 
+therefore does not fully comply with the corporate govern-
+ance requirements of numerous international investors in 
+this respect. No other member of the Supervisory Board of 
+Ströer SE & Co. KGaA holds any relevant mandates.
+: In accordance with the DCGK, the Supervisory Board 
+has decided that at least six of eight shareholder repre-
+sentatives must be independent. The Supervisory Board 
+therefore met its self-imposed targets at both the end of 
+December 2020 and the end of August 2021.
+: Based on the rules of the DCGK, Ms. Barzen was not in-
+dependent in 2020, but has been independent since January 1, 
+2021 following the termination of a business relationship. If 
+the stricter criteria of a proxy advisor are applied, Ms. Barzen 
+is still not independent in 2021 due to a consultancy agree-
+ment with an annual remuneration of EUR 24,000.
+: See table ‘The independence of the shareholder represent-
+atives on the Ströer Supervisory Board as at August 31, 2021’.
+
+24
+Corporate governance: progress toward meeting our target
+The independence of the shareholder representatives on the Ströer Supervisory Board as at August 31, 2021
+Member of the Supervisory Board
+Audit Com-
+mittee
+Nomination 
+Committee
+According to 
+DCGK criteria
+According 
+to criteria of 
+international 
+investors
+Christoph Vilanek, Dipl.-Kfm. 
+Chair of the executive board of Freenet AG
+Chair of the Supervisory Board
+Member of the Supervisory Board since 2013
+
+
+
+Dr. Karl-Georg Altenburg, Dipl.-Ing.
+Executive Vice President & Vice Chair of the Board of Directors 
+of Plastic Energy Global S.L.
+Member of the Supervisory Board since 2020
+
+
+Angela Barzen, Dipl.-Kfr.
+Freelance business coach and trainer 
+for managers and companies
+Member of the Supervisory Board since 2019
+
+
+Martin Diederichs[1], attorney
+Member of the Supervisory Board between 2010 and 2014, 
+and since 2018
+
+
+Chair
+
+
+Barbara Liese-Bloch, Dipl.-Betriebsw.  
+Managing Director of MONOFIL-TECHNIK Gesellschaft für 
+Synthesemonofile mbH
+Member of the Supervisory Board since 2020
+
+
+Petra Sontheimer, Dipl.-Kfr.
+Executive coach/transformation consultant at Cidpartners GmbH
+Member of the Supervisory Board since 2018
+
+
+
+Ulrich Voigt, Dipl.-Sparkassenbetriebsw.
+Chair of the board of management of Sparkasse Köln-Bonn
+Member of the Supervisory Board since 2013
+
+Chair
+
+
+
+ 	 Committee member
+ 	 independent
+ 	 not independent
+: 	Not independent as the Supervisory Board member’s 
+company supplies goods and services worth more than 
+USD 10,000 per year to companies in the Ströer Group.
+[1] 	 Martin Diederichs is the ESG officer of the Supervisory 
+Board.
+Dirk Ströer, a member since 2004 and previously deputy chair 
+of the Supervisory Board, left the Board on May 31, 2021.
+Simone Thiäner, a member since 2019, left the Board on 
+June 30, 2020.
+Vicente Vento Bosch, a member since 2015, left the Board on 
+November 4, 2020.
+
+25
+Corporate governance: progress toward meeting our target
+5.4 	Launch of a sustainability workshop
+GOAL: To further develop a sustainable corporate 
+culture by launching a sustainability workshop.
+Ströer launched a sustainability workshop in 2020 to make 
+employees even more aware of the importance of sustaina-
+bility, to provide a boost to existing initiatives, and to create 
+greater awareness of appropriate sustainable practices. The 
+workshop’s purpose is to channel the employees’ commit-
+ment in this area and to offer targeted support. It also pro-
+vides a platform for presenting ideas and inspiring others to 
+engage with them.
+Ströer’s Sustainability Council, in which the relevant manag-
+ers from the Group’s segments are represented, reviews and 
+discusses these ideas and selects the most suitable ones. 
+Any suggestions that help Ströer to become an even more 
+sustainable company are implemented. Targeted additional 
+investment spending may be approved for this purpose.
+SIGNIFICANT PROGRESS 
+•	
+The sustainability workshop is a platform where ideas 
+on sustainability can be presented, discussions can take 
+place, and employees can work together on sustainabil-
+ity matters.
+To mark the launch of the sustainability workshop, Ströer is 
+making September 2021 a ‘sustainability month’ in order to 
+show employees which sustainability projects the Company is 
+currently working on or has already implemented, and which 
+still need to be worked on in the future. This covers the entire 
+spectrum of sustainability, from process optimization and 
+materials management to product development, the supply 
+chain, and partnerships. Ströer will use the ‘sustainability 
+month’ to showcase its commitment to sustainability and to 
+encourage employees to get involved in related activities.
+On each Friday during ‘sustainability month’, the day will 
+start with a short talk given by members of leading sus-
+tainability institutions. These will be followed by interactive 
+formats on the subjects of environment, governance, and 
+welfare and community. In afternoon workshops, employees 
+will work on identifying future topics and areas for action. 
+On the final day, there will be a range of event formats on 
+topics that could not be covered on the other days or that 
+require further discussion.
+5.5	Ongoing improvement of 
+	
+Ströer’s sustainability performance
+GOAL: To continually improve Ströer’s sustainabili-
+ty performance.
+A rating agency will be engaged to evaluate sustainability 
+at Ströer, with assessments taking place at regular inter-
+vals and any changes noted. Ströer will report on this, thus 
+meeting one of the key transparency requirements of the 
+United Nations’ Global Compact. The Company initiated the 
+necessary processes in 2020 and will have a comprehensive 
+assessment of its sustainability performance carried out in 
+the near future.
+
+26
+Sustainability in major subsidiaries
+6 | SUSTAINABILITY IN MAJOR SUBSIDIARIES
+Major subsidiaries in the Ströer Group, such as Statista and 
+Asambeauty, and product specialists such as blowUP media, 
+handle their own sustainability reporting. In the interest of 
+completeness, we will mention selected key data for these 
+companies in this report.
+6.1 Asambeauty
+The subsidiary Asambeauty manufactures cosmetics. The 
+company, based in Unterföhring near Munich, is particularly 
+committed to operating its business sustainably, which en-
+compasses everything from its selection of raw materials 
+through to its production and distribution logistics.
+Asambeauty has been making a range of skincare products 
+(such as creams and shampoos) and cosmetics (such as lip-
+stick, mascara, and make-up) since 1964. The company con-
+ducts its own research and development, and manufactures 
+almost all of its products at its two German production sites 
+in Beilngries and Steinach. This ensures it can meet the high 
+standards of quality and sustainability that it has set itself.
+Asambeauty manufactures not only the final product but 
+also key active ingredients. This ensures that Asambeauty 
+skincare products are vegan and free from parabens, mineral 
+oils, aluminum salts, and solid microplastics.
+SKIN CARE USING GRAPES
+At its Steinach site in Rhineland-Palatinate, Asambeauty 
+extracts the active ingredient OPC (oligomeric procyan-
+idins), which is used in food supplements and skincare 
+products, from pomace, the residue from pressing grapes 
+(skins, wood, seeds). Asambeauty sells any remaining 
+pomace it does not need as organic fertilizer.
+Asambeauty is systematically switching to sustainable, 
+green, and resource-efficient containers and packaging. 
+New purchasing criteria are being defined and new pack-
+aging is being designed with sustainability in mind, on 
+the proviso that it does not impact on the quality of the 
+product. Asambeauty is making greater use of glass, for 
+example, and has used 400 tonnes less plastic, equivalent 
+to around 56 million plastic bags, since 2018 as a result. 
+Internally, the company has replaced plastic bottles with 
+water dispensers, and disposable packaging for takeaway 
+lunches with glass bowls.
+Where plastic is still in use, for example for tubes and bottles, 
+there is now a greater emphasis on using recycled materials. 
+Asambeauty sources plastic granules from Plastic Bank, a 
+Canadian company founded in 2013 that sets up recycling 
+systems in emerging and developing countries to alleviate 
+local poverty and combat plastic pollution in the oceans.
+Asambeauty has converted many processes to paperless 
+digital receipt and signature management. Any remaining 
+paper it procures must be certified by the Forest Steward-
+ship Council (FSC) or the Programme for the Endorsement of 
+Forest Certification Schemes (PEFC).
+Key ESG and HR data for Asambeauty in 2020
+Sickness rate[1] 
+4%
+Women in management[2]
+17%
+No. of accidents at work
+7
+Gender split m/f
+20%/80%
+Average period of service
+4.2 years
+Staff turnover
+9%
+New hires
+105
+[1] 	Proportion of sickness-related absence relative to planned working time.
+[2]	At senior management level and the two subordinate levels of management.
+
+27
+Sustainability in major subsidiaries
+SOCIAL SPONSORSHIP
+•	
+Asambeauty supports Münchner Tafel, a food bank 
+for Munich residents in need, through donations and 
+volunteering.
+•	
+Asambeauty is a partner of the non-profit German 
+Bone Marrow Donor Center (DKMS) and supports 
+the ‘Look Good Feel Better’ cosmetics seminars for 
+cancer patients.
+•	
+In 2020, Asambeauty promoted a German food re-
+tailer’s ‘Buy a bag, support a food bank’ campaign 
+via its social media accounts. Customers were able 
+to purchase pre-packed bags of non-perishable food 
+worth five euros in participating branches of this re-
+tailer and its online shop, and donate them to local 
+food banks.
+•	
+As part of an e-commerce campaign at the beginning 
+of November 2020, Asambeauty donated one euro to 
+a charity for every order received within seven days 
+of the start of the campaign. The amount donated 
+was EUR 40,000. 
+Since 2020, Asambeauty has also made increasing use of 
+Flex Work, which allows employees to decide where to work 
+from (remote working). At the same time, Asambeauty in-
+creasingly conducted discussions and meetings via video 
+and telephone, and reduced the number of business trips. 
+Greenhouse gas emissions caused by business travel and 
+commuting to the office have been significantly reduced as 
+a result.
+6.2 Statista
+Becoming carbon neutral has a high priority at Statista. The 
+company prepared its first climate audit in 2019, according 
+to which total greenhouse gas emissions amounted to 968 
+tonnes of CO2 equivalent. The largest share was accounted 
+for by business-related air travel (51%), employee travel 
+(20%), and the external data center (11%).
+Statista supports two climate change mitigation projects to 
+offset the company’s greenhouse gas emissions. A project in 
+the Brazilian rainforest protects areas of the Amazon from 
+commercial logging while creating alternative sources of in-
+come for local families. In the second project, more than a 
+million plants of a native giant bamboo species were planted 
+in Nicaragua.
+Diversity, integrity, and equal opportunities are also very 
+important to Statista. At the end of 2020, the company 
+employed around 1,000 people at 13 locations around the 
+world. The workforce is made up of 70 different nationali-
+ties, with women accounting for 53% and men 47%. One 
+in five positions at the top three management levels is held 
+by a woman. Statista has steadily increased its workforce, 
+doubling the number of employees in its IT operations team 
+between the end of 2020 and mid-2021, for example.
+Key ESG and HR data for Statista in 2020
+Sickness rate[1] 
+2%
+Women in management[2]
+21%
+No. of accidents at work
+0
+Gender split m/f
+47%/53%
+Average period of service
+2.4 years
+Staff turnover
+11%
+New hires
+189
+[1] 	Proportion of sickness-related absence relative to planned working time.
+[2]	At senior management level and the two subordinate levels of management.
+IT security is another aspect of ESG that Statista is focusing 
+on. In 2020, the IT infrastructure was made even more resist-
+ant to cyberattack through permanent optimization of the 
+access systems. The same applies to data protection. A step-
+by-step training concept was set up for all data protection 
+coordinators following the recruitment of highly qualified 
+employees, and the documentation, transparency, and con-
+trol of sensitive processes was brought up to date.
+
+28
+Sustainability in major subsidiaries
+6.3 blowUP media
+In 2020, the Ströer subsidiary blowUP media, a specialist in 
+large-format advertising, laid the foundations for new sus-
+tainable options when booking giant posters. Available from 
+mid-2021 onwards, the options available to advertisers in-
+clude a completely PVC-free giant poster. Depending on the 
+product type, the new giant poster is made from up to 100% 
+recycled materials, which measurably improves a campaign’s 
+environmental footprint.
+Giant posters are also available with an air-purifying coat-
+ing. ‘The Pure’, which is already in use at blowUP media in 
+the UK, is an ultra-thin, transparent layer of active titanium 
+dioxide that uses photocatalytic properties to break down 
+pollutants such as nitrogen oxides from exhaust fumes. A 
+giant poster with a surface area of 500 square meters has 
+the air-purifying effect of 35 large deciduous trees, and acts 
+almost like a vertical hanging garden.
+Since 2021, all giant posters offered by blowUP media are 
+produced carbon-neutrally. Working closely with its printers 
+and the well-respected climate protection agency Nature 
+Office, blowUP media analyzed the carbon emissions of the 
+poster material used in its customers’ advertising, and off-
+sets these through an appropriate project.
+Key ESG and HR data for blowUP media in 2020
+Sickness rate[1] 
+1%
+Women in management[2]
+22%
+No. of accidents at work
+0
+Gender split m/f
+55%/45%
+Average period of service
+10.1 years
+Staff turnover
+8%
+New hires
+6
+[1] 	Proportion of sickness-related absence relative to planned working time.
+[2]	At senior management level and the two subordinate levels of management.
+
+29
+ESG data
+7 | ESG DATA
+Ströer records a wide range of quantitative sustainability 
+data. Some figures were recorded for the first time in 2020, 
+while for others there is comparative data available from 
+2019. The values were either measured, extrapolated from a 
+representative sample, or determined with the aid of appro-
+priate standard values.
+Whichever method is used, the figures are meaningful and 
+paint an accurate picture of Ströer. It should be noted that 
+the government restrictions to combat the SARS-CoV-2 virus 
+in 2020 and 2021 have led to distortions and, in some cases, 
+masked successes and positive developments in Ströer’s ac-
+tual sustainability performance to a considerable extent. As 
+most of Ströer’s figures cannot be sufficiently adjusted for 
+these effects, it is likely that figures comparable to 2019 will 
+not be available until the report for 2022.
+7.1 Energy consumption
+Energy consumption at Ströer essentially comprises the elec-
+tricity required to operate its advertising media, the elec-
+tricity and heating required to operate its offices and other 
+properties, and the fuel consumption of its vehicle fleet. This 
+does not include the energy consumed during employees’ 
+commute to work. However, their commutes are included in 
+the figures for Ströer’s greenhouse gas emissions.
+While the number of digital advertising media increased 
+significantly in 2020, relative energy consumption remained 
+almost the same. The minimal increase of 0.3% results from 
+the significant increase in out-of-home advertising media 
+with screen sizes of 28 square meters or more. These screens 
+consume more energy as their brightness has to be adjusted 
+upwards, for example in strong sunlight. In indoor settings, 
+such as train stations and shopping malls, screens do not 
+need to be so bright and therefore consume a lot less energy. 
+That said, a relative energy saving of around 10% has been 
+achieved for large-format roadside screens by optimizing the 
+technology. The increases in efficiency described on the pre-
+vious pages will only be clearly reflected in the figures for the 
+following years. The switch to green, renewable energy will 
+be completed over the course of 2021.
+The energy-saving measures were particularly effective 
+for large-format roadside screens with a screen size of ten 
+square meters, where specific energy consumption fell by 
+10% to 1,206 kWh per square meter of screen annually with-
+in just a year.
+Table 7.1.1 | Energy consumption of out-of-home advertising
+in kWh
+2019 absolute
+2020 absolute
+2019 relative 
+to (screen) size 
+in m2
+2020 relative 
+to (screen) size 
+in m2
+Energy used by digital advertising
+11,119,145
+13,023,249
+944 kWh/m2
+947 kWh/m2
+Proportion of renewable energy
+3.8%
+3.0%
+of which large-format roadside screens
+3,874,000
+5,194,800
+1,340 kWh/m2
+1,206 kWh/m2
+of which small-format advertising media
+3,799,727
+3,855,314
+655 kWh/m2
+650 kWh/m2
+Energy used by classic advertising
+29,863,506
+28,048,889
+44 kWh/m2
+41 kWh/m2
+Proportion of renewable energy
+0%
+0%
+ Total energy used by out-of-home advertising
+40,982,651
+41,072,138
+59 kWh/m2
+59 kWh/m2
+
+30
+ESG data
+Table 7.1.2 Energy consumption of property[1]
+in kWh
+2019 absolute[2]
+2020 absolute[2]
+2019 relative 
+to office space 
+in m2[2]
+2020 relative 
+to office space 
+in m2[2]
+Electricity
+4,755,254
+42.6 kWh/m2
+Heating
+8,430,204
+75.5 kWh/m2
+of which natural gas
+5,612,787
+of which district heating
+2,817,417
+[1] 	Not including the subsidiaries Asambeauty and Statista.
+[2] 	Due to the significant delay in the invoicing of service charges by office space lessors, 
+	 no figures more current than 2019 will be available until the 2021 progress report.
+Table 7.1.3 Energy consumption of the vehicle fleet
+Fuel type
+2019 
+absolute
+2020
+absolute
+Diesel
+1,332,108 l
+1,230,800 l
+Gasoline
+252,114 l
+193,636 l
+7.2 Greenhouse gas emissions
+To derive the level of greenhouse gas emissions from energy 
+consumption, emissions are calculated using the average CO2 
+emission factors in the German electricity mix and district 
+heating (scope 1 and 2). Greenhouse gas emissions upstream 
+and downstream in the value chain (scope 3) are calculated 
+using standard values.
+With regard to property servicing and data centers, only 
+the figures for 2019 were available when this report went 
+to press because there are some considerable delays to the 
+invoicing of service charges by lessors.
+All greenhouse gas emissions are factored in and converted 
+into quantities of carbon dioxide, or CO2 equivalent (CO2e), 
+based on their impact on the climate.
+Scope 1 (direct emissions)
+Recording of direct CO2 emissions that are generated at the 
+emission sources at the Company’s sites. These include the 
+Company’s power plants, heating systems, emergency power 
+generators, vehicle fleet including leased vehicles, and the 
+fuel consumed by rental vehicles.
+Scope 2 (internal direct emissions)
+Recording of indirect CO2 emissions caused by the Company’s 
+suppliers during the generation of the energy that is purchased 
+to create the Company’s products/services. This includes 
+the purchase of electricity, heat, cooling, or steam for the 
+Company’s use.
+Scope 3 (external indirect emissions)
+Recording of all other CO2 emissions caused along the value 
+chain by suppliers, while the products are in use, and when 
+they are transported or disposed of. These include upstream 
+emissions associated with fixed and current assets, and with 
+transportation, business travel, hired labor commuting, and 
+working from home, as well as downstream emissions 
+associated with the delivery, processing, and use of products, 
+and with end-of-life use, franchise operations, and strategic
+or financial investments.
+
+31
+ESG data
+Table 7.2.1 Greenhouse gas emissions of out-of-home advertising
+CO2 equivalent
+2019 absolute[1]
+2020 absolute[1]
+2019 relative 
+to (screen) size 
+in m2
+2020 relative 
+to (screen) size 
+in m2
+Scope 2: 
+Electricity consumption of digital advertising
+6,314.2 t
+7,457.0 t
+536 kg/m2
+542 kg/m2
+Scope 2: 
+Electricity consumption of classic advertising
+17,628.4 t
+16,557.3 t
+26 kg/m2
+24 kg/m2
+[1] 	 Source: Climate Partner
+Table 7.2.2 Greenhouse gas emissions of property[1]
+CO2 equivalent
+2019 absolute[2], [3]
+2020 absolute[3]
+2019 relative 
+to office space 
+in m2[3]
+2020 relative 
+to office space 
+in m2[3]
+Electricity (scope 2)
+2,807.0 t
+25.1 kg/m2
+Heating (scope 1)
+1,129.8 t
+16.7 kg/m2
+Heating (scope 2)
+539.7 t
+[1] 	 Not including the subsidiaries Asambeauty and Statista.
+[2] 	 Source: Climate Partner
+[3] 	 Due to the significant delay in the invoicing of service charges by office space lessors, 
+	
+no figures more current than 2019 will be available until the 2021 progress report.
+Table 7.2.3 Greenhouse gas emissions of the vehicle fleet
+CO2 equivalent
+2019 
+2020
+Scope 1: Fuel
+4,082.5 t
+3,684.0 t
+Source: Climate Partner
+Table 7.2.4 Greenhouse gas emissions generated by 
+employees (Office commute)
+CO2 equivalent
+2019[1] 
+2020[2]
+Scope 3: Employees
+14,378 t
+4,802 t
+[1] 	Based on the extrapolation of around 1,700 pieces of primary data.
+[2] 	Based on the extrapolation of around 2,000 pieces of primary data.
+
+32
+ESG data
+7.3 Material
+One of the criteria that Ströer uses to select the material for 
+advertising media is its sustainability. Ströer’s advertising 
+media are increasingly being developed and produced with 
+a focus on recyclability and lower material and energy con-
+sumption. Ströer has created an increasingly standardized 
+design for its advertising media to keep the costs and ma-
+terial consumption of production, maintenance, and repair 
+processes to a minimum. The Company also avoids materi-
+als made of more than one component and ensures that its 
+products can be completely broken down. This significantly 
+improves recyclability and promotes the shift towards a cir-
+cular economy.
+In the event that advertising media are damaged by vehi-
+cles or bad weather, or as a result of vandalism or material 
+wear, they are repaired or completely replaced and partially 
+or fully recycled. Any electrical and electronic components 
+that are still intact are often returned to Ströer’s spare parts 
+warehouse, while the remaining parts are passed on to pro-
+fessional recycling companies. Ströer calculates the informa-
+tion it provides on the circular economy on the basis of data 
+that is able to be collected and on the average values for the 
+waste management sector provided by the German Federal 
+Statistical Office.
+Conventional advertising posters are only partially recycla-
+ble, and the materials used (poster board, adhesive) are 
+often not water-soluble. This means that only 40% of adver-
+tising materials can be recycled, with 60% of posters incin-
+erated as household or hazardous waste (thermal recycling).
+Ströer does not record the volume of water used or the 
+quantity of waste generated in our offices as these figures 
+are within the expected range for this type of building, and 
+therefore low, and because these figures are almost irrele-
+vant to Ströer’s overall sustainability performance.
+7.3.1 The circular economy in out-of-home advertising
+in tonnes
+2019 absolute
+2020 absolute
+Procurement of advertising 
+media, street furniture, 
+and spare parts
+2,713
+1,569
+Procurement of advertising 
+materials (regular and 
+specialty paper, adhesives, 
+and resins)
+7,509
+5,607
+Decommissioned advertising 
+media, street furniture, 
+and spare parts
+–[1]
+220
+Recycling rate
+–[1]
+74%
+[1] 	Data not yet recorded in 2019.
+7.3.2 Recycling of advertising media
+in tonnes in 2020[1]
+Quantity 
+decommissioned
+Proportion 
+recyclable
+Proportion 
+processed 
+outside of Ströer
+Quantity 
+returned to use 
+(circular 
+economy)
+Electrical/electronic components
+112.7
+80%
+90%
+81.2
+Small parts, transportation materials, etc.
+7.6
+70%
+60%
+3.2
+Glass
+9.7
+65%
+100%
+6.4
+Casings
+89.4
+100%
+80%
+71.5
+219.4
+87%
+85%
+162.3
+Recycling rate
+74%
+[1] 	Data not yet recorded in 2019.
+
+33
+ESG data
+7.4 Employees
+7.4.1 HR data
+KPI
+Year 2020
+Sickness rate[1]
+5%
+Women in management[2]
+19%
+No. of accidents at work
+63[3]
+Gender split m/f
+49%/51%[4]
+Average period of service
+4.6 years[5]
+Staff turnover
+whole Group
+28%
+excluding the Dialog Group
+16%
+New hires
+3,631
+of which Dialog Group[6]
+2,309
+New trainees
+45
+of which Dialog Group
+13
+Trainees offered a permanent contract
+34
+of which Dialog Group
+4
+Training (hrs/employee)
+28
+[1] 	Proportion of sickness-related absence relative to planned working time.
+[2] 	Management levels one to three below the Ströer Board of Management.
+[3] 	2019: 66 accidents at work.
+[4] 	2019: 51% men/49% women.
+[5] 	2019: 4.8 years.
+[6] 	The Dialog Group comprises the Ströer call centers. Staff turnover is significantly 
+higher in call centers than in the traditional advertising business.
+7.4.1 Mandatory training 
+No. of employee training sessions
+Year 2020
+Data protection
+7,357
+Compliance
+4,534
+IT security
+3,268
+Health and safety
+9,455
+Fire safety
+3,974
+Driver training
+2,834
+TRAINEE ROLES AT STRÖER
+•	
+Marketing communications
+• 	 Office management
+• 	 Media design
+• 	 Web design
+• 	 Application developer
+• 	 Systems integration specialist
+• 	 Journalist (internship)
+Ströer employed 118 trainees in 2020 (not including the 
+Dialog Group and Asambeauty).
+DEGREE APPRENTICESHIP (BACHELOR)
+•	
+Business administration
+•	
+Marketing & digital media
+• 	 Business informatics
+• 	 Marketing
+Ströer employed 33 students in the courses listed 
+above in 2020 (not including the Dialog Group and 
+Asambeauty).
+Ten of the eleven students who passed their final exams 
+were offered a permanent contract.
+DEGREE APPRENTICESHIP (MASTER)
+•	
+Innovation & business transformation
+• 	 Management
+Ströer employed one student on a degree 
+apprenticeship (master) in 2020. 
+
+34
+Formal sustainability communication
+8 | FORMAL SUSTAINABILITY COMMUNICATION
+  Sustainability Report 2020: progress report
+ Sustainability Report 2019: 2030 sustainability strategy
+Strategy areas in the Global Reporting Initiative (GRI) classification system
+Area
+Indicator
+Page
+GRI 102: 
+Name of the 
+organization
+Organizational profile
+102-2 Activities, brands, products, and services
+102-6 Markets served
+102-8 Information on employees and other workers
+102-9 Supply chain
+Strategy
+102-14 Statement from senior decision-maker
+102-15 Key impacts, risks, and opportunities
+Ethics and integrity
+102-16 Values, principles, standards, and norms of behavior
+Governance
+102-22 Composition of the highest governance body and its committees
+102-23 Chair of the highest governance body
+102-24 Nominating and selecting the highest governance body
+102-25 Conflicts of interest
+102-27 Collective knowledge of highest governance body
+102-30 Effectiveness of risk management processes
+ 3
+ 3
+ 2, 16 et seq., 33
+ 20
+ 1
+ 4
+ 20,  21
+ 21 et seq.
+ 24
+ 21 et seq.
+ 21 et seq.
+ 21 et seq.
+ 4, 23
+GRI 103/201 
+Management approach/
+economic performance
+Management approach disclosures
+103-1 Explanation of the material topic and its Boundary
+201-2 Financial implications and other 
+risks and opportunities due to climate change
+ 3 et seq.
+ 4
+GRI 204: 
+Procurement practices
+204-1 Proportion of spending on local suppliers
+ 20
+GRI 205: 
+Anti-corruption
+Management approach disclosures
+205-2 Communication and training about anti-corruption policies and procedures
+205-3 Confirmed incidents of corruption and actions taken
+ 33,  21 et seq.
+ 21
+GRI 302: Energy
+Management approach disclosures
+302-1 Energy consumption within the organization
+302-3 Energy intensity
+302-4 Reduction of energy consumption
+302-5 Reduction in energy requirements of products and services
+ 8, 29 et seq.
+ 29 et seq.
+ 29 et seq.
+ 5 et seq., 8, 
+29 et seq.
+GRI 305: Emissions
+Management approach disclosures
+305-1 Direct (Scope 1) GHG emissions
+305-2 Energy indirect (Scope 2) GHG emissions
+305-4 GHG emissions intensity
+305-5 Reduction of GHG emissions
+ 30 et seq.
+ 7
+ 30 et seq.
+ 7, 9
+GRI 402: Labor/
+management relations
+Management approach disclosures
+ 16 et seq.
+GRI 404: Training and 
+education
+Management approach disclosures
+404-2 Programs for upgrading employee skills and transition assistance programs
+404-3 Percentage of employees receiving regular performance and career 
+development reviews
+ 16,  16
+ 18
+GRI 413: Local 
+communities
+Management approach disclosures
+ 17 et seq.
+GRI 414: Supplier 
+social assessment
+Management approach disclosures
+414-1 New suppliers that were screened using social criteria
+414-2 Negative social impacts in the supply chain and actions taken
+ 20
+ 20
+GRI 418: Customer 
+privacy
+Management approach disclosures
+418-1 Substantiated complaints concerning breaches of customer privacy and losses 
+of customer data
+ 21,  20
+GRI 419: 
+Socio-economic 
+compliance
+Management approach disclosures
+419-1 Non-compliance with laws and regulations in the social 
+and economic area
+ 20 et seq., 33,
+ 21 et seq.
+
+35
+Formal sustainability communication
+Strategy areas in the Task Force on Climate-Related Financial Disclosures (TCFD) classification system
+Area
+Indicator
+Page
+Strategy
+Disclose the actual and potential impacts of climate-related risks and opportunities on 
+the organization’s businesses, strategy, and financial planning
+ 7
+Risk management
+Disclose how the organization identifies, assesses, and manages climate-related risks
+ 7
+Metrics and targets
+Disclose the metrics and targets used to assess and manage relevant 
+climate-related risks
+ 6,  28 et seq.
+Strategy areas in the Sustainability Accounting Standards Board (SASB) classification system for the marketing and 
+advertising sector
+Area
+Indicator
+Page
+Data protection
+Discuss guidelines and practices in relation to behavioral advertising and 
+consumer protection
+ 20 et seq., 
+ 22
+Contacts and editorial information
+Publisher
+Ströer SE & Co. KGaA
+Ströer-Allee 1 . 50999 Cologne . Germany
+Phone: +49 (0)2236 9645 0
+Fax: +49 (0)2236 9645 299
+Email: info@stroeer.de
+Cologne local court
+HRB 86922
+VAT identification no.: DE811763883
+Sustainability contact
+Christoph Löhrke
+Head of Investor & Credit Relations
+Ströer-Allee 1 . 50999 Cologne . Germany
+Phone: +49 (0)2236 9645 356
+Fax: +49 (0)2236 9645 6356
+email: ir@stroeer.de / cloehrke@stroeer.de 
+Editing and project management
+GFD – Gesellschaft für Finanzkommunikation mbH
+Frankfurt am Main . Germany
+Design and layout
+Ligaturas GmbH – Reportdesign . Hamburg . Germany
+Photos
+Ströer archive
+Illustrations by vectorjuice
+©UNICEF/UNI212395/Frank Dejongh
+
+Ströer SE & Co. KGaA
+Ströer-Allee 1 . 50999 Cologne . Germany
+Phone +49 (0) 2236 . 96 45-0
+Fax +49 (0) 2236 . 96 45-299
+www.stroeer.com

@@ -1,0 +1,5096 @@
+Jahresabschluss der
+HOCHTIEF Aktiengesellschaft 
+zum 31.12.2016
+Wir bauen die 
+Welt von morgen.
+
+
+3
+Jahresabschluss der 
+HOCHTIEF Aktiengesellschaft
+zum 31.12.2016
+Bilanz........................................................................................................................................................................4
+Gewinn- und Verlustrechnung..................................................................................................................................5 
+Anhang.....................................................................................................................................................................6 
+Beteiligungen der HOCHTIEF Aktiengesellschaft....................................................................................................33
+Gewinnverwendungsvorschlag des Vorstands.......................................................................................................40 
+Versicherung der gesetzlichen Vertreter................................................................................................................. 41 
+Bestätigungsvermerk des Abschlussprüfers..........................................................................................................42
+Gremien..................................................................................................................................................................44
+Der Jahresabschluss und der Lagebericht der HOCHTIEF Aktiengesellschaft für das Geschäftsjahr 2016 werden 
+im Bundesanzeiger bekannt gemacht. Der Lagebericht der HOCHTIEF Aktiengesellschaft ist mit dem Lagebericht 
+des Konzerns zusammengefasst; er ist in unserem Konzernbericht 2016 ab Seite 28 dargestellt.
+
+4
+Bilanz  
+der HOCHTIEF Aktiengesellschaft
+*Zusätzlich besteht bedingtes  
+Kapital im Nennwert von  
+46.080 Tsd. Euro.
+(In Tsd. EUR)
+Anhang
+31.12.2016
+31.12.2015
+Aktiva
+Anlagevermögen
+(1)
+Immaterielle Vermögensgegenstände
+6.122
+8.265
+Sachanlagen
+20.488
+19.429
+Finanzanlagen
+2.625.899
+2.484.243
+2.652.509
+2.511.937
+Umlaufvermögen
+Vorräte
+(2)
+14.276
+16.434
+Forderungen und sonstige Vermögensgegenstände
+(3)
+572.184
+634.228
+Wertpapiere
+(4)
+1.373
+197.617
+Flüssige Mittel
+(5)
+341.036
+142.269
+928.869
+990.548
+Rechnungsabgrenzungsposten
+(6)
+8.909
+13.243
+Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
+(9)
+18.812
+15.750
+3.609.099
+3.531.478
+Passiva
+Eigenkapital
+(7)
+Gezeichnetes Kapital*
+164.608
+177.432
+Eigene Aktien
+-133
+-10.543
+Rücklagen
+1.100.040
+1.043.529
+Bilanzgewinn
+167.180
+138.619
+1.431.695
+1.349.037
+Rückstellungen
+Rückstellungen für Pensionen und ähnliche Verpflichtungen
+(9)
+34.622
+34.618
+Übrige Rückstellungen
+(10)
+58.324
+75.805
+92.946
+110.423
+Verbindlichkeiten
+(11)
+2.084.018
+2.071.553
+Rechnungsabgrenzungsposten
+(12)
+440
+465
+3.609.099
+3.531.478
+
+5
+Gewinn- und Verlustrechnung
+der HOCHTIEF Aktiengesellschaft
+(In Tsd. EUR)
+Anhang
+2016
+2015
+Umsatzerlöse
+(14)
+68.768
+38.381
+Veränderung des Bestands an 
+unfertigen Leistungen
+-644
+-491
+Sonstige betriebliche Erträge
+(15)
+51.741
+53.244
+Materialaufwand
+(16)
+-14.204
+-17.487
+Personalaufwand
+(17)
+-25.062
+-31.169
+Abschreibungen
+(18)
+-3.172
+-3.455
+Sonstige betriebliche Aufwendungen
+(19)
+-115.699
+-91.739
+Ergebnis Finanzanlagen
+(20)
+380.121
+312.855
+Zinsergebnis
+(21)
+-56.695
+-93.025
+Abschreibungen auf Finanzanlagen und auf  
+Wertpapiere des Umlaufvermögens
+(22)
+–
+-70
+Ergebnis vor Steuern
+285.154
+167.044
+Steuern vom Einkommen und vom Ertrag
+(23)
+4.888
+-16.330
+Ergebnis nach Ertragsteuern
+290.042
+150.714
+Sonstige Steuern
+(24)
+-539
+-1.269
+Jahresüberschuss
+289.503
+149.445
+Gewinnvortrag
+ 10.146
+2.762
+Veränderung der Gewinnrücklagen
+(7)
+-132.469
+-13.588
+Ertrag aus der Kapitalherabsetzung
+(7)
+12.824
+–
+Einstellung in die Kapitalrücklage
+(7)
+-12.824
+–
+Bilanzgewinn
+167.180
+138.619
+
+6
+Anhang  
+der HOCHTIEF Aktiengesellschaft
+Allgemeine Grundlagen
+Der Jahresabschluss ist nach den Vorschriften des Handelsgesetzbuchs (HGB) und des Aktiengesetzes (AktG) 
+aufgestellt. Erstmalig sind die Neuregelungen des Bilanzrichtlinie-Umsetzungsgesetzes (BilRUG) berücksichtigt wor-
+den. In diesem Zusammenhang nimmt die HOCHTIEF Aktiengesellschaft grundsätzlich keine Anpassung der Vorjah-
+reszahlen vor. Darüber hinaus haben sich im Vergleich zum Vorjahr keine Änderungen der Ansatz- und Bewertungs-
+methoden ergeben. Um die Klarheit der Darstellung zu verbessern, sind einzelne Posten der Bilanz sowie der 
+Gewinn- und Verlustrechnung zusammengefasst. Diese Posten sind im Anhang gesondert ausgewiesen und erläutert. 
+Die Gewinn- und Verlustrechnung ist nach dem Gesamt­kos­ten­verfahren in Staffelform aufgestellt. Der Jahresab-
+schluss wird in Euro erstellt.
+Vorstand und Aufsichtsrat haben eine Entsprechenserklärung zum Deutschen Corporate Governance Kodex 
+gemäß § 161 AktG abgegeben, die der Öffentlichkeit auf den HOCHTIEF-Internetseiten dauerhaft zugänglich 
+gemacht worden ist.* 
+Bilanzierungs- und Bewertungsgrundsätze
+Erworbene immaterielle Vermögensgegenstände des Anlagevermögens werden zu Anschaffungskosten angesetzt 
+und planmäßig linear abgeschrieben. Sofern der beizulegende Wert eines immateriellen Vermögensgegenstands 
+voraussichtlich dauerhaft unter dessen Buchwert liegt, wird zusätzlich eine außerplanmäßige Abschreibung vorge-
+nommen. Selbst erstellte immaterielle Vermögensgegenstände des Anlagevermögens werden nicht aktiviert. Sach-
+anlagen werden zu Anschaffungs- beziehungsweise aktivierungspflichtigen Herstellungskosten abzüglich plan­mäßiger 
+und, sofern deren beizulegende Werte voraussichtlich dauerhaft unter ihren Buchwerten liegen, außerplanmäßiger 
+Abschreibungen bewertet. Fremdkapitalzinsen sind nicht einbezogen. Die Abschreibungen werden einheitlich nach 
+der linearen Methode ermittelt, wobei Nutzungsdauern bei Gebäuden von bis zu 50 Jahren und bei den übrigen Ver-
+mögensgegenständen zwischen drei und zehn Jahren berücksichtigt werden. Geringwertige Anlagegüter mit An­
+schaffungskosten bis 150 Euro werden im Zugangsjahr als Aufwand erfasst und nicht aktiviert. Geringwertige An­
+lage­güter, deren Anschaffungs­kos­ten mehr als 150 Euro und weniger als 1.000 Euro betragen, werden in einem 
+Sammelposten zusammengefasst und pauschal über fünf Jahre abgeschrieben. 
+Die Finanzanlagen werden zu Anschaffungskosten bilanziert. Bei den Anteilen an verbundenen Unternehmen und 
+den Betei­ligungen werden in Einzelfällen – und sofern eine Wertminderung voraussichtlich dauerhaft ist – die 
+­niedrigeren beizulegenden Werte angesetzt. Wertpapiere des Anlagevermögens und Ausleihungen sind zu An­
+schaffungskosten oder bei voraussichtlich dauerhafter Wertminderung zu niedrigeren Börsenkursen beziehungs-
+weise niedrigeren beizulegenden Werten aktiviert. 
+Die Vorräte werden unter Beachtung des Niederstwertprinzips mit Anschaffungs- beziehungsweise aktivierungs-
+pflichtigen Herstellungskosten bewertet. Die Herstellungskosten umfassen neben den Material-, Fertigungseinzel- 
+und Sonderkosten der Fertigung auch angemessene Teile der Material- und Fertigungsgemeinkosten sowie des 
+fertigungsbedingten Werteverzehrs des Anlagevermögens. Die von den Kunden erhaltenen Anzahlungen werden 
+projektbezogen bis zur Höhe der Herstellungskosten von den Vorräten abgesetzt. Darüber hinaus­gehende Anzah-
+lungen werden auf der Passivseite ausgewiesen.
+Bei der Bewertung der grundsätzlich zum Nennwert angesetzten Forderungen und sonstigen Vermögensgegenstände 
+ist den erkennbaren Risiken bei Notwendigkeit durch entsprechende Einzelwertberichtigungen angemessen Rechnung 
+ge­tra­gen. Darüber hinaus erfolgt zur Abdeckung des allgemeinen Kreditrisikos eine pauschale Abwertung.
+* Weitere Informationen zur 
+­Corporate Governance bei 
+HOCHTIEF finden Sie im Internet 
+unter www.hochtief.de/ 
+corporategovernance.
+
+7
+Wertpapiere des Umlaufvermögens werden mit ihren Anschaffungskosten oder niedrigeren Börsenkursen bezie-
+hungsweise niedrigeren beizulegenden Werten angesetzt.
+Soweit die Anschaffungs- beziehungsweise aktivierungspflichtigen Herstellungskos­ten über dem Wert liegen, der 
+den Vermögensgegenständen am Abschlussstichtag beizulegen ist, wird dem durch eine außerplanmäßige Abschrei-
+bung Rechnung getragen.
+Das gezeichnete Kapital ist zum Nennbetrag angesetzt.
+Eigene Aktien werden als Korrekturposten vom Eigenkapital ausgewiesen. Dabei wird der rechnerische Wert der 
+eigenen Aktien vom gezeichneten Kapital offen abgesetzt; die verbleibende Differenz zu den Anschaffungskosten 
+wird mit den anderen Gewinnrücklagen verrechnet. Angefallene Transak­tionskosten werden erfolgswirksam erfasst.
+Die Rückstellungen für Pensionen und ähnliche Verpflichtungen sowie die Rückstellungen für Jubiläen und Alters-
+teilzeit werden versicherungsmathematisch unter Zugrundelegung biometrischer Wahrscheinlichkeiten (Richttafeln 
+2005 G von Professor Dr. Klaus Heubeck) ermittelt. Die Bewertung der unmittelbaren Pensionsverpflichtungen 
+erfolgt im Einklang mit den Vorschriften des § 253 Abs. 1 und Abs. 2 HGB. Pensionen und ähnliche Verpflichtungen 
+werden entsprechend nach dem international anerkannten Anwartschaftsbarwertverfahren (Projected-Unit-Credit-
+Methode) bewertet, das auch künftig erwartete Gehalts- und Rentensteigerungen berücksichtigt. Bei der Festlegung 
+des Rechnungszinssatzes wurde von dem Wahlrecht nach § 253 Abs. 2 Satz 2 HGB Gebrauch gemacht. Dabei 
+dürfen Rückstellungen für Altersversorgungen oder vergleichbare langfristig fällige Verpflichtungen pauschal mit 
+einem durchschnittlichen Marktzinssatz abgezinst werden, der sich bei einer angenommenen Restlaufzeit von 
+15 Jahren ergibt. Der Durchschnitt wird bei Altersversorgungsverpflichtungen im Geschäftsjahr 2016 erstmals aus dem 
+Marktzins der vergangenen zehn Jahre gebildet. Der Unterschiedsbetrag zu der Bewertung mit dem bisherigen 
+siebenjährigen Durchschnittszins beträgt 20.959 Tsd. Euro. Dieser Betrag hat den Zinsaufwand vermindert und ist 
+grundsätzlich ausschüttungsgesperrt. Bei den pensionsähnlichen und vergleichbar langfristig fälligen Verpflichtungen 
+erfolgt die Durchschnittsbildung weiterhin über einen Zeitraum von sieben Jahren. Soweit die Änderung des Ab­zin­
+sungssatzes zum Jahresende nur zu unwesentlichen Änderungen der Pensionsverpflichtungen führt, wird der von 
+der Deutschen Bundesbank ermittelte und veröffent­lichte Wert zum 30. September des jeweiligen Geschäftsjahres 
+verwendet. Bei wesentlich veränderten Kapitalmarktzinsen wird der zum 30. September absehbare Effekt aus der 
+Durchschnittsbildung des Zinssatzes zum Bilanzstichtag zusätzlich berücksichtigt. Die Verpflichtungen aus Pen­
+sionszusagen sind überwiegend durch Vermögensgegenstände ab­ge­deckt, die ausschließlich der Erfüllung der 
+Pensionsverpflichtungen dienen und dem Zugriff übriger Gläubiger entzogen sind (Deckungsvermögen). Hierzu 
+zählen Vermögensgegenstände, die im Rahmen eines Contractual-Trust-Arrangement (CTA) treuhänderisch ange-
+legt sind, an Mit­arbeiter verpfändete Rückdeckungsversicherungen und erworbene Fondsanteile aus der Entgelt-
+umwandlung (Deferred Compensation). Die Bewertung erfolgt zum beizulegenden Zeitwert. Dieser Wert wird je nach 
+Art des Deckungsvermögens aus Börsenkursen, Bankauszügen und Versicherungsmitteilungen abgeleitet. Sofern 
+der beizulegende Zeitwert über den Anschaffungskosten liegt, wird die Ausschüttungssperre beachtet. Nach § 246 
+Abs. 2 Satz 2 HGB ist der beizulegende Zeitwert des Deckungsvermögens mit den abgedeckten Pen­sions­ver­
+pflich­tungen zu verrechnen. Übersteigt dieser Wert die Pensionsverpflichtungen, so wird der Überschuss als „Aktiver 
+Unterschiedsbetrag aus der Vermögensverrechnung“ bilanziert. Ebenso werden die Ergebnisse aus dem Deckungs­
+vermögen mit den Zinsaufwendungen aus der Aufzinsung der Pensionsverpflichtungen und den Aufwendungen 
+beziehungsweise Erträgen aus der Änderung des Abzinsungssatzes saldiert im Zinsergebnis ausgewiesen. 
+
+8
+Die übrigen Rückstellungen berücksichtigen nach vernünftiger kaufmännischer Beurteilung in angemessener Höhe 
+alle erkennbaren Risiken und werden in Höhe der mutmaßlichen Inanspruchnahme gebildet. Dabei werden bei der 
+Ermittlung des Erfüllungsbetrags künftig erwartete Preis- und Kostensteigerungen berücksichtigt. Rückstellungen mit 
+einer Restlaufzeit von über einem Jahr werden jeweils mit dem von der Deutschen Bundesbank ermittelten und 
+bekannt gemachten laufzeitkongruenten durchschnittlichen Marktzinssatz der vergangenen sieben Jahre abgezinst. 
+Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt.
+Latente Steuern werden für temporäre Unterschiede zwischen Bilanzansätzen in der Handels- und der Steuer-
+bilanz gebildet. Des Weiteren werden Steuerminderungsansprüche berücksichtigt, die sich innerhalb der nächsten 
+fünf Jahre aus der erwarteten Nutzung bestehender Verlustvorträge ergeben und deren Realisierung mit ausrei-
+chender Wahrscheinlichkeit gewährleis­tet ist. Die HOCHTIEF Aktiengesellschaft bilanziert auch sämtliche latenten 
+Steuern ihrer Organgesellschaften. Die Ermittlung der latenten Steuern erfolgt unverändert zum Vorjahr auf Basis 
+eines kombinierten Ertragsteuersatzes von 31,5 Prozent. Der Ausweis von aktiven und passiven latenten Steuern 
+wird saldiert vorgenommen. Im Geschäftsjahr 2016 werden die passiven latenten Steuern durch aktive latente 
+Steuern, die im Wesentlichen aus Wertansätzen von Pensionsrückstellungen, Verlustvorträgen und sonstigen Rück-
+stellungen resultieren, wie im Vorjahr überkompensiert. In Ausübung des Wahlrechts des § 274 Abs. 1 Satz 2 HGB 
+wurde auf einen Ansatz aktiver latenter Steuern verzichtet.
+Währungsumrechnung
+Vermögensgegenstände und Verbindlichkeiten in fremder Währung werden im Jahresabschluss mit dem Devisen-
+kassamittelkurs zum Zeitpunkt der Ersteinbuchung bewertet. Verluste aus Kursänderungen werden ergebniswirk-
+sam berücksichtigt. Bei Vermögensgegenständen und Verbindlichkeiten in Fremdwährung mit einer Restlaufzeit 
+von bis zu einem Jahr werden auch sich zum Stichtag ergebende Gewinne aus Kursänderungen ergebniswirksam 
+erfasst.
+Sofern Währungsrisiken aus Fremdwährungsposten durch den Abschluss von Derivaten, wie zum Beispiel 
+Devisentermin­ge­schäften, abgesichert worden sind und Bewertungseinheiten gebildet werden, erfolgt die 
+Umrechnung dieser Posten zum Sicherungskurs.
+Derivative Finanzinstrumente
+Neben dem Ausgleich von Wechselkursschwankungen im Rahmen unserer Auslandsgeschäfte werden derivative 
+Finanzinstrumente zur Absicherung von Zinsschwankungen bei variabel verzinslichen Finanzverbindlichkeiten sowie 
+zur Absicherung unserer aktienbasierten Vergütungspläne abgeschlossen. Derivate werden ausschließlich zu 
+Sicherungszwecken eingesetzt. Die Nutzung und die getrennte Kontrolle sowie die Verantwortlichkeiten sind durch 
+verbindliche Richtlinien bei allen Konzernunternehmen geregelt. Eine Bindung an Grundgeschäfte ist zwingend; als 
+Absicherung von Risiken ist nur das sogenannte Hedging erlaubt. Vertragspartner sind grundsätzlich Kreditinstitute 
+erster Bonität. Die Bewertung der Derivate erfolgt bei erstmaliger Einbuchung zu Anschaffungskosten, in den Folge-
+perioden zum beizulegenden Zeitwert unter Beachtung des Imparitätsprinzips, sofern sie nicht in eine Bewertungs-
+einheit einbezogen sind. Bei negativem beizulegendem Zeitwert eines Derivats wird eine Drohverlustrückstellung 
+gebildet. Die beizulegenden Zeitwerte der Zinsswaps werden anhand der am Bewertungsstichtag geltenden Zins-
+kurven bestimmt; die entsprechenden Zeitwerte der Fremdwährungsderivate werden auf Basis der am Bewertungs-
+stichtag für die jeweiligen Währungen geltenden Forwardsätze ermittelt. Die Marktwerte der Aktientermin- und Aktien­
+optionsgeschäfte werden mithilfe der am Bewertungsstichtag geltenden Kurse berechnet. Bewertungseinheiten 
+
+9
+zwischen Grund- und Sicherungsgeschäften werden gebildet, wenn beide Geschäfte objektiv und gewollt in einem 
+einheitlichen Nutzungs- und Funktionszusammenhang stehen, sodass sich die Gewinne und Verluste aus Grund- 
+und Sicherungsgeschäften mit hoher Wahrscheinlichkeit kompensieren werden. Bei HOCHTIEF dürfen Bewertungs-
+einheiten nur in Form von Micro-Hedges gebildet werden, das heißt, dass das Risiko eines Grundgeschäfts durch 
+ein Sicherungsinstrument abgesichert wird. Die Effektivität der Bewertungseinheit wird mithilfe der Critical-Terms-Match-
+Methode ermittelt, um die Wirksamkeit der jeweiligen Bewertungseinheit hinsichtlich der Kompensation der zukünf-
+tigen Wertänderungen oder Zahlungsströme zu überprüfen. Die retrospektive Effektivitätsmessung erfolgt grund-
+sätzlich mittels der Dollar-Offset-Methode. Sofern sich Ineffektivitäten ergeben, werden diese imparitätisch behandelt 
+und es wird – sofern erforderlich – eine Rückstellung für Bewertungseinheiten gebildet. Im Übrigen erfolgt die bilan-
+zielle Abbildung nach der sogenannten Einfrierungsmethode.
+Ermessensspielräume
+Bei der Aufstellung des Jahresabschlusses muss das Management der HOCHTIEF Aktiengesellschaft Einschät-
+zungen ­vornehmen und Annahmen treffen, die die Ansätze und die Bewertung der Vermögensgegenstände und 
+Schulden zum Abschlussstichtag sowie die Aufwendungen und Erträge für den Berichtszeitraum und die Angabe 
+von Risiken und Unsicherheiten beeinflussen. Die tatsächlichen Ergebnisse können entsprechend von diesen Ein-
+schätzungen abweichen.
+
+10
+Erläuterung der Bilanz
+1. Anlagevermögen 
+Entwicklung des Anlagevermögens
+Die immateriellen Vermögensgegenstände in Höhe von 6.122 Tsd. Euro betreffen im Wesentlichen Avalbereitstel-
+lungsgebühren.
+Auf andere Anlagen, Betriebs- und Geschäftsausstattung erfolgte im Vorjahr eine Zuschreibung in Höhe von 
+833 Tsd. Euro.
+Die Anteile an verbundenen Unternehmen betreffen im Wesentlichen die HOCHTIEF Asia Pacific GmbH, Essen, die 
+HOCHTIEF Americas GmbH, Essen, sowie die HOCHTIEF Insurance Broking and Risk Management Solutions 
+GmbH, Essen.
+Die zum 31. Dezember 2015 ausgewiesenen Ausleihungen an verbundene Unternehmen wurden im abgelaufenen 
+Geschäftsjahr vollständig zurückgezahlt. 
+Die Aufstellung der Beteiligungen der HOCHTIEF Aktiengesellschaft ist auf den Seiten 33 ff. dargestellt.
+Die Wertpapiere des Anlagevermögens entfallen vollständig auf Anteile an Investmentfonds im Zusammenhang 
+mit der Entgeltumwandlung von Mitarbeitern für eine zusätzliche Altersversorgung. Diese Anteile wurden im 
+Auftrag von Tochtergesellschaften erworben und stellen deshalb kein Deckungsvermögen der HOCHTIEF Aktien-
+gesellschaft dar.
+        
+                     Anschaffungs- und Herstellungskosten  
+(In Tsd. EUR)
+1.1.2016
+Zugänge
+Abgänge
+31.12.2016
+Immaterielle Vermögensgegenstände
+Entgeltlich erworbene Konzessionen, 
+gewerbliche Schutzrechte und ähnliche 
+Rechte und Werte sowie Lizenzen an 
+­solchen Rechten und Werten
+37.071
+ 
+ 
+ 
+421
+ 
+ 
+ 
+–
+37.492
+37.071
+421
+–
+37.492
+Sachanlagen
+Grundstücke, grundstücksgleiche Rechte 
+und Bauten einschließlich der Bauten auf 
+fremden Grundstücken
+59.813
+ 
+ 
+1.524
+ 
+ 
+3.465
+57.872
+Technische Anlagen und Maschinen
+3.151
+1.942
+–
+5.093
+Andere Anlagen, Betriebs- und Geschäfts-
+ausstattung
+ 
+6.571
+ 
+108
+ 
+194
+ 
+6.485
+69.535
+3.574
+3.659
+69.450
+Finanzanlagen
+Anteile an verbundenen Unternehmen
+2.669.139
+179.026
+3.153
+2.845.012
+Ausleihungen an verbundene Unternehmen
+36.316
+–
+36.316
+–
+Beteiligungen
+17.492
+–
+–
+17.492
+Wertpapiere des Anlagevermögens
+17.346
+229
+1.283
+16.292
+2.740.293
+179.255
+40.752
+2.878.796
+Anlagevermögen gesamt
+2.846.899
+183.250
+44.411
+2.985.738
+
+11
+ 
+2. Vorräte
+In den Vorräten sind ausschließlich unfertige Leistungen in Höhe von 14.276 Tsd. Euro (Vorjahr 16.434 Tsd. Euro) 
+enthalten.
+3. Forderungen und sonstige Vermögensgegenstände
+Abschreibungen kumuliert
+Buchwert
+Buchwert
+1.1.2016
+Abschreibungen des 
+Geschäftsjahres
+Abgänge
+31.12.2016
+31.12.2016
+31.12.2015
+ 
+ 
+ 
+28.806
+ 
+ 
+ 
+2.564
+ 
+ 
+ 
+–
+ 
+ 
+ 
+31.370
+ 
+ 
+ 
+6.122
+ 
+ 
+8.265
+28.806
+2.564
+–
+31.370
+6.122
+8.265
+ 
+ 
+43.045
+ 
+ 
+379
+ 
+ 
+1.561
+ 
+ 
+41.863
+ 
+ 
+16.009
+ 
+16.768
+2.218
+100
+–
+2.318
+2.775
+933
+ 
+4.843
+ 
+129
+ 
+191
+ 
+4.781
+ 
+1.704
+ 
+1.728
+50.106
+608
+1.752
+48.962
+20.488
+19.429
+238.560
+–
+3.153
+235.407
+2.609.605
+2.430.579
+–
+–
+–
+–
+–
+36.316
+17.490
+–
+–
+17.490
+2
+2
+–
+–
+–
+–
+16.292
+17.346
+256.050
+–
+3.153
+252.897
+2.625.899
+2.484.243
+334.962
+3.172
+4.905
+333.229
+2.652.509
+2.511.937
+31.12.2016
+Davon
+31.12.2015
+Davon
+Restlaufzeit
+Restlaufzeit
+(In Tsd. EUR)
+mehr als 1 Jahr
+mehr als 1 Jahr
+Forderungen aus Lieferungen
+und Leistungen
+470
+–
+206
+–
+Forderungen gegen
+verbundene Unternehmen
+560.247
+371.359
+614.559
+324.256
+Forderungen gegen Unternehmen, 
+mit denen ein Beteiligungsverhältnis 
+besteht
+4
+–
+14
+–
+Sonstige Vermögensgegenstände
+11.463
+1.644
+19.449
+4.297
+572.184
+373.003
+634.228
+328.553
+
+12
+Die Forderungen gegen verbundene Unternehmen resultieren im Wesentlichen aus dem Konzern­finanzverkehr und 
+aus Umlagen für Dienstleistungen.
+Die sonstigen Vermögensgegenstände enthalten Ansprüche auf Steuererstattungen, Ansprüche aus Rückdeckungs­
+versicherungen, Ansprüche aus Immobilienverkäufen, andere Forderungen außerhalb des Lieferungs- und Leis­
+tungsverkehrs sowie andere sonstige Vermögensgegenstände. Sonstige Vermögensgegenstände unterliegen in 
+Höhe von 1.644 Tsd. Euro (Vorjahr 2.402 Tsd. Euro) Verfügungsbeschränkungen.
+4. Wertpapiere
+Die Wertpapiere bestehen aus Fondsanteilen in Höhe von 1.373 Tsd. Euro (Vorjahr 197.617 Tsd. Euro). Wie im Vor-
+jahr unterliegen die Wertpapiere keinen Haftungsbeschränkungen.
+5. Flüssige Mittel
+Es handelt sich im Wesentlichen um Guthaben bei Kredit­instituten; sie unterliegen – unverändert gegenüber dem 
+Vorjahr – keinen Verfügungsbeschränkungen. 
+6. Rechnungsabgrenzungsposten
+Die Rechnungsabgrenzungen ergaben sich im Wesentlichen durch Vorauszahlungen bei Darlehensverbindlich-
+keiten und für Mieten. Der Unterschiedsbetrag zwischen Erfüllungs- und Ausgabebetrag bei Verbindlichkeiten 
+beträgt 4.060 Tsd. Euro (Vorjahr 5.973 Tsd. Euro).
+7. Eigenkapital
+954 717 eigene Aktien wurden im Rahmen des am 11. Januar 2016 beschlossenen Aktienrückkaufprogramms in der 
+Zeit vom 12. Januar 2016 bis zum 10. März 2016 zu einem Preis von insgesamt 79.655.955 Euro (Durchschnitts-
+kurs 83,43 Euro je Aktie) für die im Ermächtigungsbeschluss der Hauptversammlung vom 7. Mai 2014 beziehungs-
+weise 6. Mai 2015 vorgesehenen Zwecke und zur Verwendung für alle sonstigen aktienrechtlich zulässigen Zwecke 
+ 
+ 
+(In Tsd. EUR)
+Stand 
+1.1.2016 
+Verände-
+rung  
+eigene 
+Aktien
+ 
+ 
+Kapital­
+herab­
+setzung 
+Stand nach 
+Kapital-­
+herab- 
+setzung
+Dividen-
+denzah-
+lungen
+Jahres-
+über- 
+schuss
+Verände-
+rung  
+Kapital /  
+Rücklagen 
+Stand
+31.12.2016 
+Gezeichnetes Kapital
+177.432
+–
+-12.824
+164.608
+–
+–
+–
+164.608
+Eigene Aktien
+-10.543
+-2.414
+12.824
+-133
+–
+–
+–
+-133
+Kapitalrücklage
+804.163
+440
+12.824
+817.427
+–
+–
+–
+817.427
+Gewinnrücklagen
+Gesetzliche 
+­Rücklage
+1.492
+–
+–
+1.492
+–
+–
+–
+1.492
+Andere  
+Gewinnrücklagen
+237.874
+-76.398
+-12.824
+148.652
+–
+–
+132.469
+281.121
+Rücklagen gesamt
+1.043.529
+-75.958
+–
+967.571
+–
+–
+132.469
+1.100.040
+Bilanzgewinn
+138.619
+–
+–
+138.619
+-128.473
+289.503
+-132.469
+167.180
+1.349.037
+-78.372
+–
+1.270.665
+-128.473
+289.503
+–
+1.431.695
+
+13
+erworben. Der auf diese Aktien entfallende Betrag des Grundkapitals beträgt 2.444.076 Euro (1,48 Prozent des 
+Grundkapitals).
+Der Vorstand hat am 19. September 2016 beschlossen, unter Ausnutzung der Ermächtigung der Hauptversamm-
+lung vom 11. Mai 2016 zur Einziehung eigener und nach § 71 Abs. 1 Nr. 8 AktG erworbener Aktien 5 009 434 
+eigene Aktien einzuziehen. Der Aufsichtsrat hat der Einziehung zugestimmt. Durch die Einziehung ist das Grund-
+kapital der Gesellschaft in 64 300 000 auf den Inhaber lautende Stückaktien eingeteilt. Zusammen mit der Ein-
+ziehung wurde das Grundkapital der Gesellschaft auf 164.608.000,00 Euro herabgesetzt. Die Kapitalherabsetzung 
+erfolgte im Wege der Einziehung eigener Aktien nach § 71 Abs. 1 Nr. 8 Satz 6 AktG im vereinfachten Ein­ziehungs­
+verfahren (§ 237 Abs. 3 Nr. 2 AktG). Der auf die einzelne Aktie entfallende anteilige Betrag des Grundkapitals 
+beträgt 2,56 Euro.
+Zum 31. Dezember 2016 ergibt sich für die HOCHTIEF Aktiengesellschaft ein Bestand an eigenen Aktien im Sinne 
+von § 160 Abs. 1 Nr. 2 AktG von insgesamt 52 142 Stück. Diese Aktien wurden ab dem 7. Oktober 2014 für die im 
+Hauptversammlungsbeschluss vom 7. Mai 2014 beziehungsweise 6. Mai 2015 genannten Zwecke und zur Ver-
+wendung für alle sonstigen aktienrechtlich zulässigen Zwecke erworben. Der auf diese eigenen Aktien entfallende 
+Betrag des Grundkapitals beträgt 133.484 Euro (0,08 Prozent des Grundkapitals).
+Zum 31. Dezember 2016 beträgt das gezeichnete Kapital nach Berücksichtigung der noch im Bestand befindlichen 
+eigenen Aktien 164.475 Tsd. Euro (Vorjahr 166.889 Tsd. Euro).
+Die Kapitalrücklage enthält das Aufgeld aus der Ausgabe von Aktien durch die HOCHTIEF Aktiengesellschaft – 
+un­ver­ändert gegenüber dem Vorjahr – in Höhe von 782.684 Tsd. Euro, den Buchgewinn aus der Veräußerung 
+eigener Aktien in Höhe von 2.231 Tsd. Euro (Vorjahr 1.791 Tsd. Euro) sowie die auf die eingezogenen Aktien der 
+Geschäftsjahre 2016 (12.824 Tsd. Euro) und 2014 (19.688 Tsd. Euro) entfallenden Beträge des Grundkapitals. 
+Aus dem Jahresüberschuss ist eine Einstellung in die anderen Gewinnrücklagen in Höhe von 132.469 Tsd. Euro 
+vorgenommen worden (Vorjahr 13.588 Tsd. Euro). Gegenläufig wirkte sich bei den anderen Gewinnrücklagen die 
+Verrechnung der Anschaffungskosten aus der Veränderung eigener Aktien mit -76.398 Tsd. Euro sowie der auf 
+die eingezogenen Aktien entfallende Betrag des Grundkapitals mit -12.824 Tsd. Euro aus. Von den Rücklagen unter-
+liegt ein Betrag in Höhe von 23.334 Tsd. Euro (Vorjahr 18.355 Tsd. Euro) einer Ausschüttungssperre gemäß § 268 
+Abs. 8 HGB. Er betrifft die über die Anschaffungskosten hinausgehende Marktbewertung des Deckungsvermögens 
+zur Finanzierung der Pensionsverpflichtungen. Zudem unterliegt ein Betrag in Höhe von 20.959 Tsd. Euro einer 
+Ausschüttungssperre gemäß § 253 Abs. 6 HGB. Dieser betrifft den Unterschiedsbetrag zwischen dem Ansatz der 
+Pensionsverpflichtungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergan-
+genen zehn Geschäftsjahren und dem Ansatz der Pensionsverpflichtungen nach Maßgabe des entsprechenden 
+durchschnittlichen Marktzinssatzes aus den vergangenen sieben Geschäftsjahren.
+Dem Vorstand sind keine Beschränkungen, die Stimmrechte oder die Übertragung von Aktien betreffen, bekannt.
+Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen, existieren nicht. Es ist dem Vorstand nicht bekannt, 
+dass Arbeitnehmer am Kapital beteiligt sind und ihre Kontrollrechte nicht unmittelbar ausüben.
+
+14
+Gesetzliche Vorschriften über die Ernennung und Abberufung der Mitglieder des Vorstands und über die Änderung 
+der Satzung finden sich in den §§ 84, 85 AktG beziehungsweise §§ 179, 133 AktG. Nach § 7 Abs. 1 der Satzung 
+besteht der Vorstand mindestens aus zwei Personen. § 23 Abs. 1 der Satzung bestimmt, dass die Be­schlüsse der 
+Hauptversammlung mit einfacher Mehrheit der abgegebenen Stimmen gefasst werden, sofern nicht das Gesetz 
+zwingend etwas anderes bestimmt. Soweit das Gesetz außer der Stimmenmehrheit eine Mehrheit des bei der Be­
+schlussfassung vertretenen Kapitals verlangt, genügt nach § 23 Abs. 3 der Satzung die einfache Mehrheit, sofern 
+nicht zwingend eine andere Mehrheit vorgeschrieben ist.
+Der Vorstand ist gemäß § 4 Abs. 5 der Satzung ermächtigt, das Grundkapital bis zum 5. Mai 2020 mit Zustim-
+mung des Aufsichtsrats durch Ausgabe neuer, auf den Inhaber lautender Stückaktien gegen Bar- und/oder Sach-
+einlagen einmal oder mehrmals um bis zu insgesamt 54.000 Tsd. Euro zu erhöhen (genehmigtes Kapital I). Die 
+weiteren Einzelheiten ergeben sich aus der vorgenannten Satzungsbestimmung.
+Das Grundkapital der Gesellschaft ist gemäß § 4 Abs. 4 der Satzung um bis zu 46.080 Tsd. Euro, eingeteilt in bis 
+zu 18 Mio. Stück auf den Inhaber lautende Stückaktien, bedingt erhöht (bedingtes Kapital). Die Einzelheiten erge-
+ben sich aus der vorgenannten Satzungsbestimmung.
+Ermächtigung zum Aktienrückkauf:
+Durch Beschluss der Hauptversammlung vom 11. Mai 2016 ist die Gesellschaft gemäß § 71 Abs. 1 Nr. 8 AktG er-
+mächtigt worden, eigene Aktien zu erwerben. Diese Ermächtigung gilt bis zum 10. Mai 2021. Sie ist insgesamt auf 
+einen Anteil von zehn Prozent des im Zeitpunkt der Beschlussfassung der Hauptversammlung oder – falls dieser 
+Wert geringer ist – des zum Zeitpunkt der Ausübung der Ermächtigung bestehenden Grundkapitals beschränkt. 
+Die Ermächtigung kann unmittelbar durch die Gesellschaft oder durch ein von der Gesellschaft abhängiges oder 
+in ihrem Mehrheitsbesitz stehendes Unternehmen oder durch von der Gesellschaft oder von der Gesellschaft ab-
+hängige oder in ihrem Mehrheitsbesitz stehende Unternehmen beauftragte Dritte ausgeübt werden und erlaubt 
+den Erwerb eigener Aktien im ganzen Umfang oder in Teilbeträgen sowie den einmaligen oder mehrmaligen Erwerb. 
+Der Erwerb eigener Aktien kann über die Börse oder mittels eines an sämtliche Aktionäre gerichteten öffentlichen 
+Kaufangebots oder mittels einer an alle Aktionäre gerichteten öffentlichen Aufforderung zur Abgabe von Verkaufs-
+angeboten oder durch die Ausgabe von Andienungsrechten an die Aktionäre erfolgen. Die Bedingungen für den 
+Erwerb werden im Beschluss weiter spezifiziert.
+Der Vorstand ist durch den Beschluss der Hauptversammlung vom 11. Mai 2016 ermächtigt, mit Zustimmung des 
+Aufsichtsrats bei einer Veräußerung eigener Aktien durch ein Angebot an alle Aktionäre den Inhabern der von der 
+Gesellschaft oder einem ihrer nachgeordneten Konzernunternehmen ausgegebenen Options- und /oder Wandel-
+anleihen ein Bezugsrecht auf die Aktien zu gewähren. Der Vorstand ist weiter ermächtigt, eigene Aktien mit Zustim-
+mung des Aufsichtsrats in anderer Weise als über die Börse oder durch ein Angebot an sämtliche Aktionäre zu 
+veräußern, wenn die Aktien gegen Barzahlung zu einem Preis veräußert werden, der den Börsenkurs von Aktien 
+der Gesellschaft gleicher Ausstattung zum Zeitpunkt der Veräußerung nicht wesentlich unterschreitet. 
+ 
+Der Vorstand der HOCHTIEF Aktiengesellschaft ist ferner unter den nachstehenden Voraussetzungen ermächtigt, 
+­eigene Aktien mit Zustimmung des Aufsichtsrats Dritten in anderer Weise als über die Börse oder mittels Angebot an 
+sämtliche Aktionäre anzubieten und zu übertragen. Dies kann im Rahmen des Erwerbs von Unternehmen oder 
+Beteiligungen daran oder von Unternehmensteilen oder im Rahmen von Unternehmenszusammenschlüssen ge-
+schehen. Dies ist außerdem zulässig zur Einführung von Aktien der Gesellschaft an ausländischen Börsen, an denen 
+
+15
+sie bisher nicht zum Handel zugelassen sind. Außerdem dürfen die Aktien Personen zum Erwerb angeboten werden, 
+die im Arbeitsverhältnis zu der Gesellschaft oder einem mit ihr verbundenen Unternehmen stehen oder standen. 
+Außerdem dürfen die Aktien den Inhabern der von der Gesellschaft oder einem nachgeordneten Konzernunternehmen 
+der Gesellschaft gemäß der Ermächtigung durch die Hauptversammlung vom 11. Mai 2016 (TOP 8) begebenen Schuld-
+verschreibungen bei Ausübung ihrer Options- und/oder Wandlungsrechte und/oder -pflichten gewährt werden.
+Weiterhin dürfen die Aktien (amtierenden oder ausgeschiedenen) Mitgliedern des Vorstands der Gesellschaft und 
+(amtierenden oder ausgeschiedenen) Mitgliedern von Vorständen und Geschäftsführungen der von der Gesellschaft 
+abhängigen Unternehmen im Sinne von § 17 AktG sowie Personen, die im Arbeitsverhältnis zu der Gesellschaft 
+oder einem von der Gesellschaft abhängigen Unternehmen im Sinne von § 17 AktG stehen oder standen, mit der 
+Verpflichtung übertragen werden, sie für einen Zeitraum von mindestens zwei Jahren seit der Übertragung zu halten. 
+Eine solche Übertragung ist nur zulässig, um bestehende Ansprüche des Übertragungsempfängers auf variable Ver-
+gütung zu tilgen. Die weiteren Bedingungen der Übertragung werden im Beschluss weiter spezifiziert. Im Fall der 
+Ausgabe der Aktien an Mitglieder des Vorstands der Gesellschaft entscheidet allein der Aufsichtsrat der Gesellschaft 
+über die Ausgabe.
+Das gesetzliche Bezugsrecht der Aktionäre auf diese eigenen Aktien wird gemäß §§ 71 Abs. 1 Nr. 8, 186 Abs. 3 und 4 
+AktG insoweit ausgeschlossen, wie diese Aktien gemäß den vorstehenden Ermächtigungen verwendet werden. 
+Weiterhin ist der Vorstand ermächtigt, die eigenen Aktien mit Zustimmung des Aufsichtsrats einzuziehen, ohne 
+dass die Einziehung und ihre Durchführung eines weiteren Hauptversammlungsbeschlusses bedürfen. 
+Die Bedingungen der Bezugsrechtsgewährung, Veräußerung, Übertragung beziehungsweise Einziehung der eigenen 
+Aktien werden in dem Beschluss der Hauptversammlung weiter spezifiziert.
+Durch weiteren Beschluss der Hauptversammlung vom 11. Mai 2016 ist die Gesellschaft zum Einsatz von Eigen-
+kapitalderivaten im Rahmen des Erwerbs eigener Aktien gemäß § 71 Abs. 1 Nr. 8 AktG sowie zum Ausschluss des 
+Andienungs- und Bezugsrechts ermächtigt worden. Dadurch soll das Volumen an Aktien, das insgesamt erwor-
+ben werden darf, nicht erhöht werden; es werden lediglich im Rahmen der Höchstgrenze der vorgenannten Er-
+mächtigung zum Erwerb eigener Aktien und unter Anrechnung auf diese Höchstgrenze weitere Handlungsalterna-
+tiven zum Erwerb eigener Aktien eröffnet. Der Vorstand ist ermächtigt worden, Optionen zu erwerben, die der 
+Gesellschaft das Recht vermitteln, bei Ausübung der Optionen Aktien der Gesellschaft zu erwerben (Call-Optionen). 
+Der Vorstand ist ferner ermächtigt worden, Optionen zu veräußern, welche die Gesellschaft bei Ausübung der 
+Optionen durch deren Inhaber zum Erwerb von Aktien der Gesellschaft verpflichten (Put-Optionen). Ferner kann 
+der Erwerb unter Einsatz einer Kombination aus Call- und Put-Optionen oder Terminkaufverträgen erfolgen. Die 
+Bedingungen zum Einsatz von Eigenkapitalderivaten im Rahmen des Erwerbs eigener Aktien sowie zum Ausschluss 
+des Andienungs- und Bezugsrechts werden in dem Beschluss der Hauptversammlung weiter spezifiziert.
+11 492 eigene Aktien wurden im Mai 2016 an Mitglieder des Vorstands der Gesellschaft und an ein ehemaliges 
+Vorstandsmitglied der HOCHTIEF Solutions AG zu einem Preis von 111,75 Euro je Aktie mit der Verpflichtung über-
+tragen, sie für einen Zeitraum von mindestens zwei Jahren seit der Übertragung zu halten. Damit wurden beste-
+hende Ansprüche der Übertragungsempfänger auf variable Vergütung getilgt. Der auf diese Aktien entfallende Be-
+trag des Grundkapitals beträgt 29.420 Euro (0,018 Prozent des Grundkapitals).
+
+16
+8. Aktienbasierte Vergütungen
+Während des Berichtsjahres bestanden folgende konzernweite aktienbasierte Vergütungssysteme für Führungs-
+kräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbundener Unternehmen:
+Top-Executive-Retention-Plan 2008
+Der Vorstand hat im Juni 2008 für ausgewählte Führungskräfte die Auflage eines Top-Executive-Retention-Plans 
+(TERP 2008) beschlossen.
+Der Plan basiert auf Stock-Awards und besteht aus drei Tranchen. Im Juli 2008 wurde die erste Tranche, im Juli 2009 
+die zweite Tranche und im Juli 2010 die dritte Tranche gewährt.
+Die Laufzeit des Plans beträgt insgesamt zehn Jahre. Die Wartezeit liegt nach Zuteilung der jeweiligen Tranche bei 
+drei Jahren. Der Ausübungszeitraum liegt – abhängig von der jeweiligen Tranche – zwischen fünf und sieben Jahren.
+Die Planbedingungen sehen vor, dass die Berechtigten für jeden Stock-Award nach Ablauf der jeweiligen Wartezeit 
+und nach Wahl der HOCHTIEF Aktiengesellschaft eine HOCHTIEF-Aktie oder einen Barausgleich in Höhe des Börsen-
+schlusskurses der HOCHTIEF-Aktie des letzten Börsenhandelstags vor dem Ausübungstag erhalten. Der Gewinn 
+ist in den einzelnen Jahren des Ausübungszeitraums auf eine Kappungsgrenze beschränkt. Diese Kappungsgrenze 
+steigt jährlich an und ist am Ende der Laufzeit auf einen Maximalgewinn begrenzt. Der Maximalgewinn wurde für 
+die erste Tranche auf 160 Euro, für die zweite Tranche auf 81,65 Euro und für die dritte Tranche auf 166,27 Euro 
+pro Stock-Award festgelegt.
+Die erste Tranche wurde 2015 und die dritte Tranche 2016 vollständig ausgeübt.
+Long-Term-Incentive-Plan 2010
+Im Geschäftsjahr 2010 wurde für obere Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter 
+verbundener Unternehmen sowie für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats 
+ein Long-Term-Incentive-Plan 2010 (LTIP 2010) aufgelegt. Dieser sah neben der Gewährung von Stock-Appreciation-
+Rights (SAR) die Ausgabe von Stock-Awards vor. Die SAR können nur ausgeübt werden, wenn der zehntägige 
+Durchschnitt (arithmetisches Mittel) der Börsenschlusskurse der HOCHTIEF-Aktie bis zum Ausübungstag im Ver-
+gleich zum Ausgabepreis an mindestens zehn aufeinanderfolgenden Börsenhandelstagen eine bessere Kursper-
+formance als der MDAX aufweist, gemessen als zehntägiger Durchschnitt der Schlusskurse im Vergleich zum Ba-
+sispreis dieses Index (relative Erfolgshürde), und wenn zusätzlich die Kapitalrendite RONA (Return on Net Assets) 
+gemäß dem zuletzt gebilligten Konzernabschluss mindestens zehn Prozent beträgt (absolute Erfolgshürde). Die 
+relative Erfolgshürde braucht nicht erfüllt zu werden, wenn nach Ablauf der Wartezeit der HOCHTIEF-Durchschnitts-
+börsenkurs an zehn aufeinanderfolgenden Börsenhandelstagen den Ausgabepreis um mindestens zehn Prozent 
+übersteigt.
+Die SAR können bei Erreichen der genannten Erfolgsziele nach einer Wartezeit von vier Jahren bis auf kurze Sperr-
+fristen vor Bekanntgabe von Unternehmensdaten ausgeübt werden. Nach Ausübung der SAR wird von der ge-
+währenden Gesellschaft der Unterschiedsbetrag zwischen dem aktuellen Börsenkurs und dem Ausgabepreis aus-
+gezahlt. Der Gewinn pro SAR ist auf 27,28 Euro begrenzt.
+
+17
+Die Planbedingungen für die Ausgabe der Stock-Awards sahen vor, dass die Berechtigten nach Ablauf der Warte-
+zeit von drei Jahren innerhalb eines Ausübungszeitraums von zwei Jahren bei Ausübung für jeden Stock-Award 
+nach Wahl der HOCHTIEF Aktiengesellschaft eine HOCHTIEF-Aktie oder einen Barausgleich in Höhe des Börsen-
+schlusskurses der HOCHTIEF-Aktie des letzten Börsenhandelstags vor dem Ausübungstag erhielten. Der Gewinn 
+pro Stock-Award war auf 81,83 Euro begrenzt.
+Der Plan für die Stock-Awards endete im Jahr 2015.
+Long-Term-Incentive-Plan 2011
+Im Geschäftsjahr 2011 wurde für obere Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter 
+verbundener Unternehmen sowie für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats 
+ein Long-Term-Incentive-Plan 2011 (LTIP 2011) aufgelegt. Die Planbedingungen unterschieden sich nicht wesent-
+lich von den Planbedingungen des LTIP 2010. Der Gewinn war auf 32,67 Euro pro SAR und auf 98,01 Euro pro 
+Stock-Award begrenzt.
+Der Plan für die SAR wurde 2016 komplett ausgeübt und der Plan für die Stock-Awards endete im Jahr 2016.
+Long-Term-Incentive-Plan 2012
+Im Geschäftsjahr 2012 wurde für obere Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter 
+verbundener Unternehmen sowie für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats 
+ein Long-Term-Incentive-Plan 2012 (LTIP 2012) aufgelegt. Zu den Planbedingungen des LTIP 2011 unterscheidet 
+sich der Plan in zwei Punkten:
+1. Die Kapitalrendite RONA (Return on Net Assets) gemäß dem zuletzt gebilligten Konzernabschluss muss min-
+destens 15 Prozent betragen.
+2. Die Wartezeit bei den Stock-Awards wurde von drei auf vier Jahre und die Laufzeit entsprechend von fünf auf 
+sechs Jahre verlängert.
+Der Gewinn ist auf 25,27 Euro pro SAR und auf 75,81 Euro pro Stock-Award begrenzt.
+Long-Term-Incentive-Plan 2013
+Im Geschäftsjahr 2013 wurde für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats ein 
+Long-Term-Incentive-Plan 2013 (LTIP 2013) aufgelegt. Zu den Planbedingungen des LTIP 2012 unterscheidet sich 
+der Plan nur in einem Punkt:
+Das Erfolgsziel zur Kapitalrendite RONA wurde durch ein Erfolgsziel zum bereinigten Free Cashflow ersetzt. Die 
+Anzahl der ausübbaren SAR richtet sich danach, ob der geplante Wertebereich für den bereinigten Free Cashflow 
+erreicht wurde. Dieser Wertebereich wird im Rahmen des Business-Plans für das jeweilige Ausübungsjahr festgelegt.
+Der Gewinn ist auf 24,61 Euro pro SAR und auf 73,83 Euro pro Stock-Award begrenzt.
+
+18
+Long-Term-Incentive-Plan 2014
+Im Geschäftsjahr 2014 wurde für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats ein 
+Long-Term-Incentive-Plan 2014 (LTIP 2014) aufgelegt. Die Planbedingungen unterscheiden sich nicht wesentlich 
+von den Planbedingungen des LTIP 2013.
+Der Gewinn ist auf 30,98 Euro pro SAR und auf 92,93 Euro pro Stock-Award begrenzt.
+Long-Term-Incentive-Plan 2015
+Im Geschäftsjahr 2015 wurde für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats ein 
+Long-Term-Incentive-Plan 2015 (LTIP 2015) aufgelegt. Die Planbedingungen unterscheiden sich nicht wesentlich 
+von den Planbedingungen des LTIP 2014.
+Der Gewinn ist auf 31,68 Euro pro SAR und auf 95,04 Euro pro Stock-Award begrenzt.
+Long-Term-Incentive-Plan 2016
+Im Geschäftsjahr 2016 wurde für die Mitglieder des Vorstands auf Basis eines Beschlusses des Aufsichtsrats ein 
+Long-Term-Incentive-Plan 2016 (LTIP 2016) aufgelegt. Die Planbedingungen unterscheiden sich von den Planbe-
+dingungen des LTIP 2015 lediglich darin, dass die Wartezeit von vier auf drei Jahre verkürzt wurde und die Laufzeit 
+entsprechend auf sechs Jahre (SAR) beziehungsweise fünf Jahre (Stock-Awards) verkürzt wurde.
+Der Gewinn ist auf 41,54 Euro pro SAR und auf 124,62 Euro pro Stock-Award begrenzt.
+Sonstiges
+Kapitalrenditekonzept RONA
+Das Kapitalrenditekonzept Return on Net Assets (RONA) gibt an, wie erfolgreich sich das Vermögen von HOCHTIEF 
+verzinst hat, und misst somit die Rentabilität des HOCHTIEF-Konzerns. Hierzu wird das erzielte Ergebnis ins Ver-
+hältnis zum Nettovermögen gesetzt. Das erzielte Ergebnis setzt sich aus dem in der Ergebnisrechnung abgeleiteten 
+betrieblichen Ergebnis / EBIT und den Zinserträgen auf das Finanzvermögen zusammen. Das Nettovermögen spiegelt 
+den zu verzinsenden Kapitaleinsatz wider.
+Im Berichtsjahr 2016 lag die Kapitalrendite (RONA) für den HOCHTIEF-Konzern bei 15,9 Prozent (Vorjahr 13,2 Pro-
+zent). Im Vergleich zum Vorjahr ergibt sich somit eine Erhöhung der Kapitalrendite von 2,7 Prozentpunkten.
+Die Ausübungsbedingungen aller aufgelegten Pläne sehen vor, dass bei Ausübung der SAR oder Stock-Awards – und 
+bei Vorliegen aller anderen hierzu erforderlichen Voraussetzungen – die HOCHTIEF Aktiengesellschaft grundsätz-
+lich ein Wahlrecht hat, anstelle der Auszahlung des Gewinns auch HOCHTIEF-Aktien zu liefern. Soweit die Bezugs-
+berechtigten nicht bei der HOCHTIEF Aktiengesellschaft beschäftigt sind, werden die mit der Ausübung entste-
+henden Aufwendungen durch das jeweilige verbundene Unternehmen getragen. 
+Für die vorstehend genannten aktienbasierten Vergütungs­pläne waren zum Bilanzstichtag Rückstellungen in Höhe 
+von 11.492 Tsd. Euro (Vorjahr 8.199 Tsd. Euro) passiviert. Der Gesamtaufwand für die genannten Pläne betrug im 
+Berichtsjahr 6.074 Tsd. Euro (Vorjahr 5.020 Tsd. Euro). Der innere Wert der zum Ende der Berichtsperiode ausübbaren 
+Optionen belief sich auf 3.197 Tsd. Euro (Vorjahr 1.492 Tsd. Euro).
+
+19
+Für die Pläne sind bislang die folgenden Stückzahlen an SAR beziehungsweise Stock-Awards ausgegeben, verfallen 
+oder ausgeübt worden:
+9. Rückstellungen für Pensionen und ähnliche Verpflichtungen
+Die betriebliche Altersversorgung bei der HOCHTIEF Aktiengesellschaft ist ein beitragsorientiertes Bausteinsystem. 
+Der jährliche Rentenbaustein hängt vom Einkommen und vom Lebensalter des Beschäftigten („Verrentungsfaktor“) 
+ab sowie von einem allgemeinen Versorgungsbeitrag, der durch die HOCHTIEF Aktiengesellschaft alle drei Jahre 
+geprüft und gegebenenfalls angepasst wird. Die Summe aller erworbenen jährlichen Rentenbausteine ergibt die spä-
+tere Versorgungsleistung. Die Leistung umfasst eine Altersrente, eine Invalidenrente sowie eine Hinterbliebenenver-
+sorgung.
+Die Höhe der Rückstellung wird nach versicherungsmathematischen Methoden berechnet, für die Schätzungen 
+unumgänglich sind. Als biometrische Rechnungsgrundlagen werden die Richttafeln 2005 G von Professor Dr. Klaus 
+Heubeck verwendet. Des Weiteren liegen der Berechnung folgende versicherungsmathematische Prämissen 
+zugrunde:
+Zur Finanzierung von Pensionszahlungen wurde bei der HOCHTIEF Aktiengesellschaft ein Contractual-Trust-Arrange­
+ment (CTA) gegründet. Die übertragenen Vermögensgegenstände werden durch einen externen Treuhänder verwal-
+tet und dienen ausschließlich der Finanzierung der inländischen Pensionsverpflichtungen. Übertragene Barmittel 
+werden am Kapitalmarkt nach Maßgabe der im Treuhandvertrag vereinbarten Anlagegrundsätze inves­tiert. Anteile 
+an einem Spezialfonds, bei dem es sich um einen Mischfonds handelt, hatten zum 31. Dezember 2016 einen Markt-
+wert, der zugleich dem Buchwert entspricht, von 175.564 Tsd. Euro (Vorjahr 185.264 Tsd. Euro). Aus dem Fonds 
+erhielt die HOCHTIEF Aktiengesellschaft – wie im Vorjahr – keine Ausschüttung. Die Vermögensgegenstände des 
+(In Prozent)
+2016
+2015
+Abzinsungsfaktor
+4,00
+3,89
+Gehaltssteigerungsrate
+2,75
+3,25
+Rentensteigerungsrate
+1,75
+1,75
+Ursprüng-
+lich ausge-
+geben
+Stand 
+31.12.2015
+2016  
+neu  
+gewährt
+2016  
+Zugang 
+übertragen
+2016  
+Abgang 
+übertragen
+2016  
+verfallen
+2016  
+ausgeübt/
+abgegolten
+Stand 
+31.12.2016 
+TERP 2008 – zweite Tranche
+146 000
+3 300
+–
+–
+–
+–
+400
+2 900
+TERP 2008 – dritte Tranche
+84 100
+9 200
+–
+–
+–
+–
+9 200
+0
+LTIP 2011 – SAR
+84 950
+17 100
+–
+–
+–
+–
+17 100
+0
+LTIP 2011 – Stock-Awards
+43 450
+300
+–
+–
+–
+–
+300
+0
+LTIP 2012 – SAR
+102 956
+112 506
+–
+–
+–
+–
+–
+112 506
+LTIP 2012 – Stock-Awards
+23 086
+16 619
+–
+–
+–
+–
+15 069
+1 550
+LTIP 2013 – SAR
+38 288
+38 288
+–
+–
+–
+–
+–
+38 288
+LTIP 2013 – Stock-Awards
+9 297
+9 297
+–
+–
+–
+–
+–
+9 297
+LTIP 2014 – SAR
+83 554
+83 554
+–
+–
+–
+–
+–
+83 554
+LTIP 2014 – Stock-Awards
+19 664
+19 664
+–
+–
+–
+–
+–
+19 664
+LTIP 2015 – SAR
+94 274
+94 274
+–
+–
+–
+–
+–
+94 274
+LTIP 2015 – Stock-Awards
+19 733
+19 733
+–
+–
+–
+–
+–
+19 733
+LTIP 2016 – SAR
+–
+–
+90 511
+–
+–
+–
+–
+90 511
+LTIP 2016 – Stock-Awards
+–
+–
+17 328
+–
+–
+–
+–
+17 328
+
+20
+Pensionsfonds erfüllen genauso wie an die Mitarbeiter verpfändete Rückdeckungsversicherungen und Fondsan-
+teile aus der Entgeltumwandlung der Mitarbeiter die Anforderungen des § 246 Abs. 2 Satz 2 HGB. Demnach sind 
+der beizulegende Zeitwert der Vermögensgegenstände mit dem Erfüllungsbetrag der Pensionsverpflichtungen und 
+die Erträge und Aufwendungen aus diesen Vermögensgegenständen mit den Aufzinsungsaufwendungen der Pen-
+sionsverpflichtungen zu verrechnen. Die Saldierung erfolgt getrennt nach der Art der Pensionszusage. Je nach-
+dem, ob eine Über- oder Unterdeckung vorliegt, kann es zu einem aktivischen oder passivischen Ausweis in der 
+Bilanz kommen.
+In der Bilanz zum 31. Dezember 2016 wurde folgende Verrechnung vorgenommen:
+Die laufenden Leistungen für die Pensionszahlungen beliefen sich im Berichtsjahr auf 21.461 Tsd. Euro  
+(Vorjahr 21.953 Tsd. Euro).
+Der Aufwand aus Pensionsverpflichtungen setzt sich wie folgt zusammen:
+Der negative Aufwand für Altersversorgung im Geschäftsjahr 2015 resultierte aus einer gegenüber den Bewertungs-
+annahmen höheren Sterblichkeit.
+31.12.2016
+31.12.2015
+ 
+ 
+ 
+ 
+(In Tsd. EUR)
+Aktiver 
+Unterschieds­
+betrag aus der 
+Vermögens- 
+ver­rechnung
+Rückstel-
+lungen für 
+Pensionen 
+und ähnliche 
+Verpflich-
+tungen
+Gesamt
+Aktiver 
+Unterschieds­
+betrag aus der 
+Vermögens- 
+ver­rechnung
+Rückstel-
+lungen für 
+Pensionen 
+und ähnliche 
+Verpflich-
+tungen
+Gesamt
+Erfüllungsbetrag der 
+­Pensionen und ähnlichen 
+Verpflichtungen
+ 
+ 
+-48.927
+ 
+ 
+-218.485
+ 
+ 
+-267.412
+-51.749
+-229.511
+-281.260
+Beizulegender Zeitwert der 
+­ver­rechneten Vermögens­
+gegen­stände (§ 246 Abs. 2 
+Satz 2 HGB)
+ 
+ 
+ 
+67.739
+ 
+ 
+ 
+183.863
+ 
+ 
+ 
+251.602
+67.499
+194.893
+262.392
+Saldo
+18.812
+-34.622
+-15.810
+15.750
+-34.618
+-18.868
+Anschaffungskosten der 
+­verrechneten Vermögens­
+gegenstände (§ 246 Abs. 2 
+Satz 2 HGB)
+ 
+ 
+ 
+67.739
+ 
+ 
+ 
+160.530
+ 
+ 
+ 
+228.269
+67.499
+176.538
+244.037
+(In Tsd. EUR)
+2016
+2015
+Aufwand für Altersversorgung
+1.319
+-1.534
+Personalaufwand
+1.319
+-1.534
+Zinsaufwand aus der Aufzinsung und der Änderung des Abzinsungssatzes
+7.696
+28.695
+Verrechnete Erträge (-)/Aufwendungen (+) aus dem Deckungsvermögen  
+(§ 246 Abs. 2 Satz 2 HGB)
+ 
+-10.159
+188
+Zinsergebnis
+-2.463
+28.883
+Gesamtertrag (-)/-aufwand (+)
+-1.144
+27.349
+
+21
+10. Übrige Rückstellungen
+Die sonstigen Rückstellungen betreffen unter anderem Personalrückstellungen, Risiken im Immobilien- und Beteili-
+gungsbereich, nicht an anderer Stelle berücksichtigte drohende Verluste aus schwebenden Geschäften, Jahres­
+abschluss­kosten, Gewährleistungen, Prozessrisiken sowie andere ungewisse Verbindlichkeiten.
+11. Verbindlichkeiten
+Die Anleihen der HOCHTIEF Aktiengesellschaft setzen sich wie folgt zusammen:
+Ein im Jahr 2012 aufgenommenes Schuldscheindarlehen mit einer Ursprungslaufzeit von vier Jahren und einem 
+Nominalwert von 50.000 Tsd. Euro, dessen Ausweis unter den Verbindlichkeiten gegenüber Kreditinstituten erfolg-
+te, wurde planmäßig bei Laufzeitende am 13. Dezember 2016 zurückgezahlt. Somit hat die HOCHTIEF Aktien-
+gesellschaft am Bilanzstichtag keine Schuldscheindarlehen mehr ausstehen.
+(In Tsd. EUR)
+31.12.2016
+31.12.2015
+Steuerrückstellungen
+16.536
+20.579
+Sonstige Rückstellungen
+41.788
+55.226
+58.324
+75.805
+(In Tsd. EUR)
+31.12.2016
+Davon
+Restlaufzeit
+bis zu 1 Jahr
+Davon
+Restlaufzeit
+größer 1 Jahr 
+bis zu 5 Jahren
+31.12.2015
+Davon
+Restlaufzeit
+bis zu 1 Jahr
+Davon
+Restlaufzeit
+größer 1 Jahr 
+bis zu 5 Jahren
+Anleihen
+1.801.756
+551.756
+1.250.000
+1.801.897
+51.897
+1.750.000
+Verbindlichkeiten gegenüber
+Kreditinstituten
+1.566
+1.566
+–
+51.457
+51.457
+–
+Verbindlichkeiten aus
+Lieferungen und Leistungen
+2.762
+2.762
+–
+2.292
+2.292
+–
+Verbindlichkeiten gegenüber
+verbundenen Unternehmen
+262.866
+262.866
+–
+198.800
+195.500
+3.300
+Verbindlichkeiten gegenüber
+Unternehmen, mit denen ein
+Beteiligungsverhältnis besteht
+1
+1
+–
+1.174
+1.174
+–
+Sonstige Verbindlichkeiten
+15.067
+14.900
+167
+15.933
+15.867
+66
+davon aus Steuern
+(9.783)
+(9.783)
+–
+(11.362)
+(11.362)
+–
+davon im Rahmen der
+sozialen Sicherheit
+(10)
+(10)
+–
+(38)
+(38)
+–
+2.084.018
+833.851
+1.250.167
+2.071.553
+318.187
+1.753.366
+Buchwert
+31.12.2016
+(In Tsd. EUR)
+Buchwert
+31.12.2015
+(In Tsd. EUR)
+Nominalwert
+31.12.2016
+(In Tsd. EUR)
+Zinssatz
+in Prozent
+Ursprüngliche 
+Laufzeit 
+(In Jahren)
+Fälligkeit
+Anleihe HOCHTIEF AG (2014)
+507.782
+507.803
+500.000
+2,63
+5
+Mai 2019
+Anleihe HOCHTIEF AG (2013)
+772.710
+772.772
+750.000
+3,88
+7
+März 2020
+Anleihe HOCHTIEF AG (2012)
+521.264
+521.322
+500.000
+5,50
+5
+März 2017
+1.801.756
+1.801.897
+
+22
+Ein internationales Bankenkonsortium hat HOCHTIEF im Dezember 2011 eine im April 2019 fällige Fünf-Jahres-
+Kreditlinie, die eine Bartranche in Höhe von 0,5 Mrd. Euro beinhaltet, zu marktgerechten Konditionen bereitgestellt. 
+Die Bartranche ist zum Stichtag – wie im Vorjahr – nicht in Anspruch genommen worden.
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen resultieren im Wesentlichen aus dem Konzernfinanz-
+verkehr.
+Die sonstigen Verbindlichkeiten enthalten Steuerverbindlichkeiten, Verbindlichkeiten aus der Lohn- und Gehalts-
+abrechnung, andere Verbindlichkeiten außerhalb des Lieferungs- und Leistungsverkehrs sowie andere Verpflich-
+tungen.
+Zum Bilanzstichtag bestehen – wie im Vorjahr – keine Verbindlichkeiten mit einer Restlaufzeit von mehr als fünf Jahren.
+12. Rechnungsabgrenzungsposten
+Die Rechnungsabgrenzungen ergaben sich im Wesentlichen aus Vorauszahlungen von Nutzungsentgelten für 
+Grundstücke.
+13. Haftungsverhältnisse und sonstige finanzielle Verpflichtungen
+Die Haftungsverhältnisse waren überwiegend zur Sicherung aufgenommener Bankkredite, für Vertragserfüllungen, 
+Gewährleistungsverpflichtungen und Vorauszahlungen gegeben. Die HOCHTIEF Aktiengesellschaft bürgte am 
+Bilanzstichtag im Wesentlichen für Beteiligungsgesellschaften und Arbeitsgemeinschaften. Nach unserer Einschät-
+zung der wirtschaftlichen Verhältnisse können alle Gesellschaften ihre zugrunde liegenden Verpflichtungen erfüllen, 
+sodass die HOCHTIEF Aktien­gesellschaft voraussichtlich nicht in Anspruch genommen werden wird.
+Im Zusammenhang mit einer konzerninternen Umstrukturierung im Geschäftsjahr 2012 hat die HOCHTIEF Aktien­
+gesellschaft zudem für eine Beteiligung eine fünfjährige Wertgarantie mit einer Laufzeit bis Ende Januar 2017 über-
+nommen, die nicht in Anspruch genommen wurde.
+ 
+Der syndizierte Aval- (1,5 Mrd. Euro) und Barkredit (0,5 Mrd. Euro) bildet weiterhin ein zentrales langfristiges Finanzie-
+rungsinstrument der HOCHTIEF Aktiengesellschaft. Der Kreditrahmen ermöglicht die Bereitstellung von Bürg-
+schaften für die gewöhnliche Geschäftstätigkeit, vornehmlich der Division HOCHTIEF Europe.   
+Die HOCHTIEF Aktiengesellschaft hat darüber hinaus zugunsten amerikanischer Versicherungsgesellschaften eine 
+unbegrenzte Garantie für Verpflichtungen der Turner- und der Flatiron-Gruppe im Rahmen des sogenannten 
+Bondings ausgelegt. Das gesamte Bondingvolumen beläuft sich im Berichtsjahr auf unverändert 7.300 Mio. US-Dollar. 
+Die Ausnutzung dieses Bondingvolumens beträgt zum 31. Dezember 2016 5.783 Mio. US-Dollar (Vorjahr 6.491 Mio. 
+US-Dollar). Darüber hinaus besteht zugunsten von Flatiron eine syndizierte Kreditfazilität, die ebenfalls durch eine 
+Konzerngarantie der HOCHTIEF Aktiengesellschaft besichert wird. Eine Inanspruchnahme aus diesen HOCHTIEF-
+Garantien ist in der Vergangenheit nicht erfolgt und wird aufgrund der wirtschaftlichen Verhältnisse auch nicht für die 
+Zukunft erwartet.
+(In Tsd. EUR)
+31.12.2016
+31.12.2015
+Verpflichtungen aus Bürgschaften und Patronatserklärungen
+967.103
+1.025.178
+davon für verbundene Unternehmen
+(951.200)
+(952.995)
+
+23
+Ferner haftet die HOCHTIEF Aktiengesellschaft für Joint-Venture-Garantien der Flatiron Construction 
+­Corporation höchstens in Höhe der Auftragswerte. Diese betrugen zum 31. Dezember 2016 998.374 Tsd. Euro 
+(Vorjahr 967.386 Tsd. Euro).
+Im Rahmen der sonstigen finanziellen Verpflichtungen bestehen Abnahmeverpflichtungen aus langfristigen Liefer- 
+und Leistungsverträgen in Höhe von 74.834 Tsd. Euro (Vorjahr 86.887 Tsd. Euro). Dabei handelt es sich um Ver-
+pflichtungen aus langfristigen Mietverträgen. Ihnen stehen erwartete Mieterträge in Höhe von 56.128 Tsd. Euro 
+(Vorjahr 72.312 Tsd. Euro) gegenüber.
+Derivative Finanzinstrumente
+Die beizulegenden Zeitwerte von Derivaten, die nicht mit deren beizulegendem Zeitwert bewertet worden sind,   
+da sie in einer Bewertungseinheit designiert waren oder einen positiven Marktwert aufwiesen, betrugen zum      
+31. Dezember 2016 saldiert 22 Tsd. Euro (Vorjahr 9.751 Tsd. Euro).
+Zum Bilanzstichtag bestehen keine Absicherungen unserer aktienbasierten Vergütungspläne, die mittels Baraus-
+gleich erfüllt werden. Im Vorjahr erfolgte die Absicherung anhand von vier Aktienoptions- und zwei Aktienterminge-
+schäften.
+Wesentliche Avalkreditlinien
+Insgesamt verfügbar
+davon genutzt
+Laufzeit bis
+(In Mrd.)
+2016
+2015
+2016
+2015
+HOCHTIEF AG   
+Syndizierte Avalkreditlinie (EUR)
+1,50
+1,50
+0,78
+0,86
+April 2019
+Weitere Avalkreditlinien (EUR)
+1,68
+1,50
+1,03
+0,92
+n. a.
+Turner/Flatiron
+Bonding (USD)
+7,30
+7,30
+5,78
+6,49
+n. a.
+Flatiron; syndizierter Avalkredit (CAD)
+0,25
+0,25
+0,16
+0,13
+Dezember 2018
+
+24
+Erläuterung der Gewinn- und Verlustrechnung
+14. Umsatzerlöse
+Die Umsatzerlöse der HOCHTIEF Aktiengesellschaft stehen im Zusammenhang mit der Ausübung der Holding-
+funktion. In den Umsatzerlösen sind Mieterträge in Höhe von 20.446 Tsd. Euro (Vorjahr 23.426 Tsd. Euro) enthalten. 
+Darüber hinaus sind Umlagen aus Dienstleistungen mit einem Betrag von 46.983 Tsd. Euro ausgewiesen. Insge-
+samt würde sich bei Anwendung des BilRUG aufgrund der vorgeschriebenen Umgliederung von Beträgen ein Vor-
+jahreswert in Höhe von 77.360 Tsd. Euro ergeben.
+15. Sonstige betriebliche Erträge
+Diese Position enthält Erträge aus der Auflösung von Rückstellungen, der Veräußerung von Wertpapieren des Um­
+laufvermögens und dem Abgang von Gegenständen des Sachanlagevermögens sowie Kostenverrechnungen. 
+Die periodenfremden Erträge betreffen Erstattungsansprüche in Höhe von 37.114 Tsd. Euro sowie Erträge aus der 
+Auflösung von Rückstellungen in Höhe von 4.733 Tsd. Euro (Vorjahr 5.588 Tsd. Euro). Des Weiteren werden in den 
+sonstigen betrieblichen Erträgen 1.606 Tsd. Euro (Vorjahr 1.250 Tsd. Euro) Währungskursgewinne ausgewiesen. 
+Insgesamt würde sich bei Anwendung des BilRUG aufgrund der vorgeschriebenen Umgliederung von Beträgen ein 
+Vorjahreswert in Höhe von 14.265 Tsd. Euro ergeben.
+16. Materialaufwand
+Insgesamt würde sich bei Anwendung des BilRUG aufgrund der vorgeschriebenen Umgliederung von Beträgen ein 
+Vorjahreswert in Höhe von 15.182 Tsd. Euro ergeben.
+17. Personalaufwand 
+ 
+(In Tsd. EUR)
+2016
+2015
+Löhne und Gehälter
+21.843
+29.929
+Soziale Abgaben und Aufwendungen für Unterstützung
+1.900
+2.335
+Aufwendungen für Altersversorgung
+1.319
+-1.095
+25.062
+31.169
+Im Berichtsjahr resultiert die gesunkene Zahl der Mitarbeiter der HOCHTIEF Aktiengesellschaft – wie im Vorjahr – im 
+Wesentlichen aus der Dezentralisierung von Aufgaben der Abteilungen Recht und Projektfinanzierung in die inlän-
+Mitarbeiter 
+(Jahresdurchschnitt)
+2016
+2015
+Gewerbliche Arbeitnehmer
+4
+4
+Angestellte
+158
+191
+162
+195
+(In Tsd. EUR)
+2016
+2015
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren
+671
+794
+Aufwendungen für bezogene Leistungen
+13.533
+16.693
+14.204
+17.487
+
+25
+dischen Beteiligungen HOCHTIEF Infrastructure GmbH, HOCHTIEF Engineering GmbH, HOCHTIEF Building GmbH 
+sowie HOCHTIEF PPP Solutions GmbH, wobei die Mitarbeiter ihre jeweilige Tätigkeit in den genannten Beteiligungen 
+fortsetzen.
+ 
+18. Abschreibungen
+(In Tsd. EUR)
+2016
+2015
+Immaterielle Vermögensgegenstände
+2.564
+2.601
+Sachanlagen
+608
+854
+3.172
+3.455
+ 
+Die Abschreibungen betreffen planmäßige Abschreibungen.
+19. Sonstige betriebliche Aufwendungen
+In den sonstigen betrieblichen Aufwendungen sind im Wesentlichen Mieten und Pachten, Beratungskosten, EDV-
+Kosten, Aufsichtsratsvergütungen, Umlagen, Gerichts-, Anwalts- und Notarkosten, Kosten des Post- und Zahlungs-
+verkehrs, Reise­kosten, Jahres­ab­schlusskos­ten sowie Abschreibungen auf Forderungen in Höhe von 29.060 Tsd. 
+Euro ausgewiesen. Des Weiteren enthält diese Position mit 34.400 Tsd. Euro Wertberichtigungen auf Altforderungen 
+sowie mit 1.733 Tsd. Euro (Vorjahr 1.106 Tsd. Euro) Währungsverluste.
+Insgesamt würde sich bei Anwendung des BilRUG aufgrund der vorgeschriebenen Umgliederung von Beträgen ein 
+Vorjahreswert in Höhe von 94.044 Tsd. Euro ergeben.
+20. Ergebnis Finanzanlagen  
+	
+(In Tsd. EUR)
+2016
+2015
+Erträge aus Gewinnabführungsverträgen
+245.477
+381.859
+Erträge aus Beteiligungen
+156.526
+–
+davon von verbundenen Unternehmen
+(156.526)
+   (–)
+Aufwendungen aus Verlustübernahmen
+-23.756
+-70.708
+Erträge aus anderen Wertpapieren und Ausleihungen des 
+­Finanzanlagevermögens
+1.874
+1.704
+davon von verbundenen Unternehmen
+(1.439)
+(1.451)
+380.121
+312.855
+Die Erträge aus Gewinnabführungsverträgen entfallen im Wesentlichen auf die Beteiligungen HOCHTIEF Asia Pacific 
+GmbH (152.262 Tsd. Euro; Vorjahr 179.498 Tsd. Euro), HOCHTIEF Americas GmbH (83.268 Tsd. Euro; Vorjahr 
+75.585 Tsd. Euro) sowie HOCHTIEF Insurance Broking and Risk Management Solutions GmbH (9.114 Tsd. Euro; 
+Vorjahr 125.943 Tsd. Euro). 
+Die Erträge aus Beteiligungen in Höhe von 156.526 Tsd. Euro entfallen ausschließlich auf die Beteiligung HOCHTIEF 
+Asia Pacific GmbH.
+
+26
+Die Aufwendungen aus Verlustübernahmen betreffen im Wesentlichen die Beteiligungen HOCHTIEF Solutions AG 
+(-16.153 Tsd. Euro; Vorjahr -50.523 Tsd. Euro) und HOCHTIEF Projektentwicklung GmbH (-7.525 Tsd. Euro; Vorjahr 
+-20.110 Tsd. Euro). 
+21. Zinsergebnis
+	
+	
+(In Tsd. EUR)
+2016
+2015
+Sonstige Zinsen und ähnliche Erträge
+35.518
+33.305
+davon von verbundenen Unternehmen
+(32.883)
+(32.182)
+Zinsen und ähnliche Aufwendungen
+-92.213
+-126.330
+davon an verbundene Unternehmen
+(-1.999)
+(-2.075)
+-56.695
+-93.025
+ 
+Der Aufwand aus der Aufzinsung der Pensionsrückstellungen in Höhe von 7.696 Tsd. Euro (Vorjahr 28.695 Tsd. Euro) 
+wird im Zinsergebnis mit den Erträgen beziehungsweise Aufwendungen des für die Pensionsverpflichtungen be­
+stehenden Deckungsvermögens in Höhe von 10.159 Tsd. Euro (Vorjahr -188 Tsd. Euro) verrechnet. Ein positiver 
+Saldo wird unter den sonstigen Zinsen und ähnlichen Erträgen, ein negativer Saldo unter den Zinsen und ähnli­chen 
+Aufwendungen ausgewiesen. Außerdem enthalten die Zinsen und ähnlichen Aufwendungen die Aufwendungen aus 
+der Aufzinsung von sonstigen Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr in Höhe von 250 Tsd. 
+Euro (Vorjahr 174 Tsd. Euro). 
+22. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
+Im Vorjahr enthielt die Position Abschreibungen auf Anteile an verbundenen Unternehmen in Höhe von 70 Tsd. Euro. 
+23. Steuern vom Einkommen und vom Ertrag
+Diese Position enthält im Wesentlichen Gewerbeertrag- und Körperschaftsteuern.
+24. Sonstige Steuern
+Diese Position enthält im Wesentlichen Verbrauchsteuern, die bislang in den sonstigen betrieblichen Aufwendungen 
+ausgewiesen waren.
+
+27
+25. Gesamtbezüge des Vorstands und des Aufsichtsrats
+Bezüge des Vorstands für das Geschäftsjahr 2016
+Das System der Vorstandsvergütung ist auf eine langfristige und nachhaltige Unternehmensführung ausgerichtet. 
+Die Gesamtbezüge der Vorstandsmitglieder werden vom Aufsichtsrat festgesetzt. Auch das Vergütungssystem für 
+den Vorstand wird vom Aufsichtsrat beschlossen und regelmäßig überprüft. Der Personalausschuss des Aufsichts-
+rats bereitet die entsprechenden Beschlussfassungen des Aufsichtsratsplenums vor. 
+Die Vergütung der Vorstände setzt sich für das Geschäftsjahr 2016 zusammen aus
+1. einer Festvergütung,
+2. Nebenleistungen,
+3. einer variablen Vergütung sowie
+4. einer Altersversorgung.
+1. Die Festvergütung wird in gleichen monatlichen Raten ausgezahlt.
+2. Zu den Nebenleistungen zählt der nach steuerlichen Richtlinien anzusetzende Wert der privaten Nutzung des 
+Dienstwagens und vermögenswerter Vorteile. 
+3. Die Berechnung der variablen Vergütung erfolgt auf der Basis der folgenden gleich gewichteten Bausteine: 
+­bereinigter Free Cashflow, Konzerngewinn absolut und Konzerngewinn Delta zum Vorjahr. Für alle drei Kompo-
+nenten kann die Zielerfüllung bei null bis 200 Prozent des budgetierten Betrags liegen. Zusätzlich zu den wirt-
+schaftlichen Zielen kann der Aufsichtsrat jährlich bis zu vier strategische Ziele festlegen, die einheitlich für alle 
+Mitglieder des Vorstands Gültigkeit haben. Der Aufsichtsrat hat das Recht, den Gesamtzielerreichungsgrad, der 
+sich aus der Erreichung der wirtschaftlichen Ziele ergibt, unter Würdigung der Zielerreichung dieser strategi-
+schen Ziele zu erhöhen oder zu vermindern.  
+ 
+Die erreichte variable Vergütung wird durch drei Komponenten wie folgt erfüllt:
+a. Barzahlung (Short-Term-Incentive-Komponente),
+b. durch Übertragung von Aktien der HOCHTIEF ­Aktiengesellschaft in Höhe des Nettobetrags, mit einer 
+Sperrfrist von zwei Jahren (Long-Term-­Incentive-Komponente I), und
+c. durch Gewährung eines jährlich aufzulegenden Long-Term-Incentive-Plans (Long-Term-Incentive-Kompo-
+nente II). 
+4. Alle Mitglieder des Vorstands haben als betriebliche Altersversorgung einzelvertragliche Pensionszusagen erhal-
+ten, die eine Inanspruchnahme der Pension frühestens ab Vollendung des 65. Lebensjahres vorsehen. Die Höhe 
+der Pension bemisst sich an den festen Bezügen. Dabei wird ein prozentualer Anteil der festen Bezüge als Pension 
+gewährt, der mit der Bestelldauer steigt. Als Höchstbetrag erhält das Vorstandsmitglied 65 Prozent der letzten 
+festen Bezüge. Die Hinterbliebenenversorgung beträgt 60 Prozent des Pensionsanspruchs.
+
+28
+Gewährte  
+Zuwendung 
+ 
+ 
+ 
+(In Tsd. EUR)
+Fernández Verdes
+Legorburo
+von Matuschka
+Sassenfeld
+Vorstandsvorsitzender
+Vorstandsmitglied
+Vorstandsmitglied
+Finanzvorstand
+Eintritt: 15.04.2012
+Eintritt: 07.05.2014
+Eintritt: 07.05.2014
+Eintritt: 01.11.2011
+20151)
+2016
+2015
+2016
+2015
+2016
+2015
+2016
+gewährt
+Minimum
+Maximum
+gewährt
+Minimum
+Maximum
+gewährt
+Minimum
+Maximum
+gewährt
+Minimum
+Maximum
+Festvergütung
+1.038
+1.069
+1.069
+1.069
+309
+318
+318
+318
+361
+371
+371
+371
+618
+637
+637
+637
+Nebenleistungen
+37
+50
+50
+50
+39
+16
+16
+16
+18
+26
+26
+26
+20
+33
+33
+33
+Summe
+1.075
+1.119
+1.119
+1.119
+348
+334
+334
+334
+379
+397
+397
+397
+638
+670
+670
+670
+Einjährige variable 
+Vergütung
+ 
+1.260
+1.379
+0
+1.379
+ 
+339
+371
+0
+371
+ 
+388
+424
+0
+424
+ 
+679
+743
+0
+743
+Mehrjährige variable 
+Vergütung
+Long-Term-Incen-
+tive-Komponente I2)
+ 
+1.066
+1.167
+0
+1.167
+ 
+339
+371
+0
+371
+ 
+388
+424
+0
+424
+ 
+679
+743
+0
+743
+Long-Term-Incen-
+tive-Komponente II3)
+LTIP Stock-Awards 
+(Laufzeit 5 Jahre)4)
+ 
+533
+583
+0
+583
+ 
+170
+186
+0
+186
+ 
+194
+212
+0
+212
+ 
+339
+371
+0
+371
+LTIP Stock-Appre-
+ciation-Rights
+(Laufzeit 6 Jahre)4)
+ 
+ 
+533
+583
+0
+583
+ 
+ 
+170
+186
+0
+186
+ 
+ 
+194
+212
+0
+212
+ 
+ 
+339
+371
+0
+371
+Summe
+4.467
+4.831
+1.119
+4.831
+1.366
+1.448
+334
+1.448
+1.543
+1.669
+397
+1.669
+2.674
+2.898
+670
+2.898
+Versorgungsaufwand
+1.656
+1.142
+1.142
+1.142
+182
+132
+132
+132
+223
+163
+163
+163
+612
+264
+264
+264
+Gesamtvergütung
+6.123
+5.973
+2.261
+5.973
+1.548
+1.580
+466
+1.580
+1.766
+1.832
+560
+1.832
+3.286
+3.162
+934
+3.162
+Zugeflossene   
+Zuwendung 
+ 
+ 
+(In Tsd. EUR)
+Fernández Verdes
+Legorburo
+von Matuschka
+Sassenfeld
+Vorstandsvorsitzender
+Vorstandsmitglied
+Vorstandsmitglied
+Finanzvorstand
+Eintritt: 15.04.2012
+Eintritt: 07.05.2014
+Eintritt: 07.05.2014
+Eintritt: 01.11.2011
+2016
+20151)
+2016
+2015
+2016
+2015
+2016
+2015
+Festvergütung
+1.069
+1.038
+318
+309
+371
+361
+637
+618
+Nebenleistungen
+50
+37
+16
+39
+26
+18
+33
+20
+Summe
+1.119
+1.075
+334
+348
+397
+379
+670
+638
+Einjährige variable Vergütung
+1.379
+1.260
+371
+339
+424
+388
+743
+679
+Mehrjährige variable 
+­Vergütung
+Long-Term-Incentive- 
+Komponente I2)
+1.167
+1.066
+371
+339
+424
+388
+743
+679
+Long-Term-Incentive- 
+Komponente II
+0
+0
+0
+0
+68
+23
+66
+0
+Summe
+3.665
+3.401
+1.076
+1.026
+1.313
+1.178
+2.222
+1.996
+Versorgungsaufwand
+1.142
+1.656
+132
+182
+163
+223
+264
+612
+Gesamtvergütung
+4.807
+5.057
+1.208
+1.208
+1.476
+1.401
+2.486
+2.608
+1)Ohne nachträgliche Anpassung (siehe Bezüge für frühere Geschäftsjahre)     
+2)Übertragung von Aktien mit einer zweijährigen Sperrfrist     
+3)Gewährung als Long-Term-Incentive-Plan
+4)Wert zum Gewährungszeitpunkt     
+1)Ohne nachträgliche Anpassung (siehe Bezüge für frühere Geschäftsjahre)    
+2)Übertragung von Aktien mit einer zweijährigen Sperrfrist     
+
+29
+Regelungen im Falle der Beendigung des Dienstvertrags
+Bei Nichtverlängerung des Dienstvertrags erhalten die Vorstandsmitglieder eine Abfindung in Höhe eines festen 
+Jahresgehalts. Die Abfindung setzt voraus, dass das Vorstandsmitglied bei Ende des Anstellungsvertrags mindes-
+tens in der zweiten Amtsperiode dem Vorstand angehörte und noch nicht das 65. Lebensjahr vollendet hat. Bei 
+­einer vorzeitigen Beendigung der Vorstandstätigkeit werden Abfindungszahlungen an die Vorstände den Wert von 
+zwei Jahresvergütungen nicht überschreiten (Abfindungs-Cap) und es wird nicht mehr als die Restlaufzeit des 
+Dienstvertrags vergütet. 
+Der Barwert der Pensionszusagen an aktive und ehemalige Vorstandsmitglieder beträgt 77.662 Tsd. Euro (Vorjahr 
+77.376 Tsd. Euro).
+An frühere Mitglieder des Vorstands oder deren Hinterbliebene wurden Beträge in Höhe von 4.471 Tsd. Euro (Vor-
+jahr 4.869 Tsd. Euro) gezahlt. Die Pensionsverpflichtungen gegenüber früheren Vorstandsmitgliedern und ihren 
+Hinterbliebenen betragen 68.733 Tsd. Euro (Vorjahr 70.148 Tsd. Euro).
+Bezüge des Vorstands für frühere Geschäftsjahre
+Vom Aufsichtsrat wurde für das Geschäftsjahr 2015 für Herrn Fernández Verdes aufgrund der außergewöhnlichen 
+Leistung von Herrn Fernández Verdes sein Gesamtzielerreichungsgrad für die STIP-, LTIP-I- und LTIP-II-Komponente 
+von 188,23 Prozent auf 200 Prozent festgesetzt. Daraus resultierend, wurden 79 Tsd. Euro Short-Term-Incentive, 
+67 Tsd. Euro Long-Term-Incentive-I und 67 Tsd. Euro Long-Term-Incentive-II gewährt. Zusätzlich hat der Aufsichts-
+rat einen Sonderbonus für Herrn Fernández Verdes in Höhe von 470 Tsd. Euro als Zeichen der Wertschätzung für 
+seine außerordentliche Leistung beschlossen. 
+Darüber hinaus hat der Aufsichtsrat 2016 zur Erfüllung der Long-Term-Incentive-Komponente II aus dem Jahr 2015 
+einen Long-Term-Incentive-Plan 2016 (LTIP 2016) für die Vorstandsmitglieder beschlossen. Dabei handelt es sich 
+um die Gewährung von sogenannten Stock-Appreciation-Rights (Wertsteigerungsrechte) und Stock-Awards (virtuelle 
+Aktienrechte). Die Stock-Appreciation-Rights 2016 gewähren den Vorständen bei Erreichung der Ausübungshürden 
+nach Ablauf der Wartezeit von drei Jahren innerhalb des dreijährigen Ausübungszeitraums einen Zahlungsanspruch 
+gegen die Gesellschaft. Dessen Höhe hängt von der Entwicklung des Börsenkurses innerhalb der Warte- und Aus-
+übungszeit ab. Ferner müssen relative sowie absolute Erfolgshürden, deren nachträgliche Änderung ausgeschlossen 
+ist, erfüllt sein. Die Planbedingungen der Stock-Awards 2016 sehen vor, dass die Berechtigten für jeden Stock-Award 
+nach Ablauf der Wartezeit von drei Jahren innerhalb des zweijährigen Ausübungszeitraums einen Zahlungsanspruch 
+(In Tsd. EUR)
+Barwert der Pensions­zusagen
+Fernández Verdes
+2016
+6.079
+2015
+4.937
+Legorburo
+2016
+432
+2015
+300
+von Matuschka
+2016
+546
+2015
+383
+Sassenfeld
+2016
+1.872
+2015
+1.608
+Vorstand gesamt
+2016
+8.929
+2015
+7.228
+
+30
+in Höhe des Börsenschlusskurses der HOCHTIEF-Aktie des letzten Börsenhandelstags vor dem Ausübungstag 
+haben. Die Ansprüche sind für den Long-Term-Incentive-Plan 2016 auf einen Maximalwert (50 Prozent Aktienkurs-
+steigerung) begrenzt, damit die Höhe auch im Fall von außerordentlichen beziehungsweise nicht vorhersehbaren 
+Entwicklungen angemessen bleibt. Herrn Fernández Verdes wurden 40 395 Stock-Appreciation-Rights und 7 733 
+Stock-Awards mit einem Wert zum Zeitpunkt der Gewährung in Höhe von jeweils 567 Tsd. Euro gewährt. Herrn 
+Legorburo wurden 12 097 Stock-Appreciation-Rights und 2 316 Stock-Awards mit einem Wert zum Zeitpunkt der 
+Gewährung in Höhe von jeweils 170 Tsd. Euro gewährt. Herrn von Matuschka wurden 13 825 Stock-Appreciation-
+Rights und 2 647 Stock-Awards mit einem Wert zum Zeitpunkt der Gewährung in Höhe von jeweils 194 Tsd. Euro 
+gewährt. Herrn Sassenfeld wurden 24 194 Stock-Appreciation-Rights und 4 632 Stock-Awards mit einem Wert zum 
+Zeitpunkt der Gewährung in Höhe von jeweils 339 Tsd. Euro gewährt.
+Die an die Vorstandsmitglieder in den letzten Jahren zugeteilten Long-Term-Incentive-Pläne führten zu folgendem 
+Aufwand:
+Bezüge des Vorstands für Tätigkeiten in Konzern­gesellschaften
+Für seine Tätigkeit in Australien als Vorstandsvorsitzender und Executive Chairman von CIMIC erhielt Herr Fernández 
+Verdes für 2016 eine pauschale Aufwandsentschädigung in Höhe von 358 Tsd. Euro*, Nebenleistungen in Höhe 
+von 8 Tsd. Euro* und einen Sonderbonus in Höhe von 2.057 Tsd. Euro* für außerordentliche Leistungen während 
+seiner Dienstzeit. Die Herrn Fernández Verdes von CIMIC in 2014 gewährten Stock-Appreciation-Rights führten 
+zu einem Aufwand in Höhe von 9.403 Tsd. Euro. 
+Weitere Vergütungen für die Wahrnehmung von Mandaten in Gremien anderer Unternehmen, an denen HOCHTIEF 
+unmittelbar oder mittelbar eine Beteiligung hält, werden nicht an die Vorstände ausgezahlt beziehungsweise auf 
+die Vorstandsvergütung angerechnet.
+*Der Eurobetrag ist abhängig 
+vom Wechselkurs.
+(In Tsd. EUR)
+Aufwand aus Long-Term-Incentive-Plänen
+Fernández Verdes
+2016
+2.763
+2015
+1.080
+Legorburo
+2016
+343
+2015
+51
+von Matuschka
+2016
+640
+2015
+284
+Sassenfeld
+2016
+1.705
+2015
+846
+Vorstand gesamt
+2016
+5.451
+2015
+2.261
+
+31
+Vergütung der Mitglieder des Aufsichtsrats
+Die Vergütung der Aufsichtsratsmitglieder wird durch die Hauptversammlung festgelegt und ist in § 18 der Satzung 
+geregelt. Die Vergütung für das Geschäftsjahr 2016 ergibt sich aus der nachfolgenden Tabelle.
+26. Nachtragsbericht
+Am 13. Februar 2017 startete der Vermarktungsprozess für ein neues Schuldscheindarlehen der HOCHTIEF Aktien-
+gesellschaft. Das Schuldscheindarlehen nach deutschem Recht ist in Laufzeittranchen von fünf, sieben und zehn 
+Jahren aufgeteilt. Das zum Vermarktungsstart angegebene Volumen in Höhe von 150 Mio. Euro kann aufgrund von 
+positiver Investorennachfrage erhöht werden. Der Darlehensbetrag wird für die allgemeine Unternehmensfinanzie-
+rung beziehungsweise Refinanzierung genutzt.
+27. Honorare des Abschlussprüfers
+Die HOCHTIEF Aktiengesellschaft macht von dem Wahlrecht des § 285 Nr. 17 HGB Gebrauch und verzichtet auf 
+die individuelle Offenlegung der im Geschäftsjahr 2016 als Aufwand erfassten Honorare an den Abschlussprüfer 
+Deloitte GmbH Wirtschaftsprüfungsgesellschaft. Die Offenlegung des Gesamtaufwands erfolgt im Konzernanhang 
+des Konzernabschlusses 2016 des HOCHTIEF-Konzerns. 
+(In EUR)
+Feste Vergütung 
+(netto)
+Sitzungsgeld 
+(netto)
+Gesamtbezüge 
+(netto)
+Pedro López Jiménez
+195.000
+16.000
+211.000
+Gregor Asshoff
+47.300
+8.000
+55.300
+Ángel García Altozano
+130.000
+18.000
+148.000
+Beate Bell
+97.500
+14.500
+112.000
+Christoph Breimann
+41.500
+4.000
+45.500
+Carsten Burckhardt
+97.500
+12.000
+109.500
+José Luis del Valle Pérez
+97.500
+24.000
+121.500
+Patricia Geibel-Conrad
+92.100
+16.000
+108.100
+Dr. rer. pol. h. c. Francisco Javier Garcia Sanz
+65.000
+6.000
+71.000
+Arno Gellweiler
+34.400
+5.500
+39.900
+Dr. Thomas Krause
+23.650
+4.000
+27.650
+Matthias Maurer
+118.250
+21.000
+139.250
+Luis Nogueira Miguelsanz
+68.250
+12.000
+80.250
+Udo Paech
+35.500
+8.000
+43.500
+Nikolaos Paraskevopoulos
+69.850
+12.000
+81.850
+Sabine Roth
+62.300
+10.000
+72.300
+Nicole Simons
+62.300
+7.500
+69.800
+Klaus Stümper
+97.500
+18.500
+116.000
+Olaf Wendler
+35.500
+5.000
+40.500
+Christine Wolff
+97.500
+16.000
+113.500
+Aufsichtsrat gesamt
+1.568.400
+238.000
+1.806.400
+
+32
+28. Angaben zur Aktionärsstruktur gemäß § 160 Abs. 1 Nr. 8 AktG
+Folgende gemäß § 26 WpHG, § 21 Abs. 1 WpHG veröffentlichungspflichtige Änderungen der Aktionärsstruktur* 
+der HOCHTIEF Aktiengesellschaft bestanden beziehungsweise haben sich im Geschäftsjahr 2016 ergeben:
+ACS Actividades de Construcción y Servicios, S.A. („ACS“), Madrid, Spanien, hat uns am 17. Juni 2011 gemäß 
+§ 21 Abs. 1 WpHG mitgeteilt, dass ihr Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutsch-
+land, am 16. Juni 2011 die Schwelle von 50 % überschritten hat und an diesem Tag 50,16 %, entsprechend 38 619 868 
+von 76 999 999 Stimmrechten, an der HOCHTIEF Aktiengesellschaft betrug.
+Von diesen Stimmrechten würden ihr 35 502 869 Stimmrechte, entsprechend 46,11 % der Stimmrechte an der 
+HOCHTIEF Aktiengesellschaft, gemäß § 22 Abs. 1 Satz 1 Nr. 1 WpHG über folgende Tochterunternehmen im 
+Sinne des § 22 Abs. 3 WpHG zugerechnet (darunter sind 3 435 075 Stimmrechte, entsprechend 4,46 % der Stimm-
+rechte der HOCHTIEF Aktiengesellschaft, aus eigenen Aktien der HOCHTIEF Aktiengesellschaft):
+Cariátide S.A., Madrid, Spanien,
+Major Assets S.L., Madrid, Spanien,
+Corporate Statement S.L., Madrid, Spanien,
+HOCHTIEF Aktiengesellschaft, Essen, Deutschland. 
+Gartmore Investment Management Ltd of Gartmore House, London, Großbritannien, hat uns am 31. Juli 
+2007 gemäß § 21 Abs. 1 WpHG Folgendes mitgeteilt: Wir teilen hiermit gemäß § 21 Abs. 1 WpHG mit, dass unser 
+Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft am 24. Juli 2007 die Schwelle von 3 % überschritten hat 
+und an diesem Tag 3,091 % betrug (entspricht 2 163 632 Aktien). 3,091 % der Stimmrechte (entspricht 2 163 632 
+Aktien) sind nach § 22 Abs. 1 Satz 1 Nr. 6 und § 22 Abs. 1 Satz 2 WpHG uns zuzurechnen.
+Die BlackRock, Inc., Wilmington/DE, USA, hat uns anlässlich des Erwerbs von Aktien mit Stimmrechten (Datum 
+der Schwellenberührung: 27. Juli 2016) mitgeteilt, dass ihr Stimmrechtsanteil an der HOCHTIEF AG 3,71 % betrug. 
+3,004 % dieser Stimmrechte (entsprechend 2 082 087 Stimmrechten) waren der BlackRock, Inc. gemäß § 22 WpHG 
+zuzurechnen. 0,14 % dieser Stimmrechte (entsprechend 97 842 Stimmrechten) waren der BlackRock, Inc. als Instru-
+mente i. S. d. § 25 Abs. 1 Nr. 1 WpHG (Wertpapierleihe – Lent Securities) zuzurechnen. 0,56 % dieser Stimmrechte 
+(entsprechend 388 366 Stimmrechten) waren BlackRock, Inc. als Instrumente i. S. d. § 25 Abs. 1 Nr. 2 WpHG 
+(Differenzgeschäft – Contract for Difference) zuzurechnen. 
+Wegen der außerdem in der Mitteilung genannten vollständigen Kette der Tochterunternehmen wird auf unsere 
+Veröffentlichung gemäß § 26 Abs. 1 WpHG vom 4. August 2016 verwiesen.
+Die BlackRock, Inc., Wilmington/DE, USA, hat uns anlässlich des Erwerbs von Aktien mit Stimmrechten sowie 
+eines sonstigen Grundes („Voluntary group notification with triggered threshold on subsidiary level“); Datum der 
+Schwellenberührung: 28. Juli 2016) mitgeteilt, dass ihr Stimmrechtsanteil an der HOCHTIEF AG 3,74 % betrug. 3,11 % 
+dieser Stimmrechte (entsprechend 2 152 512 Stimmrechten) waren der BlackRock, Inc. gemäß § 22 WpHG zuzu-
+rechnen. 0,07 % dieser Stimmrechte (entsprechend 50 805 Stimmrechten) waren der BlackRock, Inc. als Instrumente 
+i. S. d. § 25 Abs. 1 Nr. 1 WpHG (Wertpapierleihe – Lent Securities) zuzurechnen. 0,56 % dieser Stimmrechte (ent-
+sprechend 386 564 Stimmrechten) waren BlackRock, Inc. als Instrumente i. S. d. § 25 Abs. 1 Nr. 2 WpHG (Differenz-
+geschäft – Contract for Difference) zuzurechnen.
+Wegen der außerdem in der Mitteilung genannten vollständigen Kette der Tochterunternehmen wird auf unsere 
+Veröffentlichung gemäß § 26 Abs. 1 WpHG vom 4. August 2016 verwiesen.
+*Weitere Informationen zur Aktionärs-
+struktur/zu Stimmrechtsmitteilun-
+gen bei HOCHTIEF finden Sie im In-
+ternet unter: www.hochtief.de/ 
+aktionaersstruktur
+
+33
+29. Beteiligungen der HOCHTIEF Aktiengesellschaft zum 31.12.2016
+In der folgenden Tabelle sind die vollkonsolidierten Beteiligungsgesellschaften aufgeführt:
+Vollkonsolidierte Beteiligungsgesellschaften
+1) Ergebnisabführungsvertrag
+2) Zahlen des Geschäftsjahres 2015
+3) Gesellschaft im Konzernabschluss von CIMIC einbezogen und im Einklang mit regulatorischen Vorgaben in 
+Australien nicht zur Offenlegung verpflichtet.
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Division HOCHTIEF Americas
+Clark Builders Partnership, Alberta, Kanada
+57
+USD
+60.857 2)
+15.123 2)
+E.E. Cruz and Company Inc., Holmdel, USA
+100
+USD
+70.714 2)
+-657 2)
+Flatiron Construction Corp., Wilmington, USA
+100
+USD
+232.144 2)
+3.496 2)
+Flatiron Constructors Canada Ltd., Vancouver, 
+Kanada
+100
+USD
+74.979 2)
+-6.361 2)
+Flatiron Constructors Inc., Wilmington, USA
+100
+USD
+142.427 2)
+-10.892 2)
+Flatiron Holding Inc., Wilmington, USA
+100
+USD
+262.301 2)
+-4.783 2)
+Flatiron West Inc., Wilmington, USA
+100
+USD
+54.093 2)
+-1.715 2)
+HOCHTIEF Americas GmbH, Essen, Deutschland
+100
+EUR
+610.159 2)
+- 1)
+HOCHTIEF USA Inc., Dallas, USA
+100
+USD
+465.183 2)
+14.233 2)
+The Lathrop Company Inc., Delaware, USA
+100
+USD
+58.049 2)
+3.506 2)
+The Turner Corporation, Dallas, USA
+100
+USD
+653.688 2)
+87.165 2)
+Tompkins Builders Inc., Washington, USA
+100
+USD
+84.217 2)
+734 2)
+Turner Canada Holdings Inc., New Brunswick, Kanada
+100
+USD
+77.362 2)
+0 2)
+Turner Development Corporation, Delaware, USA
+100
+USD
+24.510 2)
+0 2)
+Turner International LLC, Delaware, USA
+100
+USD
+121.705 2)
+7.345 2)
+Turner Logistics LLC, Delaware, USA
+100
+USD
+111.602 2)
+8.929 2)
+Turner Partnership Holdings Inc., New Brunswick, 
+Kanada
+100
+USD
+56.536 2)
+-2.222 2)
+Universal Construction Company Inc., Delaware, USA
+100
+USD
+117.914 2)
+1.864 2)
+Division HOCHTIEF Asia Pacific
+HOCHTIEF Asia Pacific GmbH, Essen, Deutschland
+100
+EUR
+2.198.305 2)
+- 1)
+HOCHTIEF AUSTRALIA HOLDINGS LIMITED, 
+Sydney, Australien
+100
+AUD
+3.628.854 2)
+266.812 2)
+CIMIC Group Ltd., Victoria, Australien
+73
+AUD
+4.221.794
+44.406
+A.C.N. 126 130 738 Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+A.C.N. 151 868 601 Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+BCJHG Nominees Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+BCJHG Trust, Australien
+100
+- 3)
+- 3)
+CIMIC Admin Services Pty. Ltd., New South Wales, 
+Australien
+100
+- 3)
+- 3)
+CIMIC Finance (USA) Pty. Ltd., New South Wales, 
+Australien
+100
+- 3)
+- 3)
+CIMIC Finance Ltd., New South Wales, Australien
+100
+- 3)
+- 3)
+CIMIC Group Investments No. 2 Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+CIMIC Group Investments Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+CIMIC Residential Investments Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Contrelec Engineering Pty. Ltd., Queensland, 
+Australien
+100
+- 3)
+- 3)
+D.M.B. Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Devine Bacchus Marsh Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine Building Management Services Pty. Ltd., 
+Queensland, Australien
+59
+- 3)
+- 3)
+Devine Colton Avenue Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine Constructions Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine Funds Pty. Ltd., Victoria, Australien
+59
+- 3)
+- 3)
+Devine Funds Unit Trust, Australien
+59
+- 3)
+- 3)
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Devine Homes Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Devine Land Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Devine Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Devine Management Services Pty. Ltd., Queens-
+land, Australien
+59
+- 3)
+- 3)
+Devine Projects (VIC) Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine Queensland No. 10 Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine SA Land Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Devine Springwood No. 1 Pty. Ltd., New South 
+Wales, Australien
+59
+- 3)
+- 3)
+Devine Springwood No. 2 Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine Springwood No. 3 Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Devine Woodforde Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+DoubleOne 3 Building Management Services Pty. 
+Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+DoubleOne 3 Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+EIC Activities Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+GSJV Guyana, Guyana
+50
+- 3)
+- 3)
+GSJV Ltd. (Barbados), Barbados
+50
+- 3)
+- 3)
+Intermet Engineering Pty. Ltd., Queensland, 
+Australien
+100
+- 3)
+- 3)
+JH AD Holdings Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+JH AD Investments Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+JH AD Operations Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+JH Rail Holdings Pty. Ltd., Victoria, Australien
+59
+- 3)
+- 3)
+JH Rail Investments Pty. Ltd., Victoria, Australien
+59
+- 3)
+- 3)
+JH Rail Operations Pty. Ltd., Victoria, Australien
+59
+- 3)
+- 3)
+JH Servicesco Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+JHAS Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+JHI Investment Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Joetel Pty. Ltd., Australian Capital Territory, Australien
+59
+- 3)
+- 3)
+Legacy JHI Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Leighton Commercial Properties Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Leighton Companies Management Group LLC, 
+Vereinigte Arabische Emirate
+49
+- 3)
+- 3)
+Leighton Equity Incentive Plan Trust, New South 
+Wales, Australien
+100
+- 3)
+- 3)
+Leighton Group Property Services Pty. Ltd., Victo-
+ria, Australien
+100
+- 3)
+- 3)
+Leighton Holdings Infrastructure Nominees Pty. 
+Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Leighton Holdings Infrastructure Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Leighton Holdings Infrastructure Trust, Australien
+100
+- 3)
+- 3)
+Leighton Middle East and Africa (Holding) Ltd., 
+Cayman Islands, Großbritannien
+100
+- 3)
+- 3)
+LH Holdings Co. Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+LMENA No. 1 Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+LMENA Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+LNWR Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+LNWR Trust, New South Wales, Australien
+100
+- 3)
+- 3)
+Martox Pty. Ltd., New South Wales, Australien
+59
+- 3)
+- 3)
+
+34
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Moorookyle Devine Pty. Ltd., Victoria, Australien
+59
+- 3)
+- 3)
+Nexus Point Solutions Pty. Ltd., New South Wales, 
+Australien
+100
+- 3)
+- 3)
+Opal Insurance (Singapore) Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Pacific Partnerships Holdings Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Pacific Partnerships Investments Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Pacific Partnerships Investments Trust, Victoria, 
+Australien
+100
+- 3)
+- 3)
+Pacific Partnerships Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Pacific Partnerships Services NZ Ltd., Neuseeland
+100
+- 3)
+- 3)
+Pacific Partnerships Services Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Pioneer Homes Australia Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Riverstone Rise Gladstone Pty. Ltd., Queensland, 
+Australien
+59
+- 3)
+- 3)
+Riverstone Rise Gladstone Unit Trust, Queensland, 
+Australien
+59
+- 3)
+- 3)
+Sedgman Asia Ltd., Hongkong
+100
+- 3)
+- 3)
+Sedgman Botswana (Pty.) Ltd., Botsuana
+100
+- 3)
+- 3)
+Sedgman Canada Ltd., Kanada
+100
+- 3)
+- 3)
+Sedgman Chile S.p.a., Chile
+100
+- 3)
+- 3)
+Sedgman Consulting Pty. Ltd., Queensland, 
+Australien
+100
+- 3)
+- 3)
+Sedgman Employment Services Pty. Ltd., Queens-
+land, Australien
+100
+- 3)
+- 3)
+Sedgman Engineering Technology (Beijing) Co. 
+Ltd., China
+100
+- 3)
+- 3)
+Sedgman International Employment Services Pty. 
+Ltd., Queensland, Australien
+100
+- 3)
+- 3)
+Sedgman LLC, Mongolei
+100
+- 3)
+- 3)
+Sedgman Malaysia Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+Sedgman Mozambique Ltda., Mosambik
+100
+- 3)
+- 3)
+Sedgman Operations Employment Services Pty. 
+Ltd., Queensland, Australien
+100
+- 3)
+- 3)
+Sedgman Operations Pty. Ltd., Queensland, 
+Australien
+100
+- 3)
+- 3)
+Sedgman Pty. Ltd., Queensland, Australien
+100
+- 3)
+- 3)
+Sedgman S.A.S. (Columbia), Kolumbien
+100
+- 3)
+- 3)
+Sedgman South Africa (Pty.) Ltd., Südafrika
+100
+- 3)
+- 3)
+Sedgman South Africa Investments Ltd. (BVI), 
+Südafrika
+100
+- 3)
+- 3)
+Talcliff Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Tambala Pty. Ltd., Mauritius
+100
+- 3)
+- 3)
+Telecommunication Infrastructure Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Think Consulting Group Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Trafalgar EB Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Trafalgar EB Unit Trust, Queensland, Australien
+59
+- 3)
+- 3)
+Tribune SB Pty. Ltd., Queensland, Australien
+59
+- 3)
+- 3)
+Tribune SB Unit Trust, Queensland, Australien
+59
+- 3)
+- 3)
+Yoltax Pty. Ltd., New South Wales, Australien
+59
+- 3)
+- 3)
+Zelmex Pty. Ltd., Australian Capital Territory, Australien
+59
+- 3)
+- 3)
+Leighton Asia Ltd., Hongkong
+100
+AUD
+1.095.011
+1.200
+Giddens Investment Ltd., Hongkong
+100
+- 3)
+- 3)
+Lei Shun Employment Ltd., Macao, China
+100
+- 3)
+- 3)
+Leighton Asia (Hong Kong) Holdings (No. 2) Ltd., 
+Hongkong
+100
+- 3)
+- 3)
+Leighton Contractors (Asia) Ltd., Hongkong
+100
+- 3)
+- 3)
+Leighton Contractors (China) Ltd., Hongkong
+100
+- 3)
+- 3)
+Leighton Contractors (Indo-China) Ltd., Hongkong
+100
+- 3)
+- 3)
+Leighton Contractors (Laos) Sole Co. Ltd., Laos
+100
+- 3)
+- 3)
+Leighton Contractors (Malaysia) Sdn. Bhd., 
+Malaysia
+100
+- 3)
+- 3)
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Leighton Contractors (Philippines) Inc., Philippinen
+40
+- 3)
+- 3)
+Leighton Contractors Asia (Cambodia) Co. Ltd., 
+Kambodscha
+100
+- 3)
+- 3)
+Leighton Contractors Asia (Vietnam) Ltd., Vietnam
+100
+- 3)
+- 3)
+Leighton Contractors Inc., USA
+100
+- 3)
+- 3)
+Leighton Contractors Lanka (Private) Ltd., Sri Lanka
+100
+- 3)
+- 3)
+Leighton Engineering & Construction (Singapore) 
+Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Leighton Engineering Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+Leighton Foundation Engineering (Asia) Ltd., 
+Hongkong
+100
+- 3)
+- 3)
+Leighton India Contractors Private Ltd., Indien
+100
+- 3)
+- 3)
+Leighton International Ltd., Cayman Islands, 
+Großbritannien
+100
+- 3)
+- 3)
+Leighton International Mauritius Holdings Ltd.  
+No. 4, Mauritius
+100
+- 3)
+- 3)
+Leighton Investments Mauritius Ltd. No. 2, Mauritius
+100
+- 3)
+- 3)
+Leighton Investments Mauritius Ltd. No. 4, Mauritius
+100
+- 3)
+- 3)
+Leighton Investments Mauritius Ltd., Mauritius
+100
+- 3)
+- 3)
+Leighton JV, Hongkong
+100
+- 3)
+- 3)
+Leighton M&E Ltd., Hongkong
+100
+- 3)
+- 3)
+Leighton Offshore/Leighton Engineering & Con­
+struction JV, Singapur
+100
+- 3)
+- 3)
+Leighton Offshore Eclipse Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Leighton Offshore Faulkner Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Leighton Offshore Mynx Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Leighton Offshore Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Leighton Offshore Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+Leighton Offshore Stealth Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Leighton Projects Consulting (Shanghai) Ltd., China
+100
+- 3)
+- 3)
+Leighton U.S.A. Inc., USA
+100
+- 3)
+- 3)
+Leighton-LNS JV, Hongkong
+80
+- 3)
+- 3)
+Thai Leighton Ltd., Thailand
+49
+- 3)
+- 3)
+CPB Contractors Pty. Ltd., New South Wales, 
+Australien
+100
+AUD
+1.504.819
+232.845
+512 Wickham Street Pty. Ltd., New South Wales, 
+Australien
+100
+- 3)
+- 3)
+512 Wickham Street Trust, New South Wales, 
+Australien
+100
+- 3)
+- 3)
+Broad Construction Services (NSW/VIC) Pty. Ltd., 
+Western Australia, Australien
+100
+- 3)
+- 3)
+Broad Construction Services (QLD) Pty. Ltd., 
+Queensland, Australien
+100
+- 3)
+- 3)
+Broad Construction Services (WA) Pty. Ltd., Western 
+Australia, Australien
+100
+- 3)
+- 3)
+Broad Group Holdings Pty. Ltd., Western Australia, 
+Australien
+100
+- 3)
+- 3)
+CPB Contractors (PNG) Ltd., Papua-Neuguinea
+100
+- 3)
+- 3)
+Jarrah Wood Pty. Ltd., Western Australia, Australien
+100
+- 3)
+- 3)
+Leighton (PNG) Ltd., Papua-Neuguinea
+100
+- 3)
+- 3)
+Leighton (PNG) Ltd., Papua-Neuguinea
+100
+- 3)
+- 3)
+Leighton Africa (Mauritius) Ltd., Mauritius
+100
+- 3)
+- 3)
+Leighton Contractors Infrastructure Nominees Pty. 
+Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Leighton Contractors Infrastructure Pty. Ltd., 
+Victoria, Australien
+100
+- 3)
+- 3)
+Leighton Contractors Infrastructure Trust, Australien
+100
+- 3)
+- 3)
+Leighton Contractors Pty. Ltd., New South Wales, 
+Australien
+100
+- 3)
+- 3)
+Leighton Infrastructure Investments Pty. Ltd., New 
+South Wales, Australien
+100
+- 3)
+- 3)
+Silverton Group Pty. Ltd., Western Australia, Australien
+100
+- 3)
+- 3)
+Sustaining Works Pty. Ltd., Queensland, Australien
+100
+- 3)
+- 3)
+Leighton Properties Pty. Ltd., Queensland, Australien
+100
+AUD
+-210.621
+19.072
+145 Ann Street Pty. Ltd., Queensland, Australien
+100
+- 3)
+- 3)
+1) Ergebnisabführungsvertrag
+2) Zahlen des Geschäftsjahres 2015
+3) Gesellschaft im Konzernabschluss von CIMIC einbezogen und im Einklang mit regulatorischen Vorgaben in 
+Australien nicht zur Offenlegung verpflichtet.
+
+35
+1) Ergebnisabführungsvertrag
+2) Zahlen des Geschäftsjahres 2015
+3) Gesellschaft im Konzernabschluss von CIMIC einbezogen und im Einklang mit regulatorischen Vorgaben in 
+Australien nicht zur Offenlegung verpflichtet.
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+145 Ann Street Trust, Queensland, Australien
+100
+- 3)
+- 3)
+Ashmore Developments Pty. Ltd., New South 
+Wales, Australien
+100
+- 3)
+- 3)
+Boggo Road Project Pty. Ltd., Queensland, Australien
+100
+- 3)
+- 3)
+Boggo Road Project Trust, Queensland, Australien
+100
+- 3)
+- 3)
+Hamilton Harbour Developments Pty. Ltd., Queens-
+land, Australien
+80
+- 3)
+- 3)
+Hamilton Harbour Unit Trust, Queensland, Australien
+80
+- 3)
+- 3)
+Kings Square Developments Pty. Ltd., Queensland, 
+Australien
+100
+- 3)
+- 3)
+Kings Square Developments Unit Trust, Queens-
+land, Australien
+100
+- 3)
+- 3)
+Leighton Funds Management Pty. Ltd., Queens-
+land, Australien
+100
+- 3)
+- 3)
+Leighton Harbour Trust, Australien
+100
+- 3)
+- 3)
+Leighton Pacific St Leonards Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Leighton Pacific St Leonards Unit Trust, Australien
+100
+- 3)
+- 3)
+Leighton Portfolio Services Pty. Ltd., Australian 
+Capital Territory, Australien
+100
+- 3)
+- 3)
+Leighton Properties (Brisbane) Pty. Ltd., Queens-
+land, Australien
+100
+- 3)
+- 3)
+Leighton Properties (NSW) Pty. Ltd., New South 
+Wales, Australien
+100
+- 3)
+- 3)
+Leighton Properties (VIC) Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Leighton Properties (WA) Pty. Ltd., New South 
+Wales, Australien
+100
+- 3)
+- 3)
+Leighton Property Funds Management Ltd., Austra-
+lian Capital Territory, Australien
+100
+- 3)
+- 3)
+Leighton Property Management Pty. Ltd., New 
+South Wales, Australien
+100
+- 3)
+- 3)
+LPWRAP Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Townsville City Project Pty. Ltd., New South Wales, 
+Australien
+80
+- 3)
+- 3)
+Townsville City Project Trust, Queensland, Australien
+80
+- 3)
+- 3)
+Western Port Highway Trust, Australien
+100
+- 3)
+- 3)
+Thiess Pty. Ltd., Queensland, Australien
+100
+AUD
+711.104
+205.105
+Ausindo Holdings Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+Fleetco Canada Rentals Ltd., Kanada
+100
+- 3)
+- 3)
+Fleetco Chile S.p.a., Chile
+100
+- 3)
+- 3)
+Fleetco Finance Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Holdings Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Management Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals AN Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals CT Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals HD Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals LB Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals No. 1 Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals OO Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals RR. Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Rentals UG Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Fleetco Services Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Hunter Valley Earthmoving Co. Pty. Ltd., New South 
+Wales, Australien
+100
+- 3)
+- 3)
+HWE Cockatoo Pty. Ltd., Northern Territory, Australien
+100
+- 3)
+- 3)
+HWE Mining Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+HWE Newman Assets Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Leighton Asia Southern Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+PT Leighton Contractors Indonesia, Indonesien
+100
+- 3)
+- 3)
+PT Thiess Contractors Indonesia, Indonesien
+99
+- 3)
+- 3)
+Thiess (Mauritius) Pty. Ltd., Mauritius
+100
+- 3)
+- 3)
+Thiess Africa Investments Pty. Ltd., Südafrika
+100
+- 3)
+- 3)
+Thiess Botswana (Proprietary) Ltd., Botsuana
+100
+- 3)
+- 3)
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Thiess Chile SPA, Chile
+100
+- 3)
+- 3)
+Thiess Contractors (Malaysia) Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+Thiess Contractors (PNG) Ltd., Papua-Neuguinea
+100
+- 3)
+- 3)
+Thiess Contractors Canada Ltd., Kanada
+100
+- 3)
+- 3)
+Thiess India Pvt. Ltd., Indien
+100
+- 3)
+- 3)
+Thiess Infrastructure Nominees Pty. Ltd., Victoria, 
+Australien
+100
+- 3)
+- 3)
+Thiess Infrastructure Pty. Ltd., Victoria, Australien
+100
+- 3)
+- 3)
+Thiess Infrastructure Trust, Victoria, Australien
+100
+- 3)
+- 3)
+Thiess Khishig Arvin JV LLC, Mongolei
+100
+- 3)
+- 3)
+Thiess Minecs India Pvt. Ltd., Indien
+90
+- 3)
+- 3)
+Thiess Mining Maintenance Pty. Ltd., Queensland, 
+Australien
+100
+- 3)
+- 3)
+Thiess Mongolia LLC, Mongolei
+100
+- 3)
+- 3)
+Thiess Mozambique Ltda., Mosambik
+100
+- 3)
+- 3)
+Thiess NC, Neukaledonien
+100
+- 3)
+- 3)
+Thiess NZ Ltd., Neuseeland
+100
+- 3)
+- 3)
+Thiess Sedgman JV, New South Wales, Australien
+100
+- 3)
+- 3)
+Thiess South Africa Pty. Ltd., Südafrika
+100
+- 3)
+- 3)
+UGL Ltd., Australien
+100
+AUD
+518.786
+-30.062
+Arus Tenang Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+BKP Electrical Ltd. (in liquidation), Fidschi
+100
+- 3)
+- 3)
+Ganu Puri Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+Inspection Testing & Certification Pty. Ltd., 
+Australien
+100
+- 3)
+- 3)
+Moving Melbourne Together Finance Pty. Ltd., 
+Victoria, Australien
+100
+- 3)
+- 3)
+MTCT Services Pty. Ltd., Australien
+100
+- 3)
+- 3)
+Newcastle Engineering Pty. Ltd., Australien
+100
+- 3)
+- 3)
+Olympic Dam Maintenance Pty. Ltd., Australien
+100
+- 3)
+- 3)
+Railfleet Maintenance Services Pty. Ltd., Australien
+100
+- 3)
+- 3)
+Ruby Equation Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+UGL (Asia) Sdn. Bhd., Malaysia
+100
+- 3)
+- 3)
+UGL (NZ) Ltd., Australien
+100
+- 3)
+- 3)
+UGL (Singapore) Pte. Ltd., Singapur
+100
+- 3)
+- 3)
+UGL Canada Inc., Kanada
+100
+- 3)
+- 3)
+UGL Engineering Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Engineering Pvt. Ltd., Indien
+100
+- 3)
+- 3)
+UGL Operations and Maintenance (Services) Pty. 
+Ltd., Australien
+100
+- 3)
+- 3)
+UGL Operations and Maintenance Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Rail (North Queensland) Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Rail Fleet Services Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Rail Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Rail Services Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Resources (Contracting) Pty. Ltd., Australien
+100
+- 3)
+- 3)
+UGL Resources (Malaysia) Shd. Bhd., Malaysia
+100
+- 3)
+- 3)
+UGL Unipart Rail Services Pty. Ltd., Australien
+70
+- 3)
+- 3)
+United Goninan Construction Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United Group Infrastructure (NZ) Ltd., Australien
+100
+- 3)
+- 3)
+United Group Infrastructure (Services) Pty. Ltd., 
+Australien
+100
+- 3)
+- 3)
+United Group International Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United Group Investment Partnership, USA
+100
+- 3)
+- 3)
+United Group Melbourne Transport Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United Group Water Projects (VIC) Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United Group Water Projects Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United KG (No. 1) Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United KG (No. 2) Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United KG Construction Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United KG Engineering Services Pty. Ltd., Australien
+100
+- 3)
+- 3)
+United KG Maintenance Pty. Ltd., Australien
+100
+- 3)
+- 3)
+
+36
+1) Ergebnisabführungsvertrag
+2) Zahlen des Geschäftsjahres 2015
+3) Gesellschaft im Konzernabschluss von CIMIC einbezogen und im Einklang mit regulatorischen Vorgaben in 
+Australien nicht zur Offenlegung verpflichtet.
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Division HOCHTIEF Europe
+A.L.E.X.-Bau GmbH, Essen, Deutschland
+100
+EUR
+2.815 2)
+- 1)
+Deutsche Bau- und Siedlungs-Gesellschaft mbH, 
+Essen, Deutschland
+100
+EUR
+17.599 2)
+- 1)
+Deutsche Baumanagement GmbH, Essen, 
+Deutschland
+100
+EUR
+58 2)
+- 1)
+HOCHTIEF Bau und Betrieb GmbH, Essen, 
+Deutschland
+100
+EUR
+200 2)
+- 1)
+HOCHTIEF Construction Erste Vermögensverwal-
+tungsgesellschaft mbH, Essen, Deutschland
+100
+EUR
+120.125 2)
+- 1)
+HOCHTIEF CZ a.s., Prag, Tschechien
+100
+CZK
+1.066.549 2)
+49.537 2)
+HOCHTIEF Engineering GmbH, Essen, Deutschland
+100
+EUR
+3.842 2)
+- 1)
+HOCHTIEF Engineering International GmbH, Essen, 
+Deutschland
+100
+EUR
+43 2)
+- 1)
+HOCHTIEF Infrastructure GmbH, Essen, Deutschland
+100
+EUR
+150.771 2)
+- 1)
+HOCHTIEF LLBB GmbH, Essen, Deutschland
+100
+EUR
+25 2)
+- 1)
+HOCHTIEF Offshore Crewing GmbH, Essen, 
+Deutschland
+100
+EUR
+28 2)
+- 1)
+HOCHTIEF ÖPP Projektgesellschaft mbH, Essen, 
+Deutschland
+100
+EUR
+25 2)
+- 1)
+HOCHTIEF Polska S.A., Warschau, Polen
+100
+PLN
+129.058 2)
+29.769 2)
+HOCHTIEF PPAC GmbH, Essen, Deutschland
+100
+EUR
+25 2)
+- 1)
+HOCHTIEF PPP Europa GmbH, Essen, Deutschland
+100
+EUR
+25 2)
+- 1)
+HOCHTIEF PPP Operations GmbH, Essen, 
+Deutschland
+100
+EUR
+50 2)
+- 1)
+HOCHTIEF PPP Schulpartner Braunschweig 
+GmbH, Braunschweig, Deutschland
+100
+EUR
+25 2)
+- 1)
+HOCHTIEF PPP Solutions GmbH, Essen, Deutschland
+100
+EUR
+32.592 2)
+- 1)
+HOCHTIEF PPP Transport Westeuropa GmbH, Essen, 
+Deutschland
+100
+EUR
+25
+- 1)
+HOCHTIEF Presidio Holding LLC, Delaware, USA
+100
+USD
+55.591 2)
+14.639 2)
+HOCHTIEF Projektentwicklung GmbH, Essen, 
+Deutschland
+100
+EUR
+7.909 2)
+- 1)
+HOCHTIEF Solutions AG, Essen, Deutschland
+100
+EUR
+219.808 2)
+- 1)
+HOCHTIEF Solutions Middle East Qatar W.L.L., 
+Doha, Katar
+49
+QAR
+494.905 2)
+10.471 2)
+HOCHTIEF Solutions Real Estate GmbH, Essen, 
+Deutschland
+100
+EUR
+25 2)
+- 1)
+HOCHTIEF Trade Solutions GmbH, Essen, 
+Deutschland
+100
+EUR
+635 2)
+- 1)
+HOCHTIEF ViCon GmbH, Essen, Deutschland
+100
+EUR
+811 2)
+- 1)
+HTP Immo GmbH, Essen, Deutschland
+100
+EUR
+1.003 2)
+- 1)
+I.B.G. Immobilien- und Beteiligungsgesellschaft 
+Thüringen-Sachsen mbH, Essen, Deutschland
+100
+EUR
+1.954 2)
+- 1)
+SCE Chile Holding GmbH, Essen, Deutschland
+100
+EUR
+25 2)
+- 1)
+synexs GmbH, Essen, Deutschland
+100
+EUR
+23 2)
+- 1)
+TRINAC GmbH, Essen, Deutschland
+100
+EUR
+31.659 2)
+- 1)
+Konzernzentrale
+Builders Insurance Holdings S.A., Steinfort, 
+Luxemburg
+100
+EUR
+366.239
+-543
+Builders Reinsurance S.A., Luxemburg, Luxemburg
+100
+USD
+408.975 2)
+0 2)
+Eurafrica Baugesellschaft mbH, Essen, Deutschland
+100
+EUR
+43.755 2)
+- 1)
+HOCHTIEF Insurance Broking and Risk Manage-
+ment Solutions GmbH, Essen, Deutschland
+100
+EUR
+257.497 2)
+- 1)
+Steinfort Multi-Asset Fund SICAV-SIF, Luxemburg, 
+Luxemburg
+100
+USD
+514.846 2)
+5.926 2)
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Außerdem wurden folgende Gemeinschaftsunternehmen anteilmäßig in den Konzernabschluss 
+einbezogen:
+Gemeinschaftsunternehmen
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landes-
+währung
+Division HOCHTIEF Americas
+ABC Marine (Granite/Parsons/FCI), Baton Rouge, 
+USA
+25
+American South – Turner, New York, USA
+51
+BE&K – Turner, New York, USA
+50
+CGT Industrial, New Brunswick, Kanada
+30
+Construct Signs, New Brunswick, Kanada
+50
+Donley's Turner JV, Ohio, USA
+50
+DPR/Turner JV, New York, USA
+50
+Dragados/Flatiron JV, Costa Mesa, USA
+50
+Dragados/Flatiron LLC, Wilmington, USA
+50
+Dragados/Flatiron/Sukut a JV, Sacramento, USA
+30
+E.E. Cruz/NAB/Frontier, Holmdel, USA
+54
+E.E. Cruz/Nicholson JV LLC, Holmdel, USA
+51
+E.E. Cruz/Nicholson LLC, Holmdel, USA
+50
+E.E. Cruz/Tully Construction LLC, Holmdel, USA
+50
+F&F Infrastructure (Fluor & Flatiron), Broomfield, USA
+50
+FCI/Fluor/Parsons, La Mirada, USA
+45
+Flatiron/Dragados/Aecon/LaFarge JV, Richmond, USA
+34
+Flatiron/Kiewit JV, Longmont, USA
+65
+Kiewit/FCI/Manson, Oakland, USA
+27
+Kiewit/Flatiron a JV, Richmond, USA
+28
+Kiewit-Turner JV, New York, USA
+50
+McKissack/Turner, New York, USA
+51
+Nicholson/E.E. Cruz LLC, Holmdel, USA
+50
+Palmetto Bridge Constructors, Virginia Beach, USA
+40
+Perini/Tompkins, District of Columbia, USA
+40
+Rokstad Flatiron, Port Coquitlam, Kanada
+25
+Signature on the Saint Lawrence Construction G.P., 
+Montreal, Kanada
+25
+Silverado Constructors, Broomfield, USA
+48
+Sukut/Flatiron JV, Santa Ana, USA
+45
+The Provident Group, STV-Turner JV, New York, USA
+50
+Tidewater Skanska/Flatiron, Milton, USA
+40
+Tishman-Turner JV I, New York, USA
+50
+Tompkins/Hardie JV, District of Columbia, USA
+100
+Tompkins/Mid-American, District of Columbia, USA
+50
+Topgrade/Flatiron, Livermore, USA
+28
+Topgrade/Flatiron/Gallagher, Livermore, USA
+22
+Tully Construction/E.E. Cruz LLC, New York, USA
+50
+Turner – Eastern York Annex JV, York, Kanada
+51
+Turner – Kiewit JV, New York, USA
+40
+Turner – PCL – Flatiron, San Diego, USA
+57
+Turner Clayco Brampton JV, Ontario, Kanada
+50
+Turner Gilbane, New York, USA
+50
+Turner Hunt LA NFL JV, Inglewood, Kanada
+50
+Turner International/TiME Proje Yonetimi Limited 
+Sirketi, Türkei
+41
+Turner Thompson Davis JV, New York, USA
+45
+Turner/Barton Malow Kenny, New York, USA
+22
+Turner/Devcon, New York, USA
+60
+Turner/Goodfellow Top Grade/Flatiron-Oakland 
+Army Base, Oakland, USA
+60
+Turner/JCB, New York, USA
+80
+Turner/Mc Carthy, Massachusetts, USA
+50
+Turner/New South JV, New York, USA
+60
+
+37
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Turner/Omega/Howard, Texas, USA
+70
+Turner/Smoot, Washington D.C., USA
+51
+Turner/STV, New York, USA
+50
+Turner/Winter, Georgia, USA
+60
+Turner-Acura-Lindahl, Triventure, Illinois, USA
+40
+Turner-Peter Scalamdre & Sons JV, New York, USA
+74
+Turner-Rodgers JV, Charlotte, USA
+50
+University Construction Management Team, New 
+York, USA
+50
+Division HOCHTIEF Asia Pacific
+APM Group (Aust) Pty. Ltd. & Broad Construction 
+Services (NSW/VIC) Pty. Ltd., Australien
+50
+Applemead Pty. Ltd., Australien
+50
+Auckland Road Maintenance Alliance (West) 
+Management JV, Neuseeland
+50
+Australian Terminal Operations Management Pty. 
+Ltd., Australien
+50
+Bac Devco Pty. Ltd., Australien
+33
+Barclay Mowlem Thiess JV, Australien
+50
+Canberra Metro Operations Pty. Ltd., Australien
+50
+City West Property Holding Trust (Section 63 Trust), 
+Australien
+50
+City West Property Holdings Pty. Ltd., Australien
+50
+City West Property Investment (No. 1) Trust, 
+Australien
+50
+City West Property Investment (No. 2) Trust, 
+Australien
+50
+City West Property Investment (No. 3) Trust, 
+Australien
+50
+City West Property Investment (No. 4) Trust, 
+Australien
+50
+City West Property Investment (No. 5) Trust, 
+Australien
+50
+City West Property Investment (No. 6) Trust, 
+Australien
+50
+City West Property Investments (No. 1) Pty. Ltd., 
+Australien
+50
+City West Property Investments (No. 2) Pty. Ltd., 
+Australien
+50
+City West Property Investments (No. 3) Pty. Ltd., 
+Australien
+50
+City West Property Investments (No. 4) Pty. Ltd., 
+Australien
+50
+City West Property Investments (No. 5) Pty. Ltd., 
+Australien
+50
+City West Property Investments (No. 6) Pty. Ltd., 
+Australien
+50
+Cockatoo Mining Pty. Ltd., Australien
+50
+Doubleone 3 Unit Trust, Australien
+50
+Erskineville Residential Project Pty. Ltd., Australien
+50
+Great Eastern Alliance, Australien
+75
+HLG Contracting LLC, Dubai, Vereinigte Arabische 
+Emirate
+45
+Kings Square No. 4 Unit Trust, Australien
+50
+Kings Square Pty. Ltd., Australien
+50
+LCS Employment Agency Ltd., Macao
+50
+Leighton Abigroup JV, Australien
+50
+Leighton BMD JV, Australien
+50
+Leighton Construction India (Private) Ltd., Indien
+50
+Leighton Contractors & Baulderstone Hornibrook 
+Bilfinger Berger JV, Australien
+50
+Leighton Holland Browse JV, Australien
+50
+Leighton Kumagai JV (MetroRail), Australien
+55
+Leighton OSE JV, Indien
+50
+Leighton Services UAE Co. LLC, Vereinigte Arabische 
+Emirate
+50
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Leighton/Ngarda JV (LNJV), Australien
+88
+Leighton-Infra 13 JV, Indien
+50
+Majwe Mining JV (Proprietary) Ltd., Botsuana
+60
+Manukau Motorway Extension, Neuseeland
+50
+Mode Apartments Pty. Ltd., Australien
+50
+Mode Apartments Unit Trust, Australien
+50
+Moonee Ponds Pty. Ltd., Australien
+50
+Mosaic Apartments Holdings Pty. Ltd., Australien
+50
+Mosaic Apartments Pty. Ltd., Australien
+50
+Mosaic Apartments Unit Trust, Australien
+50
+MPeet Pty. Ltd., Australien
+50
+Mulba Mia Leighton Broad JV, Australien
+50
+Naval Ship Management (Australia) Pty. Ltd., Australien
+50
+New Future Alliance (SIHIP), Australien
+80
+Ngarda Civil and Mining Pty. Ltd., Australien
+50
+Northern Gateway Alliance, Neuseeland
+50
+RTL JV, Australien
+44
+RTL Mining and Earthworks Pty. Ltd., Australien
+44
+S.A.N.T. (MGT-Holding) Pty. Ltd., Australien
+50
+S.A.N.T. (TERM-Holding) Pty. Ltd., Australien
+50
+Sedgman Civmec JV, Australien
+50
+SmartReo Pty. Ltd., Australien
+50
+Southern Gateway Alliance (Mandurah), Australien
+69
+Thiess Hochtief JV, Australien
+50
+Thiess United Group JV, Australien
+50
+Ventia Services Group Pty. Ltd., Australien
+47
+Viridian Noosa Pty. Ltd., Australien
+50
+Viridian Noosa Trust, Australien
+50
+Wallan Project Pty. Ltd., Australien
+50
+Wallan Project Trust, Australien
+50
+Wedgewood Road Hallam No. 1 Pty. Ltd., Australien
+50
+Wedgewood Road Hallam Trust, Australien
+50
+Wellington Tunnel Alliance, Neuseeland
+50
+Wrap Southbank Unit Trust, Australien
+50
+Division HOCHTIEF Europe
+1. WohnArt-Projektentwicklung GmbH & Co. KG, 
+Hamburg, Deutschland
+50
+Aegean Motorway S.A., Larissa, Griechenland
+35
+Boreal Health Partnership Inc., Vaughan, Kanada
+25
+Capital City Link General Partnership, Edmonton, 
+Kanada
+25
+Golden Link Concessionaire LLC, New York, USA
+50
+Herrentunnel Lübeck GmbH & Co. KG, Lübeck, 
+Deutschland
+50
+HKP Dahlemer Weg Objekt 1 tertius PE GmbH & 
+Co. KG, Essen, Deutschland
+50
+HKP Dahlemer Weg Objekt 2 ETW PE GmbH & Co. 
+KG, Essen, Deutschland
+50
+HOCHTIEF Offshore Development Solutions S.à r.l., 
+Luxemburg, Luxemburg
+50
+HOCHTIEF PANDION Oettingenstraße GmbH & Co. 
+KG, Essen, Deutschland
+50
+HOCHTIEF PPP 1. Holding GmbH & Co. KG, Essen, 
+Deutschland
+50
+HTP PSP Ltd., Swindon, Großbritannien
+50
+Lusail HOCHTIEF Q.S.C., Doha, Katar
+49
+Olympia Odos Concession Company S.A., Athen, 
+Griechenland
+17
+Olympia Odos Operation Company S.A., Athen, 
+Griechenland
+17
+PANSUEVIA GmbH & Co. KG, Jettingen-Scheppach, 
+Deutschland
+50
+PANSUEVIA Service GmbH & Co. KG, Jettingen-
+Scheppach, Deutschland
+50
+
+38
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Projekt DoU Baufeld Nord GmbH & Co. KG, Stuttgart, 
+Deutschland
+50
+Raststätten Betriebs GmbH, Großebersdorf, 
+Österreich
+50
+SAAone Holding B.V., Vianen, Niederlande
+20
+Schools Public/Private Partnership (Ireland) Ltd., 
+Dublin, Irland
+50
+Signature on the Saint-Laurent Group G.P., Toronto, 
+Kanada
+25
+Skyliving GmbH & Co. KG, Oststeinbek, Deutsch-
+land
+50
+Via Solutions Nord GmbH & Co. KG, Essen, 
+Deutschland
+49
+Via Solutions Nord Service GmbH & Co. KG, Essen, 
+Deutschland
+83
+ViA6West GmbH & Co. KG , Essen, Deutschland
+30
+Via6West Service GmbH & Co. KG, Essen, 
+Deutschland
+66
+Deutsche Bau-ARGEN, die in den Konzernabschluss einbezogen wurden, sind die folgenden:
+Deutsche Bau-ARGEN
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landes-
+währung
+A + T Potsdamer Platz, Deutschland
+50
+A5 Baulos 5, Österreich
+50
+ARGE A7 Hamburg – Bordesholm, Deutschland
+70
+ARGE Ausbau FLI Riems, Deutschland
+50
+ARGE Bau WBG Halstenbek, Deutschland
+70
+ARGE Bau WBG Halstenbek, Deutschland
+30
+ARGE BAUARGE A6 West, Deutschland
+60
+ARGE Erd- und Straßenbau S10 BL 4.2, Österreich
+100
+ARGE Hafentunnel Cherbourger Straße, Deutschland
+33
+ARGE Ing.-Bau Rethebrücke, Deutschland
+50
+ARGE Ingenieurbau A4 Hörselberge, Deutschland
+75
+ARGE Ingenieurbau BAB A66 Neuhof, Deutschland
+33
+ARGE Ingenieurbau S10 BL 4.2, Österreich
+50
+ARGE Kanal Belvederestraße, Deutschland
+50
+ARGE Kanal Jahnstraße, Deutschland
+50
+ARGE Kanal Maastrichter Straße, Deutschland
+50
+ARGE Kanalbau Geestermünder Straße, Deutschland
+55
+ARGE Kanalbau Mauritiuswall/Jahnstraße, Deutschland
+50
+ARGE Kanalbau Rubensstraße und Friedrichstraße, 
+Deutschland
+50
+ARGE Lärmschutzwand A8, Deutschland
+50
+ARGE Lindenstraße Berlin, Deutschland
+50
+ARGE NVZ Straßburger Platz, Deutschland
+50
+ARGE Poller Kirchweg, Deutschland
+45
+ARGE Rheinboulevard Köln-Deutz, Deutschland
+60
+ARGE Rheinboulevard, 3. BA, Deutschland
+60
+ARGE Saale-Elster-Brücke, Deutschland
+36
+ARGE S-Bahn Berlin, S21 Neubau; VE02.1;02., 
+Deutschland
+50
+ARGE SBT 1.1 Tunnel Gloggnitz, Österreich
+40
+ARGE Schulen und Kitas Braunschweig, Deutschland
+70
+ARGE SH KWO BioSchild, Deutschland
+50
+ARGE STRUNDE, Deutschland
+50
+ARGE Sürth SKU 022, Deutschland
+50
+ARGE T185 Baulogistik, Deutschland
+50
+ARGE Trianon Brandschutzsanierung, FFM, 
+Deutschland
+75
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+ARGE Tunnel Rastatt, Deutschland
+50
+ARGE Tunnel Trimberg, Deutschland
+50
+ARGE Tunnel XFEL, Deutschland
+50
+ARGE Tunnelkette Granitztal Baulos 50.4, Österreich
+50
+ARGE U 4 Ingenieurbau Los 1 + 3, Deutschland
+28
+ARGE U-Bahn Nürnberg U3 Nordwest, BA 1.3, 
+Deutschland
+60
+ARGE VP12 Bahntechnik, Deutschland
+40
+ARGE Wolfsruh, Deutschland
+60
+BAB A 100, 16. Bauabschnitt, Deutschland
+50
+Baltic 2 OWF (FOU/LGS), Deutschland
+50
+Bau-ARGE BAB A8 Ulm-Augsburg, Deutschland
+50
+Bexhill to Hastings Phase 2, Großbritannien
+50
+BieGe Schellerdamm 9, Deutschland
+50
+Břeclav – Levobřežní hráz, Tschechien
+51
+Brno – Rekonstrukce operačních sálů KPRCH, 
+Tschechien
+50
+BT-Elbphilharmonie, Deutschland
+50
+Č.B. – Horkovod Pražské předměstí 3.et., Tschechien
+60
+České Bud. – Horkovod Praž. před. II.et., Tschechien
+50
+Cheb – Rekonstrukce pavilonu B, Tschechien
+50
+Cityringen Nordhavnen 3, Dänemark
+40
+Cityringen: Branch-off to Nordhavnen, Dänemark
+40
+Dálnice D3 Žilina – dálniční tunel, Slowakei
+40
+E6 Dovrebanen FP2, Norwegen
+40
+EKPPT OJV (Sub-JV/Umbrella), Griechenland
+33
+Forth Replacement Crossing, Großbritannien
+28
+Gotthard Basis Tunnel, Lose Bodio & Faido, Schweiz
+25
+Holovousy – Ovocnářský výzkumný institut, Tschechien
+60
+Holubice – ČOV a kanalizace, Tschechien
+50
+IDRIS MTS-02, Katar
+45
+KKIA Airport – Expansion & Development, Saudi-
+Arabien
+55
+Kolektor Hlávkův most, Tschechien
+50
+Kuks – Granátové jablko – realiz. obnovy, Tschechien
+60
+Ligary, ČOV, Tschechien
+25
+Ludgeřovice – Kanalizace, Tschechien
+65
+Maliakos Kleidi OJV (Sub-JV/Umbrella), Griechenland
+61
+Modrava – Nová ČOV a vodovod, Tschechien
+51
+Most Lochkovské údolí, Tschechien
+50
+Ngqura Harbour, Südafrika
+76
+Nord-Süd Stadtbahn, Kanalbau Heumarkt, 
+Deutschland
+61
+Nové Roudné – 1. etapa, část 2, Tschechien
+51
+Olší – Regálová hala č.1 Efaflex, Tschechien
+61
+Ostrava – Lékařská fak. OU v Ostravě, Tschechien
+80
+Ostrava – Prodlužená ulice Ruská, Tschechien
+35
+Ostrava Mošnov – Výstavba TWR LKTM, Tschechien
+50
+Plasy – Centrum stav. dědictví -II.etapa, Tschechien
+70
+Plzeň – Obchodní centrum PLAZA, Tschechien
+51
+PPO Velké Meziříčí, Tschechien
+50
+Praha 11, Multifunkční obj. JEDENÁCTKA VS, 
+Tschechien
+80
+Praha 4 – Centrum Opatov I, Tschechien
+50
+Praha 6 – ČVUT CIIRC, Tschechien
+55
+Praha 7, Rekonstr. Sportovní haly Letná, Tschechien
+40
+Projektgesellschaft Lindenhof, Deutschland
+50
+Reading Station, Großbritannien
+50
+Revital. nivy řeky Jizery v Benátkách, Tschechien
+80
+RTT Vršovická, Tschechien
+35
+Schiphol Amsterdam-Almere (SAA) A1/A6, Niederlande
+35
+
+39
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Stadtbahn Köln, Los Nord, ARGE Ing.-Bau, 
+Deutschland
+75
+Strakonice – Protipovodňová opatření, Tschechien
+60
+Stuttgart 21 PFA 1. Los 3 Bad Cannstatt, Deutschland
+40
+Tábor-Klokoty – ČOV úprava tech.linky, Tschechien
+40
+Táborsko – Kanalizace štola, Tschechien
+70
+Táborsko JV – Kanalizace 2. část, Tschechien
+38
+Táborsko-JV Náprava kan. soust. II. et., Tschechien
+38
+Travequerung Lübeck/Herrentunnel Lübeck, 
+Deutschland
+40
+ÚČOV Praha, Tschechien
+40
+Unibauten Bremen – Instandsetzung, Deutschland
+51
+Wakefield ERR JV Project, Großbritannien
+50
+Wendlingen – Ulm PFA 2.3 Tunnel Widderstall, 
+Deutschland
+40
+Western Gateway Infra Scheme, Großbritannien
+50
+York Potash Phase 1, Großbritannien
+50
+Zdíkov – Kanalizace a ČOV, Tschechien
+54
+Gemeinschaftliche Tätigkeiten, die in den Konzernabschluss einbezogen wurden, sind die 
+folgenden:
+Gemeinschaftliche Tätigkeiten
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landes-
+währung
+Bacchus Marsh, Australien
+50
+Baulderstone Leighton JV, Australien
+50
+Building ROE 8, Australien
+71
+Casey Fields JV, Australien
+55
+CH2 – UGL, Australien
+50
+China State Leighton JV, Hongkong
+50
+CHT JV, Australien
+50
+CPB Black & Veatch JV, Australien
+50
+CPB Contractors UGL Engineering JV, Australien
+50
+CPB Dragados Samsung JV, Australien
+40
+CPB John Holland Dragados JV, Australien
+50
+CPB Samsung John Holland JV, Australien
+33
+Edenbrook, Australien
+50
+Erskineville Residential Project, Australien
+50
+EV LNG Australia Pty. Ltd. & Thiess Pty. Ltd. (EVT 
+JV), Australien
+50
+Gammon – Leighton JV, Hongkong
+50
+HYLC JV, Australien
+50
+JHCPB JV, Australien
+50
+John Holland – Leighton (South East Asia) JV, 
+Hongkong
+50
+Leighton – Able JV, Hongkong
+51
+Leighton – China State JV, Hongkong
+51
+Leighton – Chubb E&M JV, Hongkong
+50
+Leighton – Chun Wo JV, Hongkong
+60
+Leighton – Chun Wo JV, Hongkong
+84
+Leighton – Gammon JV, Hongkong
+50
+Leighton – John Holland JV (Lai Chi Kok), Hongkong
+51
+Leighton – John Holland JV, Hongkong
+55
+Leighton – Total JO, Indonesien
+70
+Leighton Abigroup Consortium (Epping to 
+Thornleigh), Australien
+50
+Leighton China State John Holland JV (City of 
+Dreams), Macao
+40
+Leighton China State JV (Wynn Resort), Macao
+50
+Leighton China State Van Oord JV, Hongkong
+45
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landeswäh-
+rung
+Leighton Contractors Downer JV, Australien
+50
+Leighton Fulton Hogan JV  (Sapphire to Woolgool-
+ga), Australien
+50
+Leighton Fulton Hogan JV (SH16 Causeway Up-
+grade), Neuseeland
+50
+Leighton John Holland JV (Thomson Line), 
+Singapur
+50
+Leighton M&E – Southa JV, Australien
+50
+Leighton Offshore  –  John Holland JV (LTA Project), 
+Singapur
+50
+Leighton York JV, Australien
+75
+Leighton/HEB JV, Neuseeland
+80
+LLECPB Crossing Removal JV, Australien
+50
+Murray & Roberts Marine Malaysia – Leighton 
+Contractors Malaysia JV, Malaysia
+50
+N.V. Besix S.A. & Thiess Pty. Ltd. (Best JV), Australien
+50
+NRT – Design & Delivery JV, Australien
+30
+NRT – Infrastructure JV, Australien
+50
+NRT Systems, Australien
+40
+OWP JV, Australien
+75
+Rizzani Leighton JV, Australien
+50
+Swietelsky CPB Rail JV, Australien
+50
+Task JV (Thiess & Sinclair Knight Merz), Australien
+60
+Thiess Balfour Beatty JV, Australien
+67
+Thiess Decmil Kentz JV, Australien
+33
+Thiess Degremont JV, Australien
+65
+Thiess Degremont Nacap JV, Australien
+33
+Thiess John Holland JV (Airport Link), Australien
+50
+Thiess John Holland JV (Eastlink), Australien
+50
+Thiess KMC JV, Kanada
+51
+Thiess MacDow JV, Australien
+50
+Thiess Sedgman JV, Australien
+100
+UGL Cape, Australien
+50
+UGL Kaefer, Australien
+50
+UGL Kentz, Australien
+50
+Veolia Water – Leighton – John Holland JV, Hongkong
+24
+Assoziierte Unternehmen, die im Konzernabschluss nach der Equity-Methode berücksichtigt 
+wurden, sind die folgenden:
+Assoziierte Unternehmen
+Name der Gesellschaft, Sitz der Gesellschaft
+Anteil am 
+Kapital in 
+Prozent
+Eigenkapital in Tsd. 
+Landeswährung
+Ergebnis 
+des Jahres 
+in Tsd. 
+Landes-
+währung
+Am Opernboulevard GmbH & Co. KG, Hamburg, 
+Deutschland
+47
+Arbeitsgemeinschaft GÜ Köbis Dreieck KPMG, Berlin, 
+Deutschland
+50
+Canberra Metro Holding Pty. Ltd., Australien
+30
+Canberra Metro Holding Trust, Australien
+30
+Canberra Metro Pty. Ltd., Australien
+30
+Dunsborough Lakes Village Syndicate, Australien
+20
+LCIP Co-Investment Unit Trust, Australien
+11
+MacMahon Holdings Ltd., Australien
+21
+Mélyépitö Budapest Kft., Budapest, Ungarn
+30
+Metro Trains Australia Pty. Ltd., Australien
+20
+Metro Trains Melbourne Pty. Ltd., Australien
+20
+Metro Trains Sydney Pty. Ltd., Australien
+20
+Ontalent Pty. Ltd., Australien
+33
+P.T. Ballast Indonesia Construction, Jakarta, 
+Indonesien
+47
+Wellington Gateway General Partner No. 1 Ltd., 
+Neuseeland
+15
+
+40
+Konzernzugehörigkeit
+Der Jahresabschluss der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, Amtsgericht Essen, Handelsregister-
+nummer HRB 279, wird in den Konzernabschluss der HOCHTIEF Aktiengesellschaft einbezogen, die diesen als 
+eigenständiger börsennotierter Konzern veröffentlicht und der gleichzeitig in den Konzernabschluss der ACS 
+Actividades de Construcción y Servicios, S.A., Madrid, Spanien, konsolidiert wird. Der Konzernabschluss der 
+HOCHTIEF Aktiengesellschaft wird im Bundesanzeiger, der Konzernabschluss von ACS im Verzeichnis der 
+Comisión Nacional del Mercado de Valores veröffentlicht.
+Gewinnverwendungsvorschlag des Vorstands
+Der Vorstand schlägt vor, zu beschließen:
+Der Bilanzgewinn der HOCHTIEF Aktiengesellschaft des Geschäftsjahres 2016 in Höhe von 167.180.000,00 Euro 
+wird zur Ausschüttung einer Dividende von 2,60 Euro je Stückaktie auf das Grundkapital von 164.608.000,00 Euro, 
+eingeteilt in 64 300 000 Stückaktien, verwendet.
+Die Dividende ist am 6. Juli 2017 fällig.
+Der Betrag, der auf die am Tage der Hauptversammlung im Besitz der Gesellschaft befindlichen eigenen Aktien aus-
+zuschütten wäre und der gemäß § 71 b AktG von der Ausschüttung auszuschließen ist, wird auf neue Rechnung 
+vorgetragen. Am Tag der Aufstellung des Jahresabschlusses, 24. Februar 2017, ergibt sich für die HOCHTIEF Aktien­
+gesellschaft ein Bestand an eigenen Aktien von insgesamt 52 142 Stück, womit ein Betrag in Höhe von 135.569,20 Euro 
+auf neue Rechnung vorzutragen wäre. Bis zur Hauptversammlung kann sich die Zahl der für das Geschäftsjahr 
+2016 dividendenberechtigten Stückaktien verändern. In diesem Fall wird bei unveränderter Ausschüttung von  
+2,60 Euro je für das Geschäftsjahr 2016 dividendenberechtigter Stückaktie der Hauptversammlung ein entspre-
+chend angepasster Gewinnverwendungsvorschlag unterbreitet.
+
+41
+Versicherung der gesetzlichen Vertreter
+Wir versichern nach bestem Wissen, dass gemäß den anzuwendenden Rechnungslegungsgrundsätzen der Jahres-
+abschluss ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der 
+Gesellschaft vermittelt und im Lagebericht, der mit dem des Konzerns zusammengefasst ist, der Geschäftsverlauf 
+einschließlich des Geschäftsergebnisses und die Lage der Gesell­schaft so dargestellt sind, dass ein den tatsäch-
+lichen Verhältnissen entsprechendes Bild vermittelt wird sowie die wesentlichen Chancen und Risiken der voraus-
+sichtlichen Entwicklung der Gesellschaft beschrieben sind.
+Essen, 24. Februar 2017
+HOCHTIEF Aktiengesellschaft
+Der Vorstand 
+ 
+ 
+Marcelino Fernández Verdes  	
+	
+	
+	
+Peter Sassenfeld
+Nikolaus Graf von Matuschka 	
+	
+	
+	
+José Ignacio Legorburo Escobar	
+	
+	
+	
+ 
+
+42
+Bestätigungsvermerk des Abschlussprüfers
+Wir haben den Jahresabschluss – bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang – unter 
+Ein­beziehung der Buchführung und den mit dem Konzernlagebericht zusammengefassten Lagebericht der 
+HOCHTIEF Aktiengesellschaft, Essen, für das Geschäftsjahr vom 1. Januar bis 31. De­zem­ber 2016 geprüft. 
+Die Buchführung und die Aufstellung von Jahresabschluss und Lagebericht nach den deutschen handels-
+rechtlichen Vorschriften liegen in der Verantwortung des Vorstands der Gesellschaft. Unsere Aufgabe ist es, 
+auf der Grundlage der von uns durchgeführten Prüfung eine Beurteilung über den Jahresabschluss unter 
+Einbeziehung der Buchführung und über den Lagebericht abzugeben.
+Wir haben unsere Jahresabschlussprüfung nach § 317 HGB unter Beachtung der vom Institut der Wirtschafts-
+prüfer festgestellten deutschen Grundsätze ordnungsmäßiger Abschluss­prüfung vor­ge­nom­men. Danach ist 
+die Prüfung so zu planen und durchzuführen, dass Unrichtigkeiten und Verstöße, die sich auf die Darstellung 
+des durch den Jahresabschluss unter Beachtung der Grundsätze ordnungsmäßiger Buchführung und durch 
+den Lagebericht vermittelten Bildes der Vermögens-, Finanz- und Ertrags­lage wesentlich auswirken, mit hin-
+reichender Sicherheit erkannt werden. Bei der Festlegung der Prüfungshandlungen werden die Kenntnisse 
+über die Geschäfts­tätigkeit und über das wirtschaftliche und rechtliche Umfeld der Gesellschaft sowie die Er­
+wartungen über mögliche Fehler berücksichtigt. Im Rahmen der Prüfung werden die Wirksamkeit des rech-
+nungslegungsbezogenen in­ter­nen Kontrollsystems sowie Nachweise für die Angaben in Buchführung, Jahres-
+abschluss und Lagebericht überwiegend auf der Basis von Stichproben beurteilt. Die Prüfung umfasst die 
+Beurteilung der an­ge­wandten Bilanzierungsgrundsätze und der wesentlichen Einschätzungen des Vorstands 
+sowie die Wür­di­gung der Gesamtdarstellung des Jahresabschlusses und des Lageberichts. Wir sind der Auf-
+fassung, dass unsere Prüfung eine hinreichend sichere Grundlage für unsere Beurteilung bildet.
+
+43
+Unsere Prüfung hat zu keinen Einwendungen geführt. 
+Nach unserer Beurteilung aufgrund der bei der Prüfung ge­won­nenen Erkenntnisse entspricht der Jahresabschluss 
+der HOCHTIEF Aktiengesellschaft, Essen, den gesetzlichen Vorschriften und vermittelt unter Beachtung der Grund-
+sätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechen­des Bild der Vermögens-, 
+Fi­nanz- und Ertragslage der Gesellschaft. Der Lagebericht steht in Einklang mit dem Jahresabschluss, entspricht 
+den gesetzlichen Vorschriften, vermittelt insgesamt ein zutreffendes Bild von der Lage der Gesellschaft und stellt 
+die Chancen und Risiken der zukünftigen Ent­wicklung zutreffend dar.
+Düsseldorf, 24. Februar 2017
+Deloitte GmbH
+Wirtschaftsprüfungsgesellschaft
+(Schlereth)	
+	
+	
+	
+	
+(Bedenbecker)
+Wirtschaftsprüfer	 	
+	
+	
+	
+Wirtschaftsprüfer
+
+44
+*	 Aufsichtsratsmitglied der 
+­Arbeitnehmer
+a)	 Mitgliedschaft in anderen 
+gesetzlich zu bildenden 
+Aufsichtsräten (Stand:  
+31. Dezember 2016)
+b)	 Mitgliedschaft in vergleich-
+baren in- und ausländischen 
+Kontrollgremien von Wirt-
+schaftsunternehmen (Stand: 
+31. Dezember 2016)
+Stichtag für die Angabe zu Mit-
+gliedschaften: 31.12.2016; bei 
+unterjährig ausgeschiedenen 
+Gremienmitgliedern: Tag des 
+Ausscheidens
+Aufsichtsrat
+Pedro López Jiménez
+Madrid, Vorsitzender des Aufsichtsrats der HOCHTIEF 
+Aktiengesellschaft, Member of the Board and of the 
+Executive Committee of ACS, Actividades de Con­
+strucción y Servicios, S.A., Madrid
+b)	 ACS Servicios y Concesiones, S.L. (Vice-Chairman)
+	
+ACS Servicios, Comunicaciones y Energía, S.L. (Vice-Chairman)
+	
+CIMIC Group Limited
+	
+Dragados, S.A. (Chairman-in-Office)
+Matthias Maurer*
+Hamburg, stellvertretender Vorsitzender des Aufsichts-
+rats (ab 11.05.2016),
+Vorsitzender des Gesamtbetriebsrats HOCHTIEF 
+­Infrastructure GmbH
+Ángel García Altozano
+Madrid, Corporate General Manager von ACS, Activi-
+dades de Construcción y Servicios, S.A., Madrid
+b)	 ACS Servicios y Concesiones, S.L.
+	
+ACS Servicios, Comunicaciones y Energía, S.L.
+	
+Dragados, S.A.
+	
+Masmovil Ibercom, S.A.
+Gregor Asshoff*
+Frankfurt am Main, stellvertretender Vorsitzender des 
+Aufsichtsrats (bis 11.05.2016), Mitglied des Vorstands 
+der SOKA-Bau
+Dipl.-Ing. Dipl.-Wirtsch.-Ing. Beate Bell
+Köln, Geschäftsführerin der immoADVICE GmbH
+a)	 Deutsche EuroShop AG
+Christoph Breimann*
+Lüdinghausen, Leiter Technisches Büro Building der 
+HOCHTIEF Infrastructure GmbH (ab 11.05.2016)
+Carsten Burckhardt*
+Dortmund, Mitglied des Bundesvorstands der IG Bauen-
+Agrar-Umwelt
+a)	 Zusatzversorgungskasse des Baugewerbes AG
+b)	 Dein Plus GmbH
+	
+DGB-Rechtsschutz GmbH
+	
+Urlaubs- und Lohnausgleichskasse der Bauwirtschaft (ULAK)
+José Luis del Valle Pérez
+Madrid, Member and Secretary of the Board of ACS, 
+Actividades de Construcción y Servicios, S.A., and 
+­General Secretary of the ACS Group, Madrid
+b)	 ACS Servicios y Concesiones, S.L.
+	
+ACS Servicios, Comunicaciones y Energía, S.L.
+	
+CIMIC Group Limited
+	
+Cobra Gestión de Infraestructuras, S.A.
+	
+Dragados, S.A.
+Dr. rer. pol. h. c. Francisco Javier Garcia Sanz
+Braunschweig, Mitglied des Vorstands der Volkswagen 
+Aktiengesellschaft, Wolfsburg
+a)	 AUDI AG
+	
+Dr. Ing. h. c. F. Porsche Aktiengesellschaft
+b)	 CAIXAHOLDING, S.A.
+	
+FAW-Volkswagen Automotive Company, Ltd.
+	
+Porsche Holding Stuttgart GmbH
+	
+SEAT, S.A.
+	
+VfL Wolfsburg-Fußball GmbH
+	
+Volkswagen Audi España S.A.
+	
+Volkswagen (China) Investment Company Ltd.
+	
+Volkswagen Navarra S.A.
+	
+Volkswagen Truck and Bus GmbH
+Dipl.oec. Patricia Geibel-Conrad
+Leonberg, Unternehmensberatung – Wirtschaftsprü-
+fung/Steuerberatung in eigener Praxis (bis 11.05.2016/
+ab 02.06.2016)
+Arno Gellweiler*
+Oberhausen, Konstrukteur im Bereich Ingenieur- und 
+Brückenbau, HOCHTIEF Engineering GmbH, Consult 
+Infrastructure (ab 11.08.2016)
+Dr. Thomas Krause*
+Bremen, Executive Vice President der HOCHTIEF 
+­Infrastructure GmbH International (bis 11.05.2016)
+Luis Nogueira Miguelsanz
+Madrid, Secretary-General, Dragados, S.A. (ab 
+29.03.2016 bis 11.05.2016/ab 02.06.2016)
+Udo Paech*
+Berlin, Betriebsrat der HOCHTIEF Building GmbH  
+(Bereich Nordost) (bis 11.05.2016)
+Nikolaos Paraskevopoulos*
+Bottrop, Vorsitzender Eurobetriebsrat und Mitglied 
+Konzernbetriebsrat der HOCHTIEF Aktiengesellschaft, 
+Vorsitzender Betriebsrat und Vorsitzender Gesamtbe-
+triebsrat TRINAC GmbH (bis 11.05.2016/ab 11.08.2016)
+Gremien
+
+45
+Sabine Roth*
+Ratingen, Sachbearbeiterin im kaufmännischen Innen-
+dienst (ab 11.05.2016)
+Nicole Simons*
+Düsseldorf, Rechtsanwältin und stellvertretende Regio-
+nalleiterin der IG Bauen-Agrar-Umwelt, Bundesvor-
+stand – Region Rheinland (ab 11.05.2016)
+a)	 HOCHTIEF Infrastructure GmbH
+Klaus Stümper*
+Lohmar, Betriebsratsvorsitzender der HOCHTIEF 
+­Infrastructure GmbH (Bereich West)
+Olaf Wendler*
+Sülzetal, Leiter Personalkoordination Rohbau/Industrie-
+bau (HOCHTIEF Building GmbH) (bis 11.05.2016)
+Dipl.-Geol. MBA Christine Wolff
+Hamburg, Unternehmensberaterin
+a)	 Berliner Wasserbetriebe A. ö. R.
+	
+KSBG Kommunale Verwaltungsgesellschaft GmbH
+b)	 Sweco AB
+Ausschüsse des Aufsichtsrats
+Nominierungsausschuss
+Pedro López Jiménez (Vorsitzender)
+José Luis del Valle Pérez
+Christine Wolff
+Prüfungsausschuss
+Ángel García Altozano (Vorsitzender)
+Gregor Asshoff (stellv.) (bis 11.05.2016)
+Beate Bell (ab 11.05.2016 bis 01.06.2016)
+Carsten Burckhardt (ab 11.05.2016)
+José Luis del Valle Pérez
+Patricia Geibel-Conrad (bis 11.05.2016/ab 02.06.2016)
+Pedro López Jiménez (ab 11.05.2016/bis 01.06.2016)
+Matthias Maurer
+Luis Nogueira Miguelsanz (ab 29.03.2016 bis 
+11.05.2016/ab 02.06.2016)
+Udo Paech (bis 11.05.2016)
+Nikolaos Paraskevopoulos (bis 11.05.2016)
+Sabine Roth (ab 11.05.2016)
+Klaus Stümper (stellv.) (ab 11.05.2016)
+Personalausschuss
+Pedro López Jiménez (Vorsitzender)
+Beate Bell
+José Luis del Valle Pérez
+Arno Gellweiler (ab 20.09.2016)
+Matthias Maurer (bis 20.09.2016)
+Nicole Simons (ab 11.05.2016)
+Klaus Stümper (bis 11.05.2016/ab 20.09.2016)
+Olaf Wendler (bis 11.05.2016)
+Christine Wolff
+Vermittlungsausschuss (§ 27 Abs. 3 MitbestG)
+Pedro López Jiménez (Vorsitzender)
+Gregor Asshoff (stellv.) (bis 11.05.2016)
+Beate Bell
+Carsten Burckhardt (bis 11.05.2016)
+Matthias Maurer (ab 11.05.2016)
+Nikolaos Paraskevopoulos (ab 20.09.2016)
+Vorstand
+Marcelino Fernández Verdes
+Düsseldorf, Vorsitzender des Vorstands der HOCHTIEF 
+Aktiengesellschaft, Essen
+b)	 CIMIC Group Limited (Executive Chairman)
+	
+Flatiron Holding, Inc.
+	
+HOCHTIEF AUSTRALIA HOLDINGS Ltd.
+	
+The Turner Corporation
+Peter Sassenfeld
+Duisburg, Mitglied des Vorstands (Chief Financial Of-
+ficer – CFO) der HOCHTIEF Aktiengesellschaft, Essen, 
+und Mitglied des Vorstands der HOCHTIEF Solutions 
+AG, Essen
+b)	 CIMIC Group Limited
+	
+Flatiron Holding, Inc.
+	
+HOCHTIEF AUSTRALIA HOLDINGS Ltd.
+	
+The Turner Corporation
+José Ignacio Legorburo Escobar
+Düsseldorf, Mitglied des Vorstands und Chief Opera-
+ting Officer (COO) der HOCHTIEF Aktiengesellschaft, 
+Essen, und der HOCHTIEF Solutions AG, Essen
+Nikolaus Graf von Matuschka
+Aldenhoven/Jüchen, Mitglied des Vorstands und Ar-
+beitsdirektor der HOCHTIEF Aktiengesellschaft, Essen, 
+und Vorsitzender des Vorstands und Arbeitsdirektor 
+der HOCHTIEF Solutions AG, Essen
+a)	 HOCHTIEF Infrastructure GmbH (Vorsitzender)
+	
+Malteser Deutschland gGmbH
+
+46
+Impressum
+Herausgeber:
+HOCHTIEF Aktiengesellschaft
+Opernplatz 2, 45128 Essen 
+Tel.: 0201 824-0, Fax: 0201 824-2777
+info@hochtief.de, www.hochtief.de
+Bildnachweise:
+HOCHTIEF Bildarchiv
+Bildbearbeitung, Satz und Druckvorstufe:
+Creafix GmbH, Solingen
+Druck:
+Druckpartner, Essen
+Der Jahresabschluss ist auf dem umweltfreundlichen 
+­Bilderdruckpapier Maxi Silk gedruckt. Es ist nach den 
+­Regeln des Forest Stewardship Council (FSC) zertifiziert.
+Dieser Jahresabschluss liegt auch in englischer  
+Sprache vor.

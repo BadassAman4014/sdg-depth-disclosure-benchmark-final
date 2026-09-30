@@ -1,0 +1,2267 @@
+1
+Sustainability  
+Report 2024
+
+2
+Table of Contents
+Foreword
+03
+About This Report
+04
+General Disclosure
+About BayWa r.e. 
+05
+Our Sustainability Framework
+09
+Overview of Our Sustainability Policies, Practices and Initiatives	
+11 
+Environment
+Our Contribution Towards Climate Change Mitigation
+13
+EU-Taxonomy Performance	
+20
+Biodiversity at Our Locations
+21
+Optimizing Water Use Across Operations
+22
+Resource Efficiency, Circular Economy and Waste Management
+25
+Social
+Our People at a Glance
+29
+Empowering Our People
+31
+Health, Safety and Environment	
+33
+Human Rights in Our Workforce and Supply Chains
+37
+Governance
+Good Governance Practices and Business Conduct
+39
+Governance Structures at BayWa r.e.
+41
+Appendix
+ESG Performance Indicators at a Glance
+42
+Standard Reporting Index
+43
+Glossary
+45
+
+3
+Foreword
+ 
+2024 has been a year of deep reflection and transformation for BayWa r.e. Across the renewable energy 
+sector and within our own organization, we have experienced a period that was shaped by intense 
+challenges, decisive shifts, and new beginnings. 
+Externally, we have continued to face high interest rates, volatile markets, and an unstable geopolitical 
+landscape. The regulatory environment is also evolving rapidly, driven by shifting policies and reporting 
+standards. At the same time, the effects of climate change are becoming ever more visible – from record 
+heatwaves to increasingly frequent extreme weather events. These realities underline the urgency of 
+driving forward the energy transition, accelerating it, and building lasting resilience into our systems  
+and strategies. 
+Internally, we are navigating an ambitious company-wide restructuring. We are taking difficult but 
+necessary steps to become more efficient, more focused, and more flexible in response to today’s  
+market dynamics. Rebuilding trust – with our customers, our partners, and our people – is essential.  
+We will continue to evolve our business model to meet rising expectations and to deliver real impact 
+through renewable energy. 
+At the same time, the sustainability regulatory landscape around us is changing. New regulations under  
+the EU Green Deal – from the Corporate Sustainability Reporting Directive (CSRD) and EU Taxonomy to  
+the recently announced EU Omnibus package – are reshaping how companies operate, report, and create 
+value. While some regulatory obligations have shifted or been delayed, others are expanding in scope  
+and complexity. For BayWa r.e., this means preparing for more detailed and activity-specific reporting  
+and deeper integration of sustainability across all functions. In this dynamic environment, a long-term  
+strategic view is more important than ever. To us, sustainability is not only about managing risks –  
+but about unlocking opportunities and building a resilient business for the future. 
+That is why we are currently revising our Sustainability Framework. This update will reflect the lessons we 
+have learnt, the progress we have made, and the sharper focus we need. In line with our restructuring 
+efforts, we are streamlining our strategy and concentrating on areas where we can make the biggest 
+difference. Topics like biodiversity, community engagement, and sustainable supply chains remain central 
+to our approach. We are working to make our actions more measurable and more meaningful, both in the 
+short and long term. 
+Sustainability continues to be a core business driver for BayWa r.e. It is at the heart of how we develop, 
+construct, and operate renewable energy projects. It is a source of innovation, collaboration, and purpose 
+across our teams. And most importantly, it is how we enable real value creation along the entire renewable 
+energy value chain – for our stakeholders, our society, and our planet. Thank you for joining us on this 
+journey. 
+Endorsed by:
+Hans-Joachim Ziems,
+Chief Restructuring 
+Officer
+Dr. Daniel Gäfke, 
+Chief Operating  
+Officer
+Elmar Geissinger, 
+Chief Financial  
+Officer
+Felix Colsman, 
+Member of the
+Executive Board
+
+4
+About This Report
+ 
+This Sustainability Report 2024 aims to inform our readers about our sustainability approach,  
+including relevant Environmental, Social and Governance (ESG) key performance indicators (KPIs)  
+as of 31.12.2024. Some chapters also reference important developments as of the publication date  
+of this report.
+BayWa r.e. is part of the sustainability reporting process of our parent company BayWa AG. Therefore,  
+this report complements BayWa AG’s sustainability disclosures, while expanding on topics relevant to 
+BayWa r.e.’s specific business models in the renewable energy sector. 
+We structured this Sustainability Report 2024 based on option B of the EFRAG Voluntary Sustainability 
+Reporting Standard for non-listed SMEs (VSME). It contains the basic as well as the comprehensive 
+module. In preparation to report in line with the European Sustainability Reporting Standard (ESRS), we 
+included additional information based on the ESRS requirements relevant to our business and if already 
+applicable. To give the reader further details, we added a table to the appendix displaying the disclosed 
+VSME and ESRS indicators, mapped against relevant GRI Indicators. 
+We omitted classified and sensitive information as well as information on intellectual property, know-how 
+or results of innovation. A list of omitted information including the reasoning can be found in the appendix 
+of this report.  
+Unless otherwise indicated, this statement covers:
+•  The activities of the entire BayWa r.e. Group, including all its subsidiaries*, following 
+the same scope of consolidation as for the financial statements. 
+•  Sites that are owned, leased, rented or managed – with exceptions. This statement 
+includes all sites for which a legal entity of the BayWa r.e. AG Group has a right of use 
+or can exclude third parties from using the site. For renewable energy projects, only 
+those operational, under construction or approved to be built by BayWa r.e. 
+subsidiaries are considered.   
+The data and assumptions we used while preparing this report are consistent with BayWa r.e.’s financial 
+statements. Forward-looking statements disclosed in this report are based on current assessments and 
+forecasts of management and draw from information currently available. Therefore, they involve risks and 
+uncertainties, and are not a guarantee of future developments and possible results. BayWa r.e. does not 
+undertake any obligation for updating or adjusting them to future events or developments. 
+Our parent company’s report, including BayWa r.e.’s sustainability data, has been audited with limited 
+assurance, and the specific audit scope of the 2024 BayWa AG Sustainability Report is indicated  
+accordingly. However, this Sustainability Report has not been audited.
+*All subsidiaries of the BayWa r.e. Group can be found in our Annual Financial Statement 2021 here.
+
+5
+General Disclosure
+About BayWa r.e. 
+ 
+BayWa r.e. covers key parts of the value chain of renewable energy and operates as developer, service 
+provider, photovoltaic (PV) wholesaler, energy trader, an Independent Power Producer (IPP) and provider of 
+energy solutions in the renewable energy sector. As of December 31,2024, BayWa r.e. had 4,750 employees.
+BayWa r.e.’s activities comprise key processes within the deployment of renewable energy assets.  
+We are collaborating with key suppliers, energy distributors, and end-users, while fostering strong 
+relationships with investors and regulatory bodies to ensure the smooth operation of our core business. 
+Multiple value chains exist, focusing on specific renewable energy technologies or geographic markets.
+Projects 
+Operations
+IPP
+Solar Trade
+Activities
+Development 
+and 
+construction  
+of wind and 
+solar assets
+Maintenance of 
+own assets as  
+well as third 
+parties’ assets
+Operation of own 
+assets and trading 
+of green electricity
+Distribution of 
+Equipment for 
+solar PV systems, 
+production of  
+rooftop mounting
+systems (novotegra)
+Key supplier* 
+groups
+Solar 
+equipment and 
+wind turbine 
+manufacturers 
+Solar equipment 
+and wind turbine 
+manufacturers
+Project 
+developers 
+(integrated IPP 
+only) and utilities
+Solar equipment 
+manufacturers
+Key customer 
+groups
+E.g. investors
+E.g. utilities
+Electricity offtakers 
+(e.g. C&I 
+customers)
+Installers
+Other key 
+stakeholders
+E.g. affected 
+communities
+E.g. affected 
+communities
+E.g. financial 
+institutions
+End-customers
+Relevant 
+focus markets 
+(based on  
+head count  
+of employees)
+EMEA, AMER
+EMEA
+EMEA
+EMEA
+Products
+Turnkey 
+project and 
+RTB sale and 
+projects’ rights 
+sale
+Maintenance 
+service for 
+renewable energy 
+plants
+Renewable 
+electricity
+Equipment for solar 
+PV systems
+*Our suppliers across all business areas operate on an international scale, especially in Asia, Europe and the USA, reflecting the  
+global nature of our supply chain and procurement strategy.
+
+6
+Our Business Model
+ 
+Until the end of 2024, BayWa r.e.’s business activities were divided into three areas: Projects, Operations, 
+and Solutions (including Solar Trade). They were organized into six business entities (BEs). In the 2024 
+fiscal year, there was a comprehensive reorganization of the reporting and management structure within 
+BayWa r.e. Group. Previously, business activities and decision-making were managed at the business entity 
+level, which was reflected in BayWa r.e.'s reporting structure. Starting in the fiscal year 2024, business 
+activities and planning are now managed centrally at the level of partially consolidated business entities in 
+newly defined segments: 
+•  Projects EMEA / APAC & Solutions
+•  Projects AMER
+•  Operations EMEA
+•  IPP 
+•  Solar Trade
+•  Holdings
+The table below shows all relevant NACE Codes related to our business activities.
+Overview of relevant NACE Codes
+BayWa r.e. Segments
+NACE Category 
+NACE Label 
+NACE Code 
+Projects 
+EMEA / APAC / AMER
+Construction
+Construction of utility 
+projects for electricity 
+and telecommunications 
+F.42.22 
+IPP 
+Electricity, gas, steam and 
+air conditioning supply 
+Production of electricity 
+from renewable sources 
+D.35.12 
+IPP 
+Electricity, gas, steam and 
+air conditioning supply 
+Storage of electricity 
+D.35.16 
+Energy Trading 
+Electricity, gas, steam and 
+air conditioning supply 
+Trade of electricity 
+D.35.15 
+Solutions 
+Construction
+Electrical installation
+F.43.21
+Operations EMEA
+Electricity, gas, steam and 
+air conditioning supply 
+Production of electricity 
+from renewable sources 
+(including operation of 
+renewable assets) 
+D.35.12 
+Solar Trade
+Wholesale and retail sale 
+Wholesale of other 
+machinery and 
+equipment
+G.46.64
+Solar Trade 
+(only novotegra)
+Manufacturing
+Manufacture of 
+structural 
+metal products
+C.25.11
+
+7
+BayWa r.e. is headquartered in Munich. The company is 51% owned by BayWa AG and, since 2021, 49% 
+owned by EIP Ruby Renewables Invest GmbH (EIP). As of the balance sheet date, BayWa r.e. AG is a fully 
+consolidated subsidiary of BayWa AG, which was founded in 1923 and is also based in Munich. BayWa AG
+operates across several sectors, including Energy, Agriculture, Construction, and Innovation & Digitalization. 
+The Renewable Energies segment managed by BayWa AG is primarily consolidated within the BayWa r.e. 
+Group through its parent company, BayWa r.e. AG.
+Update on Group Strategy and Objectives
+ 
+Since its founding in 2009, BayWa r.e. has experienced strong growth. However, rising interest rates and
+supply chain disruptions have significantly impacted market conditions since 2023, posing major challenges.
+Higher financing costs and reduced profitability have affected our project development, while delays and
+increased material costs have eroded margins in our solar trade business. These pressures demand 
+strategic agility and cost efficiency across all business units.
+In response, we have refined our strategic focus. BayWa r.e. will focus on project development, combined 
+with an integrated IPP model in selected core markets. This includes shifting from turnkey project sales to 
+selling project rights earlier in the development cycle, enabling faster capital recovery and reducing risks. 
+Selected IPP assets may also be divested, with future expansion planned mid- to long-term.
+This strategic shift involves phasing out non-core activities, notably the Solar Trade segment and parts of 
+Energy Solutions. In terms of organization, project development across EMEA, APAC, and AMER will be more 
+closely aligned with IPP operations to leverage synergies. BayWa r.e. will exit non-strategic markets and 
+streamline operations to reduce overhead costs through standardized processes in the near and mid-term.
+We have also initiated a comprehensive financial restructuring to ensure long-term competitiveness and 
+financial independence from BayWa AG. As of June 30, 2025, a restructuring agreement was signed, 
+extending most credit and guarantee lines through 2028. The focus through this period will be on finalizing 
+our strategic realignment.
+Key operational results
+2024
+2023
+2022
+Revenues (Mn EUR)
+4,144.1 
+5,805.6
+6,480.9
+EBIT (Mn EUR) 
+-750.5 
+192.3
+230.2
+Sustainability Governance Structure
+ 
+ESG (Environmental, Social and Governance) and Sustainability Management are embedded into  
+BayWa r.e.’s core governance systems. In 2024, a dedicated Sustainability Committee within the 
+Supervisory Board had exchanges on sustainability-related issues. The Sustainability Committee  
+consisted of three members who were elected by the Supervisory Board. Two members were  
+nominated by the majority shareholder BayWa EEH GmbH, which is an investment vehicle of  
+BayWa AG, and one member by the minority shareholder EIP Ruby Renewables Invest GmbH. 
+
+8
+The management board, also referred to as Executive Board, is responsible for managing BayWa r.e.  
+It is subject to the applicable law, the Articles of Association, and the Rules of Procedure. All members  
+hold executive powers in accordance with German law. 
+The Executive Board is the management body tasked to:
+•  Control how sustainability Impacts, Risks and Opportunities (IROs) are monitored and managed across
+BayWa r.e. 
+•  Align how the corporate strategy and business model(s) interact with the material sustainability Impacts, 
+Risks, and Opportunities. 
+•  Sign off on annual Sustainability and ESG-related disclosures, eligible green-finance projects and impact 
+mitigation measures with strategic implications on BayWa r.e.’s value chain.
+ 
+The Corporate Sustainability Team operates under the responsibility of the company’s Chief Executive 
+Officer (CEO). As part of BayWa r.e.’s ongoing restructuring process, various sustainability activities were 
+combined under one department (Corporate Sustainability) in the first half year of 2025  
+to improve the company’s overall efficiency and governance. The Corporate Sustainability team is 
+responsible for overseeing the implementation of the defined initiatives and targets. In parallel, the 
+development of BayWa r.e.’s new sustainability strategy, the Sustainability Framework 2030, has  
+prompted a review of the internal steering committee structure to ensure its effectiveness and the 
+appropriate engagement of relevant internal stakeholders across key sustainability topics. 
+
+9
+Our Sustainability Framework 
+BayWa r.e.’s Sustainability Framework 2025 aligns with the United Nations Sustainable Development Goals 
+(SDGs) that are most relevant to its stakeholders and reflect the company’s core values. These SDGs are 
+integrated into actionable sustainability objectives that directly contribute to positively impact our planet, in 
+areas where BayWa r.e. has the greatest influence and capacity for change. Find more detail on our website.       
+These objectives have been defined and progressively implemented within BayWa r.e. over the past years, 
+with ongoing efforts to improve their effectiveness. These include:
+•  Foster sustainability in the supply chain
+•  Promote Diversity, Equity and Inclusion
+•  Increase acceptance of renewable energy
+Within this report, we will display the progress and initiatives we made for each objective in its respective 
+chapter. 
+A comprehensive review of these objectives is planned for the fiscal year 2025, laying the groundwork 
+of our Sustainability Framework 2030. This revision will further refine the commitments and establish 
+specific, measurable targets for the next five-year period, ensuring our continued progress in advancing 
+sustainability. 
+Our ESG Rating Performance: B+
+The ISS ESG Rating is a significant tool for assessing the sustainability performance of companies.  
+It provides internal and external stakeholders with a comprehensive analysis of a company’s ESG practices, 
+as well as the opportunity for both intra-industry and cross-industry comparisons. For this reason, BayWa 
+r.e. has renewed its rating and received again a B+ ISS ESG Rating score in September 2024, leading to a 
+“Prime” classification according to the ISS ESG rating methodology. BayWa r.e. was able to maintain its 
+ISS ESG Rating at the same high level as the previous rating in 2022. Additionally, this rating reflects the 
+company’s efforts to implement and improve sustainable practices across business areas.
+Defining Our Material Sustainability Topics Based on Double Materiality
+In the reporting year 2024, we conducted a double materiality analysis, a central component of the CSRD. 
+Here we considered two dimensions: the impact materiality, analysing actual and potential impacts of  
+the company’s operations on people and the environment, and the financial materiality, focusing on  
+how sustainability issues may pose risks or opportunities that could affect our company’s financial 
+performance. Impact materiality was defined by the Global ESG Working Group (a cross-functional  
+group at the holding level, including representatives from ESG, Finance, Sustainability, Risk, HR, and 
+Compliance) using quantitative and qualitative criteria. Risks and opportunities were evaluated through 
+BayWa r.e’s Enterprise Risk Management process. 
+
+10
+The double materiality assessment includes annual input from stakeholders, internal teams, regulatory 
+updates, and publicly known ESG issues in relevant sectors such as energy, renewables, and battery 
+manufacturing. Our integrated assessment of Impacts, Risks and Opportunities (hereinafter: IRO 
+assessment) conducted in Q3 2024 resulted in 14 material impacts, one material risk, and one material 
+opportunity out of 93 entries, which are summarized below:
+The material impacts, risks, and opportunities reported for 2024 reflect the results of the materiality 
+assessment conducted to inform this sustainability report and determine the applicable disclosure 
+requirements. Moreover, these material topics define our focus areas in our strategic approach under 
+our upcoming Sustainability Framework 2030.
+Climate Change – Impacts (I),  
+Risks (R) and Opportunities (O)
+(+I) Positive Contribution to the energy 
+transition and CO₂ avoidance by deploying 
+and operating renewable energy assets and 
+distributing renewable energy technology 
+to customers through Solar Trade thereby 
+enabling energy independence.
+(-I) Direct and indirect emissions from 
+planned growth RES development, office 
+energy use, transport/logistics, purchase 
+of goods and services, fuel use, company 
+vehicles, and business travel.
+(R) Exposure to acute physical climate risks, 
+such as flooding, storms, and wildfires, that 
+could damage or destroy renewable energy 
+generation assets and negatively impact 
+revenues and business operations.
+(O) Potential for growth in market position 
+and revenue, driven by increasing demand 
+and supporting regulations for the 
+replacement of fossil fuels.
+Biodiversity and ecosystems – Impacts (I) 
+(-I) Possible habitat exploitation leading to potential 
+species loss and biodiversity impacts (e.g., birds)  
+from wind and PV project activities and assets.
+Resource use and circular economy – Impacts (I)
+(-I) Natural resource depletion and underutilized 
+circular economy practices in material use and  
+project development.
+Own workforce – Impacts (I)
+(-I) Issues due to overwork and job insecurity (anxiety, 
+burnout etc.) were identified as possible negative 
+impacts on the mental health of the workforce.
+Workers in the value – Impacts (I)
+(-I) Potential safety risks for construction/maintenance 
+workers due to activities in high-risk exposure areas  
+such as at heights and with high voltages; potential 
+indirect negative impact on forced labor due to reliance  
+on materials from high-risk regions (e.g., solar  
+modules and batteries), where human rights risks in  
+the upstream supply chain cannot be fully excluded.
+
+11
+Stakeholder Management
+ 
+BayWa r.e. acknowledges the pivotal role stakeholders play, both in the operation of a successful business, 
+and in achieving its sustainability ambitions. We aim to engage and improve relations with relevant 
+stakeholder groups which are influential to, affected by and interested in our environmental, social and 
+governance-related performance. Below is a list of BayWa r.e.’s key stakeholders. 
+Shareholders:
+Shareholders have an interest in our financial and ESG performance,  
+as well as our long-term growth and development.  
+Customers/End-users:
+Customers’ choices, needs, and concerns influence/determine our 
+products, offerings, and sustainability commitments (e.g. C&I).
+Suppliers:
+Suppliers determine the price and quality of their delivered products, thus 
+directly impacting our bottom line. For example, landowners' willingness to 
+lease their land to BayWa r.e. is a key driver of project development success. 
+Suppliers must also adhere to various legal requirements in the receiving 
+market, the failure of which could have consequences for the buyer. Effective 
+risk management practices require the evaluation of supply chain risks, 
+including environmental and social risks.
+Financial institutions 
+and asset owners
+Financial institutions, such as banks and insurance companies as well 
+as asset owners, are required to consider the long-term viability of their 
+investments, loans and insurance policies against climate and other 
+sustainability risks.
+Media and other 
+communication 
+channels:
+Media and other communication channels actively inform the public about 
+industry and business developments. Investigative journalism can trigger 
+social action and/or the intervention of local and national authorities. Media 
+thus creates awareness and promotes transparency.
+Academics and 
+researchers:
+Academics and researchers study and analyze companies' sustainability 
+practices and their impact on society and the environment. Their findings 
+can be used to support the development of specific topics within the 
+company.
+Overview of our stakeholders:
+Overview of Our Sustainability Policies, Practices and Initiatives 
+ 
+BayWa r.e.  has measurable targets for climate change in place – see chapter “Climate Transition  
+and Emissions Reduction Targets”       For the other sustainability topics, we have not yet established 
+measurable group-wide targets, although specific initiatives and working groups already exist. 
+The following table provides an overview of the key sustainability topics that are relevant to BayWa r.e.  
+For each topic, we indicate whether it has been assessed as material, the policies we have in place, and  
+any related sustainability practices or initiatives that exist. Chapter references are provided to guide  
+readers to more detailed information within this report. 
+
+12
+Sustainability 
+topics
+Material 
+[Yes/No]
+Policies in place*
+Existing sustainability 
+practices/ initiatives (if any)
+Chapter 
+references
+Climate 
+Change
+Yes
+•  Carbon Compensation 
+and Energy Attribute 
+Certificates Policy 
+•  Travel Policy
+•  Company Car Policy
+Installation of renewable 
+energy projects and sale 
+of  solar PV equipment, 
+individual initiatives within 
+subsidiaries  
+Our Contribution 
+Towards Climate
+Change Mitigation
+Pollution 
+No
+•  HSE Policy
+Health, Safety  
+and Environment
+Water and 
+Marine 
+Resources 
+No
+•  HSE Policy
+Rainwater harvesting in Spain
+Optimizing Water 
+Use Across 
+Operations
+Biodiversity  
+and 
+Ecosystems 
+Yes
+No
+Conservation, restoration, 
+adaptive management and 
+multi-land use strategies at
+project level, research projects
+Biodiversity at  
+our Locations
+Circular 
+Economy 
+Yes
+No
+Revamping and repowering 
+services, internal guidelines, 
+research projects and 
+working groups
+Resource Efficiency, 
+Circular Economy  
+and Waste 
+Management
+Own  
+Workforce 
+Yes
+•  Code of Conduct
+•  HSE Policy 
+Annual employee appraisals, 
+new HR system rollout for
+streamlining data and  
+people-centric processes 
+Empowering  
+our People
+Workers in  
+the Value  
+Chain 
+Yes
+•  Supplier Code 
+of Conduct
+•  HSE Policy
+Social Compliance  
+Management System and 
+Multi-stakeholder Initiatives  
+(e.g. German Energy  
+Industry Dialogue for  
+supply chain due diligence)
+Human Rights in  
+Our Workforce  
+and Supply Chains
+Affected 
+Communities 
+No
+•  Stakeholder 
+Engagement 
+Policy
+Early-stage involvement  
+of communities in project 
+planning, financial 
+participation of  
+affected communities
+Health, Safety  
+and Environment
+Consumers  
+and  
+End Users**
+No
+No
+Not applicable due to  
+the business model**
+Not applicable  
+due to the business 
+model**
+Business 
+Conduct
+No
+•  BayWa r.e. Code of 
+Conduct
+•  Compliance Policy
+Various rules of procedure
+Governance 
+Structures at  
+BayWa r.e.
+*All policies are available for all employees on an internal information platform. For internal company policies the links to the sources have not  
+been provided since these are not available publicly. Where a dedicated policy does not exist, the relevant and applicable topic is covered under  
+an internal overarching policy. 
+**BayWa r.e.’s business models do not cater directly to consumers and end-users. Refer to chapter on “About BayWa r.e.”        for more insights.
+
+13
+Environment
+Our Contribution Towards Climate Change Mitigation
+In 2024, our total energy consumption was 35.5 GWh (2023: 32.1 GWh). Since 2020, BayWa r.e.’s electricity  
+needs have been supplied 100% by renewable energy. We achieved this by having global renewable energy  
+tariffs for our own PV installations in our office locations and warehouses. Where such tariffs were 
+unavailable, we used Energy Attribute Certificates (EACs) to transform the conventional electricity 
+consumption into green electricity sourced from renewables. 
+Our Carbon Footprint
+We record our group’s greenhouse gas (GHG) emission data (including Scope 1, 2 and 3.1, 3.4 and 3.6) 
+annually via a dedicated data collection and reporting tool. The data entry by each legal entity is first 
+evaluated for plausibility both at the subsidiary and corporate level and then consolidated at the group level. 
+All BayWa r.e. subsidiaries adhere to this annual reporting process. Our recording and calculation methods 
+align with BayWa AG’s guidelines and the internationally recognized GHG Protocol Corporate Standard.
+Throughout 2024, we made significant efforts to gain a more comprehensive understanding of our indirect 
+carbon footprint. To improve transparency and identify opportunities to reduce emissions in our up- and 
+downstream processes, we developed a significance assessment of our scope 3 inventory based on 
+contribution to overall emissions, high reduction potential, risk exposure, importance to stakeholders and 
+sector-specific relevance. As a result, scope 3.1 “purchased goods and services” was identified as the 
+most significant to BayWa r.e. due to the high magnitude and largest share in the overall scope 3 inventory. 
+Additionally, scope 3.4 “upstream transportation and distribution” and scope 3.6 “business travel” emissions 
+were also identified as significant for reporting due to the high relevance to internal stakeholders and the 
+associated reputational risks. 
+Energy produced by our IPP assets 
+2024
+2023
+2022
+Renewable energy production (MWh)
+1,442,653 
+1,481,167
+n/a
+Non-renewable production (MWh)
+0
+0
+n/a
+Total
+1,442,653
+1,481,167
+n/a
+Note: Scope of consumption includes offices, warehouses, and IPP assets
+Note: As of 31 December 2024
+Energy consumption 
+2024
+2023
+2022
+Renewable energy consumption (MWh)
+7,296 
+5,175
+4,489
+Non-renewable consumption (MWh)
+28,205 
+26,939
+25,452
+Total
+35,501
+32,114
+29,941
+
+14
+*Scope 3 emissions include 3.1, 3.4, 3.6 sub-categories
+GHG emissions per year
+2024 
+2023
+2022
+Scope 1 (tCO2e)
+5,214
+6,182 
+5,836
+Scope 2 (tCO2e, market-based)
+32
+33
+21
+Scope 3* (tCO2e)
+882,252
+7,069,781
+6,654,370
+Total
+887,498
+7,075,996
+6,660,227
+2024
+Scope 2
+32
+Scope 1
+5,214
+Scope 3
+882,252
+The significant decrease in scope 3 emissions can  
+be attributed to the ongoing restructuring, as well  
+as additional measures such as reduced business 
+travel. Another relevant contributing factor is the 
+improvement of our data quality using primary data 
+for scope 3.1 emissions, which lead to a significant 
+reduction in the absolute emissions and the GHG 
+emission intensity ratio. See the next chapter 
+“Environmental Impact within Our Supply Chain:  
+Scope 3.1” for more details.
+The GHG emission intensity ratio is a key sustainability KPI, which reflects BayWa r.e.’s Corporate Carbon 
+Footprint (CCF) compared to our revenue. Our decreased emissions intensity ratio for 2024 was caused by 
+a significant reduction of our scope 3 emissions and our company’s general business performance in 2024.
+GHG emission intensity ratio
+2024
+2023
+2022
+GHG Emission intensity ratio (tCO2e  / Mn EUR)
+214.2 
+1,218.8 
+1,027.7
+Environmental Impact within Our Supply Chain: Scope 3.1 
+All projects developed by BayWa r.e. under our EPC responsibility and components procured by Solar Trade 
+are included in scope 3.1. A cradle-to-gate approach is applied to all major components, including emissions 
+from the extraction and processing of raw materials (e.g. silicon and steel), electronic parts, construction 
+materials (e.g. concrete), and substructures. Here, cradle to gate refers to assessing the GHG emissions 
+from raw material extraction to transportation, over manufacturing and assembly, to leaving the factory for 
+installation. 
+We calculate emissions caused by our main purchased goods and services using primary data. These include 
+Product Carbon Footprints (PCF) and Environmental Product Declarations (EPD), provided by suppliers across
+our key project components (such as modules, inverters and wind turbines). BayWa r.e.’s Scope 3.1 emissions 
+occur in upstream processing, where there is limited direct influence from our side. However, our engagement 
+with suppliers is ongoing, and several of our key suppliers have already committed to setting measurable and 
+scientific emission reduction targets. 
+
+15
+ 
+ 
+ 
+Note: The above data is for the Solar and Wind Projects, and the Solar Trade segment.
+Emissions from Scope 3.1:
+Purchased goods and services (tCO2e)
+2024 
+Data Sources
+Turbines
+17,093
+Primary data
+Modules
+564,642
+Primary data
+Inverters
+99,757
+Primary data
+Other Components  
+(e.g. batteries, mounting systems)
+189,876
+Secondary data 
+with estimations
+Total
+871,368
+Replacing Diesel Generators with PV Power at Wind Project Altenglan
+During the construction of wind farms, transitional stations can require temporary power before grid  
+connection is established. Traditionally, diesel generators are used which result in avoidable emissions. 
+At the Altenglan wind project, BayWa r.e. addressed this  
+challenge by replacing a conventional diesel generator  
+with a rented mobile PV power generator to supply  
+electricity during the construction phase. The generator  
+is used for heating the station in winter and powering  
+commissioning systems like SCADA, especially when  
+no temporary grid supply is available. It is mainly applied 
+in cases of grid connection delays that affect project  
+timelines. 
+This solution minimizes avoidable carbon emissions  
+during a critical phase of project development and  
+aligns with BayWa r.e.’s commitment to sustainable  
+practices across the entire project lifecycle.
+© Isabel Kersig
+Policies Related to Climate Change Mitigation 
+At BayWa r.e., we have implemented a set of policies and guiding documents that specifically address climate 
+change mitigation and the reduction of our corporate carbon footprint. These instruments underscore our strategic 
+commitment to environmental stewardship and provide a clear framework for action across our operations.
+•  CO2 Compensation Certificates and Energy Attribute Certificates 
+This policy, issued by our parent company BayWa AG, outlines the responsibilities and minimum 
+requirements for purchasing CO2 and Energy Attribute Certificates to ensure effective greening 
+of electricity supply, compensation of emissions and adherence to quality standards.
+Scope: all BayWa r.e. subsidiaries
+
+16
+To underscore the impact of our renewable energy portfolio, we highlight the CO₂ emissions avoided through  
+the operation of our own wind and solar assets within our IPP Portfolio.
+Climate Transition and Emissions Reduction Targets
+As a key enabler of the energy transition, the renewable energy sector — and by extension BayWa r.e.’s business –  
+is inherently aligned with global decarbonization goals. Since our founding, we have continuously added renewable 
+energy capacities. This includes the construction and operation of wind and solar projects as well as the distribution 
+of solar panels to business partners. In 2024, our newly installed capacity reached 464.2 MW in its projects 
+segment, a decrease of 31.6% compared to 2023 as a result of the ongoing restructuring of our business. 
+Additionally, in 2024, the owned and operated renewable energy asset portfolio in operation (IPP) consisted of  
+925 MW (in 2023: 930.4  MW) and the distributed renewable energy capacity by Solar Trade was 3,928 MWp.
+Annual installed renewable energy capacity
+Amount of annual module sales globally (MWp)
+Annual capacity additions of solar and wind projects globally (MW)
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+297
+433
+746
+830
+650
+678
+464
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+546
+927
+1,179
+2,046
+3,490
+3,678
+3,928
+•  Travel Policy
+This policy outlines the business travel guidelines for BayWa r.e., emphasizing the limitation of our 
+transportation carbon footprint by encouraging our employees to set virtual and hybrid meetings and 
+use more sustainable transportation alternatives.
+Scope: German BayWa r.e. entities
+•  Company Car Policy
+This policy underscores the importance of selecting environmentally friendly vehicles by requiring 
+our employees to only order electric cars. This encourages them to prioritize sustainability and 
+demonstrates BayWa r.e. ’s social responsibility through reduced environmental impact.
+Scope: German BayWa r.e. entities
+Note: Annual GHG emissions avoidance by all IPP assets as of December 2024. Calculation based on comparisons  
+with gas fired power plants including the life cycle emissions.
+GHG emission avoidance
+2024
+2023
+2022
+Solar projects (tCO2e)
+220,767
+199,164
+249,295
+Wind projects (tCO2e)
+367,138
+356,186
+161,791
+Total
+587,905
+555,350
+411,086
+
+17
+Copyright ©: Novotegra 2024
+A Model for Sustainable Urban Mobility and Solar Integration
+Urban areas often face the challenge of integrating renewable energy systems into existing infrastructure 
+without compromising land use or aesthetic appeal. To address this, in Stockholm, Sweden, BayWa r.e. 
+transformed a city-center parking garage into a multifunctional solar power hub known as The Beehive. 
+We installed 172 solar modules on a cylindrical parking garage in the Solna municipality, creating a system 
+with a total installed capacity of 72 kWp using Novotegra’s green roof system. The 10-story Beehive 
+accommodates 530 cars, 300-500 bicycle parking spaces and was designed with a strong focus on 
+sustainability, incorporating rooftop greenery and electric vehicle charging to minimize its environmental 
+impact. 
+The Beehive was a finalist for the Urban Environment Award, thanks to its modern design, which 
+successfully combines renewable energy, urban greening, and a low overall climate footprint.
+As of December 2024, no further company-specific targets and climate transition plan are yet in place. In the 
+future, we are planning to develop our own climate strategy, including measurable targets in accordance with 
+the Science Based Targets initiative (SBTi) guidelines. Investments and funding supporting the implementation 
+of this transition plan will be assessed in accordance with the EU Taxonomy criteria for substantial contribution 
+to climate mitigation. 
+As part of BayWa AG’s climate strategy, BayWa r.e. has been committed to reducing our GHG emissions in  
+alignment with the “well below 2°C” ambition of the Paris Agreement. Our main levers for decarbonization  
+have been:
+•  The development and deployment of 20.7 GW renewable energy capacity to the market since 2017.
+•  100% renewable electricity use for our own operations since 2020.
+•  Reduction of operative GHG emissions through initiatives such as the electrification of our leased vehicle fleet.
+
+18
+Physical Climate Risks to BayWa r.e. Assets
+Physical climate-related risks are relevant to BayWa r.e., due to the increased likelihood of climate-related 
+business interruptions and potential increase of annual insurance premiums on infrastructure assets. 
+“We consider climate change impacts through a holistic approach in our  
+project development, financing, and insurance processes. Our risk mitigation 
+measures extend beyond physical risks, aiming for long-term resilience and 
+competitiveness of our projects.”
+Ute Bock,  
+Director of Corporate Insurance
+In 2024, we assessed the exposure of all our operational assets to physical climate risks using multiple 
+climate scenarios, mainly prioritizing the Independent Power Producer (IPP) portfolio. The assessment 
+revealed that 19.4% of BayWa r.e.’s total installed IPP capacity is exposed to acute physical climate risks 
+in the next 5–10 years, with the most affected sites located in South Korea, USA and Australia. All of these 
+high-risk assets are exposed to multiple climate hazards. We identified acute physical risks like flooding, 
+windstorms, and wildfires as the most likely to impact revenue and business continuity in the medium  
+term (up to five years). In contrast, we found that chronic physical risks (e.g. sea level rise) and climate 
+transition risks pose no material risk to our operations in the reporting year.
+As of 2024, BayWa r.e. has not yet undertaken large-scale adaptation measures across all of our sites. 
+However, internal discussions with key stakeholders for the identified high-risk assets have already  
+begun. In the EMEA region, we have issued guidelines focused on mitigating runoff and erosion risks  
+for ground-mounted PV parks, particularly addressing regional challenges such as Mediterranean 
+vegetation, rocky soils, and steep slopes. These guidelines support the planning and implementation 
+of locally adapted revegetation and soil stabilization strategies to recover, maintain, or enhance soil 
+ecosystems.
+Our primary objectives are to 
+•	 prevent solar park malfunction,
+•	 reduce delays in construction,
+•	 enhance climate resilience, and 
+•	 improve social acceptance.
+The guidelines mentioned above are relevant for local entities responsible for implementing 
+revegetation or soil stabilization. However, they are also applicable throughout the project lifecycle – 
+from development and engineering to construction and Operation and Maintenance (O&M).  
+Specific site-based adaptation measures, such as vegetation and soil management to mitigate  
+flood and erosion risks, are already in practice where 
+required. We deliver these guidelines through training 
+and plan to consolidate them into a unified ecological 
+platform in the coming years.
+
+19
+Internal Trainings on Biodiversity and Soil Erosion Risk Mitigation
+In October 2024, BayWa r.e. conducted internal training sessions focused on addressing soil erosion 
+risks in solar parks and the importance of integrating biodiversity in renewable energy projects.  
+Both are increasingly important topics in the context of the energy transition: soil erosion and habitat 
+degradation can lead to malfunctioning of PV systems, increased operational and maintenance costs, 
+and reduced social acceptance. These environmental risks also pose a direct threat to the long-term 
+resilience and sustainability of solar energy infrastructure. 
+The training sessions were designed to build internal expertise on identifying and mitigating these risks, 
+while supporting more ecologically informed project planning and management. It provided relevant 
+teams with a detailed understanding of how soil erosion and runoff affect project performance and 
+introduced effective mitigation and adaptation strategies. Real case studies from existing BayWa r.e. 
+projects were shared to illustrate the best practices and lessons learnt on the field. These efforts help 
+ensure that solar parks remain both environmentally responsible and technically robust throughout  
+their lifecycle.
+Copyright ©: Christian Frumolt 2017
+From 2025 on, we encourage our asset and project managers to demonstrate either ongoing or planned 
+climate adaptation measures, or to provide context where no additional actions are being considered.  
+Going forward, adaptation planning has been identified as a strategic priority in our project development, 
+especially for our IPP assets.
+
+20
+EU Taxonomy performance 2024
+Metric
+Total in Mn EUR
+EU Taxonomy-eligible 
+economic activities in %
+EU Taxonomy-aligned 
+economic activities in %
+OpEx
+19.1 
+ 49.3
+ 49.3
+CapEx
+255.1 
+88.6
+88.6
+Revenue
+4,144.1
+27.4
+27.4
+Activities under the EU Taxonomy
+Taxonomy-aligned
+BayWa r.e. Activities 
+3.1. Manufacture of 
+renewable energy 
+technologies
+Manufacture of assembly systems for photovoltaics
+4.1. Electricity generation 
+using solar photovoltaic 
+technology
+Construction and operation of solar parks and solar systems
+4.3. Electricity generation 
+from wind power
+Construction and operation of wind farms
+7.6. Installation, maintenance 
+and repair of renewable 
+energy technologies
+Operational and technical plant management for solar parks and 
+wind farms (on buildings) 
+Installation of PV systems (on buildings) and installation of solar 
+panels for customers: integrated PV system solutions and storage 
+systems
+Installation of solar thermal systems
+EU Taxonomy Performance
+Under the EU Taxonomy, our core activities qualify as environmentally sustainable. Investments in coal, gas  
+or other fossil fuels are neither ongoing nor planned. Our Solar Trade and Energy Trading activities currently 
+fall outside of the EU Taxonomy classifications, with the exception of novotegra GmbH. This subsidiary falls 
+under activity 3.1., since it manufactures mounting systems for photovoltaics.
+
+21
+Biodiversity at Our Locations
+BayWa r.e. operates across 131 sites globally. These include warehouses, offices and renewable energy 
+projects that we either own or which are planned for construction and sale. Of the 131 sites, 37 (28%) of 
+them are located in or near 83 Biodiversity Sensitive Areas* (hereinafter: BSAs), covering approximately 
+1000 ha of land. Out of the 37 in or near-proximity sites, a total of 11 sites (all renewable energy projects) 
+located near BSAs in Germany, Italy, US, UK and Spain have a potentially high impact on biodiversity 
+and ecosystems in their surroundings (e.g. in the form of land 
+consumption and freshwater use). In the IRO assessment 
+conducted (please refer to “Our Sustainability Framework”      )  
+we identified that material impacts on biodiversity and  
+ecosystems are caused by projects, whereas impacts  
+of offices and warehouses are non-material.
+BayWa r.e.  
+operates across  
+131 sites globally
+ Overview of BayWa r.e. sites near Biodiversity Sensitive Areas:
+Country
+Number of BSAs per country in or near BayWa r.e. sites
+Italy
+2
+Netherlands
+7
+Belgium
+3
+United States
+3
+Germany
+42
+Australia
+2
+Luxembourg
+3
+Poland
+4
+France
+1
+United Kingdom
+1
+Spain
+1
+Croatia
+8
+Switzerland
+6
+Total
+83
+*The BSAs include EU national protected areas, Natura 2000 sites, UNESCO world heritage sites, Ramsar sites and critical habitats and 
+other national/regional protected areas and nature reserves (outside the EU). The assessment was done using location geodata to  
+generate standard polygons based on project capacity, and not the exact project areas and boundaries.
+
+22
+Contributing to Eurelectric’s Guidebook 
+on Nature-Positive Energy Development 
+In early 2024, Eurelectric commissioned a Guidebook 
+on Nature-Positive Energy Development. The goal 
+was to support developers and operators in scaling 
+nature-inclusive practices across the entire lifecycle 
+of renewable energy projects.
+As a key contributor to this initiative, BayWa r.e. 
+provided expertise on integrating biodiversity-
+enhancing measures into renewable projects. 
+Drawing on practical experience from our diverse 
+portfolio, we shared examples of how nature-positive 
+solutions, such as pollinator-friendly ground cover, 
+ecological corridor design, and sheep grazing, can  
+be implemented without compromising economic 
+viability.
+By integrating biodiversity considerations into renewable energy design and management, this 
+collaborative project has informed approaches that support regenerative infrastructure in Europe’s 
+ongoing energy transition.
+Integration of Biodiversity in Our Projects
+ 
+Environmental Impact Assessments (EIA) or equivalent assessments required by environmental legislation 
+and local authorities are conducted at the site level to evaluate the full range of project impacts and to 
+define the site-specific mitigation or adaptation measures needed. Impact mitigation at the project level 
+commonly adheres to the mitigation hierarchy, which guides project developers to ensure the best  
+outcome for biodiversity and limit possible negative impacts on biodiversity from the development. 
+Examples of site-specific measures from our solar and wind projects include preserving wildlife corridors, 
+installing bird nesting boxes and rock shelters, maintaining native vegetation, using sheep grazing for 
+adaptive vegetation management and long-term monitoring. We comply with local regulations but aim 
+to go beyond the minimum regulations to create a positive impact. Implementation timelines vary by site 
+conditions, desired outcome and regulatory context. These efforts not only follow the mitigation hierarchy 
+but also support biodiversity and ecosystem services. In addition, we also participate in industry initiatives 
+on biodiversity best practices (e.g. Eurelectric Guidebook      ) and actively engage in research studies about 
+the impacts on biodiversity       and frameworks such as “Gute Planung”       (German “Good Planning) from 
+the Bundesverband Neue Energiewirtschaft e.V. association.
+Optimizing Water Use Across Operations 
+ 
+Renewable energy technologies, such as PV and wind, do not require water for cooling and therefore have 
+very low water use during their operations. Wind farms require effectively no water for operations, while 
+solar parks can use a relatively small amount in some locations, primarily for cleaning panels. For this 
+reason, water has not been considered a material sustainability matter in the reporting year for BayWa 
+r.e. Still, to improve transparency and create a reliable consumption overview, we started to report water 
+withdrawal information on a legal entity level to be able to identify possible consumption reduction and 
+management measures where possible in the near future.
+
+23
+Additionally, it is necessary to identify sites in water stressed areas to intelligently and sustainably use  
+this limited resource. See an overview of BayWa r.e. sites in water stressed areas below. 
+Water withdrawal for offices, warehouses and IPP assets
+ 
+Water withdrawal in 2024 (m³)
+All sites 
+99,459.13
+Sites in areas with water stress 
+37,543.78
+Breakdown of sites in areas with water stress
+Country
+Number of Locations
+Total Water withdrawal in 2024 (m³)
+Australia
+1
+248.4
+Belgium
+1
+110
+Canada
+2
+491.4
+France
+3
+10,799.68
+Germany
+3
+6,973.8
+Greece
+3
+147.91
+Italy
+3
+11,022.1
+Mexico
+1
+630
+Romania
+1
+17.25
+Spain
+5
+6,856.24
+Sweden
+1
+26.8
+Thailand
+1
+27
+United States
+2
+193.2
+BayWa r.e. is committed to using water resources intelligently and in a sustainable way. Therefore,  
+we have launched pilot initiatives to mitigate water consumption at project sites with particularly 
+high-water stress. Once the findings are substantiated, we plan to integrate them into the operational 
+guidelines for project development within the next years.
+
+24
+Overview of water management initiatives
+Measure
+Expected results  
+and contribution to  
+the achievement of  
+objectives (impact)
+Geography
+Time horizon  
+of the  
+measure
+Expenditure/
+planned  
+funds in EUR
+Remedial 
+measures 
+hierarchy
+Rain 
+harvesting on 
+PV modules 
+in Spain
+282m3 annual water 
+demand fully  
+covered by the water 
+collection on site
+Southern 
+Europe
+Start 2023; 
+ongoing
+Approx. 70 
+thousand euros 
+capital costs of 
+construction
+Reducing the 
+use of water 
+resources
+BayWa AG 
+Group-wide 
+working 
+group
+Identifying synergies 
+in the group in 
+the area of water 
+and group-wide 
+marketing of 
+products and 
+solutions with a 
+positive impact on 
+water resources
+Global
+Start 2023; 
+workshops 
+held in 2024, 
+ongoing
+No expenses
+Reducing the 
+use of water 
+resources
+WWF Risk 
+Filter
+Identifying basin and 
+operational water 
+risks
+in BayWa r.e. site 
+locations
+Global
+2024
+No expenses
+Reducing the 
+use of water 
+resources, 
+adapting to 
+potential 
+water-related 
+risks
+The solar park in Spain (area of extreme water stress) features an innovative system that enables solar 
+modules to collect and channel rainwater for modules cleaning purposes. This approach not only reduces 
+water consumption in this arid region but also improves public acceptance of the project. As of April 2024, 
+the solar park’s water storage tank has reached its full capacity of 385 m³ and since then has been used on  
+a regular basis.
+Water Management Initiatives
+ 
+The scarcity of water resources has become an increasingly pertinent issue, particularly considering climate 
+change forecasts predicting increased severity and duration of water shortages in the coming years. 
+Therefore, BayWa r.e. has initiated a project in Spain that integrates energy production with rainwater 
+harvesting and participates in a BayWa AG group-wide working group for positive impact on  
+water resources. An overview of these measures is shown in the following table. 
+
+25
+Resource Efficiency, Circular Economy and Waste Management
+ 
+BayWa r.e. is committed to using natural resources efficiently and sustainably, in line with circular economy
+principles and working in close collaboration with suppliers, subcontractors, and other business partners. 
+While there is no group-wide guideline for the management of material opportunities and risks in connection
+with resource utilization and circular economy, several of our legal entities and local experts implement 
+initiatives to maximize the use of materials and reduce unnecessary waste in adherence to the principles  
+of circular economy. As of 2024, a dedicated policy on the use of virgin resources and specific expectations 
+for sustainable procurement is under consideration as part of BayWa r.e.’s evolving sustainability strategy.
+Our Measures in 2024
+ 
+In 2024, BayWa r.e. implemented several measures to advance resource efficiency and circular economy 
+practices. A group-wide internal checklist was developed to integrate circularity and other sustainability 
+criteria into the planning of wind and solar projects. We evaluated existing and potential initiatives related 
+to recyclability, with a particular focus on rotor blades and the use of SF6-free switchgears. Given our role 
+as a service provider, the application of circular economy principles is primarily reflected in the sustainable 
+procurement of key components. Additionally, to educate and include all employees, we organized an 
+internal lecture with the title “Circularity as a Product Strategy”, held by an expert of the wind industry to 
+give insights on ongoing circularity practices in the industry.
+To improve transparency, BayWa r.e. conducted external research and internal surveys estimating the 
+weight of materials used per installed megawatt, the volume and disposal method of waste generated per 
+revamped megawatt, and the amount of recycled material incorporated during revamping activities. We 
+continued promoting revamping and repowering services to enable more efficient use of land and grid 
+infrastructure at wind and solar sites. Packaging guidelines for solar panel wholesale were updated to 
+reduce plastic usage, increase the share of recycled paper, and minimize overall packaging volume. We 
+also provide disposal instructions to customers.
+BayWa r.e. actively contributed to circular economy research projects funded by the European Commission 
+and coordinated related tasks in the PV sector. In parallel, we participated in the sustainability working 
+groups of the European wind and solar associations and engaged in public consultations on legislative 
+revisions and the development of industry guidelines.
+
+26
+Contributing to Best Practices Guidelines in Solar PV End-of-Life Management 
+Integrating circular principles and sustainable end-of-life management in the Solar PV sector is key 
+for responsible management. Therefore, BayWa r.e. contributed to the development of End-of-Life 
+Best Practices Guidelines led by Solar Power Europe. It focuses on the transition from operations 
+to decommissioning and offers insights drawn from our experiences in asset management and 
+operations. 
+This collaborative effort brought together over 30 leading solar experts from more than 15 
+organizations across the PV value chain. Their combined expertise resulted in a comprehensive  
+set of best practices for sustainable decommissioning and replacement of PV system components. 
+Proper end-of-life management not only mitigates environmental harm and waste but also helps 
+recover valuable raw materials, reduces the need for virgin resources, and supports regulatory 
+compliance. 
+© Guillermo Oviedo Hernandez 2023
+
+27
+Weight of decommissioned components generated in revamping/repowering PV projects
+(by disposal method)
+Components 
+(in tonnes)
+Recycling 
+Second life
+Donated
+Other disposal 
+method
+PV modules
+1,220.12
+0.00
+0.00
+0.00
+Inverter 
+8.80
+7.70
+0.00
+0.75
+Mounting 
+structure
+7.60
+0.00
+0.00
+0.00
+Cables 
+0.00
+0.00
+0.00
+0.00
+Total 
+1,236.52
+7.70
+0.00
+0.75
+Waste Management
+ 
+In terms of business activities within BayWa r.e. and our impact on resource outflow and waste generation,  
+the most relevant ones are the following:
+•  Developed and owned projects (Projects and IPP segments): directly responsible for the materials
+purchased and the waste generated. Because IPP plants are all in early lifetime stages, none of them 
+have reached the end of their useful life nor have they undergone a revamping/repowering project. 
+Therefore, no large volume of own decommissioned components has been generated to date.
+•  Asset management activities (Operations segment): contribute to value retention of solar and wind 
+sites through the revamping and repowering services (expand use of land and grid connection) as well as 
+the expansion of lifetime through operation and maintenance services. Repowering and revamping of 
+existing wind or solar PV assets can generate waste. As a service provider, BayWa r.e. often initiates the 
+process of dismantling and disposal of the components on behalf of the plant owners, providing mainly 
+legal/administrative support and logistics.
+Donations for Ukrainian Schools and Kindergartens: 
+In 2024, we continued our partnership with the Ukrainian Charitable  
+Foundation ‘Energy of Nature’, by donating Solar PV components such as 
+inverters, to support the installation of several PV systems on schools and 
+kindergartens in the Kharkiv, Sumy and Chernihiv region.
+Note: Estimations are based on revamping/repowering projects managed by BayWa r.e. and its subcontractors in EMEA countries.  
+Second-life: inverters reused by the clients in France; Other Disposal Method: inverters repaired by German companies
+
+28
+Waste generation
+Type of waste (in tonnes)
+Waste diverted 
+to recycle or reuse 
+Waste directed to disposal 
+Non-hazardous waste 
+742.8
+1,179.2
+Hazardous waste   
+30.4
+4.5
+Total waste generated
+773.2
+1,183.7
+In 2024, the amount of generated waste was tracked across all of our entities in scope, including offices, 
+warehouses, IPP, and projects under construction. We classified waste into two primary streams: waste 
+diverted into recycling or reuse and waste directed to disposal. The first category includes materials that  
+were recycled or reused, reflecting our commitment to circular economy principles and resource efficiency.  
+This stream primarily consisted of paper, packaging materials, metals, and certain construction by-products 
+that were either repurposed on-site or sent to certified recycling facilities. The second category, waste 
+directed to disposal, comprised non-recyclable materials such as mixed construction debris, contaminated 
+packaging, and general office waste, which were sent to landfill or incineration in compliance with local 
+regulations. Our ongoing efforts aim to reduce the proportion of waste directed to disposal through  
+improved segregation, staff training, and collaboration with sustainable waste management partners.
+
+29
+Social
+At BayWa r.e., we strive to create 
+a fair, safe, healthy and inclusive 
+environment for all employees.  
+Through our work environment 
+and culture, we foster continual 
+professional development, 
+innovation and collaboration.  
+In the following chapter, we 
+take a closer look at BayWa r.e.’s 
+workforce characteristics.
+Our People at a Glance 
+ 
+As of 31 December 2024, 
+BayWa r.e. employed 4,750 
+employees, a 10.36% decrease 
+compared to the previous year
+(2023: 5,299). Since the 
+beginning of 2024, we have
+been undergoing a restructuring 
+process, with noticeable effects 
+across our company. During 
+the reporting period, the total 
+headcount of exits reached 
+1,778, which accounts for a 
+respective turnover rate of
+21.5%. This figure has increased 
+significantly compared to 15.7% 
+in 2023.
+Across BayWa r.e., the proportion of female employees was 34.7% in 2024 (2023: 33.7%). Since 2022,  
+we have been tracking the amount of gender-diverse colleagues*. Ten employees have reported as  
+gender diverse in 2024 (2023: nine). The age distribution of our active employees shows a relatively  
+young workforce: in 2024, 62.7% of them were between 30 and 50 years old. 
+We promote the inclusion and career development of many future talents. As of 31 December 2024, 
+we employed 223 apprentices, trainees, dual-system students, interns and working students (as of 31 
+December 2023: 276).
+We offer employees who are caretakers flexible worktime (including part time), workplace flexibility (where 
+possible), paid maternity and paternity leave, as well as other allowances. Currently, 10% of our workforce 
+make use of part-time work arrangements. As of 31 December 2024, 49 employees were on parental leave 
+(2023: 39).
+The following tables give additional information of BayWa r.e.’s total number of employees in the reporting 
+period, broken down by gender, age, country and employment type:
+
+30
+Employees by age 
+Age
+2024*
+Age
+2023
+2022
+Up to 30 years
+1,115
+up to 25 years
+485
+463
+30 to 50 years
+2,977 
+26 to 54 years
+4,327
+3,523
+50+ years
+658
+55+ years
+398
+337
+Total
+4,750
+5,210
+4,323
+Note: Figures for 2022 and 2023 include active employees only. 
+*Due to the change of the global HR system in 2024, age structure data cannot be compared with historical data.
+* Different gender orientations refer to employees who do not identify as male or female. 
+Note: Figures include non-active employees and employees on leave (incl. parental leave) as of 31 December 2024, while BayWa r.e.’s  
+financial report discloses the average headcount based on the German Commercial Code definitions (HGB). 
+Workforce by gender
+Gender (Headcount)
+2024
+2023
+2022
+Male
+3,094 
+3,504 
+2,952
+Female
+1,646 
+1,786
+1,452
+Other
+10
+9 
+6
+Not reported
+n/a
+n/a
+n/a
+Total
+ 4,750
+5,299
+4,410
+Number of employees by employment contract
+Type of contract (Headcount)
+2024
+2023
+2022
+Temporary contract 
+295 
+243
+216
+Permanent contract 
+4,455
+4,967
+4,107
+Total
+4,750
+5,210
+4,323
+
+31
+Women in leadership positions 
+Leadership level* (Headcount)
+2024
+2023
+2022
+1st management level
+21 
+16
+13
+2nd management level
+105
+88
+64
+Total
+126
+104
+77
+Empowering Our People
+ 
+BayWa r.e. monitors gender distribution at top management level. In 2024, women accounted for 28% of the  
+first and second level of management (1st management level 19% and 2nd management level 31%) positions 
+across the Group.
+Remuneration, Collective Bargaining and Training
+ 
+Employees are free to organize in workers’ unions, set up works councils and have the right to the information, 
+consultation, and participation on working condition related matters. The global percentage of employees 
+covered by collective bargaining agreements in 2024 was 13.2 %.
+The average number of training hours per employee in 2024 was 14.1 hours (Male: 14.2 Female: 13.9  
+Diverse: 5.1). In 2024, we conducted 4,367 annual employee appraisals (Male: 2,901 Female: 1,461 Diverse: 5). 
+*Employees in active or inactive and dependent employment at the first and second management level.
+Number of annual employee appraisals
+2024
+2023
+2022
+Male
+2,901
+2,663
+2,165
+Female
+1,461 
+1,345
+1,003
+Diverse
+5
+8
+4
+Total Employees
+4,367
+4,016
+3,172
+
+32
+Staying Committed to People in Times of Change
+ 
+In 2023, we made strong commitments to Diversity, Equity & Inclusion (DEI), wellbeing, and employee 
+engagement. While 2024 brought significant transformation – including restructuring and a sharpened 
+focus on operational efficiency – we remained committed to our people. The global rollout of our new HR 
+system, Workday, marked a major milestone, streamlining data and people-centric processes and laying the 
+foundation for more consistent people practices across our company.
+Despite the need to reprioritize some initiatives, we continued to foster personal and professional growth, 
+diversity, inclusion and wellbeing. We proudly joined the Munich Pride Parade with a colorful team, hosted 
+a global keynote on inclusion, and published over 70 internal articles on people-related topics, including 
+the widely read “Talent Times” series from our people development team. Physical and mental wellbeing 
+remained a priority: we relaunched the Movement Challenge, started offering Lyra counselling services (an 
+employee assistance program) in participating German entities, and launched our Mental Health First Aid 
+network in EMEA and Asia.
+These efforts reflect our belief that even in challenging times, people must remain at the heart of our 
+transformation. By focusing on what matters most, we aim to build a resilient, inclusive culture that supports 
+our employees through change and beyond.
+Supporting Our People’s Wellbeing
+At BayWa r.e., we care about our people’s wellbeing. Therefore, we provide employees with access to  
+Lyra Wellbeing, a comprehensive and inclusive Employee Assistance Program designed to support 
+mental health and resilience in today’s fast-paced work environment. The program offers a wide  
+range of services that promote emotional balance while easing everyday challenges.
+Eligible employees from dedicated German entities have access to 24/7 counseling by phone and 
+up to eight on-site or online psychotherapy sessions via the Lyra counseling network. They can also 
+receive advice on a broad range of personal matters through a dedicated support line and live chat 
+available throughout the week.
+By ensuring multilingual, accessible, and low-barrier counseling, Lyra Wellbeing strengthens 
+employee resilience and reflects BayWa r.e.’s commitment to fostering a supportive workplace  
+and practicing responsible corporate citizenship.
+©Jonas Nefzger 2022 
+
+33
+Health, Safety and Environment 
+ 
+Health, Safety and Environment (HSE) are part of BayWa r.e.’s core values. They make an essential 
+contribution to sustainable development and long-term corporate success. Therefore, we regard the 
+respective legislation and supporting directives as minimum requirements, supplemented by internal 
+guidelines. Our goal is to systematically and continuously improve Health, Safety and Environment protection.
+Since 2024, an updated HSE-policy is in place that points out the guiding objectives for HSE to support the 
+overall goal that every employee will recognize the importance of HSE at work, resulting in a supportive 
+culture and achieving the goal of healthy employees working in a safe environment for all employees working 
+at BayWa r.e. 
+Safe Working Environment
+ 
+BayWa r.e. wants everyone who interacts at every level within our company to be mentally and physically 
+healthy. This is paramount to the management and fundamental to the company’s values. We also expect 
+these stakeholders to take responsibility for their safety and those around them using their knowledge, skills 
+and training to do this. We achieve this through clear instructions on the sites, at the premises, and clearly 
+defined responsibilities. Employees operating company vehicles receive regular training and updates to
+ensure compliance and safety. 
+BayWa r.e. plans, controls, maintains, and checks that equipment, plant, and facilities are safe and that 
+potential hazards are mitigated as much as possible for employees and contractors. New tools, equipment 
+and processes are introduced only after assessing the risks to health, safety, environment and quality.  
+We will achieve this through effective risk assessments and proactive procurement policies.
+BayWa r.e. uses continuously reviewed procedures to achieve high HSE management standards in all aspects 
+of our business. Our HSE Manual is the virtual platform for managing the HSE arrangements, developing 
+targets and operational controls and meeting business objectives, verified through periodic monitoring and 
+audits. Clear communication is pivotal in promoting the HSE objectives set out in this policy. We will achieve 
+this through regular meetings, peer reviews, and bulletins with the entire HSE community.
+“Strong HSE practices are not just about compliance – they ensure  
+our teams can operate safely, projects run reliably, and we deliver  
+sustainable growth for our business."  
+Marko Ladehoff, 
+Head of Global HSE
+
+34
+*In order to publish comparable and transparent data, we use the common calculation method as in previous reporting years, which 
+differs from the calculation method suggested in the VSME framework.
+Management Systems 
+ 
+BayWa r.e. is regularly reviewing our high-performance standards, ensuring that we comply with all industry 
+regulations. Our goal is to eliminate hazards, reduce HSE risks, investigate where required and follow best 
+practice procedures. Our management will drive an ongoing programme of continuous improvement, 
+measured through KPIs put in place for all elements of HSE to improve performance. We rely on recognized 
+certification systems to ensure sound environmental management and health and safety practices. Due to 
+our broad spectrum of business activities, these certification systems are not universally applied but rather 
+in those subsidiaries where they provide the greatest benefit. As of December 2024, nine of our entities are 
+certified according to ISO 14001:2015 environmental management system, and seven are certified according 
+to ISO 45001:2015 health and safety management system. The entities are expected to update these 
+certifications in the next twelve months. 
+In 2024, there was one commercial and five industrial accidents. No fatalities occurred among employees or 
+contractors working on BayWa r.e. sites related to work-related injuries and work-related ill health. The Lost 
+Time Injury Rate (LTIR) in the reporting period was 0.69, which represents a deviation of 1.22 compared to 
+2023, where the LTIR was 1.91.
+The LTIR represents the respective number of cases divided by the number of total hours worked by people  
+in BayWa r.e.’s own workforce multiplied by 1,000,000.* 
+Lost Time Injury Rate
+2024
+2023
+2022
+LTIR
+0.69 
+1.91
+1.62
+HSE metrics for 2024
+Employees
+Non-employees
+People covered by certified  
+HSE management system (%)
+20 
+15
+Fatalities as a result of work-related injuries  
+and work-related ill health (Number)
+0
+0
+Recordable work-related accidents  
+(Number) and (%)
+5
+0.12
+1
+0.04
+Cases of recordable work-related ill health 
+(Number)
+1
+2
+Days lost to work-related injuries and fatalities 
+from work-related accidents, work-related ill 
+health and fatalities from ill health (Number)
+15
+4
+
+35
+Community Engagement In Our Project Business 
+ 
+BayWa r.e. actively engages with affected communities and their representatives when planning and 
+developing projects. We strive to ensure local support and acceptance throughout the entire planning, 
+construction, commissioning and the operational phases. During our project developing phases and for 
+our own operational assets, the engagement with local communities and stakeholders is handled by our 
+local legal entity at country level according to the individual local requirements and standards. 
+“For the successful development of our renewable energy projects,  
+we are committed to creating positive impacts for the local community  
+through our participation and engagement initiatives. Renewable energies,  
+both wind and solar, are not only mitigating climate change but also truly  
+an engine for rural development.“ 
+Daniel Gäfke,
+COO, BayWa r.e.
+©Le photographe ambulant 
+
+36
+Keranna Wind Farm
+At BayWa r.e., it is important for us to create meaningful benefits for local communities.  
+This commitment guided the development and construction of the Keranna Wind Farm in  
+Brittany, France, where we have introduced a range of initiatives to strengthen ties with  
+residents and build long-term public support. 
+Households in the neighboring municipalities of Saint-Étienne-du-Gué-de-l’Isle and Plumieux  
+are offered access to 100% locally produced renewable electricity at a preferential rate, enabling 
+eligible families to save up to €360 annually on their energy bills over a five-year period.
+In parallel, our partnership with Loudéac Communauté has resulted in significant environmental 
+investment. To enhance biodiversity and enrich the surrounding landscape, we committed to  
+planting 1,500 meters of hedgerows, ten times more than the amount established during the 
+construction phase. We have also provided support of public works for the energy renovation of 
+municipal buildings (totaling €100,000; currently in progress).
+Following development and construction by BayWa r.e., the Keranna Wind Farm has been  
+sold to 3D Energies, a semi-public company dedicated to advancing the local energy transition.  
+The partnership ensures a strong element of public ownership, while BayWa r.e. will continue to 
+provide technical management and long-term operational support. This model combines community-
+centered ownership with BayWa r.e.’s expertise, ensuring reliable performance and lasting benefits.
+By sharing economic value with residents, supporting public ownership, and actively improving local 
+ecosystems, the Keranna Wind Farm demonstrates how renewable energy projects can empower 
+communities, foster biodiversity, and deliver long-term social and environmental sustainability.
+©BayWa r.e. France SAS 2025 
+
+37
+Human Rights in Our Workforce and Supply Chains
+ 
+The established Social Compliance Department at BayWa r.e. has implemented the various requirements of 
+the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz – LkSG) and the upcoming 
+additional requirements at European level. This department continuously implements legal requirements 
+with regards to human and environmental rights in our business operations and supply chains. As part of this, 
+we have a corresponding Social Compliance Management System (SCMS) in place which is in continuous 
+development. The SCMS is based on the five elements of human rights due diligence in accordance with the 
+UN Guiding Principles on Business and Human Rights and the requirements of the German government’s 
+National Action Plan on Human Rights. It is intended to ensure compliance with  
+human and environmental rights with suppliers and in our business operations. 
+The SCMS comprises of the following five elements: 
+•  Risk analysis: identification, assessment and prioritization 
+of human rights and environmental risks using specific 
+third-party data intelligence software.
+•  Prevention: measures to minimize and 
+prevent risks in our business units, direct 
+supply chains and in case of substantiated 
+knowledge in indirect supply chains, e.g. 
+appropriate procurement strategies, 
+internal training and supplier audits.
+•  Complaint procedures: access for
+third parties, suppliers and employees 
+to the BayWa r.e. Whistleblower System 
+and its complaint procedure. Reports received 
+by internal and external stakeholders via the 
+dedicated whistleblower mechanism are 
+evaluated by our Corporate Compliance team. 
+In case of substantiated material impacts 
+(actual or potential), a dedicated Social 
+Compliance Manager in alignment with the
+business functions engages with the relevant 
+supplier, to obtain more information on the
+matter and discuss potential mitigation 
+measures when appropriate.  
+•  Remedial action: taking appropriate remedial action after a (potential) violation is identified to prevent, 
+stop or minimize violation, e.g. engagement in industry initiatives. The designated Human Rights Officer, 
+oversees the overall engagement efforts to address human rights impacts and their effectiveness. 
+•  Documentation and reporting: public annual reporting (according to the applicable regulations and 
+requirements) on identified human rights and environmental risks, actions taken, and evaluation of their 
+effectiveness. 
+In Q3 2025, BayWa r.e. published its Human Rights Policy, which comprises of our public commitment to 
+human rights and the description of our Social Compliance Management System. The Human Rights Policy 
+can be found on our website here.
+
+38
+As part of the SCMS, BayWa r.e. provides a whistleblower channel available to everyone and where 
+employees and workers in the value chain can anonymously report concerns or needs directly to us. 
+(For more details on the whistleblower channel, please refer to below chapter “Good Governance  
+Practices and Business Conduct”      ). 
+BayWa r.e. did not face any severe human rights incident in 2024. The IRO assessment (see chapter ”Our 
+Sustainability Framework”      ) highlighted significant potential negative impacts on value chain workers due 
+to the opacity of certain supply chains. Notably, the Xinjiang region of northwest China has faced international 
+scrutiny for allegations of forced labor involving the Uyghur ethnic group. Reports indicate a high probability 
+of forced labor linked to the production of multiple goods and services across different industries, including 
+polysilicon production for the solar industry. In response to these identified impacts, BayWa r.e. continuously 
+collaborates with industry peers since 2021 to mitigate the effects on affected individuals.
+Our Focus in 2024
+In 2024 especially, our risk analysis and prevention measures were further expanded and continued.  
+The focus was mainly on the following topics.
+•  We further refined and integrated standardized processes for conducting risk analyses across relevant
+operational areas.
+•  The scope of both abstract and concrete risk analyses for key suppliers was expanded. This included the
+dissemination of Due Diligence Questionnaires addressing Human Rights and Sustainability topics to all 
+identified key suppliers.
+•  We maintained and strengthened an ongoing dialogue with key suppliers to foster transparency and
+collaboration.
+•  Information obtained through these measures continues to be systematically evaluated on an ongoing 
+basis to inform risk assessment and decision-making processes.
+Our Social Compliance Multi-Stakeholder Initiatives
+BayWa r.e. continued its participation in the German Industry Dialogue (Branchendialog Energiewirtschaft) 
+and the Solar Stewardship Initiative (SSI), which are multi-stakeholder platforms addressing social and 
+environmental issues in the energy industry. 
+The Branchendialog Energiewirtschaft        brings together companies, associations, unions, civil society 
+organizations, the German Institute for Human Rights and the Federal Ministry of Labor and Social Affairs 
+(BMAS) to better understand and address human rights related risks in the German energy industry and 
+global supply chains. The Branchendialog focuses on future-oriented business areas crucial for Germany’s 
+energy transition. In 2024 the Branchendialog Energiewirtschaft started working in two working groups 
+with the topics of “Minimizing the negative impact of bauxite mining in Guinea” and “Risk prevention in the 
+construction and operation of large power generation and distribution plants”. 
+
+39
+Good Governance Practices and Business Conduct
+In 2022, BayWa r.e. published its own Code of Conduct. It applies to all our employees, Managing Directors 
+and Executive Board members and is aligned with internationally recognized instruments. These include the 
+UN Guiding Principles on Business and Human Rights, the ILO Declaration on Fundamental Principles and 
+Rights at Work and the OECD Guidelines for Multinational Enterprises. Our Code of Conduct promotes equal 
+opportunities for everyone and prohibits any form of discrimination based on racial and ethnic origin, color, sex, 
+sexual orientation, gender identity, disability, age, religion, political opinion, national extraction or social origin.
+Prevention and Detection of Corruption and Bribery
+BayWa r.e.’s Compliance Policy sets out the responsibilities and the minimum requirements in the areas of 
+antitrust law, anti-corruption, money laundering prevention and conflicts of interest. This includes regulations  
+on offering and accepting gifts and hospitality, engaging intermediaries, brokers, and similar business partners. 
+These principles are embedded in a comprehensive framework of internal policies, written guidelines, and 
+practical recommendations to ensure integrity and transparency in day-to-day business. Through this  
+structured set of documents, employees are supported in making compliant and ethically sound decisions.
+To help prevent and detect corruption and bribery, all employees are required to report any alleged case of 
+corruption, bribery or fraudulent activity to Corporate Compliance.
+BayWa r.e. has dedicated internal platforms where employees can learn more about these topics. 
+We also offer online and in-person training, covering antitrust law, anti-corruption, money laundering 
+prevention, conflict of interests and data protection. 
+Online training is mandatory for every BayWa r.e. employee. In-person training is provided to the first 
+management level and the second management level, as well as department heads in procurement and  
+sales as an addition to the online training. Online training must be completed by the relevant employees 
+every two years, while in-person training is mandatory every three years. In 2024, 1,582 employees 
+(2023:1,476) participated in online compliance trainings and 14 employees (2023:413) took part in 
+in-person compliance trainings*.
+Governance
+The SSI        is developing several standards, including an ESG Standard piloted in 2023 along the solar supply 
+chain and a Supply Chain Traceability Standard to evaluate the due diligence performance of its members and 
+their supply chains. SSI members from manufacturing sites must commit to completing an ESG assessment 
+of two sites within 12 months by an SSI-approved assurance body. As of July 2025, the SSI comprises of 16 
+manufacturing, 35 buying and three association members.
+*In the Sustainability Update 2023, the number of online trainings was reported incorrectly. For 2023, 1,476 trainings were conducted, 
+instead of the 1,486 reported.
+
+40
+Whistleblowing 
+Concerns, complaints or suspicions about unlawful behavior or behavior in contradiction of BayWa r.e.’s Code 
+of Conduct and/or Compliance Policy can be raised to Corporate Compliance in person, by phone, via email 
+or post.  In 2021, we also established a whistleblower system that also allows anonymous reporting. These 
+channels are available for both internal and external stakeholders. Reports received are treated in strict 
+confidence and in accordance with the applicable minimum standard for the protection of whistleblowers. 
+Regardless of whether the suspicion is substantiated, the whistleblower will not be subject to negative 
+repercussions. Retaliation or discrimination are not tolerated.
+Through the software CompCor (Whistleblower Channel Software), the issue is initially received by a “person 
+handling the case”. This position is performed by BayWa r.e. AG Corporate Compliance and Corporate HR.  
+The case manager will first assess whether it is a request seeking advice which can be answered immediately 
+and will send a corresponding response via the communication channel selected. In an individual case, it  
+might be necessary for the case manager to ask further questions in order to correctly understand and  
+respond to the request and to establish whether it is about possible misconduct  or potential for improvement 
+that requires further assessment. The case manager will initiate further appropriate measures in accordance 
+with the relevant procedures at BayWa r.e.
+Reports received by internal and external stakeholders via the dedicated whistleblower mechanism are 
+evaluated by the Corporate Compliance and Corporate HR Departments and investigated in close cooperation 
+with the BayWa AG Corporate Audit team, if necessary. Alleged incidents on corruption and bribery are then 
+investigated promptly, independently, and objectively.
+Two incidents of discrimination were reported via the whistleblower channel in the reporting year. Both cases 
+were closed after an internal investigation and were no longer subject to measures as of 31st December 2024. 
+None led the company to pay fines, penalties, and compensation for damages in 2024.
+No severe human rights incidents connected to the undertaking’s workforce in the reporting period were 
+reported and therefore no fines, penalties or compensation for damages occurred. Most of the reported 
+complaints unrelated to discrimination were unlawful dismissal cases as a first result of the ongoing 
+restructuring measures as part of the company’s ongoing transformation process.
+Incidents of corruption and bribery
+2024
+2023
+Number and nature of confirmed incidents of corruption or bribery
+0 
+0 
+Number of confirmed incidents in which own workers were dismissed or 
+disciplined for corruption or bribery-related incidents
+0 
+0
+Number of convictions for violation of anti-corruption and anti-bribery laws
+0
+0
+Monetary amount of fines for violation of anti-corruption and anti- bribery laws
+0
+0
+
+41
+Governance Structures at BayWa r.e. 
+BayWa r.e.’s Supervisory Board oversees and advises the Management Board in its leadership of the company 
+and regularly discusses the company's performance, planning, strategy and risks with the Management Board. 
+The Supervisory Board appoints the members of the Management Board and approves the group’s financial 
+statements. It also approves specific decisions as outlined in the designated Rules of Procedure, including 
+transactions above a certain value. Until end of December 2024, the Supervisory Board consisted of eight 
+members, 12.5% of whom were women.
+The Supervisory Board is not subject to employee co-determination, as the employee thresholds of 
+the One-Third Participation Act (Drittelbeteiligungsgesetz – DrittelG) and the Co-determination Act 
+(Mitbestimmungsgesetz – MitbestG) are not exceeded. Furthermore, in accordance with the definition  
+of the German Corporate Governance Code, the Supervisory Board consists of two independent members  
+(Dr. Suzanne Thoma and Ruedi Noser).
+The Supervisory Board members who are members of the Sustainability Committee (Nachhaltigkeits-
+ausschuss) have specific expertise in renewable energy, technology innovation and natural resource 
+management.
+In 2024, within the Supervisory Board, four committees were in place to address specific matters: Audit and 
+Investment Committee, Remuneration and Nomination Committee, Strategy Committee and Sustainability 
+Committee.
+Composition of administrative, management and supervisory body
+Supervisory Board
+7 males (87.5%) 
+1 female (12.5%) 
+Independent members
+2 
+Representatives of employees and other workers
+None
+Note: Supervisory Board composition as of 31st December 2024.
+BayWa r.e. is not active in any of the mentioned sectors below and therefore no revenues are derived from:
+•  controversial weapons
+•  cultivation and production of tobacco
+•  fossil fuel
+•  chemicals production
+BayWa r.e. is not excluded from any EU reference benchmarks that are aligned with the Paris Agreement as  
+described in paragraph 241 of the guidance of the VSME, as it does not derive any revenues from exploration,  
+mining, extraction, distribution or refining of hard coal and lignite.
+
+42
+Appendix
+ESG Performance Indicators at a Glance
+2024
+2023
+2022
+Performance indicator
+Revenue (Mn EUR)
+4,144.1
+5,805.6
+6,480.9
+EBIT (Mn EUR)
+-750.5
+192.3
+230.2
+IPP Assets (GW)
+0.9
+0.9*
+0.8
+Environment
+Newly installed capacity of solar and 
+wind assets (MW)
+464
+678
+650
+Annual solar module sales globally 
+(MWp)
+ 3,928
+3,678
+3,490
+Energy Consumption (MWh)
+35,501
+32,114
+29,941
+GHG emissions (Scope 1, 2 and 3.1, 3.4 
+and 3.6) (tCO2e)
+887,498 
+7,075,996
+6,660,227
+GHG emission intensity ratio  
+(tCO2e /Mn EUR)
+ 214.2
+1,218.8
+1,027.7
+GHG emissions avoidance from IPP 
+assets (tCO2e)
+587,905
+555,350
+411,086
+Social
+Number of employees (Headcount)
+4,750
+5,299
+4,410
+Women in management positions in 
+HC (%)
+126 (28%)
+104 (n/a)
+77 (23%)
+Number of occupational accidents**:
+Own workforce
+5
+9
+10
+Contractors
+1
+5
+7
+Lost time injury rate (LTIR)
+0.69
+1.91
+1.62
+Governance
+Participants in compliance training 
+courses
+1,582
+1,476
+n/a
+Incidences of corruption and bribery
+0
+0
+n/a
+*Disclosure date of 2023 Report was ahead of IPP year closing date, therefore updated figure for 2023. 
+**Historical data on the number of occupational accidents, disclosed in previous Sustainability Reports  
+were incorrect due to an error in the  calculation method. The corrected figures are displayed in the table above.  
+
+43
+Standard Reporting Index
+Name of Chapter
+VSME
+ESRS
+GRI Reference
+About BayWa r.e.
+B1, C1
+BP-1
+SBM-1
+GOV-1
+GRI 2: 2-1, 2-2, 2-3, 
+2-6, 2-14, 2-22; 
+GRI 3: 3-1, 3-2; 
+GRI 201: 201-1, 201-2
+Our Sustainability Framework
+C1
+SBM-2, SBM-3
+IRO-1, IRO-2
+Overview of Our Sustainability 
+Policies, Practices and 
+Initiatives
+B2, C2
+MDR-P
+MDR-A
+GRI 2: 2-23, 2-24
+Our Contribution Towards 
+Climate Change Mitigation
+B3, C3, C4
+E1-2, E1-5, E1-6
+GRI 302: 302-1, 
+302-2; 
+Biodiversity at Our Locations
+B5
+E4-1
+E4-5
+GRI 304: 304-1, 
+304-2
+Optimizing Water Use Across 
+Operations
+B6
+E3-2
+E3-4
+GRI 303-3
+Resource Efficiency, Circular 
+Economy and Waste 
+Management
+B7
+E5-1, E5-4, E5-5
+GRI 306-3
+Our People at a Glance
+B8 
+S1-6
+GRI 2-7; GRI 401-1
+Empowering Our People
+C5
+GRI 405: 405-1, 
+405-2
+Human Rights in Our 
+Workforce and Supply Chains
+C6, C7
+S1-3, S2-1, S2-2, S2-3
+S2-4, S3-3
+S2-2, S2-3, 
+S2-4, S3-3
+GRI 406-1; 
+GRI 409-1;
+GRI 414-2
+Health, Safety and 
+Environment
+B9
+S1-14
+GRI 403: 403-1, 403-
+8, 403-9, 403-10; 
+GRI 413-1
+Remuneration, Collective 
+Bargaining and Training
+B10
+S1-8, S1-10, 
+S1-13, S1-16
+GRI 404: 404-1, 
+404-3
+Good Governance Practices 
+and Business Conduct
+B11
+G1-1, G1-3, G1-4, 
+S1-3, S1-17
+GRI 2: 2-25, 2-26, 
+2-27;
+GRI 205: 205-2, 
+205-3;
+GRI 406-1
+Governance Structures at 
+BayWa r.e.
+C9
+GOV-1
+GRI 2: 2-9, 2-14; 
+GRI 405-1
+Note: The guiding framework for the BayWa r.e. Sustainability Report 2024 is the VSME. In preparation for CSRD readiness in line  
+with ESRS, we also included the above mapping to provide even more transparency on material topics. Some of the listed GRI  
+indicators may not have been entirely fulfilled due to the reporting scope and its limitations
+
+44
+List of Omitted Information
+VSME
+Topic
+Comment 
+Environment – B5 Biodiversity
+GPS data of sites located in close 
+proximity to BSAs
+Confidential information
+Environment – B4 Pollution
+Sustainability topic "Pollution"
+According to the conducted IRO 
+assessment the topic of Pollution  
+is not material
+Social – B10 Workforce, 
+Remuneration
+Equal or above minimum wage 
+information
+No data available
+Social – C5 Additional (general) 
+workforce characteristics
+Employees working temporary vs. 
+personnel working exclusively for the 
+undertaking
+No data available
+ 
+
+45
+BSA
+A Biodiversity-Sensitive Area is a location that hosts significant biodiversity value 
+and is sensitive to disturbances or developments. These areas often include protected 
+areas (e.g. national parks, nature reserves), Key Biodiversity Areas (KBAs), critical 
+habitats for endangered or endemic species and High Conservation Value (HCV) 
+areas. Development in BSAs typically requires heightened environmental assessments 
+and strict adherence to biodiversity conservation policies.
+COD
+The Commercial Operation Date is the date on which a project (commonly energy, 
+infrastructure, or industrial) begins producing output at full scale and is officially 
+declared operational for commercial purposes.
+DEI
+Diversity refers to the presence of differences in the workplace and may 
+mean differences in race, gender, gender identity, sexual orientation, age, and 
+socioeconomic background. Equity is the act of ensuring that processes and 
+programs are fair and provide equal possible outcomes for every individual.  
+Inclusion is the practice for making people feel a sense of belonging at work.
+HSE
+Health, Safety and Environment refers to the practical aspects of protecting the 
+environment and maintaining health and safety at occupation. In simple terms, it is 
+what organizations must do to ensure that their activities do not cause harm to anyone.
+EAC
+Energy Attribute Certificates are tradeable instruments that certify the origin and 
+environmental attributes of a specific quantity of renewable energy, typically measured 
+in megawatt-hours (MWh). They are used to track and verify claims of renewable 
+electricity consumption and support market-based mechanisms for promoting green 
+energy.
+EIA
+An Environmental Impact Assessment determines and describes in a report what 
+impact a project will have on humans (including human health), on animals, plants, 
+biodiversity, soil, water, ambient air, the climate, the landscape and cultural goods. 
+The public and specialist authorities, as well as citizens and authorities in neighboring 
+countries that may be affected, may express comments and opinions on the report. 
+The authority responsible for approving a project is tasked with evaluating the 
+information and comments and with taking account of the results of the EIA when 
+deciding whether to approve a project.
+EPD
+An Environmental Product Declaration tells the life cycle story of a product 
+in a single, comprehensive report. This includes information about a product's 
+environmental impact, such as global warming potential, smog creation, ozone 
+depletion, and water pollution.
+GHG
+A Greenhouse Gas is a gas that absorbs and emits radiant energy at thermal infrared 
+wavelengths, causing the greenhouse effect. There are several different types of 
+greenhouse gases, e.g. CO₂, methane, etc.
+ILO Declaration on 
+Fundamental Principles  
+and Rights at Work
+A global commitment to uphold key labor rights: freedom of association, collective 
+bargaining, elimination of forced and child labor, and non-discrimination in 
+employment.
+IPP
+An Independent Power Producer is a legal entity, corporation, agency, authority, or 
+other instrumentality that owns or operates facilities for the generation and sale of 
+electricity for use, primarily by the public and commercial offtakers, and that is not a 
+public electric utility.
+IRO Assessment
+The IRO Assessment—short for Impacts, Risks, and Opportunities—is a central 
+component of the Corporate Sustainability Reporting Directive (CSRD) and its 
+Double Materiality Assessment (DMA). It helps organizations identify and evaluate 
+sustainability-related issues that are material both from an impact perspective (how 
+the company affects the world) and a financial perspective (how the world affects the 
+company).
+Glossary
+
+46
+LCA
+Life Cycle Assessment is a standardized methodology (ISO 14040/44) for assessing 
+the environmental impacts of products, services, or processes from "cradle to grave". 
+It involves defining the goal and scope, collecting data on material and energy flows 
+(inventory), evaluating the ecological effects (impact assessment), and interpreting 
+the results to aid in product development, strategic planning, and sustainability efforts. 
+LCA provides quantitative data to identify and reduce environmental burdens like 
+emissions and resource consumption.
+LTIR
+Lost time injuries encompass temporary injuries that keep the employee away from 
+work for at least a day and permanent disabilities and conditions that prevent the 
+employee from ever returning to the job or performing their regular work tasks. The 
+LTI rate represents the respective number of cases divided by the number of total 
+hours worked by people in BayWa r.e.’s own workforce multiplied by 1,000,000.
+Mitigation Hierarchy
+A structured approach to managing and minimizing negative environmental and 
+social impacts, which consists of four sequential steps: Avoid – Prevent impacts from 
+occurring in the first place (e.g. changing project location); Minimize – Reduce the 
+duration, intensity, or extent of impacts that cannot be completely avoided; Restore/
+Rehabilitate – Repair ecosystems or habitats after disturbance; Offset/Compensate 
+– Compensate for residual impacts that remain after all other steps, often through 
+biodiversity offsets or social investment programs.
+OECD Guidelines for 
+Multinational Enterprises
+Recommendations for responsible business conduct covering areas like human rights, 
+labor, environment, anti-corruption, and disclosure, aimed at multinational companies.
+PCF
+A Product Carbon Footprint measures a product's total greenhouse gas emissions, 
+from the extraction of raw materials to end-of-life. It is measured in carbon dioxide 
+equivalents (CO2e).
+PV
+Solar Photovoltaic (PV) materials convert sunlight into electrical energy. A single 
+photovoltaic device is known as a cell. Cells are made of different semiconductor 
+materials and are sandwiched between protective materials in a combination of glass 
+and plastics.
+RTB
+Ready to Build is a status indicating that a project has reached a stage where all key 
+pre-construction milestones have been completed, and physical construction can 
+begin.
+SDGs
+Formulated in 2015 by the United Nations General Assembly, the Sustainable 
+Development Goals are a collection of seventeen interlinked objectives designed to 
+serve as a shared blueprint for peace and prosperity for people and the planet, now 
+and into the future.
+SSI
+The Solar Stewardship Initiative was set in motion by SolarPower Europe and Solar 
+Energy UK in March 2021 as part of a program established to promote responsible 
+production in the solar value chain.  The Initiative establishes SSI Standards, 
+combining international standards, industry and civil society expertise, and political 
+acumen, to deliver a supply chain sustainability solution tailored to the business of 
+solar.
+tCO2e
+tCO2e stands for tons (t) of carbon dioxide (CO₂) equivalent (e) and is a standardized 
+metric used to quantify greenhouse gas emissions by accounting for the varying global 
+warming potentials of different gases, such as methane or nitrous oxide. This approach 
+ensures that emissions are not calculated arbitrarily, but rather reflect the relative 
+climate impact of each gas in a scientifically consistent manner."
+UN Guiding Principles on 
+Business and Human Rights
+The UN Guiding Principles on Business and Human Rights is a framework outlining 
+state and business responsibilities to prevent, address, and remedy human rights 
+impacts linked to business activities.
+Imprint:
+Published by: BayWa r.e. AG | Arabellastr. 4 | 81925 Munich, Germany
+Contact: sustainability@baywa-re.com

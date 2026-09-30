@@ -1,0 +1,3018 @@
+ANNUAL ACCOUNTS
+CORPOR ATE SOCIAL  
+RESPONSIBILIT Y REPORT 2018
+
+ANNUAL ACCOUNTS
+    
+The Corporate Social Responsibility Report from Fielmann AG and the Fielmann 
+Group is published in both English and German. To facilitate reading, only the 
+masculine form is used in this document; all references to the male gender shall be 
+deemed and construed to include any gender.
+
+ANNUAL ACCOUNTS
+Contents:
+	
+2	 About this report
+	
+2	 	
+Corporate social responsibility
+	
+2 	 	
+Requirements pursuant to Section 289c of the German Commercial Code 	
+	
+	 	
+(HGB) and the Global Reporting Initiative (GRI)
+	
+3 	 	
+Structure of the report
+	
+4	 Foreword
+	
+7	 Corporate social responsibility at Fielmann
+	
+7 	 	
+About Fielmann
+	 10	 	
+Organisation and corporate governance 
+	 12 	 	
+Compliance
+	 15	 	
+Corporate social responsibility management
+	 16	 	
+Materiality analysis and main topics
+	 21	 Responsibility for our customers
+	 21	 	
+You are the customer
+	 21	 	
+Customer data protection
+	 26	 	
+Quality assurance
+	 31	 Responsibility for our employees
+	 31	 	
+Basis of our success
+	 39	 Responsibility for our society
+	 39	 	
+Social responsibility
+	 43	 	
+Social standards in the value chain
+	 47	 Responsibility for our environment
+	 47	 	
+Saving energy and reducing emissions
+	 56	 Notes
+	 56	 	
+GRI content index
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+2
+About this report
+Corporate social responsibility
+Fielmann is a family business. As market leader, Fielmann assumes responsibility for 
+the society we live in, and also works hard for the good of nature and people. We do 
+so out of conviction because we understand that a company can only enjoy long-term 
+success in an intact, well-balanced social environment. 
+In the following report, Fielmann presents its activities in the field of corporate so-
+cial responsibility (CSR). We offer a transparent view on the social and ecological 
+consequences of our actions. We do so with particular regard to customer matters, 
+environmental matters, employee-related matters, social matters, respect for human 
+rights, anti-corruption and bribery matters. 
+Unless otherwise stated, all the information in the report refers to the financial year 
+2018 (calendar year 2018). This report supplements the information about significant 
+developments in non-financial matters provided in the Fielmann Aktiengesellschaft 
+Management Report and the Group Management Report of the Fielmann Group 
+printed in the Annual Report. Unless any other frame of reference is stated, the report 
+includes all companies in the Fielmann Group. 
+The content of this report was approved by the Supervisory Board of Fielmann Ak-
+tiengesellschaft pursuant to Section 171 Para. 1 of the German Stock Corporation 
+Act (AktG). The following non-financial report was not subject to an external audit. 
+GRI 102–45  GRI 102–50  GRI 102–56
+Requirements pursuant to Section  289c of HGB and the 
+Global Reporting Initiative (GRI)
+The following report represents the non-financial declaration of Fielmann Aktienge-
+sellschaft pursuant to Section 289b Para. 3 of HGB and of the Fielmann Group pursu-
+ant to Section  315b Para. 3 of HGB. Fielmann thereby complies with the provisions 
+formulated by the CSR Directive Implementation Act set out in Sections 289b and 
+315b of HGB. The report was compiled based on the GRI standard of the Global 
+Reporting Initiative (GRI). 
+The non-financial issues relevant to Fielmann were determined in the financial year 
+2017 as part of a materiality analysis, which is based on the criteria of the Global 
+Reporting Initiative and reviewed annually by the Management Board. 
+To comply with the requirement of double materiality pursuant to Sections 289c Para. 
+3 (1) and 315c of HGB, the Management Board also defined the significance of the 
+respective topics for the situation and business developments of Fielmann Aktienge-
+sellschaft and the Fielmann Group during the process. The defined main topics and 
+the materiality analysis process are set out in detail on pages 18–21 of this report. 
+The result was checked and validated by the Management Board for the financial 
+year 2018.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+3
+ 
+Section 289c of HGB
+GRI
+Fielmann Corporate Social  
+Responsibility Report
+Environmental matters (Section 289c Para. 
+2 (1) of HGB)
+– Energy (302) 
+– Emissions (305)
+ 
+Responsibility for the environment
+Employee matters  
+(Section 289c Para. 2 (2) of HGB)
+– Employment (401) 
+– Training and education (404)
+ 
+Responsibility for our employees
+Social matters  
+(Section 289c Para. 2 (3) of HGB) 
+– Customer health and safety (416) 
+– Customer data protection (418)
+ 
+Responsibility for our customers 
+Respect for human rights  
+(Section 289c Para. 2 (4) of HGB)
+ 
+– Social assessment of suppliers (414)
+ 
+Responsibility for society
+Anti-corruption and bribery matters  
+(Section 289c Para. 2 (5) of HGB)
+ 
+– Anti-corruption (205)
+Corporate social responsibility  
+at Fielmann
+Fielmann reports on the following aspects pursuant to Section 289c Para. 2 of HGB: 
+environmental matters (Section 289c Para. 2 (1) of HGB), employee matters (Sec-
+tion 289c Para. 2 (2) of HGB), social matters (Section 289c Para. 2 (3) of HGB), 
+respect for human rights (Section 289c Para. 2 (4) of HGB) and anti-corruption and 
+bribery matters (Section 289c Para. 2 (5) of HGB). 
+Pursuant to GRI requirements, Fielmann reports on the aspects Energy (302) and Emis-
+sions (305) in the “Responsibility for the environment” chapter, Employment (401) and 
+Training and professional development (404) in the “Responsibility for our employees” 
+chapter, and Customer health and safety (416) and Customer data protection (418) 
+in the “Responsibility for our customers” chapter. The Social assessment of suppliers 
+(414) is covered in the “Responsibility for society” chapter, and Anti-corruption (205) 
+in the “Corporate social responsibility at Fielmann” chapter.
+Fielmann also reports on a voluntary basis – beyond the requirements of Section 289c 
+Para. 2 of HGB – on the GRI aspects Economic performance (201) and Indirect eco-
+nomic consequences (203).
+Pursuant to Section 289c Para. 3 of HGB, Fielmann presents in detail the objectives, 
+concepts, measures (Section 289c Para. 3 (1) of HGB) and results (Section 289c 
+Para. 3 (2) of HGB) of every aspect in the financial year. This presentation is supple-
+mented by relevant non-financial performance indicators (Section 289c Para. 3 (5) of 
+HGB). Fielmann provides details on significant risks in the “Corporate social respon-
+sibility at Fielmann” chapter on page 15 (Section 289c Para. 3 (3) and (4) of HGB).
+Readers familiar with the GRI standards are referred to the relevant GRI indicators 
+using identifications like GRI 102–45 . An overview of the GRI indicators is available 
+in the Notes on page 56.
+Structure of the report
+Fielmann's Corporate Social Responsibility Report is divided into five main chapters, 
+preceded by this overview and the contents page:
+– Corporate social responsibility at Fielmann
+– Responsibility for our customers
+– Responsibility for our employees
+– Responsibility for society
+– Responsibility for the environment
+GRI 102–47
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+4
+Dear Shareholders,  
+Dear Friends of the Company,
+As a family business, we think in the long term. We assume responsibility for our 
+customers, our employees and for society. For Fielmann, investing in society is also 
+an investment in the future. Our objective is to have satisfied customers, not maximum 
+profit.
+Our company philosophy is rooted in long-term thinking. Fielmann has defined guiding 
+principles that ensure ethical, sustainable behaviour. With our Compliance Guideline 
+we have formulated standards for our own actions and those of our partners. This 
+way we secure that the Fielmann Group acts compliantly and that we fulfill our moral 
+obligations even beyond the boundaries of our company.
+Making claims is easy, but living up to them is tough. The basis for our success is 
+having motivated employees that live our customer-friendly philosophy.
+For Fielmann, customer satisfaction is the most important performance indicator. A 
+considerable proportion of the bonuses paid to store managers and the Management 
+Board is dependent on the satisfaction of our customers. Our staff has the satisfying 
+task of finding the best possible solution for everyone, irrespective of their budget. 
+Customers look for brands they can trust. In the optical industry, that means Fielmann. 
+More than 90% of our customers say they intend to come back to Fielmann for their 
+next pair of glasses. 
+We are deeply rooted in the optical industry and cover every stage of the value chain. 
+Fielmann is a designer, manufacturer, wholesaler and optician. We supply our stores 
+directly, thus cutting out any intermediaries. In doing so, we endeavour to achieve the 
+highest possible quality standards. Fielmann takes part in the development of globally 
+valid testing methods and supports the further development of the ISO standards. 
+As the market leader, we set standards: our quality controls – for lenses and frames in 
+equal measure – are much more stringent than required by statutory regulations. In 2018 
+Günther Fielmann
+Marc Fielmann
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+5
+as in other years, all the glasses models in the Fielmann collection successfully passed our 
+comprehensive quality tests in the laboratory in Rathenow. 
+At Fielmann, branded products are only sold if they meet our strict quality standards. 
+We only work with brand manufacturers that can guarantee us the quality of their 
+products via the CE declarations of conformity and certifications. 
+In addition, Fielmann has drawn up a binding guideline for its suppliers (Code of 
+Conduct). This Code of Conduct is based on the recognised principles of the UN 
+Global Compact and contains a catalogue of basic values that ensure responsible and 
+ethical behaviour along the entire supply chain for all of Fielmann’s main products. 
+Fielmann is not only the leader in terms of quality, but also in service, expertise and 
+training. We continuously qualify our employees and thereby ensure a level of exper-
+tise that we can guarantee to our customers in the stores. Every year, Fielmann invests 
+tens of millions in training and development courses. In the reporting year 2018, this 
+figure stood at more than ¤20 million. 
+Fielmann is a modern family business that offers flexible working times and a fami-
+ly-friendly environment. 30% of our employees work in part-time positions. The pro-
+portion of women in management positions also stands at 30%.
+As market leader, Fielmann assumes responsibility for the society we live in, and also 
+works hard for the good of nature and people. We plant a tree for each employee 
+every year. So far, we have planted more than 1.5 million trees and bushes. In 2018, 
+Fielmann planted more than 40,000 trees and bushes in Germany, Switzerland, 
+Austria and Italy. On top of all that, Fielmann also sponsors a wide range of youth 
+sports. Well over 100,000 girls and boys in more than 10,000 teams play and win 
+wearing shirts sponsored by Fielmann. 
+For Fielmann, a responsible interaction with the environment is a matter of course. 
+As an internationally active company, we are also fully aware of our responsibilities 
+regarding the climate. In future, Fielmann plans to become even more energy-efficient 
+and continues to reduce the emissions of damaging greenhouse gases. In 2018, we 
+reduced energy consumption in stores by 3% and cut the CO2 emissions per square 
+metre of store space by 8%. 
+We feel that the responsibility to people, animals and nature outweighs the highest 
+profits. As a company, we want to give back some of the things that we gain from be-
+ing part of a community. This belief is the basis of our long-term commitment to society. 
+We thank all our employees for their dedication, conscientiousness and competence. 
+Thanks are also due to our customers, associates, friends and shareholders for re-
+maining loyal to the company. This loyalty is both a motivation and an obligation.
+Günther Fielmann                                  Marc Fielmann
+GRI 102–14
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+6
+Chemnitz, Markt
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+7
+Corporate social responsibility at Fielmann
+About Fielmann
+Fielmann stands for fashionable eyewear at fair prices. 90% of all German citizens 
+have heard of Fielmann. 24 million people across Europe wear a pair of glasses from 
+Fielmann. We are the market leader in the German-speaking countries and sell half 
+of all glasses. Fielmann is deeply rooted in the optical industry and is active at every 
+level of the value chain. We are a designer, manufacturer, wholesaler and optician.
+Time and again, Fielmann has pioneered customer-oriented services in optical retail. 
+The basis for our success is customer-friendly services, a large selection of products 
+at guaranteed best prices, the best technical equipment and highly skilled employees.
+Our guiding principle is “You are the customer”. A clear customer focus has taken us 
+to the top. We recognise ourselves in our customers. Our employees are committed to 
+this philosophy. Using its key competence – an uncompromising customer orientation 
+– Fielmann will also thrive in new markets. 
+Business activities
+Fielmann Aktiengesellschaft, which has its headquarters at Weidestraße 118a, Ham-
+burg, Germany, is the Group’s listed parent company. It invests in and operates optical 
+businesses and hearing aid companies. It furthermore manufactures and distributes 
+visual aids and other optical products. These products include glasses, frames, lenses, 
+sunglasses, contact lenses, related articles and accessories. It also sells merchandise 
+of all kinds as well as hearing aids and their accessories. 
+Fielmann is expanding and serving the needs of its customers by opening new stores. 
+As at 31.12.2018, Fielmann operated 736 stores (previous year: 723).
+Fielmann Aktiengesellschaft stores
+ 
+2018
+2017
+ 
+Country
+Number of 
+stores 
+Share of  
+overall sales
+Number of 
+stores 
+Share of  
+overall sales
+Germany 
+ 
+600
+79.3%
+597
+78.9%
+Switzerland 
+ 
+43
+11.8%
+42
+12.4%
+Austria 
+ 
+38
+5.8%
+37
+5.9%
+Others¹ 
+ 
+55
+3.1%
+47
+2.8%
+Total
+ 
+736
+100.0%
+723
+100.0%
+  
+1)	In the EU member states of France, Italy, Luxembourg, the Netherlands and Poland, the Group operates 55 
+stores. These stores are grouped with our 46 smaller outlets in Belarus and Ukraine and are represented in the 
+“Others” segment. Further information is provided in the Annual Report.
+GRI 102–4
+GRI 102–7
+GRI 102–6
+GRI 102–10
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+8
+Fielmann: Locations in Europe
+Fielmann Academy
+Plön Castle
+Corporate Headquarters,
+Hamburg
+Production and Logistics 
+Centre, Rathenow
+Headquarters,
+Switzerland
+Headquarters,
+Italy 
+Headquarters,
+Austria
+ 
+Headquarters,
+Poland
+ 
+Design & Prototyping,
+Munich
+GRI 102–6
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+9
+Opticians regard themselves as healthcare professionals, helping those with poor 
+eyesight. In Germany, opticians are permitted to carry out eyesight tests, determine 
+prescriptions and fit contact lenses. They advise their customers on the choice of 
+lenses and frames, and use the selections to manufacture individual pairs of glasses 
+in the workshops. In Germany, every optical retail store approved by health insurance 
+schemes must be managed by a master optician.
+Product
+Description
+ 
+ 
+Frames
+Fielmann stores showcase the whole world of fashion eyewear: over 
+2,000 frames, the fashionable Fielmann Collection, major brands and 
+international designer glasses. 
+ 
+ 
+ 
+ 
+Lenses 
+Our Production and Logistics Centre is located in Rathenow, Branden-
+burg. Under a single roof, we produce mineral-based and plastic lenses, 
+fit them into the customers’ individual frames and then deliver them over-
+night to our stores. Customers also find lenses from major brands and 
+well-known manufacturers at the best prices in Fielmann stores. 
+ 
+ 
+Sunglasses 
+Whether as a fashion accessory or with a customised prescription, Fiel-
+mann provides a wide selection of sunglasses: the Fielmann Collection, 
+major brands and international designer sunglasses. 
+ 
+Contact lenses 
+Fielmann sells contact lenses from major brands and well-known manuf-
+acturers at the best prices, including free follow-up. 
+ 
+ 
+ 
+Hearing aids 
+At the end of the financial year, Fielmann operated 193 hearing aid 
+studios and plans to increase this figure to 350 in the long term. Fielmann 
+offers its customers all the major brands and popular hearing aids at the 
+best prices.
+Key figures of Fielmann Aktiengesellschaft 
+2018
+2017
+External sales  
+incl. VAT in ¤ m
+1,650.70
+1,606.20
+Consolidated sales 
+excl. VAT in ¤ m
+1,428.00
+1,386.00
+EBITDA  
+in ¤ m
+295.9
+291.3
+Equity capital
+in ¤ m
+709.2
+695.0
+Debt 
+in ¤ m
+235.6
+230.7
+Number of stores 
+   as at 31.12.
+736
+723
+Employees
+as at 31.12.
+19,379
+18,522
+The following table includes countries with more than 5% of the total sales or total 
+costs:
+2018
+2017
+  
+Germany
+Switzerland 
+Austria 
+Germany
+Switzerland 
+Austria 
+Sales (in ¤ m)
+1,132.10
+168.1
+82.7
+1,093.70
+171.6
+81.3
+Result before taxes (in ¤ m)
+217.1
+24.7
+14.3
+207.3
+29.5
+15.2
+Employees 
+16,200
+1,424
+817
+15,427
+1,379
+811
+The optical profession
+GRI 102–2
+GRI 102–7
+The main products  
+of Fielmann  
+Aktiengesellschaft
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+10
+Memberships and awards 
+As craftspeople, German opticians are organised in guilds. More than half of the 
+owner-managed stores are members of marketing or purchasing groups. Fielmann is 
+also a guild member. In addition, Fielmann is involved with the overarching umbrella 
+organisation for opticians in North Rhine-Westphalia, the optical industry's Central 
+Association of Opticians (ZVA) as well as the German Federal Guild for Hearing 
+Healthcare Professionals (biha). 
+In Switzerland, Fielmann is a member of the Swiss Federation of Opticians (AOVS), 
+the Vaud Opticians’ Group (GVO), the Association of Swiss Advertisers (SWA) and 
+the Swiss Association for Hearing Acoustics (VHS). In Austria, Fielmann holds mem-
+berships of the Austrian trade association and the Austrian Economic Chamber. 
+The Fielmann Academy at Plön Castle regularly organises colloquia on optical and 
+ophthalmological subjects. The aim of these events is to provide a forum for pres-
+entations and further training involving opticians, doctors, students and scientists. 
+The colloquia were first held in 2007. Since then, they have become established 
+as a permanent fixture for science and practical application. In total, more than 
+5,400 visitors have attended 42 events to learn about the latest developments in 
+the optical industry. 
+Günther Fielmann’s social commitment is widely recognised and testified by many 
+awards:
+2000:	Federal Cross of Merit, first class
+2002:	Honorary title of Professor of the State of Schleswig-Holstein
+2004:	Honorary doctorate from the Christian-Albrechts University of Kiel
+2005:	Honorary citizen of the communities of Staftsedt and Lütjensee
+2007:	 Honorary member of the German Forest Protection Association (SDW)
+2012:	 German Retail Prize, from the German trade association,
+	
+lifetime achievement category 
+2016:	 Great Cross of Merit of the Order of Merit of the
+	
+Federal Republic of Germany 
+2016:	 Honorary citizen of Schleswig-Holstein
+2017: 	Honorary citizen of the town of Plön
+GRI 102–12  GRI 102–13 
+Organisation and corporate governance 
+Fielmann is a family business and thinks across the generations. Fielmann Aktienge-
+sellschaft is the Group’s listed parent company. 
+Supervisory Board 
+The Supervisory Board monitors the work of the Management Board and advises 
+where necessary. It consists of 16 members. Eight members are elected by the share-
+holders in accordance with the provisions of the of the German Stock Corporation 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+11
+Act (AktG), and the other eight members are elected by the employees in accordance 
+with the Codetermination Act (MitbestG).
+The Supervisory Board includes an HR Committee, a Mediation Committee and a 
+Nomination Committee. There are no further committees. It was decided that an Audit 
+Committee need not be formed. Before the annual balance sheet meetings, all Supervi-
+sory Board members have the opportunity to obtain a detailed briefing on the content 
+and results of the audit in a discussion forum attended by the Chief Financial Officer 
+(CFO) and the chief auditor. The Supervisory Board is also given the chance to ask 
+questions and make suggestions. 
+GRI 102–18  
+Management Board
+Günther Fielmann is the founder, majority shareholder and Chairman of the Manage-
+ment Board of Fielmann Aktiengesellschaft. In the financial year 2018, he shaped the 
+corporate strategy and ensured that the corporate philosophy was observed1. With the 
+creation of the co-CEO structure in April 2018, Marc Fielmann took over responsibility 
+for the executive leadership of Fielmann AG. 
+The entire Management Board is responsible for the day-to-day management of 
+the company. In the financial year, the Management Board was made up of six 
+people. Fielmann Aktiengesellschaft is represented by one Chief Executive Officer 
+(Günther Fielmann or Marc Fielmann), jointly by two members of the Management 
+Board, or by one Management Board member and an authorised signatory. Regular 
+Management Board meetings are held in order to make strategic decisions and to 
+resolve inter-departmental issues. 
+The work of the Management Board is governed by the statutory regulations, the Arti-
+cles of Association and the rules of procedure. Fielmann lists the responsibilities of the 
+individual board members at: https://corporate.fielmann.com/de/investor-relations/
+unternehmen/vorstand/.
+Ownership structure 
+Fielmann has the legal status of a German Aktiengesellschaft. We regard ourselves 
+as a family business. This is reflected in the personal responsibility of the founding 
+family for the well-being of the customers, the employees and the company. The fam-
+ily’s attachment to the company is mirrored by the ownership structure of Fielmann 
+Aktiengesellschaft. 
+Via the family’s holding company KORVA SE, the Fielmann Familienstiftung and direct 
+equity, the Fielmann family controls 71.64% of the shares in Fielmann Aktienge-
+sellschaft. The remaining 28.36% of shares are in free float. 55.00% of the shares 
+owned by the Fielmann family in Fielmann Aktiengesellschaft are held in KORVA SE. 
+With 92.50% of the votes, the Fielmann Familienstiftung has the decisive influence 
+on KORVA SE and therefore the majority rights in Fielmann Aktiengesellschaft. These 
+majority rights are permanently secured. 
+1)	Marc Fielmann has been responsible for Corporate Strategy since February 2019.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+12
+  
+Günther Fielmann has thereby strengthened his decision to integrate his children into 
+management responsibility of Fielmann Aktiengesellschaft and carried out his long-
+held plans to ensure a cross-generational company succession. Besides his position as 
+sole Management Board member of the Fielmann Familienstiftung, Günther Fielmann 
+is also the sole Management Board member of KORVA SE for life. 
+GRI 102–5  GRI 102–18 
+Compliance 
+Our company and our success are characterised by the mutual trust and shared re-
+sponsibility of all our employees, by the protection of nature and natural resources, 
+and by our behaviour in business life. Misconduct by an individual can cause enor-
+mous economic damage. The loss of trust that accompanies legal infringements is 
+even more serious. 
+Fielmann has established a comprehensive compliance system that works to achieve 
+law-abiding and ethical behaviour among its employees and business partners. The 
+system comprises a compliance guideline, individual stipulations for risk areas and 
+a risk management system. We take both local and international laws into account. 
+GRI 103 
+Compliance guideline 
+Statutory regulations are varied and complex. The Management Board of Fielmann 
+Aktiengesellschaft has adopted a compliance guideline to give employees a clear 
+framework. Employees can access this guideline at any time. 
+The compliance guideline is continuously updated. The Management Board identi-
+fies the main risk areas, and draws up concrete stipulations and directives that must 
+also be complied with in addition to the statutory provisions. The guideline provides 
+concrete orientation for the employees in their daily work and ensures that what they 
+Ownership structure of Fielmann Aktiengesellschaft 
+in %
+5.88 %
+55.00 %
+8.78 %
+1.98 %
+28.36 %
+Günther Fielmann
+KORVA SE 
+Marc Fielmann 
+Sophie Fielmann 
+Free float
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+13
+do remains lawful and proper. Should the Management Board identify new areas of 
+risk, new directives including concrete stipulations shall additionally be approved. The 
+employees will be immediately informed of any amendments or updates.
+Besides maintaining law and order, ethical principles must also be taken into 
+account at Fielmann. Every employee pledges to comply with Fielmann’s custom-
+er-oriented rules. In turn, Fielmann pledges to respect its customers, employees 
+and society, and to contribute to this end in many ways. This commitment is highly 
+important to us. 
+GRI 102–11  GRI 102–16 
+Compliance system 
+The Management Board is responsible for the continuous development of the com-
+pliance system. Amendments shall be communicated to all employees in good time. 
+In the event of compliance issues, employees are instructed to contact their superior, 
+the internal audit department or the Management Board directly. The internal audit 
+department uses regular checks to inspect the company-wide implementation and 
+application of the valid guidelines. 
+Risk management
+Fielmann’s comprehensive risk management system enables the company to identify 
+and make use of opportunities in good time, while also keeping in mind the potential 
+risks. All the main planning and control elements lead to a detailed reporting system.
+Using defined thresholds, Fielmann regularly assesses whether and which concen-
+trations of risk exist within the Group. This systematic monitoring is integrated in all 
+relevant processes. By way of both monthly and yearly reporting, potential risks are 
+identified and evaluated with regard to their potential significance for the business 
+position of Fielmann. 
+For the financial year 2018, our evaluation shall also include material risks as per 
+Sections 289c and 315c of HGB, insofar as they have or could have serious negative 
+consequences on environmental, employee and social matters, as well as on attempts 
+to respect human rights and combat corruption. This concerns the material risks related 
+to Fielmann’s own business activities (Section 289c Para. 3 (3) of HGB), as well as 
+the material risks linked to our business relations, products and services (Section 289c 
+Para. 3 (4) of HGB). The risk management system takes into account the likelihood of 
+risks arising and their potential impact, as well as the basic measures for addressing 
+the identified risks.
+The basis for evaluation is provided by entry sheets for the stated risk indicators. A 
+traffic light system is used to document the potential severity of the risk for the matters 
+stated. The risks are categorised as follows:
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+14
+Green: 	
+	
+good situation (expected damage has an extent of less than 1% of 
+anticipated pre-tax profit)
+Green-yellow:	slightly negative deviation from good situation (expected damage has 
+an extent of between 1% and 3% of anticipated pre-tax profit)
+Yellow:	
+ 	
+risk of critical situation occurring (expected damage has an 
+	
+	
+extent of between 3% and 5% of anticipated pre-tax profit)
+Yellow-red: 	
+critical situation (expected damage has an extent of between 5% and 
+10% of anticipated pre-tax profit)
+Red:	
+	
+highly critical (expected damage has an extent of more than 10% of 
+anticipated pre-tax profit)
+The risk identification, evaluation and assessment are carried out in a decentralised 
+way by the individual departments of Fielmann Aktiengesellschaft. The Controlling 
+department coordinates and is responsible for the process, and forwards the risk re-
+ports from the individual departments to the Management Board. The effectiveness of 
+the information system is regularly assessed by internal audits and an external audit.
+GRI 102–11 
+Significant risks pursuant to Sections 289c and 315c of HGB
+Fielmann has checked all the main issues presented in this report for significant risks 
+pursuant to Sections 289c and 315c of HGB. No significant risks were identified from 
+business activities, business relationships or products and services which are likely 
+to have serious negative effects on the aspects stated in Sections 289c and 315c of 
+HGB. Consequently, the assessment of risk is at “low” (green). 
+For further information on our risk management system as well as on the financial risks 
+and opportunities, please refer to the explanations in the Group Management Report.
+Anti-corruption measures 
+Fielmann’s ordinary business activities include optical retail and hearing acoustics, 
+mainly within the European Union. Bearing this in mind, Fielmann assesses the risk 
+(Section 289c Para. 3 (3) of HGB) in the company and its environment as low. Fiel-
+mann is also not aware of any significant risks regarding business relationships or 
+products and services (Section 289c Para. 3 (4) of HGB). Nevertheless, Fielmann 
+deals with the issue of corruption in its compliance guidelines and in a separate di-
+rective on accepting and offering gifts and allowances. Furthermore, Fielmann obliges 
+all suppliers to sign up to its Code of Conduct, which expressly rejects all forms of 
+corruption. 
+Fielmann assesses all business locations for corruption risks. The corresponding as-
+sessments are made at irregular intervals. Any evidence of corruption is targeted for 
+further investigation. 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+15
+Assessments
+2018
+2017
+Number of stores 
+736
+723
+Assessed stores
+88
+78
+Proportion of assessed stores (in %) 
+12
+11
+GRI 103  GRI 102–16  GRI 205–1 
+Financial assistance received from governments
+Fielmann is not aware of the participation of a government as shareholder. Fielmann 
+receives individual, publicly regulated funding programmes for further training and 
+professional development. Beyond that, the company does not receive any state sub-
+sidies for operating its businesses.
+GRI 201–4 
+Corporate social responsibility management 
+For Fielmann, responsible and ethical behaviour is part of who we are. It represents a core 
+component of our corporate philosophy. A clear customer focus has taken us to the top. 
+Fielmann attaches great value to the responsible interaction of all our employees with each 
+other, to the protection of nature and natural resources, and to our conduct in business life. 
+The basic rules of behaviour formulated for this purpose are available to all employees.
+GRI 102–16 
+Corporate social responsibility organisation
+The Management Board and the respective managements of the Group subsidiaries 
+are responsible for ensuring the socially responsible behaviour of Fielmann Aktieng-
+esellschaft. As part of their departmental duties, the various board members are 
+responsible for the numerous activities described in detail in this report. 
+The activities of Fielmann Aktiengesellschaft in the fields of environmental protection, 
+ecology, protection of historical buildings, youth sports and in the promotion of science 
+and research have been coordinated by the Communications and Public Relations 
+department for decades. In the context of corporate social responsibility management, 
+this department takes on a key role. It documents the work of all the board’s areas of 
+activity, and communicates regularly with the entire Management Board. 
+Through its managers, the risk management system (RMS) and the internal audit, the 
+Management Board ensures transparency so that it can take measures, where neces-
+sary. The overall responsibility for corporate social responsibility management and 
+its further development remains with the Management Board. 
+With its non-financial declaration (CSR report), Fielmann reports every year about 
+corporate social responsibility in the company.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+16
+Materiality analysis and main topics
+Fielmann has added to its reporting on corporate social responsibility pursuant to Sec-
+tions 289b and 315b of HGB in the financial year 2017 and now presents its wide-rang-
+ing activities according to the principles of the Global Reporting Initiative (GRI). 
+The Management Board of Fielmann Aktiengesellschaft carried out a materiality anal-
+ysis in September 2017, accompanied by detailed preparations with internal and ex-
+ternal stakeholders. The issues of material importance were identified in a systematic 
+process based on the GRI standard and in consideration of the definition of materiality 
+pursuant to Sections 289c Para. 3 and 315c of HGB. Afterwards, the issues were 
+selected due to their materiality for the stakeholders and for the company, and their 
+meaning assessed in the two-dimensional materiality matrix.
+The assessment of the topics was carried out according to the following aspects: 
+–	 Company environment:
+	
+Opportunities and risks in the political, legal, economic, ecological, techno-
+logical and social environment
+–	 Internal company analysis: 
+	
+Strengths and weaknesses of the competences and resources, the business 
+model, the product portfolio and the value chain
+–	 Stakeholder expectations:
+	
+Deductions and assumptions regarding the expectations of customers, suppli-
+ers, business partners, employees, consumer and environmental organisations, 
+industry associations, shareholders and the media
+The issues deemed to be of material importance were also assessed with regard 
+to their double materiality pursuant to Sections 289c and 315c of HGB – thereby 
+going beyond the stipulations of the GRI standards. The entire Management Board 
+assessed, validated and approved the results of the materiality analysis in the 
+financial year 2018.
+GRI 102–46 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+17
+ 
+GRI 102–44  GRI 102–47 
+Stakeholder dialogue
+Fielmann has identified the key stakeholders as part of a systematic process. They are 
+consulted at regular intervals or whenever required. Their suggestions and ideas are 
+requested and documented. Fielmann’s main stakeholder groups include customers, 
+employees and managers, the Supervisory Board, shareholders and investors, banks, 
+the works council, suppliers, associations, public authorities and the media. 
+External stakeholders can send Fielmann their questions and suggestions on social 
+responsibility matters via the e-mail address: nachhaltigkeit@fielmann.com. Incoming 
+e-mails will be read by the Communications and Public Relations department and, in 
+collaboration with the respective divisions, answered.
+Materiality matrix 
+very high
+very high
+Anti-corruption
+Customer health
+and safety
+Customer data
+protection
+Social assessment of 
+suppliers
+Indirect economic
+impacts
+Training and
+education
+Economic 
+performance
+Employment
+Emissions
+Energy
+Relevance for stakeholders
+Relevance for Fielmann
+   Corporate social responsibility at Fielmann      
+   Customers       Employees      Society      Environment
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+18
+Stakeholders
+Interaction 
+Frequency 
+Customers
+Satisfaction survey
+Regular
+ 
+Employees and managers
+In a transparent and 
+continuous dialogue process
+During regularly held strategy and 
+work meetings
+ 
+ 
+Supervisory Board
+ 
+In a transparent and 
+continuous dialogue process
+Four board meetings per year, 
+individual voting and committee 
+meetings
+Shareholders and 
+investors
+In a transparent and 
+continuous dialogue process
+Regular investor  
+relations meetings
+ 
+Banks
+In a transparent and 
+continuous dialogue process
+ 
+Regular
+ 
+ 
+ 
+Works council
+ 
+ 
+In a transparent and 
+continuous dialogue process
+Regular votes involving the works 
+council, the HR director and the 
+members of the Management 
+Board
+Suppliers
+In various formats
+On demand
+Associations
+In various formats
+On demand
+Public authorities
+In various formats
+On demand
+The media
+In various formats
+On demand
+GRI 102–40  GRI 102–42  GRI 102–43  GRI 102–53 
+ 
+ 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+19
+Objectives, measures, results and performance indicators 
+Pursuant to Section 289c Para. 3 of HGB, Fielmann has developed in detail the objec-
+tives, concepts, measures (Section 289c Para. 3 (1) of HGB) and results (Section 289c 
+Para. 3 (2) of HGB) of every aspect. This presentation is supplemented by relevant 
+non-financial performance indicators (Section 289c Para. 3 (5) of HGB). The issues 
+are described in the following chapters:
+–	 Corporate social responsibility at Fielmann: 
+–	 Economic performance (GRI 201)
+–	 Anti-corruption (GRI 205)
+–	 Responsibility for our customers:
+–	 Customer health and safety (GRI 416)
+–	 Customer data protection (GRI 418)
+–	 Responsibility for our employees:
+–	 Employment (GRI 401)
+–	 Training and professional development (GRI 404)
+–	 Responsibility for society 
+–	 Indirect economic consequences (GRI 203)
+–	 Social assessment of suppliers (GRI 414)
+–	 Responsibility for the environment
+–	 Energy (GRI 302)
+–	 Emissions (GRI 305)
+The aspects listed above fully cover the five required aspects (environmental, employee 
+and social matters, as well as respect for human rights and anti-corruption) of Sections 
+289c Para. 2 and 315c of HGB (see “About this report”, p. 2). They will be presented 
+individually in the following chapters of this report. Fielmann reports in detail on the 
+respective measures and objectives of corporate social responsibility management 
+and presents the results in the reporting year.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+20
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+21
+Responsibility for our customers
+You are the customer 
+Our guiding principle is “You are the customer”. We offer our customers the kind of 
+advice that we would like to receive ourselves: always fair, friendly and competent. 
+Time and again, Fielmann has pioneered customer-friendly services in optical retail. 
+Digital technologies are developing rapidly. Fielmann sees it as its responsibility to 
+keep information security and data protection in line with the progress of technical 
+innovations. We view digital innovation and customer-oriented data protection as a 
+symbiosis and not a contradiction, and are therefore digitising the optical industry 
+to the benefit of consumers, without compromising quality. All of Fielmann’s digital 
+services are optional. Customers are free to choose which digital services – if any – 
+they wish to use.
+Fielmann has formulated internal data protection standards and fulfilled the new 
+legal directives that commenced with the European General Data Protection Reg-
+ulation (GDPR) on 25 May 2018. We safeguard the customer-oriented and law-
+ful processing of the data entrusted to us through clear responsibilities, our data 
+protection management system as well as technical and organisational measures. 
+As the market leader, we set standards for the whole industry. We take part in the 
+development of globally valid quality testing methods and support the further develop-
+ment of the ISO standards. Our quality controls are much more stringent than required 
+by statutory regulations. This applies both to lenses and to frames. 
+Customer data protection
+Digitisation brings great progress, but also leads to increasingly complex IT systems. 
+To many people, the purposes for which their personal data is being used is no longer 
+transparent. Some people are entirely indifferent to this development and others would 
+like to have more detailed information on how their data is processed.
+Fielmann takes all its customers’ interests seriously and treats the provided data care-
+fully and conscientiously. We process personal data with our customers’ interests 
+in mind and in accordance with the applicable laws of the countries in which we 
+operate. Fielmann regards data protection and digital innovation as a symbiosis and 
+not a contradiction.
+Fielmann protects its customers’ personal data with its good name and the data protec-
+tion guarantee: all customer data is processed in line with the GDPR. We immediately 
+comply with any requests for information, deletion or updates, while observing the 
+statutory retention periods.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+22
+Business environment and requirements
+Legislators have responded to customers’ wishes for personal data protection, privacy 
+and the transparent processing of personal data with the GDPR, in effect since 25 
+May 2018, and the associated amendment of the German Federal Data Protection 
+Act (BDSG). Fielmann has defined its own data protection standards that fully comply 
+with the legal stipulations of the new GDPR.
+GRI 103 
+Objectives
+Fielmann combines innovative services with customer-oriented data protection. Fiel-
+mann regards its customers as responsible citizens. They are always entitled to find 
+out how and for what purposes their data is being used. We are digitising the optical 
+industry for the benefit of customers.
+As part of the business activities of all the Group companies, Fielmann only collects, 
+processes and uses personal data if the required legal basis exists. We respond 
+immediately to any submitted enquiries or complaints regarding data protection. 
+Special attention is given to the protection of our customers’ personal data. Clearly, 
+Fielmann also processes the personal data of its employees, business partners and 
+shareholders confidentially and in accordance with the data protection directives.
+Our objective is to continuously further develop our organisation, processes and 
+systems to ensure that personal data is always processed and stored in accordance 
+with the law. We work closely with the regulatory authorities and document our data 
+protection system properly in order to ensure that the system remains consistent with 
+statutory requirements. We take care to implement the necessary amendments and 
+improvements in good time.
+Share of answered enquiries within five working days  Our aim is to 
+deal with any requests for information, deletion or updates within five working days, 
+while observing the statutory retention periods. We make every effort to live up to this 
+aim, but accept that there may be some exceptions for operational reasons. (Target 
+level: 95%).
+Training level of project managers  Data protection is not just a technical issue. 
+Through regular training, we ensure that all project managers are informed about legal 
+requirements and the additional data protection standards at Fielmann. Furthermore, 
+the project managers are familiar with the technical and organisational measures, 
+and are obliged to observe them to the full. (Target level: 100%).
+GRI 103 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+23
+Concepts, management and measures
+Data protection has always been of great importance to us. Fielmann customers can 
+rest assured that their personal data is processed securely, in their interest and in ac-
+cordance with the law. We back up this promise with strict data protection standards, 
+a data protection system and far-reaching technical and organisational measures.
+Fielmann formulated standards in its directive on data protection and privacy in order 
+to fully comply with the statutory requirements of the GDPR. This internal directive 
+presents the data protection and privacy principles and their implementation at Fiel-
+mann Aktiengesellschaft as well as at its national and international subsidiaries. It 
+documents and sets out which requirements must be observed and implemented when 
+processing personal data. 
+Fielmann has committed itself to the following data protection and privacy principles:
+–	 Legality and fairness of data processing
+–	 Purpose of data processing
+–	 Transparency in data processing
+–	 Data avoidance and minimisation
+–	 Data protection by design and default
+–	 Data deletion and storage limit
+–	 Factual accuracy and up-to-date data
+–	 Confidentiality and data security
+–	 Maintaining the rights of the persons concerned
+The implementation of the data protection and privacy standards is ensured by way 
+of a centralised data protection system. This embeds the data protection directive in 
+all parts of the company. 
+This directive governs the responsibilities within the system as follows: The Management 
+Board of Fielmann Aktiengesellschaft and the respective managements of the subsidi-
+aries are responsible for the lawful processing of personal data. Within the framework 
+of the data protection system, the Data Protection Officers, the Legal department, the 
+Governance department and a law firm specialised in data protection and privacy laws 
+work closely together. Nevertheless, the overall responsibility for the data protection 
+system and its further development remains with the Management Board.
+As far as required by applicable national laws, the companies in the Fielmann Group 
+have appointed a Data Protection Officer. The Data Protection Officers are respon-
+sible for information, cooperation and monitoring tasks, as set out in Article 39 of 
+the GDPR. They inform and advise the boards, managers and employees on the rel-
+evant data protection stipulations and monitor compliance with the regulations. The 
+Fielmann Data Protection Officers are equipped with sufficient staffing and financial 
+resources.
+Fielmann’s data protection 
+and privacy standards
+The Fielmann data  
+protection system
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+24
+The company Data Protection Officers are consulted before the approval of guidelines, 
+training documents or key decisions on data protection and privacy. They check and 
+assist all the relevant projects and work towards ensuring a lawful management of 
+personal data.
+The Legal department is appointed by the Management Board to consult on decisions 
+relating to data protection and privacy. It is charged with regularly checking and 
+further developing Fielmann’s data protection and privacy standards with regard to 
+statutory stipulations and technological changes. For this purpose, our in-house legal 
+experts work together with an international law firm specialised in data protection 
+and privacy.
+Besides the IT architecture and the business processes, the “Governance” unit care-
+fully monitors information security and data protection. It further develops the tech-
+nical and organisational measures on data protection, assists all projects relevant to 
+data protection and offers concrete support when it comes to implementing internal 
+guidelines and legally governed regulations. This unit set up a project-based data 
+protection team in the financial year 2018 to implement and further develop the 
+data protection standards. In addition, a “subject rights” process was established 
+with in-house staff who were specially trained. Governance is responsible to the 
+Management Board for the documentation, evaluation and security of sensitive 
+data. In this role, the Governance department plays a central role in the continuous 
+further development of the data protection system. 
+The Governance department receives instructions from the Management Board, the 
+Data Protection Officers and the legal department and translates them into technical 
+and organisational measures that, in turn, are received by the employees responsible 
+for processing personal data. As part of the revision of the standard contract for order 
+processing as per Article 28 of the GDPR, the technical and organisational measures 
+to be agreed upon were reviewed and revised in 2018.
+The technical and organisational measures are determined in consideration of the 
+given risks, the present state of technology, the implementation costs and the type and 
+extent of the circumstances and purposes of the data processing, pursuant to Article 
+25 of the GDPR. In order to guarantee a level of protection appropriate to the risks, 
+these measures include the following:
+–	 the pseudonymisation and encryption of personal data
+–	 the ability to permanently ensure the confidentiality, integrity, availability and 
+capacity of the systems in relation to the data processing
+–	 the ability to quickly reestablish the availability of personal data in the event 
+of a physical or technical incident
+–	 a procedure for regularly testing, assessing and evaluating the effectiveness 
+of the technical and organisational measures that ensure that the data is pro-
+cessed securely.
+Technical and operative 
+measures for data security
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+25
+All enquiries regarding data protection can be made at any time and free of charge 
+to the number +49 (0)800 34 35 626 or e-mailed to datenschutz@fielmann.com. All 
+data protection enquiries sent to us by those affected or by regulatory authorities are 
+documented, checked and processed. Since May 2018, Fielmann has pointed this 
+out to all customers via information brochures. 
+If customers are interested in Fielmann's new digital services, they are comprehensively 
+informed about which data are collected by the company, and for what purpose. In 
+this event, customers must give their explicit consent in written form. The right to object 
+is open at all times.
+Data protection is not just a technical issue. It is important to Fielmann that all em-
+ployees understand the statutory requirements and additional internal stipulations. 
+The proper way of implementing the technical and operative measures should also 
+be available to employees. Only once data protection is fully embedded in the daily 
+work of employees will it be possible to continuously raise the data protection level. 
+What’s more, Fielmann regularly trains all the project managers and has also insti-
+gated the following measures:
+–	 Commitment of all employees to data protection (upon recruitment)
+–	 Distribution of the directive on data protection and privacy
+–	 Regular training on data protection
+–	 Distribution of a flyer to employees containing basic information on data 
+protection
+–	 Distribution of a flyer to customers about data protection
+Data protection and privacy is deeply embedded at Fielmann from an organisational, 
+technical and management perspective. The proper processing of personal data is 
+governed by strict data protection standards that are continuously reviewed and 
+further developed by the legal department. The data protection system uses clear 
+responsibilities, technical and operative measures, and regular training to achieve a 
+constant improvement of data protection.
+GRI 103 
+Results in the reporting year
+In the reporting period, there were no infringements regarding breaches of customer 
+privacy or losses of customer data. We are also unaware of any unauthorised access 
+to data or infringements against statutory stipulations or the internal data protection 
+directive. Fielmann engaged in constructive communications with the data protection 
+authority in Hamburg throughout the reporting year.
+With regard to the enforcement of the new GDPR, Fielmann implemented the neces-
+sary changes in the reporting year by 25 May 2018. In the second half of 2018, the 
+data protection system was further integrated with the information security manage-
+ment system (ISMS). 
+Training courses and  
+professional development 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+26
+The Data Protection Officers will continue to attend to their legally governed supervi-
+sory duties. The legal department is further developing the data protection directive, 
+and the Governance department is improving the data protection system.
+Share of answered enquiries within five working days  In the financial 
+year 2018, a total of 205 enquiries related to data protection were sent to Fielmann. 
+These included requests for data information, deletion and updates. We were able 
+to answer the enquiries within five working days in 88% of cases (Achieved level: 
+88%). For a further 7% of the enquiries we needed up to ten working days for the 
+final answer. Fielmann will further optimise the processes to achieve its target level of 
+a 95% response within five working days. 
+Training level of project managers  Through various information measures and 
+training, all project managers were informed about legal requirements and the data pro-
+tection standards at Fielmann in 2018 (Achieved level: 100%). The training of project man-
+agers to deal with technical and organisational measures remains a continuous process. 
+GRI 418–1 
+Quality assurance
+Fielmann is the market leader in terms of prices and quality. Our quality assurance not 
+only monitors legal compliance, but also covers Fielmann’s guarantees for the quality 
+of its products: Fielmann provides a Three Year Warranty on all glasses. Our customers 
+buy without risk and we take every complaint seriously. If customers are not satisfied 
+with their choice of new glasses, Fielmann will exchange the pair or reimburse the full 
+purchase price. This guarantee is valid at any time. 
+Business environment and requirements
+Almost all the products sold by Fielmann, including lenses, frames, over-the-counter 
+reading glasses, contact lenses, contact lens cleaning products and hearing aids, 
+are medical products. They are subject to the European Directive 93/42/EEC. In 
+Germany, the Directive is covered by the medical products law (MPG). The CE mark 
+attests to the marketability of a medical product within the European Economic Area. 
+Regulation (EU) 2017 / 745 on medical products came into force on 25 May 2017. 
+It largely replaces, among others, the European Directive 93/42/EEC.
+Fielmann also sells sunglasses without prescription. They are considered as personal 
+protective equipment as per the European Directive 89/686/EEC, which also applies in 
+Germany. This directive was replaced by the Regulation (EU) 2016/425, applicable in 
+all EU member states, governing personal protective equipment with effect from 21 April 
+2018. Health and occupational safety is now guaranteed by a clear and uniform EU 
+law without it having to be implemented into the laws of all individual EU member states. 
+Legal regulations stipulate that only trained opticians are permitted to carry out the 
+fitting and dispensing of prescription glasses, as well as carrying out eyesight tests. 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+27
+Payments by statutory health insurance providers are preceded by a so-called pre-
+qualification process. This checks whether the requirements for sufficient, appropriate 
+and fit-for-purpose manufacture, sale and fitting of medical aids is being fulfilled. It 
+includes a test regarding the specialist qualifications, general and organisational re-
+quirements as well as spatial and practical requirements. If all the conditions are met, 
+the business premises will receive a corresponding certificate and are then entitled to 
+arrange payments with statutory health insurance providers. 
+These provisions and measures are essential for the protection of customer health. 
+Incorrectly fitted lenses can lead to prismatic side effects, which can bring about 
+fatigue, nausea or headaches. 
+Fielmann maintains and improves the quality of its products along the entire value 
+chain. With regard to the current state of technology, we do not believe it is possible 
+to ship prescription glasses in Fielmann quality. We are pursuing the strategic goal 
+of providing customers with a unique experience in an omnichannel world of quality 
+prescription eyewear. This requires innovative technologies such as real-time 3D try-on 
+technologies, millimetre-precise lens fitting and an online eye test. Fielmann Ventures 
+is developing these key technologies independently and in partnership with technol-
+ogy companies and innovative start-ups. We do not tolerate any loss of quality in 
+comparison to our service in the stores.
+GRI 103 
+Objectives
+Fielmann regards its quality assurance as a significant competitive advantage. For us, 
+it is not enough to simply meet the statutory requirements governing product quality. 
+Instead, we commit ourselves to stricter quality standards that are continuously further 
+developed and tested at our own quality laboratory in Rathenow. 
+Share of assessed suppliers  Fielmann’s objective regarding collaboration 
+with suppliers is for its frames, lenses, sunglasses, contact lenses and hearing aids 
+to be sold exclusively by suppliers who can guarantee us the quality of their products 
+via CE declarations of conformity as well as full test documentation. Fielmann cor-
+roborates these guarantees with additional tests in its own lab. (Target level: 100%). 
+Share of assessed frames in the Fielmann Collection  Fielmann also aims to 
+ensure that all the frames in Fielmann’s own collection successfully pass the quality tests in 
+Rathenow (Target level: 100%).
+GRI 103 
+Concepts, management and measures
+Even before the introduction of the Three Year Warranty in 1977, Fielmann undertook 
+a wide range of measures to ensure the quality of its products. For example, Fielmann 
+built its own laboratory many years ago, where the quality of the products is assessed 
+before they are added to the collection. 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+28
+Our very own Quality Management department is responsible for all the quality 
+assurance measures in the company. This unit is deeply incorporated in Fielmann’s 
+entire value chain and has reported directly to the Chairman of the Board since 2006. 
+Besides the organisational and process-related integration of the quality assurance, 
+Fielmann also undertakes the following measures in order to guarantee the quality 
+of its products:
+–	 Process control through our own production facilities
+–	 Centralised quality control in Rathenow
+–	 Automated control systems
+–	 Continuous further development of the test criteria
+By manufacturing many of the products we sell, we are able to control the complete 
+value chain, from checking the raw materials to mounting the glasses. A quality 
+management system set up in accordance with DIN ISO 9001 ensures a standard-
+ised organisation with highly automated manufacturing and testing processes at a 
+consistently high quality. 
+Before a lens completes the production process, it is tested up to ten times. Every 
+single lens is tested to see if there are any mistakes in the surface and material used, 
+while all the optical and geometric parameters are also checked. In the unlikely 
+event of disruptions to operations or long-lasting production stoppages, Fielmann 
+has instigated a risk management system with comprehensive precautionary meas-
+ures. Fielmann is insured against any loss that may nevertheless occur as a result 
+of long-lasting shortages. 
+Fielmann supplies more than 8 million frames every year. All eyewear models in the 
+Fielmann Collection have been successfully tested in accordance with EN ISO 12870 
+standards in our quality laboratory in Rathenow. They are rust-proof, non-fade and 
+release much less nickel than is stipulated by the German Commodities Ordinance. 
+This applies without exception to all price categories. 
+We simulate a three-year period of wearing glasses as part of our rigorous tests. The 
+frames must meet the highest operational requirements – as must the hinges. A spe-
+cial solution is sprayed onto the glasses to test the reactions to sweat, make-up and 
+weather conditions, and it also allows us to check the colour fastness and stability of 
+the coating. After successfully passing the tests, the frames are given a Three Year 
+Warranty and are added to the Fielmann Collection.
+Sunglasses are subjected to the same procedures, but also have to comply with the 
+strict requirements regarding the lenses’ UV protection. Fielmann sells a wide range 
+of sunglasses with so-called “UV-400” protection, which goes beyond the standards 
+required by the EU and is labelled in the form of a sticker or print inside the frame.
+Process control through  
+our own facilities
+Centralised quality control  
+in Rathenow
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+29
+Fielmann takes part in the further development of internationally recognised ISO 
+standards for frames and lenses, and also updates its far-reaching internal guidelines 
+and stipulations. With many test methods, such as for nickel release in metal frames, 
+Fielmann sets stricter criteria than required by the standards. We regularly check our 
+test procedures and develop them even further.
+At Fielmann, branded products are also only sold if they meet Fielmann's strict quality 
+standards. We only work with brand manufacturers that can guarantee us the quality 
+of their products via the CE declarations of conformity and certifications. Fielmann also 
+regularly checks selected samples of all deliveries in order to guarantee a consistently 
+high level of product quality.
+In the event of returns, experienced opticians check the returned items and document 
+their findings on durability, material defects or similar problems. If complaints are 
+frequently received about specific products, the Quality Management department 
+quickly steps in to take corrective measures. Customer queries and test results that may 
+have to be reported to government agencies are documented, assessed and – where 
+necessary – reported.
+Our IT-based check of incoming goods reduces potential risks and ensures our qual-
+ity standards over the long term. Sample sizes, test results and product features that 
+require improvements are documented in a system and quickly communicated to the 
+production department. We inform the suppliers throughout the entire period about 
+the results of the current checks and about possible changes to the product quality. 
+We are capable of responding rapidly in the event of any variations in quality.
+GRI 103 
+Results in the reporting year
+With our own production facilities, the centralised quality controls in Rathenow and 
+automated control systems, Fielmann has taken comprehensive measures to comply 
+with statutory regulations. What's more, our own quality requirements are much 
+stricter than required by law. 
+In the financial year 2018, there was no incident that needed to be reported to the 
+relevant authorities in line with the medical products law.
+Share of assessed suppliers  In the reporting year 2018, Fielmann exclusively 
+sold frames, lenses, sunglasses, contact lenses and hearing aids delivered by listed 
+suppliers (Achieved level: 100%).
+Share of assessed frames in the Fielmann Collection  In 2018, all the 
+frames in the Fielmann Collection successfully passed the strict quality tests in Rathe-
+now (Achieved level: 100%).
+GRI 414–1  GRI 416–1 
+Automated control systems
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+30
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+31
+Responsibility for our employees
+Basis of our success
+The basis of our success is our skilled and committed employees who embody our 
+philosophy. They recognise themselves in the customers and offer them the kind of 
+advice that they would like to receive themselves. They have the satisfying task of find-
+ing the best possible solution for everyone, irrespective of the budget. Our employees 
+continuously participate in training courses, take tests and receive certifications. We 
+recognise elites and offer talented young people clear objectives and compelling 
+values. We assist our employees in all phases of their careers by providing targeted 
+measures and offering them individual career plans.
+Fielmann is the market leader in Germany, Austria and Switzerland, and is expanding 
+in neighbouring European countries. We are rapidly driving our expansion in our 
+growth markets Italy and Poland. As far as we are concerned, expansion is not an 
+end in itself. We are expanding in order to meet customer needs. 
+Our success abroad is attributable to the fact that we have been able to export the 
+principles of our success into the neighbouring countries. We offer consumers the cer-
+tainty of being able to get high quality products and expertise at reasonable prices. 
+Compared to Germany, we stand out even more clearly from the competition when it 
+comes to location, selection, price and expert advice.
+As of 31 December 2018, Fielmann employed a total of 19,379 employees (previous 
+year: 18,522).
+Staff as at balance sheet date
+2018
+2017  
+Employees (excluding trainees)
+15,526
+15,105
+Employees in Germany
+12,736
+12,379
+Employees in Switzerland
+1,222
+1,183
+Employees in Austria
+641
+646
+Employees in other countries
+927
+897
+Trainees
+3,853
+3,417
+Total employees
+19,379
+18,522
+In our core markets of Germany, Austria and Switzerland, we employed 18,441 peo-
+ple (95.2%) as at the balance sheet date. Another 938 employees work for Fielmann 
+in adjacent European countries.
+Countries and regions
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+32
+Overview of employment contracts1  
+2018
+2017  
+Total employees
+18,441
+17,617
+Male
+27.8%
+27.0%
+Female
+72.2%
+73.0%
+Employees with full-time contracts
+12,824
+12,300
+Male
+35.8%
+34.4%
+Female
+64.2%
+65.6%
+Employees with part-time contracts
+5,617
+5,317
+Male
+9.4%
+9.6%
+Female
+90.6%
+90.4%
+GRI 102–8 
+For Fielmann, customer satisfaction is the most important performance indicator. A 
+considerable proportion of the bonuses paid to store managers and the Management 
+Board is dependent on the satisfaction of our customers. In addition, Fielmann gives 
+its employees the opportunity to acquire an interest in the company. More than 85% 
+of our employees hold Fielmann shares and receive dividends in addition to their 
+salaries. This is a motivational factor and our customers benefit as a result. Fielmann's 
+employee remuneration lies above the recommendations made by the Central Asso-
+ciation of Opticians (ZVA).
+GRI 102–41 
+Fielmann views diversity among its employees as a success factor. We attach great 
+value to diversity and regard the requirements stipulated in the General Equal Treat-
+ment Act (AGG) as a matter of course. At Fielmann, no employees or customers are 
+discriminated against because of their race or ethnic background, gender, religion or 
+ideology, disability, age or sexual identity.
+Fielmann encourages diversity and equality, and is encouraging women to take on 
+management positions, for example. The proportion of women in the top three man-
+agement levels below the Management Board stands at over 30%. The share of highly 
+qualified women with professional experience continues to rise. By adopting flexible 
+working arrangements, Fielmann has established a family-friendly environment for its 
+employees. Approx. 30% of our employees work in part-time positions. Fielmann is 
+Remuneration
+Diversity in the workforce
+1) There are no reports of other gender identities in the company for 2018.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+33
+therefore highly successful in accommodating individual requests for a better work-
+life balance. 
+Every year, over 10,000 young people apply for a vocational training course at Fiel-
+mann. More than 1,500 young talents start their career with us. Our apprentices are 
+the best in the business – as testified by the national awards they win. In the German 
+optical industry competition, Fielmann has accounted for an average of 80% of the 
+regional winners and 97% of the national winners over the last ten years.
+Career opportunities are wide-ranging at Fielmann. Whether in one of the more than 700 
+stores in Europe, the Fielmann Academy at Plön Castle, the design studios, the production 
+facilities or the headquarters – an apprenticeship at Fielmann opens many doors. 
+Business environment and requirements
+Fielmann is continuing to expand and we are increasing our efforts to recruit qualified 
+new employees. The general conditions for this growth are challenging: as demographic 
+changes are leading to a reduction in the numbers of high school graduates, fewer 
+young people are choosing to enter an apprenticeship in skilled craftsmanship. The 
+optical industry and hearing aid business are experiencing almost full employment. 
+The job of an optician is wide-ranging. When opticians determine the customer’s 
+prescription, they are performing a task that, in Germany, is still associated with oph-
+thalmologists. When choosing a frame and lens, opticians act as consultants for both 
+fashionable eyewear and good vision. In their workshop, they work as craftspeople. 
+When it comes to an eye test, frame selection, lens advice, optometric fitting, people 
+place great trust in the expertise of their optician – as confirmed by independent 
+reports. Legal regulations stipulate that only trained opticians are permitted to fit and 
+dispense prescription glasses, and administer eyesight tests. Equivalent qualifications 
+are also required for fitting contact lenses.
+The hearing aid market is a growth market. In 2018, more than 1.4 million hearing 
+aids were fitted by ENT doctors and 6,600 hearing aid shops in Germany. In our 
+industrialised society, people are living longer and have ever greater demands. They 
+not only want to see well, but also to hear well. Our long-standing customers in the 
+core catchment areas alone require more than 100,000 hearing aids per year. Fiel-
+mann is serving the needs of its customers in this sector and is therefore expanding 
+steadily. At the end of the reporting year, Fielmann had 193 hearing aid studios, with 
+plans to increase this to 350 in the long term. 
+Training at Fielmann
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+34
+Hearing healthcare professionals are experts for good hearing, digital craftsmen and 
+empathetic consultants. Their work boosts the quality of their customers’ lives. They 
+analyse people’s hearing needs and find an individual solution for every customer. 
+Modern hearing aids are technological masterpieces. Hearing professionals program 
+them, customise them to each customer’s needs, and manually produce perfectly fitting 
+earpieces. 
+GRI 103 
+Objectives
+Fielmann is not only the market leader in terms of price, but also in matters of quality, 
+service, expertise and training. Fielmann's training is continuously improved, further 
+developed and certified. We continuously qualify our employees and thereby ensure 
+a level of expertise that we can guarantee to our customers in the stores. 
+All Fielmann stores in Germany and abroad are run by master opticians and optom-
+etrists. They are supported by a team of friendly, competent staff consisting mainly of 
+certified opticians. Naturally, the in-store hearing aid studios are managed by trained 
+hearing healthcare professionals.
+Where possible, we fill the management positions in our stores, headquarters in 
+Hamburg, and production and logistics centre in Rathenow from within our own 
+ranks. We place great demands on our managers. They receive training courses in 
+customer orientation, employee and business leadership, as well as staff and organ-
+isation development.
+Fielmann stores generate between five and ten times the sales revenues of the average 
+optician, and our bigger stores record up to fifty times the sales of an average optician. 
+Our flagship stores in big cities achieve turnovers of between ¤4 m and ¤20 m. Since 
+stores of this size are unique in the industry, we have to train store managers ourselves. 
+The Fielmann Academy at Plön Castle prepares the next generation of opticians for 
+Europe. In Plön, we train more than 7,000 opticians every year. The Academy is also 
+available to external opticians for master craftsman’s courses and colloquia.
+Fielmann makes an important contribution to the training of skilled trades in Germany. 
+Our vocational training is carried out with German precision and thoroughness, both 
+in Germany and abroad. We also transfer our standards with regards to secure, fair 
+and family-friendly working conditions to the new markets.
+Newly created jobs each year  Fielmann is expanding and aims to create new 
+jobs every year1. 
+1Fielmann reports its own key indicators for the “Employment” topic and
+does not orientate itself to the GRI standard in this case.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+35
+Training and education  Fielmann trains and develops its employees according 
+to their needs. On average, one working week per year is spent on training and 
+education measures. We plan to continue this measure in the next few years on a 
+similar scale. The Fielmann Academy colloquia will remain a permanent fixture for 
+the exchange between science and practical application.
+GRI 103 
+Concepts, management and measures
+We can only extend our lead in the market if each and every one of our employ-
+ees is the best in his or her field. Satisfied customers are the prerequisite for our 
+success and the basis for the job security that Fielmann offers its employees. This 
+is why we invest tens of millions in training and development courses every year. 
+In the reporting year 2018, this figure stood at more than ¤20 million. 
+Our apprentices undertake three years of optical training. The vocational school 
+teaches the theoretical skills and the master opticians in the stores train the craftsman-
+ship. Additional training courses at the Fielmann Academy at Plön Castle and at the 
+central training workshops deepen and complement their education.
+People who take part in training courses at Fielmann will be comfortable at all levels 
+of the optical industry: skilled craftsmanship, industrial production and professional 
+management. We are the only training provider in the industry that doesn’t just intro-
+duce its apprentices to the optical trade in general, but can also include its own design 
+studios, frame production and its own lens surfacing facility in the internal training 
+program. Clearly it is of great benefit to our customers that our staff has a specialist 
+knowledge about the design and aesthetic concept of glasses, about the production of 
+frames and lenses, and also about the customization process for their chosen glasses.
+By offering hearing aids, Fielmann fulfils customer wishes beyond their visual needs. 
+We also plan to expand in this area, and will open even more hearing aid studios. In 
+Germany and Switzerland, Fielmann trains and develops hearing care professionals. 
+More than 150 apprentices per year begin their career at Fielmann in the hearing 
+acoustics business. We actively support the apprentices in career planning and also 
+offer them the opportunity to attend the school for master craftspeople. We also use 
+trainee programmes to qualify our future leaders. 
+What’s more, Fielmann offers vocational training at the Production and Logistics 
+Centre in Rathenow: courses in forwarding, warehouse logistics, IT and industrial 
+mechanics for the optical industry are all available. At its Hamburg headquarters, 
+Fielmann provides attractive perspectives with a range of apprenticeships and dual 
+degree courses.
+Investing in the future
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+36
+Customer needs, technical possibilities and trends in fashion change constantly, 
+which is why we train our employees so often and allow them to develop and 
+expand their professional expertise in many ways. Our opportunities for devel-
+opment are equally open to everyone. Our regular seminars provide concrete 
+possibilities for further personal and professional development. 
+Fielmann sees excellent potential in the regionalisation and digitisation of the avail-
+able courses. This will enable us to train people at more flexible times and at any 
+location. On the one hand, we will reach more employees in a shorter time while, 
+on the other hand, we can promote a work-life balance, enabling our staff to better 
+integrate their training into their daily lives. 
+In 2018, we took an important step in the field of regionalisation by opening the Fiel-
+mann Training and Professional Development Centre in Offenbach on 1 August 2018. 
+In an area covering 2,000 square metres and three floors, Offenbach now hosts our 
+7th training centre for optics and our 2nd training centre for hearing acoustics. Up to 
+120 participants can receive training in a maximum of 12 events per day. Fielmann 
+invested approximately. ¤2 million to build this training centre.
+Our courses offer a wide range of customised training. This makes it possible to 
+target the further development of specialist skills, as well as skills in communication 
+and leadership. Employees who have been absent from work for a lengthy period of 
+time also receive our full support when they return. In this way, Fielmann encourages 
+a step-by-step return to working life.
+We place great demands on our managers and, as a rule, develop them from within 
+our own ranks. We also offer master courses at Plön Castle, both full-time. State-
+of-the-art technology combined with innovative teaching methods add to the high 
+standard of our training.
+The Fielmann Academy at Plön Castle was founded as an educational institution for 
+the optical industry. At Plön Castle, more than 100 instructors and trainers, as well as 
+dozens of other professionals, provide superior training to our employees on subjects 
+such as the company philosophy, optical craftsmanship, frame and lens consulting, 
+eyesight tests and biomedicine. 
+With this trainee program, Fielmann prepares future managers for the demanding 
+work involved in running a store. Further development is aided by targeted training 
+sessions.
+GRI 103 
+Career at Fielmann
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+37
+Results in the reporting year
+Fielmann is continuing to expand and we are increasing our efforts to recruit qual-
+ified new employees. With only 5% of all optical stores, Fielmann trains more than 
+40% of Germany’s future opticians. After successfully completing their training, we 
+employ around 80% of the graduates – more than 4,000 in the last five years. As at 
+31.12.2018, 3,853 apprentices (previous year: 3,417) were learning their trade with 
+Germany’s market leader. 
+Fielmann managed to successfully implement its personnel measures in the reporting 
+period and thereby achieve the objectives it set itself. 
+Newly created jobs each year  Fielmann created 857 additional jobs last year 
+(previous year: 649). 
+Training days  In the reporting year 2018, Fielmann once more invested over 
+¤20 million in training and continued professional development. On average, our 
+employees in Germany attended 6.0 days of continuing education and training in 
+2018 (previous year: 6.1 days).
+ 
+2018
+2017
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of 
+employees
+ 
+Working 
+days for 
+training and 
+professional 
+development
+Average 
+number of 
+training and 
+professional 
+develop-
+ment days
+ 
+ 
+ 
+ 
+Number of 
+employees
+ 
+Working 
+days for 
+training and 
+professional 
+development
+Average 
+number of 
+training and 
+professional 
+develop-
+ment days
+Entire workforce
+16,200
+97,517
+6.0
+15,427
+94,816
+6.1
+Male
+4,490
+30,096
+6.7
+4,117
+27,493
+6.7
+Female
+11,710
+67,421
+5.8
+11,310
+67,323
+6.0
+GRI 404–1 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+38
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+39
+Responsibility for society
+Social responsibility
+As a family business, Fielmann plans for the long-term. We assume responsibility for 
+our customers, our employees and for society. As far as we are concerned, investing 
+in society is an investment in the future. Our company's values are characterised by 
+mutual trust and shared responsibility, by the protection of natural resources, and by 
+our ethical behaviour in business life.
+As market leader, Fielmann campaigns for nature and society: for environment and 
+nature conservation, for heritage preservation and culture, and for education and 
+research. Fielmann is committed to the society in which we live and work because we 
+understand that a company can only enjoy long-term success in an intact, well-bal-
+anced social environment. For this reason, we want to give back some of the things 
+that we gain from being part of a community. This belief is the basis of our long-term 
+commitment to society.
+Fielmann respects law and order, both locally and internationally. We expect the same 
+from our employees and our business partners. Mistakes made by individuals can 
+cause enormous economic damage. The loss of trust that accompanies legal infringe-
+ments is even more serious. We expect our business partners to recognise the same 
+ecological and social standards that we set for ourselves. We oblige our suppliers to 
+comply with these standards as part of our Code of Conduct.
+GRI 102–16 
+Business environment and requirements
+Fielmann assumes responsibility where the company is active in business and where 
+help is required. Fielmann is particularly committed to the environment and nature pro-
+tection, education and research, as well as the preservation of historical monuments 
+and culture. We encourage investments in infrastructure and services. Our focus lies 
+on long-term partnerships with charitable, regional organisations.
+GRI 103 
+Objectives
+Fielmann plants a tree for each employee every year, supports long-term monitoring 
+projects for nature and environmental protection, supports medical projects and re-
+search, is involved with organic agriculture and monument preservation, and supports 
+kindergartens and schools. On top of all that, Fielmann sponsors a wide range of 
+youth sports.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+40
+Planting trees  The tree is the symbol of life. Fielmann’s objective is to continue 
+planting a tree for each employee every year.
+Investing in young talent  Fielmann donates kits and equipment, offers prizes 
+and cups, and also promotes youth tournaments and competitions. Well over 10,000 
+girls and boys teams play and win wearing shirts sponsored by Fielmann. We plan to 
+continue this commitment over the next few years on a similar scale.
+Funding museums and archives  Fielmann supports local museums, archives 
+and historical societies holding regional collections. Every year, Fielmann spends a 
+significant six-figure amount on this cause. We wish to continue our commitment to 
+this area in a similar dimension.
+GRI 103 
+Concepts, management and measures
+Fielman Aktiengesellschaft’s social activities have been coordinated by the Commu-
+nications and PR department for decades. This department reports directly to the 
+Chairman of the Management Board Marc Fielmann, and is also responsible for 
+documenting and publishing the activities. The Chairman of the Board decides on the 
+amount and manner of the commitment, while bearing in mind the regulations in the 
+German Stock Corporation Act (AktG), the Articles of Association and the Rules of 
+Procedure for the Management Board.
+Fielmann has been active in the protection of the environment and nature for many years. 
+Fielmann creates green classrooms and playgrounds, sets up biotopes and orchards, 
+and supports forestation projects and renaturation campaigns. Fielmann also regularly 
+supports larger activities that benefit the community. For example, the company is a 
+partner of the Federal State of Schleswig-Holstein in the festivities for German Unity Day 
+2019. As a symbolic opening act, the Minister President Daniel Günther and the Chief 
+Executive Officer Marc Fielmann planted 16 trees, representing Germany's 16 Federal 
+States in November 2018 at Christian-Albrecht University in Kiel. 
+Günther Fielmann runs three organic farms on more than 2,000 hectares, including 
+900 hectares of farmland, in Schleswig-Holstein: Hof Lütjensee in Stormarn, Hof 
+Ritzerau in the Duchy of Lauenburg, and Gut Schierensee near Kiel in the district of 
+Rendsburg-Eckernförde. The farms are all members of Bioland – the largest organic 
+food association in Germany.
+Protection of environment 
+and nature
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+41
+At Hof Ritzerau, the Ecology Centre at Christian-Albrechts University in Kiel is im-
+plementing a long-term monitoring programme which will scientifically monitor the 
+conversion of conventionally cultivated land into organic cultivation, and then observe 
+organic farming for an initial period of 15 years. In the conflict between economy and 
+ecology, the effects of conventional agriculture and the subsequent organic farming 
+on the land, water, plants and animals are being studied. 
+At Hof Lütjensee, Fielmann breeds endangered species of old domestic animal breeds 
+as genetic reserves, such as Red Holstein cattle (old type), Angeln Saddleback pigs, 
+Husum Red Pied Saddleback pigs, and Jezersko–Solčava sheep.
+Fielmann takes up the idea of team spirit and the concept of developing young talent 
+by supporting youth sports. We donate kits and equipment, offer prizes and cups, and 
+also promote tournaments and competitions. We regard the youth work undertaken 
+by regional sports clubs as an important social contribution to our society.
+The Fielmann Academy purchased Plön Castle in January 2002 from the Federal State 
+of Schleswig-Holstein. Fielmann preserves this heritage site for the good of society. The 
+Fielmann Academy at Plön Castle regularly hosts meetings for the worlds of politics 
+and business, the arts and culture.
+For many years now, Fielmann has generously supported local museums, archives and 
+historical societies holding regional collections, as well as all kinds of cultural institutions. 
+We fund selected exhibits, support and facilitate restorations, and advise small volun-
+tarily managed local history museums in partnership with the state museum association.
+GRI 103 
+Results in the reporting year
+Fielmann has achieved the objectives it set itself in 2018 in the fields of infrastructure 
+investments and subsidised services.
+Planting trees  In 2018, Fielmann planted a total of 30,095 trees (previous year: 29,352) 
+and 12,418 bushes (previous year: 11,831) in Germany, Switzerland, Austria and Italy.
+Investing in young talent  In 2018, Fielmann sponsored 439 teams in youth 
+sports (previous year: 400).
+Sponsoring museums and archives  Also in 2018, Fielmann made more than 
+50 donations for the promotion of culture (previous year: more than 50).
+GRI 203–1 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+42
+Social contributions in 2018
+GRI 203–1  
+20,703
+315
+2,419
+3,482
+2,106
+7,581
+265
+353
+Trees and bushes planted
+Additional youth teams supported
+Donations to museums and archives
+54
+26
+13
+77
+5
+618
+29
+354
+225
+35
+361
+20
+1
+1,178
+35
+6
+7
+1
+2
+4
+52
+7
+36
+11
+13
+19
+25
+39
+5
+3
+19
+7
+33
+2,080
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+43
+Social standards in the value chain
+Fielmann seeks to constantly meet its quality standards, comply with law and order, 
+and observe ecological and social standards along the entire value chain of suppliers 
+and partners. We  regard it as our corporate duty to respect ethical principles when 
+dealing with our employees, society and environment. For us, organic growth is the 
+goal, not maximum profit. We expect the same of our business partners. 
+Fielmann has drawn up a Code of Conduct as a binding guideline for its suppliers. This 
+Code of Conduct is based on the recognised principles of the UN Global Compact 
+and contains a catalogue of basic values that must be recognised and implemented 
+along the entire supply chain of Fielmann Aktiengesellschaft. These basic principles 
+apply equally to all Group companies of Fielmann Aktiengesellschaft.
+The Code of Conduct is about prohibiting corruption and bribery, regulating invita-
+tions and gifts, ensuring health and occupational safety, environmental protection and 
+energy efficiency, and the legal obligations to prevent money laundering. 
+A particular focus has been put on human rights. Equal opportunities and equal 
+treatment of employees must be promoted, without regard to people’s race or ethnic 
+background, gender, religion or ideology, disability, age or sexual identity. Every 
+individual’s personal dignity, privacy and personal rights must be respected. Forced 
+labour, unacceptable treatment of workers, psychological cruelty, sexual and personal 
+harassment, and discrimination must not be permitted or tolerated.
+GRI 103  GRI 102–16 
+Business environment and requirements
+Fielmann has shaped the optical industry. We cover the entire value chain in this 
+industry. Our Production and Logistics Centre is located in Rathenow, the birthplace 
+of German glasses production. Fielmann has bundled its expertise in production and 
+logistics there.
+Under a single roof, we produce mineral-based and plastic lenses, fit them into the 
+customers’ individual frames and then deliver them overnight to our stores. In 2018, 
+we supplied more than 4.8 million lenses in a range of coatings and finishes, and 
+more than 8.2 million frames (previous year: 4.8 million lenses / 8.1 million frames).
+In Rathenow, we use state-of-the-art technology in production, and ensure that pre-
+cautions are taken to safeguard the environment, employee health and good working 
+conditions. A quality management system set up according to DIN ISO 9001 ensures 
+a standardised organisation with highly automated manufacturing and testing pro-
+cesses. This delivers a consistently high quality.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+44
+Branded products are only sold at Fielmann if manufacturers guarantee compliance 
+with Fielmann’s strict quality standards. The high standards we set in our own produc-
+tion also apply to the suppliers, partners and manufacturers we work with.
+GRI 102–9  GRI 103 
+Objectives
+The Code of Conduct contains a catalogue of basic values that ensure responsible 
+and ethical behaviour along Fielmann’s entire supply chain. All infringements against 
+the basic principles and requirements of the Code of Conduct is regarded by us as a 
+significant impairment to the contractual relationship. 
+Upon suspicion of non-compliance with the principles and requirements of the Code 
+of Conduct, Fielmann Aktiengesellschaft reserves the right to demand information on 
+the respective circumstances. If an infringement is established, Fielmann Aktienge-
+sellschaft is entitled to terminate without notice individual or all contractual relations 
+with suppliers who have been proven to infringe against or not to fulfil the Code of 
+Conduct.
+Assessing the suppliers  Fielmann's objective is to sell frames, lenses, sunglasses, 
+contact lenses, and hearing aids exclusively from suppliers who guarantee the Fiel-
+mann standards in the Code of Conduct with regard to social compatibility, working 
+conditions and environmental protection. Fielmann also obtains its own impression 
+of the conditions through additional visits to suppliers and production sites (Target 
+level: 100%).
+GRI 103  GRI 102–16 
+Concepts, management and measures
+Wherever Fielmann purchases materials or goods from third parties, we also transfer 
+the standards of our responsibility towards society, the environment and employees 
+to our suppliers. It is important to us that our partners live up to the same ecological 
+and social standards that we apply to ourselves. 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+45
+Fielmann aims to offer its customers products of an ideal quality that have been 
+produced in compliance with social and ecological standards. We therefore only 
+work with renowned, reliable partners, and invest in long-term, trust-based business 
+relations. The maintained ethical principles of potential business partners are a key 
+criterion when deciding which new suppliers to select. 
+Upon entering into business relations, Fielmann suppliers pledge not only to comply 
+with our Code of Conduct on their own premises, but also to ensure the same condi-
+tions with their subcontractors. The jointly signed Code of Conduct permits Fielmann 
+to check at any time that the standards are being observed with all trade and business 
+partners.
+GRI 103  GRI 102–16 
+Results in the reporting year
+Continuing our long-term collaboration with reliable partners proved to be a successful 
+approach in the reporting period too. 
+Assessing the suppliers  In the reporting year, all the current suppliers for frames, 
+lenses, sunglasses, contact lenses and hearing aids have committed themselves to the 
+Code of Conduct (Achieved level: 100%). 
+No significant changes were made in supplier relations. For this reason, no new 
+suppliers were audited with regard to social standards. If there are new suppliers for 
+frames, lenses, sunglasses, contact lenses or hearing aids in the current financial year, 
+Fielmann will seek to have them also commit to the Code of Conduct.
+GRI 414–1 
+ 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+46
+Gottorf Castle, Baroque garden
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+47
+Responsibility for the environment
+Saving energy and reducing emissions
+As an internationally active company, Fielmann is fully aware of its responsibilities 
+regarding the climate. We aim to use natural resources sparingly. When running our 
+stores, our Production and Logistics Centre in Rathenow, the Fielmann Academy at Plön 
+Castle or our administrative offices, we monitor the energy consumption and work to 
+reduce any emissions that may damage the climate.
+The topic of energy efficiency and environmental protection is deeply rooted in our 
+strategy and is clearly defined in our organisation. The Management Board has set 
+qualitative targets for energy efficiency and emissions reduction, while the quantitative 
+targets are updated in the annual planning process.
+Business environment and requirements
+For our customers and employees, high-quality lighting and suitable air conditioning 
+in the stores are important factors. However, they also have a considerable impact on 
+Fielmann’s energy consumption and CO2 emissions. Furthermore, Fielmann uses signif-
+icant amounts of energy to run the Fielmann Academy at Plön Castle, the Production 
+and Logistics Centre in Rathenow, and the administrative offices. The company’s fleet 
+of vehicles also contributes to CO2 emissions.
+Fielmann rents most of its store locations. In shopping centres, the energy supply 
+is managed by the owners. In such cases, Fielmann is hardly able to influence the 
+energy mix. The information provided is often incomplete, particularly with regards 
+to heating. For this reason, the following details mainly refer to the locations where 
+Fielmann manages the electricity and gas contracts itself. In these locations it is pos-
+sible to calculate the parameters and take the necessary measures.
+GRI 103 
+Objectives
+Fielmann aims to continuously reduce the energy consumption and emissions per 
+square metre of its stores, offices and production sites. To do so, we mainly invest 
+in technical innovations and services that are tested and reliable. The objectives are 
+realistic, considering the available resources. 
+After the Management Board set qualitative targets for lowering energy consumption 
+and greenhouse emissions in 2017, concrete quantitative targets were evaluated and 
+adopted in the reporting year. In the following years, these targets will be updated 
+annually as part of the planning process.
+Energy consumption per square metre  Our aim is to continuously reduce 
+energy consumption per square metre. For 2018, Fielmann has set itself the target of 
+reducing energy consumption in stores by 3%. We plan a similar reduction for 2019 
+and are aiming for a 5% reduction in 2020. 
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+48
+Reduction of CO2 emissions per square metre  Fielmann aims to reduce harm-
+ful CO2 emissions caused by its business activities. The concrete target for 2018 was to 
+reduce CO2 emissions caused by power consumption by at least 5% for each square 
+metre of store space. We will continue to pursue this target over the coming years.   
+GRI 103 
+Concepts, management and measures
+Pursuant to the Energy Services Act (EDL-G), Fielmann arranged for energy audits 
+to be conducted by an independent external certified service provider in 2015. The 
+measures developed to improve both energy efficiency and data collection were pri-
+oritised, categorised and translated into achievable tasks. Another energy audit will 
+be conducted in the current financial year. 
+The cross-departmental Energy Team will also review the catalogue of measures in the 
+current financial year and, if necessary, define process changes. The team reports to the 
+Management Board once every quarter. Where measures appear appropriate, they are 
+presented to the Management Board and implemented once approved. The Manage-
+ment Board is responsible for the strategy on energy efficiency and emissions reduction.
+Fielmann has set up a comprehensive collection and reporting system for energy effi-
+ciency and emissions. As part of a systematic approach, all accessible consumption 
+data is fully recorded. Besides the technical master data and power requirements for 
+equipment, the measurement documents and time-based analyses of the consumption 
+at individual locations are also included.
+The consumption of energy from our own electricity and gas contracts in Germany 
+and Austria is already collected and documented at meter level in a comprehensive 
+reporting system by the central Energy Purchasing department. In future, energy pur-
+chasing will be further centralised in a step-by step process. The aim is to document 
+the data in our other international subsidiaries and, based on the results, to then set 
+the target figures in order to achieve continuous optimisation.
+In an attempt to improve energy efficiency in the stores, Fielmann has initiated a variety 
+of measures. The Fixtures & Fittings department plays a key role here. This department 
+is responsible for maintenance work, building repairs and rectifying any defects in 
+the stores. The administrative processing and implementation of the required work 
+are based on uniform standards.
+Measures for a more
+efficient energy
+consumption
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+49
+For several years now, Fielmann has been increasingly using energy-saving LED lamps 
+in an attempt to achieve a sustained reduction in energy consumption. By switching 
+from conventional light bulbs to LEDs, the consumption of electricity per square metre 
+has fallen significantly. This measure alone often reduces a store's overall consumption 
+of electricity per square metre by more than 40%.
+In future, every Fielmann store will be fitted with energy-efficient lighting as part of 
+the regular rebuilding or modernisation work. This will affect more than 30 stores per 
+year. In the event of technical problems that impact a store’s energy consumption, no-
+tifications will be sent systematically and processed centrally until a solution is found.
+Besides the lighting, air conditioning systems are also a major factor in energy con-
+sumption. Over the next few years, Fielmann aims to develop the portfolio of refriger-
+ants to create a new, low-emission refrigerant blend. For this purpose, Fielmann is es-
+tablishing a database so that a detailed and priority-based implementation can follow.
+The measures presented for improving energy efficiency contribute directly to a signifi-
+cant emissions reduction. Furthermore, Fielmann has adopted a variety of measures to 
+target the reduction of greenhouse gas emissions that are harmful to the climate. For 
+example, Fielmann uses a heating plant with combined heat and power generation at 
+Plön Castle. This resource-efficient plant produces approx. 29% of the castle’s daily 
+power requirements.
+According to a study by the Heidelberg Institute for Energy and Environmental Re-
+search (IFEU), using public transport instead of private vehicles would reduce CO2 
+emissions by 73%. Fielmann encourages employees to use public transport by offer-
+ing them so-called job tickets. This represents a contribution to the reduction of CO2 
+emissions, particularly in those regions most affected by traffic and emissions. In the 
+financial year 2018, 1,738 employees took advantage of this service (previous year: 
+1,201). As part of the ‘bahn.business’ business customer program, Fielmann employ-
+ees travelled a total of 9,255,233 CO2-neutral kilometres on the DB rail network. At 
+the same time, the company’s fleet of more than 300 vehicles is being developed into 
+more energy-efficient models.
+The total of over 1.5 million trees and bushes planted by Fielmann already improve the 
+CO2 balance of Fielmann Aktiengesellschaft in the long term. Fielmann will continue 
+to plant a tree for each employee every year.
+GRI 103 
+Improving the CO2  
+balance
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+50
+1The table includes the values for the companies in Germany for which Fielmann directly purchases electricity 
+and gas. The energy consumption of the other locations and countries is entered step by step into the database 
+as part of the energy management. 
+*  Arbeitsgemeinschaft Energiebilanzen e.V. (Working Group on Energy Balances)
+Results in the reporting year
+Thanks to its strategy for energy efficiency and emissions reduction, the integration of 
+the Energy Team, and the catalogue of measures, the Management Board has taken 
+appropriate steps to sustainably improve Fielmann’s energy and CO2 balance. In 
+Austria, for example, we are already relying completely on renewable energies for 
+our electricity needs, and therefore do not have to account for any electricity-based 
+CO2 emissions.
+Energy consumption per square metre  In 2018, Fielmann carried out ener-
+gy-efficient conversions at over 30 stores in Germany alone and thereby achieved a 
+3% reduction in energy consumption per square metre of store space. Energy-saving 
+LED lighting will also be integrated into new stores in neighbouring European coun-
+tries, as well as in the 8 new stores in Italy.
+Reduction of CO2 emissions per square metre  Due to an improved electricity 
+mix and the reduction of our power consumption in the stores, we were able to lower 
+our power-related CO2 emissions by more than 8% per square metre of store space 
+in 2018. 
+Fielmann mainly purchases electricity from the public utility company in Giessen. This 
+company uses an above-average amount of renewable energies in its portfolio. The 
+electricity mix provided by the supplier is therefore typical for the company’s overall 
+electricity purchasing. The national average electricity mix in 2017 and 2016 is 
+shown for comparison.
+The energy consumption of Fielmann Aktiengesellschaft in Germany, itemised accord-
+ing to renewable and non-renewable energy sources1:
+Purchased electricity mix  
+in 2018
+Giessen public utility company – 2017       – 2016          Germany* – 2017        –2016
+Share of electricity sources
+in %
+50
+ 
+ 
+40
+ 
+ 
+30
+ 
+ 
+20
+ 
+ 
+10
+ 
+ 
+	 0
+54
+47
+37
+30
+34 36 38 40
+8
+12
+13 13
+4
+3
+10 12
+1
+1
+2
+5   
+Renewable
+energies
+Coal
+Nuclear energy
+Natural gas
+Other fossil 
+energies
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+51
+The energy consumption of Fielmann Aktiengesellschaft in Germany, itemised accord-
+ing to renewable and non-renewable energy sources1:
+Consumption of electricity and gas (kWh/sqm)
+   
+2018
+2017
+ 
+Type
+ 
+Location
+ 
+ 
+kWh
+/sqm
+GJ/
+sqm
+Consump-
+tion (kWh)
+Consump-
+tion [GJ]
+kWh
+/sqm
+GJ/
+sqm
+Consump-
+tion (kWh)
+Consump-
+tion [GJ]
+Elec-
+tricity
+ 
+Stores_ren
+ 
+Total
+ 
+210
+ 
+0.76
+ 
+32,393,545
+ 
+116,617
+ 
+217
+ 
+0.78
+ 
+32,407,767
+ 
+116,668
+ 
+Elec-
+tricity
+ 
+ 
+Stores_ren
+of which  
+are re- 
+newable
+ 
+ 
+113
+ 
+ 
+0.41
+ 
+ 
+17,495,754
+ 
+ 
+62,985
+ 
+ 
+102
+ 
+ 
+0.37
+ 
+ 
+15,231,650
+ 
+ 
+54,834
+ 
+Elec-
+tricity
+ 
+ 
+Stores_non-ren
+of which  
+are not  re- 
+newable
+ 
+ 
+97
+ 
+ 
+0.35
+ 
+ 
+14,897,791
+ 
+ 
+53,632
+ 
+ 
+115
+ 
+ 
+0.41
+ 
+ 
+17,176,117
+ 
+ 
+61,834
+Elec-
+tricity
+Offices 
++Plön
+ 
+Total
+ 
+79
+ 
+0.28
+ 
+3,057,348
+ 
+11,006
+ 
+88
+ 
+0.32
+ 
+3,285,971
+ 
+11,830
+ 
+Elec-
+tricity
+ 
+Offices 
++Plön_ren
+of which  
+are re- 
+newable
+ 
+ 
+43
+ 
+ 
+0.15
+ 
+ 
+1,651,274
+ 
+ 
+5,945
+ 
+ 
+41
+ 
+ 
+0.15
+ 
+ 
+1,544,407
+ 
+ 
+5,560
+ 
+Elec-
+tricity
+ 
+Offices 
++Plön_non-ren
+of which  
+are not  re- 
+newable
+ 
+ 
+36
+ 
+ 
+0.13
+ 
+ 
+1,406,074
+ 
+ 
+5,062
+ 
+ 
+47
+ 
+ 
+0.17
+ 
+ 
+1,741,565
+ 
+ 
+6,270
+Elec-
+tricity
+Production 
+and Logistics
+ 
+Total
+ 
+268
+ 
+0.96
+ 
+7,611,456
+ 
+27,401
+ 
+258
+ 
+0.93
+ 
+7,327,809
+ 
+26,380
+ 
+Elec-
+tricity
+Production 
+and Logi-
+stics_ren
+of which  
+are re- 
+newable
+ 
+ 
+145
+ 
+ 
+0.45
+ 
+ 
+4,110,947
+ 
+ 
+12,879
+ 
+ 
+121
+ 
+ 
+0.44
+ 
+ 
+3,444,070
+ 
+ 
+12,399
+ 
+Electri-
+city
+Production 
+and Logistics_
+non-ren
+of which  
+are not  re- 
+newable
+ 
+ 
+123
+ 
+ 
+0.51
+ 
+ 
+3,500,509
+ 
+ 
+14,523
+ 
+ 
+137
+ 
+ 
+0.49
+ 
+ 
+3,883,739
+ 
+ 
+13,981
+Elec-
+tricity
+ 
+Total for DE
+ 
+Total
+ 
+194
+ 
+0.70
+ 
+43,062,349
+ 
+155,024
+ 
+200
+ 
+0.72
+ 
+43,021,547
+ 
+154,878
+ 
+Elec-
+tricity
+ 
+Total  
+DE_ren
+of which  
+are re- 
+newable
+ 
+ 
+105
+ 
+ 
+0.38
+ 
+ 
+23,257,975
+ 
+ 
+83,729
+ 
+ 
+94
+ 
+ 
+0.34
+ 
+ 
+20,220,127
+ 
+ 
+72,792
+ 
+Elec-
+tricity
+ 
+Total  
+DE_non-ren
+of which  
+are not  re- 
+newable
+ 
+ 
+89
+ 
+ 
+0.32
+ 
+ 
+19,804,374
+ 
+ 
+71,296
+ 
+ 
+106
+ 
+ 
+0.38
+ 
+ 
+22,801,420
+ 
+ 
+82,085
+   
+2018
+2017
+ 
+Type
+ 
+Location
+ 
+ 
+kWh
+/sqm
+GJ/
+sqm
+Consump-
+tion (kWh)
+Consump-
+tion [GJ]
+kWh
+/sqm
+GJ/
+sqm
+Consump-
+tion (kWh)
+Consump-
+tion [GJ]
+Gas
+Stores
+Total
+121
+0.43
+4,573,228
+16,464
+127
+0.46
+4,644,246
+16,719
+Gas
+Offices+Plön
+Total
+250
+0.90
+2,172,724
+7,822
+200
+0.72
+1,740,188
+6,265
+ 
+Gas
+Production 
+and Logistics
+ 
+Total
+ 
+104
+ 
+0.37
+ 
+2,952,155
+ 
+10,628
+ 
+102
+ 
+0.37
+ 
+2,902,988
+ 
+10,451
+Gas
+Total for DE
+Total
+129
+0.47
+9,698,107
+34,914
+126
+0.45
+9,287,422
+33,435
+1)	The table includes the values for the companies in Germany for which Fielmann directly purchases electricity 
+and gas. The energy consumption of the other locations and countries is entered step by step into the database 
+as part of the energy management.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+52
+GRI 302–1
+The increase in gas consumption for the administration offices and Plön is due to the 
+use of a cogeneration unit at Plön Castle. Since December 2017, Fielmann has relied 
+on the key technology of combined heat and power (CHP) in the form of cogeneration 
+units. These units are particularly resource-friendly and low in CO2 production, as they 
+produce heat and power simultaneously. This cogeneration of heat and power ensures 
+that the gas used as fuel can be employed much more sparingly and efficiently than 
+in separate production processes. In addition, the generated heat and power can 
+be used straight away, so that there is no need for lengthy transport that may also 
+result in losses. The use of cogeneration units saves primary energy, which indirectly 
+leads to a reduction of CO2 and harmful emissions compared to other modern types 
+of power station. 
+Consumption of electricity 
+(kWh/sqm)
+ 
+ 
+400
+ 
+300
+ 
+200
+ 
+100
+ 
+	 0
+2018  2017
+Production and 
+Logistics
+268
+258
+2018  2017
+Offices and Plön
+79
+88
+2018  2017
+Stores
+210
+217
+Consumption of gas 
+(kWh/sqm)
+ 
+ 
+400
+ 
+300
+ 
+200
+ 
+100
+ 
+	 0
+2018  2017
+Production and 
+Logistics
+104
+102
+2018  2017
+Offices and Plön
+250
+200
+2018  2017
+Stores
+121
+127
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+53
+The definition of greenhouse gas emissions is based on different methods. Fielmann 
+uses the so-called “GHG Protocol” (Greenhouse Gas Protocol Standard) for its defi-
+nition. The GHG Protocol was developed by the WRI (World Resources Institute) and 
+the WBCSD (World Business Council for Sustainable Development). The GHG Protocol 
+contains a classification of emissions. It distinguishes between Scope 1, Scope 2 and 
+Scope 3 emissions. Scope 1 includes the emissions produced by the company itself. 
+Fielmann has therefore decided to record the CO2 emissions based on this established 
+Scope 1 approach. 
+In the following, the results of the Scope 1 CO2 emissions are presented.  In order to 
+take other climate-damaging greenhouse gases into account besides carbon dioxide 
+(CO2), equivalent carbon dioxide (CO2e) is also included.¹ 
+  
+2018
+2017  
+Emissions source
+Tonnes CO2e
+in %
+Tonnes CO2e
+in %
+Stationary combustion
+ 1,783.57   
+49.4
+1,710.41
+49.3
+Company vehicle fleet
+ 1,829.80   
+50.6
+1,760.00
+50.7
+Total
+ 3,613.37   
+100.0
+3,470.41
+100.0
+GRI 305–1
+The refrigerant blend is calculated from the figures for 478 systems, recorded in 
+2017 and 2018. Based on the master data for older systems and because the re-
+frigerant R410A is still primarily used by manufacturers, the figures for 2018 remain 
+almost unchanged from the previous year. The overall amount of refrigerant used is 
+a theoretical figure with regard to emissions, as the contained CO2 only escapes in 
+the event of damage. The weighted average CO2e in tonnes / kg is taken in order 
+to minimise future risks.
+Refrigerant blend used
+Scope 1 CO2 emissions
+1Besides CO2, methane and nitrous oxide, for example, are also greenhouse gases. In order to compare the 
+various greenhouse gases, the effect of each greenhouse gas is converted to carbon dioxide. For example, one 
+kilogram of methane corresponds to 21 kilograms of CO2e.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+54
+  
+2018  
+2017  
+ 
+ 
+Refrigerant
+ 
+CO2e (t)  
+per kg
+ 
+Percen-
+tage 
+Weighted 
+CO2e (t)  
+per kg
+ 
+CO2e (t)  
+per kg
+ 
+Percen-
+tage 
+Weighted 
+CO2e (t)  
+per kg
+R22
+1.81
+3.2%
+0.06
+1.81
+3.4
+0.06
+R32
+0.68
+0.4%
+0.00
+ 
+ 
+ 
+R404A
+3.92
+0.1%
+0.00
+3.92
+0.1
+0
+R407A
+2.11
+1.1%
+0.02
+2.11
+1.2
+0.02
+R407C
+1.77
+31.4%
+0.56
+1.77
+37.1
+0.66
+R410A
+2.09
+62.9%
+1.31
+2.09
+57.1
+1.19
+R417A
+2.35
+0.4%
+0.01
+2.35
+0.4
+0.01
+R422D
+1.81
+0.5%
+0.01
+1.14
+0.6
+0.01
+Average amount
+ 
+ 
+1.98
+ 
+ 
+1.95
+GRI 305–1
+We use the operational control approach as our consolidation approach for the green-
+house gas emissions from Scope 1. Stationary combustion covers all locations with 
+their own gas contracts; bills paid by owners are not taken into account. The vehicle 
+fleet data was collected on the basis of the provided fuel card bills.
+Company vehicle fleet mix
+2018
+2017  
+Cars (number)
+321
+332
+CO2 (g/km)
+129
+132
+NOX (mg/km)
+60
+81
+Power (hp)
+156
+157
+Consumption (l/km)
+5.2
+5.1
+Our focus in this area is on a sustainable reduction of energy consumption and emis-
+sions. This also takes into account the technical and economic possibilities resulting 
+from modernisations and conversions. From now on, Fielmann will equip all future 
+stores with smart electricity meters. This will allow us to leverage further potential with 
+regard to energy saving and emissions reduction. In 2019, another 150 existing stores 
+will be refitted accordingly.
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+55
+ 
+General disclosures
+Organisational profile
+ 
+ 
+102-1
+Name of the organisation
+102-2
+Activities, brands, products and services
+102-3
+Location of headquarters
+102-4
+Operating units
+102-5
+Ownership and legal status
+102-6
+Markets served
+102-7
+Size of the organisation
+102-8
+Information on employees and other staff
+102-9
+Supply chain
+102-10
+Significant changes in the organisation and its supply chain
+102-11
+Precautionary principle or safety measures
+102-12
+External initiatives
+102-13
+Membership of associations
+Strategy 
+102-14
+Management statements
+Ethics and integrity 
+ 
+102-16
+Values, guidelines, standards and behaviour norms
+Governance
+102-18
+Governance structure
+Stakeholder inclusiveness
+ 
+ 
+102-40
+List of stakeholder groups
+102-41
+Payment negotiations
+102-42
+Deciding and selecting the stakeholders
+102-43
+Approach for stakeholder inclusion
+102-44
+Key topics and issues
+Stakeholder inclusiveness
+ 
+ 
+102-45
+Entities mentioned in the Annual Accounts
+102-46
+Defining report content and topic boundaries
+102-47
+List of the material issues
+102-48
+Reformulation of information
+102-49
+Changes in the reporting
+102-50
+Reporting period
+102-51
+Date of the latest report
+102-52
+Reporting cycle
+102-53
+Contact details for questions on the report
+102-54
+Statements on the reporting in compliance with 
+the GRI Standards
+102-55
+GRI content index
+102-56
+External assurance
+GRI content index
+Fielmann Aktiengesellschaft
+p. 9 et seq.
+Hamburg
+p. 7
+p. 11 et seq.
+p. 7 et seq.
+p. 7 et seq.
+p. 32
+p. 43 et seq.
+p. 7
+p. 13 et seq.
+p. 10
+p. 10
+p. 4 et seq.
+p. 13 et seq., p. 39, p. 43 et seq.
+p. 11 et seq.
+p. 18
+p. 32
+p. 17
+p. 17 et seq.
+p. 17
+p. 2
+p. 16 et seq.
+p. 3, p. 17
+None
+None
+p. 2
+April 2019
+The report will be 
+published annually.
+p. 18 et seq.
+This report was compiled based on 
+the GRI Standards.
+ 
+p. 56 et seq.
+p. 2
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+56
+GRI content index
+GRI 200: Economic
+Economic performance 
+ 
+103-1/2/3
+Management approach
+201-4
+Financial assistance received from governments
+Indirect economic impacts
+ 
+ 
+103-1/2/3
+Management approach
+203-1
+Infrastructure investments and services supported
+Anti-corruption
+ 
+ 
+103-1/2/3
+Management approach
+205-1
+Operations assessed for risks related to 
+corruption
+GRI 300: Environment
+Energy  
+103-1/2/3
+Management approach
+302-1
+Energy consumption within the organisation
+Emissions 
+ 
+103-1/2/3
+Management approach
+305-1
+Direct GHG emissions (Scope 1)
+GRI 400: Social
+  
+Employment
+ 
+ 
+103-1/2/3
+Management approach
+401-1
+Newly recruited employees and employee turnover
+Training and education 
+ 
+103-1/2/3
+Management approach
+404-1
+Average number of hours for training and education 
+per year and employee
+Social assessment of suppliers
+  
+103-1/2/3
+Management approach
+414-1
+New suppliers assessed based on social criteria
+Customer health and safety
+-
+  
+103-1/2/3
+Management approach
+416-1
+Evaluation of the impact of various product and service 
+categories on health and safety
+Customer data protection 
+ 
+103-1/2/3
+Management approach
+418-1
+Substantiated complaints regarding breaches of customer 
+privacy and losses of customer data
+p. 12 et seq.
+p. 15
+p. 39 et seq.
+p. 41 et seq.
+p. 12 et seq.
+p. 15
+p. 47 et seq.
+p. 51
+p. 47 et seq.
+p. 53 et seq.
+p. 32 et seq.
+Fielmann reports its own control-specific key figure 
+for the “Employment” topic.
+p. 32 et seq.
+p. 37
+p. 21 et seq., p. 43 et seq.
+p. 29, p. 45
+p. 21 et seq.
+p. 29
+p. 21 et seq.
+p. 25 et seq.
+ 
+ 
+Material issues
+
+ABOUT THIS REPORT        FOREWORD        CORPORATE SOCIAL RESPONSIBILITY AT FIELMANN        CUSTOMERS        EMPLOYEES        SOCIETY        ENVIRONMENT        NOTES
+57
+
+Fielmann Aktiengesellschaft · Weidestraße 118 a · D-22083 Hamburg · Telephone: + 49 (0)40 / 270 76 - 0
+Fax: 
++ 49 (0)40 / 270 76 - 410 
+· 
+E-mail: 
+nachhaltigkeit@fielmann.com 
+· 
+Internet: 
+www.fielmann.com
+Fielmann plants a tree for each employee every 
+year and is committed to protecting nature and the 
+environment. To date, Fielmann has planted more 
+than 1.5 million trees and bushes.

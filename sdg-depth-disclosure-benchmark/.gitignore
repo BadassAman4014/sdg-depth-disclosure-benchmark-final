@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large scraped PDF files (download on demand via 01_data_collection)
+reports/
+*.pdf
+
+# Logs and SQLite databases
+*.log
+*.sqlite3
+*.db
+
+# Model artifacts larger than 100MB (can be trained via 04_depth_scoring_engine)
+*.joblib
+!06_pilot_50_suite/model_depth_50.joblib

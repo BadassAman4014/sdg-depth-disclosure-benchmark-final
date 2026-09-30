@@ -1,0 +1,42 @@
+# ==============================================================================
+# SDG Disclosure Depth Scoring & ML Benchmark — Core Dependencies
+# Exported & Verified from Conda Environment: 'escp' (Python 3.11.15)
+# ==============================================================================
+
+# Core Numerical & Data Science
+numpy==2.4.6
+pandas==2.3.2
+scipy==1.17.1
+openpyxl==3.1.5
+pyarrow==21.0.0
+
+# Machine Learning & Explainable AI (Shah et al. 2020 + EBM)
+scikit-learn==1.9.0
+joblib==1.5.3
+interpret==0.7.8
+interpret-core==0.7.8
+lightgbm==4.7.0
+shap==0.51.0
+
+# Deep Learning & Sentence Embeddings (Izhar et al. 2026 Table 1 Model)
+torch==2.13.0
+sentence-transformers==5.1.0
+transformers==4.57.6
+tokenizers==0.22.2
+huggingface-hub==0.36.2
+
+# NLP, Tokenization & Language Identification
+nltk==3.9.1
+tiktoken==0.11.0
+langdetect==1.0.9
+regex==2026.7.19
+
+# Document Ingestion, PDF Processing & Database
+pymupdf==1.28.2
+pypdf==6.16.2
+duckdb==1.4.0
+requests==2.34.2
+urllib3==2.7.0
+tqdm==4.67.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.2.3

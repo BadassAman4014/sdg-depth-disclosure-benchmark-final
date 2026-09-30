@@ -1,0 +1,2255 @@
+Investor & Analyst Day 2015 
+MTU Aero Engines AG 
+ 
+London, 25 November 2015 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+2 
+Agenda – MTU Investor and Analyst Day 2015 
+Time 
+Agenda 
+Speaker 
+11:00 – 11:10 
+Welcome 
+Michael Röger 
+11:10 – 11:20 
+Excellent Position in an Attractive Market  
+Reiner Winkler 
+11:20 – 12:10 
+Geared Turbofan: Flying and Producing 
+Efficiently 
+Technology Roadmap: Key for Success 
+Dr. Rainer Martens 
+12:10 – 13:00 
+Geared up for Growth with a Broad Portfolio 
+Emerging Markets Slowdown:  
+A severe Threat? 
+MRO business: Uniquely Positioned for 
+Growth 
+Michael Schreyögg 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+3 
+Agenda – MTU Investor and Analyst Day 2015 
+Time 
+Agenda 
+Speaker 
+13:00 – 14:00 
+Lunch Break 
+14:00 – 14:40 
+Flight hour Agreements: Beneficial for the 
+Operator and MRO Provider 
+Reiner Winkler 
+Michael Schreyögg 
+14:40 – 15:20 
+Financials & Outlook 
+Reiner Winkler 
+15:20 
+End of Conference 
+
+Excellent Position in an 
+Attractive Market 
+ 
+Reiner Winkler, Chief Executive Officer 
+London, 25 November 2015 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+5 
+   Status 
+Market Indicator 
+2014 A 
+2015 E 
+2016 E 
+Passenger Traffic 
++6.0% 
++6.7% 
+Airline Profits 
+$16 bn  
+$29 bn 
+Crude Oil (Brent) 
+100 $ 
+54 $ 
+Airliner Deliveries 
+1,350 
+ ~ 1,390 
+Airliner Orderbook 
+11,520 
+11,710 
+Airliner Engine Fleet 
+41,410 
+43,350 
+Market Overview 
+ 
+Source: IATA, Ascend, EIA 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+6 
+Commercial OEM: Milestones Set for Future Growth 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+Over 7,000 GTF engines on firm order or 
+optioned 
+•
+PW1100G-JM (A320neo) received its 
+FAA certification in Jan 2015 
+•
+GTF performance in flight test programs 
+according to plan 
+•
+Ramp up of new engine programs 
+successfully initiated 
+•
+Extension of MTU AE Polska in operation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+First development modules for GE9X in 
+production 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+First flight of Gulfstream G500 (PW814) in 
+May 15 and MRJ (PW1200G) in Nov 15 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+7 
+Military Business: Stable Business with Strong Export Potential 
+•
+In 
+ 
+ 
+ 
+ 
+•
+Kuwait signed a MoU for 28 Eurofighter 
+Typhoon aircraft 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+First flight of CH-53K powered by GE38 
+took place in October 
+ 
+ 
+ 
+ 
+ 
+•
+MTU received the EASA certification for 
+maintaining TP400 
+•
+TP400 engine production fully ramped up 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+8 
+MRO: Workload Secured for Decades 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+MTU signed MRO network agreement for 
+the PW1100G-JM in Jun 2015 
+•
+Optimization of V2500 FhA agreements 
+on track 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+MTU Maintenance Hannover started 
+maintenance work for airlines in Iran 
+•
+GEnx TCF MRO capability established 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+9 
+MTU’s Agenda for 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+Assembly line for the PW1100G-JM engine in operation 
+•
+GTF module production ramped up according to plan 
+•
+Position of MTU in the changing MRO market environment optimized  
+•
+Continuous improvement of Flight hour Agreement performance 
+•
+MRO readiness at MTU Maintenance Hannover for PW1100G-JM achieved 
+•
+Technology roadmap to sustain and improve market position pursued 
+•
+Implementation of the new IFRS rule 15 underway 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Geared Turbofan: 
+Flying and Producing Efficiently 
+ 
+Dr. Rainer Martens, Chief Operating Officer 
+London, 25 November, 2015 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+11 
+GTF offers a superior fuel burn consumption at lower maintenance cost 
+Fan drive gear 
+3 stg LPC 
+8 stg HPC 
+3 stg LPC 
+10 stg HPC 
+2 stg HPT 
+3 stg LPT 
+2 stg HPT 
+7 stg LPT 
+• 25% less stages 
+• 45% less airfoils 
+• lower cycle 
+temperature  
+• higher propulsive 
+efficiency 
+• higher low spool 
+component 
+efficiency 
+• shorter, lighter 
+The GTF Concept at a Glance: GTF versus Direct Drive Turbo Fan 
+Source: 
+cfmaeroengines 
+Source: 
+P&W 
+LPC = Low Pressure Compressor 
+HPC = High Pressure Compressor 
+LPT = Low Pressure Turbine 
+HPT = High Pressure Turbine  
+stg = Stages 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+12 
+The GTF Concept at a Glance: Enabling a Reduced Noise Footprint  
+Year 2000 
+Narrowbody aircraft 
+leaving Munich airport 
+Noise Simulation: Pratt & Whitney SEL Contour Source: Wyle Laboratories 
+Year 2015 
+GTF powered A320 NEO 
+Noise footprint reduced 
+by approx. 70% 
+GTF engines help protecting the environment   
+
+Investor & Analyst Day 2015 
+25 November 2015 
+13 
+2015 Development Milestones GTF Engines, PW800, GE9X and GE38 
+PW1500G / 
+CSeries 
+PW1100G-
+JM / 
+A320neo 
+PW1200G / 
+MRJ 
+PW1400G / 
+MS-21 
+PW1900G / 
+PW1700G / 
+E-Jet 2nd 
+Gen. 
+PW800 / 
+G500, 
+G600 
+GE9X / 
+B777X 
+GE38 / 
+CH-53K 
+First Engine 
+to Test 
+ 
+ 
+ 
+2015 
+ 
+2016 
+ 
+2015 
+Design  
+Freeze 
+ 
+Tested in 
+Flying 
+Testbed 
+ 
+ 
+ 
+N/A 
+2015 
+2016 
+ 
+2017 
+N/A 
+Engine 
+Certification 
+ 
+ 
+2016 
+2015 
+2016 
+2017 
+ 
+2018 
+2018* 
+First Flight 
+ 
+ 
+ 
+2016 
+2016 
+2017 
+ 
+2018 
+ 
+EIS / 
+Aircraft 
+Certification 
+2016 
+2015 
+2017 
+2017 
+2018 
+2020 
+2018 
+2019 
+2020 
+2019 
+* GE38: Certification of whole aircraft system after flight testing is completed 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+14 
+2009
+2015
+2020
+Turbines
+800
+1150
+1850
+Compressors
+200
+320
+1580
+Turbine 
+Center 
+Frame
+30
+380
+350
+Engine 
+Assembly
+30
+110
+290
+Total
+1060
+1960
+4070
+MTU faces a steep increase in commercial engine business  
+Production Ramp Up 
++10% 
+Yearly increase 
++15% 
+Yearly increase 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+15 
+Strategic Setup Production and Supply Chain 
+Risk Mitigation 
+The Supply Chain is based on 2 MTU Manufacturing Sites and a Worldwide Network of Suppliers 
+•
+Keeping and improving MTU’s high tech knowledge in Munich 
+•
+MTU Polska as prime source for ‘mid tech’ parts – supplier as second source 
+•
+Dual Source 
+•
+Development of advanced manufacturing technology at MTU Munich 
+High Tech 
+MTU AE Munich 
+•
+Sophisticated parts and 
+production processes 
+•
+Automation 
+•
+Development of new 
+production technologies 
+•
+Know How to support all MTU 
+sites and suppliers 
+Raw Material, Mid-Low Tech 
+Mid - Low Tech  
+MTU AE Polska 
+•
+Adopting established parts and 
+production lines from Munich 
+•
+Improvement of ‘mid tech’ parts 
+and production processes 
+•
+Module assembly improved with 
+know how transferred from 
+automotive industry 
+Supplier 
+•
+Raw parts 
+•
+Finished parts as second source 
+•
+‘Low tech’ parts from low cost 
+countries 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+16 
+•
+Ramp Up Monitoring for 
+•
+Engineering & manufacturing  
+     processes 
+•
+Infrastructure & production  
+     concepts 
+•
+Suppliers 
+•
+Shop Floor Management 
+•
+Office Management 
+ New approaches improve speed, quality and risk   
+mitigation 
+Measures Ensuring MTU’s Ramp Up Capability 
+Infrastructure 
+•
+Blisk-Building 
+•
+Logistic-Building 
+•
+Extension MTU-Polska 
+•
+NEO Assembly        
+Building 076 
+•
+MRO Readiness Hannover 
+ 
+ Infrastructure is in place 
+New Production Concepts 
+Prime Supplier 
+Management 
+Topics are addressed and well under way to support production ramp up 
+•
+Blisk 
+•
+Blades and Vanes LPT 
+•
+Vanes HPC 
+•
+Rings 
+•
+Supply-Chain Titan-Aluminid 
+ 
+ Procurement Teams are operative 
+•
+Blisk-production 
+•
+Rotor-production 
+•
+Case-production 
+•
+NEO engine assembly 
+•
+Electrochemical milling (PECM) Nickel-Blisk 
+•
+Hub-Strut-Case production GE9X MTU AE Polska 
+•
+Innovative blade-production MTU AE Polska 
+•
+Additive manufacturing 
+ High Tech remains our differentiator 
+Operational  
+excellence 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+17 
+Blisk Manufacturing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Production System Building 077 
+ 
+• Increase of machine hours per year from 
+3,500 to 6,000 
+ 
+• Increase of Blisk output per year from 500 to 
+3,600 
+ 
+• 50% reduction of indirect costs  
+ 
+• More efficient use of  area  
+ 
+• Increase of shifts from 15 to 18 
+ 
+• Introduction of full automation with option of 
+man free production 
+Changes, Improvements  
+
+Investor & Analyst Day 2015 
+25 November 2015 
+18 
+New Logistics Building 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Increase of goods received per year from 
+80,000 to 115,000 within 5 years 
+ 
+• Improved efficiency leads to a 14% reduction 
+of process time 
+ 
+• Efficient flow oriented processes 
+ 
+• 30% reduction in lead time 
+ 
+• Weather protected storage of goods 
+ 
+ 
+Changes, Improvements  
+   New Logistics Building 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+19 
+Rotor, Stator Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Changes, Improvements  
+ 
+• Reduction of small quantity part numbers by 
+70% 
+ 
+ 
+ 
+• 12% reduction in hourly rate 
+ 
+• 30% reduction in labor time for turning 
+operations 
+ 
+• Increase of disc quantity per year from  
+2,300 to 3,000 
+ 
+• Decommissioning of 14 machines clears  
+700 sqm production area 
+   Production System Rotor  
+
+Investor & Analyst Day 2015 
+25 November 2015 
+20 
+Extension Polska 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Production MTU AE Polska  
+ 
+• 20,000 sqm shop floor 
+ 
+• 180k hours engineering capacity 
+ 
+• Low labour rates 
+ 
+• Execution of V2500 Upshare  
+ 
+• ‘Mid Tech’ competencies are kept within 
+MTU putting suppliers under pressure 
+ 
+• GE9X Hub Strut Case production at lowest 
+costs 
+ 
+• Flow oriented assembly lines 
+Changes, Improvements  
+
+Investor & Analyst Day 2015 
+25 November 2015 
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEO Engine Assembly 
+Production System NEO Engine Assembly 
+ 
+•
+New civil engine assembly line with 220 
+engines per year 
+ 
+•
+Logistic system is based on pull/just-in-
+sequence principle 
+ 
+•
+Flow oriented assembly line 
+ 
+•
+High tech transportation and assembly 
+system 
+ 
+•
+IT-Supported work flows 
+Changes, Improvements 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+22 
+Summary GTF 
+•
+The GTF is a new revolutionary design with unmatched performance  
+•
+The market success of this very efficient and successful product requires MTU’s 
+supply chain to come to a new level of quantity and quality 
+•
+Successful production ramp up in the past and already implemented activities put 
+MTU’s supply chain in an excellent position to execute the future ramp up efficiently 
+ 
+ 
+
+Technology Roadmap:  
+Key for Success 
+ 
+Dr. Rainer Martens, Chief Operating Officer 
+London, 25 November, 2015 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+24 
+Market Demands -  Requirements for Future Engines 
+Business 
+ Environment 
+Requirements 
+Next generation commercial & military engines 
+Performance improvement programs (PIP)  
+Environmental regulations 
+Flight hour Agreements 
+Reduction of emissions and noise 
+Aggressive production cost targets 
+Maintenance cost reduction measures 
+Engineering disciplines & manufacturing at excellence 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+25 
+MTU‘s Technology Roadmap – Meeting the Requirements 
+Integrated 
+Compression- 
+System 
+Optimal High 
+Speed LPT  
+& TCF 
+Improve efficiency, weight, design 
+and pressure ratios  
+High Temp. 
+Light Weight  
+LPT Materials 
+Additive 
+Manufacturing 
+Expand portfolio of parts and change 
+of design philosophy 
+Virtual Design 
+& Production 
+Improve production processes 
+with an analytical simulation of all 
+relevant parameters 
+Improve efficiency, weight design, 
+temperature and erosion/corrosion 
+capability 
+Product 
+Enabler 
+Higher cycle parameters, reduce 
+weight, enabling new designs and 
+their producabillity 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+26 
+Execution of MTU‘s Technology Roadmap – Technology Network 
+Bauhaus Luftfahrt 
+University Hannover: 
+• Airfoil Dynamics 
+• MRO 
+ETH Zürich 
+University Stuttgart: 
+• Turbines 
+• Turbine Test Facility 
+RWTH & FhG Aachen: 
+• Compressor Aerodynamic 
+• Manufacturing Technologies 
+TU München: 
+• Component Design 
+DLR Köln: 
+• Computational Fluid Dynamics 
+• Compressor Testing 
+• Ceramic Matrix Composites 
+BW University Neubiberg: 
+• More Electric Engine 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+27 
+Next Generation GTF - Characteristics 
+OPR 60+ 
+integrated 
+compression 
+system 
+Ultra efficient 
+high speed 
+expansion system 
+Ultra high BPR 14 -20 
+with lowest  
+fan pressure ratio  
+MTU’s Technolgy Roadmap will lead to the next generation GTF – applicable for all 
+thrust ranges 
+Newest light weight  
+and  
+heat resistant materials 
+BPR = By Pass Ratio 
+OPR = Overall Pressure Ratio 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+28 
+Timeline of Future Engine Concepts 
+∆SFC %  
+∆CO2 % 
+V2500 
+1st gen GTF 
+2nd gen GTF 
+Future propulsion concepts 
+2000 
+2010 
+2030 
+2040 
+2050 
+2020 
+BPR 5 
+OPR 36 
+BPR 12 
+BPR 14-20 
+OPR 60+ 
+The geared jet engine concept offers a substantial improvement potential 
+- 15% 
+- 25% 
+- 45% 
+Source: 
+ENOVAL 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+29 
+A few Words about Electric Flight: Basic Concepts 
+ 
+Hybrid – electric 
+•
+Combined system consisting of gas turbine and 
+fans driven by electric motors 
+•
+Gas turbine used to generate either electric power 
+or thrust 
+•
+Batteries required 
+Source: Airbus 
+Electric 
+•
+Thrust generated with fans driven by electric 
+motors. No gas turbines on board. 
+•
+Energy required for the electric motors is 
+provided by batteries or fuel cells 
+Weight is driving the use of electric components 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+30 
+Battery Technology: 
+•
+For an application in short range regional jets todays batteries require a tenfold improvement in 
+energy density as well as in power density – both requirements are contradictory 
+•
+Extrapolating todays improvement in Battery Technology it will take more than 30 years to achieve 
+the required improvements 
+Power Distribution and Conversion: 
+•
+Using today’s conventional electrical power distribution and power conversion (electric – thrust) 
+technologies would lead to high weight not suitable in commercial aircraft 
+•
+Use of high temperature superconductivity will be required. Cooling down to a temperature of ~45°K 
+( -230°C) is necessary. A blackout of cooling will result in loss of thrust 
+Flight safety and Certification: 
+•
+All these new technologies have to prove reliability and have to be certified 
+A few Words about Electric Flight: Technical Challenges 
+ 
+Today Electric Flight can only be realized for small short-range (2-4 seats) aircraft.  
+For small regional jets electric flight might be imaginable in 30+ years. 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+31 
+Summary Technology 
+•
+MTU‘s Technology Roadmap will lead to a next generation GTF – incorporating a wide 
+range of new technologies 
+•
+With the next generation GTF MTU is well positioned to cover the full range of thrust 
+for future aircraft and applications 
+•
+Turbo Engines will power aircrafts for a long time – the challenges for incorporating 
+electric flight are very high 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+32 
+Thank you for your attention! 
+ 
+Questions & Answers 
+
+Geared up for Growth with a 
+Broad Portfolio 
+ 
+Michael Schreyögg, Chief Program Officer 
+London, 25 November 2015 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+34 
+Business Jet & Regional Jet Market 
+PW300/PW500/PW800 
+ 
+•
+Installed base of more 
+than 7,000 engines 
+•
+10 business jet 
+applications in operation 
+•
+Dassault Falcon 8X in 
+development 
+•
+PW800 exclusive engine 
+for future Gulfstream 
+large business jets 
+PW1200/PW1500 
+PW1700/PW1900 
+•
+3,400 orders and options 
+•
+GTF family exclusively 
+powers future Regional 
+Jets from Embraer, 
+Mitsubishi and 
+Bombardier  
+•
+New market for MTU 
+OEM with a future market 
+share of 90% expected 
+CF34 
+ 
+•
+~6,600 engines flying 
+•
+Exclusive powerplant for 
+current regional jets 
+•
+Fast MRO growth with 
+over 800 off-wing shop 
+visits 
+•
+12% market share 
+Expected average annual growth rate of mid teens until 2025 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+35 
+Narrowbody Market 
+PW1100G-JM 
+ 
+•
+Strong order book  
+•
+~50% market share on 
+A320neo family in total; 
+higher market share of 
+~70%  on A321neo  
+•
+15% improved fuel 
+efficiency, additional 2% 
+by 2019 
+•
+Designed for lower 
+maintenance cost 
+V2500 
+ 
+•
+~ 5,600 engines flying 
+•
+Strong growth of spare 
+parts sales until mid of 
+next decade 
+•
+#1 MRO provider - 
+capability in 2 locations 
+CFM56 
+ 
+•
+Largest installed fleet 
+•
+Strong MRO growth 
+•
+#1 independent provider: 
+over 10% market share 
+•
+~ 900m$ new contract 
+wins in 2015 
+•
+3 MTU MRO locations 
+with CFM56 capability 
+Excellent narrowbody market position leads to continuous OEM & MRO growth  
+
+Investor & Analyst Day 2015 
+25 November 2015 
+36 
+Widebody Market 
+GE9X 
+ 
+•
+Revenue potential 4 bn€ 
+•
+950 orders and options  
+•
+Entry into service 
+expected in 2020 
+•
+Exclusive engine for 
+Boeing 777X 
+•
+MTU will be partner of 
+GE-MRO network 
+GEnX 
+ 
+•
+Market share of 60% on 
+787, exclusive on 747-8 
+•
+In production since 2011 
+•
+~770 engines in service 
+•
+Market expectation of 
+4,400 engines 
+•
+MTU is partner of the 
+GE-MRO network 
+•
+Exp. MRO revenue 3 bn€ 
+GE90-110/-115B 
+ 
+•
+~ 1,500 engines flying; 
+strong MRO growth 
+•
+Independent MRO offer 
+with growing market 
+share  
+•
+5 exclusive customers 
+with contract volume of 
+~1 bn$ 
+Strong partnership with GE Aviation in the widebody market 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+37 
+Military Business 
+GE38 
+ 
+•
+Power for CH-53K for US 
+marine corps 
+•
+Latest Technology 
+Turboshaft engine  
+•
+First flight October 2015 
+•
+Engine could be used for 
+additional applications 
+•
+Strong transatlantic 
+partnership 
+TP400-D6 
+ 
+•
+Ramp up successfully 
+achieved 
+•
+More than 100 engines 
+produced 
+•
+16 aircraft are operated 
+by 5 nations 
+•
+Aircraft well positioned 
+for export 
+EJ200 
+ 
+•
+Strong revenue 
+contribution, both 
+OEM&MRO 
+•
+450 Eurofighter in service 
+•
+1,180 engines delivered 
+•
+Production of until 2021 
+•
+Strong export potential 
+Successful new product introduction for the international military market 
+
+Emerging Markets Slowdown: 
+A Severe Threat? 
+ 
+Michael Schreyögg, Chief Program Officer 
+London, 25 November 2015 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+39 
+Emerging Market Slowdown Represents a Risk for OE and 
+Aftermarket 
+●Emerging markets (EM) currently experience slower or negative GDP growth and 
+large currency depreciations against the US$ 
+This is caused by the slowdown in China, sliding commodity prices and the looming 
+prospect of rising US interest rates 
+●Passenger traffic growth in EM has remained robust in September 
+IATA Sep: Lat. Am. +7.9%, Asia +6.8%, China +12.5%, India +13.2%, Russia +12.1% 
+●EM represent 32% of the commercial jet engine fleet and 36% of firm orders to be 
+delivered in the next 3 years 
+ 
+How much of MTU’s fleet and orders is exposed to a potential slowdown of EM? 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+40 
+Method to Assess MTU’s Exposure 
+Source: MTU, IMF, Bloomberg 
+●Top-down assessment 
+●11 high risk EM countries identified 
+●GDP growth forecast downgrade for 2016 
+●Currency devaluation vs. US$ in last 12m 
+(rising US$ costs for aircraft, fuel, etc.) 
+●Focus on non-flag carriers in high risk EM 
+(flag carriers with a lower risk) 
+●Exposure of MTU’s OEM portfolio via: 
+●share of in-service fleet (spare parts) 
+●share of orders of next 3 years (OE) 
+China 
+India 
+Indonesia 
+Malaysia 
+Philippines 
+Qatar 
+Taiwan 
+Thailand 
+UAE 
+Russia 
+Colombia 
+Brazil 
+Turkey 
+Mexico 
+South Africa 
+Poland 
+Hungary 
+Chile 
+Peru 
+Egypt 
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+-350
+-250
+-150
+-50
+50
+150
+12 month FX change 
+2016 GDP forecast change YoY (bps) 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+41 
+Exposure of MTU Deliveries is Limited and Below Industry Average 
+ 
+Source: Ascend, MTU 
+MTU OEM portfolio
+EM
+High risk EM
+Non-flag carriers
+in high-risk EM
+0
+1
+2
+3
+4
+# engines to be delivered until 2018 
+[000] 
+100% 
+(3,036 engines) 
+42% 
+13% 
+7% 
+Emerging 
+Markets 
+(EM) 
+High risk 
+Flag carrier 
+Non-flag carriers 
+Advanced 
+Developing 
+Industry average:  
+17% 
+10% 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+42 
+Exposure of MTU Fleet is also Limited and Below Industry Average 
+Source: Ascend, MTU  
+MTU OEM portfolio
+EM
+High risk EM
+Non-flag carriers
+in high-risk EM
+0
+2
+4
+6
+8
+10
+12
+14
+# engines in service 
+[000] 
+13,200 (100%) 
+30% 
+9% 
+4% 
+High risk 
+Flag carriers 
+Non-flag carriers 
+Developing 
+Advanced 
+Industry average:  
+12% 
+8% 
+Emerging 
+Markets 
+(EM) 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+43 
+MTU‘s Exposure to Emerging Markets: Limited and Manageable 
+●11 emerging countries have been identified as high risk (Brazil, Russia, Mexico, 
+Indonesia, Turkey, Poland, Colombia, South Africa, Malaysia, Chile, Peru) 
+●High risk EM have ordered 13% of MTU’s engines to be delivered in the next 3 years 
+and operate 9% of MTU’s fleet 
+●This reduces to 7% and 4% respectively when only secondary carriers in high risk EM 
+are considered 
+●Such shares are below industry average 
+●Should it occur, this risk is limited and manageable for MTU 
+
+MRO Business:  
+Uniquely Positioned for Growth 
+ 
+Michael Schreyögg, Chief Programm Officer 
+London, 25 November 2015 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+45 
+MTU’s Diversified Approach Ensures a Broad Market Coverage 
+CF34, CF6, CFM56, GE90G, 
+PW2000, V2500 
+LM IGTs, Vericor 
+V2500, CFM56 
+Parts repair  
+GEnx, GP7000, PWC, V2500, 
+PW1000G, GE9X 
+•Over 700 customers (airlines, 
+MROs, lessors…) 
+•#1 independent for engine 
+MRO 
+•Integrated solutions  
+•120 IGT/ Marine customers 
+•JV with China Southern 
+•JV with Lufthansa Technik 
+(ASSB) 
+•MTU is OEM network partner 
+•MRO share is secured at 
+program entry for entire life 
+Independent 
+  Airline  
+cooperation 
+OEM  
+cooperation 
+1 
+2 
+3 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+46 
+0
+10
+20
+30
+40
+50
+60
+2015
+2017
+2019
+2021
+2023
+2025
+MTU’s MRO Portfolio is the Basis for Future Growth 
+MRO Sales ($bn) 
+ 
+CAGR 
+Market  
+Approach 
+ 
+Portfolio 
+ 
+ 
+6% 
+ 
+ 
+No access as 
+of today 
+ 
+ 
+- 
+ 
+ 
+8% 
+ 
+ 
+Independent 
+or  
+Airline 
+Cooperation 
+ 
+CF34, CFM56,      
+CF6, GE90G, 
+PW2000,  
+V2500  
+17% 
+OEM 
+Cooperation 
+PW1000G, GEnx,  
+GP7000, V2500… 
+CAGR 
+2015-25 
+Total Market ~8% 
+MTU-served ~10% 
+Source: MTU, escalated 
+ 
+MTU has the largest engine MRO portfolio of all providers:  
+The market MTU serves will grow over-proportionally at 10% p.a.  
+
+Investor & Analyst Day 2015 
+25 November 2015 
+47 
+      Independent Business 
+• Market CAGR ~8% over             
+next 10 years  
+• Increasing demand for 
+integrated solutions  
+• Consolidation of pure 
+independents expected 
+• Direct customer contact 
+• Highly competitive market with 
+strong price and performance 
+focus 
+• Customized services 
+• Largest MRO portfolio,                    
+#1 independent 
+• Tailored/ integrated solutions 
+over entire engine life 
+• Alternative material solutions  
+• High MTU internal synergies 
+MARKET TRENDS 
+CHARACTERISTICS 
+MTU POSITIONING 
+1 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+48 
+       Independent: Evolution of MTU‘s Business Model 
+       From an engine MRO to a provider of service solutions 
+1 
+beyond MRO 
+Vertical integration 
+Long-term 
+leasing/ financing 
+End-of-life 
+solutions for  
+operators and  
+asset owners  
+1980s 
+1990s 
+2000s 
+2010s 
+2020s 
+ 
+related services 
+•Classic engine MRO 
+•Parts repair 
+•LRU management 
+•Spare engine support 
+•Trend monitoring 
+•On-site services 
+Additional services up to Total Engine Care (TEC®) 
+•Alternatives to MRO 
+•Engine life extension            
+and exit strategies 
+  Integrated solutions 
+Engine MRO 
+      Thrust solutions and asset management 
+•Leasing 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+49 
+       OEM Cooperation 
+• Increasing OEM market 
+coverage 
+• OEM-FHA share has grown 
+up to 40%  
+• Majority of new engines are 
+sold with OEM-FHA 
+• Airline concentration on 
+core business 
+ 
+ 
+ 
+• OEM is contract holder  
+• Long term deals with focus 
+on reducing life-cycle cost 
+• Competition within OEM 
+network 
+ 
+• OEM program share secures 
+MRO workload for decades 
+• Standardization of 
+workscopes leads to 
+economies of scale 
+• Use of MTU‘s expertise to 
+best manage fleets of OEMs 
+• Future capacity additions in  
+low cost environment 
+ 
+2 
+MARKET TRENDS 
+CHARACTERISTICS 
+MTU POSITIONING 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+50 
+       Airline Cooperation 
+• 60% of global order books 
+come from emerging markets 
+• Strong growth young airlines 
+with large future fleets 
+• Interest to build up MRO 
+expertise 
+• Partners provide baseload 
+volume and access to 
+licences 
+• Presence in growing markets 
+helps 3rd party business  
+• Highly competitive shops due            
+to low labor cost environment 
+• Local presence with high 
+MTU quality standards  
+• Activities in low-cost labor 
+countries 
+• Access to fast growing 
+Chinese/Asian market via JV 
+• MTU network benefits from 
+more repair volume and 
+offload 
+3 
+MARKET TRENDS 
+CHARACTERISTICS 
+MTU POSITIONING 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+51 
+       MTU Maintenance Zhuhai – A Success Story 
+       Joint Venture with China Southern Air Holding 
+3 
+• 50:50 joint venture since 2001 
+• Portfolio: V2500-A5, CFM56-3/5B/7                   
+future potential: PW1100G, LEAP 
+• Capacity: 300 shop visits after extension 
+2012 (+50%) 
+• Employees: >700 
+• #1 provider in China 
+• Close to 1,800 shop visits  
+• US$ revenues doubled 
+within 5 years (2010-15) 
+• Over 800 m$ contract              
+wins in 2015 
+• 3rd largest airline worldwide 
+• 100 million passengers in 2014 
+• Over 600 aircraft in operations with              
+~1,000 engines in JV portfolio 
+• 24 A320neo orders with PW1100G 
+2.1 
+7.6 
+2015
+2025
+Revenues 
+(bn. $) 
+13.7% 
+CAGR 
+Shop visits 
+ 
+2015
+2025
+8.7% 
+CAGR 
+1,254 
+546 
+44% 
+15% 
+13% 
+28% 
+Shop visits 
+(2014) 
+ 
+CSA 
+China 
+Asia 
+Company Key Facts 
+Fast Growing Chinese Market 
+Partner China Southern 
+Competitiveness 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+52 
+MTU’s Diversified Approach Ensures a Broad Market Coverage 
+ 
+•Remain #1 provider with 
+customer focus 
+ 
+•Provide integrated lifecycle 
+services 
+ 
+•Develop current cooperation 
+ 
+ 
+•Investigate future cooperation 
+potential 
+ 
+•Provide cost efficient 
+industrialized MRO 
+ 
+•Leverage OEM network 
+Independent 
+  Airline  
+cooperation 
+OEM  
+cooperation 
+1 
+2 
+3 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+53 
+Outlook 
+  
+ 
+ CAGR  
+~ 10% 
+ 
+w/o MTU Zhuhai 
+high single digit 
+% of USD revenue volume incl. MTU Zhuhai 100%, Airline Coop. only CSA; 3rd party customers MTU Zhuhai included in independent 
+Independent 
+Airline 
+Cooperation  
+OEM 
+Cooperation 
+2015  
+2025  
+Airline 
+Cooperation 
+OEM 
+      Cooperation 
+Independent  
+• All market channels contribute to strong MRO revenue increase –  
+  with OEM cooperation growing fastest 
+• Independent segment remains the biggest contributor in 10 years time 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+54 
+Thank you for your attention! 
+ 
+Questions & Answers 
+
+Flight hour Agreements – Beneficial for 
+the Operator and MRO Provider 
+ 
+Reiner Winkler, Chief Executive Officer 
+Michael Schreyögg, Chief Program Officer 
+London, 25 November 2015 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+56 
+Evolution of Engine Maintenance Contract Options  
+time 
+Service scope 
+TRADITIONAL 
+ 
+Time &  
+Material 
+(T&M) 
+Fixed  
+price/Not 
+to exceed 
+FIXED  RATE 
+INTEGRATED  
+SOLUTIONS 
+ 
+ 
+Flight hour 
+Agreements 
+(FhA)  
+
+Investor & Analyst Day 2015 
+25 November 2015 
+57 
+Typical Cash / P&L Profile of an Engine under Time & Material 
+$ 
+$ 
+The traditional T&M model shows a correlation of Sales and Cash flow 
+1st Shopvisit 
+2nd Shopvisit 
+3rd Shopvisit 
+Revenue cum. 
+Costs cum. 
+Cash Flow cum. 
+Cash-In cum. 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+58 
+$ 
+$ 
+Revenue cum. 
+Costs cum. 
+Cash Flow cum. 
+FhAs lead to an improved Cash Flow profile, P&L recognition remains unchanged 
+Cash-In cum. 
+1st Shopvisit 
+2nd Shopvisit 
+3rd Shopvisit 
+Typical Cash / P&L Profile of an Engine under FhA 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+59 
+Flight Hour Agreement - Contract Approach Differences  
+Pay as you go (PAYG) 
+  Fixed rate per h paid 
+regularly when engine 
+is operated  
+ 
+ Fixed rate 
+ per flight-h / cycle 
+Smoothed 
+cash flow 
+Cash flow 
+tied to overhaul 
+Cycle 
+ Fixed rate per h paid at  
+ time of MRO event 
+ 
+Pay at Shop Visit  (PASV) 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+60 
+Flight Hour Agreements – Benefits 
+Operator 
+MRO provider 
+• MRO cost predictability and 
+transparency 
+• Predictable cash-flow 
+• Risk transfer to MRO provider 
+• Additional services and 
+insurance options 
+ 
+• Exclusive shop visit volume 
+• Predictable and steady cash-
+flow and workload 
+• Possibility to include service 
+packages (e.g. unscheduled 
+event coverage, lease 
+engines, training…) 
+• Simple invoicing 
+• More flexible inventory 
+management 
+Advantages can only be generated with a long term agreement, optimizing the 
+whole fleet instead of single events 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+61 
+•
+Workscoping 
+•
+Material management 
+•
+Repair development 
+•
+Coatings 
+What Can be Done in Order to Improve FhA Performance? 
+Increase on-wing time 
+Reduce Shop Visit costs 
+•
+On-wing support 
+•
+Engine trend monitoring 
+•
+Coatings 
+•
+Select standard 
+•
+Removal strategy 
+•
+Modifications 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+62 
+Improving FhA Performance – On-Wing Support 
+• AGB oil leakage detected 
+• AGB removed on-site 
+• AGB repaired and installed 
+again 
+• Aircraft back in operation after 
+one weekend 
+• Shop visit avoided 
+Example 1: Accessory Gear Box  
+(AGB) oil leakage 
+• Fully equipped mobile container 
+to perform LPT module swaps 
+on-site 
+• LPT module changed 
+• Shop visit avoided 
+Example 2: Low Pressure Turbine  
+(LPT) swap 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+63 
+Improving FhA Performance – Engine Trend Monitoring 
+HPT stage 2 blade 
+crack 
+Example 1: High Pressure Turbine  
+(HPT) stage 2 blade crack 
+• HPT Boroscope inspection (BSI) 
+stage 1&2 
+• BSI findings: 1 blade cracked 
+• Engine removed 
+• Secondary damage avoided 
+Example 2: Broken Bolt 
+Bolt broken 
+• Variable Stator Vane 
+Bolt broken 
+• Engine inspected 
+• On-site bolt replacement 
+• Shop visit avoided 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+64 
+Improving FhA Performance – Erosion Coating (ERCoatnt) 
+ERCoatnt 
+ERCoatnt 
+ERCoatnt 
+uncoated 
+uncoated 
+uncoated 
+Profile nearly unchanged 
+Profile with material loss  
+and sharpened trailing edge 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+65 
+Summary  
+ 
+• Demand for Flight hour Agreements is increasing 
+• FhAs do not lead to a change in the revenue profile but to 
+a change in the cash flow profile 
+• The airlines as well as the OEMs benefit from FhAs 
+• The MRO service cost are improved by an increase in 
+reliability and by lower cost per shop visit 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+66 
+Typical Financial Profile of a 10 Years FhA Contract 
+Shopvisit 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+FHA Cash In (cum.) 
+FHA Cost (cum.) 
+FHA Revenue (cum.) 
+$ Accumulated 
+$ Cost per Shopvisit 
+TOTAL Sales 
+TOTAL Costs 
+Increase OWT 
+Reduce SV Cost 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+67 
+Typical Financial Profile of a 10 Years FhA Contract 
+Shopvisit 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Year 7 
+Year 8 
+Year 9 
+Year 10 
+FHA Cash In (cum.) 
+FHA Cost (cum.) 
+FHA Revenue (cum.) 
+$ Accumulated 
+$ Cost per Shopvisit 
+TOTAL Costs 
+TOTAL Sales 
+Benefit    
+
+Investor & Analyst Day 2015 
+25 November 2015 
+68 
+Cash Flow Streams of V2500 IAE FhA Agreements 
+ 
+Airline 
+Customers 
+ 
+ 
+ 
+ 
+ 
+OEM-MRO  
+subcontracting  
+for engines under FhA 
+ 
+Income from  
+Flight hour Agreement  
+Roughly 60% of the V2500 fleet is under FhA contract with IAE 
+IAE Partner,  
+e.g. MTU OEM 
+ 
+ 
+ 
+ 
+Spares Purchase 
+IAE Partner 
+e.g. MTU MRO 
+ 
+ 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+69 
+Summary  
+• IAE currently works together with airline customers on several cost reduction initiatives 
+for FhA agreements 
+• Impacting MTU´s financials via  
+• Less shop visits from IAE and therefore less sales for MRO division short term 
+• Lower spare parts sales short term, but… 
+• Higher EBIT margin on spare parts short term  
+with a higher total EBIT over life of each contract 
+• Improvement of Free Cash Flow already short term, 
+as IAE has to pay less for FhA shop visits 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+70 
+Thank you for your attention! 
+ 
+Questions & Answers 
+
+Financials & Outlook 
+ 
+Reiner Winkler, Chief Executive Officer 
+London, 25 November 2015 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+72 
+Financial Highlights 9M 2015 
+* w/o market-to-market valuations of US$, options and others 
+84
+119
+0
+20
+40
+60
+80
+100
+120
+140
+9M 2014
+9M 2015
+178
+231
+3,50
+4,53
+0,00
+1,00
+2,00
+3,00
+4,00
+0
+50
+100
+150
+200
+250
+300
+9M 2014
+9M 2015
+271
+333
+9,6%
+10,2%
+0%
+2%
+4%
+6%
+8%
+10%
+0
+100
+200
+300
+400
+9M 2014
+9M 2015
+2.812
+3.257
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+9M 2014
+9M 2015
+Revenues (m€) 
+EBIT adj. / EBIT adj. Margin (m€ / %) 
+Net Income adj. / EPS adj. (m€ / €)* 
+Free Cash Flow (m€) 
++16%
++23%
++30%
++42%
+
+Investor & Analyst Day 2015 
+25 November 2015 
+73 
+Guidance 2015 
+   in m€ 
+FY 2014 
+ 
+Guidance 2015 
+Revenues 
+3,914  
+~ 4,600 
+EBIT adj. 
+383 
+9.8% 
+~ 430 
+Net income adj. 
+253 
+~ 295 
+• Guidance 2015 based on 1,10 US$/€  
+• Commercial US$ OE sales up high single digit 
+• Commercial US$ spare parts sales up low to mid single digit 
+• Military revenues down 10% 
+• Commercial MRO US$ sales up low to mid single digit 
+• R&D (P&L) down by 10 m€ 
+• Tax rate in 2015: 30% 
+• FCF at high double digit million number 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+74 
+New IFRS 15: Revenues from Contracts with Customers 
+• IASB and FASB intend to harmonize IFRS and US-GAAP regulation on revenue 
+recognition 
+• IFRS 15 was issued in May 2014 and will replace previous standards  
+• IFRS 15 regulates revenue recognition in more detail, by providing a 5-step-model and 
+respective application guidance: 
+1)
+Identify the contract  
+2)
+Identify performance obligations  
+3)
+Determine the transaction price  
+4)
+Allocate transaction price to performance obligations  
+5)
+Recognize revenue when performance obligation is satisfied 
+  Background IFRS 15 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+75 
+New IFRS 15: Revenues from Contracts with Customers 
+• IASB rules mandatory application of IFRS 15 from 2018 onwards; postponed by 1 year 
+• In Europe application of IFRS 15 requires EU endorsement which is now expected for 
+Q1/2016 
+• MTU has launched an internal project in 2015 with the support of auditor firms to  
+assess implication from IFRS 15 
+• All active customer contracts are examined w.r.t  
+•
+Classification of performance obligations (i.e. FHA contract related services) 
+•
+Classification/Presentation of sales and cost of sales elements (i.e. concessions) 
+ 
+  Update November 2015 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+76 
+Head- and Tailwinds 2016 
+ 
+ 
+Military:  
+ 
+ 
+Stable 
+New engine Sales (Com. OE): 
+Stable 
+Spare parts Sales (Com. Spares): 
+Low to mid single digit 
+Commercial MRO: 
+ 
+High single digit 
+ 
+Tailwind from US$ fx-rate due to improved Hedge book 
+Slight headwind from Com. OE mix and R&D (P&L) 
+ 
+ 
+ 
+ 
+ Revenue Growth 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+77 
+US$ Exchange Rate / Hedge Portfolio 
+2015
+2016
+2017
+2018
+Average hedge rate (US$/€): 
+(mUS$) 
+ Hedge Book as of November 25, 2015 (% of net exposure) 
+984 
+(=93%) 
+1.25 
+749 
+(=68%) 
+1.25 
+1.15 
+500 
+(=40%) 
+130 
+(=10%) 
+1.22 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+78 
+Long Term Outlook 2014 – 2025 - Update 
+Investment  Phase  
+2014-2017 
+Consolidation Phase 
+2018-2025 
+Revenues 
+ 
+ 
+ 
+Military:               
+Com. OE: 
+Com. Spares: 
+Com. MRO: 
+Military: 
+Com. OE: 
+Com. Spares: 
+Com. MRO: 
+EBIT adjusted 
+Growth in line with revenues 
+Growth stronger than revenues 
+Net Income adj. 
+Growth stronger than EBIT adj. 
+Growth in line with EBIT adj. 
+CCR* 
+Low double digit % 
+High double digit % 
+Updated: 
+Less Volume GP7000 OE 2016ff Higher growth rate PW1100G-JM 
+ 
+FX tailwind 
+(Airbus production rate increase) 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+79 
+Key Takeaways 
+•
+MTU well prepared with its technology roadmap for future engine projects 
+•
+Production and supply chain strategy for the ramp up is implemented 
+•
+MTU benefits from its broad product portfolio in all business segments 
+•
+Risk of slowdown in emerging markets is manageable 
+•
+Diversified MRO market access options and product portfolio ensures future growth 
+•
+FhAs lead to a win-win situation for both airlines and MRO providers 
+•
+Measurements to improve FhA performance are in place 
+•
+Internal project launched for the IFRS 15 implementation 
+•
+For 2016 MTU is committed to another year with  
+earnings growth 
+  
+ 
+ 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+80 
+Thank you for your attention! 
+ 
+Questions & Answers 
+
+Investor & Analyst Day 2015 
+25 November 2015 
+81 
+Cautionary Note Regarding Forward-Looking Statements 
+Certain of the statements contained herein may be statements of future expectations and other forward-looking statements that are 
+based on management’s current views and assumptions and involve known and unknown risks and uncertainties that could cause 
+actual results, performance or events to differ materially from those expressed or implied in such statements.  In addition to 
+statements that are forward-looking by reason of context, the words “may,” “will,” “should,” “expect,” “plan,” “intend,” “anticipate,” 
+“forecast,” “believe,” “estimate,” “predict,” “potential,” or “continue” and similar expressions identify forward-looking statements.  
+Actual results, performance or events may differ materially from those in such statements due to, without limitation, (i) competition 
+from other companies in MTU’s industry and MTU’s ability to retain or increase its market share, (ii) MTU’s reliance on certain 
+customers for its sales, (iii) risks related to MTU’s participation in consortia and risk and revenue sharing agreements for new aero 
+engine programs, (iv) the impact of non-compete provisions included in certain of MTU’s contracts, (v) the impact of a decline in 
+German or other European defense budgets or changes in funding priorities for military aircraft, (vi) risks associated with government 
+funding, (vii) the impact of significant disruptions in MTU’s supply from key vendors, (viii) the continued success of MTU’s research 
+and development initiatives, (ix) currency exchange rate fluctuations, (x) changes in tax legislation, (xi) the impact of any product 
+liability claims, (xii) MTU’s ability to comply with regulations affecting its business and its ability to respond to changes in the 
+regulatory environment, (xiii) the cyclicality of the airline industry and the current financial difficulties of commercial airlines, (xiv) our 
+substantial leverage and (xv) general local and global economic conditions. Many of these factors may be more likely to occur, or 
+more pronounced, as a result of terrorist activities and their consequences. 
+The company assumes no obligation to update any forward-looking statement. 
+Any securities referred to herein have not been and will not be registered under the U.S. Securities Act of 1933, as amended (the 
+“Securities Act”), and may not be offered or sold without registration thereunder or pursuant to an available exemption therefrom. Any 
+public offering of securities of MTU Aero Engines to be made in the United States would have to be made by means of a prospectus 
+that would be obtainable from MTU Aero Engines and would contain detailed information about the issuer of the securities and its 
+management, as well as financial statements. 
+Neither this document nor the information contained herein constitutes an offer to sell or the solicitation of an offer to buy any 
+securities. 
+These materials do not constitute an offer of securities for sale in the United States; the securities may not be offered or sold in the 
+United States absent registration or an exemption from registration. 
+No money, securities or other consideration is being solicited, and, if sent in response to the information contained herein, will not be 
+accepted.

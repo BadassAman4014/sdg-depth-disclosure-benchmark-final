@@ -1,0 +1,2497 @@
+HALBJAHRESFINANZ­
+BERICHT H1|2022
+1. Januar bis 30. Juni 2022
+
+STRATEC projektiert, entwickelt und produziert 
+vollautomatische Analysensysteme für Partner aus 
+der klinischen Diagnostik und Life Sciences.
+Darüber hinaus bietet das Unternehmen komplexe 
+Verbrauchsmaterialien für diagnostische und 
+medizinische Anwendungen an. Bei Analysensystemen 
+sowie Verbrauchsmaterialien wird dabei die gesamte 
+Wertschöpfungskette von der Entwicklung über das 
+Design und die Produktion bis zur Qualitätssicherung 
+abgedeckt.
+Unsere Partner vermarkten die Systeme, 
+Software und Verbrauchsmaterialien weltweit 
+als Systemlösungen, in der Regel gemeinsam mit 
+ihren Reagenzien, an Laboratorien, Blutbanken 
+und Forschungseinrichtungen. STRATEC entwickelt 
+ihre Produkte auf Basis patentgeschützter 
+Technologien.
+2
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+INHALT
+Aktuelles / Wesentliche Kennzahlen 04
+Brief des Vorstands 05
+Konzernzwischenlagebericht 06
+Konzernbilanz zum 30. Juni 2022 12
+Konzern-Gesamtergebnisrechnung 
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022 14
+Konzern-Gesamtergebnisrechnung 
+für den Zeitraum vom 1. April bis zum 30. Juni 2022 15
+Konzern-Eigenkapitalveränderungsrechnung 
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022 16
+Konzern-Kapitalflussrechnung 
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022 18
+Ausgewählte erläuternde Anhangangaben 
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022 19
+Weitere Informationen 32
+3
+
+AKTUELLES
+WESENTLICHE KENNZAHLEN
+1
+• Umsatzerlöse H1/2022 -11,9 % auf 137,2 Mio. € (H1/2021: 155,8 Mio. €); währungsbereinigt -15,2 % 
+• Adjustiertes EBIT H1/2022 bei 21,2 Mio. € (H1/2021: 34,5 Mio. €)
+• Adjustierte EBIT-Marge bei 15,4 % (H1/2021: 22,1 %)
+• Vorbereitung der Serienproduktion einer neuen Systemlösung für einen der Marktführer schreitet erfolgreich voran
+• Hohe Entwicklungsaktivität und Vielzahl aussichtsreicher Verhandlungen bezüglich neuer Projekte
+• Ausblick für 2022 bestätigt: Umsatz währungsbereinigt auf Vorjahresniveau und adjustierte EBIT-Marge 
+	 von etwa 16,5 % bis 18,5 % erwartet
+in T€
+H1/2022
+H1/2021
+Veränderung
+Q2/2022
+Q2/2021
+Veränderung
+Umsatzerlöse
+137.193
+155.765
+-11,9 %
+61.806
+83.770
+-26,2 %
+EBITDA
+27.841
+40.274
+-30,9 %
+9.382
+21.434
+-56,2 %
+EBITDA-Marge (%)
+20,3
+25,9
+-560 bp
+15,2
+25,6
+-1.040 bp
+Adjustiertes EBIT
+21.178
+34.457
+-38,5 %
+6.141
+18.412
+-66,6 %
+Adjustierte EBIT-Marge (%)
+15,4
+22,1
+-670 bp
+9,9
+22,0
+-1.210 bp
+Adjustiertes Konzernergebnis
+16.679
+28.547
+-41,6 %
+4.731
+15.400
+-69,3 %
+Adjustiertes Ergebnis je Aktie (€)
+1,38
+2,36
+-41,5 %
+0,39
+1,27
+-69,3 %
+Ergebnis je Aktie (€)
+1,04
+2,08
+-50,0 %
+0,12
+1,12
+-89,3 %
+bp = Basispunkte
+1 Adjustierte Zahlen wurden für Vergleichszwecke um Abschreibungen aus Kaufpreisallokationen aus Akquisitionen sowie um eine Rückstellung für zu erwartende Steuernachzahlungen 
+(inklusive Zinszahlungen) bereinigt. Im Vorjahr wurde zudem eine Bereinigung für eine Wertminderung für ein proprietäres Entwicklungsprojekt im Segment Diatron vorgenommen.
+in T€
+30.06.2022
+31.12.2021
+Veränderung
+Eigenkapital
+204.413
+205.759
+-0,7 %
+Bilanzsumme
+385.445
+368.525
++4,6 %
+Eigenkapitalquote (%)
+53,0
+55,8
+-280 bp
+bp = Basispunkte
+4
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+BRIEF DES VORSTANDS
+Birkenfeld, im August 2022
+Die Vorstände Ihrer STRATEC SE
+Marcus Wolfinger 	
+Dr. Robert Siegle	
+Dr. Claus Vielsack
+Sehr geehrte Aktionärinnen und Aktionäre,
+liebe Partner und Freunde von STRATEC,
+die STRATEC-Gruppe hatte im ersten Halbjahr 2022 einen 
+Umsatz- und Ergebnisrückgang zu verzeichnen. Die im 
+Jahresvergleich verhaltene Dynamik ist dabei insbesondere auf 
+die situationsbedingt hohe Nachfrage nach Laborkapazitäten 
+im Vorjahr zurückzuführen, welche sich so erwartungsgemäß 
+im neuen Geschäftsjahr nicht fortsetzte. Zudem haben sich 
+Umsatzrealisierungen von Entwicklungsprojekten teilweise in 
+das dritte Quartal 2022 verschoben. Auch die Situation in der 
+Lieferkette hat sich in den letzten Monaten weiter verschärft 
+und führte im ersten Halbjahr 2022 zu deutlichen Lieferrück­
+ständen. Unter der Voraussetzung, dass die Welt im zweiten 
+Halbjahr von zusätzlichen Krisenherden verschont bleibt, gehen 
+wir jedoch davon aus, diese Lieferrückstande bis zum Jahres-
+ende teilweise aufholen zu können. Vor diesem Hintergrund 
+und zusammen mit anstehenden Produkteinführungen sowie 
+einer insgesamt niedrigeren Vorjahresvergleichsbasis rechnen 
+wir daher bereits im zweiten Halbjahr 2022 wieder mit einer 
+deutlichen Belebung bei der Umsatz- und Ergebnisentwicklung. 
+Wir gehen somit davon aus, unsere für das Jahr 2022 in 
+Aussicht gestellten Ziele zu erreichen.
+Auf der Entwicklungsseite haben wir im ersten Halbjahr 2022 
+in einer Reihe von Projekten deutliche Fortschritte erzielt. 
+Besonderer Fokus liegt derzeit auf der Vorbereitung der 
+Serienproduktion für ein molekulardiagnostisches System für 
+einen der Marktführer in diesem Bereich. Die Markteinführung 
+des Produkts durch den Partner steht unmittelbar bevor. 
+STRATEC wird bei diesem Projekt neben dem Analysensystem 
+auch das für die Durchführung von Tests notwendige komplexe 
+polymerbasierte Verbrauchsmaterial produzieren und an den 
+Partner liefern. 
+Die langfristigen Wachstumsperspektiven für unser Unter­
+nehmen sind nach wie vor positiv und durch unsere starke 
+Entwicklungspipeline untermauert. Unser über die Jahre 
+erarbeitetes Know-how, unsere Reputation sowie das 
+Vertrauen unserer Kunden in unsere Leistungsfähigkeit sind 
+dabei der Garant für unseren Erfolg. So sind wir auch im 
+ersten Halbjahr 2022 eine Vielzahl neuer Kooperationen mit 
+bestehenden und neuen Partnern eingegangen und stehen in 
+aussichtsreichen Verhandlungen bezüglich weiterer Projekte. 
+Wir freuen uns zudem auch im ersten Halbjahr 2022 eine 
+Vielzahl neuer Mitarbeiter für das STRATEC-Team gewonnen 
+zu haben. Insgesamt beschäftigt die STRATEC-Gruppe nunmehr 
+1.429 Mitarbeiter (unter Hinzurechnung der Leiharbeiter und 
+der Auszubildenden). 
+Wir danken Ihnen, sehr verehrte Aktionärinnen und Aktionäre, 
+für ihr Vertrauen und für die erneut hohen Zustimmungswerte 
+bei den einzelnen Tagesordnungspunkten auf der diesjährigen 
+Hauptversammlung. Hierzu zählt auch die Zustimmung für 
+eine weitere Rekorddividende, die wir im Mai 2022 in Höhe 
+von 0,95 € je Aktie ausschütten konnten. Seit der Aufnahme 
+der Dividendenzahlung im Jahr 2004 wurde die Dividende 
+somit zum achtzehnten Mal in Folge erhöht.
+5
+
+KONZERNZWISCHEN­-
+LAGEBERICHT
+Bericht zur Ertrags-, Finanz- 
+und Vermögenslage
+Ertragslage
+Die STRATEC-Gruppe hat im ersten Halbjahr 2022 Umsatzer­
+löse in Höhe von 137,2 Mio. € (H1/2021: 155,8 Mio. €) erzielt. 
+Gegenüber dem Vorjahr entspricht dies einem Rückgang von 
+11,9 % (währungsbereinigt -15,2 %). Die verhaltene Entwicklung 
+ist dabei insbesondere auf die situationsbedingt hohe Vorjahres­
+vergleichsbasis in den Segmenten Instrumentation und Diatron 
+zurückzuführen. So war vor allem im zweiten Quartal 2021 eine 
+außergewöhnlich hohe Nachfrage nach zusätzlichen molekular­
+diagnostischen Laborkapazitäten zu verzeichnen, welche sich er­
+wartungsgemäß im aktuellen Geschäftsjahr 2022 nicht wieder­
+holte. Zudem hat sich die Situation in der Lieferkette in den 
+letzten Monaten weiter verschärft und führte im ersten Halbjahr 
+2022 zu deutlichen Lieferrückständen. Des Weiteren haben sich 
+Umsatzrealisierungen aus Entwicklungsprojekten teilweise in das 
+dritte Quartal 2022 verschoben. 
+Innerhalb der operativen Bereiche verringerte sich der Umsatz 
+mit Systemen im ersten Halbjahr 2022 um 23,6 % (währungsbe­
+reinigt -26,6 %), während beim Geschäft mit Serviceteilen und 
+Verbrauchsmaterialien ein Rückgang von 3,6 % (währungsberei­
+nigt -7,0 %) zu verzeichnen war. Der Umsatz mit Entwicklungs- 
+und Dienstleistungen konnte dagegen, trotz der zuvor beschrie­
+benen Verschiebungen von Umsatzrealisierungen in das dritte 
+Quartal, um 51,6 % (währungsbereinigt +47,1 %) gesteigert 
+werden.
+Im Zusammenhang mit dem gesunkenen Umsatzvolumen re­
+duzierte sich auch der Rohertrag (Bruttoergebnis vom Umsatz) 
+von 49,1 Mio. € in der Vorjahresperiode auf 37,8 Mio. € im 
+ersten Halbjahr 2022. Die Bruttomarge zum 30. Juni 2022 be­
+trägt folglich 27,6 % nach 31,5 % im Vorjahr.
+In Folge der weiterhin gut gefüllten Entwicklungspipeline und 
+der damit verbundenen hohen Entwicklungsaktivität stiegen die 
+Bruttoentwicklungskosten in den ersten sechs Monaten des 
+Jahres 2022 auf 25,0 Mio. € (H1/2021: 23,5 Mio. €).
+Die Vertriebskosten erhöhten sich im ersten Halbjahr 2022 von 
+4,6 Mio. € im Vorjahr auf 5,0 Mio. €. Bei den allgemeinen Verwal­
+tungskosten war ebenfalls ein leichter Anstieg auf 8,9 Mio. € 
+gegenüber 8,4 Mio. € in der Vorjahresperiode zu verzeichnen.
+Das adjustierte EBIT der ersten sechs Monate 2022 beläuft sich 
+auf 21,2 Mio. € gegenüber 34,5 Mio. € im Vorjahr. Die adjustier­
+te EBIT-Marge reduzierte sich folglich um 670 Basispunkte auf 
+15,4 % (H1/2021: 22,1 %). Neben negativen Skaleneffekten im 
+Zusammenhang mit dem temporär reduzierten Umsatzvolu­
+men machten sich hier insbesondere auch ein schwächerer 
+Produkt- und Umsatzmix bemerkbar. Des Weiteren wirkten 
+sich negative Bewertungseffekte aus teilweise mehrjährigen 
+Währungskurssicherungsgeschäften sowie gestiegene Inputkos­
+ten, welche aufgrund einzelvertraglicher Regelung nur zeitver­
+zögert an die Kunden weitergegeben werden können, negativ 
+auf die Marge aus.
+Vor dem Hintergrund des niedrigeren operativen Ergebnisses 
+reduzierte sich auch das adjustierte Konzernergebnis um 41,6 % 
+auf 16,7 Mio. € nach 28,5 Mio. € im Vorjahr. Das adjustierte 
+Ergebnis je Aktie (unverwässert) für die ersten sechs Monate 
+2022 beläuft sich auf 1,38 € (H1/2021: 2,36 €). Das unbereinig­
+te Ergebnis je Aktie (unverwässert) beträgt 1,04 € (Vorjahr: 
+2,08 €).
+Die Ertragszahlen für das erste Halbjahr 2022 wurden für Ver­
+gleichszwecke um Abschreibungen aus Kaufpreisallokationen 
+aus Akquisitionen sowie um eine Rückstellung für zu erwarten­
+de Steuernachzahlungen (inklusive Zinszahlungen) für den Zeit­
+raum 2014 bis 2021 (Steueraufwand: 2,3 Mio. €; Zinsaufwand: 
+0,2 Mio. €) adjustiert. Bei den Vorjahreszahlen wurde zudem 
+eine Wertminderung für ein proprietäres Entwicklungsprojekt 
+im Segment Diatron bereinigt.
+Konzernumsatz nach operativen Bereichen (in T €) 
+H1/2022
+H1/2021
+Veränderung
+Systeme
+73.133
+95.748
+-23,6 % 
+wb -26,6 %
+Serviceteile & 
+Verbrauchsmaterialien
+46.832
+48.602
+-3,6 % 
+wb -7,0 %
+Entwicklungs- und 
+Dienstleistungen
+16.558
+10.922
++51,6 % 
+wb +47,1 %
+Übrige
+670
+493
++35,9 % 
+wb +28,4 %
+Konzern­umsatz
+137.193
+155.765
+-11,9 % 
+wb -15,2 %
+wb = währungsbereinigt
+6
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Eine Überleitung der adjustierten Zahlen zu den in der Kon-
+zernergebnisrechnung ausgewiesenen Werten kann den nach­
+folgenden Tabellen entnommen werden.
+Segmente
+Die geschäftlichen Aktivitäten des STRATEC-Konzerns werden 
+in drei berichtspflichtige Segmente unterteilt.
+Im Segment Instrumentation wird das Geschäft mit der Projek­
+tierung, Entwicklung und Produktion vollautomatischer Analy­
+sensysteme, inklusive Serviceteile und Verbrauchsmaterialien- 
+für Kunden aus der klinischen Diagnostik und Lifes Sciences 
+zusammengefasst.
+Das Segment Diatron umfasst das Geschäft mit Systemen, Sys­
+temkomponenten, Verbrauchsmaterialien und Tests im unteren 
+Durchsatzsegment, unter anderem in der Hämatologie, der 
+molekularen Diagnostik sowie der klinischen Chemie.
+Im Segment Smart Consumables wird das Geschäft mit der 
+Entwicklung und Produktion von sogenannten intelligenten Ver­
+brauchsmaterialien in den Bereichen Diagnostik, Life Sciences 
+sowie Medizintechnik zusammengefasst.
+Segment Instrumentation
+Der Umsatz im Segment Instrumentation für die ersten sechs Mo­
+nate 2022 beläuft sich auf 100,4 Mio. € (H1/2021: 109,9 Mio. €). 
+Gegenüber der Vorjahresperiode impliziert dies einen Rückgang 
+von 8,6 % (währungsbereinigt -12,3 %). Hierbei waren aufgrund 
+der pandemiebedingt hohen Vorjahresvergleichsbasis deutliche 
+Rückgänge bei den Systemverkäufen zu verzeichnen. Zudem 
+ergaben sich Lieferrückstände aufgrund der weiterhin sehr an­
+gespannten Situation in der Lieferkette. Die Umsätze mit 
+Serviceteilen und Verbrauchsmaterialien sowie mit Entwick­
+lungs- und Dienstleistungen konnten dagegen gesteigert wer­
+den. Die adjustierte EBIT-Marge für die ersten sechs Monate 
+2022 verringerte sich um 770 Basispunkte auf 12,6 % (H1/2021: 
+20,3 %). Hierbei wirkten sich unter anderem negative Skalen-
+effekte, eine Normalisierung des Produkt- und Umsatzmix, 
+Bewertungseffekte aus Währungssicherungsgeschäften sowie 
+gestiegene Inputkosten negativ auf die Marge aus. Preisan-
+passungsprozesse für STRATEC-Produkte befinden sich auf­
+grund einzelvertraglicher Regelungen teilweise noch in der Um­
+setzung.
+
+Segment Diatron 
+Das Segment Diatron verzeichnete im ersten Halbjahr des Ge­
+schäftsjahres 2022 einen Umsatzrückgang von 25,5 % auf 26,2 
+Mio. € gegenüber 35,2 Mio. € im Vorjahr. Bereinigt um Wäh­
+rungskurseffekte entspricht dies einem Umsatzrückgang von 
+27,3 %. Die verhaltene Umsatzdynamik ist insbesondere auf die 
+pandemiebedingt hohen Abrufzahlen an molekulardiagnosti­
+schen Systemen in der Vorjahresperiode zurückzuführen, wel­
+che sich so erwartungsgemäß im ersten Halbjahr 2022 nicht 
+wiederholten. Die adjustierte EBIT-Marge für das erste Halbjahr 
+2022 beläuft sich auf 28,1 % im Vergleich zu 31,0 % in der Vor­
+jahresperiode.
+Segment Smart Consumables 
+Der Umsatz im Segment Smart Consumables für das erste 
+Halbjahr des Geschäftsjahres 2022 beläuft sich mit 10,6 Mio. € 
+nahezu auf Vorjahresniveau (H1/2021: 10,7 Mio. €). Die 
+adjustierte EBIT-Marge beträgt 11,3 % nach 11,9 % im ersten 
+Halbjahr 2021.
+in T€
+H1/2022
+H1/2021
+Adjustiertes EBIT
+21.178
+34.457
+Adjustierungen
+• Planmäßige Ab­schreibungen PPA
+• Wertminderung
+-1.844
+0
+-2.909
+-1.049
+EBIT
+19.334
+30.499
+in T€
+H1/2022
+H1/2021
+Adjustiertes Konzernergebnis 
+16.679
+28.547
+Adjustiertes Ergebnis je Aktie in € 
+(unverwässert)
+1,38
+2,36
+Adjustierungen
+	 • Planmäßige Abschreibungen PPA
+	 • Wertminderung
+	 • Steuern vom Einkommen 
+und vom Ertrag
+	 • Zinsaufwand
+-1.844
+0
+-2.019
+-214
+-2.909
+-1.049
+572
+0
+Konzernergebnis
+12.602
+25.161
+Ergebnis je Aktie in €
+(unverwässert)
+1,04
+2,08
+Übersicht über die Entwicklung der 
+berichtspflichtigen Segmente (in T €) 
+H1/2022
+H1/2021
+Veränderung
+Instrumentation
+Umsatz
+100.423
+109.873
+-8,6 % 
+wb -12,3 %
+Adjustiertes EBIT
+12.625
+22.267
+-43,3 %
+Adjustierte EBIT-Marge
+12,6%
+20,3%
+-770 bp
+Diatron
+Umsatz
+26.219
+35.206
+-25,5 % 
+wb -27,3 %
+Adjustiertes EBIT
+7.364
+10.916
+-32,5 %
+Adjustierte EBIT-Marge
+28,1 %
+31,0 %
+-290 bp
+Smart Consumables 
+Umsatz
+10.551
+10.686
+-1,3 % 
+wb -4,9 %
+Adjustiertes EBIT
+1.189
+1.274
+-6,7 %
+Adjustierte EBIT-Marge
+11,3 %
+11,9 %
+-60 bp
+wb = währungsbereinigt
+bp = Basispunkte
+7
+
+Finanzlage
+Der Cashflow aus laufender Geschäftstätigkeit für die ersten 
+sechs Monate 2022 beläuft sich auf 24,8 Mio. € gegenüber 33,3 
+Mio. € im Vorjahr. Der Rückgang ist dabei im Wesentlichen auf 
+das niedrigere Konzernergebnis zurückzuführen. Zudem war im 
+Vergleich zur Vorjahresperiode eine geringe Zunahme bei den 
+Verbindlichkeiten aus Lieferungen und Leistungen sowie ande­
+rer Schulden zu verzeichnen.
+Der Cashflow aus der Investitionstätigkeit für die ersten sechs 
+Monate 2022 beträgt -7,9 Mio. € im Vergleich zu -10,3 Mio. € 
+im ersten Halbjahr 2021. Hierbei war gegenüber Vorjahr insbe­
+sondere ein Rückgang bei den Auszahlungen für Sachanlagen 
+von 6,3 Mio. € im Vorjahr auf 3,6 Mio. € zu verzeichnen. Die 
+Investitionen in immaterielle Vermögenswerte belaufen sich auf 
+4,4 Mio. € gegenüber 4,0 Mio. € im Vorjahr.
+Die Investitionsquote (Investitionen in Sachanlagen und imma­
+terielle Vermögenswerte im Verhältnis zum Umsatz) für die 
+ersten sechs Monate beträgt folglich 5,8 % (H1/2021: 6,7 %) und 
+bewegt sich damit leicht unterhalb des für das Gesamtjahr 2022 
+angepeilten Korridors von 6,0 % bis 8,0 %. 
+Der Cashflow aus der Finanzierungstätigkeit im ersten Halbjahr 
+2022 beläuft sich auf -14,9 Mio. € (H1/2021: -18,9 Mio. €) und 
+setzt sich im Wesentlichen aus der im Mai 2022 erfolgten Divi­
+dendenauszahlung an die Aktionäre in Höhe von 11,5 Mio. € 
+sowie einer Nettotilgung von Finanzverbindlichkeiten in Höhe 
+von 3,7 Mio. € zusammen.
+Vermögenslage
+Die Bilanzsumme hat sich zum 30. Juni 2022 auf 385,4 Mio. € 
+gegenüber 368,5 Mio. € zum 31. Dezember 2021 erhöht.
+Die langfristigen Vermögenswerte sind zum 30. Juni 2022 ge­
+genüber dem 31. Dezember 2021 von 180,5 Mio. € auf 184,1 
+Mio. € gestiegen. Der Anstieg ist dabei insbesondere auf eine 
+Erhöhung bei den Nutzungsrechten von 8,7 Mio. € auf 12,6 Mio. € 
+zurückzuführen.
+Die Sachanlagen zum 30. Juni 2022 betragen 58,8 Mio. € und 
+bewegen sich damit nahezu auf dem Niveau von 58,7 Mio. € 
+zum 31. Dezember 2021. 
+Bei den kurzfristigen Vermögenswerten ist zum 30. Juni 2022 ein 
+Zuwachs von 13,4 Mio. € auf 201,4 Mio. € gegenüber 188,0 Mio. € 
+zum 31. Dezember 2021 zu verzeichnen.Die Erhöhung ist dabei 
+im Wesentlichen auf einen Anstieg bei den Vorräten zurückzu­
+führen.
+Die Zahlungsmittel betrugen zum 30. Juni 2022 48,8 Mio. € 
+gegenüber 47,2 Mio. € zum 31. Dezember 2021.
+Auf der Passivseite ergeben insbesondere Änderungen durch 
+die Steigerung der kurzfristigen und langfristigen Vertragsver­
+bindlichkeiten, die sich von insgesamt 26,2 Mio. € zum 31. De­
+zember 2021 auf 34,6 Mio. € zum 30. Juni 2022 erhöht haben. 
+Der Anstieg ist dabei unter anderem auf erhaltene Anzahlungen 
+für Entwicklungsprojekte zurückzuführen.
+Die Eigenkapitalquote zum 30. Juni 2022 beträgt 53,0 % und 
+liegt damit leicht unter dem Niveau von 55,8 % zum 31. Dezem­
+ber 2021. Der Rückgang ist dabei insbesondere auf die im Mai 
+2022 erfolgte Dividendenausschüttung in Höhe von 11,5 Mio. € 
+zurückzuführen.
+Gesamtwirtschaftliche
+und branchenspezifische 
+Rahmenbedingungen
+Gesamtwirtschaftliche Rahmenbedingungen
+Die Organisation für wirtschaftliche Zusammenarbeit und Ent­
+wicklung (OECD) rechnet in ihrem im Juni 2022 vorgelegten 
+Wirtschaftsausblick für das Jahr 2022 mit einem Wachstum des 
+globalen Bruttoinlandsprodukts von 3 %. Damit hat die OECD 
+ihre Prognose aus Dezember 2021 für das Wachstum der Welt­
+wirtschaft im Hinblick auf den Krieg in der Ukraine von bislang 
+4,5 % deutlich nach unten korrigiert. Für 2023 wird ein Wachs­
+tum von 2,8 % statt wie bislang prognostiziert von 3,2 % erwar­
+tet. Als Begründung wird der Inflationsanstieg angeführt. Dieser 
+schwäche die Kaufkraft, wodurch die Belebung des privaten 
+Verbrauchs gedämpft werde. Die erhöhte Unsicherheit, der 
+starke Anstieg der Energiepreise und anhaltende Lieferengpässe 
+beeinträchtigen zudem etliche Branchen sowie Privatinvestitio­
+nen und Exporte. Die OECD erwartet, dass die Inflation in 
+Folge des Krieges höher ausfallen und länger andauern werde, 
+als bislang angenommen.
+Das Wachstum wird in fast allen Volkswirtschaften deutlich 
+schwächer ausfallen als erwartet. Europa leidet am stärksten 
+unter den wirtschaftlichen und sozialen Auswirkungen des 
+Kriegs. Viele europäische Länder sind durch ihre Energieimpor­
+te und den Flüchtlingszustrom unmittelbar betroffen.
+Die OECD prognostiziert für die USA im laufenden Jahr nun 
+ein Wirtschaftswachstum von 2,5 % (zuvor: 3,7 %), für Deutsch­
+land von 1,9 % (zuvor: 4,0 %) und für den Euroraum von 2,6 % 
+(zuvor: 4,3 %). 
+8
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Der Ausblick der OECD ist nach eigenen Aussagen mit großer 
+Unsicherheit und erheblichen Abwärtsrisiken behaftet. Unsi­
+cherheitsfaktoren sind beispielsweise die Dauer und eine mög­
+liche weitere Eskalation des Krieges in der Ukraine. Darüber 
+hinaus ist die Pandemie nicht vorüber. Aggressivere bzw. anste­
+ckendere Varianten könnten sich verbreiten und Chinas 
+Null-Covid-Strategie könnte zu weiteren Störungen der Liefer­
+ketten führen.
+Aufgrund der langjährigen Projekt- und Produktlebenszyklen 
+werden STRATEC und der Entscheidungsprozess ihrer Kunden 
+für gemeinsame Entwicklungsprojekte nur unwesentlich von 
+gesamtwirtschaftlichen Schwankungen beeinflusst. Dennoch 
+spielt das gesamtwirtschaftliche Umfeld für das unternehmeri­
+sche Handeln von STRATEC eine wichtige Rolle und fließt des­
+halb umfassend in die Bewertungen und Planungen der Gesell­
+schaft ein.
+Branchenbezogene Rahmenbedingungen
+Der Markt der In-vitro-Diagnostik (IVD) bietet nach unter­
+schiedlichen Schätzungen weiterhin sehr gesunde und nachhal­
+tige Wachstumsraten. Nach unterschiedlichen Schätzungen 
+beläuft sich der globale IVD-Markt auf mehr als 80 Mrd. USD. 
+Eine weiterhin alternde Gesellschaft, die Zunahme von chroni­
+schen Erkrankungen, das häufigere Auftreten von Infektions­
+krankheiten und die steigende Bedeutung personalisierter Be­
+handlung sind wichtige und nachhaltige Wachstumstreiber des 
+Marktes. Darüber hinaus werden durch die Forschung an inno­
+vativen Technologien, wie spezifischen Biomarkern, neue Mög­
+lichkeiten für das zukünftige Wachstum des Marktes geschaffen. 
+Die verschiedenen Segmente innerhalb der IVD verzeichnen 
+dabei unterschiedliche Wachstumsraten. 
+STRATEC ist insbesondere in den Bereichen tätig, welche über­
+durchschnittlich hohe Wachstumsraten aufweisen. Dazu gehört 
+beispielsweise die Molekulare Diagnostik sowie hochsensitive 
+Verfahren innerhalb der Immundiagnostik. STRATEC bietet in 
+vielen wichtigen Bereichen der IVD Produkte und Lösungen an.
+9
+
+Bericht zu Prognosen und 
+sonstigen Aussagen zur vor­
+aussichtlichen Entwicklung
+
+Die COVID-19-Pandemie hat einmal mehr die hohe Bedeutung 
+in-vitro-diagnostischer Lösungen innerhalb der weltweiten Ge­
+sundheitssysteme hervorgehoben. Globale Megatrends, wie 
+beispielsweise eine älter werdende Bevölkerung oder die zu­
+nehmende Anzahl chronischer sowie infektiöser Krankheiten, 
+sorgen zudem für eine nachhaltig wachsende Nachfrage nach 
+in-vitro-diagnostischen Produkten. Des Weiteren erschließen 
+bedeutende technologische Fortschritte sowie steigende Sen­
+sitivitäten immer mehr Anwendungsgebiete für in-vitro-diagnos­
+tische Verfahren. Die langfristigen Wachstumsaussichten für die 
+Zielmärkte der STRATEC-Kunden werden vor diesem Hinter­
+grund daher unverändert positiv beurteilt. Zusätzlich profitiert 
+STRATEC von der generellen Bereitschaft von Kunden, die Ent­
+wicklung und Fertigung von Automatisierungslösungen an spe­
+zialisierte Partner auszulagern. Dies spiegelt sich zum einen in 
+einer Vielzahl von über die letzten Jahre erfolgten Markteinfüh­
+rungen sowie der gut gefüllten Entwicklungspipeline des Unter­
+nehmens wider.
+Für das aktuelle Geschäftsjahr erwartet STRATEC, die im ersten 
+Halbjahr 2022 entstandenen Lieferrückstände innerhalb der 
+nächsten Monate aufholen zu können. Zudem ist aufgrund von 
+Produkteinführungen sowie einer insgesamt niedrigeren Vorjah­
+resvergleichsbasis eine Belebung der Umsatzdynamik im zwei­
+ten Halbjahr 2022 zu erwarten. Vor diesem Hintergrund und 
+auf Basis aktueller Bestellungen sowie Bestellprognosen seitens 
+der Kunden bestätigt STRATEC ihre Finanzprognose für das 
+Geschäftsjahr 2022. Auf Basis konstanter Wechselkurse wird 
+damit weiterhin ein Umsatz auf Vorjahresniveau erwartet. Für 
+die adjustierte EBIT-Marge wird unverändert ein Wert von etwa 
+16,5 % bis 18,5 % prognostiziert (2021: 18,9 %).
+STRATEC hat für 2022 Investitionen in Sachanlagen und in im­
+materielle Vermögenswerte von insgesamt 6,0 % bis 8,0 % des 
+Umsatzes geplant (2021: 7,0 %).
+Abhängig von der Möglichkeit, ausreichend qualifizierte Mit­
+arbeiter zu gewinnen, ist es geplant, die Mitarbeiterzahl über 
+die nächsten Jahre weiter moderat auszubauen, um der an­
+haltend hohen Nachfrage nach Entwicklungsleistungen ge­
+recht zu werden. Die Finanzprognose von STRATEC basiert 
+auf Planungen, welche die Besonderheiten des Geschäftsmo­
+dells sowie eine Reihe von internen und externen Faktoren 
+berücksichtigen und entsprechend ihrer Bedeutung gewich­
+ten. Dabei spielen Auftragseingänge und Prognosen der Kun­
+den sowie deren Bestellverhalten und die Lagerhaltung von 
+Serviceteilen ebenso eine übergeordnete Rolle, wie die An­
+zahl der in Entwicklung und in Verhandlung befindlichen Pro­
+jekte. Weitere Opportunitäten durch externes Wachstum 
+sind hierbei unberücksichtigt. Aufgrund der langfristigen Ge­
+schäftsbeziehungen sind konjunkturelle Entwicklungen für 
+STRATEC von untergeordneter Bedeutung. Der konjunktu­
+relle Faktor fließt deshalb nur schwächer gewichtet in die 
+Prognosen ein.
+10
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Chancen- und Risikobericht
+Das Risikomanagementsystem ist ein aktiver Teil von STRATECs 
+Unternehmensführung und basiert im Wesentlichen auf drei 
+Säulen. Im Bereich des zentralen Risikofrüherkennungssystems 
+werden die Risiken der Unternehmensbereiche und des dazu­
+gehörigen Geschäftsumfelds analysiert, beurteilt und überwacht. 
+Ferner beinhaltet das Risikomanagementsystem ein Internes 
+Kontrollsystem (IKS) sowie ein Compliance-System, wodurch 
+zusätzlich die Einhaltung zutreffender gesetzlicher und 
+industriespezifischer Rahmenbedingungen sichergestellt wird.
+Das Risikomanagement umfasst alle wesentlichen operativen 
+und administrativen Bereiche des Unternehmens. Aufgrund der 
+Entwicklungen im Zusammenhang mit der COVID-19-Pande­
+mie sowie den schwer planbaren Preisentwicklungen angesichts 
+der inflationsfördernden geldpolitischen Aktivitäten der Zent­
+ralbanken in den vergangenen Jahren und der Auswirkungen 
+des Krieges in der Ukraine sind die Einkaufs-und Lieferrisiken in 
+den letzten Quartalen verstärkt in den Fokus gerückt. Daher 
+wurden verschiedene Maßnahmen umgesetzt und weiterentwi­
+ckelt, um eine kontinuierliche Lieferfähigkeit an STRATECs Kun­
+den und eine transparente Steuerung der entsprechenden 
+Aktivitäten in den relevanten Bereichen sicherzustellen. Den­
+noch waren in den letzten Monaten die Auswirkungen der ver­
+änderten Rahmenbedingungen durch deutlich erhöhte Broker- 
+und Logistikkosten, als auch durch Lieferverzögerungen 
+aufgrund der eingeschränkten Verfügbarkeit kritischer Materia­
+lien und Vorprodukte zu verzeichnen, die sich auch in Form ei­
+ner vorübergehend schwächeren Marge widerspiegeln. Auf 
+Basis einer rollierenden Absatz- und Produktionsplanung wird 
+eine Finanz- und Liquiditätsplanung ermittelt, wodurch der in­
+terne Finanzierungsbedarf abgeleitet und sichergestellt wird. 
+Hierdurch wird gewährleistet, dass operative Entscheidungen 
+inklusive der aktuell erhöhten Lagerhaltung mit der wirtschaft­
+lichen Entwicklung des Unternehmens in Einklang stehen. Den 
+volatilen Entwicklungen in relevanten Währungen, insbesondere 
+dem US-Dollar, wird durch Währungssicherungsmaßnahmen 
+entgegengewirkt. Steuerrechtliche Risiken ergeben sich aus den 
+Folgewirkungen einer Betriebsprüfung bei der deutschen Mut­
+tergesellschaft für die Geschäftsjahre 2014 bis 2017. Diesem 
+Risiko wurde durch eine Rückstellung in Höhe von 2,5 Mio. € 
+für mögliche Steuernachzahlungen inklusive Zinsaufwendungen 
+für den Zeitraum 2014 bis 2021 begegnet.
+Obgleich die Maßnahmen zur Eingrenzung der genannten Risi­
+ken fortgeführt werden und Tendenzen zur Verbesserung der 
+Gesamtsituation erkennbar sind, bleibt die Unsicherheit zur 
+Einschätzung der weiteren Entwicklung der Risiken im Zusam­
+menhang mit der COVID-19-Pandemie, dem Krieg in der Uk­
+raine sowie der weiteren allgemeinen Preisentwicklung und 
+deren Auswirkungen auf STRATEC nach wie vor hoch.
+Neben den aufgeführten Risiken haben sich zum 30. Juni 2022 
+aus Sicht von STRATEC keine weiteren Veränderungen gegen­
+über den im Konzernlagebericht vom 31. März 2022 für die im 
+Geschäftsjahr 2022 identifizierten Risiken und Chancen erge­
+ben. Zu Einzelheiten bezüglich unseres Risikomanagementsys­
+tems und des spezifischen Chancen- und Risikoprofils sowie in 
+Bezug auf die Verwendung von Finanzinstrumenten verweisen 
+wir auf den Abschnitt „D. Chancen und Risiken“ im Konzern-
+lagebericht 2021.
+11
+
+KONZERNBILANZ
+zum 30. Juni 2022
+in T€
+30.06.2022
+31.12.2021
+Langfristige Vermögenswerte
+Geschäfts- oder Firmenwerte
+37.013
+37.996
+Übrige immaterielle Vermögenswerte
+51.218
+51.370
+Nutzungsrechte
+12.611
+8.720
+Sachanlagen
+58.788
+58.738
+Finanzielle Vermögenswerte
+3.546
+3.574
+Vertragsvermögenswerte
+18.311
+18.208
+Latente Steuern
+2.600
+1.902
+184.087
+180.508
+Kurzfristige Vermögenswerte
+Vorräte
+98.964
+88.768
+Forderungen aus Lieferungen und Leistungen
+37.884
+37.184
+Finanzielle Vermögenswerte
+1.470
+1.539
+Übrige Forderungen und Vermögenswerte
+9.564
+9.077
+Vertragsvermögenswerte
+3.834
+4.053
+Ertragsteuerforderungen
+830
+212
+Zahlungsmittel
+48.812
+47.184
+201.358
+188.017
+Summe Vermögenswerte
+385.445
+368.525
+Vermögenswerte 
+12
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+in T€
+30.06.2022
+31.12.2021
+Eigenkapital
+Gezeichnetes Kapital
+12.131
+12.128
+Kapitalrücklage
+33.071
+32.217
+Gewinnrücklagen
+166.204
+165.121
+Eigene Anteile
+-35
+-35
+Übriges Eigenkapital
+-6.958
+-3.672
+204.413
+205.759
+Langfristige Schulden
+Finanzielle Verbindlichkeiten
+84.694
+83.774
+Vertragsverbindlichkeiten
+25.126
+19.164
+Pensionsrückstellungen
+5.658
+5.373
+Latente Steuern
+10.000
+8.788
+125.478
+117.099
+Kurzfristige Schulden
+Finanzielle Verbindlichkeiten
+16.026
+15.853
+Verbindlichkeiten aus Lieferungen und Leistungen
+13.827
+11.401
+Übrige Verbindlichkeiten
+8.836
+6.332
+Vertragsverbindlichkeiten
+9.450
+7.040
+Rückstellungen
+1.662
+1.637
+Ertragsteuerverbindlichkeiten
+5.753
+3.404
+55.554
+45.667
+Summe Eigenkapital und Schulden
+385.445
+368.525
+Eigenkapital und Schulden
+13
+
+KONZERN-GESAMTERGEBNISRECHNUNG
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022
+in T€
+01.01. – 30.06.2022
+01.01. – 30.06.2021
+Umsatzerlöse
+137.193
+155.765
+Umsatzkosten
+-99.356
+-106.638
+Bruttoergebnis vom Umsatz
+37.837
+49.127
+Forschungs- und Entwicklungskosten
+-3.967
+-3.992
+Vertriebskosten
+-5.041
+-4.561
+Allgemeine Verwaltungskosten
+-8.927
+-8.356
+Sonstige betriebliche Erträge und Aufwendungen
+-568
+-1.719
+Betriebsergebnis (EBIT)
+19.334
+30.499
+Finanzergebnis
+-1.241
+-713
+Ergebnis der gewöhnlichen Geschäftstätigkeit (EBT)
+18.093
+29.786
+Steuern vom Einkommen und vom Ertrag
+-5.491
+-4.625
+Konzernergebnis
+12.602
+25.161
+Posten, die später aufwands- oder ertragswirksam 
+umgegliedert werden können:
+Umrechnungsdifferenzen aus der Umrechnung 
+ausländischer Geschäftsbetriebe
+-3.286
+1.223
+Sonstiges Ergebnis
+-3.286
+1.223
+Gesamtergebnis
+9.316
+26.384
+Unverwässertes Ergebnis je Aktie in €
+1,04
+2,08
+Anzahl der zugrunde gelegten Aktien (unverwässert)
+12.126.743
+12.101.550
+Verwässertes Ergebnis je Aktie in €
+1,03
+2,07
+Anzahl der zugrunde gelegten Aktien (verwässert)
+12.178.945
+12.175.513
+14
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+KONZERN-GESAMTERGEBNISRECHNUNG
+für den Zeitraum vom 1. April bis zum 30. Juni 2022
+in T€
+01.04. – 30.06.2022
+01.04. – 30.06.2021
+Umsatzerlöse
+61.806
+83.770
+Umsatzkosten
+-46.585
+-57.405
+Bruttoergebnis vom Umsatz
+15.221
+26.365
+Forschungs- und Entwicklungskosten
+-2.126
+-2.310
+Vertriebskosten
+-2.614
+-2.393
+Allgemeine Verwaltungskosten
+-4.557
+-3.829
+Sonstige betriebliche Erträge und Aufwendungen
+-691
+-1.462
+Betriebsergebnis (EBIT)
+5.233
+16.371
+Finanzergebnis
+-701
+-135
+Ergebnis der gewöhnlichen Geschäftstätigkeit (EBT)
+4.532
+16.236
+Steuern vom Einkommen und vom Ertrag
+-3.099
+-2.624
+Konzernergebnis
+1.433
+13.612
+Posten, die später aufwands- oder ertragswirksam 
+umgegliedert werden können:
+Umrechnungsdifferenzen aus der Umrechnung 
+ausländischer Geschäftsbetriebe
+-3.645
+2.617
+Sonstiges Ergebnis
+-3.645
+2.617
+Gesamtergebnis
+-2.212
+16.229
+Unverwässertes Ergebnis je Aktie in €
+0.12
+1,12
+Anzahl der zugrunde gelegten Aktien (unverwässert)
+12.127.390
+12.103.734
+Verwässertes Ergebnis je Aktie in €
+0.11
+1,12
+Anzahl der zugrunde gelegten Aktien (verwässert)
+12.175.626
+12.170.939
+15
+
+KONZERN-EIGENKAPITALVERÄNDERUNGSRECHNUNG
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2021
+KONZERN-EIGENKAPITALVERÄNDERUNGSRECHNUNG
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022
+in T€
+Gezeichnetes Kapital
+Kapitalrücklage
+Stand zum 01.01.2022
+12.128
+32.217
+Eigenkapitaltransaktionen mit Anteilseignern
+	 • Dividendenzahlung
+	 • Ausgabe Bezugsaktien aus Aktienoptionsprogrammen abzüglich 
+Kosten der Kapitalausgabe nach Steuern
+3
+246
+Einstellungen aufgrund von Aktienoptionsplänen
+608
+Gesamtergebnis des Jahres
+Stand zum 30.06.2022
+12.131
+33.071
+in T€
+Gezeichnetes Kapital
+Kapitalrücklage
+Stand zum 01.01.2021
+12.103
+29.866
+Eigenkapitaltransaktionen mit Anteilseignern
+	 • Dividendenzahlung
+	 • Ausgabe Bezugsaktien aus Aktienoptionsprogrammen abzüglich 
+Kosten der Kapitalausgabe nach Steuern
+11
+540
+Einstellungen aufgrund von Aktienoptionsplänen
+423 
+Gesamtergebnis des Jahres
+Stand zum 30.06.2021
+12.114
+30.829
+16
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Übriges Eigenkapital
+Gewinnrücklagen
+Eigene Anteile
+Pensionspläne
+Währungsumrechnung
+Konzerneigenkapital
+165.121
+-35
+-2.080
+-1.592
+205.759
+-11.519
+-11.519
+249
+608
+12.602
+-3.286
+9.316
+166.204
+-35
+-2.080
+-4.878
+204.413
+Übriges Eigenkapital
+Gewinnrücklagen
+Eigene Anteile
+Pensionspläne
+Währungsumrechnung
+Konzerneigenkapital
+136.052
+-65
+-2.314
+-3.097
+172.545
+-10.888
+-10.888
+551
+423
+25.161
+ 
+1.223
+26.384
+150.325
+-65
+-2.314
+-1.874
+189.015
+17
+
+KONZERN-KAPITALFLUSSRECHNUNG 
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022
+in T€
+01.01. – 30.06.2022
+01.01. – 30.06.2021
+I. Laufende Geschäftstätigkeit 
+Konzernergebnis (nach Steuern)
+12.602
+25.161
+Abschreibungen
+8.507
+9.775
+Laufender Ertragsteueraufwand
+4.969
+4.592
+Gezahlte Ertragsteuern abzüglich erhaltene Ertragsteuern
+-3.304
+-1.987
+Finanzerträge
+-11
+-75
+Finanzaufwendungen
+944
+705
+Gezahlte Zinsen
+-760
+-675
+Erhaltene Zinsen
+9
+49
+Sonstige zahlungsunwirksame Aufwendungen
+4.343
+2.921
+Sonstige zahlungsunwirksame Erträge
+-2.149
+-1.164
+Erfolgswirksame Veränderung der Nettopensionsrückstellungen
+146
+179
+Erfolgswirksame Veränderung der latenten Steuern
+522
+33
+Gewinn (-) / Verlust (+) aus dem Abgang von langfristigen Vermögenswerten
+1
+2
+Zunahme (-) / Abnahme (+) der Vorräte, der Forderungen aus Lieferungen 
+und Leistungen sowie anderer Vermögenswerte
+-12.122
+-27.544
+Zunahme (+) / Abnahme (-) der Verbindlichkeiten 
+aus Lieferungen und Leistungen sowie anderer Schulden 
+11.058
+21.297
+Cashflow aus laufender Geschäftstätigkeit
+24.755
+33.269
+II. Investitionstätigkeit
+Einzahlungen aus Abgängen von langfristigen Vermögenswerten
+• Sachanlagen
+• Finanzanlagen
+17
+23 
+33
+24
+Auszahlungen für Investitionen in langfristige Vermögenswerte
+• Immaterielle Vermögenswerte
+• Sachanlagen
+-4.389
+-3.574
+-4.031
+-6.339
+Cashflow aus der Investitionstätigkeit
+-7.923
+-10.313
+III. Finanzierungstätigkeit
+Einzahlung aus der Aufnahme von Finanzverbindlichkeiten
+42.000
+10.000
+Auszahlungen für die Tilgung von Finanzverbindlichkeiten
+-45.675
+-18.589
+Einzahlungen aus der Ausgabe von Aktien aus Mitarbeiter-
+Aktienoptionsprogrammen
+249
+551
+Dividendenzahlungen
+-11.519
+-10.888
+Cashflow aus der Finanzierungstätigkeit
+-14.945
+-18.926
+IV. Zahlungswirksame Veränderung der Zahlungsmittel 
+(Saldo I–III) 
+1.887
+4.030
+Zahlungsmittel am Anfang der Periode
+47.184
+37.561
+Einfluss von Wechselkursänderungen
+-259
+-319
+Zahlungsmittel am Ende der Periode
+48.812
+41.272
+18
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Informationen zum 
+Unternehmen
+Die STRATEC SE projektiert, entwickelt und produziert vollau­
+tomatische Analysensysteme für Partner aus der klinischen Diag­
+nostik und Biotechnologie. Darüber hinaus bietet die 
+STRATEC-Gruppe (im Folgenden auch „STRATEC“) komplexe 
+Verbrauchsmaterialien für diagnostische und medizinische An­
+wendungen an. Dabei wird die gesamte Wertschöpfungskette 
+von der Entwicklung über das Design und die Produktion bis zur 
+Qualitätssicherung abgedeckt. Die Partner vermarkten die Syste­
+me, Software und Verbrauchsmaterialien weltweit als System-
+lösungen, in der Regel gemeinsam mit ihren Reagenzien, an Labo­
+ratorien, Blutbanken und Forschungseinrichtungen. STRATEC 
+entwickelt ihre Produkte mit eigenen patentgeschützten Techno­
+logien.
+Die STRATEC SE mit Sitz in der Gewerbestraße 37, 75217 Bir­
+kenfeld, Deutschland, ist eine börsennotierte Aktiengesellschaft 
+nach europäischem Recht und im Handelsregister in Mannheim, 
+Deutschland, unter der Nr. HRB 732007 registriert.
+Der Halbjahresfinanzbericht wurde am 10. August 2022 durch 
+den Vorstand der STRATEC SE zur Veröffentlichung freigegeben.
+Grundlage der Aufstellung 
+des Abschlusses
+Der Halbjahresfinanzbericht der STRATEC SE umfasst nach 
+§§ 115 (2) i. V. m. 117 Nr. 2 Wertpapierhandelsgesetz (WpHG) 
+einen Konzernzwischenabschluss, einen Konzernzwischenlage­
+bericht sowie eine Versicherung der gesetzlichen Vertreter. Der 
+nicht geprüfte Konzernzwischenabschluss wurde in Überein­
+stimmung mit den Vorschriften des IAS 34 (Zwischenberichter­
+stattung) in verkürzter Form nach den Vorschriften der am 
+Abschlussstichtag gültigen und von der Europäischen Union 
+anerkannten International Financial Reporting Standards (IFRS) 
+des International Accounting Standards Board (IASB), London, 
+den Interpretationen des International Financial Reporting In­
+terpretations Committee (IFRS IC), sowie den ergänzenden für 
+den Konzernzwischenlagebericht anwendbaren Vorschriften 
+des WpHG, aufgestellt.
+Angewendete Rechnungs-
+legungsmethoden
+Im Konzernzwischenabschluss wurden, mit Ausnahme der im 
+laufenden Geschäftsjahr erstmals verpflichtend anzuwendenden 
+Rechnungslegungsstandards und Interpretationen oder soweit 
+nachfolgend nichts Anderes berichtet, dieselben Rechnungsle­
+gungsmethoden wie bei der Erstellung des Konzernabschlusses 
+zum 31. Dezember 2021 angewendet. Eine detaillierte Be­
+schreibung der Rechnungslegungsmethoden ist im Anhang des 
+Konzernabschlusses veröffentlicht. Wir verweisen hierzu auf 
+unsere Ausführungen unter Abschnitt „B. Angewendete Rech­
+nungslegungsmethoden“ im Geschäftsbericht 2021.
+STRATEC hat keine neuen oder geänderten Rechnungslegungs­
+standards und Interpretationen vorzeitig angewandt, deren An­
+wendung trotz der Veröffentlichung noch nicht verpflichtend ist.
+Die Konzernwährung lautet auf Euro (€). Sämtliche Beträge wer­
+den, soweit nichts Anderes vermerkt ist, in Tausend Euro (T€) 
+angegeben. Aufgrund von Rundungen ist es möglich, dass sich 
+einzelne Zahlen nicht genau zu der angegebenen Summe addie­
+ren lassen und dass dargestellte Prozentangaben nicht genau die 
+absoluten Zahlen widerspiegeln, auf die sie sich beziehen.
+AUSGEWÄHLTE ERLÄUTERNDE 
+ANHANGANGABEN
+für den Zeitraum vom 1. Januar bis zum 30. Juni 2022
+19
+
+Im laufenden Geschäftsjahr sind die folgenden Rechnungsle­
+gungsvorschriften und Interpretationen erstmals verpflichtend 
+anzuwenden: 
+Die Anwendung dieser Standards und Interpretationen im lau­
+fenden Geschäftsjahr erfolgt in Übereinstimmung mit den jewei­
+ligen Übergangsvorschriften. Soweit in einzelnen Standards bzw. 
+Interpretationen nicht ausdrücklich geregelt und nachfolgend 
+gesondert erläutert, erfolgt die Anwendung grundsätzlich rück­
+wirkend, d.h. die Darstellung erfolgt so, als ob die neuen Rech­
+nungslegungsmethoden bereits immer angewandt worden wä­
+ren. Die Vergleichszahlen wurden in diesen Fällen – soweit vom 
+Standard gefordert – entsprechend angepasst. 
+Auswirkungen aus den vorstehenden Änderungen ergaben sich 
+in diesem Konzernzwischenabschluss nicht.
+Werthaltigkeitsprüfungen 
+Eine Werthaltigkeitsprüfung nach IAS 36 (Wertminderung von 
+Vermögenswerten) wird durch STRATEC bei Geschäfts- oder 
+Firmenwerten und sonstigen immateriellen Vermögenswerten 
+mit unbegrenzter bzw. unbestimmbarer Nutzungsdauer sowie 
+noch nicht nutzungsbereiten immateriellen Vermögenswerten 
+mindestens jährlich durchgeführt. Darüber hinaus erfolgt eine 
+Werthaltigkeitsprüfung nach IAS 36 (Wertminderung von Ver­
+mögenswerten) bei Vorliegen auf von externen und internen 
+Informationsquellen basierenden konkreten Anhaltspunkten für 
+eine Wertminderung. Bedingt durch ein verändertes Marktum­
+feld und dessen Auswirkungen auf die Kapitalkostensätze hat 
+Standard
+Titel
+Inkrafttreten1
+EU-Endorsement
+Neue und geänderte Standards und Interpretationen
+IFRS 3
+Änderungen: Verweis auf das Rahmenkonzept
+01.01.2022
+28.06.2021
+IAS 16
+Änderungen: Erträge vor der beabsichtigten Nutzung
+01.01.2022
+28.06.2021
+IAS 37
+Änderungen: Belastende Verträge: Kosten für die Erfüllung eines Vertrages
+01.01.2022
+28.06.2021
+Diverse
+Jährliche Verbesserungen an den IFRS (sog. „Annual Improvements“), 
+Zyklus 2018-2020
+01.01.2022
+28.06.2021
+1 für Unternehmen wie STRATEC mit Geschäftsjahr gleich Kalenderjahr
+STRATEC die wesentlichen immateriellen Vermögenswerte 
+diesbezüglich untersucht und sofern erforderlich den erzielba­
+ren Betrag je Vermögenswert bzw. zahlungsmittelgenerierenden 
+Einheit ermittelt. Als Ergebnis wurde keine Wertminderung er­
+fasst. Im Berichtszeitraum des Vorjahres wurde auf selbst ge­
+schaffene immaterielle Vermögenswerte, die im Zusammen­
+hang mit eigenen Entwicklungsprojekten stehen, eine 
+Wertminderung in Höhe von 1.049 T€ vorgenommen. Diese 
+ist dem Segment Diatron zuzuordnen. 
+20
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Konsolidierungskreis
+In den Konzernzwischenabschluss der STRATEC SE (Mutterun­
+ternehmen) werden nach den Vorgaben von IFRS 10 (Konzern­
+abschlüsse) grundsätzlich alle Unternehmen einbezogen, die 
+von der STRATEC SE beherrscht werden (Tochterunterneh­
+men). Im Einzelnen sind dies, neben der STRATEC SE, die fol­
+genden Tochterunternehmen:
+Beteiligung %
+Unternehmen
+Sitz
+30.06.2022
+31.12.2021
+Deutschland
+STRATEC Capital GmbH
+Birkenfeld, 
+Deutschland
+100 %
+100 %
+STRATEC PS Holding GmbH
+Birkenfeld, 
+Deutschland
+100 %
+100 %
+Europäische Union
+STRATEC Biomedical S.R.L.
+Cluj-Napoca, 
+Rumänien
+100 %
+100 %
+STRATEC Consumables 
+GmbH
+Anif, 
+Österreich
+100 %
+100 %
+RE Medical Analyzers 
+Luxembourg 2 S.à r.l.
+Bereldange, 
+Luxemburg
+100 %
+100 %
+Diatron Medicinai 
+Instrumentumok 
+Laboratóriumi Diagnosztikai 
+Fejlesztö-Gyártó Zrt
+Budapest, 
+Ungarn
+100 %
+100 %
+Mod-n-More Kft. 
+Budapest, 
+Ungarn
+100 %
+100 %
+Sonstige
+STRATEC Switzerland AG
+Beringen, 
+Schweiz
+100 %
+100 %
+STRATEC Biomedical USA, 
+Inc.
+Medley, 
+USA
+100 %
+100 %
+STRATEC Services AG
+Beringen, 
+Schweiz
+100 %
+100 %
+Medical Analyzers Holding 
+GmbH
+Zug, 
+Schweiz
+100 %
+100 %
+STRATEC Biomedical Inc.
+Medley,
+USA
+100 %
+100 %
+Diatron (US), Inc.
+Medley, 
+USA
+100 %
+100 %
+Aufgrund ihrer untergeordneten Bedeutung wird das Tochter­
+unternehmen STRATEC Biomedical (Taicang) Co. Ltd., Taicang, 
+China nicht im Rahmen der Vollkonsolidierung in den Kon­
+zernzwischenabschluss mit einbezogen.
+21
+
+Segmentangaben 
+In der Segmentierung haben sich im Vergleich zum Konzernab­
+schluss zum 31. Dezember 2021 keine Veränderungen ergeben. 
+Segmentdaten nach Geschäftssegmenten für den Zeitraum vom 1. Januar bis zum 30. Juni 2022
+Instrumen­tation
+(beinhaltet der 
+BU zugehörige 
+Serviceteile und 
+Verbrauchs­
+materialien) 
+T€
+Diatron
+(beinhaltet der 
+BU zugehörige 
+Serviceteile und 
+Verbrauchs­
+materialien) 
+T€
+Smart 
+Consumables 
+T€
+Summe
+T€
+Über­-
+leitung1
+T€
+Gesamt 
+T€
+Umsatzerlöse mit 
+externen Kunden
+100.423
+26.219
+10.551
+137.193
+0
+137.193
+Umsätze mit anderen 
+Segmenten
+759
+2.827
+417
+4.003
+-4.003
+0
+Abschreibungen und 
+Wertminderungen
+4.862
+1.689
+1.956
+8.507
+0
+8.507
+EBITDA
+17.487
+8.113
+2.241
+27.841
+0
+27.841
+Adjustiertes EBITDA
+17.487
+8.113
+2.241
+27.841
+0
+27.841
+EBIT
+12.625
+6.424
+285
+19.334
+0
+19.334
+Adjustiertes EBIT
+12.625
+7.364
+1.189
+21.178
+0
+21.178
+Zinserträge
+1.197
+0
+0
+1.197
+-1.186
+11
+Zinsaufwendungen
+656
+1.116
+358
+2.130
+-1.186
+944
+Zugänge langfristige 
+Vermögenswerte
+5.583
+6.350
+1.373
+13.306
+0
+13.306
+Durchschnittliche Zahl 
+Beschäftigte
+805
+329
+0
+1.134
+0
+1.134
+1 bezüglich der Überleitung von um Sondereffekte adjustierter Werte auf die Konzernwerte verweisen wir auf unsere Ausführungen 
+im Konzernzwischenlagebericht im Abschnitt „Bericht zur Ertrags-, Finanz- und Vermögenslage“.
+22
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Segmentdaten nach Geschäftssegmenten für den Zeitraum vom 1. Januar bis zum 30. Juni 2021
+Instrumen­tation
+(beinhaltet der 
+BU zugehörige 
+Serviceteile und 
+Verbrauchs­
+materialien) 
+T€
+Diatron
+(beinhaltet der 
+BU zugehörige 
+Serviceteile und 
+Verbrauchs­
+materialien) 
+T€
+Smart 
+Consumables 
+T€
+Summe
+T€
+Über­-
+leitung1
+T€
+Gesamt 
+T€
+Umsatzerlöse mit 
+externen Kunden
+109.873
+35.206
+10.686
+155.765
+0
+155.765
+Umsätze mit anderen 
+Segmenten
+740
+4.141
+312
+5.193
+-5.193
+0
+Abschreibungen und 
+Wertminderungen
+4.176
+3.658
+1.941
+9.775
+0
+9.775
+EBITDA
+26.444
+11.596
+2.234
+40.274
+0
+40.274
+Adjustiertes EBITDA
+26.444
+11.596
+2.234
+40.274
+0
+40.274
+EBIT
+22.267
+7.938
+293
+30.499
+0
+30.499
+Adjustiertes EBIT
+22.267
+10.916
+1.274
+34.457
+0
+34.457
+Zinserträge
+1.254
+0
+20
+1.274
+-1.199
+75
+Zinsaufwendungen
+463
+1.088
+353
+1.904
+-1.199
+705
+Zugänge langfristige 
+Vermögenswerte
+7.332
+2.129
+1.141
+10.602
+0
+10.602
+Durchschnittliche Zahl 
+Beschäftigte
+781
+301
+173
+1.255
+0
+1.255
+1 bezüglich der Überleitung von um Sondereffekte adjustierter Werte auf die Konzernwerte verweisen wir auf unsere Ausführungen 
+im Konzernzwischenlagebericht im Abschnitt „Bericht zur Ertrags-, Finanz- und Vermögenslage“.
+23
+
+Umsatzerlöse 
+Die Umsatzerlöse aus Verträgen mit Kunden gliedern sich für 
+den Zeitraum vom 1. Januar 2022 bis 30. Juni 2022 wie folgt: 
+Segmente
+Instrumen­tation
+T€
+Diatron 
+T€
+Smart Consumables 
+T€
+Summe 
+T€
+Art der Güter oder 
+Dienstleistungen
+Analysensysteme
+58.869
+14.264
+0
+73.133
+Serviceteile und 
+Verbrauchs­materialien
+30.530
+11.264
+5.038
+46.832
+Entwicklungs- und Dienstleistungen
+10.946
+113
+5.499
+16.558
+Sonstige
+78
+578
+14
+670
+Gesamt
+100.423
+26.219
+10.551
+137.193
+Geographische Regionen
+Deutschland
+17.515
+6.531
+210
+24.256
+Europäische Union
+45.580
+8.249
+3.161
+56.990
+Sonstige
+37.328
+11.439
+7.180
+55.947
+Gesamt
+100.423
+26.219
+10.551
+137.193
+Zeitpunkt der 
+Umsatzrealisierung
+Zu einem bestimmten Zeitpunkt
+100.045
+26.219
+9.965
+136.229
+Über einen bestimmten Zeitraum
+378
+0
+586
+964
+Gesamt
+100.423
+26.219
+10.551
+137.193
+24
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Die Umsatzerlöse aus Verträgen mit Kunden gliedern sich für 
+den Zeitraum vom 1. Januar 2021 bis 30. Juni 2021 wie folgt: 
+Segmente
+Instrumen­tation
+T€
+Diatron 
+T€
+Smart Consumables 
+T€
+Summe 
+T€
+Art der Güter oder 
+Dienstleistungen
+Analysensysteme
+73.489
+22.259
+0
+95.748
+Serviceteile und 
+Verbrauchs­materialien
+28.986
+12.335
+7.281
+48.602
+Entwicklungs- und Dienstleistungen
+7.280
+243
+3.399
+10.922
+Sonstige
+118
+369
+6
+493
+Gesamt
+109.873
+35.206
+10.686
+155.765
+Geographische Regionen
+Deutschland
+13.889
+9.810
+269
+23.968
+Europäische Union
+53.176
+9.494
+2.891
+65.561
+Sonstige
+42.808
+15.902
+7.526
+66.236
+Gesamt
+109.873
+35.206
+10.686
+155.765
+Zeitpunkt der 
+Umsatzrealisierung
+Zu einem bestimmten Zeitpunkt
+107.507
+35.206
+9.886
+152.599
+Über einen bestimmten Zeitraum
+2.366
+0
+800
+3.166
+Gesamt
+109.873
+35.206
+10.686
+155.765
+25
+
+Forschungs- und Entwick­
+lungsaufwendungen
+
+Die Aufwendungen für Forschungs- und Entwicklungskosten, 
+die nicht die Aktivierungskriterien gemäß IAS 38 (Immaterielle 
+Vermögenswerte) erfüllen, betrugen in den ersten sechs Mo­
+naten des Geschäftsjahres 2022 4,0 Mio. € (Vorjahr: 4,0 Mio. €) 
+und entfallen im Wesentlichen auf Personal- und Materialauf­
+wand. Insgesamt hat STRATEC in den ersten sechs Monaten 
+des Geschäftsjahres 2022 25,0 Mio. € (Vorjahr: 23,5 Mio. €) in 
+Forschung und Entwicklung investiert. 
+Steuern vom Einkommen 
+und vom Ertrag
+
+Als Steuern vom Einkommen und vom Ertrag werden die in 
+den einzelnen Ländern tatsächlich gezahlten bzw. geschuldeten 
+Steuern sowie die latenten Steuern ausgewiesen. Zinsen aus 
+steuerbedingten Nachzahlungen und Erstattungen werden im 
+Finanzergebnis ausgewiesen.
+Steuerrechtliche Unsicherheiten bestehen im Wesentlichen auf­
+grund unterschiedlicher Auffassungen im Rahmen einer steuer­
+lichen Betriebsprüfung für die Geschäftsjahre 2014 bis 2017 
+zwischen der deutschen Finanzverwaltung und STRATEC in 
+Bezug auf die Angemessenheit von Transferpreisen.
+Soweit nach Einschätzung von STRATEC für strittige Punkte mit 
+einer überwiegenden Wahrscheinlichkeit von einer Inanspruch­
+nahme ausgegangen wird, werden hierfür gemäß IFRIC 23 (Un­
+sicherheit bezüglich der ertragsteuerlichen Behandlung) Rück­
+stellungen in Höhe des wahrscheinlichsten Betrages bzw. des 
+Erwartungswertes gebildet. Im Berichtszeitraum wurde hierfür 
+für die Geschäftsjahre 2014 bis 2021 ein Aufwand in Höhe von 
+2.329 T€ bei den Steuern vom Einkommen und vom Ertrag 
+sowie ein Aufwand in Höhe von 214 T€ im Finanzergebnis er­
+gebniswirksam erfasst.
+Finanzinstrumente
+
+Die nachfolgende Tabelle stellt die Buchwerte der einzelnen 
+finanziellen Vermögenswerte und Verbindlichkeiten für jede ein­
+zelne Kategorie von Finanzinstrumenten gemäß IFRS 9 (Finanz-
+instrumente) dar und leitet diese auf die entsprechenden 
+Bilanzposten über. Die Spalte „Beizulegender Zeitwert im An­
+wendungsbereich von IFRS 7“ zeigt die beizulegenden Zeitwer­
+te sämtlicher im Konzernzwischenabschluss erfasster Finanz-
+instrumente im Anwendungsbereich von IFRS 7 (Finanz-
+instrumente: Angaben), die nicht mit ihrem beizulegenden Zeit­
+wert bilanziert wurden. Bei kurzfristigen finanziellen Vermögens­
+werten und Verbindlichkeiten entsprechen dabei die beizule­
+genden Zeitwerte aufgrund der kurzen Restlaufzeit 
+näherungsweise deren Buchwerte.
+Immaterielle Vermögens-
+werte und Sachanlagen
+
+STRATEC tätigte in den ersten sechs Monaten des Geschäfts­
+jahres 2022 Investitionen in immaterielle Vermögenswerte und 
+Sachanlagen in Höhe von 7.963 T€ (Vorjahr: 10.370 T€). 
+Die Investitionen in immaterielle Vermögenswerte entfallen da­
+bei im Wesentlichen auf die Aktivierung von Entwicklungskos­
+ten. Die Investitionen in materielle Vermögenswerte im We­
+sentlichen auf den Erwerb von Gebäudeausstattung, Maschinen, 
+Werkzeuge, sowie Prüfmittel.
+26
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Hierarchie für den beizulegenden Zeitwert
+Um die Vergleichbarkeit und Stetigkeit bei Bewertungen zum 
+beizulegenden Zeitwert und den zugehörigen Angaben zu er­
+höhen, legt IFRS 13 (Bemessung des beizulegenden Zeitwerts) 
+eine Hierarchie für den beizulegenden Zeitwert fest, die die in 
+die Bewertungsverfahren zur Ermittlung des beizulegenden 
+Zeitwerts eingehenden Eingangsparameter drei Stufen zuord­
+net. Die Hierarchie räumt den an aktiven Märkten für identische 
+Vermögenswerte oder Schulden notierten (unverändert über­
+nommenen) Preisen (Eingangsparameter der Stufe 1) höchste 
+Priorität und den nicht beobachtbaren Eingangsparametern 
+(Eingangsparameter der Stufe 3) geringste Priorität ein. Hierbei 
+gelten im Einzelnen folgende Definitionen:
+Eingangsparameter: Die Annahmen, die Marktteilnehmer bei 
+der Preisfestlegung des Vermögenswerts oder der Schuld ver­
+wenden würden, einschließlich Annahmen zum Risiko, wie z. B.:
+(a)	 das mit einem bestimmten Bewertungsverfahren zur 
+Ermittlung des beizulegenden Zeitwerts (wie ein Preis­
+modell) verbundene Risiko; sowie
+(b)	 das mit den in das Bewertungsverfahren einfließenden Ein­
+gangsparametern verbundene Risiko. 
+Eingangsparameter können beobachtbar und nicht beobachtbar 
+sein.
+Eingangsparameter der Stufe 1: Notierte (unverändert 
+übernommene) Preise an aktiven Märkten für identische Ver­
+mögenswerte oder Schulden, auf die das Unternehmen am 
+Bewertungsstichtag zugreifen kann.
+Eingangsparameter der Stufe 2: Andere Eingangspara­
+meter als die auf Stufe 1 enthaltenen notierten Preise, die für 
+den Vermögenswert oder die Schuld entweder direkt oder in­
+direkt beobachtbar sind.
+Eingangsparameter der Stufe 3: Für den Vermögenswert 
+oder die Schuld nicht beobachtbare Eingangsparameter.
+Beobachtbare Eingangsparameter: Eingangsparameter, 
+die unter Verwendung von Marktdaten, wie öffentlich verfügba­
+re Informationen über tatsächliche Ereignisse oder Transaktio­
+nen, hergeleitet werden und die die Annahmen widerspiegeln, 
+die Marktteilnehmer bei der Preisfestlegung des Vermögens­
+werts oder der Schuld verwenden würden.
+30.06.2022
+(31.12.2021)
+Zu 
+fortgeführten
+Anschaffungs­
+kosten 
+bewertet
+T€
+Zum beizulegenden Zeitwert bewertet
+Nicht im 
+Anwendungsbe­
+reich 
+von IFRS 9
+T€
+Buchwert
+ in der Bilanz
+T€
+Beizulegender 
+Zeitwert im 
+Anwendungs-
+bereich 
+von IFRS 7
+T€
+ergebniswirksam
+davon 
+Stufe 1
+T€
+davon 
+Stufe 2
+T€
+davon 
+Stufe 3
+T€
+ergebnis-
+neutral
+T€
+Langfristige Vermögenswerte
+Finanzielle 
+Vermögenswerte
+3.446
+(3.474)
+100
+(100)
+3.546
+(3.574)
+3.446
+(3.474)
+Kurzfristige Vermögenswerte
+Forderungen aus 
+Lieferungen und Leistungen
+37.884
+(37.184)
+37.884
+(37.184)
+37.884
+(37.184)
+Finanzielle 
+Vermögenswerte
+551
+(313)
+919
+(1.226)
+ 
+1.470
+(1.539)
+551
+(313)
+Zahlungsmittel 
+48.812
+(47.184)
+48.812
+(47.184)
+48.812
+(47.184)
+Summe finanzielle 
+Vermögenswerte
+90.693
+(88.155)
+919
+(1.226)
+0
+(0)
+0
+(0)
+0
+(0)
+100
+(100)
+91.712
+(89.481)
+Langfristige Schulden
+Finanzielle 
+Schulden
+71.795
+(74.701)
+497
+(0)
+12.402
+(9.073)
+84.694
+(83.774)
+70.967
+(74.655)
+Kurzfristige Schulden
+Finanzielle 
+Schulden
+11.425
+(11.256)
+2.010
+(234)
+2.591
+(4.363)
+16.026
+(15.853)
+12.125
+(12.032)
+Verbindlichkeiten aus 
+Lieferungen und Leistungen
+13.827
+(11.401)
+13.827
+(11.401)
+13.827
+(11.401)
+Summe finanzielle 
+Schulden
+97.047
+(97.358)
+0
+(0)
+2.507
+(234)
+0
+(0)
+0
+(0)
+14.993
+(13.436)
+114.547
+(111.028)
+27
+
+Nicht beobachtbare Eingangsparameter: Eingangspara­
+meter, für die keine Marktdaten verfügbar sind und die unter 
+Verwendung der besten verfügbaren Information über die An­
+nahmen, die Marktteilnehmer bei der Preisfestlegung des Ver­
+mögenswerts oder der Schuld verwenden würden, hergeleitet 
+werden.
+Im Zeitraum vom 1. Januar bis zum 30. Juni 2022 sowie im 
+Vergleichszeitraum haben keine Umgliederungen innerhalb der 
+drei Stufen der Eingangsparameter stattgefunden. Bei den finan­
+ziellen Vermögenswerten, welche der Stufe 1 zugeordnet wur­
+den, handelt es sich um Aktien an börsennotierten Gesellschaf­
+ten, welche zum Schlusskurs der Wertpapierbörse mit dem 
+höchsten Handelsvolumen am Abschlussstichtag bewertet 
+wurden. Bei den finanziellen Vermögenswerten, welche der 
+Stufe 2 zugeordnet wurden, handelt es sich um Devisentermin­
+geschäfte zur Sicherung gegenüber Währungsrisiken. Damit 
+ergeben sich insgesamt die nachfolgend dargestellten Auswir­
+kungen auf die Konzern-Gesamtergebnisrechnung:
+in T€
+Stufe 1
+Stufe 2
+Stufe 3
+Stand zum 01.01.2021
+1.248
+1.226
+0
+Summe der im Gewinn oder Verlust 
+angesetzten Gewinne und Verluste
+• Sonstige betriebliche Erträge
+• Sonstige betriebliche Aufwendungen 
+• Übriges Finanzergebnis
+0
+0
+-82
+0
+-1.631
+0
+0
+0
+0
+Summe der im sonstigen Ergebnis
+angesetzten Gewinne und Verluste 
+• Wertveränderungen
+• Umgliederungen aus dem sonstigen 
+Ergebnis in den Gewinn oder Verlust 
+0
+
+
+0
+0
+
+
+0
+0
+
+
+0
+Zugänge
+0
+0
+0
+Abgänge 
+• in Folge Verkauf
+• in Folge Ausbuchung
+0
+0
+0
+0
+0
+0
+Währungsdifferenzen
+0
+0
+0
+Stand zum 30.06.2021
+1.166
+-405
+0
+Stand zum 01.01.2022
+1.226
+-234
+0
+Summe der im Gewinn oder Verlust 
+angesetzten Gewinne und Verluste
+• Sonstige betriebliche Erträge
+• Sonstige betriebliche Aufwendungen 
+• Übriges Finanzergebnis
+0
+0
+-307
+0
+-2.186
+0
+0
+0
+0
+Summe der im sonstigen Ergebnis 
+angesetzten Gewinne und Verluste 
+• Wertveränderungen
+• Umgliederungen aus dem sonstigen 
+Ergebnis in den Gewinn oder Verlust 
+0
+
+
+0
+0
+0
+0
+0
+Zugänge
+0
+0
+0
+Abgänge 
+• in Folge Verkauf
+• in Folge Ausbuchung
+0
+0
+0
+0
+0
+0
+Währungsdifferenzen
+0
+-87
+0
+Stand zum 30.06.2022
+919
+-2.507
+0
+Finanzielle Verbindlichkeiten
+In den finanziellen Verbindlichkeiten sind Verbindlichkeiten ge­
+genüber Kreditinstituten in Höhe von 73.182 T€ (31.12.2021: 
+75.835 T€) enthalten. Davon betreffen 35,0 Mio. € (31.12.2021: 
+36,0 Mio. €) Verbindlichkeiten aus einem Rahmenkreditvertrag 
+mit einer revolvierenden Kreditlinie in Höhe von bis zu 55,0 
+Mio. € (31.12.2021: 70,0 Mio.€). Am 24. Januar 2022 wurde der 
+bestehende Rahmenkreditvertrag mit drei Kreditinstituten und 
+einer Laufzeit bis zum 31. Januar 2023 durch einen neuen 
+Rahmkreditvertrag mit vier Kreditinstituten und einer Laufzeit 
+bis zum 22. Januar 2027 frühzeitig ersetzt. Die Kreditvereinba­
+rungen enthalten teilweise Vertragsklauseln über die Einhaltung 
+bestimmter Finanzkennzahlen sowie allgemeine Verpflichtun­
+gen mit welchen Verfügungsbeschränkungen über Vermögens­
+werte bzw. Vorbehalte weitere Kreditaufnahmen verbunden 
+sind. Von den Verbindlichkeiten gegenüber Kreditinstituten un­
+terliegen 35,0 Mio. € (31.12.2021: 36,0 Mio. €) einer variablen 
+Verzinsung.
+Des Weiteren ist in den finanziellen Verbindlichkeiten die Ge­
+samtverpflichtung aus den zu erwartenden Auszahlungen der 
+gewährten Aktienwertsteigerungsrechte (SARs) in Höhe von 
+1.253 T€ (31.12.2021: 3.976 T€) enthalten. Im Berichtszeitraum 
+wurde aus der anteilsbasierten Vergütung mit Barausgleich ein 
+Ertrag (Vorjahr: Aufwand) in Höhe von 870 T€ (Vorjahr: 753 T€) 
+ergebniswirksam erfasst.
+ 
+Der beizulegende Zeitwert der Aktienwertsteigerungsrechte 
+(SARs) entwickelte sich wie folgt:
+Aktienwertsteigerungsrechte 
+(SARs) 
+Tranche 
+1/2022
+Tranche 
+1/2021
+Ausgabestichtag
+25.01.2022
+08.03.2021
+Beizulegender Zeitwert 
+zum Ausgabestichtag
+37,45 €
+38,05 €
+Beizulegender Zeitwert zum 
+30.06.2021
+n/a
+44,16 €
+Beizulegender Zeitwert zum 
+31.12.2021
+n/a
+54,40 €
+Beizulegender Zeitwert zum 
+30.06.2022
+21,59 €
+20,17 €
+28
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Nachfolgend ist die Entwicklung der Stückzahl der Aktienwert- 
+steigerungsrechte (SARs) dargestellt:
+Risikomanagementaktivitäten
+STRATEC unterliegt hinsichtlich ihrer Vermögenswerte und 
+Verbindlichkeiten sowie künftiger Aktivitäten Liquiditätsrisiken, 
+Ausfallrisiken und Marktrisiken aus der Veränderung der Wech­
+selkurse, Zinssätze und Börsenkurse. 
+Die gebildeten Wertberichtigungen für die „erwarteten Kredit­
+verluste“ der Forderungen aus Lieferungen und Leistungen 
+stellen sich dabei wie folgt dar:
+Angaben in Stück
+Stand 01.01.2022
+Gewährt
+Ausgeübt, 
+verfallen, verwirkt
+Stand 30.06.2022
+Davon ausübbar
+Tranche 1/2020
+30.000
+0
+30.000
+0
+0
+Tranche 1/2021
+30.000
+0
+0
+30.000
+0
+Tranche 1/2022
+0
+30.000
+0
+30.000
+0
+Summe
+60.000
+30.000
+0
+60.000
+0
+Zusätzlich wurden zum 30. Juni 2022 Wertberichtigungen für 
+die „erwarteten Kreditverluste“ der Vertragsvermögenswerten 
+in Höhe von 28 T€ (31.12.2021: 39 T€) gebildet.
+Zum 30. Juni 2022 hat STRATEC Sicherungsgeschäfte abge­
+schlossen. Dabei handelt es sich um Devisentermingeschäfte, 
+die zur Absicherung zukünftiger Zahlungsströme aus Verkäufen 
+in USD genutzt werden. Von den Regelungen des IFRS 9 (Finanz-
+instrumente) zum Hedge Accounting wurde kein Gebrauch 
+gemacht. 
+ in T€
+Bruttowert
+davon: zum Bilanzstichtag 
+nicht überfällig
+davon: zum Bilanzstichtag in den 
+folgenden Zeitbändern überfällig
+Bis zu 
+30 Tagen
+Zwischen 30 
+und 90 Tagen
+Mehr als 
+90 Tage
+30.06.2022
+38.796
+32.316
+3.286
+2.159
+1.035
+Erwarteter 
+Kreditverlust
+99
+598
+31.12.2021
+38.256
+27.988
+6.966
+1.469
+1.833
+Erwarteter 
+Kreditverlust
+90
+767
+228
+228
+29
+
+Bestandteile des sonstigen 
+Ergebnisses
+Die zum 30. Juni 2022 im Übrigen Eigenkapital ausgewiesene 
+Währungsumrechnungsrücklage in Höhe von -4.878 T€ (Vor­
+jahr: -1.874 T€; 31.12.2021: -1.592 T€) betrifft im Wesentlichen 
+Umrechnungsdifferenzen aus der Umrechnung der Einzelab­
+schlüsse von Gesellschaften, deren funktionale Währung nicht 
+der Euro ist, sowie aus der erfolgsneutralen Stichtagsumrech­
+nung von konzerninternen Net Investments. Die Veränderung 
+wird in der Gesamtergebnisrechnung in dem Posten Umrech­
+nungsdifferenzen aus der Umrechnung ausländischer Geschäfts­
+betriebe ausgewiesen.
+Eigenkapital
+
+Die Entwicklung des Eigenkapitals von STRATEC sowie die ge­
+zahlte Dividende sind in der Konzern-Eigenkapitalveränderungs­
+rechnung dargestellt. Die Zahl der am 30. Juni 2022 von der 
+STRATEC SE ausgegebenen Stückaktien beträgt 12.131.495 
+Stück (Vorjahr: 12.114.395; 31.12.2021: 12.127.995 Stück). Die 
+Anteile sind voll einbezahlt und lauten auf den Namen. 
+Bestand eigener Aktien 
+Der Bestand eigener Aktien betrug am Zwischenabschlussstich­
+tag 1.899 Stück. Dies entspricht einem anteiligen Betrag am 
+Grundkapital von 1.899,00 € sowie einem Anteil am Grund-
+kapital in Höhe von 0,02 %.
+Aktienoptionsprogramme 
+Zum 30. Juni 2022 bestehen zwei Aktienoptionsprogramme 
+(Anteilsbasierte Vergütung mit Ausgleich durch Eigenkapital-
+instrumente). 
+Den einzelnen Mitgliedern des Vorstands wurden in den Ge­
+schäftsjahren 2015 bis 2017 keine Aktienoptionen gewährt, 
+sondern erhielten stattdessen Aktienwertsteigerungsrechte 
+(Anteilsbasierte Vergütung mit Barausgleich, SARs) als variable 
+Vergütungskomponente mit langfristiger Anreizwirkung. Ab 
+dem Geschäftsjahr 2018 erfolgte eine Modifikation dahinge­
+hend, dass nicht mehr ausschließlich Aktienwertsteigerungs­
+rechte (SARs), sondern im Verhältnis 75 % zu 25 % auch wieder 
+Aktienoptionen gewährt werden. 
+Einen zusammenfassenden Überblick über die Entwicklung der 
+Aktienoptionsrechte für den Berichtszeitraum gibt der folgende 
+Optionsspiegel:
+Aktienoptions-­
+rechte
+Vorstand
+Anzahl der 
+Optionen
+Arbeitnehmer
+Anzahl der 
+Optionen
+Summe
+Anzahl der 
+Optionen
+Am 01.01.2022 
+ausstehend
+• davon ausübbar
+40.000
+0
+128.150
+0
+168.150
+0
+Gewährt
+8.778
+19.000
+27.778
+Ausgeübt
+0
+3.500
+3.500
+Verfallen
+0
+0
+0
+Verwirkt
+0
+0
+0
+Am 30.06.2022 
+ausstehend
+• davon ausübbar
+48.778
+0
+143.650
+1.500
+192.428
+1.500
+30
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022
+
+Ausgewählte Angaben 
+über Beziehungen zu nahe­
+stehenden Unternehmen 
+und Personen
+Die STRATEC SE bezog im ersten Halbjahr 2022 Leistungen 
+von der STRATEC Biomedical (Taicang) Co. Ltd. in Höhe von 
+77 T€ (Vorjahr: 110 T€). Zum Zwischenabschlussstichtag be­
+stehen Forderungen in Höhe von 13 T€ (31.12.2021: 13 T€) 
+und Verbindlichkeiten in Höhe von 25 T€ (31.12.2021: 25 T€). 
+Die Mod-n-More Kft. bezog im ersten Halbjahr 2022 Leistungen 
+von der STRATEC Biomedical (Taicang) Co. Ltd. in Höhe von 
+71 T€ (Vorjahr: 98 T€). Zum Zwischenabschlussstichtag beste­
+hen Verbindlichkeiten in Höhe von 55 T€ (31.12.2021: 30 T€).
+Mit Beschluss der Hauptversammlung vom 20. Mai 2022 wur­
+den Herr Prof. Dr. Georg Heni, Freudenstadt, Wirtschaftsprüfer, 
+Steuerberater, Diplom-Kaufmann, geschäftsführender Gesell­
+schafter der WirtschaftsTreuhand GmbH und Frau Dr. med. 
+Patricia Geller, Heidelberg, Vorstandsmitglied der Limbach 
+Gruppe SE, mit Wirkung ab Beendigung der ordentlichen 
+Hauptversammlung 2022 als Mitglieder des Aufsichtsrats ge­
+wählt. Die Wahl von Frau Dr. med. Patrica Geller war aufgrund 
+der erforderlichen Eintragung der zu beschließenden Satzungs­
+änderung in Bezug auf die Erhöhung der Zahl der Aufsichtsrats­
+mitglieder in das Handelsregister aufschiebend bedingt. Die 
+Eintragung in das Handelsregister erfolgte am 10. Juni 2022. Mit 
+Wirkung ab Beendigung der ordentlichen Hauptversammlung 
+2022 ist Herr Dr. Rudolf Eugster wie geplant aus dem Aufsichts­
+rat ausgeschieden.
+Zum 30. Juni 2022 bestehen ausstehende Salden für Erfolgsbe­
+teiligungen der Vorstandsmitglieder in Höhe von 2.408 T€ 
+(31.12.2021: 6.021 T€).
+Beschäftigte
+Unter Hinzurechnung der Zeitarbeiter hat STRATEC am 
+30. Juni 2022 insgesamt 1.427 Beschäftigte (Vorjahr: 1.398; 
+31.12.2021: 1.396).
+Versicherung der 
+gesetzlichen Vertreter
+Wir versichern nach bestem Wissen, dass gemäß den anzu­
+wendenden Rechnungslegungsgrundsätzen für die Zwischen­
+berichterstattung der Konzernzwischenabschluss unter Beach­
+tung der Grundsätze ordnungsmäßiger Buchführung ein den 
+tatsächlichen Verhältnissen entsprechendes Bild der Vermö­
+gens-, Finanz- und Ertragslage des Konzerns vermittelt und im 
+Konzernzwischenlagebericht der Geschäftsverlauf einschließ­
+lich des Geschäftsergebnisses und die Lage des Konzerns so 
+dargestellt sind, dass ein den tatsächlichen Verhältnissen ent­
+sprechendes Bild vermittelt wird, sowie die wesentlichen Chan­
+cen und Risiken der voraussichtlichen Entwicklung des Kon­
+zerns im verbleibenden Geschäftsjahr beschrieben sind.
+Wesentliche Ereignisse 
+nach dem Zwischenab­
+schlussstichtag
+Nach dem Zwischenabschlussstichtag sind keine Ereignisse von 
+besonderer Bedeutung eingetreten, von denen ein wesentli­
+cher Einfluss auf die Ertrags-, Finanz- und Vermögenslage zu 
+erwarten ist. 
+31
+
+Quartalsmitteilungen und Halbjahresfinanzberichte werden vom Konzernabschlussprüfer, der Ebner Stolz GmbH & Co. KG Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft, 
+Stuttgart, weder geprüft, noch einer prüferischen Durchsicht unterzogen.
+ÜBER STRATEC
+Die STRATEC SE (www.stratec.com) projektiert, entwickelt
+und produziert vollautomatische Analysensysteme für Partner
+aus der klinischen Diagnostik und Life Sciences. Darüber hinaus
+bietet das Unternehmen komplexe Verbrauchsmaterialien für
+diagnostische und medizinische Anwendungen an. Bei Analysen-
+systemen sowie Verbrauchsmaterialien wird dabei die gesamte 
+Wertschöpfungskette von der Entwicklung über das Design und 
+die Produktion bis zur Qualitätssicherung abgedeckt.
+Die Partner vermarkten die Systeme, Software und Verbrauchs­
+materialien weltweit als Systemlösungen, in der Regel gemein­
+sam mit ihren Reagenzien, an Laboratorien, Blutbanken und 
+Forschungseinrichtungen. STRATEC entwickelt ihre Produkte 
+auf Basis patentgeschützter Technologien.
+Die Aktien der Gesellschaft (ISIN: DE000STRA555) werden im 
+Marktsegment Prime Standard an der Frankfurter Wertpapier­
+börse gehandelt und gehören dem Auswahlindex SDAX der 
+Deutschen Börse an.
+IMPRESSUM UND KONTAKT
+Herausgeber
+STRATEC SE
+Gewerbestr. 37
+75217 Birkenfeld
+Deutschland
+Telefon: +49 7082 7916-0
+info@stratec.com
+www.stratec.com
+Head of Investor Relations,
+Sustainability & Corporate Communications
+Jan Keppeler
+Telefon: +49 7082 7916-6515
+j.keppeler@stratec.com
+Hinweise
+Zukunftsgerichtete Aussagen enthalten Risiken: Dieser Halbjahresfinanzbericht 
+enthält verschiedene Aussagen, die die zukünftige Entwicklung von STRATEC be­
+treffen. Diese Aussagen beruhen sowohl auf Annahmen als auch auf Schätzungen. 
+Obwohl wir davon überzeugt sind, dass diese vorausschauenden Aussagen realis­
+tisch sind, können wir hierfür nicht garantieren, denn unsere Annahmen bergen 
+Risiken und Unsicherheiten, die dazu führen könnten, dass die tatsächlichen Er­
+gebnisse wesentlich von den erwarteten abweichen. Eine Aktualisierung der vor­
+ausschauenden Aussagen ist nicht geplant.
+Dieser Halbjahresfinanzbericht enthält aus wirtschaftlicher Sicht Angaben die 
+nicht Bestandteil der Rechnungslegungsvorschriften sind. Diese Angaben sind als 
+Ergänzung, jedoch nicht als Ersatz für die nach IFRS erstellten Angaben zu sehen.
+Im gesamten Halbjahresfinanzbericht können durch mathematische Rundungen 
+in der Addition scheinbare Differenzen auftreten.
+Die weibliche Form ist der männlichen Form in diesem Halbjahresfinanzbericht 
+gleichgestellt; lediglich aus Gründen der leichteren Lesbarkeit wurde in Teilen des 
+Halbjahresfinanzberichts die männliche Form gewählt.
+Dieser Halbjahresfinanzbericht liegt in deutscher und englischer Sprache vor. 
+Beide Fassungen stehen auch auf der Internetseite der Gesellschaft unter 
+www.stratec.com zum Download bereit. Im Zweifelsfall ist die deutsche Fassung 
+maßgeblich.
+FINANZKALENDER
+Änderungen vorbehalten.
+10.08.2022 
+Halbjahresfinanzbericht 
+H1|2022
+08
+29.11.2022
+Deutsches 
+Eigenkapitalforum 
+(Analystenkonferenz)
+11
+03.11.2022 
+Quartalsmitteilung 
+9M|2022
+11
+32
+STRATEC HALBJAHRESFINANZBERICHT H1| 2022

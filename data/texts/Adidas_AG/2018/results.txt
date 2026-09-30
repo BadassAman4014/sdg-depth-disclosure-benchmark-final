@@ -1,0 +1,4717 @@
+ANNUAL FINANCIAL 
+STATEMENTS 
+O F A D I D A S A G
+A S P E R D E C E M B E R 3 1 , 2 0 1 8
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENTS 
+ 
+ 
+3 
+Information on the combined Management Report 
+ 
+4 
+Balance Sheet 
+ 
+5 
+Income Statement 
+ 
+6 
+Notes 
+ 
+49 
+Supervisory Board and Executive Board  
+ 
+(Appendix 1 to the notes) 
+ 
+57 
+List of Shareholdings  
+ 
+(Appendix 2 to the notes) 
+ 
+60 
+Auditors’ Report 
+ 
+70 
+Responsibility Statement 
+ 
+71 
+Supervisory Board Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+
+ 
+ 
+ 
+Combined Management Report 
+ 
+The Management Report of adidas AG has been combined with the Management Report of the 
+adidas Group in accordance with § 315 section 5 together with § 298 section 2 of the German 
+Commercial Code (Handelsgesetzbuch – HGB) and is published in the 2018 Annual Report of 
+the adidas Group. 
+The Financial Statements and the combined Management Report for adidas AG and the adidas 
+Group for the 2018 financial year are filed with and published in the Federal Gazette. 
+The Financial Statements of adidas AG as well as the Annual Report for the 2018 financial 
+year are also available for download on the Internet at  
+http://www.adidas-group.com/en/investors/financial-reports/ 
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+Annual financial statements of adidas AG 
+  
+Balance Sheet 
+€ thousand 
+ 
+ 
+ 
+ 
+ 
+Dec. 31, 2018 
+Dec. 31, 2017
+ASSETS 
+ 
+ 
+ 
+ 
+ 
+FIXED ASSETS 
+(1) 
+ 
+Intangible assets 
+(2) 
+161,891 
+123,855
+Tangible assets 
+(2) 
+688,192 
+610,237
+Financial assets 
+(3) 
+4,360,670 
+4,308,135
+ 
+ 
+5,210,753 
+5,042,227
+CURRENT ASSETS 
+ 
+ 
+Inventories 
+(4) 
+46,545 
+48,876
+Receivables and other assets 
+(5) 
+2,655,425 
+3,261,565
+Securities 
+(6) 
+604,194 
+0
+Cash and cash equivalents 
+(7) 
+873,841 
+337,219
+ 
+ 
+4,180,005 
+3,647,660
+PREPAID EXPENSES 
+(8) 
+99,584 
+168,372
+ 
+ 
+ 
+ DIFFERENCE RESULTING FROM ASSET OFFSETTING
+(9) 
+5,284 
+4,971
+ 
+ 
+9,495,626 
+8,863,230
+ 
+ 
+ 
+EQUITY AND LIABILITIES 
+ 
+ 
+ 
+ 
+ 
+EQUITY 
+ 
+ 
+Subscribed capital 1) 
+(10) 
+200,416 
+209,216
+Par value treasury shares 
+(10) 
+-1,245 
+-5,355
+Capital reserves 
+(10) 
+1,325,380 
+1,309,932
+Revenue reserves 
+ 
+404,036 
+616,842
+Retained earnings 
+(11) 
+705,413 
+573,314
+ 
+ 
+2,634,000 
+2,703,949
+UNTAXED RESERVE 
+(12) 
+3,110 
+3,432
+ 
+ 
+ 
+ 
+PROVISIONS/ACCRUALS
+(13) 
+699,409 
+624,043
+ 
+ 
+ 
+LIABILITIES
+(14) 
+6,139,588 
+5,530,596
+ 
+ 
+ 
+DEFERRED INCOME 
+(15) 
+19,519 
+1,210
+ 
+ 
+9,495,626 
+8,863,230
+1) 
+Contingent Capital 2010 at Dec. 31, 2018 in the amount of € 36,000 thousand (previous year € 36,000 thousand). 
+Contingent Capital 2018 at Dec. 31, 2018 in the amount of € 12,500 thousand (previous year € 12,500 thousand) 
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual financial statements of adidas AG 
+ 
+Income Statement 
+€ thousand 
+ 
+ 
+ 
+ 
+2018
+2017
+ 
+Sales 
+(17)
+4,127,278
+3,732,306
+Change in inventory 
+594
+-596
+Total output 
+4,127,872
+3,731,710
+ 
+Other operating income 
+(18)
+515,872
+502,724
+Cost of materials 
+(19)
+-1,538,444
+-1,292,482
+Personnel expenses 
+(20)
+-730,897
+-692,064
+Amortization and write-downs of intangible fixed assets and 
+depreciation and write-downs of tangible fixed assets 
+(21)
+-97,569
+-90,555
+Other operating expenses 
+(22)
+-2,281,715
+-2,169,678
+Income from operations 
+-4,881
+-10,345
+ 
+Income from investments in related companies 
+(23)
+824,407
+155,420
+Profit received under a profit and loss transfer agreement 
+(24)
+721,024
+501,391
+Loss taken over under a profit and loss transfer agreement 
+(24)
+-73
+-829
+Interest result 
+(25)
+-2,947
+247
+Taxes on income 
+(26)
+-112,965
+-96,188
+Income after taxes 
+1,424,565
+549,696
+ 
+Other taxes 
+-1,019
+-242
+NET INCOME 
+1,423,546
+549,454
+ 
+Retained earnings brought forward
+44,852
+23,860
+Transfer to revenue reserves 
+-400,000
+0
+Transfer to capital reserves 
+-8,800
+0
+Utilization for share buyback 
+-354,185
+0
+RETAINED EARNINGS 
+705,413
+573,314
+ 
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the annual financial statements of adidas AG for the year ended 
+December 31, 2018 
+ 
+adidas AG is domiciled in 91074 Herzogenaurach, Adi-Dassler-Str. 1, and is registered in 
+the commercial register of the Local Court of Fürth, under HRB 3868. 
+In the interest of providing a clearer overall picture, certain items in the balance sheet and 
+income statement have been combined as permitted pursuant to § 265 (7) German 
+Commercial Code (Handelsgesetzbuch – HGB) and have been disclosed and explained 
+separately under the numerical text reference indicated below. The names and domiciles 
+of other companies of which adidas AG holds, either directly or indirectly, investments 
+according to § 271 (1) HGB and the disclosures related to these companies can be found in 
+Appendix 2 to these notes. 
+Due to rounding principles, numbers presented may not sum up exactly to totals provided. 
+The financial statements have been prepared in accordance with the regulations of the 
+German Commercial Code (Handelsgesetzbuch - HGB) and the German Stock Corporation 
+Act (Aktiengesetz - AktG) in €. The income statement has been prepared in accordance 
+with the total cost accounting method. 
+The combined management report pursuant to § 315 (5) HGB in conjunction with § 298 (2) 
+HGB is published in the 2018 Annual Report. 
+6
+
+ 
+ 
+ 
+Accounting policies 
+ 
+Acquired intangible fixed assets are recognized at cost and subject to periodic straight-
+line amortization over their expected useful lives. Internally generated intangible assets 
+are not capitalized. 
+Tangible fixed assets are recognized at (acquisition or production) cost. All recognizable 
+direct and overhead costs are included in production costs. Items with a finite useful 
+economic life are depreciated/amortized over their expected useful lives. Capitalization of 
+borrowing cost does not take place. 
+Buildings are subject to straight-line amortization at adidas AG. The estimated useful life 
+of business premises is 50 years maximum and from two to ten years for technical 
+equipment and machinery, other equipment, and operating and office equipment.  
+Movable assets are depreciated on a straight-line basis. 
+Minor-value assets worth less than € 800 are written off in full in the year of their 
+acquisition. 
+The check of the recoverability of investments in affiliated companies is done using a 
+model which takes the net book values as well as the adidas AG financial receivables from 
+these companies into consideration. Necessary write-downs are posted in the first step 
+relating to the financial receivables and only if additional impairments are necessary will  
+the write-down be attributed to the investment. If the reasons for the write-down no 
+longer apply, the write-down is reversed to no higher than the historical cost of the 
+investment or receivables. 
+Inventories are measured at the lower of cost or market value. Manufacturing costs 
+comprise direct costs that must be capitalized and appropriate portions of overhead costs. 
+Allowances are taken for discernible fashion and technical risks, age structure, and 
+marketability. Borrowing cost capitalization does not take place. 
+7
+
+ 
+ 
+ 
+If the reasons for the write-down no longer apply, the write-down is reversed in 
+accordance with § 253 (5) sentence 1 HGB to no higher than the historical cost of the 
+inventories. 
+Receivables and other assets are generally recognized at nominal values. Individual 
+adjustments and allowances for doubtful accounts are taken to cover discernible risks. 
+Derivative financial transactions entered into with banks by Group Treasury (primarily 
+forward currency and currency option transactions as well as equity instruments) are 
+generally related to underlying transactions with Group companies. Hedge accounting is 
+applied if there is a direct hedging relationship between these transactions. The net hedge 
+presentation method is applied. The fair values of the hedges are matched and changes in 
+value from the hedged risk which offset each other are not recognized. Unrealized losses 
+are recognized in profit or loss only if they are not covered by unrealized gains in the 
+hedge accounting. Financial transactions that are not recognized using hedge accounting 
+are measured individually at fair value. Any resulting losses are recognized in profit or 
+loss. Prospectively, due to the common material assessment features of the transactions, 
+the hedging relationship can be assumed to be highly effective. Retrospectively, the 
+effectiveness is proven by means of the hypothetical derivative method. The dollar-offset 
+method is used for calculation of the amount of ineffectiveness.  
+Securities in current assets are measured at acquisition costs or fair value if lower at the 
+reporting date. 
+Cash-in-hand and bank balances are recognized at nominal value. 
+Prepaid expenses are recognized at nominal value. 
+The difference resulting from asset offsetting is recognized at fair value. 
+Deferred taxes are recognized for temporary differences between the carrying amounts 
+and tax bases for assets, liabilities, prepaid expenses and deferred income. Deferred taxes 
+are calculated based on the combined income tax rate of adidas AG, which is currently 
+28%. The combined income tax rate comprises corporate income tax, municipal trade tax 
+and the solidarity surcharge. 
+8
+
+ 
+ 
+ 
+A net tax burden would be recognized on the balance sheet as a deferred tax liability. 
+There is an option to recognize a deferred tax asset under § 274 (1) sentence 2 HGB in the 
+event of a tax benefit granted but this option is not exercised. In the fiscal year, the 
+Company had a net deferred tax asset, which it did not recognize on its balance sheet. 
+Subscribed capital, capital reserves and revenue reserves are recognized at the nominal 
+amount. 
+The Company exercised its option to maintain the special tax-allowable reserve as 
+permitted upon the first-time adoption of the German Accounting Law Modernization Act 
+(Bilanzrechtsmodernisierungsgesetz, “BilMoG”). Accounting policies relating to this 
+reserve and its reversal remain the same as previously. 
+Pension obligations are calculated on the basis of actuarial biometric assumptions 
+(RT 2018 G mortality tables by Prof. Dr. Klaus Heubeck) in accordance with the projected 
+unit credit (PUC) method. From 2018 onwards, the mortality tables RT 2018 G by Prof. Dr. 
+Klaus Heubeck replace the mortality tables RT 2005 G by Prof. Dr. Klaus Heubeck. The 
+defined benefit obligation (DBO) recognized under the PUC method is defined as the 
+actuarial present value of the pension obligations earned by the employees by the balance 
+sheet date according to the retirement benefit formula and the vested pension amount 
+based on their service in the past. Expected future pension benefit increases are factored 
+in using a 1.0% to 1.6% p.a. (prior year 1.0% to 1.5%) growth rate in benefits. The 
+entitlement dynamic (prior year between 0% and 3% p.a.) is no longer applicable because 
+there are no employees with such benefits in active employment anymore. Fluctuation is 
+assumed – as in the prior year - to range between 5% and 20%, depending on age. The 
+rate used to discount the pension obligations in accordance with § 253 (2) sentence 2 HGB 
+amounts to 3.21% as at December 31, 2018 (prior year: 3.68%); this rate is the average 
+market interest rate for the past ten fiscal years for an assumed term of 15 years. In 
+accordance with § 253 (6) sentence 2 HGB, the difference between the application of the 
+average market interest rate for the past seven fiscal years 2.33% (prior year: 2,80%) and 
+the application of the average market interest rate for the past ten fiscal years 3.21% 
+(prior year: 3.68%) is subject to a restriction on distribution. The plan assets created in 
+2014 through the funding of the pension trust association were measured at fair value, in 
+9
+
+ 
+ 
+ 
+accordance with § 255 (4) HGB in conjunction with § 285 no. 25 second clause and § 285 
+no. 20 a HGB using an official recognized method for real estate valuation, and offset 
+against the pension obligations. 
+Other provisions cover all discernible risks and uncertain obligations and are recognized 
+at the settlement amount dictated by prudent business judgment in order to cover future 
+payment obligations. Future price and cost increases are factored in to the extent that 
+there is sufficient objective evidence that they will occur. Provisions with terms in excess 
+of one year are discounted in accordance with § 253 (2) sentence 1 HGB at the average 
+market interest rate for their respective maturity over the past seven years, as published 
+by the German Federal Bank (Deutsche Bundesbank). Provisions with terms of less than 
+one year are not discounted. 
+Net income from the discounting of retirement pension obligations is shown in the income 
+statement under the item “other interest and similar income” and net expenses under the 
+item “interest and similar expenses”, as part of the financial results. 
+For the remaining partial and early retirement liabilities, discounting was waived due to 
+the low residual maturity (as in the previous year). The liabilities for partial and early 
+retirement are recognized in “difference resulting from asset offsetting” as this 
+constitutes an asset item. 
+The securities used for this and classified as current assets serve exclusively to satisfy 
+liabilities from partial and early retirement obligations and are isolated from all other 
+creditors. In accordance with the provisions of HGB, these assets must be offset against 
+the liabilities for which they serve as security. Analogous to the offsetting of assets against 
+liabilities, the associated income from securities is offset against interest expenses. The 
+assets to be offset are measured at fair value as determined by their current stock 
+exchange or market price. Any difference arising between the fair value and historical cost 
+of the assets to be offset is subject to a restriction on distribution. 
+The effect from the annual adjustment of the discount rate applied to the provisions in 
+accordance with § 253 (2) HGB is recognized immediately in the income statement.  
+Liabilities are recognized at their settlement amount. 
+10
+
+ 
+ 
+ 
+Revenues are recognized once the risk of loss or damage of the goods has been 
+transferred to the purchaser.  
+Licensing revenues are recognized in accordance with the underlying contractual 
+agreements. Rights and revenues generally arise whenever the licensee generates sales 
+revenue with adidas products. 
+Assets and liabilities denominated in a foreign currency are recorded at the mean spot 
+rate as at the respective transaction date. Currency translation losses arising as at the 
+balance sheet date due to the measurement of foreign-denominated assets and liabilities 
+are reported in the income statement. Currency translation gains from the measurement 
+of current assets and liabilities falling due within less than one year are recorded in the 
+income statement in accordance with § 256a HGB. Currency translation gains are reported 
+under “other operating income” and currency translation losses are reported under “other 
+operating expenses”.  
+Income from long-term equity investments is generally recognized during the period in 
+which a claim to such income arises and it can be reasonably expected that the amounts 
+due will be collected. 
+Profit or loss resulting from a profit and loss transfer agreement is recognized if the 
+amount to be transferred or absorbed can be determined with reasonable certainty, even if 
+the annual financial statements of the subsidiary have not yet been adopted. 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+
+ 
+ 
+ 
+1. Fixed Assets 
+ 
+Development of fixed assets in the 2018 fiscal year. 
+ 
+ 
+ 
+Amounts in EUR thousand (HGB)
+ 01.01.2018
+Additions
+Disposals
+Reclassifications
+31.12.2018
+I.
+Intangible Assets
+1.
+Purchased concessions, trademarks and similar rights
+and licenses to such rights
+571.267
+13.462
+-1
+23.598
+608.326
+2.
+Prepayments and assets under construction
+28.258
+75.585
+0
+-23.598
+80.245
+599.525
+89.047
+-1
+0
+688.571
+II. Tangible Assets
+1.
+Land, land rights and buildings
+490.867
+4.162
+-708
+21.027
+515.348
+2.
+Technical equipment and machinery
+55.584
+9.578
+-47
+1.310
+66.425
+3.
+Other equipment, operating and office equipment
+309.034
+20.532
+-2.536
+1.808
+328.838
+4.
+Prepayments and assets under construction
+184.046
+91.844
+0
+-24.145
+251.745
+1.039.531
+126.116
+-3.291
+0
+1.162.356
+III. Financial Assets
+1.
+Shares in affiliated companies
+4.146.823
+11.133
+-4.753
+0
+4.153.203
+2.
+Loans to affiliated companies
+40.000
+0
+0
+0
+40.000
+3.
+Equity investments
+79.249
+0
+-408
+0
+78.841
+4.
+Loans to non-affiliated companies
+200
+0
+0
+0
+200
+5.
+Other loans
+62.453
+41.810
+0
+0
+104.263
+4.328.725
+52.943
+-5.161
+0
+4.376.507
+Fixed Assets
+5.967.781
+268.106
+-8.453
+0
+6.227.434
+Acquisition and production costs
+12
+
+ 
+ 
+ 
+ 
+ 
+ 
+2. Intangible fixed assets and tangible fixed assets 
+ 
+The significant additions primarily relate to advance payments and assets under 
+construction in an amount of € 91,844 thousand for property, plant and equipment and 
+€ 75,585 thousand for intangible assets. Further additions relate to software in an amount 
+of € 10,631 thousand and technical equipment and machinery in an amount of 
+€ 9,578 thousand as well as computer hardware in an amount of € 9,233 thousand.  
+ 
+ 01.01.2018
+Additions
+Disposals
+Write-up
+Reclassifications
+31.12.2018
+31.12.2018
+31.12.2017
+475.670
+51.011
+-1
+0
+0
+526.680
+81.646
+95.597
+0
+0
+0
+0
+0
+0
+80.245
+28.258
+475.670
+51.011
+-1
+0
+0
+526.680
+161.891
+123.855
+147.435
+15.014
+-87
+0
+0
+162.362
+352.986
+343.432
+32.803
+7.124
+-14
+0
+0
+39.913
+26.512
+22.781
+249.056
+24.420
+-1.587
+0
+0
+271.889
+56.949
+59.978
+0
+0
+0
+0
+0
+0
+251.745
+184.046
+429.294
+46.558
+-1.688
+0
+0
+474.164
+688.192
+610.237
+20.590
+0
+-4.753
+0
+0
+15.837
+4.137.366
+4.126.233
+0
+0
+0
+0
+0
+0
+40.000
+40.000
+0
+0
+0
+0
+0
+0
+78.841
+79.249
+0
+0
+0
+0
+0
+0
+200
+200
+0
+0
+0
+0
+0
+0
+104.263
+62.453
+20.590
+0
+-4.753
+0
+0
+15.837
+4.360.670
+4.308.135
+925.554
+97.569
+-6.442
+0
+0
+1.016.681
+5.210.753
+5.042.227
+Accumulated depreciation
+Book values
+13
+
+ 
+ 
+ 
+3. Long-term financial assets 
+ 
+The increase in long-term financial assets primarily relates to a contribution in cash for a  
+share-based swap in an amount of € 41,810 thousand for other loans. The additions in 
+shares in affiliated companies primarily relate to the capital increase at the subsidiary 
+adidas Columbia Ltd., the disposals relate to the sale of the shares in the subsidiary 
+Reebok Israel Ltd. to Life Sport Ltd.  
+ 
+4. Inventories 
+ 
+Inventories 
+€ thousand 
+ 
+Dec. 31, 2018 
+Dec. 31, 2017
+Raw materials, consumables and supplies 
+6,080 
+4,016
+Work in progress 
+291 
+41
+Finished goods and merchandise 
+40,174 
+44,819
+Inventories 
+46,545 
+48,876
+ 
+Inventories relate to raw materials, consumables and supplies for production purposes, 
+work in progress in the production process and merchandise mostly in connection with the  
+company’s own retail business.  
+ 
+5. Receivables and other assets 
+ 
+Receivables and other assets 
+€ thousand 
+ 
+Dec. 31, 2018 
+Dec. 31, 2017 
+Trade accounts receivable 
+139,176 
+95,074 
+of which with a residual maturity of more than one year 
+0 
+0 
+Receivables from affiliated companies 
+2,429,891 
+3,111,239 
+of which with a residual maturity of more than one year 
+0 
+0 
+Other assets 
+86,358 
+55,252 
+of which with a residual maturity of more than one year 
+45,320 
+13,323 
+Receivables and other assets 
+2,655,425 
+3,261,565 
+14
+
+ 
+ 
+ 
+The receivables from affiliated companies primarily relate to receivables in connection 
+with Group Treasury activities. Group Treasury uses a netting process to balance out any 
+fund surpluses or deficits at subsidiaries through adidas AG and settle payments between 
+subsidiaries. The recoverability of these receivables is checked as part of the impairment 
+test concerning the shares in affiliated companies. At the balance sheet date there are 
+accumulated impairments of € 55,863 thousand. Receivables from affiliated companies 
+include € 183,367 thousand in trade receivables.  
+Other assets essentially include capitalized option premiums, receivables from tax 
+authorities for value added tax as well as receivables from Eurobond shares repurchased.  
+ 
+6. Securities 
+ 
+Securities
+€ thousand 
+ 
+Dec. 31, 2018
+Dec. 31, 2017 
+Money market fonds 
+440,194 
+0
+Commercial Papers 
+164,000 
+0
+Securities 
+604,194 
+0
+ 
+Securities comprise short-term financial investments. 
+7. Cash-in-hand, central bank balances, bank balances and checks 
+ 
+Cash and cash equivalents 
+€ thousand 
+ 
+Dec. 31, 2018
+Dec. 31, 2017 
+Cash-in-hand, bank balances and checks 
+873,841 
+337,219
+ 
+ 
+ 
+15
+
+ 
+ 
+ 
+8. Prepaid expenses 
+ 
+Prepaid expenses 
+€ thousand 
+ 
+Dec. 31, 2018
+Dec. 31, 2017
+Advertising and promotion agreements 
+42,847
+87,202
+Other 
+56,737
+81,169
+Prepaid expenses 
+99,584
+168,372
+ 
+The decrease in advertising and promotion agreements is largely attributable to a contract 
+agreement with a football association. Other prepaid expenses comprise mainly advance 
+payments for licensing expenses, maintenance, rent, insurance premiums and marketing. 
+ 
+9. Difference resulting from asset offsetting  
+ 
+The liabilities for partial and early retirement show a settlement amount of € 15 thousand 
+as at December 31, 2018 (prior year: € 354 thousand). The fair value of recognized assets 
+amounts to € 5,299 thousand as at December 31, 2018 (prior year: € 5,325 thousand) and 
+the historical acquisition costs amount to € 4,390 thousand (prior year: € 4,361 thousand). 
+Pursuant to statutory regulations, the difference between the fair value and the historical 
+cost of the recognized asset is subject to a restriction on distribution in an amount of € 909 
+thousand (prior year: € 964 thousand). 
+ 
+ 
+ 
+16
+
+ 
+ 
+ 
+10. Shareholders equity  
+ 
+The table below provides an overview of the changes in equity: 
+Changes in equity 
+€ thousand 
+ 
+ 
+ 
+ 
+ 
+Jan. 1, 
+2018 
+Repurchase 
+of treasury 
+shares 
+Issuance of 
+treasury shares 
+/ Conversion / 
+Employee 
+shares
+Allocation 
+to reserves
+Withdrawal 
+from 
+reserves
+Cancelation 
+of shares 
+Dividend
+Net profit 
+for the year
+Dec. 31, 2018 
+Subscribed capital 
+209,216
+0 
+0
+0
+0
+-8,800 
+0
+0
+200,416 
+Par value of 
+treasury shares 
+-5,355
+-5,090 
+400
+0
+0
+8,800 
+0
+0
+-1,245 
+Capital reserves 
+1,309,932
+0 
+2,978
+12,470
+0
+0 
+0
+0
+1,325,380 
+Revenue reserves*) 
+616,842
+-640,643 
+30,185
+400,000
+-2,348
+0 
+0
+0
+404,036 
+Retained earnings 
+573,314
+-354,185 
+0
+-400,000
+0
+-8,800 -528,462
+1,423,546
+705,413 
+Equity 
+2,703,949
+-999,918 
+33,563
+12,470
+-2,348
+-8,800 -528,462
+1,423,546
+2,634,000 
+*) Includes legal reserves of € 4,036 thousand 
+ 
+Subscribed capital  
+As at December 31, 2017, the nominal capital of adidas AG amounted to € 209,216,186 
+divided into 209,216,186 registered no-par-value shares and was fully paid in. 
+With legal effect as of October 22, 2018, the nominal capital was reduced from 
+€ 209,216,186 to € 200,416,186 by cancelation of 8,800,000 treasury shares. The change in 
+the nominal capital due to the cancelation of shares and the capital reduction was 
+registered for declaratory entry in the commercial register. The entry was made on 
+December 14, 2018. 
+There were no other changes to the nominal capital. Thus, as at the balance sheet date, 
+and in the period beyond, the nominal capital of adidas AG amounted to a total of 
+€ 200,416,186 divided into 200,416,186 registered no-par-value shares and is fully paid in. 
+Each share grants one vote and is entitled to dividends starting from the beginning of the 
+year it was issued. Treasury shares held directly or indirectly are not entitled to dividend 
+payment in accordance with § 71b AktG. As at the balance sheet date, adidas AG held 
+17
+
+ 
+ 
+ 
+1,244,841 treasury shares, corresponding to a notional amount of € 1,244,841 in the 
+nominal capital and consequently to 0.62% of the nominal capital.  
+ 
+Authorized capital  
+The Executive Board of adidas AG did not utilize the existing amount of authorized capital 
+of up to € 90 million in the 2018 financial year or in the period beyond the balance sheet 
+date. 
+The authorized capital of adidas AG, which is set out in § 4 sections 2, 3, 4, and 5 of the 
+Articles of Association as at the balance sheet date, entitles the Executive Board, subject 
+to Supervisory Board approval, to increase the nominal capital 
+based on the authorization granted by resolution of the Annual General Meeting of May 11, 
+2017 until June 7, 2022 
+by issuing new shares against contributions in cash once or several times by no 
+more than € 50 million and, subject to Supervisory Board approval, to exclude 
+residual amounts from shareholders’ subscription rights (Authorized Capital 
+2017/I); 
+based on the authorization granted by resolution of the Annual General Meeting of May 11, 
+2017 until June 7, 2020 
+by issuing new shares against contributions in kind once or several times by no 
+more than € 16 million and, subject to Supervisory Board approval, to exclude 
+shareholders’ subscription rights (Authorized Capital 2017/II); 
+The overall volume of the shares issued based on this authorization with the 
+exclusion of subscription rights – together with shares issued against contributions 
+in cash with a simplified exclusion of subscription rights from the Authorized 
+Capital 2017/III (§ 4 section 4 of the Articles of Association) – must not exceed 10% 
+of the nominal capital existing at the date of the respective issuance. This deduction 
+clause shall not apply if residual amounts of shares are excluded from subscription 
+rights; 
+18
+
+ 
+ 
+ 
+based on the authorization granted by resolution of the Annual General Meeting of May 11, 
+2017 until June 7, 2022 
+by issuing new shares against contributions in cash once or several times by no 
+more than € 20 million and, subject to Supervisory Board approval, to exclude 
+residual amounts from shareholders’ subscription rights and to exclude 
+shareholders’ subscription rights when issuing the new shares at a value not 
+essentially below the stock market price of the adidas AG shares already listed on 
+the stock exchange at the point in time when the issue price is ultimately 
+determined, which should be as close as possible to the placement of the shares; 
+this exclusion of subscription rights can also be associated with the listing of the 
+adidas AG shares on a foreign stock exchange (Authorized Capital 2017/III). The 
+authorization to exclude subscription rights pursuant to the previous sentence, 
+may, however, only be used to the extent that the pro rata amount of the new 
+shares in the nominal capital together with the pro rata amount in the nominal 
+capital of other shares which have been issued by adidas AG since May 11, 2017, 
+subject to the exclusion of subscription rights pursuant to or in accordance with 
+§ 186 section 3 sentence 4 AktG on the basis of an authorized capital or following a 
+repurchase or for which subscription or conversion rights or subscription or 
+conversion obligations have been granted since May 11, 2017, through the issuance 
+of convertible bonds and/or bonds with warrants, with subscription rights excluded 
+pursuant to § 186 section 3 sentence 4 AktG, does not exceed 10% of the nominal 
+capital existing on the date of the entry of this authorization with the commercial 
+register or – if this amount is lower – at the respective date on which the resolution 
+on utilization of the authorization is adopted.  
+The overall volume of the shares issued based on this authorization with the 
+exclusion of subscription rights – together with shares issued against contributions 
+in kind with the exclusion of subscription rights from the Authorized Capital 2017/II 
+(§ 4 section 3 of the Articles of Association) – must not exceed 10% of the nominal 
+capital existing at the date of the respective issuance. This deduction clause shall 
+not apply if residual amounts of shares are excluded from subscription rights;  
+19
+
+ 
+ 
+ 
+based on the authorization granted by resolution of the Annual General Meeting of May 12, 
+2016 until June 14, 2021 
+by issuing up to 4,000,000 new shares against contributions in cash once or several 
+times by no more than € 4 million and, subject to Supervisory Board approval, to 
+determine the further content of the rights embodied in the shares and the terms 
+and conditions of the share issuance (Authorized Capital 2016). Shareholders’ 
+subscription rights shall be excluded. Any repurchased treasury shares of adidas 
+AG which are used by adidas AG for employee stock purchase plans during the term 
+of this authorization shall be attributed to the maximum number of 4,000,000 
+shares. The new shares may only be issued to (current or former) employees of 
+adidas AG and its affiliated companies as well as to (current and former) members 
+of management bodies of adidas AG’s affiliated companies. 
+ 
+Contingent Capital 
+The following description of the contingent capital is based on § 4 sections 6 and 7 of the 
+Articles of Association of adidas AG as well as on the underlying resolutions of the Annual 
+General Meetings held on May 6, 2010 and May 9, 2018. It does not comprise the 
+Contingent Capital 2014 canceled by the Annual General Meeting on May 9, 2018, which 
+had not been utilized until May 9, 2018. Additional contingent capital does not exist. 
+ 
+Contingent Capital 2010 and Convertible Bond 
+The nominal capital of adidas AG is conditionally increased by up to € 36 million 
+(Contingent Capital 2010). The Contingent Capital serves the purpose of granting holders 
+or creditors of bonds that were issued up to May 5, 2015 based on the resolution of the 
+Annual General Meeting from May 6, 2010 subscription or conversion rights relating to no 
+more than a total of 36,000,000 shares in compliance with the corresponding conditions of 
+the bonds. The new shares shall be issued at the respective option or conversion price to 
+be established in accordance with the aforementioned authorization resolution. The new 
+20
+
+ 
+ 
+ 
+shares shall carry dividend rights from the commencement of the financial year in which 
+the shares are issued. 
+On March 14, 2012, the Executive Board, with the approval of the Supervisory Board, made 
+partial use of the authorization of the Annual General Meeting from May 6, 2010, and on 
+March 21, 2012 issued a convertible bond due on June 14, 2019 (including a prolongation 
+option) in a nominal value of € 500 million via an offer to institutional investors outside the 
+USA with the exclusion of shareholders' subscription rights. The bonds were listed on the 
+Open Market segment of the Frankfurt Stock Exchange. The conversion rights were 
+exercisable at any time between May 21, 2012 and June 5, 2019, subject to lapsed 
+conversion rights as set out under § 6 section 3 of the bond terms and conditions or to the 
+excluded periods as defined by § 6 section 4 of the bond terms and conditions, and (subject 
+to an adjustment of the conversion ratio resulting from the dilution adjustment regulations 
+set out under § 10 of the bond terms and conditions or a change of control in accordance 
+with § 13 of the bond terms and conditions) the convertible bond could be converted into 
+6,212,778 shares of adidas AG based on a conversion price of most recently € 80.48 per 
+share. The convertible bond bore an interest rate of 0.25% per annum. Bondholders were 
+entitled to demand redemption of the bonds as of June 14, 2017. As of July 14, 2017, 
+adidas AG had the right to conduct an early redemption of the bond, if, on 20 of 30 
+consecutive trading days, the share price of adidas AG exceeded the current conversion 
+price of most recently € 80.48 by at least 30%. In the year under review, the company 
+exercised its right to redeem outstanding bonds early. The convertible bond was thus fully 
+converted or redeemed and no more shares can be issued from the Contingent Capital 
+2010. 
+Moreover, the authorization to issue bonds with warrants and/or convertible bonds 
+granted on May 6, 2010 was canceled by resolution of the Annual General Meeting on May 
+8, 2014. 
+The Executive Board of adidas AG did not issue shares from the Contingent Capital 2010 
+until the balance sheet date and in the period beyond. 
+ 
+ 
+21
+
+ 
+ 
+ 
+Contingent Capital 2018 
+The nominal capital is conditionally increased by up to € 12.5 million divided into not more 
+than 12,500,000 no-par-value shares (Contingent Capital 2018). The contingent capital 
+increase serves the issuance of no-par-value shares when exercising option or conversion 
+rights or fulfilling the respective option and/or conversion duties or when exercising the 
+company’s right to choose to partially or in total deliver no-par-value shares of the 
+company instead of paying the due amount to the holders or creditors of bonds issued by 
+the company or a subordinated Group company up to May 8, 2023 on the basis of the 
+authorization resolution adopted by the Annual General Meeting on May 9, 2018. The new 
+shares will be issued at the respective option or conversion price to be established in 
+accordance with the aforementioned authorization resolution. The contingent capital 
+increase will be implemented only to the extent that holders or creditors of option or 
+conversion rights or the persons obligated to exercise the option or conversion duties 
+based on bonds issued by the company or a subordinated Group company, pursuant to the 
+authorization of the Executive Board granted by the resolution adopted by the Annual 
+General Meeting on May 9, 2018 (Agenda Item 8), up to May 8, 2023 and guaranteed by the 
+company, exercise their option or conversion rights or, if they are obligated to exercise the 
+option or conversion duties, fulfill their obligations to exercise the warrant or convert the 
+bond, or to the extent that the company exercises its rights to choose to deliver shares in 
+the company for the total amount or a part amount instead of payment of the amount due 
+and insofar as no cash settlement, treasury shares or shares of another public listed 
+company are used to service these rights. The new shares will carry dividend rights from 
+the commencement of the financial year in which the shares are issued. The Executive 
+Board is authorized, subject to Supervisory Board approval, to stipulate any additional 
+details concerning the implementation of the contingent capital increase. 
+The Executive Board is also authorized, subject to Supervisory Board approval, to exclude 
+shareholders’ subscription rights for fractional amounts and to exclude shareholders’ 
+subscription rights insofar as this is necessary for granting subscription rights to which 
+holders or creditors of previously issued bonds are entitled. Finally, the Executive Board is 
+authorized, subject to Supervisory Board approval, to also exclude shareholders’ 
+22
+
+ 
+ 
+ 
+subscription rights if the issue price of the bonds is not significantly below the hypothetical 
+market value of these bonds and the number of shares to be issued does not exceed 10% 
+of the nominal capital. Treasury shares which are or will be sold with the exclusion of 
+subscription rights in accordance with § 71 section 1 no. 8 in conjunction with § 186 
+section 3 sentence 4 AktG between the starting date of the term of this authorization and 
+the issuance of the respective bonds are attributed to the above-mentioned limit of 10%. 
+Shares which are or will be issued, subject to the exclusion of subscription rights, 
+pursuant to § 186 section 3 sentence 4 AktG or pursuant to § 203 section 1 in conjunction 
+with § 186 section 3 sentence 4 AktG between the starting date of the term of this 
+authorization and the issuance of the respective bonds in the context of a cash capital 
+increase are also attributed to the above-mentioned limit of 10%. Finally, shares for which 
+there are option or conversion rights or obligations or a right to delivery of shares of the 
+company in favor of the company due to bonds with warrants or convertible bonds issued 
+by the company or its subordinated Group companies, subject to the exclusion of 
+subscription rights, in accordance with § 221 section 4 sentence 2 in conjunction with 
+§ 186 section 3 sentence 4 AktG during the term of this authorization based on other 
+authorizations are attributed to the above-mentioned limit of 10%. 
+In the period up until the balance sheet date and beyond, the Executive Board of adidas AG 
+did not issue any bonds based on the authorization granted on May 9, 2018 and 
+consequently did not issue any shares from the Contingent Capital 2018. 
+ 
+Repurchase and use of treasury shares  
+The Annual General Meeting on May 12, 2016 granted the Executive Board an authorization 
+to repurchase adidas AG shares up to an amount totaling 10% of the nominal capital until 
+May 11, 2021. The authorization may be used by adidas AG but also by its subordinated 
+Group companies or by third parties on account of adidas AG or its subordinated Group 
+companies or third parties assigned by adidas AG or one of its subordinated Group 
+companies.  
+Based on the above-mentioned authorization, the Executive Board of adidas AG 
+commenced a share buyback program on March 22, 2018. While the company may use the 
+23
+
+ 
+ 
+ 
+repurchased shares for all purposes admissible under the authorization granted on May 
+12, 2016 with the exception of the transfer of shares as a compensation component for the 
+company’s Executive Board members, adidas AG plans to cancel the majority of the 
+repurchased shares. 
+In March 2018, 161,888 shares were purchased for a total price of € 31,570,000 (excluding 
+incidental purchasing costs), i.e. for an average price of € 195.01 per share. This 
+corresponded to a notional amount of € 161,888 in the nominal capital and consequently to 
+0.08% of the nominal capital. In April 2018, 479,177 shares were purchased for a total 
+price of € 98,679,134 (excluding incidental purchasing costs), i.e. for an average price of 
+€ 205.93 per share. This corresponded to a notional amount of € 479,177 in the nominal 
+capital and consequently to 0.23% of the nominal capital. In May 2018, 617,854 shares 
+were purchased for a total price of € 120,189,124 (excluding incidental purchasing costs), 
+i.e. for an average price of € 194.53 per share. This corresponded to a notional amount of 
+€ 617,854 in the nominal capital and consequently to 0.3% of the nominal capital.  
+On May 24, 2018, the company (including the shares purchased since 2014) exceeded the 
+reportable threshold of 3% of the shares in adidas AG as defined by § 40 section 1 
+sentence 2 German Securities Trading Act (Wertpapierhandelsgesetz - WpHG). The share 
+of voting rights amounted to 3.008% (6,293,433 shares) at that time.  
+In June 2018, 1,539,068 shares were purchased for a total price of € 293,306,320 
+(excluding incidental purchasing costs), i.e. for an average price of € 190.57 per share. 
+This corresponded to a notional amount of € 1,539,068 in the nominal capital and 
+consequently to 0.74% of the nominal capital. In July 2018, 336,046 shares were purchased 
+for a total price of € 62,777,649 (excluding incidental purchasing costs), i.e. for an average 
+price of € 186.81 per share. This corresponded to a notional amount of € 336,046 in the 
+nominal capital and consequently to 0.16% of the nominal capital. In August 2018, 345,975 
+shares were purchased for a total price of € 70,279,340 (excluding incidental purchasing 
+costs), i.e. for an average price of € 203.13 per share. This corresponded to a notional 
+amount of € 345,975 in the nominal capital and consequently to 0.17% of the nominal 
+capital. In September 2018, 270,019 shares were purchased for a total price of 
+24
+
+ 
+ 
+ 
+€ 56,546,586 (excluding incidental purchasing costs), i.e. for an average price of € 209.42 
+per share. This corresponded to a notional amount of € 270,019 in the nominal capital and 
+consequently to 0.13% of the nominal capital. In October 2018, 508,407 shares were 
+purchased for a total price of € 101,380,438 (excluding incidental purchasing costs), i.e. for 
+an average price of € 199.41 per share. This corresponded to a notional amount of 
+€ 508,407 in the nominal capital which was reduced from € 209,216,186 to € 200,416,186 
+with legal effect from October 22, 2018 and consequently to 0.25% of the nominal capital.  
+On October 22, 2018, adidas AG fell below the reportable threshold of 3% of the shares in 
+adidas AG as defined by § 40 section 1 sentence 2 WpHG due to the cancelation of treasury 
+shares and the capital reduction. The share of voting rights amounted to 0.2226% (446,196 
+shares) at that time.  
+In November 2018, 640,749 shares were purchased for a total price of € 127,377,313 
+(excluding incidental purchasing costs), i.e. for an average price of € 198.79 per share. 
+This corresponded to a notional amount of € 640,749 in the nominal capital and 
+consequently to 0.32% of the nominal capital. In December 2018, 190.696 shares were 
+purchased for a total price of € 37,779,261 (excluding incidental purchasing costs), i.e. for 
+an average price of € 198.11 per share. This corresponded to a notional amount of 
+€ 190,696 in the nominal capital and consequently to 0.10% of the nominal capital. 
+Under the authorization granted, adidas AG repurchased a total of 5,089,879 shares for a 
+total price of € 999,885,165 (excluding incidental purchasing costs), i.e. for an average 
+price of € 196.45 per share, in a first tranche between March 22, 2018 and December 4, 
+2018 inclusive. This corresponded to a notional amount of € 5,089,879 in the nominal 
+capital which was reduced from € 209,216,186 to € 200,416,186 with legal effect from 
+October 22, 2018 and consequently to 2.54% of the nominal capital. adidas AG reserves the 
+right to continue the share buyback program in the future in alignment with the published 
+parameters. 
+In the 2018 financial year, a total of 377,630 treasury shares were used to meet obligations 
+arising from the convertible bond issued by adidas AG. The convertible bond was fully 
+converted or redeemed. 
+25
+
+ 
+ 
+ 
+Moreover, in the 2018 financial year, 22,360 treasury shares were used as consideration, i. 
+a., for the transfer or licensing of intellectual property rights and intangible property 
+rights due to contractual obligations. 
+In the 2018 financial year and beyond, adidas AG used a total of 9,199,990 treasury shares 
+(including the treasury shares canceled). 
+ 
+Employee stock purchase plan 
+In the 2016 financial year, adidas AG introduced an employee stock purchase plan in favor 
+of employees of adidas AG and its affiliated companies. 
+Outside the share buyback program initiated in March 2018, the company purchased 
+adidas AG shares in connection with this employee stock purchase plan. On January 8, 
+2018, adidas AG purchased 25,672 adidas AG shares at an average price of € 173.27 in 
+connection with the employee stock purchase plan. This corresponded to a total price of 
+€ 4,448,258 (excluding incidental purchasing costs) with a pro rata amount or an amount 
+in the nominal capital of € 25,672 or 0.01%. At the same time, adidas AG also purchased a 
+further 3,642 adidas AG shares at an average price of € 173.27, which were used as 
+matching shares. This corresponded to a total price of € 631,059 (excluding incidental 
+purchasing costs) with a pro rata amount or an amount in the nominal capital of € 3,642 or 
+0.002%. All shares purchased for this purpose on January 8, 2018 were issued to eligible 
+employees on January 10, 2018. 
+On April 9, 2018, adidas AG purchased a further 24,104 adidas AG shares at an average 
+price of € 201.88 in connection with the employee stock purchase plan. This corresponded 
+to a total price of € 4,866,054 (excluding incidental purchasing costs) with a pro rata 
+amount or an amount in the nominal capital of € 24,104 or 0.012%. At the same time, 
+adidas AG also purchased a further 2,751 adidas AG shares at an average price of € 201.88, 
+which were used as matching shares. This corresponded to a total price of € 555,365 
+(excluding incidental purchasing costs) with a pro rata amount or an amount in the 
+nominal capital of € 2,751 or 0.0013%. All shares purchased for this purpose on April 9, 
+2018 were issued to eligible employees on April 11, 2018. 
+26
+
+ 
+ 
+ 
+On July 6, 2018, adidas AG purchased a further 30,504 adidas AG shares at an average 
+price of € 182.47 in connection with the employee stock purchase plan. This corresponded 
+to a total price of € 5,566,187 (excluding incidental purchasing costs) with a pro rata 
+amount or an amount in the nominal capital of € 30,504 or 0.015%. At the same time, 
+adidas AG also purchased a further 3,040 adidas AG shares at an average price of € 182.47, 
+which were used as matching shares. This corresponded to a total price of € 554,721 
+(excluding incidental purchasing costs) with a pro rata amount or an amount in the 
+nominal capital of € 3,040 or 0.0014%. All shares purchased for this purpose on July 6, 
+2018 were issued to eligible employees on July 10, 2018. 
+On October 8, 2018, adidas AG purchased a further 25,863 adidas AG shares at an average 
+price of € 205.91 in connection with the employee stock purchase plan. This corresponded 
+to a total price of € 5,325,449 (excluding incidental purchasing costs) with a pro rata 
+amount or an amount in the nominal capital of € 25,863 or 0.012%. At the same time, 
+adidas AG also purchased a further 2,689 adidas AG shares at an average price of € 205.91, 
+which were used as matching shares. This corresponded to a total price of € 553,673 
+(excluding incidental purchasing costs) with a pro rata amount or an amount in the 
+nominal capital of € 2,689 or 0.0013%. All shares purchased for this purpose on October 8, 
+2018 were issued to eligible employees on October 12, 2018. 
+On January 8, 2019, adidas AG purchased a further 29,328 adidas AG shares at an average 
+price of € 195.72 in connection with the employee stock purchase plan. This corresponded 
+to a total price of € 5,739,980 (excluding incidental purchasing costs) with a pro rata 
+amount or an amount of € 29,328 in the nominal capital which was reduced from 
+€ 209,216,186 to € 200,416,186 with legal effect from October 22, 2018 or 0.015%. At the 
+same time, adidas AG also purchased a further 3,349 adidas AG shares at an average price 
+of € 195.72, which were used as matching shares. This corresponded to a total price of 
+€ 655,455 (excluding incidental purchasing costs) with a pro rata amount or an amount of 
+€ 3,349 in the nominal capital which was reduced from € 209,216,186 to € 200,416,186 
+with legal effect from October 22, 2018 or 0.002%. All shares purchased for this purpose 
+on January 8, 2019 were issued to eligible employees on January 10, 2019. 
+ 
+27
+
+ 
+ 
+ 
+Changes in the percentage of voting rights 
+Pursuant to § 160 section 1 no. 8 AktG, existing shareholdings which have been notified to 
+adidas AG in accordance with § 33 section 1 or section 2 WpHG need to be disclosed. 
+ 
+The following table reflects reportable shareholdings in adidas AG, Herzogenaurach, as at 
+the balance sheet date and beyond which have each been notified to adidas AG in written 
+form. In each case, the details relate to the most recent voting rights notification received 
+by adidas AG from the parties obligated to notify. All voting rights notifications disclosed by 
+adidas AG in the year under review and beyond are available on the corporate website. 
+ 
+The details on the percentage of shareholdings and voting rights may no longer be up to 
+date. 
+ 
+ 
+ 
+28
+
+ 
+ 
+ 
+Notified reportable shareholdings  
+1) The provisions of the WpHG stated refer to the version applicable at the time of publication of the respective individual voting rights 
+notification.  
+Notifying party 
+Date of reaching, 
+exceeding or falling 
+below 
+ 
+Reporting 
+threshold
+AttributionsNotificatio
+n obligations and 
+attributions in 
+accordance with 
+WpHG1)
+Sharehol
+dings in %
+Number of
+voting rights
+BlackRock, Inc., 
+Wilmington, DE, 
+USA 
+December 28, 2018 
+Exceeding 
+5%
+§§ 34, 38 sec. 1 no. 1 
+and § 38 sec. 1 no. 2
+5.49
+11,005,628 
+Ségolène Gallienne 
+December 03, 2018 
+Exceeding 
+5%
+§ 34
+7.83
+15,694,711 
+Gérald Frère 
+December 03, 2018 
+Exceeding 
+5%
+§ 34
+7.83
+15,694,711 
+The Desmarais 
+Family Residuary 
+Trust, Montreal,  
+Canada 
+November 19, 2018 
+Exceeding 
+5%
+§ 34
+8.09
+16,214,074 
+Elian Corporate 
+Trustee (Cayman) 
+Limited, Grand 
+Cayman, Cayman 
+Islands 
+December 16, 2016
+Exceeding 
+5%
+§§ 21, 25 sec. 1 no. 2
+5.71
+11,950,482 
+FMR LLC, 
+Wilmington, DE, 
+USA7) 
+May 12, 2016
+Exceeding 
+5%
+§ 22
+5.31
+11,117,704 
+Capital Research 
+and Management 
+Company, Los 
+Angeles, CA, USA 
+July 22, 2015
+Exceeding 
+3%
+§ 22 sec. 1 sent. 1 no. 6
+3.02
+6,325,110 
+The Capital Group 
+Companies, Inc., 
+Los Angeles, CA, 
+USA 
+July 22, 2015
+Exceeding 
+3%
+§ 22 sec. 1 sent. 1 no. 6 
+in conjunction with § 
+22 sec. 1 sent. 2 and 3
+3.02
+6,325,110 
+29
+
+ 
+ 
+ 
+Capital reserve 
+The capital reserve primarily comprises the paid premium for the issuance of share 
+capital as well as the equity component of the issued convertible bond. 
+ 
+Revenue reserves 
+The revenue reserves comprises both amounts which are required by the Articles of 
+Association and voluntary amounts that have been set aside by the company. The reserves 
+include the accumulated profits less dividends paid and consideration paid for the 
+repurchase of treasury shares exceeding the nominal amount. In addition, the item 
+includes the effects of the employee stock purchase plan. 
+ 
+11. Retained earnings 
+ 
+Retained earnings 
+€ thousand 
+ 
+ 
+Retained earnings as of December 31, 2017 
+ 
+Distribution of a dividend of € 2.60 per ordinary share in the share capital for the 2017 fiscal year (209,216,186 
+shares) 
+573,314
+-528,462
+Retained earnings brought forward 
+44,852
+Net income of adidas AG for the 2018 fiscal year 
+1,423,546
+Allocation to other revenue reserves 
+-400,000
+Allocation to capital reserves 
+-8,800
+Used for repurchasing of own shares 
+-354,185
+Retained earnings as of December 31, 2018 
+705,413
+ 
+12. Special reserve  
+ 
+The special reserve established in 2003 in accordance with § 273 HGB (old version) and 
+Section 35 Income Tax Regulations (Einkommensteuer-Richtlinien, “EStR”) for write-
+downs relating to the construction of the factory outlet was reduced as scheduled during 
+the year under review by a € 322 thousand amortization charge. 
+ 
+30
+
+ 
+ 
+ 
+13. Provisions/accruals 
+ 
+Provisions/accruals 
+€ thousand 
+ 
+Dec. 31, 2018
+Dec. 31, 2017 
+Provisions for pensions and similar obligations 
+133,115
+166,178 
+Provisions for taxes 
+33,084
+19,828 
+Other provisions 
+533,210
+438,037 
+Provisions/accruals 
+699,409
+624,043 
+ 
+In the provisions to pensions and similar obligations, plan assets were offset against 
+obligations in accordance with § 246 [2] sentence 2 HGB. This related to plan assets of the 
+pension trust association “adidas Pension Trust e.V.”. The settlement amount of the 
+pension obligations totaled € 319,472 thousand as at December 31, 2018 (prior year: 
+€ 265,595 thousand). The plan assets were measured at fair value in accordance with 
+§ 255 [4] HGB. As at the balance sheet date, the fair value of the netted assets after 
+funding contribution of € 89,797 thousand, is € 186,357 thousand (prior year: € 99,417 
+thousand) and historical costs amount to € 185,097 thousand (prior year: € 95,300 
+thousand).  
+The pension obligations to six former members of the Executive Board, or their former 
+family members, who retired after December 31, 2005, are covered by a pension fund in 
+combination with a reinsured pension trust fund. This results in indirect obligations for 
+adidas AG to former Board members in the amount of € 34,708 thousand (prior year: 
+€ 31,223 thousand for the related group of people) for which no provisions have been 
+recognized due to their funding through the pension fund and pension trust fund. As at the 
+balance sheet date, there are no shortfalls for the indirect obligations.  
+However, pension provisions have been established for the pension entitlements of three 
+active members of the Executive Board, which amount to € 4,089 thousand before 
+offsetting (prior year: € 4,616 thousand for six Board members). Pension provisions in the 
+amount of € 1,993 thousand have been established for two active members of the 
+Executive Board, whose entitlements were not covered by the adidas Pension Trust e.V in 
+2018. One member of the Executive Board receives a different type of commitment instead 
+31
+
+ 
+ 
+ 
+of pension entitlements for which no provision has been recognized. The provisions for the 
+former members of the Executive Board and their survivors totaled € 73,804 thousand 
+before offsetting as at December 31, 2018 (prior year: € 68,725 thousand). These amounts 
+also include the aforementioned indirect obligations. 
+The difference between the application of the average market interest rate for the past 
+seven fiscal years and the application of the average market interest rate for the past ten 
+fiscal years amounts to € 49,010 thousand. Pursuant to § 253 (6) sentence 2 HGB, this 
+amount is subject to a restriction on distribution. 
+The fair value measurement of assets for the settlement of obligations for pensions 
+results in a total amount of € 1,261 thousand (prior year: € 4,117 thousand) subject to 
+restriction on distribution within the meaning of § 268 [8] HGB prior to offsetting with the 
+freely distributable reserves as at December 31, 2018.  
+The largest item in other provisions concerns provisions for personnel of € 210,371 
+thousand (prior year: € 224,757 thousand). This amount is primarily attributable to 
+provisions for performance-based remuneration components. Additional significant items 
+in other provisions are provisions for marketing of € 128,810 thousand (prior year: 
+€ 77,314 thousand) and provisions for outstanding invoices of € 77,201 thousand (prior 
+year: € 69,967 thousand). There are also provisions for forward contracts in an amount of 
+€ 61,329 thousand (prior year: € 24,417 thousand). These are recorded for unrealized 
+losses from derivative futures as well as for hedge accounting. In addition, a provision for 
+impending losses from pending transactions in an amount of € 37,600 thousand (prior 
+year € 10,080 thousand) is included. 
+ 
+ 
+32
+
+ 
+ 
+ 
+14. Liabilities 
+ 
+Liabilities 
+€ thousand
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dec. 31, 2018 
+ 
+Dec. 31, 2017
+ 
+Total 
+Residual 
+term up to 1 
+year 
+Residual term 
+1-5 years 
+Residual 
+term more 
+than 5 years
+Prior year 
+total 
+ 
+Bonds 
+1,500,000
+0 
+1,100,000
+400,000 
+1,030,600 
+(previous year) 
+(0) 
+(630,600)
+(400,000) 
+ 
+of which convertible 
+0 
+1,100,000
+400,000 
+ 
+Liabilities to banks 
+150,000
+9,375 
+75,000
+65,625 
+462 
+(previous year) 
+(462) 
+(0)
+(0) 
+ 
+Trade accounts payable 
+169,157
+168,271 
+886
+0 
+151,804 
+(previous year) 
+(144,999) 
+(6,805)
+(0) 
+ 
+Liabilities to affiliated companies 
+4,235,652
+4,225,652 
+10,000
+0 
+4,271,111 
+(previous year) 
+(3,821,111) 
+(450,000)
+(0) 
+ 
+Other liabilities 
+84,779
+84,779 
+0
+0 
+76,619 
+(previous year) 
+(74,160) 
+(2,459)
+(0) 
+ 
+of which from taxes 
+11,250 
+0
+0 
+4,508 
+of which relating to social security 
+5,431 
+0
+0 
+2,554 
+Dec. 31, 2018 
+6,139,588
+4,488,077 
+1,185,886
+465,625 
+5,530,596 
+Dec. 31, 2017 
+(4,040,732) 
+(1,089,864)
+(400,000) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The liabilities are unsecured. 
+The liabilities to affiliated companies primarily relate to liabilities from Group Treasury 
+activities. Trade payables to affiliated companies amount to € 113,059 thousand (prior 
+year: € 95,343 thousand). 
+Other liabilities include tax and customs liabilities, liabilities relating to social security and 
+similar obligations, accrued interest not yet payable, credit balances in accounts 
+receivable, option premiums paid by subsidiaries, and salaries and commissions payable. 
+The convertible bond had a maximum maturity including prolongation option until 2019 
+and was originally divided into 2,500 bearer bonds with equal rights, each in the nominal 
+amount of € 200 thousand. The bondholder had the right to convert each bond in full, but 
+not partially, into registered common shares (no-par-value shares) during an exercise 
+period. In the 2018 fiscal year bondholders exercised their right to convert bonds, and in 
+December 2018 the remaining amount was paid to the remaining bondholder including 
+33
+
+ 
+ 
+ 
+interest as adidas AG exercised its right of termination. Therefore, adidas AG no longer 
+has a liability related to the convertible bond as at December 31, 2018. 
+In 2014, adidas AG issued bonds with a total value of € 1,000,000 thousand. The € 600,000 
+thousand Eurobond matures in 2021; the € 400,000 thousand Eurobond matures in 2026. 
+Both bonds are listed on the Luxembourg securities exchange in denominations of € 1 
+thousand each. 
+In 2018 adidas AG issued an equity-neutral convertible bond with a total volume of 
+€ 500,000 thousand. The equity-neutral convertible bond matures in 2023 and was 
+originally divided into 2,500 bearer bonds with equal rights, each in the nominal amount of 
+€ 200 thousand. 
+ 
+15. Deferred income 
+ 
+The increase in the deferred income primarily relates to a premium in the amount of 
+€ 18,784 thousand for the issuance of a convertible bond in 2018. 
+ 
+16. Contingent liabilities and other financial commitments 
+ 
+Contingent liabilities 
+€ thousand 
+ 
+Dec. 31, 2018 
+Dec. 31, 2017 
+Warranty obligations 
+893,946 
+615,591 
+of which for affiliated companies 
+ 
+ 
+- Bank loans 
+99,192 
+87,944 
+- Letters of credit 
+90,825 
+65,852 
+- Guarantee agreements 
+703,929 
+461,795 
+ 
+The guarantee obligations for bank loans to affiliated companies are from lines of credit 
+drawn on by affiliated companies. adidas AG’s letters of credit are mainly import letters of 
+34
+
+ 
+ 
+ 
+credit in connection with product purchases in the Far East. The guarantee agreements 
+are with various subsidiaries and secure mainly rent contracts. 
+Other liabilities relate to absolute guarantees of adidas AG for the benefit of affiliated 
+companies. Comfort letters in unlimited amounts for the benefit of five (prior year: seven) 
+affiliated companies were issued as at December 31, 2018. The risk of these being utilized 
+is deemed to be low.  
+adidas AG declares support, except in the case of political risk, for 93 affiliated companies, 
+that they are able to meet their contractual liabilities. This declaration replaces the 
+declaration of 2018 dated February 23, 2018, which is no longer valid. The declaration of 
+support automatically ceases from the time that a company no longer is a subsidiary of 
+adidas AG. 
+Since the liabilities assumed arise in the normal course of business and due to the current 
+strong financial position of the respective adidas Group affiliated companies, the risk that 
+these will be called on is considered extremely slight. 
+ 
+Other financial commitments 
+Other financial commitments of € 2.269.572 thousand (prior year: € 2,109,982 thousand) 
+for adidas AG include amounts for the entire foreseeable contractual period for promotion, 
+advertising, rental and leasing agreements as at December 31, 2018.  
+ 
+Maturities 
+€ thousand 
+in 2018 
+422,667
+2019-2022 
+940,265
+after 2022 
+906,640
+ 
+2,269,572
+ 
+The contracted other financial commitments provide adidas AG with planning certainty on 
+the one hand and, on the other hand, they ensure that the Company has the necessary 
+liquidity. The risk of making payments that are not covered by the relevant contracts is 
+considered to be very low. 
+35
+
+ 
+ 
+ 
+The adidas Group purchases more than 80% of its products in Asia. Since a major 
+proportion of the product costs relate to raw materials that the suppliers have to purchase 
+in US dollars (USD), billings to the adidas Group are also made mainly in USD. In contrast, 
+sales by Group companies to customers are mainly in euros (€), pounds sterling (GBP), 
+Japanese yen (JPY), and in many other currencies. Currency hedges are entered into to 
+reduce the risk of changes in fair value and in cash flows (currency risks). Most 
+subsidiaries hedge their currency risks through adidas AG, except for those subsidiaries 
+that are unable to hedge through adidas AG due to local currency restrictions, or for whom 
+it is more sensible to hedge locally for economic reasons. Currency risks that are 
+assumed by adidas AG from subsidiaries by entering into inter-Group currency 
+transactions are strategically hedged with banks for a period of up to 24 months in 
+advance using forward exchange transactions, currency swaps, currency options, or a 
+combination of currency options, which provide protection and, at the same time, the 
+opportunity to profit from future beneficial foreign exchange rate movements on financial 
+markets. In 2018, the adidas Group purchased around USD 3.8 billion net to hedge its 
+operating business.  
+Due to procurement of the majority of goods in the Far East and the adidas Group’s global 
+operations, the worldwide distribution of goods in an important component of the Group’s 
+business. At the current time – due to continuing low commodity prices – no hedging of 
+commodity futures takes place. This strategy is reviewed regularly.  
+ 
+Outstanding financial derivatives 
+€ thousand 
+ 
+Dec. 31, 2018
+Dec. 31, 2017
+Notional amounts 
+Currency hedging contracts 
+17,171,801
+16,861,372
+Equity instruments 
+607,434
+58,001
+ 
+17,779,235
+16,919,373
+ 
+The notional volume of option structures is included only once in the notional amounts. 
+The equity instruments serve to hedge a Long-Term Incentive Plan (LTIP), a share-based 
+remuneration scheme with cash settlement, and the conversion privilege of the 
+36
+
+ 
+ 
+ 
+convertible bond. The company uses derivative instruments to hedge against the risk of 
+share price fluctuations. The fair value is based on the market price of the adidas AG share 
+as at December 31, 2018 - and concerning the LTIP multiplied by the notional volume less 
+accrued interest -. 
+ 
+Outstanding financial derivatives 
+€ thousand
+ 
+ 
+ 
+ 
+ 
+Dec. 31, 2018
+Dec. 31, 2017 
+ 
+Carrying amount 
+Fair value Carrying amount
+Fair value 
+Assets (Other assets) 
+ 
+ 
+ 
+ 
+Currency hedging contracts 
+0 
+269,113
+0
+315,703 
+Equity instruments 
+0 
+22,942
+0
+0 
+ 
+ 
+ 
+Liabilities (Provision for contingent losses) 
+ 
+ 
+Currency hedging contracts 
+-61,328 
+-273,336
+-21,702
+-318,966 
+Equity instruments 
+0 
+-19,796
+-2,716
+-4,463 
+ 
+-61,328 
+-1,077
+-24,418
+-7,726 
+ 
+Notional amounts represent the gross total of all call and put contracts for derivative 
+financial transactions. Fair values of forward exchange transactions are determined based 
+on current ECB reference exchange rates or reference exchange rates of local central 
+banks, together with forward premiums or discounts. The fair values (gains and losses) of 
+the currency hedging contracts are presented as gross values. 
+Currency options are measured using market quotes or option pricing models (Garman-
+Kohlhagen model).  
+The notional amounts of outstanding financial derivatives in foreign currency are 
+translated into euros at year-end closing rates.  
+The carrying values are taken from the balance sheet. 
+The table below provides an overview of the risks hedged. The underlying transactions 
+within a portfolio are secured with one or more hedging instruments (portfolio hedge): 
+ 
+ 
+37
+
+ 
+ 
+ 
+Hedged risk as of the balance sheet date 
+€ thousand / Maturity 
+ 
+Notional
+Net change in fair 
+value
+Maturity 
+Currency risk 
+ 
+Risk 
+ 
+Forward exchange transactions and options with subsidiaries 
+6,759,832
+-98,828
+1 - 21 months 
+Hedging 
+ 
+Forward exchange transactions and options with banks 
+6,885,552
+98,835
+1 - 21 months 
+Risk 
+ 
+Equity instrument with subsidiaries 
+39,082
+-1,201
+13 - 25 month 
+Hedging 
+539,082
+20,996
+13 - 57 month 
+Equity instrument with banks 
+-500,000
+-19,796
+57 month 
+ 
+The difference in the notional amount relates to internal forward exchange transactions 
+without an external hedge. The foreign currency requirement of one subsidiary is covered 
+with the excess of the same foreign currency of another subsidiary (natural hedge). 
+ 
+17. Sales 
+ 
+adidas AG’s business activities are primarily concentrated in one sector, specifically the 
+development, trading and marketing of sports and leisure articles. In addition, adidas AG 
+generates a substantial portion of its revenues from licensing income, primarily from 
+affiliated companies. 
+Sales 
+€ thousand 
+ 
+2018 
+2017 
+Breakdown by product group 
+ 
+ 
+Shoes 
+995,914 
+845,504 
+Textiles 
+460,135 
+383,648 
+Sports equipment 
+78,686 
+71,844 
+ 
+1,534,736 
+1,300,977 
+ 
+ 
+ 
+Other sales revenues 
+692,385 
+622,507 
+Licensing income 
+1,900,157 
+1,808,802 
+Sales 
+4,127,278 
+3,732,306 
+ 
+38
+
+ 
+ 
+ 
+Of these revenues, € 2,140,094 thousand (prior year: € 1,822,166 thousand) was generated 
+in Germany and € 1,987,184 thousand (prior year: € 1,910,140 thousand) outside Germany, 
+mainly in Europe. 
+ 
+18. Other operating income 
+ 
+Other operating income consists mainly of € 372,242 thousand in foreign currency gains 
+(prior year: € 431,538 thousand). Other operating income also includes € 49,700 thousand 
+as a result of the release of allowances for doubtful accounts relating to receivables from 
+affiliated companies (prior year: € 0) as well as income relating to other periods of 
+€ 137,562 thousand (prior year: € 41,176 thousand). This income includes essentially 
+income from the reversal of provisions in an amount of € 69,202 thousand (prior year: 
+€ 26,710 thousand).  
+ 
+19. Cost of materials 
+ 
+Cost of materials 
+€ thousand
+2018 
+2017
+Cost of raw materials, consumables and supplies, and of 
+purchased merchandise 
+1,084,256 
+907,322
+Cost of purchased services 
+454,188 
+385,160
+Cost of materials 
+1,538,444 
+1,292,482
+ 
+ 
+ 
+39
+
+ 
+ 
+ 
+ 
+20. Personnel expenses 
+ 
+Personnel expenses
+€ thousand
+ 
+2018 
+2017
+Wages and salaries 
+589,075 
+580,819
+Social security, post-employment and other employee benefit 
+costs 
+141,822 
+111,245
+of which for old-age pensions 
+56,996 
+33,153
+Personnel expenses 
+730,897 
+692,064
+The increase in personnel expenses was due to higher employee headcounts and higher 
+salaries than in the prior year due to salary increases.  
+ 
+21. Amortization and write-downs of intangible fixed assets and depreciation 
+and write-downs of tangible fixed assets 
+ 
+Amortization and write-downs of intangible assets of € 51,011 thousand (prior year: 
+€ 44,845 thousand) relates to trademark rights as well as to computer software and 
+licenses. Depreciation and write-downs of tangible fixed assets of € 46,558 thousand 
+(prior year: € 45,710 thousand) relates primarily to write-downs of € 15,014 thousand 
+(prior year: € 14,261 thousand) on buildings, write-downs of € 9,187 thousand (prior year: 
+€ 11,231 thousand) on operating and office equipment and write-downs on computer 
+hardware of € 8,600 thousand (prior year: € 7,024 thousand), as well as depreciation of 
+technical equipment and machinery amounting to € 7,124 thousand ( prior year € 5,293 
+thousand). 
+ 
+ 
+40
+
+ 
+ 
+ 
+22. Other operating expenses 
+ 
+Other operating expenses essentially comprise cost transfers, currency exchange losses, 
+advertising and promotional expenses, legal and consultancy fees, services, travel 
+expenses, rental and lease charges, postal and telephone expenses, and outgoing freight. 
+The € 112.038 thousand increase in these expenses essentially results from the increase 
+in advertising and promotional expenses by € 147,231 thousand to € 637,544 thousand. 
+Currency exchange losses decreased by € 13,917 thousand to € 443,111 thousand, 
+expenses for legal and consultancy fees decreased by € 6,265 thousand to € 261,850 
+thousand. In addition, the allowance for doubtful accounts relating to receivables 
+decreased by € 68,858 thousand to € 18,716 thousand. The allowance for doubtful 
+accounts in 2018 relates mainly to an allowance for a receivable from an affiliated 
+company. Other operating expenses include expenses not relating to the accounting period 
+in an amount of € 41,004 thousand (prior year: € 21,035 thousand). Thereof, € 37,600 
+thousand (prior year: € 10,080 thousand) relates to a provision for risks, € 2,422 thousand 
+(prior year: 9,831 thousand) relates to the disposal of fixed assets and € 982 thousand 
+(prior year € 1,124 thousand) relates to obligations to reverse constructional changes to 
+office buildings, plants and retail stores. 
+ 
+23. Income from investments in related companies 
+ 
+Income from adidas AG’s investments in related companies amounted to € 824,407 
+thousand (prior year: € 155,420 thousand) and essentially relates to dividend payments 
+from subsidiaries in the Netherlands, Korea, Chile and Thailand.  
+ 
+ 
+41
+
+ 
+ 
+ 
+24. Profits received/losses absorbed in accordance with a profit and loss 
+transfer agreement 
+ 
+A profit and loss transfer agreement exists with adidas Insurance & Risk Consultants 
+GmbH, Herzogenaurach, adidas Beteiligungsgesellschaft mbH, Herzogenaurach and with 
+adidas anticipation GmbH, Herzogenaurach. The significant change is attributable to the 
+transfer of a gain from adidas Beteiligungsgesellschaft mbH amounting to € 719,773 
+thousand (prior year: gain of € 500,426 thousand). 
+ 
+25. Interest result 
+ 
+Interest result 
+€ thousand 
+ 
+2018 
+2017
+Income from loans of long-term financial assets 
+399 
+0
+of which from affiliated companies 
+399 
+0
+Other interest and similar income 
+48,051 
+40,622
+of which from affiliated companies 
+45,788 
+39,313
+Interest and similar expenses 
+-51,397 
+-40,376
+of which to affiliated companies 
+-16,644 
+-6,594
+Interest result 
+-2,947 
+247
+ 
+Interest and similar expenses include € 12,670 thousand (prior year: € 8,429 thousand) 
+from the compounding and discounting of provisions, of which € 12,627 thousand (prior 
+year: € 8,360 thousand) relates to the interest expense in connection with pension 
+provisions. 
+ 
+ 
+42
+
+ 
+ 
+ 
+26. Taxes on income 
+ 
+Taxes on income mainly include municipal trade tax and withholding tax on interest and 
+licensing income, interest and dividends resulting from the collection of this income from 
+outside Germany. 
+Taxes on income does not include any gains or losses from deferred taxes. 
+adidas AG exercises the statutory right concerning the balancing of deferred tax assets 
+and deferred tax liabilities in accordance with § 274 (1) sentence 3 HGB. In accordance 
+with the option under § 274 (1) sentence 2 HGB, adidas AG has opted to forgo recognizing 
+the surplus deferred tax assets of € 61,521 thousand in future tax benefits due to 
+temporary accounting differences (prior year: € 32,559 thousand). This amount was 
+calculated based on a combined income tax rate of 28%. 
+Deferred tax assets result primarily from other assets, intangible assets and forward 
+exchange transactions. Deferred tax liabilities result essentially in relation to pension 
+provisions, land and shares in affiliated companies. 
+ 
+27. Remuneration of the Executive Board and the Supervisory Board 
+ 
+Executive Board 
+The overall compensation of the members of the Executive Board in the 2018 financial 
+year amounted to € 10,532 thousand (previous year: € 33,113 thousand). In addition, a 
+total LTIP Bonus amount of € 10,186 thousand was granted to the Executive Board 
+members which must be invested in the acquisition of adidas AG shares after deduction of 
+applicable taxes and social security contributions. These shares are subject to a lock-up 
+period which ends in the third financial year after the acquisition of the shares upon expiry 
+of the month in which the Annual General Meeting of adidas AG takes place. The LTIP 
+payout amount is considered earned only after expiry of the lock-up period and only then 
+can the Executive Board members dispose of the shares at their own discretion. By 
+contrast, the amount deducted for income tax and social security contributions is already 
+43
+
+ 
+ 
+ 
+fully earned at the time of payout following the adoption of the consolidated financial 
+statements by the Supervisory Board. 
+ 
+ 
+Pension commitments  
+€ thousand 
+ 
+Service cost   
+Accumulated pension obligation for 
+the pension commitments excluding 
+deferred compensation 
+ 
+2018
+2017
+2018
+2017 
+Executive Board members incumbent as at Dec. 31, 2018 
+ 
+Kasper Rorsted  
+918
+1,068
+1,958
+1,360 
+Roland Auschel 
+314
+307
+1,475
+1,263 
+Eric Liedtke 
+322
+324
+1,410
+1,160 
+Harm Ohlmeyer (since March 7, 2017)  
+373
+322
+656
+322 
+Karen Parkin (since May 12, 2017) 
+357
+248
+583
+248 
+Gil Steyaert (since May 12, 2017) 1) 
+562
+263
+826
+263 
+Total 
+2,846
+2,532
+6,908
+4,616 
+ 
+Executive Board members who retired in 2017 
+2018
+2017
+2018
+2017 
+Glenn Bennett (until August 4, 2017)  
+350
+350
+0
+0 
+Robin J. Stalker (until the end of the general executive meeting 
+May 11, 2017) 
+332
+332
+0
+0 
+Total 
+682
+682
+0
+0 
+1) Because of the change of the pension plan of Gil Steyaert in 2018 the gross amount that the company has paid into the special 
+account of Gil Steyaert during the affected business year includes also the partial supplementary entry for 2017. The defined benefit 
+obligation of the pension plan of Gil Steyaert corresponds to the gross amount that the company has paid into the special account of Gil 
+Steyaert since his membership in the Executive Board. 
+ 
+Further information is contained in the compensation report in the combined Management 
+Report. 
+Former members of the Executive Board and their survivors or their former family 
+members received a total of € 3,746 thousand in benefits in the 2018 fiscal year (prior 
+year: € 13,502 thousand). The lower total amounts compared to the prior year are due to 
+the fact that in 2017 the compensations for the former Executive Board members Herbert 
+Hainer, Robin J. Stalker and Glenn Bennett, who left the company in 2016 and 2017, was 
+included.  
+44
+
+ 
+ 
+ 
+Provisions for pension entitlements have been created for the former members of the 
+Executive Board who resigned on or before December 31, 2005 and their surviving 
+dependents or former family members, in an amount of € 39,096 thousand in total as at 
+December 31, 2018 before netting with the assets of the “adidas Pension Trust e.V.” (prior 
+year: € 37,501 thousand). 
+There are pension commitments towards six former Executive Board members or their 
+former family members who resigned after December 31, 2005, which are covered by a 
+pension fund or a pension fund in combination with a reinsured pension trust fund. From 
+this, indirect obligations amounting to € 34,708 thousand (prior year: € 31,223 thousand) 
+arise for adidas AG, for which no accruals were established due to financing through the 
+pension fund and pension trust fund.  
+ 
+The Executive Board members have not received any loans and advance payments from 
+adidas AG. 
+ 
+Supervisory Board 
+The annual total compensation for members of the Supervisory Board in accordance with 
+the Articles of Association was € 2,329 thousand (prior year: € 1,902 thousand). This 
+includes attendance fees in a total amount of € 129 thousand (prior year € 127 thousand). 
+The increase in the total compensation for the 2018 fiscal year compared to the 2017 
+financial year is attributable to the increase in the compensation of the Supervisory Board 
+effective July 1, 2017. 
+The Supervisory Board members have not received any loans or advance payments from 
+adidas AG. 
+ 
+ 
+45
+
+ 
+ 
+ 
+28. Other disclosures 
+ 
+No. of employees (annual average) 
+ 
+2018 
+2017 
+ 
+Total 
+Salaried 
+Wage 
+Total 
+Salaried 
+Wage 
+Global Sales 
+579 
+579
+0 
+547
+547
+0 
+ 
+ 
+ 
+ 
+Headquarters 
+ 
+ 
+ 
+Corporate Services 
+2,205 
+2,103
+102 
+2,040
+1,930
+110 
+Marketing 
+1,800 
+1,800
+0 
+1,736
+1,736
+0 
+Operations 
+2,156 
+1,066
+1,090 
+1,932
+1,009
+923 
+ 
+ 
+ 
+ 
+Market Europe 
+995 
+850
+145 
+943
+842
+101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7,735 
+ 
+7,198
+ 
+ 
+ 
+ 
+ 
+As of December 31 
+7,830 
+ 
+7,555
+ 
+ 
+Recommendation on the appropriation of the retained earnings of adidas AG 
+The Executive Board of adidas AG will propose to use retained earnings of adidas AG in an 
+amount of € 705,413 thousand as reported in the 2018 financial statements of adidas AG 
+for a dividend payment of € 3.35 per dividend-entitled share. The subsequent remaining 
+amount will be carried forward. 
+ 
+Declaration on the German Corporate Governance Code 
+In February 2019, the Executive Board and Supervisory Board of adidas AG issued an 
+updated Declaration of Compliance in accordance with § 161 AktG and made it 
+permanently available to the shareholders. The full text of the Declaration of Compliance 
+is available on the Company’s corporate website. 
+ 
+ 
+46
+
+ 
+ 
+ 
+Disclosures pursuant to § 285 no. 10 HGB  
+The disclosures pursuant to § 285 no. 10 HGB are contained in Appendix 1 to the notes to 
+the financial statements. 
+ 
+Disclosures pursuant to § 285 no. 17 HGB 
+The fee for audit services provided by KPMG AG WPG related primarily to the audit of the 
+consolidated financial statements and the annual financial statements of adidas AG as 
+well as to the audit of the annual financial statements of its subsidiary, adidas CDC 
+Immobilieninvest GmbH. In addition, audit-integrated project-related IT audits were 
+carried out. 
+Other confirmation services consist of audits which are either required by law or 
+contractually agreed, such as the audit of the Compliance Management System (IDW AuS 
+980), European Market Infrastructure Regulation (EMIR) audits according to § 20 WpHG, 
+audits according to the German Packaging Ordinance (Verpackungsverordnung – 
+VerpackV), audits of the utilization of funds, and other contractually agreed-upon 
+confirmation services. 
+The tax consultancy services include support services for transfer pricing and consulting 
+for sales taxes on a case-by-case basis. 
+Other services provided by the auditor consist of supporting services to ensure the quality 
+of sales transactions. 
+In accordance with § 285 no. 17 HGB, the Company has opted not to include a disclosure of 
+the total audit fee charged by the auditor in this report, since such disclosures are already 
+contained in the consolidated financial statements of the adidas Group. 
+ 
+ 
+47
+
+ 
+ 
+ 
+Disclosures pursuant to § 285 no. 33 HGB 
+The Supervisory Board of adidas AG has appointed Martin Shankland to the Executive 
+Board as Board Member responsible for Global Operations effective March 4, 2019. He 
+succeeds Gil Steyaert who has left the Executive Board as of February 26, 2019. 
+ 
+No further company-specific subsequent events are known which might have a material 
+influence on the assets, liabilities, financial position and profit or loss of the company. 
+  
+In its function as the ultimate parent, adidas AG, Herzogenaurach (Local Court of Fürth, 
+HRB 3868), prepares consolidated financial statements, which are published in the 
+electronic Federal Gazette. 
+ 
+ 
+Herzogenaurach, February 27, 2019 
+ 
+ 
+ 
+ 
+ 
+The Executive Board of adidas AG 
+ 
+ 
+ 
+signed Kasper Rorsted 
+ 
+signed Roland Auschel 
+ 
+signed Eric Liedtke 
+ 
+ 
+signed Harm Ohlmeyer 
+ 
+signed Karen Parkin 
+ 
+48
+
+*Employee representative 
+ 
+Appendix 1 to the notes 
+ 
+ 
+Supervisory Board 
+ 
+ 
+IGOR LANDAU 
+CHAIRMAN 
+residing in Lugano, Switzerland 
+born on July 13, 1944 
+Member of the Supervisory Board of adidas AG since May 13, 2004 
+Pensioner 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+SABINE BAUER* 
+DEPUTY CHAIRWOMAN 
+residing in Erlangen, Germany 
+born on January 16, 1963 
+Member of the Supervisory Board of adidas AG since May 20, 1999 
+Full-time member of the Works Council Herzogenaurach, adidas AG 
+Chairwoman of the European Works Council, adidas AG 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+WILLI SCHWERDTLE 
+DEPUTY CHAIRMAN 
+residing in Munich, Germany 
+born on April 14, 1953 
+Member of the Supervisory Board of adidas AG since May 13, 2004 
+Independent Management Consultant as well as Partner, WP Force Solutions GmbH, Bad 
+Homburg v. d. Höhe, Germany 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Member of the Supervisory Board, Eckes AG, Nieder-Olm, Germany 
+ Chairman of the Supervisory Board, Windeln.de SE, Munich, Germany 
+ 
+ 
+ 
+ 
+ 
+ 
+49
+
+*Employee representative 
+ 
+Appendix 1 to the notes 
+ 
+ 
+ 
+DR. FRANK APPEL 
+residing in Königswinter near Bonn, Germany 
+born on July 29, 1961 
+Member of the Supervisory Board of adidas AG since May 9, 2018 
+Chief Executive Officer, Deutsche Post AG, Bonn, Germany 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+IAN GALLIENNE 
+residing in Gerpinnes, Belgium 
+born on January 23, 1971 
+Member of the Supervisory Board of adidas AG since June 15, 2016 
+Co-Chief Executive Officer, Groupe Bruxelles Lambert, Brussels, Belgium 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Member of the Board of Directors, Pernod Ricard SA, Paris, France 
+ Member of the Board of Directors, SGS SA, Geneva, Switzerland 
+Mandates within the Groupe Bruxelles Lambert or in entities under common control with the 
+Groupe Bruxelles Lambert: 
+ Member of the Board of Directors, Imerys SA, Paris, France 
+ Member of the Board of Directors, Sienna Capital S.à r.l., Strassen, Luxembourg 
+ Member of the Board of Directors, Erbe SA, Loverval, Belgium1 
+ Member of the Board of Directors, Compagnie Nationale à Portefeuille SA, Loverval, 
+Belgium2 
+ Member of the Board of Directors, Frère-Bourgeois SA, Loverval, Belgium3 
+ Member of the Board of Directors, Château Cheval Blanc, Société Civile, Saint 
+Emilion, France4 
+ Member of the Board of Directors, GBL Energy S.à r.l., Strassen, Luxembourg5 
+ Member of the Board of Directors, GBL Advisors Ltd, London, United Kingdom6 
+ Member of the Board of Directors, GBL Development Ltd, London, United Kingdom7 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Until January 12, 2018. 
+2 Since April 30, 2018. 
+3 Since January 12, 2018. 
+4 Since December 17, 2018. 
+5 Until June 25, 2018. 
+6 Since January 19, 2018. 
+7 Since May 29, 2018. 
+50
+
+*Employee representative 
+ 
+Appendix 1 to the notes 
+ 
+ 
+DIETER HAUENSTEIN* 
+residing in Herzogenaurach, Germany 
+born on January 13, 1957 
+Member of the Supervisory Board of adidas AG since May 7, 2009 
+Specialist for job safety, adidas AG 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+DR. WOLFGANG JÄGER* 
+residing in Bochum, Germany 
+born on August 3, 1954 
+Member of the Supervisory Board of adidas AG since May 7, 2009 
+Research Fellow at the Institute for Social Movements at the Ruhr Universität Bochum, 
+Expert Commission ’Cultures of remembrance of social democracy‘ of Hans-Böckler-Stiftung, 
+Bochum, Germany  
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+HERBERT KAUFFMANN 
+residing in Stuttgart, Germany 
+born on April 20, 1951 
+Member of the Supervisory Board of adidas AG since May 7, 2009 
+Independent Management Consultant, Stuttgart, Germany 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Member of the Supervisory Board, DEUTZ AG, Cologne, Germany8 
+ 
+ 
+ 
+KATJA KRAUS 
+residing in Hamburg, Germany 
+born on November 23, 1970 
+Member of the Supervisory Board of adidas AG since May 8, 2014 
+Author/Managing Partner, Jung von Matt/sports GmbH, Hamburg, Germany 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+8 Until April 26, 2018. 
+51
+
+*Employee representative 
+ 
+Appendix 1 to the notes 
+ 
+ 
+ 
+KATHRIN MENGES 
+residing in Neuss, Germany 
+born on October 16, 1964 
+Member of the Supervisory Board of adidas AG since May 8, 2014 
+Executive Vice President Human Resources and Infrastructure Services, 
+Henkel AG & Co. KGaA, Düsseldorf, Germany 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+Mandates within the Henkel Group: 
+ Member of the Supervisory Board, Henkel Central Eastern Europe GmbH, Vienna, 
+Austria 
+ Member of the Supervisory Board, Henkel Nederland B.V., Nieuwegein, 
+The Netherlands 
+ Member of the Board of Directors, Henkel Norden AB, Stockholm, Sweden 
+ Member of the Board of Directors, Henkel Finland Oy, Vantaa, Finland 
+ 
+ 
+ 
+UDO MÜLLER* 
+residing in Herzogenaurach, Germany 
+born on April 14, 1960 
+Member of the Supervisory Board of adidas AG since October 6, 2016 
+Chairman Works Council Herzogenaurach, adidas AG 
+Full-time member of the Works Council Herzogenaurach, adidas AG 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+ROLAND NOSKO* 
+residing in Wolnzach, Germany 
+born on August 19, 1958 
+Member of the Supervisory Board of adidas AG since May 13, 2004 
+Trade Union Official, IG BCE, Headquarters Nuremberg, Nuremberg, Germany 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Deputy Chairman of the Supervisory Board, CeramTec GmbH, Plochingen, Germany 
+ Member of the Supervisory Board, Plastic Omnium Automotive Exteriors GmbH, 
+Munich, Germany 
+ 
+ 
+ 
+ 
+ 
+52
+
+*Employee representative 
+ 
+Appendix 1 to the notes 
+ 
+ 
+ 
+HANS RUPRECHT* 
+residing in Herzogenaurach, Germany 
+born on April 18, 1954 
+Member of the Supervisory Board of adidas AG since January 1, 2002 
+Vice President Customer Service Central, adidas AG 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+NASSEF SAWIRIS 
+residing in London, Great Britain 
+born on January 19, 1961 
+Member of the Supervisory Board of adidas AG since June 15, 2016 
+Chief Executive Officer & Member of the Board of Directors, OCI N.V., Amsterdam, The 
+Netherlands 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Member of the Board of Directors, LafargeHolcim Ltd., Jona, Switzerland 
+Mandates within the OCI N.V. Group: 
+ Member of the Board of Directors, OCI Partners LP, Wilmington, Delaware, USA9 
+ 
+ 
+ 
+HEIDI THALER-VEH* 
+residing in Uffenheim, Germany 
+born on November 14, 1962 
+Member of the Supervisory Board of adidas AG since April 13, 1994 
+Full-time member of the Works Council Uffenheim, adidas AG 
+Chairwoman of the Works Council Uffenheim, adidas AG 
+Deputy Chairwoman of the Central Works Council, adidas AG 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+ 
+9 Until July 16, 2018. 
+53
+
+*Employee representative 
+ 
+Appendix 1 to the notes 
+ 
+ 
+KURT WITTMANN* 
+residing in Markt Bibart, Germany 
+born on July 11, 1963 
+Member of the Supervisory Board of adidas AG since October 6, 2016 
+Full-time member of the Works Council Herzogenaurach, adidas AG 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+SUPERVISORY BOARD MEMBERS INCUMBENT UNTIL THE END OF THE ANNUAL 
+GENERAL MEETING ON MAY 9, 2018: 
+ 
+ 
+ 
+DR. STEFAN JENTZSCH 
+residing in New York, USA 
+Corporate Finance Consultant/Partner, Perella Weinberg Partners LP, New York, USA 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Deputy Chairman of the Supervisory Board, AIL Leasing München AG, Grünwald, 
+Germany 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+54
+
+ 
+Appendix 1 to the notes 
+ 
+ 
+Executive Board 
+ 
+ 
+KASPER RORSTED, PÖCKING, GERMANY 
+Chief Executive Officer 
+ 
+Membership in control bodies pursuant to § 285 para. 10 HGB: 
+ Member of the Supervisory Board, Bertelsmann SE & Co. KGaA / Bertelsmann 
+Management SE, Gütersloh, Germany 
+ Member of the Board of Directors, Nestlé S.A., Vevey, Switzerland1 
+ 
+ 
+ 
+ROLAND AUSCHEL, ERLANGEN, GERMANY 
+Executive Board member in charge of Global Sales 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+ERIC LIEDTKE, ERLANGEN, GERMANY 
+Executive Board member in charge of Global Brands 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Member of the Board of Directors, Carbon, Inc., Redwood City, USA 
+ 
+ 
+ 
+HARM OHLMEYER, RÖTTENBACH, GERMANY 
+Chief Financial Officer 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+ 
+ 
+1 Since April 12, 2018. 
+55
+
+ 
+Appendix 1 to the notes 
+ 
+ 
+ 
+KAREN PARKIN, PORTLAND, USA 
+Executive Board member in charge of Global Human Resources 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ none 
+ 
+ 
+ 
+GIL STEYAERT, WILMSLOW, GREAT BRITAIN (until February 26, 2019) 
+Executive Board member in charge of Global Operations 
+ 
+Membership in control bodies pursuant to § 285 sec. 10 HGB: 
+ Member of the Supervisory Board, Fashion for Good B.V., Amsterdam, The 
+Netherlands2 
+ 
+ 
+2 Since September 1, 2018. 
+56
+
+Shareholdings of adidas AG, Herzogenaurach
+at December 31, 2018
+Company and Domicile
+Germany
+1 adidas Insurance & Risk Consultants GmbH 2) 
+Herzogenaurach (Germany)
+EUR
+26
+directly
+100
+-
+2 adidas Beteiligungsgesellschaft mbH 2) 
+Herzogenaurach (Germany)
+EUR
+681.990
+directly
+100
+-
+3 adidas CDC Immobilieninvest GmbH  
+Herzogenaurach (Germany)
+EUR
+6.776
+14
+100
+(1.926)
+4 adidas Verwaltungsgesellschaft mbH 3) 
+Herzogenaurach (Germany)
+EUR
+4.277
+75
+100
+(26)
+5 adidas anticipation GmbH 2) 
+Herzogenaurach (Germany)
+EUR
+25
+directly
+100
+-
+ 
+Europe (incl. Middle East and Africa)
+6 adidas sport gmbh  
+Cham (Switzerland)
+CHF
+6.184
+directly
+100
+2.063
+7 adidas Austria GmbH  
+Klagenfurt (Austria)
+EUR
+9.782
+directly
+95,89
+4.306
+6
+4,11
+8 runtastic GmbH  
+Pasching (Austria)
+EUR
+1.788
+10
+100
+(2.637)
+9 adidas France S.a.r.l.  
+Strasbourg (France)
+EUR
+247.926
+directly
+100
+47.629
+10 adidas International B.V.  
+Amsterdam (Netherlands)
+EUR
+7.392.794
+directly
+93,97
+743.115
+9
+6,03
+11 adidas International Trading B.V.  
+Amsterdam (Netherlands)
+EUR
+1.547.114
+10
+100
+714.027
+12 adidas International Marketing B.V.  
+Amsterdam (Netherlands)
+EUR
+55.298
+10
+100
+1.115
+13 adidas International Finance B.V.  
+Amsterdam (Netherlands)
+EUR
+50.660
+10
+100
+4.469
+14 adidas International Property Holding B.V.  
+Amsterdam (Netherlands)
+EUR
+52.371
+85
+100
+1.417
+15 adidas Infrastructure Holding B.V.  
+Amsterdam (Netherlands)
+EUR
+(26)
+10
+100
+(2)
+ 
+16 adidas Benelux B.V.  
+Amsterdam (Netherlands)
+EUR
+4.755
+directly
+100
+4.031
+17 adidas Ventures B.V.   (formerly: Hydra Ventures B.V.)
+Amsterdam (Netherlands)
+EUR
+(43.106)
+10
+100
+(24.553)
+18 adidas (UK) Limited  
+Stockport (Great Britain)
+GBP
+34.728
+10
+100
+27.537
+19 Reebok International Limited 5) 
+London (Great Britain)
+EUR
+326.634
+75
+100
+(19.922)
+20 Trafford Park DC Limited  
+London (Great Britain)             
+GBP
+1.431
+15
+100
+342
+21 Reebok Pensions Management Limited 3) 5) 
+London (Great Britain)             
+GBP
+-
+19
+100
+-
+22 Reebok Europe Holdings  
+London (Great Britain)             
+GBP
+26.714
+19
+100
+221
+23 Luta Limited 3) 5) 
+London (Great Britain)
+GBP
+-
+19
+100
+-
+24 adidas (Ireland) Limited  
+Dublin (Ireland)
+EUR
+2.695
+10
+100
+795
+25 adidas International Re DAC  
+Dublin (Ireland)
+EUR
+20.902
+10
+100
+(970)
+26 Reebok Ireland Limited 3) 
+Dublin (Ireland)
+EUR
+56
+24
+100
+-
+27 Five Ten Europe NV 3) 
+Lasne (Belgium)
+EUR
+(297)
+77
+100
+(27)
+28 adidas España S.A.U.  
+Zaragoza (Spain)
+EUR
+37.838
+2
+100
+8.553
+29 adidas Finance Spain S.A.U.  
+Zaragoza (Spain)
+EUR
+36.496
+75
+100
+107
+30 Global Merchandising, S.L.  
+Madrid (Spain)
+EUR
+10.724
+10
+100
+2.703
+31 adidas Italy S.p.A.  
+Monza (Italy)
+EUR
+56.741
+10
+100
+9.744
+32 adidas Portugal - Artigos de Desporto, S.A.  
+Lisbon (Portugal)
+EUR
+6.209
+10
+100
+768
+33 adidas Business Services Lda.  
+Morea de Maia (Portugal)
+EUR
+1.263
+10
+98
+373
+directly
+2
+34 adidas Norge AS  
+Oslo (Norway)
+NOK
+30.772
+directly
+100
+12.382
+35 adidas Sverige AB  
+Solna (Sweden)
+SEK
+51.600
+directly
+100
+22.828
+36 adidas Finance Sverige AB  
+Solna (Sweden)
+SEK
+270.921
+75
+100
+(1.267)
+37 adidas Suomi Oy  
+Helsinki (Finland)
+EUR
+1.549
+10
+100
+579
+38 adidas Danmark A/S  
+Copenhagen (Denmark)
+DKK
+26.514
+10
+100
+18.307
+39 adidas CR s.r.o.  
+Prague (Czech Republic)
+CZK
+131.939
+directly
+100
+44.111
+40 adidas Budapest Kft.  
+Budapest (Hungary)
+HUF
+881.494
+directly
+100
+328.394
+41 adidas Bulgaria EAD  
+Sofia (Bulgaria)
+BGN
+7.867
+directly
+100
+2.552
+42 LLC 'adidas, Ltd.'  
+Moscow (Russia)
+RUB
+28.254.471
+7
+100
+1.901.321
+43 adidas Poland Sp.z o.o.  
+Warsaw (Poland)
+PLN
+58.588
+directly
+100
+21.552
+44 adidas Finance Poland S.A.  
+Warsaw (Poland)
+PLN
+99.799
+75
+100
+961
+45 adidas Romania S.R.L.  
+Bucharest (Romania)
+RON
+19.954
+10
+100
+2.765
+46 adidas Baltics SIA  
+Riga (Latvia)
+EUR
+1.918
+10
+100
+383
+47 adidas Slovakia s.r.o.  
+Bratislava (Slovak Republic)
+EUR
+1.716
+directly
+100
+928
+48 adidas Trgovina d.o.o.  
+Ljubljana (Slovenia)
+EUR
+649
+directly
+100
+373
+49 SC 'adidas-Ukraine'  
+Kiev (Ukraine)
+UAH
+935.845
+directly
+100
+202.929
+50 adidas LLP  
+Almaty (Republic of Kazakhstan)
+KZT
+4.604.235
+directly
+100
+1.361.044
+51 adidas Serbia d.o.o.  
+Belgrade (Serbia)
+RSD
+546.663
+10
+100
+127.915
+52 adidas Croatia d.o.o.  
+Zagreb (Croatia)
+HRK
+45.630
+10
+100
+5.959
+53 adidas Hellas A.E.  
+Athens (Greece)
+EUR
+18.931
+directly
+100
+2.621
+Currency
+Equity
+(currency units
+in thousands)
+Share in capital
+held by 1)
+in %
+Profit / Loss
+(currency units
+in thousands)
+Appendix 2 to the notes
+Page  1
+57
+
+Shareholdings of adidas AG, Herzogenaurach
+at December 31, 2018
+Company and Domicile
+Currency
+Equity
+(currency units
+in thousands)
+Share in capital
+held by 1)
+in %
+Profit / Loss
+(currency units
+in thousands)
+54 adidas (Cyprus) Limited  
+Nicosia (Cyprus)
+EUR
+960
+directly
+100
+334
+55 adidas Spor Malzemeleri Satis ve Pazarlama A.S.  
+Istanbul (Turkey)
+TRY
+336.798
+10
+100
+83.153
+56 adidas Emerging Markets L.L.C  
+Dubai (United Arab Emirates)
+USD
+19.067
+indirectly
+51
+267
+9
+49
+57 adidas Emerging Markets FZE  
+Dubai (United Arab Emirates)
+USD
+98.713
+10
+100
+49.421
+58 adidas Levant Limited  
+Dubai (United Arab Emirates)
+JOD
+3.265
+57
+100
+1.620
+59 adidas Levant Limited - Jordan  
+Amman (Jordan)
+JOD
+547
+58
+100
+480
+60 adidas Imports & Exports Ltd.  
+Cairo (Egypt)
+EGP
+(32.413)
+61
+100
+2.042
+61 adidas Sporting Goods Ltd.  
+Cairo (Egypt)
+EGP
+324.812
+10
+90
+66.734
+11
+10
+62 adidas Egypt Ltd. 3) 
+Cairo (Egypt)
+USD
+(1.831)
+directly
+100
+-
+63 Reebok Israel Ltd.  
+Holon (Israel)
+ILS
+17.226
+64
+100
+1.386
+64 Life Sport Ltd.  
+Holon (Israel)
+ILS
+157.921
+10
+85
+70.754
+65 adidas Morocco LLC  
+Casablanca (Morocco)
+MAD
+(34.159)
+directly
+100
+3.463
+66 adidas (South Africa) (Pty) Ltd.  
+Cape Town (South Africa)
+ZAR
+356.671
+directly
+100
+50.923
+North America
+67 adidas North America, Inc.  
+Portland, Oregon (USA)
+USD
+4.763.459
+10
+100
+(11.660)
+68 adidas America, Inc.  
+Portland, Oregon (USA)
+USD
+289.463
+67
+100
+63.293
+69 adidas International, Inc.  
+Portland, Oregon (USA)
+USD
+75.754
+67
+100
+(12.837)
+70 adidas Team, Inc. 3) 
+Des Moines, Iowa (USA)
+USD
+(1.013)
+67
+100
+-
+71 The Reebok Worldwide Trading Company, LLC  
+Wilmington, Delaware (USA)
+USD
+19.501
+75
+100
+1.582
+72 Reebok Securities Holdings LLC 3) 4) 
+Wilmington, Delaware (USA)        
+USD
+-
+75
+100
+-
+73 Onfield Apparel Group, LLC 3) 6) 
+Dover, Delaware (USA)
+USD
+-
+75
+99
+-
+74
+1
+74 Reebok Onfield, LLC 3) 6) 
+Dover, Delaware (USA)
+USD
+-
+75
+100
+-
+75 Reebok International Ltd. 4) 
+Boston, Massachusetts (USA)
+USD
+(1.291.086)
+67
+100
+(28.573)
+76 adidas Indy, LLC 6) 
+Wilmington, Delaware (USA)
+USD
+21.236
+75
+99
+(15.113)
+72
+1
+77 Stone Age Equipment, Inc.  
+Redlands, California (USA)
+USD
+(3.381)
+68
+100
+(2.869)
+78 Spartanburg DC, Inc.  
+Spartanburg, South Carolina (USA)
+USD
+15.120
+68
+100
+2.459
+79 adidas Canada Ltd.  
+Woodbridge, Ontario (Canada)
+CAD
+178.568
+10
+100
+38.309
+Asia
+80 adidas Sourcing Limited  
+Hong Kong (China)
+USD
+354.814
+11
+100
+340.055
+81 adidas Services Limited  
+Hong Kong (China)
+USD
+14.716
+10
+100
+1.229
+82 adidas Hong Kong Limited  
+Hong Kong (China)
+HKD
+502.643
+2
+100
+412.817
+83 Reebok Trading (Far East) Limited  
+Hong Kong (China)
+USD
+31.985
+75
+100
+579
+84 adidas (Suzhou) Co. Ltd.  
+Suzhou (China)
+CNY
+232.265
+2
+100
+2.207
+85 adidas Sports (China) Co. Ltd.  
+Suzhou (China)
+CNY
+8.791.091
+2
+100
+4.699.617
+86 adidas (China) Ltd.  
+Shanghai (China)
+CNY
+394.765
+10
+100
+196.452
+87 adidas Sports Goods (Shanghai) Co., Ltd  
+Shanghai (China)
+CNY
+26
+86
+100
+26
+ 
+88 Runtastic Software Technology (Shanghai) Co., Ltd.  
+Shanghai (China)
+CNY
+7.481
+10
+100
+(478)
+ 
+89 Zhuhai adidas Technical Services Limited 3) 
+Zhuhai (China)
+CNY
+43.971
+80
+100
+1.513
+90 adidas Logistics (Tianjin) Co., Ltd.  
+Tianjin (China)
+CNY
+165.470
+15
+100
+14.083
+91 adidas Business Services (Dalian) Limited  
+Dalian (China)
+CNY
+13.004
+10
+100
+3.564
+92 adidas Japan K.K.  
+Tokyo (Japan)
+JPY
+4.369.376
+10
+100
+2.430.422
+93 adidas Korea LLC.  
+Seoul (Korea)
+KRW
+215.528.205
+directly
+100
+97.977.375
+94 adidas Korea Technical Services Limited  
+Busan (Korea)
+KRW
+4.052.429
+80
+100
+158.120
+95 adidas India Private Limited  
+New Delhi (India)
+INR
+4.630.671
+directly
+10,68
+(5.477)
+10
+89,32
+96 adidas India Marketing Private Limited  
+New Delhi (India)
+INR
+7.958.127
+95
+98,62
+1.916.001
+10
+1,00
+directly
+0,37
+97 adidas Technical Services Private Limited  
+New Delhi (India)
+USD
+3.358
+80
+100
+(49)
+98 Reebok India Company  
+New Delhi (India)
+INR
+(21.458.472)
+108
+93,15
+392.903
+99 PT adidas Indonesia  
+Jakarta (Indonesia)
+IDR
+466.014.543
+10
+99
+87.810.921
+directly
+1
+100 adidas (Malaysia) Sdn. Bhd.  
+Petaling Jaya (Malaysia)
+MYR
+83.232
+directly
+60
+63.203
+10
+40
+101 adidas Philippines Inc.  
+Pasig City (Philippines)
+PHP
+1.052.684
+directly
+100
+646.745
+102 adidas Singapore Pte. Ltd.  
+Singapore (Singapore)
+SGD
+17.682
+directly
+100
+6.479
+103 adidas Taiwan Limited  
+Taipei (Taiwan)
+TWD
+2.226.686
+10
+100
+1.513.412
+104 adidas (Thailand) Co., Ltd.  
+Bangkok (Thailand)
+THB
+1.928.644
+directly
+100
+1.178.132
+105 adidas Australia Pty Limited  
+Mulgrave (Australia)
+AUD
+101.306
+10
+100
+31.358
+106 adidas New Zealand Limited  
+Auckland (New Zealand)
+NZD
+7.719
+directly
+100
+6.743
+107 adidas Vietnam Company Limited  
+Ho Chi Minh City (Vietnam)
+VND
+182.126.875
+10
+100
+222.722.960
+108 Reebok (Mauritius) Company Limited  
+Port Louis (Mauritius)
+USD
+2.204
+75
+99
+-
+71
+1
+Appendix 2 to the notes
+Page  2
+58
+
+Shareholdings of adidas AG, Herzogenaurach
+at December 31, 2018
+Company and Domicile
+Currency
+Equity
+(currency units
+in thousands)
+Share in capital
+held by 1)
+in %
+Profit / Loss
+(currency units
+in thousands)
+Latin America
+109 adidas Argentina S.A.  
+Buenos Aires (Argentina)
+ARS
+55.794
+10
+76,96
+(1.632.312)
+2
+23,04
+110 Reebok Argentina S.A. 3) 
+Buenos Aires (Argentina)
+ARS
+(27.879)
+11
+96,25
+(160.460)
+10
+3,75
+111 adidas do Brasil Ltda.  
+São Paulo (Brazil)
+BRL
+619.319
+2
+100
+42.232
+112 adidas Franchise Brasil Servicos Ltda.  
+São Paulo (Brazil)
+BRL
+63.258
+111
+100
+27.146
+ 
+113 Reebok Produtos Esportivos Brasil Ltda. 3) 
+Jundiaí (Brazil)
+BRL
+12.810
+10
+100
+(824)
+114 adidas Chile Limitada  
+Santiago de Chile (Chile)
+CLP
+77.705.689
+directly
+99
+(8.017.709)
+1
+1
+115 adidas Colombia Ltda.  
+Bogotá (Colombia)
+COP
+4.912.204
+directly
+100
+11.835.274
+116 adidas Perú S.A.C.  
+Lima (Peru)
+PEN
+148.627
+directly
+99,21
+17.951
+114
+0,79
+117 adidas de Mexico, S.A. de C.V.  
+Mexico City (Mexico)
+MXN
+1.458.663
+directly
+100
+481.502
+118 adidas Industrial, S.A. de C.V.  
+Mexico City (Mexico)
+MXN
+423.289
+directly
+100
+157.385
+119 Reebok de Mexico, S.A. de C.V. 3) 
+Mexico City (Mexico)
+MXN
+(579.808)
+directly
+100
+(24.160)
+120 adidas Latin America, S.A.  
+Panama City (Panama)
+USD
+(65.144)
+directly
+100
+7.440
+121 Concept Sport, S.A.  
+Panama City (Panama)
+USD
+2.756
+10
+100
+768
+122 adidas Market LAM, S.A. 3) 
+Panama City (Panama)
+USD
+(2.782)
+10
+100
+-
+123 3 Stripes S.A. 3) 
+Montevideo (Uruguay)
+UYU
+(436)
+directly
+100
+-
+124 Tafibal S.A.  
+Montevideo (Uruguay)
+UYU
+23.484
+directly
+100
+(19.963)
+ 
+125 Raelit S.A.  
+Montevideo (Uruguay)
+UYU
+51.068
+directly
+100
+(363)
+ 
+126 adidas Sourcing Honduras, S.A. 4) (formerly: Reebok Central America S.A.)
+San Pedro Sula (Honduras)
+HNL
+-
+75
+99,6
+-
+71
+0,4
+127 adidas Corporation de Venezuela, S.A. 3) 
+Caracas (Venezuela) 
+VEF
+(17)
+directly
+100
+-
+128 adisport Corporation  
+San Juan (Puerto Rico)
+USD
+342
+10
+100
+2.948
+1) The number refers to the number of the company.
+2) Profit and loss transfer agreement.
+3) Company with no active business.
+4) Sub-group Reebok International Ltd.
+5) Sub-group Reebok International Limited.
+6) Sub-group adidas Indy, LLC.
+Appendix 2 to the notes
+Page  3
+59
+
+Independent Auditor’s Report 
+ 
+To adidas AG, Herzogenaurach 
+ 
+Report on the Audit of the Annual Financial Statements and of the Management 
+Report 
+ 
+Opinions 
+ 
+We have audited the annual financial statements of adidas AG, Herzogenaurach, which 
+comprise the balance sheet as of December 31, 2018, and the income statement for 
+the financial year from January 1, 2018, to December 31, 2018, and notes to the 
+financial statements, including the recognition and measurement policies presented 
+therein. In addition, we have audited the combined management report of adidas AG, 
+Herzogenaurach, for the financial year from January 1, 2018, to December 31, 2018. 
+In accordance with the German legal requirements we have not audited the content of 
+the non-financial statement, which is included in the management report and is 
+identified as such, and the corporate governance statement as well as the corporate 
+governance report, which are included in the “Corporate governance report including 
+corporate governance statement” section of the management report. 
+In our opinion, on the basis of the knowledge obtained in the audit, 
+- the accompanying annual financial statements comply, in all material respects, 
+with the requirements of German commercial law applicable to corporations and 
+give a true and fair view of the assets, liabilities and financial position of the 
+Company as of December 31, 2018, and of its financial performance for the financial 
+year from January 1, 2018, to December 31, 2018 in compliance with German 
+Legally Required Accounting Principles, and 
+- the accompanying management report as a whole provides an appropriate view of 
+the Company’s position. In all material respects, this management report is 
+consistent with the annual financial statements, complies with German legal 
+60
+
+requirements and appropriately presents the opportunities and risks of future 
+development. Our opinion on the management report does not cover the content of 
+the non-financial statement, corporate governance statement and corporate 
+governance report mentioned above. 
+ 
+Pursuant to Section 322 (3) sentence 1 HGB [Handelsgesetzbuch: German 
+Commercial Code], we declare that our audit has not led to any reservations relating 
+to the legal compliance of the annual financial statements and of the management 
+report. 
+ 
+Basis for the Opinions 
+ 
+We conducted our audit of the annual financial statements and of the management 
+report in accordance with Section 317 HGB and the EU Audit Regulation No. 537/2014 
+(referred to subsequently as “EU Audit Regulation”) and in compliance with German 
+Generally Accepted Standards for Financial Statement Audits promulgated by the 
+Institut der Wirtschaftsprüfer [Institute of Public Auditors in Germany] (IDW). Our 
+responsibilities under those requirements and principles are further described in the 
+“Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of the 
+Management Report” section of our auditors report. We are independent of the 
+Company in accordance with the requirements of European law and German 
+commercial and professional law, and we have fulfilled our other German 
+professional responsibilities in accordance with these requirements. In addition, in 
+accordance with Article 10 (2)(f) of the EU Audit Regulation, we declare that we have 
+not provided non-audit services prohibited under Article 5 (1) of the EU Audit 
+Regulation.  
+We believe that the evidence we have obtained is sufficient and appropriate to provide 
+a basis for our opinions on the annual financial statements and on the management 
+report. 
+61
+
+ 
+Key Audit Matters in the Audit of the Annual Financial Statements 
+ 
+Key audit matters are those matters that, in our professional judgment, were of most 
+significance in our audit of the annual financial statements for the financial year from 
+January 1, 2018, to December 31, 2018. These matters were addressed in the context 
+of our audit of the annual financial statements as a whole, and in forming our opinion 
+thereon, we do not provide a separate opinion on these matters. 
+ 
+Recoverability of shares in affiliated companies 
+Please refer to the “Accounting policies” section in the notes to the financial 
+statements for more information on the accounting policies applied and to section 3 
+in the notes to the financial statements for information on the accounting of financial 
+assets. 
+ 
+THE FINANCIAL STATEMENT RISK 
+In the annual financial statements of adidas AG, Herzogenaurach, as of December 31, 
+2018, an amount of EUR 4,137 million is recognized under the “Financial assets” and 
+“Shares in affiliated companies” items. The share of shares in affiliated companies of 
+total assets is 43.6 % and thus has a material effect on the Company’s financial 
+position. 
+The Executive Board of adidas AG values shares in affiliated companies at cost or, if 
+they are expected to be permanently impaired, at the lower of cost and fair value.  
+Fair value depends largely on the assumptions made and is therefore subject to 
+significant judgement. This related in particular to the appropriate estimation of future 
+cash flows and growth rates, appropriate determination of the risk-appropriate 
+weighted average cost of capital and the appropriate assessment of the permanence 
+of the impairment or reversal of an impairment loss.  
+62
+
+There is the risk for the financial statements that an impairment loss or a reversal of 
+an impairment loss existing is not recognized as of the reporting date. 
+ 
+OUR AUDIT APPROACH 
+We use a risk-based audit approach. First, we used the information obtained during 
+our audit to assess which shares in affiliated companies indicated a need for 
+impairment. 
+Our audit procedures also included assessing the valuation model for the business 
+valuations carried out by the Company. We confirmed the methodically correct 
+derivation and appropriateness of the number of risk-appropriate discount rates used. 
+For this reason we made our own estimates of the underlying parameters for the 
+weighted average cost of capital (such as risk-free rate, market risk premium, beta 
+factor) and compared these with the client’s assumptions. To support this 
+assessment, we included our employees specializing in company valuation in the audit 
+team. 
+Furthermore, we evaluated whether the budgeted cash flows on which the 
+measurements are based on proper and reasonable assumptions. To do this, we 
+obtained clarification from the Company or the individuals at affiliated companies 
+authorized by the Company on these assumptions and the impact of strategic and 
+operating activities on the budgeted cash flows. We used industry studies to review 
+the long-term earnings forecasts in relation to the appropriateness of the budgeted 
+figures and assumptions included. To the extent possible, we assessed the planning 
+quality by comparing past budgets with the actual annual results. Finally, we 
+discussed with Investment Controlling the measurements that had been established 
+by adidas AG and verified the accounting entry of the measurements derived from this. 
+ 
+ 
+ 
+63
+
+OUR OBSERVATIONS 
+The valuation model used by adidas AG is appropriate and in line with applicable 
+valuation policies. The Executive Board’s assumptions underlying the measurement 
+are balanced as a whole. 
+ 
+ 
+Other Information 
+ 
+The Executive Board is responsible for the other information. The other information 
+comprises: 
+- the non-financial statement, 
+- the corporate governance statement and 
+- the Corporate Governance Report pursuant to item 3.10 of the German Corporate 
+Governance Code. 
+Our opinions on the annual financial statements and on the management report do 
+not cover the other information, and consequently we do not express an opinion or any 
+other form of assurance conclusion thereon.  
+In connection with our audit, our responsibility is to read the other information and, in 
+so doing, to consider whether the other information 
+- is materially inconsistent with the annual financial statements, with the 
+management report or our knowledge obtained in the audit, or 
+- otherwise appears to be materially misstated. 
+ 
+In accordance with our engagement letter, we conducted a separate assurance 
+engagement of the non-financial statement. Please refer to our assurance report 
+dated February 27, 2019, for information on the nature, scope and findings of this 
+assurance engagement. 
+64
+
+Responsibilities of Management and the Supervisory Board for the Annual 
+Financial Statements and the Management Report 
+ 
+Management is responsible for the preparation of annual financial statements that 
+comply, in all material respects, with the requirements of German commercial law 
+applicable to corporations, and that the annual financial statements give a true and 
+fair view of the assets, liabilities, financial position and financial performance of the 
+Company in compliance with German Legally Required Accounting Principles. In 
+addition, management is responsible for such internal control as they, in accordance 
+with German Legally Required Accounting Principles, have determined necessary to 
+enable the preparation of annual financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the annual financial statements, management is responsible for 
+assessing the Company’s ability to continue as a going concern. They also have the 
+responsibility for disclosing, as applicable, matters related to going concern. In 
+addition, they are responsible for financial reporting based on the going concern basis 
+of accounting, provided no actual or legal circumstances conflict therewith. 
+Furthermore, management is responsible for the preparation of a management 
+report that as a whole provides an appropriate view of the Company’s position and is, 
+in all material respects, consistent with the annual financial statements, complies 
+with German legal requirements, and appropriately presents the opportunities and 
+risks of future development. In addition, management is responsible for such 
+arrangements and measures (systems) as they have considered necessary to enable 
+the preparation of a management report that is in accordance with the applicable 
+German legal requirements, and to be able to provide sufficient appropriate evidence 
+for the assertions in the management report. 
+The Supervisory Board is responsible for overseeing the Company’s financial 
+reporting process for preparing the financial statements and the management report. 
+ 
+65
+
+Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of 
+the Management Report 
+ 
+Our objectives are to obtain reasonable assurance about whether the annual financial 
+statements as a whole are free from material misstatement, whether due to fraud or 
+error, and whether the management report as a whole provides an appropriate view 
+of the Company’s position and, in all material respects, is consistent with the annual 
+financial statements and the knowledge obtained in the audit, complies with the 
+German legal requirements and appropriately presents the opportunities and risks of 
+future development, as well as to issue an auditor’s report that includes our opinions 
+on the annual financial statements and on the management report. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit 
+conducted in accordance with Section 317 HGB and the EU Audit Regulation and in 
+compliance with German Generally Accepted Standards for Financial Statement 
+Audits promulgated by the Institut der Wirtschaftsprüfer (IDW) will always detect a 
+material misstatement. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be 
+expected to influence the economic decisions of users taken on the basis of these 
+annual financial statements and this management report.  
+We exercise professional judgement and maintain professional skepticism 
+throughout the audit. We also: 
+- Identify and assess the risks of material misstatements of the annual financial 
+statements and of the management report, whether due to fraud or error, design 
+and perform audit procedures responsive to those risks, and obtain audit evidence 
+that is sufficient and appropriate to provide a basis for our opinions. The risk of not 
+detecting a material misstatement resulting from fraud is higher than for one 
+resulting from error, as fraud may involve collusion, forgery, intentional omissions, 
+misrepresentations, or the override of internal controls. 
+- Obtain an understanding of internal control relevant to the audit of the annual 
+financial statements and of arrangements and measures (systems) relevant to the 
+66
+
+audit of the management report in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion 
+on the effectiveness of these systems. 
+- Evaluate the appropriateness of accounting policies used by management and the 
+reasonableness of estimates made by management and related disclosures. 
+- Conclude on the appropriateness of management’s use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may cast significant doubt on 
+the Company’s ability to continue as a going concern. If we conclude that a material 
+uncertainty exists, we are required to draw attention in the auditor’s report to the 
+related disclosures in the annual financial statements and in the management 
+report or, if such disclosures are inadequate, to modify our respective opinions. Our 
+conclusions are based on the audit evidence obtained up to the date of our auditor’s 
+report. However, future events or conditions may cause the Company to cease to 
+be able to continue as a going concern. 
+- Evaluate the overall presentation, structure and content of the annual financial 
+statements, including the disclosures, and whether the annual financial statements 
+present the underlying transactions and events in a manner that the annual 
+financial statements give a true and fair view of the assets, liabilities, financial 
+position and financial performance of the Company in compliance with German 
+Legally Required Accounting Principles. 
+- Evaluate the consistency of the management report with the annual financial 
+statements, its conformity with [German] law, and the view of the Company’s 
+position it provides. 
+- Perform audit procedures on the prospective information presented by 
+management in the management report. On the basis of sufficient appropriate audit 
+evidence we evaluate, in particular, the significant assumptions used by 
+management as a basis for the prospective information, and evaluate the proper 
+derivation of the prospective information from these assumptions. We do not 
+express a separate opinion on the prospective information and on the assumptions 
+67
+
+used as a basis. There is a substantial unavoidable risk that future events will differ 
+materially from the prospective information. 
+ 
+We communicate with those charged with governance regarding, among other 
+matters, the planned scope and timing of the audit and significant audit findings, 
+including any significant deficiencies in internal control that we identify during our 
+audit. 
+ 
+We also provide those charged with governance with a statement that we have 
+complied with relevant ethical requirements regarding independence, and 
+communicate with them all relationships and other matters that may reasonably be 
+thought to bear on our independence, and where applicable, related safeguards. 
+ 
+From the matters communicated with those charged with governance, we determine 
+those matters that were of most significance in the audit of the annual financial 
+statements of the current period and are therefore the key audit matters. We describe 
+these matters in our independent auditor’s report unless law or regulation precludes 
+public disclosure about the matter. 
+ 
+Other Legal and Regulatory Requirements 
+ 
+Further Information pursuant to Article 10 of the EU Audit Regulation 
+We were elected as auditor by the annual general meeting on May 9, 2018. We were 
+engaged by the Supervisory Board on August 8, 2018. We have been the auditor of 
+adidas AG as a publicly-traded company without interruption since the 1995 financial 
+year. 
+68
+
+We declare that the opinions expressed in the independent auditor’s report are 
+consistent with the additional report to the audit committee pursuant to Article 11 of 
+the EU Audit Regulation (long-form audit report). 
+ 
+German Public Auditor Responsible for the Engagement 
+The German Public Auditor responsible for the engagement is Haiko Schmidt. 
+ 
+Munich, February 27, 2019 
+ 
+KPMG AG 
+Wirtschaftsprüfungsgesellschaft 
+ 
+signed Braun 
+ 
+ 
+signed Schmidt 
+Wirtschaftsprüfer  
+ 
+Wirtschaftsprüfer 
+[German Public Auditor] 
+ 
+[German Public Auditor] 
+69
+
+signed Karen Parkin 
+Human Resources 
+Responsibility Statement 
+To the best of our knowledge, and in accordance with the applicable 
+reporting principles, the annual financial statements give a true and fair 
+view of the assets, liabilities, financial position and profit or loss of the 
+company, and the Management Report, which has been combined with the 
+Group Management Report, includes a fair review of the development and 
+performance of the business and the position of the company, together 
+with a description of the material opportunities and risks associated with 
+the expected development of the company. 
+Herzogenaurach, February 27, 2019 
+ 
+ 
+signed Kasper Rorsted  
+ 
+ 
+CEO 
+ 
+ 
+ 
+ 
+signed Eric Liedtke  
+Global Brands  
+ 
+signed Roland Auschel 
+Global Sales 
+ 
+ 
+ 
+ 
+signed Harm Ohlmeyer 
+CFO 
+70
+
+ 
+ 
+ 
+ 
+Supervisory Board Report 
+ 
+DEAR SHAREHOLDERS, 
+ 
+We look back on 2018 as another very successful year. Thanks to a sharp focus on our 
+consumers’ needs as part of our stringent implementation of our ‘Creating the New’ 
+strategy, the company was once again able to increase sales and achieve strong bottom-line 
+growth in the 2018 financial year. Innovative products and impressive marketing campaigns 
+such as for the FIFA World Cup in Russia strengthened the presence of our brands and brand 
+desire. We were able to generate double-digit growth rates in our focus markets North 
+America and China as well as in the important e-commerce channel. At the same time, we 
+tackled company-specific weaknesses in our home market Europe, and negative 
+macroeconomic factors in large parts of the world were effectively offset. Despite 
+investments in our brands, which increased significantly in the last year and were higher 
+than ever before, as well in the scalability of the company, we generated profitability results 
+which surpassed the targets set at the beginning of the year. This reflects both the quality 
+and sustainability of our growth and places our company in a position to continue to grow 
+profitably in the future. In the last year, we duly shared the company's success with our 
+shareholders, as underscored by the total dividend payout and share buyback of more than 
+€ 1.5 billion in 2018, and we intend to continue to do so. 
+ 
+SUPERVISION AND ADVICE IN DIALOGUE WITH THE EXECUTIVE BOARD 
+In the year under review, we performed all of our tasks laid down by law, the Articles of 
+Association, the German Corporate Governance Code (the ‘Code’) and the Rules of 
+Procedure carefully and conscientiously, as in previous years. We regularly advised the 
+Executive Board on the management of the company and diligently and continuously 
+supervised its management activities, assuring ourselves of the legality, expediency and 
+regularity thereof. The Executive Board involved us directly and in a timely and 
+comprehensive manner in all of the company’s fundamental decisions. 
+71
+
+ 
+ 
+ 
+ 
+ 
+The Executive Board informed us extensively through written and oral reports. This 
+information covered all relevant aspects of the company’s business strategy, business 
+planning (including finance, investment and personnel planning), the course of business and 
+the company’s financial position and profitability. We were also kept up to date on matters 
+relating to accounting processes, the risk situation and the effectiveness of the internal 
+control and risk management systems and compliance as well as all major decisions and 
+business transactions. The Executive Board always explained immediately and in a detailed 
+manner any deviations in business performance from the established plans, and the 
+Supervisory Board as a whole discussed each of these deviations in depth. 
+ 
+The Executive Board regularly provided us with comprehensive written reports for the 
+preparation of our meetings. We thus always had the opportunity to critically analyze the 
+Executive Board's reports and resolution proposals within the committees and within the 
+Supervisory Board as a whole and to put forward suggestions before passing resolutions 
+after in-depth examination and extensive consultation. At the Supervisory Board meetings, 
+the Executive Board was available to discuss and answer our questions. In the periods 
+between our meetings, the Executive Board also provided us with extensive, timely monthly 
+reports on the current business situation. We critically examined, specifically challenged 
+and checked the plausibility of the information provided by the Executive Board. 
+ 
+In the past financial year, the Supervisory Board primarily exercised its duties in plenary 
+sessions. We held six regular meetings of the entire Supervisory Board, one of which took 
+place outside Germany. One resolution was passed by way of a circular resolution. The 
+attendance rate of the members at the Supervisory Board and committee meetings was 
+72
+
+ 
+ 
+ 
+ 
+around 94% in the year under review. All committee meetings, with the exception of one 
+Audit Committee meeting from which one member was excused, were fully attended. 
+ 
+The participation of the individual Supervisory Board members in the Supervisory Board and 
+committee meetings is set out below: 
+ 
+ 
+The external auditor, KPMG AG Wirtschaftsprüfungsgesellschaft (‘KPMG’), Berlin, attended 
+all regular meetings of the Supervisory Board – the exception being the meeting which took 
+place outside Germany – insofar as no Executive Board matters were dealt with. KPMG also 
+attended all meetings of the Audit Committee. 
+73
+
+ 
+ 
+ 
+ 
+ 
+In the periods between meetings, the Supervisory Board Chairman and the Audit Committee 
+Chairman maintained regular contact with the Chief Executive Officer and the Chief Financial 
+Officer, conferring on matters such as corporate strategy, business planning and 
+development, the risk situation and risk management as well as compliance. In addition, the 
+Executive Board immediately informed the Supervisory Board Chairman about any 
+significant events of fundamental importance for the management and for evaluating the 
+situation and development of the company, where necessary also at short notice. 
+The Supervisory Board also regularly conferred on, in particular, Supervisory Board matters 
+and personnel matters of the Executive Board without the Executive Board. Both the 
+Supervisory Board and the Audit Committee reviewed the efficiency of their work in the 
+spring and fall of 2018. Overall, the Supervisory Board members assessed the work in the 
+entire Supervisory Board and Audit Committee as efficient. However, they resolved upon 
+specific improvements regarding the organization of the Supervisory Board work. 
+The members of the Supervisory Board are individually responsible for undertaking any 
+necessary training and further education measures required for their tasks. Furthermore, 
+training measures were offered to the Supervisory Board to ensure the required expertise. 
+Moreover, there was an onboarding process for the new Supervisory Board member in order 
+to facilitate his exercising of the new office. 
+ 
+ 
+ 
+74
+
+ 
+ 
+ 
+ 
+TOPICS FOR THE ENTIRE SUPERVISORY BOARD 
+Our consultations and examinations focused on the following topics: 
+ 
+ 
+SITUATION AND BUSINESS DEVELOPMENT 
+The development of sales and earnings, the employment situation as well as the financial 
+position of the company and the business development of the company's individual business 
+areas and markets were presented to us in detail by the Executive Board at every Supervisory 
+Board meeting and were discussed regularly. Moreover, the Supervisory Board dealt with 
+the corporate strategy and the annual and multi-year business planning. Further topics 
+which were always discussed were the possible impact of global economic developments as 
+well as the development of our individual brands and markets. 
+ 
+The Executive Board reported on the situation of the company and the financial figures for 
+the 2017 financial year at the February meeting and the balance sheet meeting in March. In 
+addition, after in-depth examination of the financial statements, the Supervisory Board 
+approved the annual financial statements and consolidated financial statements as well as 
+the combined Management Report, including the non-financial statement for adidas AG and 
+the Group as at December 31, 2017. The annual financial statements were thus adopted. 
+Prior to the passing of the resolution, the auditor reported on the material results of the 
+audit, including the results of the examination of the content of the non-financial statement 
+commissioned by the Supervisory Board in accordance with § 111 section 2 German Stock 
+Corporation Act (Aktiengesetz – AktG). Furthermore, the Supervisory Board Report to the 
+Annual General Meeting for the 2017 financial year was approved. Finally, we dealt with, 
+inter alia, the business development of Reebok and the distribution strategy of adidas. At the 
+May meeting, we primarily dealt with the results for the first quarter of the year under review 
+and with the current development of the business. Particular topics of the August meeting 
+were the financial results of the second quarter and of the first half of the 2018 financial year 
+75
+
+ 
+ 
+ 
+ 
+as well as the business development of the company. Furthermore, we dealt in detail with 
+the main sustainability initiatives and adidas’ talent strategy. Finally, we discussed the 
+current development of the Runtastic business segment. At the annual strategy meeting of 
+the Supervisory Board in October, the Executive Board reported on the current business 
+situation and outlined in detail the further course of the strategic business plan which the 
+Supervisory Board discussed in depth. Another focal point of the Supervisory Board meeting 
+was the development of business in Europe. Finally, we intensively dealt with the topic of 
+digitalization. In this regard, we discussed adidas’ digitalization strategy and the challenges 
+and opportunities associated with it. Topics of our December meeting were the 2019 Budget 
+and Investment Plan as well as the marketing and sponsorship agreements concluded in the 
+year under review. 
+ 
+TRANSACTIONS REQUIRING SUPERVISORY BOARD APPROVAL 
+In accordance with statutory regulations and the Rules of Procedure of the Supervisory 
+Board, certain transactions and measures require a formal resolution or the prior approval 
+of the Supervisory Board. 
+In March, we resolved upon the resolutions to be proposed to the 2018 Annual General 
+Meeting, including the proposal regarding the appropriation of retained earnings for the 
+2017 financial year. At the May meeting, we approved the issuance of non-share-based 
+bonds and/or comparable financial instruments, including equity-neutral convertible bonds. 
+We also approved the extension of our US-based Portland location as well as the adjusted 
+resolution proposal of the Executive Board on the appropriation of retained earnings. At our 
+October meeting, we approved the cancelation of treasury shares and resolved upon the 
+amendment to the Articles of Association due to the reduction of the nominal capital 
+resulting from the cancelation of treasury shares. One topic of our December meeting was, 
+after thorough discussion, the approval of the 2019 Budget and Investment Plan presented 
+by the Executive Board. 
+76
+
+ 
+ 
+ 
+ 
+EXECUTIVE BOARD COMPENSATION 
+All matters regarding Executive Board compensation were prepared comprehensively by the 
+General Committee, as provided for in the Rules of Procedure of the Supervisory Board, 
+explained to the Supervisory Board as a whole and submitted for resolution. 
+ 
+Each year at our February meeting of the entire Supervisory Board, the main subject is 
+Executive Board compensation. After in-depth review of the individual performance of the 
+Executive Board members and the achievement of the targets set for the 2017 Performance 
+Bonus and LTIP 2015/2017, we resolved upon the performance-related compensation to be 
+paid to the Executive Board members for the 2017 Performance Bonus and LTIP 2015/2017 
+at this meeting. Furthermore, after comprehensive consultation, we set the criteria and 
+targets decisive for the 2018 Performance Bonus as well as for the new long-term incentive 
+plan LTIP 2018/2020 along with the individual bonus target amounts for each Executive 
+Board member. Following in-depth discussions, we adjusted the pension commitments of 
+the Executive Board members Gil Steyaert, Eric Liedtke and Karen Parkin in March and May 
+due to tax law provisions. Finally, we dealt with the contribution for the defined contribution 
+pension plans and determined this for 2019 at our October meeting. 
+ 
+CHANGES ON THE SUPERVISORY BOARD AND COMPLIANCE WITH THE STATUTORY 
+MINIMUM QUOTA 
+There was one personnel change with regard to the full Supervisory Board in the year under 
+review. Dr. Stefan Jentzsch resigned as Supervisory Board member with effect from the end 
+of the Annual General Meeting of adidas AG held on May 9, 2018. As his successor, Dr. Frank 
+Appel, Chief Executive Officer of Deutsche Post AG, was elected by the Annual General 
+Meeting as member of the Supervisory Board for the remaining term of the current 
+shareholder representatives which expires with effect from the end of the Annual General 
+77
+
+ 
+ 
+ 
+ 
+Meeting on May 9, 2019. The Supervisory Board wishes to thank Dr. Jentzsch for his valuable 
+contributions and his great dedication within the Supervisory Board of adidas AG. 
+ 
+With regard to the representation of women and men, the Supervisory Board complies with 
+the statutory minimum quota pursuant to § 96 section 2 sentences 1, 3 and 4 AktG. Both the 
+shareholder representatives and the employee representatives resolved in accordance with 
+§ 96 section 2 sentence 3 AktG that the minimum quota of 30% women and 30% men on the 
+Supervisory Board shall be fulfilled separately for the shareholder representatives and the 
+employee representatives. 
+ 
+The term of office of all Supervisory Board members expires as scheduled at the end of the 
+Annual General Meeting in May 2019. 
+ 
+CORPORATE GOVERNANCE 
+The Supervisory Board regularly monitors the application and further development of the 
+corporate governance regulations within the company, in particular the implementation of 
+the recommendations of the Code. The Executive Board and Supervisory Board of adidas AG 
+issued their last Declaration of Compliance pursuant to § 161 AktG in February 2018. In 
+February 2019, we discussed in depth the current 2019 Declaration of Compliance and then 
+resolved upon it and made it permanently available to our shareholders on our corporate 
+website.  
+ 
+In February, we discussed the independence of the members of the Supervisory Board and 
+the respective independence criteria. In the Supervisory Board’s assessment, currently all 
+members are independent. 
+78
+
+ 
+ 
+ 
+ 
+At the February, March and May meetings of the Supervisory Board and at the August 
+meeting of the Audit Committee, within the framework of our regular self-evaluation, we 
+dealt with the results of the efficiency examination of the Supervisory Board and Audit 
+Committee and the measures to be implemented. 
+ 
+At the March meeting, we approved Kasper Rorsted taking over a Board of Directors 
+mandate at Nestlé S.A. In August, we approved Gil Steyaert’s Supervisory Board mandate at 
+Fashion for Good B.V. 
+ 
+Topics of our October meeting were the revision of the objectives of the Supervisory Board 
+regarding its composition and the competency profile for the full Supervisory Board, which 
+we made permanently available to our shareholders on our corporate website. Taking into 
+consideration the specific features which result from the activities of the organization as a 
+globally present, public listed company, we ensured that the full Supervisory Board 
+continues to have the knowledge, skills and professional expertise required to properly 
+perform its duties. Details can be found in the Corporate Governance Report including the 
+Declaration on Corporate Governance (‘Corporate Governance Report’). 
+ 
+In the year under review, no conflicts of interest arose in regard to the Executive Board 
+members. There were also no conflicts of interest within the Supervisory Board. It is pointed 
+out that, in December 2018, the Supervisory Board approved the extension of a contract, 
+effective January 1, 2019, with a company in which one Supervisory Board member is 
+involved. The order volume is to be confirmed annually by the Supervisory Board. A 
+resolution was passed by the Supervisory Board as regards the order volume for the 2019 
+financial year at the meeting in December 2018. In the view of the Supervisory Board, there 
+79
+
+ 
+ 
+ 
+ 
+was no conflict of interest. Nevertheless, as in the prior years, the Supervisory Board 
+member concerned did not participate in the respective resolution. 
+ 
+Further information on corporate governance within the company is contained in the 
+Corporate Governance Report including the Declaration on Corporate Governance 
+(‘Corporate Governance Report’). 
+ 
+EFFICIENT COMMITTEE WORK 
+In order to perform our tasks in an efficient manner, we have established a total of six 
+standing Supervisory Board committees. 
+ 
+The committees prepare resolutions and topics for the meetings of the entire Supervisory 
+Board. Within the legally permissible framework and in appropriate cases, we have 
+furthermore delegated the Supervisory Board‘s authority to pass certain resolutions to 
+individual committees. With the exception of the Audit Committee, the Supervisory Board 
+Chairman also chairs all the standing committees. The respective committee chairmen 
+report to the Supervisory Board on the content and results of the committee meetings on a 
+regular and comprehensive basis. 
+ 
+ 
+The Steering Committee did not meet in the year under review. 
+ 
+ 
+The General Committee held two meetings in the 2018 financial year. The main focus 
+of the meetings was the preparation of the resolutions of the entire Supervisory Board 
+regarding the Executive Board compensation, particularly the resolution on the target 
+achievement of the 2017 Performance Bonus and LTIP 2015/2017, the targets for the 
+2018 Performance Bonus and LTIP 2018/2020, the 2019 contribution for the defined 
+80
+
+ 
+ 
+ 
+ 
+contribution pension plans as well as the determination of the Executive Board 
+compensation and the review of its appropriateness. Furthermore, the General 
+Committee intensively dealt with the long-term succession planning for the Executive 
+Board. 
+ 
+ 
+The Audit Committee held six meetings in the year under review. One resolution was 
+passed by way of a circular resolution. The Chief Financial Officer and the auditor 
+were present at all meetings and reported to the committee members in detail. 
+ 
+In addition to the supervision of the accounting process, the committee's work also 
+focused on the examination of the annual financial statements and the consolidated 
+financial statements for 2017, including the combined Management Report and the 
+non-financial statement of adidas AG and the Group, as well as the Executive Board's 
+proposal regarding the appropriation of retained earnings. Following an in-depth 
+review of the audit reports on the annual financial statements and consolidated 
+financial statements with the auditor, the committee decided to recommend that the 
+Supervisory Board approve the 2017 annual financial statements and consolidated 
+financial statements. Furthermore, the audit of the non-financial statement, including 
+the selection and commissioning of the external auditor by the Supervisory Board, 
+was prepared. On the basis of the transitional periods of Art. 41 Regulation (EU) No 
+537/2014, the current statutory auditor may not be re-appointed after June 17, 2023 
+and it is mandatory to carry out an external rotation. Based on a respective resolution 
+by the entire Supervisory Board, the Chairmen of the Supervisory Board and Audit 
+Committee commissioned KPMG for the audit with limited assurance of the content 
+of the non-financial statement for the 2018 financial year. Following in-depth 
+discussions, the Audit Committee also made a recommendation to the Supervisory 
+Board regarding the proposal to the Annual General Meeting 2018 for the 
+81
+
+ 
+ 
+ 
+ 
+appointment of the auditor. The Audit Committee declared to the Supervisory Board 
+that the recommendation is free from undue influence by a third party and that no 
+clause of the kind referred to in Article 16 section 6 of the EU Regulation No. 537/2014 
+of the European Parliament and of the Council of April 14, 2014 on specific 
+requirements regarding the statutory audit of public-interest entities has been 
+imposed upon it. A further subject of in-depth discussions was the assignment of the 
+audit mandate for the 2018 financial year, including the determination of the focus 
+points of the audit, the supervision of the independence and qualification of the auditor 
+as well as the quality of the audit of annual accounts, the determination of the audit 
+fees and ultimately the discussion of the quarterly financial figures and the half year 
+report with the auditor. The Audit Committee dealt intensively with the monitoring of 
+the effectiveness of the risk management system, the internal control system and 
+audit system as well as the compliance management system. Moreover, the Audit 
+Committee addressed the findings of Internal Audit, and the audit plan. Potential and 
+pending legal disputes were also discussed. In addition, at every meeting of the Audit 
+Committee, the Chief Compliance Officer gave regular reports on the Compliance 
+Management System and material compliance cases in the year under review. 
+Furthermore, reports on IT security, the EU General Data Protection Regulation and 
+the hedging strategy were heard. 
+ 
+In the year under review, the Finance and Investment Committee held one meeting 
+by way of a conference call at which, in particular, the Executive Board’s resolution 
+based on the authorization of the Annual General Meeting on May 12, 2016 to 
+repurchase shares with an aggregate acquisition cost of up to a total of € 3 billion 
+until May 11, 2021 was approved. Furthermore, the Finance and Investment 
+Committee approved the Executive Board’s resolution to sell a building and estate in 
+Canton, USA. 
+ 
+82
+
+ 
+ 
+ 
+ 
+ 
+The Nomination Committee met once in the year under review. The Nomination 
+Committee particularly prepared the recommendations by the Supervisory Board to 
+the Annual General Meeting which will elect the shareholder representatives on the 
+Supervisory Board in May 2019. In this respect, taking the statutory requirements into 
+account, the suitability and independence of the candidates were discussed. 
+Furthermore, taking into account the competency profile for the members of the 
+Supervisory Board defined by the Supervisory Board, a qualification profile was 
+developed. Based on this, the Nomination Committee discussed suitable candidates 
+for the positions to be filled within the Supervisory Board. 
+ 
+ 
+The Mediation Committee, established in accordance with the German Co-
+Determination Act (Mitbestimmungsgesetz — MitbestG), did not have to be convened 
+in 2018. 
+ 
+EXAMINATION OF THE 2018 ANNUAL FINANCIAL STATEMENTS AND CONSOLIDATED 
+FINANCIAL STATEMENTS 
+KPMG audited the 2018 consolidated financial statements prepared by the Executive Board 
+in accordance with § 315e German Commercial Code (Handelsgesetzbuch – HGB) in 
+compliance with IFRS and issued an unqualified opinion thereon. The auditor also approved 
+without qualification the 2018 annual financial statements of adidas AG, prepared in 
+accordance with HGB requirements, and the combined Management Report of adidas AG 
+and the adidas Group. Furthermore, at the request of the Supervisory Board, KPMG audited 
+the non-financial statement. KPMG has been the auditor and Group auditorof adidas AG as 
+a capital market-oriented companysince the 1995 financial year. Auditor Karl Braun has 
+been signing the annual financial statements since the 2012 financial year and auditor Haiko 
+Schmidt as the responsible audit partner since the 2017 financial year. On May 9, 2018, the 
+Annual General Meeting elected KPMG as auditor and Group auditor upon proposal of the 
+83
+
+ 
+ 
+ 
+ 
+Supervisory Board, corresponding with a recommendation of the Audit Committee. Prior to 
+the Supervisory Board proposing KPMG as auditor to the Annual General Meeting, KPMG 
+had confirmed to both the Supervisory Board and the Audit Committee that there are no 
+circumstances which could prejudice their independence as auditor or which could cast 
+doubt on KPMG’s independence. In this respect, KPMG also declared to which extent non-
+audit services were rendered for the company in the prior financial year or are contractually 
+agreed upon for the following year. The financial statements, the proposal put forward by 
+the Executive Board regarding the appropriation of retained earnings and the auditor’s 
+reports were distributed by the Executive Board to all Supervisory Board members in a 
+timely manner. We examined the documents in depth, with a particular focus on legality and 
+regularity, in the presence of the auditor at the Audit Committee meeting held on March 1, 
+2019 and at the Supervisory Board’s March 5, 2019 financial statements meeting, during 
+which the Executive Board explained the financial statements in detail. At both meetings, the 
+auditor reported the material results of the audit, inter alia with regard to the priority topics 
+agreed and the key audit matters, and was available for questions and the provision of 
+additional information. The auditor did not report any significant weaknesses with respect to 
+the internal control and risk management system relating to the accounting process. We 
+also discussed in depth with the Executive Board the proposal concerning the appropriation 
+of retained earnings, which provides for a dividend of € 3.35 per dividend-entitled share and 
+adopted this increase to € 3.35 compared to the prior year in consideration of the strong 
+business development in the 2018 financial year, the company's good financial situation and 
+positive future prospects. Based on our own examinations of the annual and consolidated 
+financial statements (including the non-financial statement), we came to the conclusion that 
+there are no objections to be raised. At our financial statements meeting, therefore, 
+following the recommendation of the Audit Committee, we approved the audit results and 
+the financial statements including the non-financial statement prepared by the Executive 
+Board. The annual financial statements of adidas AG were thus approved. 
+ 
+84
+
+ 
+ 
+ 
+ 
+EXPRESSION OF THANKS 
+On behalf of the entire Supervisory Board, I wish to thank the members of the Executive 
+Board and all adidas employees around the world for their great personal dedication and 
+their ongoing commitment. I would also like to thank the employee representatives on the 
+Supervisory Board for their trusting collaboration. 
+ 
+For the Supervisory Board 
+ 
+ 
+IGOR LANDAU 
+Chairman of the Supervisory Board 
+ 
+March 2019 
+85
+
+adidas AG
+Adi-Dassler-Str. 1
+91074 Herzogenaurach
+Germany
+www.adidas-group.com
+86

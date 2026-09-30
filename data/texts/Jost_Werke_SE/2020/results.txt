@@ -1,0 +1,1433 @@
+ANNUAL FINANCIAL STATEMENTS 2020 (HGB)
+DRIVING
+GROWTH
+
+JOST Werke AG 
+Annual Financial Statements 2020 
+ 
+The Management Report of JOST Werke AG is combined with the Group Management Report in 
+accordance with Section 315 (5) of the German Commercial Code (HGB) and is published in the Annual 
+Group Report 2020 of the JOST Werke AG. 
+ 
+The Annual Financial Statements and the Management Report of JOST Werke AG for the year 2020 are 
+published in the German Federal Gazette. 
+ 
+The Annual Financial Statements 2020 and the Annual Group Report 2020 of the JOST Werke AG can 
+be found in the Investor Relations section of our website at http://ir.jost-world.com/reports. 
+ 
+
+- 2 - 
+ 
+JOST Werke AG, Neu-Isenburg
+Balance sheet as of December 31, 2020
+Assets
+12/31/2020
+12/31/2019
+€
+€
+A. Fixed assets
+    1. Financial assets
+         Interests in affiliated companies
+706,046,424.48
+706,021,424.48
+706,046,424.48
+706,021,424.48
+B. Current assets
+    I. Receivables and other assets
+      1. Receivables from affiliated companies
+123,511,349.63
+2,110,272.18
+      2. Other assets
+98,230.58
+116,440.90
+123,609,580.21
+2,226,713.08
+Deferred income
+757,365.17
+592,101.00
+830,413,369.86
+708,840,238.56 
+ 
+ 
+
+- 3 - 
+ 
+ 
+Equity and liabilities
+12/31/2020
+12/31/2019
+€
+€
+A. Equity
+    I. Subscribed capital
+14,900,000.00
+14,900,000.00
+    II.   Capital reserves
+472,442,337.92
+480,882,954.90
+    III.  Net retained profits
+14,900,000.00
+16,390,000.00
+502,242,337.92
+512,172,954.90
+B. Provisions
+       Other provisions
+6,353,091.36
+6,782,613.33
+6,353,091.36
+6,782,613.33
+C. Liabilities
+    I. Liabilities to banks
+309,656,084.00
+150,345,300.88
+    II. Trade payables
+233,041.18
+155,248.03
+    III. Liabilities to affiliated companies
+11,167,307.65
+38,584,876.46
+    IV. Other liabilities
+761,507.75
+799,244.96
+    of which from taxes: € 218,547.62 (€ 229,604.82)
+321,817,940.58
+189,884,670.33
+830,413,369.86
+708,840,238.56
+
+- 4 - 
+ 
+2020
+2019
+€
+€
+1.)
+Sales revenues
+1,788,223.00
+2,038,897.00
+2.)
+Other operating income
+311,079.88
+2,198,993.29
+3.)
+Gross revenue for the period
+2,099,302.88
+4,237,890.29
+4.)
+Personnel expenses
+   a) Wages and salaries
+-3,948,874.01
+-4,719,660.86
+-87,332.33
+-81,171.87
+-4,036,206.34
+-4,800,832.73
+5.)
+Other operating expenses
+-3,956,965.72
+-5,327,300.65
+6.)
+Other interest and similar income
+1,706,161.37
+81.01
+of which from affiliated companies: € 1,706,161.37
+(previous year: € 81.01)
+7.)
+Interest and similar expenses
+-5,736,850.62
+-2,464,645.01
+of which to affiliated companies: € -
+(previous year: € -288,034.21)
+8.)
+Taxes on income and profit
+42.30
+0.00
+9.)
+Profits before taxes
+-9,924,516.13
+-8,354,807.09
+10.) Other taxes
+-6,100.85
+-1,088.00
+11.) Net loss for the year
+-9,930,616.98
+-8,355,895.09
+12.) Profits carried forward from previous year
+16,390,000.00
+0.00
+13.) Withdrawal from capital reserves
+8,440,616.98
+24,745,895.09
+14.) Net retained profits
+14,900,000.00
+16,390,000.00
+Income statement for the period from January 1 to December 31, 
+2020
+   b) Social security, post-employment and other employee benefit costs
+ 
+
+- 5 - 
+ 
+ 
+JOST Werke AG, Neu-Isenburg 
+Notes to the annual financial statements for fiscal year 2020 
+ 
+I. 
+General information 
+JOST Werke AG (hereinafter also the “Company”) was founded as Cintinori Holding GmbH on 
+February 27, 2008. On June 23, 2017, Cintinori Holding GmbH was converted from a German 
+private limited company (GmbH) into a German public limited company (AG) and renamed JOST 
+Werke AG. The respective entry in the Commercial Register was made on July 7, 2017. As of July 
+20, 2017, the shares were traded for the first time on the Frankfurt Stock Exchange. 
+The Company’s registered office is 2 Siemensstrasse in 63263 Neu-Isenburg, Germany. The 
+Company has been registered in the Commercial Register of Offenbach am Main Local Court 
+under number HRB 50149. 
+JOST Werke AG’s annual financial statements are prepared according to the provisions of the 
+current version of the German Commercial Code (Handelsgesetzbuch – HGB), taking into 
+account the German Stock Corporation Act (Aktiengesetz – AktG). JOST Werke AG is a large 
+corporation as defined in Section 267 (3) sentence 2 HGB. 
+Its fiscal year corresponds to the calendar year. 
+The annual financial statements are prepared in euros (EUR). The income statement uses the 
+total cost (nature of expense) method. 
+ 
+II. 
+Accounting policies 
+Long-term financial assets are carried at cost. Write-downs are charged where permanent 
+impairment is anticipated. Impairment losses are reversed if the reasons for the write-downs no 
+longer apply.  
+Receivables, other assets and cash and cash equivalents are carried at their principal amount. 
+Appropriate specific valuation allowances are recognized for receivables and other assets where 
+circumstances are known that may cause doubt regarding the collectibility of the receivables or 
+the recoverability of the other assets. 
+Prepaid expenses comprise expenditure before the reporting date for expenses for a specific 
+period after the balance sheet date. The discount contained in the Company’s refinancing is 
+amortized over the term of the liabilities arising from the promissory note loans. These are 
+measured at their nominal amount. 
+Subscribed capital is shown at its nominal amount. 
+
+- 6 - 
+ 
+Provisions make appropriate allowance for all identifiable risks and obligations in accordance 
+with prudent business judgment. They are measured at the settlement amount considered 
+necessary in accordance with prudent business judgment. Provisions with a remaining term of 
+more than one year are discounted at the average market interest rate of the past seven fiscal 
+years corresponding to their remaining term. 
+In 2019, the Company introduced a Long-Term Incentive Plan (LTIP) with the intention of 
+allowing selected executives in the JOST Group to participate in the success of the JOST Group 
+in the expectation of a long-term connection. The LTIP rights in the form of virtual shares grant 
+the right to a cash payment after a four-year reference period (also employment period) from 
+April 1, 2019, to March 31, 2023, depending on the outperformance of the JOST share in 
+comparison to the SDAX index. If the performance of the JOST share is equal to or better than 
+the SDAX, a special payment at the level of 100 % of the value of the JOST share is granted. If 
+the JOST share underperforms the SDAX, a special payment of 20 % of the value of the JOST 
+share is granted. The payment from the virtual shares is limited to three times the initial value 
+(average price of the JOST share during the last 30 trading days before the reference period 
+starts). 
+From the LTIP, a total of 29,794 virtual shares were granted in 2020 with an initial value of 
+EUR 890 thousand. 
+The fair value of the virtual shares is calculated using a Monte-Carlo simulation with the 
+following input factors as of December 31, 2020: 
+ 
+  
+Dec. 31, 2020 
+JOST share price 
+EUR 43.10 
+SDAX index level 
+14,764.89 
+Expected 
+volatility 
+JOST 
+40.38 % 
+Expected 
+volatility 
+SDAX 
+23.46 % 
+Correlation JOST/SDAX 
+0.6048 
+JOST dividend yield 
+1.20 % 
+Risk-free rate  
+-0.76 % 
+Fair value 
+EUR 30.73 
+ 
+The Monte Carlo simulation takes account of the relative performance of the JOST share against 
+the SDAX index, the average value at the end of the reference period, dividend forecasts for the 
+JOST share and the limitation of the payment amount. 
+Expenses from the LTIP are distributed over the expected vesting period and recognized in 
+provisions. 
+
+- 7 - 
+ 
+As of December 31, 2020, 164,537 virtual shares with a carrying amount of EUR 2,062,645.05 
+were outstanding. The expense recognized in the fiscal year amounts to EUR 1,387,025.10. In 
+the reporting period, 10,880 virtual shares were forfeited and none became vested. 
+No hedges in accordance with Section 254 HGB are recognized for derivative financial 
+transactions. As executory contracts these transactions are off-balance sheet. However, if losses 
+are expected from these transactions, a provision is established on the basis of the negative 
+market prices. The resulting unrealized losses are recognized in profit or loss. 
+Liabilities are carried at their settlement amount. 
+Deferred taxes are recognized on the differences between the financial accounts and the tax 
+accounts, provided that they are expected to decrease in subsequent fiscal years. Deferred taxes 
+are calculated using a tax rate of 30 %. As of the reporting date, after offsetting the tax assets 
+and tax liabilities (overall difference assessment), there was a surplus of deferred tax assets. This 
+was driven primarily by differences in the measurement of other provisions and by loss 
+carryforwards. The Company has not exercised the option of utilizing tax assets provided for in 
+Section 274 (1) Sentence 2 HGB, so that the surplus deferred tax assets are not recognized on 
+the balance sheet. 
+ 
+III. 
+Notes to the balance sheet 
+ 
+1. Fixed assets/long-term financial assets 
+The changes in fixed assets as of the balance sheet date are as follows: 
+ 
+ 
+ 
+Shareholdings in accordance with Section 285 No. 11 HGB are as follows: 
+ 
+ 
+Balance
+Additions
+Disposals
+Balance
+Balance
+Additions
+Balance Carrying amounts
+Carrying amounts 
+01/01/2020
+12/31/2020
+01/01/2020
+12/31/2020
+12/31/2020
+12/31/2019
+€ thousands
+€ thousands
+€ thousands
+€ thousands
+€ thousands
+€ thousands
+€ thousands
+€ thousands
+€ thousands
+Interests in affiliated companies
+706,022
+24
+0
+706,046
+0
+0
+0
+706,046
+706,022
+Financial assets
+706,022
+24
+0
+706,046
+0
+0
+0
+706,046
+706,022
+Cost
+Reversals/ amortization
+Changes in fixed assets
+for the period from January 1 to December 31, 2020
+
+- 8 - 
+ 
+ 
+Result
+2020
+€ thousands
+1)
+€ thousands
+2)
+JOST-Werke VG1 GmbH (being founded)
+100.00%
+5)
+25
+0
+Neu-Isenburg
+Jasione GmbH
+100.00%
+5)
+598,668
+34,440
+Neu-Isenburg
+JOST-Werke Deutschland GmbH
+100.00%
+4)
+42,611
+0
+Neu-Isenburg
+5)
+JOST-Werke Asset Management GmbH
+100.00%
+5)
+25
+0
+Frankfurt am Main
+Jost-Werke International Beteiligungsverwaltung GmbH 
+100.00%
+4)
+36,326
+0
+Neu-Isenburg
+5)
+Rockinger Agriculture GmbH
+100.00%
+3)
+-999
+-453
+Waltershausen / Germany
+5)
+JOST France S.à r.l.
+100.00%
+3)
+4,174
+-1,095
+Paris / France
+6)
+JOST Iberica S.A.
+100.00%
+3)
+4,493
+839
+Zaragoza / Spain
+6)
+Jost Italia S.r.l.
+100.00%
+3)
+2,773
+248
+Milan / Italy
+6)
+Jost GB Ltd. 
+100.00%
+3)
+2,657
+-995
+Bolton / United Kingdom
+6)
+Jost UK Ltd. 
+100.00%
+3)
+-7,199
+-6,047
+Bolton / United Kingdom
+6)
+ooo JOST RUS
+100.00%
+3)
+2,336
+558
+Moscow / Russia
+6)
+JOST Polska Sp. z o.o.
+100.00%
+3)
+19,350
+3,733
+Nowa Sòl / Poland
+6)
+Jost Hungaria Kft.
+100.00%
+3)
+13,793
+1,749
+Veszprém / Hungary
+6)
+JOST TAT LLC
+100.00%
+3)
+1,696
+343
+Naberezhyne Chelny / Russia
+6)
+Transport Industry Development Centre B.V.
+100.00%
+3)
+-15,691
+2,993
+Best / Netherlands
+6)
+Tridec Ltda.
+100.00%
+3)
+4,408
+299
+Cantanhede / Portugal
+6)
+JOST Achsen Systeme GmbH
+100.00%
+4)
+25
+0
+Calden / Germany
+5)
+Jost Otomotiv Sanayi Ticaret A.S.
+100.00%
+3)
+1,252
+14
+Izmir / Turkey
+6)
+JOST (S.A.) Pty. Ltd.
+100.00%
+3)
+4,050
+2,795
+Chloorkop / South Africa
+5)
+JOST Transport Equipment Pty. Ltd.
+100.00%
+3)
+7,882
+576
+Chloorkop / South Africa
+5)
+Jost Australia Pty. Ltd.
+100.00%
+3)
+14,076
+1,860
+Seven Hills / Australia
+6)
+Jost New Zealand Ltd.
+100.00%
+3)
+310
+15
+Hamilton / New Zealand
+6)
+JOST International Corp.
+100.00%
+3)
+33,453
+8,018
+Grand Haven / Michigan / U.S.A.
+6)
+Jost (China) Auto Component Co. Ltd.
+100.00%
+3)
+22,178
+4,954
+Wuhan, Hubei Province / PR China
+6)
+JOST (Shanghai) Trading Co. Ltd.
+100.00%
+3)
+2,259
+307
+Shanghai / PR China
+6)
+Jost Far East Pte. Ltd.
+100.00%
+3)
+4,260
+687
+Singapore
+6)
+JOST India Auto Component Pte. Ltd.
+100.00%
+3)
+9,156
+-187
+Jamshedpur / India
+6)
+JOST Japan Co. Ltd.
+100.00%
+3)
+441
+90
+Yokohama / Japan
+6)
+Jost (Thailand) Co. Ltd.
+100.00%
+3)
+5
+-205
+Bangsaotong / Thailand
+6)
+Ålö Holding AB
+100.00%
+3)
+122,850
+-2,301
+Umeå / Sweden 
+6)
+Ålö Group AB
+100.00%
+3)
+3,666
+-30
+Umeå / Sweden 
+6)
+Ålö Intressenter AB
+100.00%
+3)
+34,029
+-15
+Umeå / Sweden 
+6)
+Interests in affiliated companies
+List of shareholdings JOST Werke AG as of Dec. 31, 2020
+Company
+Share of JOST 
+Werke AG
+Equity as of 
+December 31, 
+2020
+
+- 9 - 
+ 
+ 
+ 
+ 
+2. Receivables and other assets 
+As of the reporting date, a short-term loan to the subsidiary Jost-Werke International 
+Beteiligungsverwaltung GmbH, Neu-Isenburg, of EUR 91,344,939.38 (previous year: EUR 0) is 
+included. The other receivables from affiliated companies relate to receivables from the 
+subsidiaries Jasione GmbH, Neu-Isenburg, Jost-Werke International Beteiligungsverwaltung 
+GmbH, Neu-Isenburg, and ROCKINGER Agriculture GmbH, Waltershausen, and result from other 
+allocations. 
+Other assets include sales tax receivables of EUR 98,230.58 (previous year: EUR 116,440.90). 
+As in the previous year, all receivables and other assets are due in less than one year. 
+3. Prepaid expenses 
+Prepaid expenses at the reporting date amount to EUR 757,365.17 (previous year 
+EUR 592,101.00). Of this amount, EUR 238,555.00 (previous year: EUR 271,197.00) relates to 
+payments for an insurance policy to be deferred over subsequent periods. In addition, the 
+Ålö AB
+100.00%
+3)
+76,110
+8,455
+Umeå / Sweden 
+6)
+Alö Deutschland Vertriebs-GmbH
+100.00%
+3)
+4,010
+689
+Dieburg / Germany
+6)
+Alo Danmark A/S
+100.00%
+3)
+501
+67
+Skive / Denmark 
+6)
+Ålö Norge A/S
+100.00%
+3)
+835
+249
+Rakkestad / Norway
+6)
+Alo UK Ltd.
+100.00%
+3)
+1,272
+252
+Droitwich / United Kingdom 
+6)
+Agroma S.A.S.
+100.00%
+3)
+6,003
+596
+Blanzac-Les-Matha / France
+6)
+Alo Canada Inc.
+100.00%
+3)
+2,384
+271
+Vancouver / Canada 
+6)
+Alo USA Inc.
+100.00%
+3)
+7,098
+1,377
+Elgin, IL / U.S.A. 
+6)
+Alo Tennessee Inc.
+100.00%
+3)
+8,534
+444
+Telford, TN / U.S.A. 
+6)
+Alo Agricult. Machinery (Ningbo) Co. Ltd.
+100.00%
+3)
+12,267
+3,281
+Ningbo / PR China 
+6)
+Alo Trading (Ningbo) Co. Ltd.
+100.00%
+3)
+2,738
+321
+Ningbo / PR China 
+6)
+Alo Brasil Ltda.
+100.00%
+3)
+7
+-5
+Brasil
+6)
+JOST Brasil Sistemas Automotivos Ltda.
+49.00%
+3)
+11,876
+5,736
+Caxias do Sul / Brazil
+6)
+1) 
+Translated at the average rate on the closing date
+2)
+Translated at the average rate for the year
+3)
+Held indirectly via Jasione GmbH Ltd.
+4)
+Held indirectly via Jasione GmbH, after profit and loss transfer agreement
+5)
+Data from the provisional financial statements of the companies according to HGB
+6)
+Data from the reporting packages of the companies according to IFRS for consolidation purposes
+Equity investments
+
+- 10 - 
+ 
+discount from the refinancing in 2018 of EUR 234,840.00 (previous year: EUR 320,904.00) is 
+deferred over the term of the promissory note loans and amortized. A loan of EUR 120 million 
+was taken out to finance the acquisition of Ålö Holding AB, Umeå, Sweden, by the subsidiary 
+Jost-Werke International Beteiligungsverwaltung GmbH, Neu-Isenburg. Prepaid expenses 
+include a resulting discount of EUR 216,000.00 (previous year: EUR 0), which is deferred over 
+the term of the loan and amortized (see also 6. Liabilities). 
+ 
+4. Equity 
+As of December 31, 2020, the Company’s subscribed capital was unchanged at EUR 14,900,000, 
+which is fully paid-up and divided into 14,900,000 no-par value bearer shares with a pro rata 
+amount of the share capital of EUR 1.00 each. 
+At the Annual General Meeting held on May 4, 2018, a resolution was adopted to cancel the 
+existing Authorized Capital 2017 and create new Authorized Capital 2018. The Management 
+Board is authorized, with the consent of the Supervisory Board, to increase the Company’s share 
+capital by a total of up to EUR 7,450,000 once or in several installments until May 3, 2023, by 
+issuing new no-par value bearer shares against cash or non-cash contributions. The Annual 
+General Meeting also adopted a resolution to create Contingent Capital 2018. The share capital 
+may be increased on one or more occasions by up to EUR 7,450,000 by issuing up to 7,450,000 
+new no-par value bearer shares. When new shares from the Authorized Capital 2018 are issued, 
+in principle shareholders have pre-emptive rights which can be disapplied only in specific cases 
+and under the conditions described in more detail in Article 5 (2) of the Articles of Association. 
+The Management Board has not utilized this authorization. 
+With a further resolution of the Annual General Meeting on May 4, 2018, the Management 
+Board is authorized, with the consent of the Supervisory Board, up to May 3, 2023, on one or 
+more occasions to issue warrant bonds, convertible bonds and/or income bonds or 
+combinations of these instruments (together “bonds”) with a total nominal amount of up to 
+EUR 350 million with or without a limited term and to grant the bearers or creditors of the bonds 
+options or conversion rights in up to 7,450,000 new bearer shares of the Company with a pro 
+rata amount of the share capital of up to EUR 7,450,000.00 in accordance with the further 
+conditions of the bonds. In principle shareholders have pre-emptive rights. However, the 
+Management Board, with the consent of the Supervisory Board, is authorized to disapply the 
+pre-emptive rights of shareholders to the bonds on the basis of the conditions stated in the 
+above authorization resolution. For details on this, refer to the proposed resolution on Item 8 of 
+the Annual General Meeting on May 4, 2018 which was passed. The Management Board has not 
+utilized this authorization. To service the bonds, the Annual General Meeting contingently 
+increased the Company’s share capital by up to EUR 7,450,000.00 on the basis of issuing up to 
+7,450,000 new bearer shares (Contingent Capital 2018; Article 6 of the Articles of Association). 
+
+- 11 - 
+ 
+In addition, on May 4, 2018, the Annual General Meeting authorized the Company up to May 3, 
+2023, to acquire Treasury shares of up to 10 % at the time of the resolution or – if this figure is 
+less – of the share capital in place at the time the authorization is exercised. The acquired 
+Treasury shares may be used for any legally permissible purpose. For details on this refer to the 
+Authorization Resolution resolved at the Annual General Meeting on May 4, 2018 (Agenda Item 
+6). At the time this report was prepared, the Company had not acquired any Treasury shares. 
+In July 2020, the Annual General Meeting approved the Management Board’s proposal to carry 
+forward the net retained profit from fiscal year 2019 to new account. 
+The capital reserves changed as follows: 
+ 
+ 
+The free reserves amounted to EUR 345,692,337.92 as of December 31, 2020 (previous year: 
+EUR 354,132,954.90). 
+Net retained profit changed as follows: 
+ 
+5. Provisions 
+The provisions are personnel-related provisions of EUR 4,828,289.32 (previous year: 
+EUR 3,403,319.95), EUR 2,062,645.05 of which are share-based remuneration (previous year: 
+EUR 675,619.95). In addition, provisions of EUR 176,508.66 were established for outstanding 
+invoices in connection with legal and advisory costs as well as costs for preparing the annual 
+financial statements (previous year: EUR 1,806,000.00). In the previous year, they mainly related 
+to outstanding invoices in connection with the acquisition of Ålö Holding AB, Umeå, Sweden. 
+Provisions of EUR 1,348,293.38 (previous year; EUR 1,573,293.38) were recognized for pending 
+losses from derivatives. 
+€ thousands
+€ thousands
+Balance Jan. 1
+480,883
+505,629
+Withdrawals in the fiscal year
+-8,441
+-24,746
+Balance Dec. 31
+472,442
+480,883
+Capital reserves
+2020
+2019
+€ thousands
+€ thousands
+Balance Jan. 1
+16,390
+16,390
+Dividend payment
+0
+-16,390
+Net loss for the year
+-9,931
+-8,356
+Withdrawal from capital reserves
+8,441
+24,746
+Balance Dec. 31
+14,900
+16,390
+Net retained profits
+2020
+2019
+
+- 12 - 
+ 
+ 
+6. Liabilities 
+ 
+ 
+In the previous year, liabilities due within one year were as follows: 
+• 
+Liabilities to banks EUR 345,301 
+• 
+Trade payables EUR 155,248 
+• 
+Liabilities to affiliated companies EUR 38,584,876 
+• 
+Other liabilities EUR 799,245 
+In the previous year, liabilities were due with a term exceeding one year: 
+• 
+Liabilities to banks EUR 150,000,000 (of which more than five years remaining duration: 
+EUR 34,500,000) 
+ 
+In 2018, JOST Werke AG issued promissory note loans with a total value of EUR 150 million that 
+mature in five and seven years respectively and have both fixed and variable interest rates. In 
+addition to the promissory note loans, there is a revolving facility of EUR 150 million. The 
+financing in 2018 comes with more favorable interest rates for the Group and longer terms. The 
+obligation to comply with certain financial requirements (“covenants”) exists with regard to the 
+revolving credit line. Liabilities to banks include accrued interest of EUR 656,084.00. 
+Liabilities to banks are not secured by rights of lien or similar rights. 
+On December 19, 2019, the Company concluded a new financing agreement with a banking 
+syndicate for EUR 120 million with a duration of five years in order to finance the acquisition of 
+Ålö Holding AB, Umeå, Sweden. The loan was utilized on January 31, 2020. EUR 6 million was 
+already repaid in the past fiscal year. This bank loan is subject to compliance with various 
+covenants derived from the consolidated financial statements of JOST Werke AG, the primary 
+parent company. In the case of non-compliance with these covenants, the bank loans can 
+become due with immediate effect.  
+Up to 1 year
+> 1 year
+Of which more 
+than 5 years
+€
+€
+€
+€
+Liabilities to banks
+309,656,084
+45,656,084
+264,000,000
+0
+Trade payables
+233,041
+233,041
+0
+0
+Liabilities to affiliated companies
+11,167,308
+11,167,308
+0
+0
+Other liabilities
+761,508
+761,508
+0
+0
+Total
+321,817,941
+57,817,941
+264,000,000
+0
+Total 
+Of which with a remaining duration of
+
+- 13 - 
+ 
+Liabilities include EUR 11,167,307.65 (previous year: EUR 38,584,876.46) liabilities to affiliated 
+companies arising from the clearing accounts with JOST-Werke Deutschland GmbH and JOST 
+Achsen Systeme GmbH and other liabilities of EUR 761,507.75 (previous year: EUR 799,244.96). 
+In the previous year, the clearing account with JOST-Werke Deutschland GmbH was used 
+primarily for dividend payments (EUR 16,390,000) to Company shareholders. Other liabilities 
+include liabilities of EUR 542,960.13 (previous year: EUR 565,495.00) arising from the 
+remuneration of the Supervisory Board. 
+7. Financial hedging instruments 
+To hedge future interest rate volatilities from the floating rate tranches of the promissory note 
+loan, the Company entered into four interest rate swaps with a total nominal value of 
+EUR 60,000,000.00, and a maximum term until June 29, 2023. The swaps have a negative market 
+value of EUR 1,348,293.38 as of December 31, 2020 (mark-to-market valuation), for which a 
+provision for onerous contracts at the same level has been recognized. This is recognized in 
+provisions. 
+ 
+IV. 
+Notes to the income statement 
+ 
+1. Sales revenues 
+Sales revenues of EUR 1,788,223.00 (previous year EUR 2,038,897.00) are exclusively 
+attributable to service agreements with affiliated companies and were generated in Germany. 
+2. Other operating income 
+The other operating income of EUR 311,079.88 (previous year: EUR 2,198,993.29) in the fiscal 
+year primarily includes income the use of passenger cars of EUR 40,395.88 (previous year: 
+EUR 49,200.45) and prior-period income from the reversal of provisions of EUR 257,200.00 
+(previous year: EUR 81,966.47). The latter includes the reversal of the provision for pending 
+losses from derivatives (previous year: addition to the provision recognized in other operating 
+expenses). 
+In the previous year, income from oncharging to the affiliated company Jost-Werke International 
+Beteiligungsverwaltung GmbH of EUR 2,067,439.21 was included. Oncharging related to costs in 
+connection with the acquisition of Ålö, as this took place via Jost-Werke International 
+Beteiligungsverwaltung GmbH. 
+ 
+  
+
+- 14 - 
+ 
+3. Other operating expenses 
+These relate primarily to expenses for legal and consulting costs (EUR 573,076.53; previous year: 
+EUR 2,088,268.70), expenses for the long-term bonus program for executives below the 
+Management Board within the JOST Group (LTIP; EUR 1,387,025.10; previous year: 
+EUR 652,311.06), costs for preparing the annual financial statements (EUR 303,931.50; previous 
+year: EUR 178,490.90), expenses for Supervisory Board remuneration (EUR 492,630.84; 
+previous year: EUR 505,086.40), and travel expenses (EUR 32,526.03; previous year: 
+EUR 308,616.91). For information on the expenses for the bonus program, refer to the disclosure 
+about provisions under Accounting policies. The decline in travel expenses is due to reduced 
+travel as a result of the COVID-19 pandemic. The legal and consultancy costs of the previous year 
+primarily comprised expenses in connection with the acquisition of Ålö Holding AB, Umeå, 
+Sweden.  
+4. Other interest and similar income 
+Other interest and similar income relates to affiliated companies in the amount of 
+EUR 1,706,161.37 (previous year: EUR 81.01).  
+5. Interest and similar expenses 
+In the past fiscal year, interest and similar expenses mainly related to interest in connection with 
+the promissory note loans and the newly borrowed loan in the amount of EUR 5,716,788.62 
+(previous year: EUR 1,756,376.08). This includes expenses from the amortization of the discount 
+of EUR 140,064.00 (previous year: EUR 86,064.00). In the previous year, this item also included 
+interest expense with affiliated companies (EUR 0; previous year EUR 288,034.21). Loan 
+commitment fees are also included in interest and similar expenses. 
+6. Other taxes 
+Other taxes relate to vehicle tax and non-deductible sales taxes from previous years. 
+ 
+ 
+V. 
+Other information 
+ 
+1. Number of employees 
+At the reporting date, the Company had seven employees: three Management Board members 
+and four other employees. Averaged over the year, the Company had seven employees.  
+ 
+
+- 15 - 
+ 
+2. Management Board 
+The Management Board consists of the following persons, including a list of further posts held 
+on supervisory/control bodies outside JOST Werke AG: 
+ 
+Joachim Dürr, Diplom-Ingenieur, Dachau 
+Chairman of the Management Board 
+Chief Executive Officer 
+- 
+No posts on supervisory/control bodies 
+ 
+Dr.-Ing. Ralf Eichler, Diplom-Ingenieur, Dreieich 
+Chief Operating Officer 
+- 
+No posts on supervisory/control bodies 
+ 
+Dr. Christian Terlinde, Diplom-Kaufmann, Dinslaken 
+Chief Financial Officer 
+- 
+No posts on supervisory/control bodies 
+ 
+3. Supervisory Board 
+The Supervisory Board consists of the following persons, including a list of further posts held on 
+supervisory/control bodies outside JOST Werke AG: 
+ 
+Manfred Wennemer (Chair) 
+Occupation: Member of the supervisory and advisory boards of several companies 
+- 
+Member of the Advisory Board, Brückner Technology Holding GmbH, Siegsdorf, Germany 
+- 
+Chairman of the Board, TI Fluid Systems plc, England 
+- 
+Member of the Board, ACPS Automotive GmbH, Ingersheim, Germany 
+ 
+Prof. Dr. Bernd Gottschalk (Deputy Chair) 
+Occupation: Management consultant, Managing Partner of AutoValue GmbH, Frankfurt am 
+Main, Germany 
+- 
+Member of the Supervisory Board, Schaeffler AG, Herzogenaurach, Germany 
+- 
+Member of the Supervisory Board, Benteler International AG, Salzburg, Austria 
+- 
+Member of the Supervisory Board, Plastic Omnium S.A., Paris, France 
+ 
+Natalie Hayday 
+Occupation: Managing Director of 7Square GmbH, Frankfurt am Main, Germany 
+- 
+No other posts on supervisory/control bodies 
+ 
+
+- 16 - 
+ 
+Rolf Lutz 
+Occupation: Graduate engineer, retired 
+- 
+No other posts on supervisory/control bodies 
+ 
+Jürgen Schaubel 
+Occupation: Consultant, Oaktree Capital Management 
+- 
+Member of the Supervisory Board, Chairman of the Audit Committee, Optimum Maritime 
+Holding, Limassol, Cyprus 
+- 
+Member of the Board of Directors, MFD Rail Holding AG, Cham, Switzerland 
+ 
+Klaus Sulzbach 
+Occupation: Auditor/management consultant 
+- 
+No other posts on supervisory/control bodies 
+ 
+4. Remuneration of the Management Board and Supervisory Board 
+The main features of the remuneration system and the remuneration of the individual 
+Management Board and Supervisory Board members are outlined in the remuneration report. 
+The remuneration report is part of the management report.  
+Including fringe benefits, the total cash benefits (= total benefits) of the Management Board 
+amounted to EUR 2,793 thousand (previous year: EUR 3,430 thousand) and total benefits of the 
+Supervisory Board came to EUR 493 thousand (previous year: EUR 505 thousand). 
+5. Consolidated financial statements 
+The Company prepares consolidated financial statements for the smallest and the largest group 
+of companies in the JOST Group. The consolidated financial statements are published in German 
+in the electronic version of the Bundesanzeiger (Federal Gazette).  
+The consolidated financial statements of JOST Werke AG have been prepared in accordance with 
+the requirements of the International Financial Reporting Standards (IFRSs) issued by the 
+International Accounting Standards Board (IASB), London, that are effective as of the reporting 
+date, and the Interpretations issued by the International Reporting Interpretations Committee, 
+as adopted by the European Union (EU). 
+ 
+ 
+
+- 17 - 
+ 
+ 
+6. Auditor’s fee 
+In accordance with Section 285 No. 17 HGB, the fees for the auditors are stated in the 
+consolidated financial statements of JOST Werke AG. In addition to auditing the single entity and 
+consolidated financial statements, the auditors performed tax advisory services (mainly the 
+preparation of tax returns, assistance with tax audits).  
+7. Report on post-balance sheet date events 
+No material events or developments occurred that would have led to a change in the 
+presentation or the carrying amount of the individual assets and liabilities as of December 31, 
+2020. 
+8. Proposal on the appropriation of profits 
+A proposal will be made to the Annual General Meeting to distribute EUR 1.00 per share from 
+the net retained profit of EUR 14,900 thousand shown by JOST Werke AG for the period ended 
+December 31, 2020.  
+9. Declaration of compliance with the German Corporate Governance Code 
+The required corporate governance statement in accordance with Section 289f (1) HGB is 
+available on our website at http://ir.jost-world.com/corporate-governance.  
+10. Disclosures in accordance with Section 160 (1) No. 8 AktG 
+At the reporting date, there were investments in the Company of which the Company was 
+notified in accordance with Section 21 (1) of the Wertpapierhandelsgesetz (German Securities 
+Trading Act – WpHG) and that were published on our website at http://ir.jost-world.com in 
+accordance with Section 26 (1) WpHG. We also refer to the statements in the section of the 
+management report entitled “Takeover-related disclosures”. 
+ 
+Neu-Isenburg, March 17, 2021 
+ 
+ 
+ 
+ 
+Joachim Dürr 
+ 
+ 
+Dr. Ralf Eichler 
+ 
+Dr. Christian Terlinde 
+
+- 18 - 
+ 
+Responsibility statement 
+To the best of our knowledge, and in accordance with the applicable reporting principles, the 
+annual financial statements give a true and fair view of the assets, liabilities, financial position 
+and profit or loss of the Company, and the management report, which is combined with the 
+Group management report, includes a fair review of the development and performance of the 
+business and the position of the Company, together with a description of the material 
+opportunities and risks associated with the expected development of the Company. 
+ 
+Neu-Isenburg, Germany, March 17, 2021 
+ 
+ 
+ 
+ 
+ 
+Joachim Dürr 
+Dr. Ralf Eichler 
+Dr. Christian Terlinde 
+ 
+
+INDEPENDENT AUDITOR’S REPORT 
+ 
+"The following copy of the auditor's report also includes a "Report on the audit of the electronic 
+renderings of the financial statements and the management report prepared for disclosure 
+purposes in accordance with § 317 Abs. 3b HGB" ("Separate report on ESEF conformity "). The 
+subject matter (ESEF documents) to which the Separate report on ESEF conformity relates is not 
+attached. The audited ESEF documents can be inspected in or retrieved from the Federal Gazette." 
+ 
+To JOST Werke AG, Neu-Isenburg 
+REPORT ON THE AUDIT OF THE ANNUAL FINANCIAL STATEMENTS AND OF THE 
+MANAGEMENT REPORT 
+Audit Opinions 
+We have audited the annual financial statements of JOST Werke AG, Neu-Isenburg, which 
+comprise the balance sheet as at 31 December 2020, and the statement of profit and loss for the 
+financial year from 1 January to 31 December 2020 and notes to the financial statements, 
+including the presentation of the recognition and measurement policies. In addition, we have 
+audited the management report of JOST Werke AG, which is combined with the group 
+management report, for the financial year from 1 January to 31 December 2020. In accordance 
+with the German legal requirements, we have not audited the content of those parts of the 
+management report listed in the “Other Information” section of our auditor’s report. 
+In our opinion, on the basis of the knowledge obtained in the audit, 
+• 
+the accompanying annual financial statements comply, in all material respects, with the 
+requirements of German commercial law and give a true and fair view of the assets, 
+liabilities and financial position of the Company as at 31 December 2020 and of its financial 
+performance for the financial year from 1 January to 31 December 2020 in compliance with 
+German Legally Required Accounting Principles, and 
+• 
+the accompanying management report as a whole provides an appropriate view of the 
+Company’s position. In all material respects, this management report is consistent with the 
+annual financial statements, complies with German legal requirements and appropriately 
+presents the opportunities and risks of future development. Our audit opinion on the 
+management report does not cover the content of those parts of the management report 
+listed in the “Other Information” section of our auditor’s report. 
+Pursuant to § [Article] 322 Abs. [paragraph] 3 Satz [sentence] 1 HGB [Handelsgesetzbuch: 
+German Commercial Code], we declare that our audit has not led to any reservations relating to 
+the legal compliance of the annual financial statements and of the management report. 
+Basis for the Audit Opinions 
+We conducted our audit of the annual financial statements and of the management report in 
+accordance with § 317 HGB and the EU Audit Regulation (No. 537/2014, referred to 
+subsequently as "EU Audit Regulation") in compliance with German Generally Accepted 
+
+Standards for Financial Statement Audits promulgated by the Institut der Wirtschaftsprüfer 
+[Institute of Public Auditors in Germany] (IDW). Our responsibilities under those requirements 
+and principles are further described in the "Auditor’s Responsibilities for the Audit of the Annual 
+Financial Statements and of the Management Report" section of our auditor’s report. We are 
+independent of the Company in accordance with the requirements of European law and German 
+commercial and professional law, and we have fulfilled our other German professional 
+responsibilities in accordance with these requirements. In addition, in accordance with 
+Article 10 (2) point (f) of the EU Audit Regulation, we declare that we have not provided non-
+audit services prohibited under Article 5 (1) of the EU Audit Regulation. We believe that the 
+audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit 
+opinions on the annual financial statements and on the management report. 
+Key Audit Matters in the Audit of the Annual Financial Statements 
+Key audit matters are those matters that, in our professional judgment, were of most 
+significance in our audit of the annual financial statements for the financial year from 1 January 
+to 31 December 2020. These matters were addressed in the context of our audit of the annual 
+financial statements as a whole, and in forming our audit opinion thereon; we do not provide a 
+separate audit opinion on these matters. 
+In our view, the matter of most significance in our audit was as follows: 
+❶ Measurement of shares in the subsidiary 
+Our presentation of this key audit matter has been structured as follows: 
+① Matter and issue 
+② Audit approach and findings 
+③ Reference to further information 
+Hereinafter we present the key audit matter: 
+❶ Measurement of shares in the subsidiary 
+①  
+In the annual financial statements of JOST Werke AG shares in the subsidiary Jasione 
+GmbH are reported as shares in affiliated companies amounting to EUR 706.0 million 
+(85.0% of total assets) under the "Financial assets" balance sheet item as at 31 December  
+2020. Shares in affiliated companies are measured in accordance with German commercial 
+law at the lower of cost respectively fair value. The fair value is calculated using a 
+discounted cash flow model as the present values of the expected future cash flows 
+according to the planning projections prepared by the executive directors. Expectations 
+relating to future market developments and assumptions about the development of 
+macroeconomic factors as well as the expected effects of the ongoing Corona crisis on the 
+business activities of the sub-sidiary are also taken into account. The discount rate used is 
+the individually determined cost of capital. On the basis of the values determined and 
+supplementary documentation, no write-downs were required for the financial year. 
+ 
+
+The outcome of this valuation is dependent to a large extent on the estimates made by the 
+executive directors of the future cash flows, and on the discount rate and rate of growth 
+used. The valuation is therefore, also against the background of the effects of the Corona cri-
+sis, subject to material uncertainties. Against this background and due to the highly complex 
+nature of the valuation and its material significance for the Company's assets, liabilities and 
+financial performance, this matter was of particular significance in the context of our audit 
+② As part of our audit, with respect to the valuation of the shares in the subsidiary as at 31 De-
+cember 2020 we assessed the methodology used and assessed whether the fair value was 
+ap-propriately determined using discounted cash flow methods, in compliance with the 
+rele-vant measurement standards. For this purpose, we assessed whether the underlying 
+future cash flows and the applied costs of capital form, overall, an appropriate basis. We 
+based our assessment, among other things, on a comparison with general and sector-
+specific market expectations as well as on the executive directors' detailed explanations 
+regarding the key value drivers underlying the expected cash flows. We also evaluated the 
+assessment of the executive directors regarding the effects of the Corona crisis on the 
+business activities of the subsidiary and examined how they were taken into account in 
+determining the future cash flows.. In the knowledge that even relatively small changes in 
+the discount rate applied can have material effects on values, we also assessed the 
+parameters used to determine the dis-count rate applied, and evaluated the calculation 
+model. In addition, a comparison was car-ried out against the market capitalization and 
+expectations of the analysts of JOST Werke AG.  
+ 
+In our view, taking into consideration the information available, the valuation parameters 
+and underlying assumptions used by the executive directors are appropriate overall for the 
+purpose of appropriately measuring the shares of the subsidiary. 
+ 
+③ The Company's disclosures relating to long-term financial assets are contained in the 
+section entitled "II. Accounting policies" and section III "1. Fixed assets/long-term financial 
+assets" in the notes to the annual financial statements. 
+Other Information 
+The executive directors are responsible for the other information. The other information com-
+prises the following non-audited parts of the management report: 
+• 
+the statement on corporate governance pursuant to § 289f HGB and § 315d HGB 
+included in section "statement on corporate governance " of the management report 
+• 
+the separate non-financial report pursuant to § 289b Abs. 3 HGB and § 315b Abs. 3 HGB 
+Our audit opinions on the annual financial statements and on the management report do not 
+cover the other information, and consequently we do not express an audit opinion or any other 
+form of assurance conclusion thereon. 
+In connection with our audit, our responsibility is to read the other information and, in so doing, 
+to consider whether the other information 
+• 
+is materially inconsistent with the annual financial statements, with the management report 
+or our knowledge obtained in the audit, or 
+• 
+otherwise appears to be materially misstated. 
+
+Responsibilities of the Executive Directors and the Supervisory Board for the Annual Financial 
+Statements and the Management Report 
+The executive directors are responsible for the preparation of the annual financial statements 
+that comply, in all material respects, with the requirements of German commercial law, and that 
+the annual financial statements give a true and fair view of the assets, liabilities, financial 
+position and financial performance of the Company in compliance with German Legally Required 
+Accounting Principles. In addition, the executive directors are responsible for such internal 
+control as they, in accordance with German Legally Required Accounting Principles, have 
+determined necessary to enable the preparation of annual financial statements that are free 
+from material misstatement, whether due to fraud or error. 
+In preparing the annual financial statements, the executive directors are responsible for 
+assessing the Company’s ability to continue as a going concern. They also have the responsibility 
+for disclosing, as applicable, matters related to going concern. In addition, they are responsible 
+for financial reporting based on the going concern basis of accounting, provided no actual or 
+legal circumstances conflict therewith. 
+Furthermore, the executive directors are responsible for the preparation of the management 
+report that as a whole provides an appropriate view of the Company’s position and is, in all 
+material respects, consistent with the annual financial statements, complies with German legal 
+requirements, and appropriately presents the opportunities and risks of future development. In 
+addition, the executive directors are responsible for such arrangements and measures (systems) 
+as they have considered necessary to enable the preparation of a management report that is in 
+accordance with the applicable German legal requirements, and to be able to provide sufficient 
+appropriate evidence for the assertions in the management report. 
+The supervisory board is responsible for overseeing the Company’s financial reporting process 
+for the preparation of the annual financial statements and of the management report. 
+Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of the Management 
+Report 
+Our objectives are to obtain reasonable assurance about whether the annual financial 
+statements as a whole are free from material misstatement, whether due to fraud or error, and 
+whether the management report as a whole provides an appropriate view of the Company’s 
+position and, in all material respects, is consistent with the annual financial statements and the 
+knowledge obtained in the audit, complies with the German legal requirements and 
+appropriately presents the opportunities and risks of future development, as well as to issue an 
+auditor’s report that includes our audit opinions on the annual financial statements and on the 
+management report. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted 
+in accordance with § 317 HGB and the EU Audit Regulation and in compliance with German 
+Generally Accepted Standards for Financial Statement Audits promulgated by the Institut der 
+
+Wirtschaftsprüfer (IDW) will always detect a material misstatement. Misstatements can arise 
+from fraud or error and are considered material if, individually or in the aggregate, they could 
+reasonably be expected to influence the economic decisions of users taken on the basis of these 
+annual financial statements and this management report. 
+We exercise professional judgment and maintain professional skepticism throughout the audit. 
+We also:  
+• 
+Identify and assess the risks of material misstatement of the annual financial statements and 
+of the management report, whether due to fraud or error, design and perform audit 
+procedures responsive to those risks, and obtain audit evidence that is sufficient and 
+appropriate to provide a basis for our audit opinions. The risk of not detecting a material 
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may 
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal controls. 
+• 
+Obtain an understanding of internal control relevant to the audit of the annual financial 
+statements and of arrangements and measures (systems) relevant to the audit of the 
+management report in order to design audit procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an audit opinion on the effectiveness of 
+these systems of the Company. 
+• 
+Evaluate the appropriateness of accounting policies used by the executive directors and the 
+reasonableness of estimates made by the executive directors and related disclosures. 
+• 
+Conclude on the appropriateness of the executive directors’ use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists 
+related to events or conditions that may cast significant doubt on the Company’s ability to 
+continue as a going concern. If we conclude that a material uncertainty exists, we are 
+required to draw attention in the auditor’s report to the related disclosures in the annual 
+financial statements and in the management report or, if such disclosures are inadequate, to 
+modify our respective audit opinions. Our conclusions are based on the audit evidence 
+obtained up to the date of our auditor’s report. However, future events or conditions may 
+cause the Company to cease to be able to continue as a going concern. 
+• 
+Evaluate the overall presentation, structure and content of the annual financial statements, 
+including the disclosures, and whether the annual financial statements present the 
+underlying transactions and events in a manner that the annual financial statements give a 
+true and fair view of the assets, liabilities, financial position and financial performance of the 
+Company in compliance with German Legally Required Accounting Principles. 
+• 
+Evaluate the consistency of the management report with the annual financial statements, its 
+conformity with German law, and the view of the Company’s position it provides. 
+• 
+Perform audit procedures on the prospective information presented by the executive 
+directors in the management report. On the basis of sufficient appropriate audit evidence we 
+evaluate, in particular, the significant assumptions used by the executive directors as a basis 
+for the prospective information, and evaluate the proper derivation of the prospective 
+information from these assumptions. We do not express a separate audit opinion on the 
+prospective information and on the assumptions used as a basis. There is a substantial 
+unavoidable risk that future events will differ materially from the prospective information. 
+
+We communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and significant audit findings, including any significant 
+deficiencies in internal control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+the relevant independence requirements, and communicate with them all relationships and 
+other matters that may reasonably be thought to bear on our independence, and where 
+applicable, the related safeguards. 
+From the matters communicated with those charged with governance, we determine those 
+matters that were of most significance in the audit of the annual financial statements of the 
+current period and are therefore the key audit matters. We describe these matters in our 
+auditor’s report unless law or regulation precludes public disclosure about the matter. 
+OTHER LEGAL AND REGULATORY REQUIREMENTS 
+Assurance Report in Accordance with § 317 Abs. 3b HGB on the Electronic Reproduction of 
+the Annual Financial Statements and the Management Report Prepared for Publication 
+Purposes  
+Reasonable Assurance Conclusion  
+We have performed an assurance engagement in accordance with § 317 Abs. 3b HGB to obtain 
+reasonable assurance about whether the reproduction of the annual financial statements and the 
+management report (hereinafter the “ESEF documents”) contained in the attached electronic file 
+JOST_Werke_AG_JA_LB_ESEF-2020-12-31.zip and prepared for publication purposes complies in 
+all material respects with the requirements of § 328 Abs. 1 HGB for the electronic reporting 
+format (“ESEF format”). In accordance with German legal requirements, this assurance 
+engagement only extends to the conversion of the information contained in the annual financial 
+statements and the management report into the ESEF format and therefore relates neither to the 
+information contained within this reproduction nor to any other information contained in the 
+above-mentioned electronic file. 
+In our opinion, the reproduction of the annual financial statements and the management report 
+contained in the above-mentioned attached electronic file and prepared for publication 
+purposes complies in all material respects with the requirements of § 328 Abs. 1 HGB for the 
+electronic reporting format. We do not express any opinion on the information contained in this 
+reproduction nor on any other information contained in the above-mentioned electronic file 
+beyond this reasonable assurance conclusion and our audit opinion on the accompanying annual 
+financial statements and the accompanying management report for the financial year from 
+1 January to 31 December 2020 contained in the “Report on the Audit of the Annual Financial 
+Statements and on the Management Report” above. 
+Basis for the Reasonable Assurance Conclusion 
+
+We conducted our assurance engagement on the reproduction of the annual financial statements 
+and the management report contained in the above mentioned attached electronic file in 
+accordance with § 317 Abs. 3b HGB and the Exposure Draft of IDW Assurance Standard: 
+Assurance in Accordance with § 317 Abs. 3b HGB on the Electronic Reproduction of Financial 
+Statements and Management Reports Prepared for Publication Purposes (ED IDW AsS 410) and 
+the International Standard on Assurance Engagements 3000 (Revised). Accordingly, our 
+responsibilities are further described below in the “Auditor’s Responsibilities for the Assurance 
+Engagement on the ESEF Documents” section. Our audit firm has applied the IDW Standard on 
+Quality Management: Requirements for Quality Management in the Audit Firm (IDW QS 1). 
+Responsibilities of the Executive Directors and the Supervisory Board for the ESEF Documents 
+The executive directors of the Company are responsible for the preparation of the ESEF 
+documents including the electronic reproduction of the annual financial statements and the 
+management report in accordance with § 328 Abs. 1 Satz 4 Nr. 1 HGB.  
+In addition, the executive directors of the Company are responsible for such internal control as 
+they have considered necessary to enable the preparation of ESEF documents that are free from 
+material non-compliance with the requirements of § 328 Abs. 1 HGB for the electronic reporting 
+format, whether due to fraud or error. 
+The executive directors of the Company are also responsible for the submission of the ESEF 
+documents together with the auditor's report and the attached audited annual financial 
+statements and audited management report as well as other documents to be published to the 
+operator of the German Federal Gazette [Bundesanzeiger]. 
+The supervisory board is responsible for overseeing the preparation of the ESEF-documents as 
+part of the financial reporting process. 
+Auditor's Responsibilities for the Assurance Engagement on the ESEF Documents 
+Our objective is to obtain reasonable assurance about whether the ESEF documents are free 
+from material non-compliance with the requirements of § 328 Abs. 1 HGB, whether due to fraud 
+or error. We exercise professional judgment and maintain professional skepticism throughout 
+the assurance engagement. We also: 
+• 
+Identify and assess the risks of material non-compliance with the requirements of § 328 Abs. 
+1 HGB, whether due to fraud or error, design and perform assurance procedures responsive 
+to those risks, and obtain assurance evidence that is sufficient and appropriate to provide a 
+basis for our assurance conclusion. 
+• 
+Obtain an understanding of internal control relevant to the assurance engagement on the 
+ESEF documents in order to design assurance procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an assurance conclusion on the 
+effectiveness of these controls. 
+• 
+Evaluate the technical validity of the ESEF documents, i.e., whether the electronic file 
+containing the ESEF documents meets the requirements of the Delegated Regulation (EU) 
+
+2019/815 in the version applicable as at the balance sheet date on the technical specification 
+for this electronic file. 
+• 
+Evaluate whether the ESEF documents enables a XHTML reproduction with content 
+equivalent to the audited annual financial statements and to the audited management report. 
+Further Information pursuant to Article 10 of the EU Audit Regulation 
+We were elected as auditor by the annual general meeting on 1 July 2020. We were engaged by 
+the supervisory board on 2 December 2020. We have been the auditor of the JOST Werke AG, 
+Neu-Isenburg without interruption since the financial year 2017. 
+We declare that the audit opinions expressed in this auditor’s report are consistent with the 
+additional report to the audit committee pursuant to Article 11 of the EU Audit Regulation (long-
+form audit report). 
+GERMAN PUBLIC AUDITOR RESPONSIBLE FOR THE ENGAGEMENT 
+The German Public Auditor responsible for the engagement is Stefan Hartwig. 
+ 
+ 
+ 
+Frankfurt am Main, March 17, 2021 
+ 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+[Original German Version signed by] 
+ 
+Stefan Hartwig 
+ 
+ 
+ppa. Richard Gudd 
+ 
+Wirtschaftsprüfer 
+ 
+ 
+Wirtschaftsprüfer 
+ 
+[German Public Auditor] 
+ 
+[German Public Auditor]

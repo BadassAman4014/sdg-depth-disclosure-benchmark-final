@@ -1,0 +1,3056 @@
+IMPORTANT. Please refer to the last page of this report for “Important disclosures”  
+and analyst(s) certifications. 
+mwb-research.com 
+This research is the product of mwb research, which is registered 
+with the BaFin in Germany. 
+MTU Aero Engines AG 
+Germany  |  Industrial Goods & Services  |  MCap EUR 13,965m  
+2 August 2024 
+UPDATE 
+ 
+Q2: Adj. EBIT surprises 
+positively, revenues a 
+slight miss. BUY 
+What’s it all about? 
+MTU reported an impressive set of numbers in Q2 2024. Although revenue growth of 
+12% yoy to EUR 1.8bn slightly missed consensus by 1%, adj. EBIT beat both mwb est. 
+and consensus by a wide 13%-14%. Adj. EBIT grew 31% yoy, with the margin improving
+210bps yoy to 14.4%, bolstered by a favorable revenue mix in the engine business, lower
+material intensity in Geared Turbofan MRO, and recovering spare parts sales. Notably,
+organic revenue growth in the spare parts business was in the mid-single-digit % range
+(in USD) in H1 (vs -5% yoy in Q1). MTU’s order backlog was strong at EUR 25.2bn at end-
+Q2. Given good business progress so far and gradually easing supply situation,
+management maintained its FY 24 revenue guidance at EUR 7.3bn-EUR 7.5bn, while it
+slightly increased its adj. EBIT margin outlook to c.13% from over 12% earlier. We 
+continue to hold a constructive view on MTU, as its long-term growth prospects remain
+strong, supported by a solid commercial aircraft backlog and strong MRO and 
+aftermarket demand. We raise our estimates and reiterate our BUY rating, with a revised
+price target of EUR 290.00 (old: EUR 278.00). 
+BUY (BUY) 
+Target price 
+EUR 290.00 (278.00) 
+Current price 
+EUR 260.10 
+Up/downside  
+11.5% 
+ 
+MAIN AUTHOR 
+Dr. Oliver Wojahn, CFA 
+o.wojahn@mwb-research.com 
++49 40 309 293-58 
+ 
+
+mwb research AG 
+Page 2 of 18 
+ 
+MTU Aero Engines AG 
+Germany  |  Industrial Goods & Services  |  MCap EUR 13,965m  |  EV EUR 14,738m 
+BUY (BUY) 
+Target price 
+Current price 
+Up/downside  
+ 
+ 
+EUR 290.00 (278.00) 
+EUR 260.10 
+11.5% 
+MAIN AUTHOR 
+Dr. Oliver Wojahn, CFA 
+o.wojahn@mwb-research.com 
++49 40 309 293-58 
+ 
+ 
+Q2: Adj. EBIT surprises positively, revenues a slight miss. BUY  
+ 
+An impressive set of results in Q2 2024, guidance updated. MTU’s Q2 2024 numbers 
+were better than expected on its strong engine business and a recovery in spare parts 
+sales. As anticipated, adjusted (adj.) revenue growth accelerated in Q2 vs Q1, 
+although the top line missed consensus and mwb est. by 1% and 3%, respectively. 
+However, positive surprise came from adj. EBIT (+31% yoy), which surpassed 
+consensus and mwb est. by 13%-14% on an improving mix. Given solid progress so 
+far in 2024, management reiterated its revenue target of EUR 7.3bn-EUR 7.5bn for the 
+full year, led by growth across segments, while it increased its adj. EBIT margin 
+guidance to c.13% vs over 12% earlier. It maintained that adj. net income will grow in 
+line with adj. EBIT and FCF will grow to low triple digits EURm. 
+ 
+Broad-based revenue growth in Q2. Adj. revenue growth accelerated to 12% yoy to 
+EUR 1.8bn (vs +8% yoy in Q1), led by both the OEM (a 15% beat vs mwb est.) and 
+commercial MRO businesses (but a 7% miss). The top line grew by 14% yoy to EUR 
+470m in the commercial OEM segment on good traction in Geared Turbofan and 
+business jet engines, in addition to a revival in spare parts sales. The OEM military 
+segment’s revenues increased 18% yoy to EUR 148m, led by the EJ200 engine for the 
+Eurofighter. Commercial MRO’s revenues grew 10% yoy to EUR 1.2bn, on incremental 
+maintenance business for GE90/GEnx engines and healthy engine leasing business. 
+ 
+Adj. EBIT grows disproportionately. Adj. EBIT increased 31% yoy to EUR 252m (+16% 
+qoq) and overall margins improved 210bps yoy to 14.4%. MRO reported strong adj. 
+EBIT of EUR 95m, up 32% yoy (margin: +130bps yoy to 8.1%), as did the OEM business 
+(+30% yoy to EUR 157m; margin: +3.0ppt yoy to 25.5%), which saw a good recovery 
+on an improved revenue mix and higher sales of spare parts. 
+ 
+Maintain BUY. MTU is optimistic about the improvement in the supply chain situation 
+in H2 and a further revival in the spares business. Even if aircraft deliveries in FY24 
+fall slightly short of original expectations, MTU’s long-term growth prospects are 
+underpinned by a strong commercial aircraft order book, skewed towards narrow 
+bodies and strong MRO and aftermarket demand. We raise our estimates and 
+reiterate our BUY rating, with a revised price target of EUR 290.00 (old: EUR 278.00). 
+MTU Aero Engines AG 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Sales 
+4,188 
+5,330 
+5,363 
+7,455 
+8,088 
+8,675 
+Growth yoy 
+5.3% 
+27.3% 
+0.6% 
+39.0% 
+8.5% 
+7.2% 
+EBITDA 
+699 
+812 
+179 
+1,308 
+1,424 
+1,545 
+EBIT 
+355 
+508 
+-161 
+953 
+1,047 
+1,145 
+Net profit 
+222 
+331 
+-102 
+667 
+743 
+815 
+Net debt (net cash) 
+605 
+388 
+60 
+-166 
+-424 
+-780 
+Net debt/EBITDA 
+0.9x 
+0.5x 
+0.3x 
+-0.1x 
+-0.3x 
+-0.5x 
+EPS reported 
+4.16 
+6.20 
+-1.90 
+12.42 
+13.84 
+15.18 
+DPS 
+2.10 
+3.20 
+2.00 
+2.48 
+3.46 
+4.55 
+Dividend yield 
+0.8% 
+1.2% 
+0.8% 
+1.0% 
+1.3% 
+1.8% 
+Gross profit margin 
+13.3% 
+15.3% 
+1.5% 
+17.5% 
+18.0% 
+18.0% 
+EBITDA margin 
+16.7% 
+15.2% 
+3.3% 
+17.5% 
+17.6% 
+17.8% 
+EBIT margin 
+8.5% 
+9.5% 
+-3.0% 
+12.8% 
+13.0% 
+13.2% 
+ROCE 
+6.7% 
+9.1% 
+-3.0% 
+12.9% 
+14.6% 
+15.2% 
+EV/EBITDA 
+22.1x 
+18.5x 
+82.3x 
+11.3x 
+10.2x 
+9.3x 
+EV/EBIT 
+43.6x 
+29.6x 
+-91.5x 
+15.5x 
+13.9x 
+12.5x 
+PER 
+62.5x 
+41.9x 
+-136.9x 
+20.9x 
+18.8x 
+17.1x 
+FCF yield 
+4.1% 
+5.2% 
+5.6% 
+2.9% 
+3.4% 
+4.5% 
+Source: Company data, mwb research 
+  
+  
+  
+ 
+Source: Company data, mwb research 
+High/low 52 weeks  
+279.10 / 158.20 
+Price/Book Ratio  
+4.9x 
+ 
+Ticker / Symbols 
+ISIN 
+DE000A0D9PT0 
+WKN 
+A0D9PT 
+Bloomberg 
+MTX:GR 
+ 
+Changes in estimates 
+ 
+ 
+Sales 
+EBIT 
+EPS 
+2024E 
+old 
+∆ 
+7,401 
+0.7% 
+910 
+4.8% 
+11.90 
+4.4% 
+2025E 
+ 
+old 
+∆ 
+7,956 
+1.7% 
+1,010 
+3.7% 
+13.33 
+3.8% 
+2026E 
+ 
+old 
+∆ 
+8,513 
+1.9% 
+1,124 
+1.9% 
+14.89 
+1.9% 
+ 
+Key share data 
+Number of shares: (in m pcs)  
+53.69 
+Book value per share: (in EUR)  
+53.32 
+Ø trading vol.: (12 months)  
+177,166 
+ 
+Major shareholders 
+BlackRock Investment Man  
+9.2% 
+Capital International Lt 
+6.5% 
+Capital Research & Manag 
+4.8% 
+BlackRock Fund Advisors 
+3.6% 
+The Vanguard Group, Inc. 
+3.5% 
+DWS Investment GmbH 
+3.1% 
+Free Float  
+69.3% 
+ 
+Company description 
+MTU Aero Engines AG is a Germany-
+based manufacturer of aircraft engines. 
+The Company operates through two 
+segments: the commercial and military 
+engine business (OEM) and commercial 
+maintenance business (MRO).  
+
+mwb research AG 
+Page 3 of 18 
+ 
+ 
+The following table displays the quarterly performance of MTU Aero Engines AG.  
+ 
+ 
+ 
+P&L data 
+Q3 2022 
+Q4 2022 
+Q1 2023 
+Q2 2023 
+Q3 2023 
+Q4 2023 
+Q1 2024 
+Q2 2024 
+Sales 
+1,349.0 
+1,513.0 
+1,544.0 
+1,549.0 
+1,517.0 
+1,711.0 
+1,675.0 
+1,740.0 
+yoy growth in % 
+34.4% 
+28.2% 
+30.8% 
+20.2% 
+12.5% 
+13.1% 
+8.5% 
+12.3% 
+Gross profit 
+234.0 
+270.0 
+273.0 
+247.0 
+234.0 
+321.0 
+285.0 
+310.0 
+Gross margin in % 
+17.3% 
+17.8% 
+17.7% 
+15.9% 
+15.4% 
+18.8% 
+17.0% 
+17.8% 
+EBITDA 
+220.0 
+255.0 
+278.0 
+259.0 
+274.0 
+344.0 
+275.0 
+321.0 
+EBITDA margin in % 
+16.3% 
+16.9% 
+18.0% 
+16.7% 
+18.1% 
+20.1% 
+16.4% 
+18.4% 
+EBIT 
+147.0 
+177.0 
+202.0 
+193.0 
+192.0 
+249.0 
+188.0 
+232.0 
+EBIT margin in % 
+10.9% 
+11.7% 
+13.1% 
+12.5% 
+12.7% 
+14.6% 
+11.2% 
+13.3% 
+EBT 
+133.0 
+163.0 
+191.0 
+171.0 
+152.0 
+236.0 
+176.0 
+222.0 
+taxes paid 
+41.0 
+42.0 
+57.0 
+49.0 
+14.0 
+21.0 
+50.0 
+61.0 
+tax rate in % 
+30.8% 
+25.8% 
+29.8% 
+28.7% 
+9.2% 
+8.9% 
+28.4% 
+27.5% 
+net profit 
+92.0 
+121.0 
+134.0 
+121.0 
+138.0 
+215.0 
+126.0 
+162.0 
+yoy growth in % 
+5.7% 
+255.9% 
+152.8% 
+83.3% 
+50.0% 
+77.7% 
+-6.0% 
+33.9% 
+EPS 
+1.74 
+2.23 
+2.47 
+2.28 
+2.56 
+3.96 
+2.35 
+2.96 
+Source: Company data; mwb research 
+ 
+ 
+
+mwb research AG 
+Page 4 of 18 
+ 
+Investment case in six charts 
+ 
+Source: Company data; mwb research 
+Products & Services
+Regional sales split in %
+Segmental breakdown in %
+Shareholders
+Clean Technology Roadmap
+Domestic
+14%
+Europe (ex 
+domestic)
+7%
+The Americas
+70%
+Asia
+4%
+Rest of World
+5%
+OEM
+33%
+MRO
+67%
+Free Float; 69%
+BlackRock 
+Investment Man; 
+9%
+Capital 
+International Lt; 
+7%
+Capital Research 
+& Manag; 5%
+BlackRock Fund 
+Advisors; 4%
+The Vanguard 
+Group, Inc.; 3%
+
+mwb research AG 
+Page 5 of 18 
+ 
+SWOT analysis 
+Strengths 
+• 
+Strong technology portfolio in critical engine components 
+• 
+Market leader as independent engine MRO provider 
+• 
+High share of recurring revenues in MRO 
+• 
+Profitable throughout the cycle 
+• 
+Early mover in future engine concepts (e.g. geared turbofan) 
+Weaknesses 
+• 
+FX exposure 
+• 
+Complex relationship to engine OEMs: they are risk- and revenue-sharing 
+partners in the OEM business and competitors in MRO business 
+• 
+Cyclical -> high capital costs (high cost of equity, low gearing) 
+Opportunities 
+• 
+Exposure to narrow-body and freight aircraft make MTU an early 
+beneficiary of the post-Covid recovery 
+• 
+Secular growth of air traffic 
+• 
+Strengthening of USD 
+Threats 
+• 
+Price of Brent crude, renewed travel restrictions and trade conflicts could 
+dampen air traffic recovery 
+• 
+Increasing competition in MRO from low-cost bases 
+• 
+Chinese jet engine programs (long-term) 
+• 
+tighter regulatory regime(s) in aviation: aviation and kerosene taxes, 
+environmental restrictions on greenhouse gas emissions and noise 
+pollution, ban on short haul traffic 
+ 
+ 
+ 
+
+mwb research AG 
+Page 6 of 18 
+ 
+Valuation 
+DCF Model 
+The DCF model results in a fair value of EUR 290.25 per share: 
+ 
+Top-line growth: We expect MTU Aero Engines AG to grow revenues at a CAGR of 
+4.2% between 2024E and 2031E. The long-term growth rate is set at 2.0%. 
+ROCE. Returns on capital are developing from 12.9% in 2024E to 13.5% in 2031E.  
+WACC. Starting point is a historical equity beta of 0.93. Unleverering and correcting 
+for mean reversion yields an asset beta of 0.87. Combined with a risk-free rate of 
+2.0% and an equity risk premium of 6.0% this yields cost of equity of 7.9%. With pre-
+tax cost of borrowing at 5.0%, a tax rate of 25% and target debt/equity of 0.2 this 
+results in a long-term WACC of 7.3%. 
+ 
+ 
+DCF (EURm)  
+(except per share data and beta) 
+2024E 
+2025E 
+2026E 
+2027E 
+2028E 
+2029E 
+2030E 
+2031E 
+Terminal 
+value 
+NOPAT 
+701 
+770 
+842 
+869 
+861 
+901 
+862 
+883 
+  
+Depreciation & amortization 
+355 
+376 
+400 
+423 
+433 
+443 
+454 
+464 
+  
+Change in working capital 
+-1,389 
+-136 
+-50 
+-24 
+-23 
+-15 
+-20 
+-20 
+  
+Chg. in long-term provisions 
+1,119 
+-145 
+-153 
+-204 
+44 
+40 
+38 
+39 
+  
+Capex 
+-432 
+-461 
+-486 
+-448 
+-461 
+-473 
+-485 
+-496 
+  
+Cash flow 
+354 
+404 
+553 
+616 
+854 
+895 
+850 
+870 
+16,823 
+Present value 
+344 
+366 
+467 
+485 
+627 
+613 
+543 
+518 
+9,994 
+WACC 
+7.3% 
+7.3% 
+7.3% 
+7.3% 
+7.3% 
+7.2% 
+7.2% 
+7.2% 
+7.3% 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+DCF per share derived from 
+  
+DCF avg. growth and earnings assumptions 
+  
+  
+  
+  
+  
+  
+  
+Planning horizon avg. revenue growth (2024E-2031E) 
+  
+4.2% 
+Total present value 
+13,956   
+Terminal value growth (2031E - infinity) 
+  
+  
+2.0% 
+Mid-year adj. total present value 
+14,454   
+Terminal year ROCE 
+  
+  
+  
+  
+13.5% 
+Net debt / cash at start of year 
+60   
+Terminal year WACC 
+  
+  
+  
+  
+7.3% 
+Financial assets 
+1,903   
+  
+  
+  
+  
+  
+  
+  
+Provisions and off b/s debt 
+713   
+Terminal WACC derived from 
+  
+  
+  
+  
+Equity value 
+  
+15,584   
+Cost of borrowing (before taxes) 
+  
+  
+  
+5.0% 
+No. of shares outstanding 
+53.7   
+Long-term tax rate 
+  
+  
+  
+  
+25% 
+  
+  
+    
+Equity beta 
+  
+  
+  
+  
+0.93 
+Discounted cash flow / share 
+290.25   
+Unlevered beta (industry or company) 
+  
+  
+0.87 
+upside/(downside) 
+11.6%   
+Target debt / equity 
+  
+  
+  
+  
+0.2 
+  
+  
+    
+Relevered beta 
+  
+  
+  
+  
+0.99 
+  
+  
+    
+Risk-free rate 
+  
+  
+  
+  
+2.0% 
+  
+  
+    
+Equity risk premium 
+  
+  
+  
+  
+6.0% 
+Share price 
+260.10   
+Cost of equity 
+  
+  
+  
+  
+7.9% 
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+Sensitivity analysis DCF 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Long term growth 
+  
+ Share of present value 
+  
+Change in WACC 
+(%-points) 
+ 
+1.0% 
+1.5% 
+2.0% 
+2.5% 
+3.0% 
+ 
+  
+  
+  
+2.0% 
+199.5 
+207.0 
+215.4 
+225.2 
+236.4 
+ 
+2024E-2027E 
+11.9% 
+1.0% 
+224.7 
+235.0 
+246.9 
+260.8 
+277.4 
+ 
+2028E-2031E 
+16.5% 
+0.0% 
+257.9 
+272.7 
+290.2 
+311.4 
+337.6 
+ 
+terminal value 
+71.6% 
+-1.0% 
+303.9 
+326.3 
+354.0 
+389.0 
+434.7 
+  
+  
+  
+  
+-2.0% 
+371.4 
+408.4 
+456.7 
+522.4 
+617.0 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Source: mwb research 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+mwb research AG 
+Page 7 of 18 
+ 
+FCF Yield Model 
+Due to the fact that companies rarely bear sufficient resemblance to peers in terms 
+of geographical exposure, size or competitive strength and in order to adjust for the 
+pitfalls of weak long-term visibility, an Adjusted Free Cash Flow analysis (Adjusted 
+FCF) has been conducted. 
+ 
+The adjusted Free Cash Flow Yield results in a fair value between EUR 212.17 per 
+share based on 2024E and EUR 293.78 per share on 2028E estimates.  
+ 
+The main driver of this model is the level of return available to a controlling investor, 
+influenced by the cost of that investors’ capital (opportunity costs) and the purchase 
+price – in this case the enterprise value of the company. Here, the adjusted FCF yield 
+is used as a proxy for the required return and is defined as EBITDA less minority 
+interest, taxes and investments required to maintain existing assets (maintenance 
+capex).  
+ 
+ 
+FCF yield in EURm 
+2024E 
+2025E 
+2026E 
+2027E 
+2028E 
+  
+  
+  
+  
+  
+  
+  
+EBITDA 
+  
+1,308 
+1,424 
+1,545 
+1,605 
+1,604 
+- Maintenance capex 
+355 
+376 
+400 
+423 
+433 
+- Minorities 
+14 
+15 
+17 
+17 
+17 
+- tax expenses 
+227 
+253 
+277 
+287 
+286 
+= Adjusted FCF 
+713 
+780 
+851 
+877 
+868 
+  
+  
+  
+  
+  
+  
+  
+Actual Market Cap 
+14,000 
+14,000 
+14,000 
+14,000 
+14,000 
++ Net debt (cash) 
+-166 
+-424 
+-780 
+-1,145 
+-1,699 
++ Pension provisions 
+969 
+1,051 
+1,128 
+1,164 
+1,199 
++ Off b/s financing 
+0 
+0 
+0 
+0 
+0 
+- Financial assets 
+1,903 
+1,903 
+1,903 
+1,903 
+1,903 
+- Acc. dividend payments 
+107 
+241 
+426 
+671 
+967 
+EV Reconciliations 
+-1,207 
+-1,516 
+-1,982 
+-2,555 
+-3,370 
+= Actual EV' 
+12,793 
+12,484 
+12,018 
+11,445 
+10,630 
+  
+  
+  
+  
+  
+  
+  
+Adjusted FCF yield 
+5.6% 
+6.2% 
+7.1% 
+7.7% 
+8.2% 
+base hurdle rate 
+7.0% 
+7.0% 
+7.0% 
+7.0% 
+7.0% 
+ESG adjustment  
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+adjusted hurdle rate 
+7.0% 
+7.0% 
+7.0% 
+7.0% 
+7.0% 
+Fair EV 
+  
+10,185 
+11,137 
+12,161 
+12,531 
+12,404 
+- EV Reconciliations 
+-1,207 
+-1,516 
+-1,982 
+-2,555 
+-3,370 
+Fair Market Cap 
+11,392 
+12,653 
+14,143 
+15,086 
+15,774 
+  
+  
+  
+  
+  
+  
+  
+No. of shares (million) 
+54 
+54 
+54 
+54 
+54 
+Fair value per share in EUR 
+212.17 
+235.66 
+263.41 
+280.97 
+293.78 
+Premium (-) / discount (+)  
+-18.4% 
+-9.4% 
+1.3% 
+8.0% 
+13.0% 
+  
+  
+  
+  
+  
+  
+  
+Sensitivity analysis fair value 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Adjuste
+d hurdle 
+rate 
+5.0% 
+288 
+319 
+354 
+374 
+386 
+6.0% 
+244 
+270 
+301 
+320 
+332 
+7.0% 
+212 
+236 
+263 
+281 
+294 
+8.0% 
+188 
+210 
+235 
+252 
+265 
+9.0% 
+170 
+190 
+213 
+229 
+242 
+Source: Company data; mwb research 
+ 
+Simply put, the model assumes that investors require companies to generate a 
+minimum return on the investor’s purchase price. The required after-tax return 
+equals the model’s hurdle rate of 7.0%. Anything less suggests the stock is 
+expensive; anything more suggests the stock is cheap. ESG adjustments might be 
+applicable. A high score indicates high awareness for environmental, social or 
+governance issues and thus might lower the overall risk an investment in the 
+company might carry. A low score on the contrary might increase the risk of an 
+investment and might therefore trigger a higher required hurdle rate.  
+ 
+ 
+ 
+
+mwb research AG 
+Page 8 of 18 
+ 
+Peer group analysis 
+A peer group or comparable company (“comps”) analysis is a methodology that 
+calculates a company's relative value — how much it should be worth based on how 
+it compares to other similar companies. Given that MTU Aero Engines AG differs 
+quite significantly in terms of size, focus, financial health and growth trajectory, we 
+regard our peer group analysis merely as a support for other valuation methods. The 
+peer group of MTU Aero Engines AG consists of the stocks displayed in the graphs 
+below. As of 2 August 2024 the median market cap of the peer group was EUR 
+47,985m, compared to EUR 13,965m for MTU Aero Engines AG. In the period under 
+review, the peer group was more profitable than MTU Aero Engines AG. The 
+expectations for sales growth are lower for the peer group than for MTU Aero 
+Engines AG. 
+ 
+ 
+Peer Group – Key data 
+ 
+ 
+ 
+ 
+ 
+Source: FactSet, mwb research 
+ 
+ 
+
+mwb research AG 
+Page 9 of 18 
+ 
+Comparable company analysis operates under the assumption that similar 
+companies will have similar valuation multiples. We use the following multiples: 
+EV/EBITDA 2024, EV/EBITDA 2025, EV/EBIT 2024, EV/EBIT 2025, P/E 2024 and P/E 
+2025.  
+ 
+Applying these to MTU Aero Engines AG results in a range of fair values from EUR 
+354.54 to EUR 412.36. 
+ 
+ 
+Peer Group – Multiples and valuation 
+ 
+ 
+ 
+ 
+ 
+Source: FactSet, mwb research 
+
+mwb research AG 
+Page 10 of 18 
+ 
+Risk 
+The chart displays the distribution of daily returns of MTU Aero Engines AG over 
+the last 3 years, compared to the same distribution for Woodward, Inc.. We have 
+also included the distribution for the index Germany DAX (TR). The distribution gives 
+a better understanding of risk than measures like volatility, which assume that log 
+returns are normally distributed. In reality, they are skewed (down moves are larger) 
+and have fat tails (large moves occur more often than predicted). Also, volatility 
+treats up and down moves the same, while investors are more worried about down 
+moves. For MTU Aero Engines AG, the worst day during the past 3 years was 
+11/09/2023 with a share price decline of -12.1%. The best day was 25/02/2022 
+when the share price increased by 7.7%. 
+ 
+ 
+Risk – Daily Returns Distribution (trailing 3 years) 
+ 
+ 
+ 
+ 
+ 
+Source: FactSet, mwb research 
+ 
+ 
+
+mwb research AG 
+Page 11 of 18 
+ 
+Financials in six charts 
+Sales vs. EBITDA margin development 
+ 
+EPS, DPS in EUR & yoy EPS growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ROCE vs. WACC (pre tax) 
+ 
+Net debt and net debt/EBITDA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Capex & chgn in w/c requirements in EURm 
+ 
+Free Cash Flow in EURm 
+ 
+ 
+ 
+ 
+ 
+Source: Company data; mwb research 
+ 
+ 
+
+mwb research AG 
+Page 12 of 18 
+ 
+Financials 
+ 
+Profit and loss (EURm) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Sales 
+4,188 
+5,330 
+5,363 
+7,455 
+8,088 
+8,675 
+Sales growth 
+5.3% 
+27.3% 
+0.6% 
+39.0% 
+8.5% 
+7.2% 
+Cost of sales 
+3,632 
+4,514 
+5,285 
+6,150 
+6,632 
+7,113 
+Gross profit 
+556 
+816 
+78 
+1,305 
+1,456 
+1,561 
+SG&A expenses 
+183 
+211 
+207 
+335 
+344 
+347 
+Research and development 
+81 
+104 
+112 
+134 
+146 
+156 
+Other operating expenses (income) 
+-70 
+-15 
+-88 
+-119 
+-81 
+-87 
+EBITDA 
+699 
+812 
+179 
+1,308 
+1,424 
+1,545 
+Depreciation 
+7 
+8 
+8 
+330 
+353 
+377 
+EBITA 
+434 
+565 
+-103 
+978 
+1,071 
+1,168 
+Amortisation of goodwill and intangible assets 
+79 
+57 
+58 
+24 
+24 
+23 
+EBIT 
+355 
+508 
+-161 
+953 
+1,047 
+1,145 
+Financial result 
+-40 
+-45 
+-44 
+-46 
+-37 
+-36 
+Recurring pretax income from continuing operations 
+315 
+463 
+-205 
+908 
+1,011 
+1,109 
+Extraordinary income/loss 
+0 
+0 
+0 
+0 
+0 
+0 
+Earnings before taxes 
+315 
+463 
+-205 
+908 
+1,011 
+1,109 
+Taxes 
+84 
+130 
+-108 
+227 
+253 
+277 
+Net income from continuing operations 
+231 
+333 
+-97 
+681 
+758 
+831 
+Result from discontinued operations (net of tax) 
+0 
+0 
+0 
+0 
+0 
+0 
+Net income 
+231 
+333 
+-97 
+681 
+758 
+831 
+Minority interest 
+-9 
+-2 
+-5 
+-14 
+-15 
+-17 
+Net profit (reported) 
+222 
+331 
+-102 
+667 
+743 
+815 
+Average number of shares 
+53.33 
+53.37 
+53.69 
+53.69 
+53.69 
+53.69 
+EPS reported 
+4.16 
+6.20 
+-1.90 
+12.42 
+13.84 
+15.18 
+ 
+Profit and loss (common size) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Sales 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+Cost of sales 
+87% 
+85% 
+99% 
+83% 
+82% 
+82% 
+Gross profit 
+13% 
+15% 
+1% 
+18% 
+18% 
+18% 
+SG&A expenses 
+4% 
+4% 
+4% 
+5% 
+4% 
+4% 
+Research and development 
+2% 
+2% 
+2% 
+2% 
+2% 
+2% 
+Other operating expenses (income) 
+-2% 
+-0% 
+-2% 
+-2% 
+-1% 
+-1% 
+EBITDA 
+17% 
+15% 
+3% 
+18% 
+18% 
+18% 
+Depreciation 
+0% 
+0% 
+0% 
+4% 
+4% 
+4% 
+EBITA 
+10% 
+11% 
+-2% 
+13% 
+13% 
+13% 
+Amortisation of goodwill and intangible assets 
+2% 
+1% 
+1% 
+0% 
+0% 
+0% 
+EBIT 
+8% 
+10% 
+-3% 
+13% 
+13% 
+13% 
+Financial result 
+-1% 
+-1% 
+-1% 
+-1% 
+-0% 
+-0% 
+Recurring pretax income from continuing operations 
+8% 
+9% 
+-4% 
+12% 
+12% 
+13% 
+Extraordinary income/loss 
+0% 
+0% 
+0% 
+0% 
+0% 
+0% 
+Earnings before taxes 
+8% 
+9% 
+-4% 
+12% 
+12% 
+13% 
+Taxes 
+2% 
+2% 
+-2% 
+3% 
+3% 
+3% 
+Net income from continuing operations 
+6% 
+6% 
+-2% 
+9% 
+9% 
+10% 
+Result from discontinued operations (net of tax) 
+0% 
+0% 
+0% 
+0% 
+0% 
+0% 
+Net income 
+6% 
+6% 
+-2% 
+9% 
+9% 
+10% 
+Minority interest 
+-0% 
+-0% 
+-0% 
+-0% 
+-0% 
+-0% 
+Net profit (reported) 
+5% 
+6% 
+-2% 
+9% 
+9% 
+9% 
+Source: Company data; mwb research 
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+mwb research AG 
+Page 13 of 18 
+ 
+Balance sheet (EURm) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Intangible assets (excl. Goodwill) 
+1,729 
+1,673 
+814 
+790 
+766 
+743 
+Goodwill 
+386 
+386 
+386 
+386 
+386 
+386 
+Property, plant and equipment 
+1,251 
+1,384 
+1,501 
+1,603 
+1,711 
+1,821 
+Financial assets 
+678 
+703 
+1,903 
+1,903 
+1,903 
+1,903 
+FIXED ASSETS 
+4,044 
+4,146 
+4,604 
+4,682 
+4,766 
+4,853 
+Inventories 
+1,380 
+1,514 
+1,629 
+1,837 
+1,999 
+2,144 
+Accounts receivable 
+1,854 
+2,247 
+2,258 
+3,166 
+3,435 
+3,684 
+Other current assets 
+90 
+56 
+87 
+87 
+87 
+87 
+Liquid assets 
+886 
+1,233 
+1,539 
+2,057 
+1,624 
+1,880 
+Deferred taxes 
+0 
+34 
+0 
+0 
+0 
+0 
+Deferred charges and prepaid expenses 
+50 
+0 
+87 
+112 
+121 
+130 
+CURRENT ASSETS 
+4,260 
+5,084 
+5,600 
+7,258 
+7,265 
+7,925 
+TOTAL ASSETS 
+8,304 
+9,230 
+10,204 
+11,939 
+12,032 
+12,777 
+SHAREHOLDERS EQUITY 
+2,681 
+3,035 
+2,863 
+3,436 
+4,061 
+4,707 
+MINORITY INTEREST 
+79 
+72 
+70 
+70 
+70 
+70 
+Long-term debt 
+1,338 
+1,477 
+1,397 
+1,676 
+1,100 
+1,000 
+Provisions for pensions and similar obligations 
+905 
+661 
+713 
+969 
+1,051 
+1,128 
+Other provisions 
+182 
+205 
+148 
+1,011 
+783 
+554 
+Non-current liabilities 
+2,425 
+2,343 
+2,258 
+3,656 
+2,935 
+2,681 
+short-term liabilities to banks 
+153 
+144 
+202 
+215 
+100 
+100 
+Accounts payable 
+165 
+284 
+325 
+388 
+418 
+448 
+Advance payments received on orders 
+692 
+708 
+735 
+969 
+1,051 
+1,128 
+Other liabilities (incl. from lease and rental contracts) 
+2,013 
+2,503 
+3,611 
+3,056 
+3,235 
+3,470 
+Deferred taxes 
+3 
+0 
+0 
+0 
+0 
+0  
+Deferred income 
+93 
+141 
+140 
+149 
+162 
+173 
+Current liabilities 
+3,119 
+3,780 
+5,013 
+4,777 
+4,966 
+5,319 
+TOTAL LIABILITIES AND SHAREHOLDERS EQUITY 
+8,304 
+9,230 
+10,204 
+11,939 
+12,032 
+12,777 
+ 
+Balance sheet (common size) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Intangible assets (excl. Goodwill) 
+21% 
+18% 
+8% 
+7% 
+6% 
+6% 
+Goodwill 
+5% 
+4% 
+4% 
+3% 
+3% 
+3% 
+Property, plant and equipment 
+15% 
+15% 
+15% 
+13% 
+14% 
+14% 
+Financial assets 
+8% 
+8% 
+19% 
+16% 
+16% 
+15% 
+FIXED ASSETS 
+49% 
+45% 
+45% 
+39% 
+40% 
+38% 
+Inventories 
+17% 
+16% 
+16% 
+15% 
+17% 
+17% 
+Accounts receivable 
+22% 
+24% 
+22% 
+27% 
+29% 
+29% 
+Other current assets 
+1% 
+1% 
+1% 
+1% 
+1% 
+1% 
+Liquid assets 
+11% 
+13% 
+15% 
+17% 
+13% 
+15% 
+Deferred taxes 
+0% 
+0% 
+0% 
+0% 
+0% 
+0% 
+Deferred charges and prepaid expenses 
+1% 
+0% 
+1% 
+1% 
+1% 
+1% 
+CURRENT ASSETS 
+51% 
+55% 
+55% 
+61% 
+60% 
+62% 
+TOTAL ASSETS 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+SHAREHOLDERS EQUITY 
+32% 
+33% 
+28% 
+29% 
+34% 
+37% 
+MINORITY INTEREST 
+1% 
+1% 
+1% 
+1% 
+1% 
+1% 
+Long-term debt 
+16% 
+16% 
+14% 
+14% 
+9% 
+8% 
+Provisions for pensions and similar obligations 
+11% 
+7% 
+7% 
+8% 
+9% 
+9% 
+Other provisions 
+2% 
+2% 
+1% 
+8% 
+7% 
+4% 
+Non-current liabilities 
+29% 
+25% 
+22% 
+31% 
+24% 
+21% 
+short-term liabilities to banks 
+2% 
+2% 
+2% 
+2% 
+1% 
+1% 
+Accounts payable 
+2% 
+3% 
+3% 
+3% 
+3% 
+4% 
+Advance payments received on orders 
+8% 
+8% 
+7% 
+8% 
+9% 
+9% 
+Other liabilities (incl. from lease and rental contracts) 
+24% 
+27% 
+35% 
+26% 
+27% 
+27% 
+Deferred taxes 
+0% 
+0% 
+0% 
+0% 
+0% 
+0% 
+Deferred income 
+1% 
+2% 
+1% 
+1% 
+1% 
+1% 
+Current liabilities 
+38% 
+41% 
+49% 
+40% 
+41% 
+42% 
+TOTAL LIABILITIES AND SHAREHOLDERS EQUITY 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+Source: Company data; mwb research 
+  
+  
+  
+  
+  
+  
+ 
+
+mwb research AG 
+Page 14 of 18 
+ 
+ 
+Cash flow statement (EURm) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Net profit/loss 
+231 
+333 
+-97 
+681 
+758 
+831 
+Depreciation of fixed assets (incl. leases) 
+265 
+247 
+282 
+330 
+353 
+377 
+Amortisation of goodwill 
+0 
+0 
+0 
+0 
+0 
+0 
+Amortisation of intangible assets 
+0 
+0 
+0 
+24 
+24 
+23 
+Others 
+157 
+536 
+910 
+1,119 
+-145 
+-153 
+Cash flow from operations before changes in w/c 
+653 
+1,116 
+1,095 
+2,154 
+989 
+1,078 
+ Increase/decrease in inventory 
+0 
+0 
+0 
+-208 
+-162 
+-145 
+ Increase/decrease in accounts receivable 
+0 
+0 
+0 
+-908 
+-269 
+-249 
+ Increase/decrease in accounts payable 
+0 
+0 
+0 
+63 
+30 
+30 
+ Increase/decrease in other w/c positions 
+-86 
+-388 
+-318 
+-336 
+264 
+314 
+Increase/decrease in working capital 
+-86 
+-388 
+-318 
+-1,389 
+-136 
+-50 
+Cash flow from operating activities 
+567 
+728 
+777 
+765 
+852 
+1,028 
+CAPEX 
+-367 
+-402 
+-433 
+-432 
+-461 
+-486 
+Payments for acquisitions 
+0 
+0 
+0 
+0 
+0 
+0 
+Financial investments 
+-31 
+-28 
+-17 
+0 
+0 
+0 
+Income from asset disposals 
+21 
+16 
+30 
+0 
+0 
+0 
+Cash flow from investing activities 
+-377 
+-414 
+-420 
+-432 
+-461 
+-486 
+Cash flow before financing 
+190 
+314 
+357 
+333 
+391 
+542 
+Increase/decrease in debt position 
+-164 
+-64 
+-74 
+292 
+-691 
+-100 
+Purchase of own shares 
+0 
+0 
+0 
+0 
+0 
+0 
+Capital measures 
+23 
+0 
+0 
+0 
+0 
+0 
+Dividends paid 
+-80 
+-124 
+-174 
+-107 
+-133 
+-186 
+Others 
+-24 
+-36 
+-46 
+0 
+0 
+0 
+Effects of exchange rate changes on cash 
+3 
+-3 
+-3 
+0 
+0 
+0 
+Cash flow from financing activities 
+-242 
+-227 
+-297 
+185 
+-824 
+-286 
+Increase/decrease in liquid assets 
+-52 
+87 
+60 
+518 
+-433 
+256 
+Liquid assets at end of period 
+722 
+823 
+883 
+1,401 
+968 
+1,224 
+Source: Company data; mwb research 
+  
+  
+  
+  
+  
+  
+ 
+ 
+Regional sales split (EURm) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Domestic 
+586 
+616 
+762 
+1,059 
+1,149 
+1,233 
+Europe (ex domestic) 
+281 
+266 
+397 
+552 
+599 
+642 
+The Americas 
+2,744 
+3,015 
+3,716 
+5,165 
+5,604 
+6,011 
+Asia 
+231 
+166 
+201 
+279 
+303 
+325 
+Rest of World 
+136 
+124 
+255 
+354 
+385 
+412 
+Total sales 
+4,188 
+5,330 
+5,363 
+7,455 
+8,088 
+8,675 
+  
+  
+  
+  
+  
+  
+  
+Regional sales split (common size) 
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Domestic 
+14.0% 
+11.6% 
+14.2% 
+14.2% 
+14.2% 
+14.2% 
+Europe (ex domestic) 
+6.7% 
+5.0% 
+7.4% 
+7.4% 
+7.4% 
+7.4% 
+The Americas 
+65.5% 
+56.6% 
+69.3% 
+69.3% 
+69.3% 
+69.3% 
+Asia 
+5.5% 
+3.1% 
+3.7% 
+3.7% 
+3.7% 
+3.7% 
+Rest of World 
+3.2% 
+2.3% 
+4.8% 
+4.8% 
+4.8% 
+4.8% 
+Total sales 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+Source: Company data; mwb research 
+ 
+ 
+ 
+ 
+ 
+ 
+
+mwb research AG 
+Page 15 of 18 
+ 
+ 
+Ratios  
+2021 
+2022 
+2023 
+2024E 
+2025E 
+2026E 
+Per share data 
+  
+  
+  
+  
+  
+  
+Earnings per share reported 
+4.16 
+6.20 
+-1.90 
+12.42 
+13.84 
+15.18 
+Cash flow per share 
+10.63 
+13.64 
+14.47 
+7.65 
+8.87 
+11.70 
+Book value per share 
+50.28 
+56.87 
+53.32 
+64.00 
+75.63 
+87.66 
+Dividend per share 
+2.10 
+3.20 
+2.00 
+2.48 
+3.46 
+4.55 
+Valuation 
+  
+  
+  
+  
+  
+  
+P/E 
+62.5x 
+41.9x 
+-136.9x 
+20.9x 
+18.8x 
+17.1x 
+P/CF 
+24.5x 
+19.1x 
+18.0x 
+34.0x 
+29.3x 
+22.2x 
+P/BV 
+5.2x 
+4.6x 
+4.9x 
+4.1x 
+3.4x 
+3.0x 
+Dividend yield (%) 
+0.8% 
+1.2% 
+0.8% 
+1.0% 
+1.3% 
+1.8% 
+FCF yield (%) 
+4.1% 
+5.2% 
+5.6% 
+2.9% 
+3.4% 
+4.5% 
+EV/Sales 
+3.7x 
+2.8x 
+2.7x 
+2.0x 
+1.8x 
+1.6x 
+EV/EBITDA 
+22.1x 
+18.5x 
+82.3x 
+11.3x 
+10.2x 
+9.3x 
+EV/EBIT 
+43.6x 
+29.6x 
+-91.5x 
+15.5x 
+13.9x 
+12.5x 
+Income statement (EURm) 
+  
+  
+  
+  
+  
+  
+Sales 
+4,188 
+5,330 
+5,363 
+7,455 
+8,088 
+8,675 
+yoy chg in % 
+5.3% 
+27.3% 
+0.6% 
+39.0% 
+8.5% 
+7.2% 
+Gross profit 
+556 
+816 
+78 
+1,305 
+1,456 
+1,561 
+Gross margin in % 
+13.3% 
+15.3% 
+1.5% 
+17.5% 
+18.0% 
+18.0% 
+EBITDA 
+699 
+812 
+179 
+1,308 
+1,424 
+1,545 
+EBITDA margin in % 
+16.7% 
+15.2% 
+3.3% 
+17.5% 
+17.6% 
+17.8% 
+EBIT  
+355 
+508 
+-161 
+953 
+1,047 
+1,145 
+EBIT margin in % 
+8.5% 
+9.5% 
+-3.0% 
+12.8% 
+13.0% 
+13.2% 
+Net profit 
+222 
+331 
+-102 
+667 
+743 
+815 
+Cash flow statement (EURm) 
+  
+  
+  
+  
+  
+  
+CF from operations 
+567 
+728 
+777 
+765 
+852 
+1,028 
+Capex 
+-367 
+-402 
+-433 
+-432 
+-461 
+-486 
+Maintenance Capex 
+0 
+0 
+0 
+355 
+376 
+400 
+Free cash flow 
+200 
+326 
+344 
+333 
+391 
+542 
+Balance sheet (EURm) 
+  
+  
+  
+  
+  
+  
+Intangible assets 
+2,115 
+2,059 
+1,200 
+1,176 
+1,152 
+1,129 
+Tangible assets 
+1,251 
+1,384 
+1,501 
+1,603 
+1,711 
+1,821 
+Shareholders' equity 
+2,681 
+3,035 
+2,863 
+3,436 
+4,061 
+4,707 
+Pension provisions 
+905 
+661 
+713 
+969 
+1,051 
+1,128 
+Liabilities and provisions 
+2,578 
+2,487 
+2,460 
+3,871 
+3,035 
+2,781 
+Net financial debt 
+605 
+388 
+60 
+-166 
+-424 
+-780 
+w/c requirements 
+2,377 
+2,769 
+2,827 
+3,646 
+3,964 
+4,252 
+Ratios 
+  
+  
+  
+  
+  
+  
+ROE 
+8.6% 
+11.0% 
+-3.4% 
+19.8% 
+18.7% 
+17.7% 
+ROCE 
+6.7% 
+9.1% 
+-3.0% 
+12.9% 
+14.6% 
+15.2% 
+Net gearing 
+22.6% 
+12.8% 
+2.1% 
+-4.8% 
+-10.4% 
+-16.6% 
+Net debt / EBITDA 
+0.9x 
+0.5x 
+0.3x 
+-0.1x 
+-0.3x 
+-0.5x 
+Source: Company data; mwb research 
+  
+  
+  
+  
+  
+  
+
+mwb research AG 
+Page 16 of 18 
+ 
+Conflicts of interest 
+Disclosures regarding research publications of mwb research AG pursuant to section 85 of the German Securities Trading Act 
+(WpHG) and distributed in the UK under an EEA branch passport, subject to the FCA requirements on research recommendation 
+disclosures It is essential that any research recommendation is fairly presented and discloses interests of indicates relevant 
+conflicts of interest. Pursuant to section 85 of the German Securities Trading Act (WpHG) a research report has to point out 
+possible conflicts of interest in connection with the analyzed company. Further to this, under the FCA’s rules on research 
+recommendations, any conflicts of interest in connection with the recommendation must be disclosed. A conflict of interest is 
+presumed to exist in particular if mwb research AG 
+ 
+ 
+(1) 
+or its affiliate(s) (either in its own right or as part of a consortium) within the past twelve months, acquired the financial 
+instruments of the analyzed company, 
+ 
+(2) 
+has entered into an agreement on the production of the research report with the analyzed company, 
+ 
+(3) 
+or its affiliate(s) has, within the past twelve months, been party to an agreement on the provision of investment banking 
+services with the analyzed company or have received services or a promise of services under the term of such an 
+agreement, 
+ 
+(4) 
+or its affiliate(s) holds a) 5% or more of the share capital of the analyzed company, or b) the analyzed company holds 5% 
+or more of the share capital of mwb research AG or its affiliate(s), 
+ 
+(5) 
+or its affiliate(s) holds a net long (a) or a net short (b) position of 0.5% of the outstanding share capital of the analyzed 
+company or derivatives thereof, 
+ 
+(6) 
+or its affiliate(s) is a market maker or liquidity provider in the financial instruments of the issuer, 
+ 
+(7) 
+or the analyst has any other significant financial interests relating to the analyzed company such as, for example, 
+exercising mandates in the interest of the analyzed company or a significant conflict of interest with respect to the issuer, 
+ 
+(8) 
+The research report has been made available to the company prior to its publication. Thereafter, only factual changes 
+have been made to the report. 
+ 
+Conflicts of interest that existed at the time when this research report was published: 
+ 
+ 
+Company 
+Disclosure 
+MTU Aero Engines AG 
+    
+ 
+ 
+ 
+
+mwb research AG 
+Page 17 of 18 
+ 
+Important disclosures 
+1. General Information/Liabilities This research report has been produced for the 
+information purposes of institutional investors only, and is not in any way a 
+personal recommendation, offer or solicitation to buy or sell the financial 
+instruments mentioned herein. The document is confidential and is made 
+available by mwb research AG, exclusively to selected recipients [in DE, GB, FR, 
+CH, US, UK, Scandinavia, and Benelux or, in individual cases, also in other 
+countries]. A distribution to private investors in the sense of the German 
+Securities Trading Act (WpHG) is excluded. It is not allowed to pass the research 
+report on to persons other than the intended recipient without the permission of 
+mwb research AG. Reproduction of this document, in whole or in part, is not 
+permitted without prior permission mwb research AG. All rights reserved. Under 
+no circumstances shall mwb research AG, any of its employees involved in the 
+preparation, have any liability for possible errors or incompleteness of the 
+information included in this research report – neither in relation to indirect or 
+direct nor consequential damages. Liability for damages arising either directly or 
+as a consequence of the use of information, opinions and estimates is also 
+excluded. Past performance of a financial instrument is not necessarily indicative 
+of future performance. 
+ 
+2. Responsibilities This research report was prepared by the research analyst 
+named on the front page (the ʺProducerʺ). The Producer is solely responsible for 
+the views and estimates expressed in this report. The report has been prepared 
+independently. The content of the research report was not influenced by the 
+issuer of the analyzed financial instrument at any time. It may be possible that 
+parts of the research report were handed out to the issuer for information 
+purposes prior to the publication without any major amendments 
+being made thereafter. 
+ 
+3. Organizational Requirements mwb research AG took internal organizational 
+and regulative precautions to avoid or accordingly disclose possible conflicts of 
+interest in connection with the preparation and distribution of the research report. 
+All members of mwb research AG involved in the preparation of the research 
+report are subject to internal compliance regulations. No part of the Producer’s 
+compensation is directly or indirectly related to the preparation of this financial 
+analysis. In case a research analyst or a closely related person is confronted with 
+a conflict of interest, the research analyst is restricted from covering this 
+company. 
+ 
+4. Information Concerning the Methods of Valuation/Update The determination 
+of the fair value per share, i.e. the price target, and the resultant rating is done on 
+the basis of the adjusted free cash flow (adj. FCF) method and on the basis of 
+the discounted cash flow – DCF model. Furthermore, a peer group comparison is 
+made. The adj. FCF method is based on the assumption that investors purchase 
+assets only at a price (enterprise value) at which the operating cash flow return 
+after taxes on this investment exceeds their opportunity costs in the form of a 
+hurdle rate. The operating cash flow is calculated as EBITDA less maintenance 
+capex and taxes. Within the framework of the DCF approach, the future free cash 
+flows are calculated initially on the basis of a fictitious capital structure of 100% 
+equity, i.e. interest and repayments on debt capital are not factored in initially. 
+The adjustment towards the actual capital structure is done by discounting the 
+calculated free cash flows with the weighted average cost of capital (WACC), 
+which takes into account both the cost of equity capital and the cost of debt. 
+After discounting, the calculated total enterprise value is reduced by the interest-
+bearing debt capital in order to arrive at the equity value. Detailed information on 
+the valuation principles and methods used and the underlying assumptions can 
+be found at https://www.mwb.-research.com.  
+ 
+mwb research AG uses the following three-step rating system for the analyzed 
+companies:  
+ 
+• 
+Speculative (Spec.) BUY: Sustainable upside potential of more than 25% 
+within 12 months, above average risk 
+ 
+• 
+BUY: Sustainable upside potential of more than 10% within 12 months 
+ 
+• 
+SELL: Sustainable downside potential of more than 10% within 12 months. 
+ 
+• 
+HOLD: Upside/downside potential is limited. No immediate catalyst visible. 
+ 
+NB: The ratings of mwb research AG are not based on a performance that is 
+expected to be “relative“ to the market. 
+ 
+ 
+The decision on the choice of the financial instruments analyzed in this document 
+was solely made by mwb research AG. The opinions and estimates in this 
+research report are subject to change without notice. It is within the discretion of 
+mwb research AG whether and when it publishes an update to this research 
+report, but in general updates are created on a regular basis, after 6 months at 
+the latest. A sensitivity analysis is included and published in company’s initial 
+studies. 
+ 
+5. Date and time of first publication of this financial analysis 
+2-Aug-24 11:36:50 
+ 
+6. Risk information 
+• 
+Stock exchange investments and investments in companies (shares) are 
+always speculative and involve the risk of total loss.  
+• 
+This is particularly true in respect of investments in companies which are 
+not established and/or small and have no established business or 
+corporate assets.  
+• 
+Share prices may fluctuate significantly. This is particularly true for shares 
+with low liquidity (market breadth). Even small orders can have a significant 
+impact on the share price. 
+• 
+In the case of shares in narrow markets, it may also happen that there is no 
+or very little actual trading there and that published prices are not based on 
+actual trading but have only been provided by a stockbroker.  
+• 
+In such markets a shareholder cannot expect to find a buyer for his shares 
+at all and/or at reasonable prices. In such narrow markets there is a very 
+high possibility of manipulating prices and in such markets there are often 
+considerable price fluctuations.  
+• 
+An investment in shares with low liquidity and low market capitalization is 
+therefore highly speculative and represents a very high risk.  
+• 
+There is no regulated market for unlisted shares and securities and a sale 
+is not possible or only possible on an individual basis. 
+ 
+7. Major Sources of Information Part of the information required for this research 
+report was made available by the issuer of the financial instrument. Furthermore, 
+this report is based on publicly available sources (such as, for example, 
+Bloomberg, Reuters, VWD-Trader and the relevant daily press) believed to be 
+reliable. mwb research AG has checked the information for plausibility but not for 
+accuracy or completeness. 
+ 
+8. Competent Supervisory Authority mwb research AG are under supervision of 
+the BaFin – German Federal Financial Supervisory Authority (Bundesanstalt für 
+Finanzdienstleistungsaufsicht), Graurheindorfer Straße 108, 53117 Bonn and 
+Marie-Curie-Straße 24 – 28, 60439 Frankfurt a.M. This document is distributed in 
+the UK under a MiFID EEA branch passport and in compliance with the applicable 
+FCA requirements. 
+ 
+9. Specific Comments for Recipients Outside of Germany This research report 
+is subject to the law of the Federal Republic of Germany. The distribution of this 
+information to other states in particular to the USA, Canada, Australia and Japan 
+may be restricted or prohibited by the laws applicable within this state. 
+ 
+10. Miscellaneous According to Article 4(1) No. i of the delegated regulation 
+2016/958 supplementing regulation 596/2014 of the European Parliament, 
+further information regarding investment recommendations of the last 12 
+months are published free of charge under https:// www.mwb.-research.com. 
+ 
+ 
+ 
+
+mwb research AG 
+Page 18 of 18 
+ 
+Contacts 
+mwb research AG 
+Mittelweg 142 
+20148 Hamburg 
+Germany 
+Tel.: +49 40 309 293-52 
+Email.: contact@mwb-research.com 
+Website: www.mwb-research.com 
+Research: www.research-hub.de 
+ 
+Research 
+ 
+ 
+ 
+HARALD HOF  
+Senior Analyst 
+Tel: +49 40 309 293-53 
+E-Mail: h.hof@mwb-research.com 
+ 
+LEON MÜHLENBRUCH  
+Analyst 
+Tel: +49 40 309 293-57 
+E-Mail: l.muehlenbruch@mwb-research.com 
+ 
+ABED JARAD  
+Junior Analyst 
+Tel: +49 40 309 293-54 
+E-Mail: a.jarad@mwb-research.com 
+ 
+JENS-PETER RIECK  
+Junior Analyst 
+Tel: +49 40 309 293-54 
+E-Mail: jp.rieck@mwb-research.com 
+ 
+THOMAS WISSLER  
+Senior Analyst 
+Tel: +49 40 309 293-58 
+E-Mail: t.wissler@mwb-research.com 
+ 
+DR. OLIVER WOJAHN, CFA  
+Senior Analyst 
+Tel: +49 40 309 293-55 
+E-Mail: o.wojahn@mwb-research.com 
+ 
+ALEXANDER ZIENKOWICZ  
+Senior Analyst 
+Tel: +49 40 309 293-56 
+E-Mail: a.zienkowicz@mwb-research.com 
+ 
+   
+  
+Tel:   
+E-Mail:   
+ 
+ 
+Sales 
+ 
+Team Assistant 
+ 
+ 
+ 
+HOLGER NASS  
+Head of Sales 
+Tel: +49 40 309 293-52 
+E-Mail: h.nass@mwb-research.com 
+ 
+   
+  
+Tel:   
+E-Mail:   
+ 
+HANNAH GABERT  
+Team Assistant 
+Tel: +49 40 309 293-52 
+E-Mail: h.gabert@mwb-research.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mwb fairtrade  
+Wertpapierhandelsbank AG 
+Rottenbucher Straße 28 
+82166 Gräfelfing 
+ 
+Tel: +49 89 85852-0 
+Fax: +49 89 85852-505 
+Website: www.mwbfairtrade.com 
+E-Mail: info@mwbfairtrade.com 
+Sales / Designated Sponsoring /Corporate Finance 
+ 
+ 
+ 
+ 
+ALEXANDER DEUSS  
+Institutional Sales 
+Tel: +49 40 36 0995-22 
+E-Mail: adeuss@mwbfairtrade.com 
+ 
+SASCHA GUENON  
+Head of Designated Sponsoring 
+Tel: +49 40 360 995-23 
+E-Mail: sguenon@mwbfairtrade.com 
+ 
+JAN NEYNABER  
+Institutional Sales 
+Tel: +49 69 1387-1255  
+E-Mail: jneynaber@mwbfairtrade.com 
+ 
+DIRK WEYERHÄUSER  
+Corporate Finance 
+Tel: +49 69 1387-1250 
+E-Mail: dweyerhaeuser@mwbfairtrade.com 
+ 
+   
+  
+Tel:   
+E-Mail:   
+ 
+   
+  
+Tel:   
+E-Mail:   
+ 
+Locations 
+ 
+ 
+ 
+ 
+ 
+HAMBURG (Research) 
+Mittelweg 142 
+20148 Hamburg  
++49 40 309 293-52 
+ 
+HAMBURG (Corporates & Markets) 
+Kleine Johannisstraße 4 
+20457 Hamburg 
++49 40 360 995-0 
+ 
+FRANKFURT A.M. 
+Unterlindau 29 
+60323 Frankfurt am Main  
++49 40 360 995-22 
+ 
+MUNICH 
+Rottenbucher Str. 28 
+82166 Gräfelfing 
++49 89-85852-0 
+BERLIN 
+Kurfürstendamm 151 
+10709 Berlin  
+ 
+HANNOVER 
+An der Börse 2 
+30159 Hannover 
+ 
+ 
+Our research can be found at 
+ 
+ 
+ResearchHub 
+www.research-hub.de 
+ 
+Bloomberg 
+www.bloomberg.com 
+ 
+FactSet 
+ 
+www.factset.com 
+ 
+Thomson Reuters / Refinitiv 
+ 
+www.refinitiv.com 
+ 
+CapitalIQ 
+www.capitaliq.com

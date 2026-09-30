@@ -1,0 +1,4339 @@
+Hannover Rück SE
+Annual Report
+2019
+
+Hannover Rück SE | Annual Report 2019
+Key figures
+in EUR million
+2019
++ / – 
+previous 
+year
+2018
+2017
+2016
+2015
+Results
+Gross written premium
+18,072.9
++23.4%
+14,640.8
+13,292.9
+11,917.1
+14,139.3
+Net premium earned
+12,226.6
++17.4%
+10,412.9
+10,208.9
+8,534.8
+10,178.6
+Underwriting result
+(23.1)
+(0.2)
+(12.7)
+336.8
+158.4
+Allocation to the equalisation reserve and 
+similar provisions
+(210.6)
+25.3
+165.9
+8.7
+(136.1)
+Investment result
+1,325.8
++7.6%
+1,231.7
+1,197.5
+1,287.0
+1,695.9
+Pre-tax profit
+799.8
+-8.0%
+869.7
+968.0
+1,241.8
+1,064.0
+Profit for the financial year
+674.5
++1.4%
+665.4
+843.4
+949.2
+905.8
+Investments
+40,597.3
++10.1%
+36,874.1
+34,460.8
+35,646.3
+41,338.2
+Capital and reserves 1
+1,631.7
+1,631.7
+1,631.7
+1,631.7
+1,631.7
+Subordinated liabilities
+2,250.0
++50.0%
+1,500.0
+1,500.0
+1,500.0
+1,500.0
+Equalisation reserve and  
+similar provisions
+3,077.4
++7.3%
+2,866.8
+2,892.1
+3,058.0
+3,066.7
+Net technical provisions
+30,921.8
++7.8%
+28,676.3
+27,334.6
+27,822.1
+27,218.3
+Total capital, reserves and  
+technical provisions
+37,880.9
++9.2%
+34,674.8
+33,358.4
+34,011.8
+33,416.7
+Number of employees
+1,464
++4.4%
+1,402
+1,292
+1,267
+1,245
+Retention
+69.7%
+71.8%
+78.4%
+72.4%
+73.0%
+Loss ratio 2
+71.2%
+73.2%
+69.7%
+69.0%
+71.9%
+Expense ratio 2
+30.1%
+31.0%
+30.7%
+25.9%
+27.6%
+Combined ratio 2
+101.3%
+104.2%
+100.4%
+94.9%
+99.5%
+1	
+Excluding disposable profit
+2	
+Excluding life and health reinsurance
+
+1
+Hannover Rück SE | Annual Report 2019
+Report of the Supervisory Board
+Independent Auditor’s Report
+Accounts
+Boards and officers
+Notes
+Contents
+Boards and officers	
+2
+Note on the combined  
+management report	
+6
+Accounts	
+7
+Balance sheet	
+8
+Profit and loss account	
+12
+Notes	
+14
+Valuation of assets	
+14
+Valuation of liabilities	
+15
+Further accounting policies	
+16
+Notes on assets	
+17
+Notes on liabilities	
+24
+Notes on the profit and loss account	
+29
+Proposal for the appropriation  
+of the disposable profit	
+32
+Other notes	
+32
+Independent Auditor’s Report	
+35
+Responsibility statement	
+42
+Report of the Supervisory Board	
+43
+
+Hannover Rück SE | Annual Report 2019
+2
+Boards and officers
+ 
+Executive Board
+Jean-Jacques Henchoz (since 8 May 2019)
+Chairman of the Executive Board Hannover Rück SE, Hannover, Germany
+(from 1 April 2019 to 8 May 2019 full member of the Executive Board Hannover Rück SE)
+Member of the Board of Management Talanx AG, Hannover, Germany
+Chairman of the Board of Directors Hannover Life Reassurance Company of America, Orlando, USA 
+Chairman of the Board of Directors Hannover Re (Bermuda) Ltd., Hamilton, Bermuda 
+Chairman of the Board of Directors Hannover Re (Ireland) Designated Activity Company, Dublin, Ireland
+Member of the Board of Directors Hannover Life Re of Australasia Ltd, Sydney, Australia
+Ulrich Wallin (until 8 May 2019)
+Chairman of the Executive Board Hannover Rück SE, Hannover, Germany
+Member of the Board of Management Talanx AG, Hannover, Germany
+Chairman of the Board of Directors Hannover Life Reassurance Company of America, Orlando, USA 
+Chairman of the Board of Directors Hannover Re (Bermuda) Ltd., Hamilton, Bermuda 
+Chairman of the Board of Directors Hannover Re (Ireland) Designated Activity Company, Dublin, Ireland
+Member of the Board of Directors Hannover Life Re of Australasia Ltd, Sydney, Australia
+Member of the Supervisory Board HDI Global Specialty SE, Hannover, Germany 1
+Member of the Advisory Board Barmenia Allgemeine Versicherungs-AG, Wuppertal, Germany
+Member of the Advisory Board Barmenia Krankenversicherung a.G., Wuppertal, Germany
+Member of the Advisory Board Barmenia Lebensversicherung a.G., Wuppertal, Germany
+Sven Althoff
+Member of the Executive Board Hannover Rück SE, Hannover, Germany 
+Chairman of the Board of Directors Argenta Holdings Limited, London, United Kingdom 
+Chairman of the Board of Directors Hannover ReTakaful B.S.C. (c), Manama, Bahrain 
+Member of the Board of Directors Argenta Syndicate Management Limited, London, United Kingdom
+Member of the Board of Directors Hannover Re Services Japan, Tokyo, Japan
+Claude Chèvre
+Member of the Executive Board Hannover Rück SE, Hannover, Germany
+Chairman of the Board of Directors Hannover Life Reassurance Africa Limited, Johannesburg, South Africa 
+Deputy Chairman of the Board of Directors Hannover Life Re of Australasia Ltd, Sydney, Australia 
+Deputy Chairman of the Board of Directors Hannover ReTakaful B.S.C. (c), Manama, Bahrain 
+Member of the Board of Directors Hannover Life Reassurance Bermuda Ltd., Hamilton, Bermuda
+Member of the Board of Directors Hannover Reinsurance Group Africa (Pty) Ltd., Johannesburg, South Africa 
+Member of the Board of Directors Hannover Re Services Japan, Tokyo, Japan
+Dr. Klaus Miller
+Member of the Executive Board Hannover Rück SE, Hannover, Germany
+Member of the Executive Board E+S Rückversicherung AG, Hannover, Germany
+Chairman of the Board of Directors Hannover Life Reassurance Bermuda Ltd., Hamilton, Bermuda 
+Chairman of the Board of Directors Hannover Life Reassurance Company of America (Bermuda) Ltd., Hamilton, Bermuda 
+Vice Chairman of the Board of Directors Hannover Life Reassurance Company of America, Orlando, USA 
+Member of the Board of Directors Hannover Re (Ireland) Designated Activity Company, Dublin, Ireland
+Member of the Supervisory Board Proxalto Lebensversicherung AG, Munich, Germany
+Member of the Supervisory Board Viridium Holding AG, Neu-Isenburg, Germany
+Member of the Advisory Board Viridium Group GmbH & Co. KG, Neu-Isenburg, Germany
+
+3
+Hannover Rück SE | Annual Report 2019
+Boards and officers
+Dr. Michael Pickel
+Member of the Executive Board Hannover Rück SE, Hannover, Germany
+Chairman of the Executive Board E+S Rückversicherung AG, Hannover, Germany
+Chairman of the Board of Directors Glencar Insurance Company, Orlando, USA 
+Chairman of the Board of Directors Glencar Underwriting Managers, Inc., Chicago, USA 
+Chairman of the Board of Directors Hannover Re Services Italy S.r.l., Milan, Italy
+Chairman of the Board of Directors Hannover Re Services USA, Inc., Illinois, USA 
+Member of the Supervisory Board Delvag Luftversicherungs-AG, Cologne, Germany 1
+Member of the Advisory Board Barmenia Versicherungsunternehmen, Wuppertal, Germany
+Silke Sehm (since 6 March 2019)
+Member of the Executive Board Hannover Rück SE, Hannover, Germany
+Chairwoman of the Board of Directors Hannover Reinsurance Africa Limited, Johannesburg, South Africa 
+Chairwoman of the Board of Directors Hannover Reinsurance Group Africa (Pty) Limited, Johannesburg, South Africa 
+Member of the Board of Directors Hannover Re (Bermuda) Ltd., Hamilton, Bermuda 
+Member of the Board of Directors Hannover Re (Ireland) Designated Activity Company, Dublin, Ireland 
+Roland Vogel
+Member of the Executive Board Hannover Rück SE, Hannover, Germany
+Member of the Executive Board E+S Rückversicherung AG, Hannover, Germany
+Chairman of the Board of Directors Hannover Finance, Inc., Wilmington, USA 
+Chairman of the Board of Directors Hannover Finance (Luxembourg) S.A., Luxembourg 
+Chairman of the Board of Directors Hannover Finance (UK) Limited, London, United Kingdom 
+Chairman of the Advisory Board Hannover Finanz GmbH, Hannover, Germany
+Deputy Chairman of the Board of Directors Hannover Life Reassurance Bermuda Ltd., Hamilton, Bermuda 
+Deputy Chairman of the Supervisory Board Ampega Asset Management GmbH, Cologne, Germany
+Member of the Board of Directors Hannover Life Reassurance Company of America (Bermuda) Ltd., Hamilton, Bermuda 
+Member of the Board of Directors Hannover Life Reassurance Company of America, Orlando, USA
+Member of the Board of Directors Hannover Re (Bermuda) Ltd., Hamilton, Bermuda 
+Member of the Board of Directors Hannover Re (Ireland) Designated Activity Company, Dublin, Ireland 
+Member of the Board of Directors Meribel Mottaret Limited, St. Helier, Jersey 
+Member of the Supervisory Board HDI Global Specialty SE, Hannover, Germany 1
+Member of the Advisory Board Commerzbank AG, Frankfurt am Main, Germany
+Member of the Advisory Board WeHaCo Unternehmensbeteiligungs-GmbH, Hannover, Germany
+1	
+Details of supervisory board memberships within the meaning of § 125 (1) Sentence 5, first half-sentence of the Stock Corporation Act (AktG). 
+The other details are those on comparable control boards at other domestic and foreign business enterprises pursuant to § 125 (1) Sentence 5,  
+second half-sentence of the Stock Corporation Act (AktG).
+
+Hannover Rück SE | Annual Report 2019
+4
+Supervisory Board
+Torsten Leue 1, 2, 3
+Hannover, Germany
+(since 7 May 2018) 6
+Chairman
+Chief Executive Officer of HDI Haftpflichtverband der Deutschen Industrie V.a.G., Hannover, Germany
+Chief Executive Officer of Talanx AG, Hannover, Germany
+Chairman of the Supervisory Board / Advisory Board E+S Rückversicherung AG, Hannover, Germany 
+Chairman of the Supervisory Board HDI Deutschland AG, Hannover, Germany
+Chairman of the Supervisory Board HDI Global SE, Hannover, Germany
+Chairman of the Supervisory Board HDI International AG, Hannover, Germany 
+Chairman of the Supervisory Board HDI Kundenservice AG, Cologne, Germany
+Chairman of the Supervisory Board HDI Service AG, Hannover, Germany
+Herbert K. Haas 1, 2, 3
+Burgwedel, Germany
+(since 24 May 2002) 6
+Deputy Chairman
+Former Chief Executive Officer of Talanx AG and HDI Haftpflichtverband der Deutschen Industrie V.a.G., Hannover, 
+Germany
+Chairman of the Supervisory Board HDI Haftpflichtverband der Deutschen Industrie V.a.G., Hannover, Germany
+Chairman of the Supervisory Board Talanx AG, Hannover, Germany
+Natalie Bani Ardalan 4
+Springe, Germany
+(since 8 May 2019) 6
+Employee
+Frauke Heitmüller 4
+Hannover, Germany
+(since 3 May 2012) 6
+Employee
+Ilka Hundeshagen 4
+Hannover, Germany
+(since 8 May 2019) 6
+Employee
+Dr. Ursula Lipowsky 2
+Munich, Germany
+(since 7 May 2018) 6
+Member of the Supervisory Board of the Association, Association of German Dioceses (VDD), Corporation under 
+Public Law, Bonn, Germany
+Member of the Supervisory Board Mecklenburgische Krankenversicherungs-AG, Hannover, Germany
+Member of the Supervisory Board Mecklenburgische Lebensversicherungs-AG, Hannover, Germany
+Member of the Supervisory Board Württembergische Lebensversicherung AG, Stuttgart, Germany
+Dr. Michael Ollmann
+Hamburg, Germany
+(since 8 May 2019) 6
+Member of various Supervisory Boards
+Member of the Supervisory Board HDI Global SE, Hannover, Germany
+Member of the Supervisory Board HDI International AG, Hannover, Germany
+
+5
+Hannover Rück SE | Annual Report 2019
+Boards and officers
+Dr. Andrea Pollak 3
+Vienna, Austria
+(since 3 May 2011) 6
+Independent Management Consultant 
+Deputy Chairwoman of the Supervisory Board Fronius International GmbH, Pettenbach, Austria 5
+Dr. Immo Querner
+Celle, Germany
+(until 8 May 2019)
+Member of the Board of Management Talanx AG, Hannover, Germany
+Member of the Board of Management HDI Haftpflichtverband der Deutschen Industrie V.a.G., Hannover, Germany
+Chairman of the Supervisory Board Ampega Asset Management GmbH, Cologne, Germany 5
+Chairman of the Supervisory Board Talanx Reinsurance Broker GmbH, Hannover, Germany 5
+Chairman of the Administrative Board Talanx Finanz (Luxemburg) S.A., Luxembourg 5
+Deputy Chairman of the Supervisory Board Ampega Investment GmbH, Cologne, Germany 
+Deputy Chairman of the Supervisory Board Ampega Real Estate GmbH, Cologne, Germany 5
+Deputy Chairman of the Supervisory Board HDI Service AG, Hannover, Germany
+Member of the Supervisory Board BÖAG Börsen AG, Hannover, Germany
+Member of the Supervisory Board Caplantic GmbH, Hannover, Germany 5
+Member of the Supervisory Board E+S Rückversicherung AG, Hannover, Germany
+Member of the Supervisory Board HDI International AG, Hannover, Germany
+Member of the Supervisory Board HDI Systeme AG, Hannover, Germany
+Member of the Supervisory Board Tertia Handelsbeteiligungsgesellschaft mbH, Cologne, Germany 5
+Member of the Stock Exchange Council Frankfurter Wertpapierbörse (Deutsche Börse AG), Frankfurt, Germany 5
+Member of the Board of Directors HDI Reinsurance SE, Dublin, Ireland 5
+Dr. Erhard Schipporeit 1
+Hannover, Germany
+(since 3 May 2007) 6
+Member of various Supervisory Boards
+Member of the Supervisory Board BDO AG, Hamburg, Germany
+Member of the Supervisory Board Fuchs Petrolub SE, Mannheim, Germany
+Member of the Supervisory Board HDI Haftpflichtverband der Deutschen Industrie V.a.G., Hannover, Germany
+Member of the Supervisory Board RWE AG, Essen, Germany
+Member of the Supervisory Board Talanx AG, Hannover, Germany
+Maike Sielaff 4
+Burgwedel, Germany
+(until 8 May 2019)
+Employee
+1	
+Member of the Standing Committee
+2	
+Member of the Finance and Audit Committee
+3	
+Member of the Nomination Committee
+4	
+Staff representative
+5	
+Memberships of supervisory boards and comparable control boards required by law at other companies in Germany and abroad
+6	
+Date when member was first appointed / elected to the company’s Supervisory Board,  
+current term of office for the entire Supervisory Board commenced at the end of the Ordinary General Meeting on 8 May 2019
+
+Hannover Rück SE | Annual Report 2019
+6
+Combined management report
+The management report of Hannover Rück SE and the Group 
+management report are combined in accordance with § 315 
+(3) of the German Commercial Code (HGB) and published in 
+the Group Annual Report 2019.
+The annual financial statement and the management report of 
+Hannover Rück SE – combined with the Group management 
+report – for the 2019 financial year are submitted to the oper-
+ator of the electronic Federal Gazette and published in the 
+electronic Federal Gazette.
+
+7
+Hannover Rück SE | Annual Report 2019
+Accounts
+Accounts
+
+Hannover Rück SE | Annual Report 2019
+8
+Balance sheet as at 31 December 2019
+Assets
+in EUR thousand
+2019
+2018
+A.
+Intangible assets
+I.
+Purchased franchises, trademarks, patents, licences 
+and similar rights and assets
+48,334
+56,582
+II.
+Prepayments on intangible assets
+13,417
+9,073
+61,751
+65,655
+B.
+Investments
+I.
+Land and buildings, rights to land and  
+buildings, leasehold
+30,850
+31,940
+II.
+Investments in affiliated companies and  
+participating interests
+1.
+Shares in affiliated companies
+7,467,536
+7,236,713
+2.
+Loans to affiliated companies
+654,651
+931,136
+3.
+Participating interests
+321,883
+80,501
+4.
+Loans to enterprises in which the company  
+has a participating interest
+83,333
+–
+8,527,403
+8,248,350
+III.
+Other financial investments
+1.
+Shares, units or shares in investment funds and 
+other variable-yield securities
+1,590,335
+1,490,221
+2.
+Bearer debt securities and other fixed-income 
+securities
+20,587,443
+17,925,006
+3.
+Other loans
+a)
+Registered debt securities
+348,233
+334,024
+b)
+Debentures and loans
+392,924
+388,719
+741,157
+722,743
+4.
+Deposits with banks
+357,329
+301,998
+5.
+Other investments
+10,301
+23,169
+23,286,565
+20,463,137
+IV.
+Deposits with ceding companies
+8,752,445
+8,130,718
+40,597,263
+36,874,145
+
+9
+Hannover Rück SE | Annual Report 2019
+Accounts
+   
+Liabilities
+in EUR thousand
+2019
+2018
+A.
+Capital and reserves
+I.
+Subscribed capital
+120,597
+120,597
+II.
+Capital reserve
+880,608
+880,608
+III.
+Retained earnings
+1.
+Statutory reserve
+511
+511
+2.
+Other retained earnings
+630,000
+630,000
+630,511
+630,511
+IV.
+Disposable profit
+1,377,000
+1,336,000
+3,008,716
+2,967,716
+B.
+Subordinated liabilities
+2,250,000
+1,500,000
+C.
+Technical provisions
+I.
+Provision for unearned premiums
+1.
+Gross
+3,129,835
+2,425,143
+2.
+Less: reinsurance ceded
+665,391
+391,808
+2,464,444
+2,033,335
+II.
+Life assurance provision
+1.
+Gross
+8,478,943
+8,724,696
+2.
+Less: reinsurance ceded
+733,223
+970,583
+7,745,720
+7,754,113
+III.
+Provisions for outstanding claims
+1.
+Gross
+26,075,365
+23,579,133
+2.
+Less: reinsurance ceded
+5,673,528
+5,082,800
+20,401,837
+18,496,333
+IV.
+Provision for bonuses and rebates
+1.
+Gross
+619
+590
+2.
+Less: reinsurance ceded
+513
+478
+106
+112
+V.
+Equalisation reserve and similar provisions
+3,077,368
+2,866,808
+VI.
+Other technical provisions
+1.
+Gross
+507,069
+435,449
+2.
+Less: reinsurance ceded
+197,325
+43,043
+309,744
+392,406
+33,999,219
+31,543,107
+
+Hannover Rück SE | Annual Report 2019
+10
+Assets
+in EUR thousand
+2019
+2018
+C.
+Receivables
+I.
+Accounts receivable arising out of  
+reinsurance operations
+3,657,608
+2,720,599
+from affiliated companies: 
+398,787 (2018: 398,849)
+II.
+Other receivables
+549,807
+573,587
+from affiliated companies:
+4,207,415
+3,294,186
+403,627 (2018: 486,002)
+D.
+Other assets
+I.
+Tangible assets and stocks
+18,005
+19,066
+II.
+Current accounts with banks, cheques and  
+cash in hand
+376,850
+388,560
+III.
+Sundry assets
+19,474
+9,862
+414,329
+417,488
+E.
+Prepayments and accrued income
+I.
+Accrued interest and rent
+187,615
+171,476
+II.
+Other accrued income
+8,958
+8,968
+196,573
+180,444
+Total assets
+45,477,331
+40,831,918
+
+11
+Hannover Rück SE | Annual Report 2019
+Accounts
+Liabilities
+in EUR thousand
+2019
+2018
+D.
+Provisions for other risks and charges
+I.
+Provisions for pensions and similar obligations
+107,586
+99,288
+II.
+Provisions for taxation
+110,578
+169,039
+III.
+Other provisions
+127,418
+133,813
+345,582
+402,140
+E.
+Deposits received from retrocessionaires
+3,203,822
+2,246,672
+F.
+Other liabilities
+I.
+Accounts payable arising out of  
+reinsurance operations
+1,185,478
+1,130,031
+to affiliated companies:
+360,964 (2018: 372,660)
+II.
+Bonds 
+750,000
+750,000
+III.
+Miscellaneous liabilities 
+734,514
+292,252
+thereof
+2,669,992
+2,172,283
+from taxes:
+69,099 (2018: 9,550)
+for social security:
+114 (2018: 283)
+to affiliated companies:
+548,864 (2018: 239,336)
+Total liabilities
+45,477,331
+40,831,918
+
+Hannover Rück SE | Annual Report 2019
+12
+Profit and loss account for the 2019 financial year
+in EUR thousand
+2019
+1.1. – 31.12.
+2018 
+1.1. – 31.12.
+I.
+Technical account
+1.
+Earned premiums, net of retrocession
+a)
+Gross written premiums
+18,072,869
+14,640,753
+b)
+Retrocession premiums
+5,469,582
+4,126,615
+12,603,287
+10,514,138
+c)
+Change in the gross provisions for unearned premiums
+(634,858)
+(90,212)
+d)
+Change in the provisions for unearned premiums, 
+­retrocessionaires’ share
+258,123
+(10,985)
+(376,735)
+(101,197)
+12,226,552
+10,412,941
+2.
+Allocated investment return transferred from the non-technical 
+account, net of retrocession
+137,460
+203,602
+3.
+Other technical income, net of retrocession
+–
+174
+4.
+Claims incurred, net of retrocession
+a)
+Claims paid
+aa)
+Gross
+10,720,395
+9,538,956
+bb)
+Retrocessionaires’ share
+3,127,475
+2,598,078
+7,592,920
+6,940,878
+b)
+Change in provisions for outstanding claims
+aa)
+Gross
+(1,980,037)
+(1,681,575)
+bb)
+Retrocessionaires’ share
+492,397
+835,101
+(1,487,640)
+(846,474)
+9,080,560
+7,787,352
+5.
+Changes in other technical provisions, net of retrocession
+a)
+Net life assurance provision
+(177,570)
+(149,703)
+b)
+Other net technical provisions
+(152)
+5,233
+(177,722)
+(144,470)
+6.
+Bonuses and rebates, net of retrocession
+40
+(50)
+7.
+Operating expenses, net of retrocession
+a)
+Gross acquisition expenses
+5,079,270
+3,670,208
+b)
+Less: commissions and profit commissions received on 
+retrocession
+1,950,521
+985,090
+3,128,749
+2,685,118
+8.
+Other technical charges, net of retrocession
+86
+23
+9.
+Subtotal
+(23,145)
+(196)
+10.
+Change in the equalisation reserve and similar provisions
+(210,561)
+25,270
+11.
+Net technical result
+(233,706)
+25,074
+
+13
+Hannover Rück SE | Annual Report 2019
+Accounts
+in EUR thousand
+2019
+1.1. – 31.12.
+2018
+1.1. – 31.12. 
+Balance brought forward
+(233,706)
+25,074
+II.
+Non-technical account
+1.
+Investment income
+a)
+Income from participating interests
+75,338
+82,447
+thereof affiliated companies: 
+73,311 (2018: 74,586)
+b)
+Income from other investments
+thereof affiliated companies:
+30,189 (2018: 41,954)
+aa)
+Income from land and buildings, rights to 
+land and buildings, leasehold
+3,469
+5,225
+bb)
+Income from other investments
+700,394
+685,719
+703,863
+690,944
+c)
+Appreciation on investments
+50,259
+1,208
+d)
+Gains on the realisation of investments
+251,624
+214,752
+e)
+Income from profit pools, profit and loss transfer 
+agreements or partial profit and loss transfer 
+agreements
+331,573
+460,667
+1,412,657
+1,450,018
+2.
+Investment charges
+a)
+Expenditure for the management of investments, 
+interest expenditure and other investment 
+expenditure
+44,695
+35,610
+b)
+Depreciation 
+11,419
+88,363
+thereof impairments in accordance with § 253 (3) 
+sentence 5 of the Commercial Code (HGB):
+8,173 (2018: 1,076)
+c)
+Losses on the realisation of investments
+30,722
+73,865
+d)
+Expenses from loss transfer
+–
+20,500
+86,836
+218,338
+1,325,821
+1,231,680
+3.
+Allocated investment return transferred to the 
+technical account
+(143,457)
+(204,465)
+1,182,364
+1,027,215
+4.
+Other income
+142,359
+162,730
+5.
+Other charges 
+291,263
+345,311
+(148,904)
+(182,581)
+6.
+Profit or loss on ordinary activities before tax
+799,754
+869,708
+7.
+Taxes on profit and income
+115,363
+198,563
+8.
+Other taxes
+9,898
+5,790
+125,261
+204,353
+9.
+Profit for the financial year
+674,493
+665,355
+10.
+Profit brought forward from previous year
+702,865
+671,014
+11.
+Allocations to other retained earnings
+358
+369
+12.
+Disposable profit
+1,377,000
+1,336,000
+
+Hannover Rück SE | Annual Report 2019
+14
+Notes
+ 
+ 
+Hannover Rück SE has its registered office in Hannover, 
+­Germany, at Karl-Wiechert-Allee 50 and is entered with the 
+registry court of Hannover under HRB 6778.
+Valuation of assets
+Valuation is carried out in accordance with the provisions of 
+§§ 341 et seq. of the Commercial Code (HGB).
+Other intangible assets and goodwill acquired for a consider-
+ation are valued at acquisition cost less amortisation in ac-
+cordance with the normal operational useful life.
+Property is valued at the purchase or construction cost less 
+depreciation in accordance with the normal operational use-
+ful life. Impairments are taken only if the reduction in value 
+will probably be permanent (§ 253 (3) Sentence 5 of the Com-
+mercial Code (HGB)).
+Shares in affiliated companies and participations are valued 
+on a purchase cost basis at the lower of amortised cost or fair 
+value allowing for write-downs. Interests in funds that invest 
+in private equity are valued at the lower of amortised cost or 
+fair value allowing for time effects.
+Loans to affiliated companies and loans to enterprises in 
+which the company has a participating interest are valued at 
+the lower of amortised cost or fair value.
+The portfolio of securities is allocated to fixed assets or cur-
+rent assets depending on the intended use and valued at pur-
+chase cost less write-downs to the lower fair value in accord-
+ance with the provisions of § 341 b of the Commercial Code 
+(HGB).
+Shares, units or shares in investment funds and other varia-
+ble-yield securities are valued according to the strict or mod-
+ified lower-of-cost-or-market principle depending on the in-
+tended use. Securities intended for use on a continuing basis 
+in the normal course of business activities are valued accord-
+ing to the modified lower-of-cost-or-market principle (§ 341b 
+(2) of the Commercial Code (HGB) in conjunction with § 253 
+(3) of the Commercial Code (HGB)). Permanent impairments 
+are recognised through profit or loss.
+Bearer debt securities and other fixed-income securities are 
+valued according to the strict or modified lower-of-cost-or-
+market principle depending on the intended use. Bearer debt 
+securities intended for use on a continuing basis in the nor-
+mal course of business activities are valued at initial cost plus 
+or minus cumulative amortisation according to § 341c (3) of 
+the Commercial Code (HGB). Permanent impairments are 
+recognised through profit or loss pursuant to § 253 (3) Sen-
+tence 5 of the Commercial Code (HGB).
+Registered debt securities, debentures and loans as well as 
+other loans are carried at acquisition cost – taking into ac-
+count amortisation – or at the lower fair value.
+Other investments are allocated to fixed assets or current as-
+sets and valued at purchase cost less write-downs to the low-
+er fair value in accordance with the requirements of § 341b of 
+the Commercial Code (HGB). Valuation is made according to 
+the strict or modified lower-of-cost-or-market principle 
+­depending on the intended use.
+Alternative investments, which are allocated to fixed assets, 
+are valued using various models. Individual and fund invest-
+ments are valued at purchase cost. A write-down to lower fair 
+value is made on individual investments if certain applicabili-
+ty criteria are met and the need to take a write-down is estab-
+lished using a standardised method. In addition, for CLO po-
+sitions compliance with collateral tests of the respective 
+higher tranche is verified. In the case of yield enhancement 
+funds, actually incurred defaults as well as instruments at 
+high risk of default in the respective funds are taken as an 
+indication of impairment. Subsequent valuation of shares in 
+private equity funds is based on net asset value (NAV).
+Derivative instruments are valued on a mark-to-market basis. 
+Forward exchange transactions are subject to a reporting 
+prohibition based on the principle of not recognising pending 
+transactions. Provisions for anticipated losses from pending 
+transactions are established in the event of negative fair val-
+ues as at the balance sheet date.
+Deposits and cash at banks in current accounts, cash in hand, 
+other assets, deposits and accounts receivable arising out of 
+reinsurance operations, other receivables as well as prepaid 
+expenses and accrued income are valued at the nominal 
+amounts. Valuation adjustments are set up for default risks.
+
+15
+Hannover Rück SE | Annual Report 2019
+Notes
+Fixed assets are valued at purchase cost less straight-line or 
+declining-balance depreciation according to the normal oper-
+ational useful life. Low-value items are written off in the year 
+of acquisition.
+Write-ups are made in accordance with § 253 (5) of the Com-
+mercial Code (HGB).
+Valuation of liabilities
+The provision for unearned premiums, life assurance provi-
+sion, provisions for outstanding claims, provisions for bonus-
+es and rebates and other technical provisions are entered as 
+liabilities according to the information provided by the ceding 
+companies.
+The basis for the valuation of the provision for unearned pre-
+miums is the reinsurance premium less 92.5% of the reinsur-
+ance commission in accordance with the order of the Minister 
+of Finance of the State of North Rhine-Westphalia dated 
+29 May 1974. In marine insurance the provision for unearned 
+premiums and the provisions for outstanding claims are re-
+garded as one unit and shown as provisions for outstanding 
+claims.
+Where the provisions indicated by the ceding companies are 
+not expected to be adequate, they are increased by appropri-
+ate additional amounts. Where no figures are available from 
+cedants, the provisions are estimated in the light of the busi-
+ness experience to date. The results of new treaties are at 
+least neutralised. In some cases, provisions are determined 
+on an actuarial basis. If necessary, additional or complete es-
+timates of the corresponding profit and loss items including 
+relevant retrocessions are made where ceding company ac-
+counts with substantial premium income are missing. Miss-
+ing ceding company accounts with a low premium income are 
+included in the following year. The estimated gross premium 
+income for 2019 is 36.4% of the total volume.
+In all major lines IBNR claims reserves have been set up. The 
+calculation is largely carried out in accordance with statistical 
+mathematical methods.
+From 2010 onwards the run-off result of the previous year’s 
+provision for outstanding claims is calculated by Hannover 
+Rück SE on an accident-year basis and hence appropriately 
+allocated.
+The shares of retrocessionaires in the technical reserves are 
+determined on the basis of the reinsurance contracts. Provi-
+sion is made for bad debts.
+The equalisation reserve is set up in accordance with the 
+notes to § 29 of the Regulation on the Accounting of Insur-
+ance Undertakings (RechVersV); the similar provisions are 
+constituted in accordance with § 30 of the Regulation on the 
+Accounting of Insurance Undertakings (RechVersV). With re-
+spect to insurance lines 28 Other property insurance and 29 
+Other indemnity insurance, separate profit and loss accounts 
+are drawn up only for the fidelity line.
+The provision for nuclear plants is calculated in accordance 
+with § 30 (2) of the Regulation on the Accounting of Insur-
+ance Undertakings (RechVersV).
+The catastrophe risk provision for pharmaceutical product li-
+ability is calculated in accordance with § 30 (1) of the Regula-
+tion on the Regulation on the Accounting of Insurance Under-
+takings (RechVersV).
+The catastrophe risk provision for terrorism is calculated in 
+accordance with § 30 (2a) of the Regulation on the Account-
+ing of Insurance Undertakings (RechVersV).
+The pension commitments are carried in the settlement 
+amount required according to reasonable and prudent busi-
+ness judgement. They are discounted at 2.71% using the av-
+erage interest rate for the last ten years published by the Ger-
+man Bundesbank pursuant to the Regulation on the 
+Discounting of Provisions (RückAbzinsVO) with an assumed 
+maturity of 15 years. The provision for pensions is calculated 
+according to the projected unit credit method. A rate of com-
+pensation increase of 2.50% and pension indexation of 
+1.74% are assumed. Fluctuation probabilities are determined 
+separately according to age and gender. The benefit adjust-
+ment based on surplus participations from insured pension 
+commitments is recognised in an amount of 0.0%. The valu-
+ation is based on the decrement probabilities of the “2018G 
+standard tables”.
+With respect to employee-funded pension commitments, the 
+amount of which is determined solely according to the fair 
+value of a claim under a pension insurance policy, valuation is 
+carried out in accordance with § 253 (1) Sentence 3 of the 
+Commercial Code (HGB). For these commitments the settle-
+ment amount corresponds to the fair value of the actuarial 
+reserve plus surplus participation.
+The provisions for taxation and other provisions take into 
+­account all identifiable risks and uncertain liabilities.
+
+Hannover Rück SE | Annual Report 2019
+16
+Deferred taxes are calculated using a tax rate of 32.63%. De-
+ferred tax liabilities, which refer largely to the balance sheet 
+items shares in affiliated companies, receivables from affiliat-
+ed companies and participating interests (owing to diverging 
+recognition of shares in partnerships and booking of income 
+from participating interests in a different accounting period), 
+are netted in particular with deferred tax assets from the bal-
+ance sheet item provisions for outstanding claims. No de-
+ferred taxes are recognised in view of the surplus of deferred 
+tax assets.
+The other provisions are established in the settlement amount 
+required according to reasonable and prudent business 
+judgement, in some cases on the basis of actuarial opinions. 
+Provisions with a maturity of more than one year are dis-
+counted using the average market rate published by the Ger-
+man Bundesbank for the last seven years in accordance with 
+their maturity.
+A provision is constituted for virtual stock options in accord-
+ance with actuarial principles on the basis of a recognised fi-
+nancial option pricing model (Black-Scholes Model with the 
+aid of a trinomial tree method). Discounting is carried out 
+pursuant to § 253 (2) of the Commercial Code (HGB) not us-
+ing risk-free interest rates but with the average interest rates 
+for the last seven years published by the German Bundes-
+bank.
+The deposits received from retrocessionaires and other liabil-
+ities are valued at the settlement amounts.
+Further accounting policies
+Transactions booked in foreign currencies are converted to 
+the reporting currency at the applicable monthly exchange 
+rate at the date of entry in the accounts. Assets and liabilities 
+entered in the balance sheet are converted to euros at the 
+average exchange rates on the balance sheet date.
+In order to reduce currency risks as far as possible, matching 
+cover is extensively established for liability items by setting 
+up corresponding asset items in the different currencies. In 
+relation to specific currencies, foreign currency liabilities are 
+combined with matching foreign currency assets into valua-
+tion units on the basis of offsetting opposing changes in value 
+pursuant to § 254 of the Commercial Code (HGB) (portfolio 
+hedges) and the result of currency conversion of these for-
+eign currency positions is recognised without regard to the 
+purchase cost method or the imparity principle.
+The remaining assets and liabilities outside the aforemen-
+tioned valuation units have a maturity of less than one year 
+and are measured in accordance with § 256 a of the Commer-
+cial Code (HGB).
+In addition, the provisions for currency risks from past bal-
+ance sheet dates are written back on a year-by-year basis.
+The technical interest results in the main from the interest 
+income earned on the basis of the life assurance provision. 
+Standard methods are used for the calculation.
+The declaration of conformity required pursuant to § 161 of 
+the Stock Corporation Act (AktG) regarding compliance with 
+the German Corporate Governance Code has been submitted 
+and made permanently available to the shareholders.
+
+17
+Hannover Rück SE | Annual Report 2019
+Notes
+Notes on assets 
+Change in asset items A. B. I. to B. III.
+in EUR thousand
+2018
+2019
+Book values 
+31.12.
+Additions
+Reclassi-
+fications
+Disposals
+Write-ups
+Depre­
+ciation
+Currency 
+effects
+Book 
+values 
+31.12.
+A.
+Intangible assets
+1. Purchased franchises, 
+trademarks, patents, 
+licences and similar 
+rights and assets
+56,582
+6,909
+7,562
+–
+–
+22,720
+1
+48,334
+2. Prepayments on 
+intangible assets
+9,073
+11,906
+(7,562)
+–
+–
+–
+–
+13,417
+3. Total A.
+65,655
+18,815
+–
+–
+–
+22,720
+1
+61,751
+B. I.
+Land and buildings, rights 
+to land and buildings, 
+leasehold
+31,940
+8
+–
+–
+88
+1,186
+–
+30,850
+B. II.
+Investments in affiliated 
+companies and participat-
+ing interests
+1. Shares in affiliated 
+companies
+7,236,713
+1,997,016
+(71,548)
+1,711,761
+918
+–
+16,198
+7,467,536
+2. Loans to affiliated 
+companies
+931,136
+506
+(78,645)
+215,112
+–
+–
+16,766
+654,651
+3. Participating interests
+80,501
+196,109
+71,548
+29,775
+3,500
+–
+–
+321,883
+4. Loans to enterprises in 
+which the company has 
+a participating interest
+–
+–
+–
+–
+–
+–
+4,688
+83,333
+5. Total B. II.
+8,248,350
+2,193,631
+–
+1,956,648
+4,418
+–
+37,652
+8,527,403
+B. III.
+Other financial 
+­investments
+1. Shares, units or shares 
+in investment funds and 
+other variable-yield 
+securities
+1,490,221
+401,066
+–
+305,186
+168
+1,168
+5,234
+1,590,335
+2. Bearer debt securities 
+and other fixed-income 
+securities 
+17,925,006
+12,959,822
+–
+10,786,052
+41,936
+8,173
+454,904
+20,587,443
+3. Other loans
+a) Registered debt 
+securities
+334,024
+82,697
+–
+71,125
+–
+–
+2,637
+348,233
+b) Debentures and loans
+388,719
+178
+–
+221
+60
+–
+4,188
+392,924
+4. Deposits with banks
+301,998
+10,010,882
+–
+9,963,041
+–
+–
+7,490
+357,329
+5. Other investments
+23,169
+10,301
+–
+450
+–
+–
+(22,719)
+10,301
+6. Total B. III.
+20,463,137
+23,464,946
+–
+21,126,075
+42,164
+9,341
+451,734
+23,286,565
+Total
+28,809,082
+25,677,400
+–
+23,082,723
+46,670
+33,247
+489,387
+31,906,569
+
+Hannover Rück SE | Annual Report 2019
+18
+Land and buildings and rights to land and buildings
+On 31 December 2019 the company had at its disposal six 
+developed properties with commercial and other buildings in 
+Hannover and near Paris as well as one floor of offices in Ma-
+drid. The book value of the floor of offices in Madrid amount-
+ed to EUR 671 thousand (EUR 688 thousand) as at 31 Decem-
+ber 2019; the book value of the developed property near 
+Paris was EUR 959 thousand (EUR 1,112 thousand). Five 
+buildings in Hannover with a book value of EUR 29,220 thou-
+sand (EUR 28,576 thousand) are for own use.
+Shares in affiliated companies and participations
+Our major shares in affiliated companies and participations 
+are listed below.
+We have omitted companies of subordinate economic impor-
+tance with no material influence on the net assets, financial 
+position or results of operations.
+List of shareholdings in 2019 
+Name and registered office of the company
+Participation 
+in %
+Currency
+Capital and 
+reserves 
+(§ 266 (3) 
+­Commercial 
+Code)
+Result for the last 
+financial year 
+ 
+Figures in currency units of 1,000
+Shares in affiliated companies
+Companies resident in Germany
+Hannover Rück Beteiligung Verwaltungs-GmbH, 
+Hannover / Germany
+100.00
+EUR
+4,027,406
+–
+holds 64.79% of the shares in: 
+E+S Rückversicherung AG, Hannover / Germany
+EUR
+918,847
+128,000
+holds 20.00% of the shares in: 
+WeHaCo Unternehmensbeteiligungs-GmbH 1, 
+­Hannover / Germany
+EUR
+81,447
+1,728
+holds 100.00% of the shares in: 
+Hannover Re (Bermuda) Ltd., Hamilton / Bermuda
+USD
+1,533,574
+164,790
+holds 100.00% of the shares in: 
+Hannover Re (Ireland) Designated Activity Company,  
+Dublin / Ireland
+USD
+697,296
+106,124
+holds 100.00% of the shares in: 
+Hannover Life Reassurance Company of America, 
+Orlando / USA
+USD
+552,826
+70,119
+holds 100.00% of the shares in: 
+Hannover Life Reassurance Bermuda Ltd., 
+Hamilton / Bermuda
+USD
+495,663
+95,050
+holds 100.00% of the shares in: 
+Hannover Life Re of Australasia Ltd, Sydney / Australia
+AUD
+487,581
+(10,838)
+holds 95.00% of the shares in: 
+Hannover ReTakaful B.S.C. (c), Manama / Bahrain
+BHD
+68,650
+9,800
+Hannover America Private Equity Partners II GmbH & Co. KG, 
+Hannover / Germany
+87.00
+EUR
+542,769
+58,858
+holds 100.00% of the shares in: 
+HAPEP II Holding GmbH, Hannover / Germany
+EUR
+13,432
+90
+
+19
+Hannover Rück SE | Annual Report 2019
+Notes
+Name and registered office of the company
+Participation 
+in %
+Currency
+Capital and 
+reserves 
+(§ 266 (3) 
+­Commercial 
+Code)
+Result for the last 
+financial year 
+ 
+Figures in currency units of 1,000
+Hannover Re Euro PE Holdings GmbH & Co. KG, 
+­Hannover / Germany 
+74.99
+EUR
+362,071
+53,321
+HILSP Komplementär GmbH 2, Hannover / Germany
+100.00
+EUR
+34
+(1)
+FUNIS GmbH & Co. KG, Hannover / Germany
+100.00
+EUR
+95,810
+37,702
+holds 100.00% of the shares in: 
+Integra Insurance Solutions Limited,  
+Bradford / United Kingdom
+GBP
+6,621
+1,105
+holds 30.00% of the shares in: 
+Reaseguradora del Ecuador S.A., Guayaquil / Ecuador
+USD
+18,560
+3,798
+holds 20.00% of the shares in: 
+Monument Insurance Group Limited 1, Hamilton / Bermuda
+GBP
+161,669
+61,357
+holds 20.00% of the shares in: 
+Trinity Underwriting Managers Ltd. 3, Toronto / Canada
+CAD
+3
+(1,274)
+holds 15.00% of the shares in: 
+SWISS INSUREVOLUTION PARTNERS Holding (CH) AG 1, 
+Zurich / Switzerland
+CHF
+43,631
+15,583
+holds 15.00% of the shares in: 
+SWISS INSUREVOLUTION PARTNERS Holding (FL) AG 1, 
+Triesen / Liechtenstein
+CHF
+3,773
+(31)
+Inter Hannover (No.1) Limited, London / United Kingdom
+100.00
+GBP
+–
+–
+U FOR LIFE SDN. BHD. 1, Petaling Jaya / Malaysia
+100.00
+MYR
+(26,613)
+(4,709)
+Hannover Re Global Alternatives GmbH & Co. KG, 
+­Hannover / Germany
+85.00
+EUR
+438,158
+14,870
+holds 100.00% of the shares in: 
+PAG Real Estate Asia Select Fund Limited, 
+George Town / Cayman Islands
+USD
+213,484
+3,174
+holds 99.99% of the shares in: 
+HR US Infra Debt LP, George Town / Cayman Islands
+USD
+183,722
+8,022
+Hannover Re Euro RE Holdings GmbH, Hannover / Germany
+65.00
+EUR
+1,018,585
+110,205
+holds 99.99% of the shares in: 
+HR GLL Central Europe GmbH & Co. KG, 
+Munich / Germany
+EUR
+180,430
+33,305
+HAPEP II Komplementär GmbH, Hannover / Germany
+50.00
+EUR
+47
+4
+HDI Global Specialty SE, Hannover / Germany
+49.78
+EUR
+251,149
+(12,114)
+holds 100.00% of the shares in: 
+International Mining Industry Underwriters Limited 3, 
+London / United Kingdom
+GBP
+238
+12
+holds 53.00% of the shares in: 
+Svedea AB, Stockholm / Sweden
+SEK
+68,781
+48,708
+Affiliated companies resident abroad
+Hannover Finance (Luxembourg) S.A.,  
+Luxembourg / Luxembourg
+100.00
+EUR
+27,339
+909
+holds 20.69% of the shares in: 
+Sureify Labs, Inc. 4, Wilmington / USA
+USD
+(489)
+(2,134)
+Hannover Finance (UK) Limited, London / United Kingdom
+100.00
+GBP
+656
+(24)
+holds 100.00% of the shares in: 
+Hannover Services (UK) Limited, London / United Kingdom
+GBP
+927
+(42)
+
+Hannover Rück SE | Annual Report 2019
+20
+Name and registered office of the company
+Participation 
+in %
+Currency
+Capital and 
+reserves 
+(§ 266 (3) 
+­Commercial 
+Code)
+Result for the last 
+financial year 
+ 
+Figures in currency units of 1,000
+Hannover Reinsurance Group Africa (Pty) Ltd., 
+Johannesburg / South Africa
+100.00
+ZAR
+251,982
+100,171
+holds 100.00% of the shares in: 
+Hannover Life Reassurance Africa Limited, 
+Johannesburg / South Africa
+ZAR
+828,141
+108,856
+holds 100.00% of the shares in: 
+Hannover Reinsurance Africa Limited, 
+Johannesburg / South Africa
+ZAR
+950,873
+191,237
+holds 100.00% of the shares in: 
+Compass Insurance Company Limited, 
+Johannesburg / South Africa
+ZAR
+265,807
+55,512
+holds 70.00% of the shares in: 
+Lireas Holdings (Pty) Ltd., Johannesburg / South Africa
+ZAR
+299,437
+85,508
+Leine Investment General Partner S.à.r.l.,  
+Luxembourg / Luxembourg
+100.00
+EUR
+1,457
+587
+holds 100.00% of the shares in: 
+LI RE, Hamilton / Bermuda
+USD
+–
+–
+Hannover Finance, Inc., Wilmington / USA
+100.00
+USD
+1,405,321
+27,227
+holds 100.00% of the shares in: 
+Hannover Life Reassurance Company of America (Bermuda) 
+Ltd., Hamilton / Bermuda
+USD
+1,616,067
+166,255
+holds 100.00% of the shares in: 
+Glencar Insurance Company, Orlando / USA
+USD
+57,437
+(1,580)
+holds 100.00% of the shares in: 
+Glencar Underwriting Managers, Inc., Chicago / USA
+USD
+4,702
+(133)
+holds 100.00% of the shares in: 
+Kubera Insurance (SAC) Ltd, Hamilton / Bermuda
+USD
+702
+(187)
+Argenta Holdings Limited, London / United Kingdom
+100.00
+GBP
+52,901
+6,465
+holds 100.00% of the shares in: 
+Argenta Private Capital Limited, London / United Kingdom
+GBP
+4,102
+2,139
+holds 100.00% of the shares in: 
+Argenta Syndicate Management Limited, 
+London / United Kingdom
+GBP
+4,357
+2,583
+holds 100.00% of the shares in: 
+Argenta Tax & Corporate Services Limited, 
+London / United Kingdom
+GBP
+386
+113
+holds 100.00% of the shares in: 
+Argenta Underwriting Asia Pte. Ltd., Singapore / Singapore
+SGD
+1,403
+754
+holds 100.00% of the shares in: 
+Argenta Underwriting Labuan Ltd, Labuan / Malaysia
+USD
+78
+–
+holds 100.00% of the shares in: 
+Argenta Underwriting No.1 Limited, London / United 
+Kingdom
+GBP
+22
+–
+holds 100.00% of the shares in: 
+Argenta Underwriting No.2 Limited, London / United 
+Kingdom
+GBP
+1,347
+48
+holds 100.00% of the shares in: 
+Argenta Underwriting No.3 Limited, London / United 
+Kingdom
+GBP
+(276)
+(742)
+holds 100.00% of the shares in: 
+Argenta Underwriting No.4 Limited, London / United 
+Kingdom
+GBP
+(152)
+–
+holds 100.00% of the shares in: 
+Argenta Underwriting No.7 Limited, London / United 
+Kingdom
+GBP
+–
+–
+
+21
+Hannover Rück SE | Annual Report 2019
+Notes
+Name and registered office of the company
+Participation 
+in %
+Currency
+Capital and 
+reserves 
+(§ 266 (3) 
+­Commercial 
+Code)
+Result for the last 
+financial year 
+ 
+Figures in currency units of 1,000
+holds 100.00% of the shares in: 
+Argenta Underwriting No.9 Limited, London / United 
+Kingdom
+GBP
+552
+(239)
+holds 100.00% of the shares in: 
+Argenta Underwriting No.10 Limited,  
+London / United Kingdom
+GBP
+(18)
+36
+holds 100.00% of the shares in: 
+Argenta Underwriting No.11 Limited,  
+London / United Kingdom
+GBP
+(19)
+11
+holds 100.00% of the shares in: 
+Argenta No.13 Limited, London / United Kingdom
+GBP
+–
+–
+holds 100.00% of the shares in: 
+Argenta No.14 Limited, London / United Kingdom
+GBP
+–
+–
+holds 100.00% of the shares in: 
+Argenta No.15 Limited, London / United Kingdom
+GBP
+–
+–
+holds 100.00% of the shares in: 
+Residual Services Limited, London / United Kingdom
+GBP
+3
+–
+Leine Investment SICAV-SIF, Luxembourg / Luxembourg
+99.99
+USD
+114,319
+2,316
+Kaith Re Ltd., Hamilton / Bermuda
+88.00
+USD
+101
+(272)
+Hannover Re Real Estate Holdings, Inc., Orlando / USA
+86.50
+USD
+969,278
+4,615
+holds 100.00% of the shares in: 
+HR US Infra Equity LP, Wilmington / USA
+USD
+58,948
+(599)
+holds 99.90% of the shares in: 
+GLL HRE CORE Properties L.P., Wilmington / USA
+USD
+807,452
+231
+Hannover ReTakaful B.S.C. (c), Manama / Bahrain
+5.00
+BHD
+68,650
+9,800
+Participations
+HANNOVER Finanz GmbH 1, Hannover / Germany 
+27.78
+EUR
+63,435
+5,322
+WeHaCo Unternehmensbeteiligungs-GmbH 1,  
+Hannover / Germany
+20.00
+EUR
+81,447
+1,728
+Meribel Mottaret Limited 5, St. Helier / Jersey
+18.92
+EUR
+–
+–
+1	
+Financial year ending 31 December 2018
+2	
+Financial year ending 30 September 2019
+3	
+Financial year ending 31 December 2017
+4	
+Financial year ending 31 July 2018
+5	
+Company was newly established in 2018. An annual financial statement is not yet available.
+Key exchange rates
+1 EUR corresponds to:
+Exchange rates on 31.12.2019
+AUD
+1.59999
+BHD
+0.42190
+GBP
+0.85201
+USD
+1.11895
+ZAR
+15.73850
+
+Hannover Rück SE | Annual Report 2019
+22
+Investments in affiliated companies and participating interests
+As at 31 December 2019 the company held shares in affiliated 
+companies with a book value of EUR 7,467,536 thousand (EUR 
+7,236,713 thousand). Write-downs of EUR 21 thousand (EUR 
+62,941 thousand) were not taken on shares in affiliated compa-
+nies with a book value of EUR 158 thousand (EUR 1,090,918 
+thousand) because the impairments in question are purely 
+temporary. Based on the assumption that impairments on 
+loans to affiliated companies will not be permanent and are 
+attributable to the underlying measurement parameters, write-
+downs of EUR 48 thousand (EUR 4,532 thousand) were not 
+taken on a portfolio with a book value of EUR 22,845 thousand 
+(EUR 178,404 thousand). Write-downs of EUR 0 thousand 
+(EUR 13 thousand) were not taken on participating interests 
+with a book value of EUR 0 thousand (EUR 18,188 thousand) 
+because the impairments in question are purely temporary.
+In the context of the acquisition of Generali Lebensver-
+sicherung AG by the Viridium Group, the shareholding struc-
+ture was reorganised. In this connection Hannover Re sold its 
+indirectly held participation in Viridium, realising income of 
+EUR 99.5 million that was recognised in the investment re-
+sult. At the same time Hannover Re participated indirectly in 
+the Viridium Group including Generali Lebensversicherung 
+AG through Meribel Mottaret Limited, St. Helier / Jersey, with 
+the result that it holds a participating interest of 17.04%.
+Effective 1 January 2019 Hannover Re sold 50.22% of the 
+shares in International Insurance Company of Hannover SE, 
+Hannover, to HDI Global SE, Hannover. The company was re-
+branded HDI Global Specialty SE in the context of the sale.
+Other investments
+The securities totalling EUR 1,534,455 thousand (EUR 
+1,490,221 thousand) shown under the “Other financial invest-
+ments” in the item “Shares, units or shares in investment 
+funds and other variable-yield securities” were allocated en-
+tirely to fixed assets. The fair value of these holdings amount-
+ed to EUR 1,836,790 thousand (EUR 1,751,716 thousand). 
+Based on the assumption that the impairments will not be 
+permanent, write-downs of EUR 9,967 thousand (EUR 6,542 
+thousand) were not taken on a portfolio with a book value of 
+EUR 124,520 thousand (EUR 152,146 thousand). In the case 
+of shares and investment fund certificates, a separate and 
+standardised method is used to check the permanence of the 
+impairment. For bond funds the permanence of the impair-
+ment is checked on the basis of the difference between the 
+cost price and fair value. The permanence of the impairment 
+for high-yield and emerging market funds is established on 
+the basis of the difference between the cost price and fair 
+value and depending on the ratings of the assets held within 
+the funds. In the case of private equity, real estate investment 
+and infrastructure funds, the permanence of the impairment 
+is verified by referring to the difference between the cost 
+price and fair value and making allowance for the investment 
+structure (J-curve or core funds).
+Altogether, bearer debt securities and other fixed-income se-
+curities with a book value of EUR 16,149,445 thousand (EUR 
+12,826,213 thousand) and a fair value of EUR 16,755,960 
+thousand (EUR 12,972,429 thousand) were allocated to fixed 
+assets. Write-downs of EUR 51,285 thousand (EUR 106,181 
+thousand) were not taken on bearer debt securities with a 
+book value of EUR 3,004,391 thousand (EUR 5,350,577 thou-
+sand). Given that there were no indications of issuer default, 
+it is expected that the nominal value will be repaid in full 
+upon maturity and hence a permanent impairment is not an-
+ticipated. The holdings that were not written down to fair val-
+ue relate inter alia to CDO / CLO investments. Model-based 
+fair value measurement, making allowance for applicability 
+criteria and verification of compliance with collateral tests of 
+the respective higher tranches, is used to test for impairment 
+of the carrying amounts.
+Write-downs of EUR 0 thousand (EUR 1,787 thousand) were 
+not taken on debentures with a book value of EUR 0 thousand 
+(EUR 86,986 thousand) based on the premise that the nomi-
+nal value will be repaid in full on maturity.
+Based on determination of the fair value as at 31 December 
+2019, no requirement to recognise a permanent impairment 
+on registered debt securities with a book value of EUR 
+159,080 thousand (EUR 21,297 thousand) was identified. 
+There were no indications of issuer default, and hence write-
+downs of EUR 2,407 thousand (EUR 740 thousand) were not 
+taken.
+The portfolio includes a special fund launched for Hannover 
+Rück SE by an external manager. The company’s share of the 
+fund is 100.0%. The fund in question is a high yield fund in-
+vesting principally in European fixed-income securities. An 
+index composed of the iBoxx universe is used as the bench-
+mark. For Hannover Rück SE a total amount of EUR 10,358 
+thousand (EUR 12,622 thousand) was distributed in the year 
+under review. The units can be returned at any time within at 
+most five days. The fund units have a fair value of EUR 
+1,397,152 thousand (EUR 1,326,799 thousand) and a book 
+value of EUR 1,214,413 thousand (EUR 1,187,659 thousand), 
+producing unrealised gains of EUR 182,739 thousand (EUR 
+139,140 thousand).
+Assets with a balance sheet value of EUR 7,259,361 thousand 
+(EUR 6,904,278 thousand) are blocked in favour of compa-
+nies.
+
+23
+Hannover Rück SE | Annual Report 2019
+Notes
+Current values pursuant to § 54 of the Regulation on the  
+Accounting of Insurance Undertakings (RechVersV)
+The current values of land and buildings are determined an-
+nually using the gross rental method in accordance with the 
+Decree on the Principles for Determining the Market Value of 
+Property (ImmoWertV) and the supplementary valuation 
+guidelines. Income values or net asset values are determined 
+for shares in affiliated companies and participating interests. 
+In individual cases the amortised cost is taken as the fair val-
+ue.
+Shares, units or shares in investment funds, bearer debt secu-
+rities and other securities are carried at market or stock ex-
+change prices. These are obtained from publically available 
+prices and bid prices as at the balance sheet date. In the case 
+of special investments for which there are no publically avail-
+able prices, valuation is model-based using risk premiums, 
+default rates, prepayment speed and recovery rates or at net 
+asset value (NAV). The current values of securities traded in 
+illiquid markets as well as those of the sundry loans and loans 
+to affiliated companies and participating interests are calcu-
+lated on the basis of yield curves, taking into account the 
+creditworthiness of the specific debtor and the currency of 
+the loan.
+Deposits with banks and other investments are carried at 
+nominal values and in individual cases at book value.
+Current values pursuant to § 54 RechVersV of asset items B. I. to B. III.
+in EUR thousand
+2019
+Book values
+31.12.
+Current values
+31.12.
+Difference
+31.12.
+B. I.
+Land and buildings, rights to land and buildings, 
+leasehold
+30,850
+52,999
+22,149
+B. II.
+Investments in affiliated companies and participating 
+interests
+1. Shares in affiliated companies
+7,467,536
+11,676,882
+4,209,346
+2. Loans to affiliated companies
+654,651
+673,665
+19,014
+3. Participating interests
+321,883
+386,551
+64,668
+4. Loans to enterprises in which the company has a 
+participating interest
+83,333
+84,321
+988
+5. Total B. II.
+8,527,403
+12,821,419
+4,294,016
+B. III.
+Other investments
+1. Shares, units or shares in investment funds and other 
+variable-yield securities
+1,590,335
+1,893,460
+303,125
+2. Bearer debt securities and other fixed-income securities
+20,587,443
+21,358,821
+771,378
+3. Other loans
+a)
+Registered debt securities
+348,233
+366,366
+18,133
+b)
+Debentures and loans
+392,924
+414,360
+21,436
+4. Deposits with banks
+357,329
+358,449
+1,120
+5. Other investments
+10,301
+10,280
+(21)
+6. Total B. III.
+23,286,565
+24,401,736
+1,115,171
+Total
+31,844,818
+37,276,154
+5,431,336
+Disclosures pursuant to § 55 (7) RechVersV
+in EUR thousand
+31.12.2019
+Market value determination from the year
+2018
+3,440
+2019
+49,559
+Total
+52,999
+
+Hannover Rück SE | Annual Report 2019
+24
+Other receivables
+in EUR thousand
+2019
+2018
+Receivables from affiliated companies
+403,627
+486,002
+Receivables from reinsured pension schemes
+67,932
+65,631
+Receivables from the revenue authorities
+62,864
+9,721
+Receivables from hedges
+4,330
+320
+Receivables from representative offices
+4,236
+2,367
+Deposits
+2,618
+1,769
+Interest and rent due
+1,356
+1,253
+Receivables from securities transactions
+–
+1,644
+Other receivables
+2,844
+4,880
+Total
+549,807
+573,587
+Sundry assets
+The sundry assets relate to tax refund claims in an amount of 
+EUR 19,474 thousand (EUR 9,862 thousand).
+Prepayments and accrued income
+in EUR thousand
+2019
+2018
+Accrued interest and rent
+187,615
+171,476
+Accrued administrative expenses
+8,958
+8,589
+Other
+–
+379
+Total
+196,573
+180,444
+ 
+Notes on liabilities
+Subscribed capital
+The company’s subscribed capital remained unchanged as at 
+31 December 2019 in the amount of EUR 120,597 thousand. 
+It is divided into 120,597,134 no-par-value registered shares.
+Contingent capital of EUR 60,299 thousand is available. It can 
+be used to grant shares to holders of convertible bonds and 
+bonds with warrants as well as to convert participating bonds 
+or profit-sharing rights. This contingent capital has a time 
+limit of 9 May 2021.
+Authorised capital is also available in an amount of up to EUR 
+60,299 thousand with a time limit of 9 May 2021. Of this, an 
+amount of up to EUR 1,000 thousand may be used to issue 
+employee shares.
+Treasury shares
+By a resolution of the Annual General Meeting of Hannover 
+Rück SE adopted on 6 May 2015, the company was author-
+ised until 5 May 2020 to acquire treasury shares of up to 10% 
+of the capital stock existing on the date of the resolution.
+The company did not hold fully paid, no-par-value treasury 
+shares as at 31 December 2019. Within the financial year just 
+ended the company acquired shares for employees in the 
+Group, which it subsequently sold to them.
+
+25
+Hannover Rück SE | Annual Report 2019
+Notes
+ 
+2019
+Date of first 
+acquisition
+Date of
+first sale
+Date of second 
+acquisition
+Date of 
+second sale
+15 May
+15 May
+9 August
+9 August
+Number of shares
+16,452
+16,452
+15
+15
+Amount of capital stock attributable to the shares (EUR)
+16,452.00
+16,452.00
+15.00
+15.00
+Proportion of capital stock
+0.01%
+0.01%
+0.0000%
+0.0000%
+Price (EUR)
+128.34
+128.34
+139.14
+139.14
+Capital reserve
+The company’s capital reserve remained unchanged as at 
+31 December 2019 in the amount of EUR 880,608 thousand. 
+The capital reserve refers solely to the amount generated upon 
+the issue of shares in excess of the par value of the subscribed 
+capital.
+Retained earnings
+The retained earnings were unchanged as at 31 December 
+2019 in an amount of EUR 630,511 thousand. They were re-
+duced by EUR 358 thousand due to the issue of employee 
+shares and an amount of EUR 358 thousand was allocated to 
+retained earnings from the 2019 profit for the year. Pursuant 
+to § 268 (8) Sentence 3 in conjunction with Sentence 1 of the 
+Commercial Code (HGB) there is a restriction on distribution 
+of EUR 33 thousand for the excess of fair value over historical 
+cost of the assets used to cover retirement benefit obligations 
+less corresponding deferred tax liabilities. Based on the dis-
+counting of pension obligations with the average market in-
+terest rate of the last ten years compared to discounting with 
+the average market interest rate of the last seven years, there 
+is an additional restriction on distribution in an amount of 
+EUR 8.8 million after allowance for deferred taxes.
+Disposable profit
+The disposable profit for the financial year includes a profit 
+carried forward from the previous year of EUR 702,865 thou-
+sand.
+Subordinated liabilities
+Under a loan agreement dated 15 September 2010 Hannover 
+Finance (Luxembourg) S.A. granted Hannover Re a junior 
+loan of EUR 500,000 thousand at a coupon of 5.85% and with 
+a maturity date of 11 September 2040 as well as a first call 
+option as at 11 September 2020.
+Under a loan agreement dated 19 November 2012 Hannover 
+Finance (Luxembourg) S.A. granted Hannover Re a junior 
+loan of EUR 500,000 thousand at a coupon of 5.131% and 
+with a maturity date of 20 November 2042 as well as a first 
+call option as at 20 June 2023.
+On 15 September 2014 Hannover Rück SE placed another 
+subordinated bond with a volume of EUR 500,000 thousand 
+on the capital market at a coupon of 3.375% and with a per-
+petual maturity as well as a first scheduled call option as at 
+26 June 2025.
+On 9 October 2019 Hannover Re placed further subordinated 
+debt in an amount of EUR 750 million on the capital market at 
+a coupon of 1.125% and with a maturity date of 9 October 
+2039 as well as a first scheduled call option on 9 July 2029.
+
+Hannover Rück SE | Annual Report 2019
+26
+Provision for unearned premiums
+in EUR thousand
+2019
+2018
+Insurance line
+gross
+net
+gross
+net
+Fire
+548,732
+445,870
+385,139
+317,173
+Casualty
+668,197
+552,299
+465,716
+400,828
+Accident
+97,717
+45,342
+79,542
+73,584
+Motor
+526,189
+442,008
+456,058
+397,984
+Aviation
+81,849
+69,644
+80,922
+63,235
+Life
+264,253
+225,588
+175,521
+159,844
+Other lines
+942,898
+683,693
+782,245
+620,687
+Total
+3,129,835
+2,464,444
+2,425,143
+2,033,335
+Life assurance provisions
+in EUR thousand
+2019
+2018
+Insurance line
+gross
+net
+gross
+net
+Accident
+12,329
+(11,075)
+13,033
+(9,306)
+Life
+8,434,530
+7,739,068
+8,706,617
+7,758,906
+Other lines
+32,083
+17,727
+5,046
+4,513
+Total
+8,478,942
+7,745,720
+8,724,696
+7,754,113
+Provisions for outstanding claims
+in EUR thousand
+2019
+2018
+Insurance line
+gross
+net
+gross
+net
+Provision for reimbursements and surrenders 
+(except annuities)
+Fire
+3,518,319
+2,563,882
+3,013,712
+2,097,659
+Casualty
+9,573,326
+7,940,702
+8,940,715
+7,443,581
+Accident
+375,311
+294,615
+350,958
+306,915
+Motor
+4,315,897
+3,367,658
+3,724,571
+2,956,743
+Aviation
+998,254
+726,979
+1,013,385
+763,284
+Marine
+1,264,537
+853,995
+1,364,669
+939,736
+Life
+1,216,884
+1,131,910
+1,056,097
+1,003,128
+Other lines
+4,729,406
+3,383,613
+4,063,300
+2,880,517
+25,991,934
+20,263,354
+23,527,407
+18,391,563
+Separate value adjustment on retrocessions
+–
+56,618
+–
+54,602
+25,991,934
+20,319,972
+23,527,407
+18,446,165
+Provision for annuities
+Casualty
+2,599
+2,545
+1,432
+1,378
+Accident
+33,581
+33,574
+31,019
+31,013
+Motor
+19,037
+17,532
+19,275
+17,777
+Life
+28,214
+28,214
+–
+–
+83,431
+81,865
+51,726
+50,168
+Total 
+26,075,365
+20,401,837
+23,579,133
+18,496,333
+The net run-off result in property and casualty insurance is 
+positive overall and amounts to EUR 188.7 million or 1.1% 
+(1.6%) relative to the original provision.
+
+27
+Hannover Rück SE | Annual Report 2019
+Notes
+Equalisation reserve and similar provisions
+in EUR thousand
+2019
+Insurance line
+Position at 1.1. 
+Addition
+Withdrawal 
+and release
+Position at 31.12.
+Equalisation reserve
+Fire
+324,660
+–
+118,636
+206,024
+Casualty
+824,995
+199,370
+–
+1,024,365
+Accident
+13,310
+9,134
+–
+22,444
+Motor
+377,853
+110,969
+–
+488,822
+Aviation
+133,070
+37,648
+–
+170,718
+Marine
+333,500
+–
+33,857
+299,643
+Other lines
+750,429
+76,946
+61,536
+765,839
+2,757,817
+434,067
+214,029
+2,977,855
+Provisions which are similar to the  
+equalisation reserve – major risks –
+Fire
+34,263
+239
+1,690
+32,812
+Casualty
+24,088
+228
+8,396
+15,920
+Accident
+–
+–
+–
+–
+Motor
+1,059
+44
+–
+1,103
+Aviation
+–
+–
+–
+–
+Marine
+2,584
+–
+2,584
+–
+Other lines
+46,997
+3,991
+1,310
+49,678
+Total
+2,866,808
+438,569
+228,009
+3,077,368
+Other technical provisions
+in EUR thousand
+2019
+2018
+Type of provision
+gross
+net
+gross
+net
+Profit commissions
+508,948
+311,011
+435,893
+392,499
+Commissions
+(3,013)
+(2,412)
+(1,422)
+(1,085)
+Premium cancellation 
+1,134
+1,145
+–
+–
+Traffic accident victims' assistance 
+–
+–
+978
+992
+Total
+507,069
+309,744
+435,449
+392,406
+Technical provisions – total
+in EUR thousand
+2019
+2018
+Insurance line
+gross
+net
+gross
+net
+Fire
+4,413,408
+3,340,401
+3,807,950
+2,817,660
+Casualty
+11,320,977
+9,567,607
+10,297,530
+8,730,003
+Accident
+627,869
+383,716
+562,938
+488,942
+Motor
+5,356,071
+4,321,529
+4,583,184
+3,755,074
+Aviation
+1,256,270
+971,163
+1,232,840
+964,133
+Marine
+1,571,448
+1,158,791
+1,706,374
+1,280,453
+Life
+10,137,891
+9,265,552
+10,116,926
+9,081,786
+Other lines
+6,585,265
+4,933,842
+5,724,076
+4,370,454
+41,269,199
+33,942,601
+38,031,818
+31,488,505
+Separate value adjustment on retrocessions
+–
+56,618
+–
+54,602
+Total
+41,269,199
+33,999,219
+38,031,818
+31,543,107
+
+Hannover Rück SE | Annual Report 2019
+28
+Provisions for other risks and charges
+in EUR thousand
+2019
+2018
+Provisions for pensions and similar liabilities
+107,586
+99,288
+Provisions for taxation
+110,577
+169,039
+Sundry provisions
+Provisions for outstanding remuneration payments
+59,316
+45,542
+Provision for interest pursuant to § 233a AO (Fiscal Code)
+36,845
+34,916
+Provision for anticipated losses
+5,778
+20,500
+Provisions for annual accounts costs 
+4,565
+3,447
+Provisions for suppliers' invoices 
+2,832
+1,498
+Provision for partial retirement
+1,923
+1,051
+Provisions for costs of legal action 
+894
+917
+Other provisions
+15,266
+25,942
+127,419
+133,813
+Total
+345,582
+402,140
+The difference between the discounting of the pension obli-
+gations with the average market interest rate of the last ten 
+years compared to discounting with the average market inter-
+est rate of the last seven years - allowing for deferred tax lia-
+bilities - was EUR 8.8 million.
+Assets and the associated expenses and income were offset 
+pursuant to § 246 (2) Sentence 2 of the Commercial Code 
+(HGB) with respect to the provisions for pensions and the 
+provision for partial retirement. Pension liabilities and pen-
+sion insurance policies were netted in an amount of EUR 183 
+thousand (EUR 251 thousand). The provision for partial re-
+tirement of EUR 2,357 thousand (EUR 2,132 thousand) was 
+netted with plan assets with a fair value of EUR 652 thousand 
+(EUR 1,081 thousand) pursuant to § 246 (2) of the Commer-
+cial Code (HGB). In this connection income of EUR 29 thou-
+sand (EUR 29 thousand) was offset against total expenses of 
+EUR 4 thousand (EUR 57 thousand).
+The plan assets for partial retirement were measured on the 
+basis of fair values pursuant to § 253 (1) Sentence 3 of the 
+Commercial Code (HGB). The acquisition cost of the plan as-
+sets amounted to EUR 1,484 thousand (EUR 1,914 thousand).
+Miscellaneous liabilities
+in EUR thousand
+2019
+2018
+Accounts due to affiliated companies
+548,864
+239,336
+Amounts due to revenue authorities 
+69,099
+9,550
+Liabilities from repurchase agreements
+59,978
+–
+Liabilities from interest and LOC 
+21,090
+14,174
+Liabilities from hedge accounting 
+14,003
+6,864
+Liabilities from cash collateral received 
+10,762
+15,610
+Trade accounts payable 
+8,601
+1,865
+Liabilities from securities transactions
+855
+4,174
+Liabilities from outstanding commitments to old-age pension scheme 
+238
+72
+Liabilities from leases
+8
+3
+Liabilities from option premiums
+–
+1
+Other liabilities
+1,016
+603
+Total
+734,514
+292,252
+Term repurchase agreements (repos) were entered into as a 
+supplementary liquidity management tool. The asset port­
+folios exchanged in this context are fully collateralised. As at 
+the balance sheet date the liabilities from repos amounted to 
+EUR 60.0 million.
+
+29
+Hannover Rück SE | Annual Report 2019
+Notes
+Notes on the profit and loss account
+Total insurance business
+in EUR thousand
+2019
+2018
+2019
+2018
+2019
+2018
+2019
+2018
+Insurance line
+Gross written 
+premium
+Gross premium 
+earned
+Net premium 
+earned
+Technical result 
+for own account
+Fire
+2,937,280
+2,213,293
+2,788,789
+2,276,098
+1,762,536
+1,345,941
+(21,562)
+(2,387)
+Casualty
+2,316,791
+1,590,132
+2,123,418
+1,580,600
+1,677,114
+1,050,305
+(197,832)
+(130,694)
+Accident
+442,018
+391,067
+425,433
+371,065
+252,741
+344,812
+34,653
+21,358
+Motor
+2,945,180
+2,452,280
+2,898,760
+2,425,760
+1,861,459
+1,528,339
+(156,348)
+(204,037)
+Aviation
+257,670
+225,375
+258,399
+230,625
+173,797
+159,057
+10,172
+15,280
+Marine
+453,540
+329,307
+453,540
+329,307
+174,862
+194,461
+140,149
+66,049
+Other lines
+3,962,446
+3,202,771
+3,816,653
+3,123,358
+2,506,086
+2,268,059
+(137,550)
+229,889
+Total property and 
+casualty
+13,314,925
+10,404,225 12,764,992
+10,336,813
+8,408,595
+6,890,974
+(328,318)
+(4,542)
+Life
+4,757,944
+4,236,528
+4,673,019
+4,213,728
+3,817,957
+3,521,967
+94,612
+29,616
+Total insurance business
+18,072,869
+14,640,753 17,438,011
+14,550,541 12,226,552
+10,412,941
+(233,706)
+25,074
+in EUR thousand
+2019
+2018
+Gross claims incurred
+12,700,432
+11,220,531
+Gross operating expenses
+4,791,399
+3,670,208
+Reinsurance balance
+(358,934)
+(280,669)
+In accordance with the disclosure required pursuant to § 27 
+(3) and (4) of the Regulation on the Accounting of Insurance 
+Undertakings (RechVersV), insurance contracts with the HDI 
+property / casualty group are booked with a time delay of one 
+month. The premium volume for 2019 amounts to altogether 
+EUR 822.6 million. Of this, EUR 0.7 million relates to the 
+month of December 2018.
+
+Hannover Rück SE | Annual Report 2019
+30
+Investment charges
+in EUR thousand
+2019
+2018
+Fixed-income securities
+38,438
+156,641
+Administrative expenses
+31,718
+29,176
+Loss transfer
+–
+20,500
+Land and buildings
+3,296
+3,635
+Futures and options contracts, technical derivatives
+4,366
+2,418
+Deposit, bank and consultancy fees
+981
+1,025
+Shares and investment fund certificates
+1,168
+477
+Shares in affiliated companies and participations as well as loans to affiliated companies 
+and enterprises in which the company has a participating interest 
+456
+339
+Forward exchange transactions
+5,389
+277
+Registered debt securities and sundry loans
+–
+165
+Interest charges
+118
+96
+Deposits with ceding companies
+892
+3,589
+Other
+14
+–
+Total
+86,836
+218,338
+Other income
+in EUR thousand
+2019
+2018
+Exchange rate gains
+71,144
+95,957
+Income from services rendered 
+25,292
+21,507
+Income from guarantees furnished
+10,963
+11,031
+Separate value adjustments on accounts receivable and retrocessions 
+9,020
+6,663
+Income from the release of non-technical provisions 
+6,868
+5,826
+Income from reinsurance contracts 
+4,706
+3,499
+Allocated investment return 
+4,059
+1,699
+Interest pursuant to § 233a AO (Fiscal Code) 
+3,543
+–
+Income from tax refunds 
+1,379
+9,344
+Profit from clearing transactions 
+1,001
+1,898
+Reimbursement of expenses
+330
+445
+Amounts realised
+49
+178
+Income from discounting pursuant to § 277 (5) HGB (Commercial Code)
+46
+37
+Miscellaneous income
+3,959
+4,646
+Total
+142,359
+162,730
+
+31
+Hannover Rück SE | Annual Report 2019
+Notes
+Other charges
+in EUR thousand
+2019
+2018
+Financing interest 
+90,272
+88,132
+Deposit interest
+68,141
+67,089
+Expenses for the company as a whole 
+60,811
+51,237
+Exchange rate losses 
+30,772
+73,105
+Expenses from services rendered
+26,053
+22,122
+Separate value adjustments on accounts receivable and retrocessions
+7,886
+25,139
+Interest charges on old-age pension scheme 
+2,898
+3,134
+Expenses for letters of credit 
+1,758
+1,805
+Expenses from reinsurance contracts 
+1,139
+959
+Write-downs on accounts receivable 
+527
+1,046
+Interest charges from reinsurance transactions
+213
+55
+Compounding of interest on provisions / expense from compounding  
+pursuant to § 277 (5) HGB (Commercial Code)
+47
+78
+Interest pursuant to § 233a AO (Fiscal Code)
+–
+1,000
+Costs paid in advance
+–
+–
+Miscellaneous interest and charges
+6,743
+11,272
+297,260
+346,173
+Less: Technical interest
+5,997
+862
+Total
+291,263
+345,311
+With respect to the fees paid to the independent auditor, we 
+made use of the exemption afforded by § 285 No. 17 of the 
+Commercial Code (HGB); the required disclosures are includ-
+ed in the consolidated financial statement of Hannover Re.
+In addition to the audit of the annual financial statement and 
+management report as at 31 December 2019, the independ-
+ent auditor reviewed the reporting package compiled in ac-
+cordance with International Financial Reporting Standards 
+(IFRS) and drew up the review report on the quarterly finan-
+cial statements. The solvency balance sheet as at 31 Decem-
+ber 2019 was also audited. Furthermore, the independent 
+auditor performed other assurance services in connection 
+with the combined non-financial information statement.
+The tax consultancy services encompass tax advice provided 
+on specific matters.
+Expenses for personnel
+in EUR thousand
+2019
+2018
+1. Wages and salaries
+149,248
+132,897
+2. Social security payments and expenses for welfare
+21,454
+20,618
+3. Expenses for old-age pension scheme
+13,138
+12,011
+Total expenses
+183,840
+165,526
+
+Hannover Rück SE | Annual Report 2019
+32
+Proposal for the appropriation of the disposable profit
+The Executive Board and Supervisory Board intend to propose 
+to the Annual General Meeting that the disposable profit 
+should be appropriated as follows:
+Proposal for the appropriation of the disposable profit
+in EUR
+2019
+Payment of a dividend of EUR 4.00 on each eligible no-par value share
+482,388,536.00
+Payment of a special dividend of EUR 1.50 on each eligible no-par value share
+180,895,701.00
+Profit carried forward to new account
+713,715,763.00
+Disposable profit
+1,377,000,000.00
+Other notes
+Hannover Re has placed two subordinated debts on the Euro-
+pean capital market through its subsidiary Hannover Finance 
+(Luxembourg) S.A. Hannover Re has secured by subordinat-
+ed guarantee the debts issued in 2010 and 2012, each of 
+which has a volume of EUR 500.0 million. In addition, Han-
+nover Re has placed subordinated debt of EUR 500.0 million, 
+a senior bond of EUR 750.0 million and subordinated debt of 
+EUR 750.0 million on the European capital market.
+As security for technical liabilities, various financial institu-
+tions have furnished sureties for our company in the form of 
+letters of credit. The total amount of the letters of credit, 
+which also provide security for subsidiaries, was EUR 2,359.7 
+million (EUR 1,909.2 million) as at the balance sheet date.
+Outstanding capital commitments with respect to special in-
+vestments and shares in affiliated companies exist in the 
+amount of EUR 405.1 million (EUR 742.3 million).
+Under novation clauses in reinsurance contracts written by 
+the subsidiaries with outside third parties we shall – in certain 
+constellations – assume the rights and duties of the subsidiar-
+ies under the contracts. In the event of the contracts being 
+transferred to Hannover Re, assets shall be transferred from 
+the relevant subsidiary in the amount of the reserves. As at 31 
+December 2019 reserves equivalent to EUR 5,049.3 million 
+(EUR 952.7 million) existed at the subsidiaries. No soft letters 
+of comfort were provided in the financial year.
+Hannover Re has provided guarantees of altogether USD 
+5,996.4 million to third parties for affiliated companies. The 
+term of the guarantees is determined in each case by the se-
+cured liabilities of the affiliated company. Hannover Re re-
+ceives guarantee commissions for this. In addition, a guaran-
+tee of GBP 10.0 million was furnished. Furthermore, financial 
+commitments to affiliated companies exist in an amount of 
+USD 400.0 million and payment obligations to subsidiaries in 
+South Africa based on the insurance and reinsurance con-
+tracts that they have written. A long-term compensation obli-
+gation in an amount of EUR 3,380 thousand exists with re-
+spect to HDI Unterstützungskasse.
+There are no other obligations with a remaining maturity of 
+more than five years.
+No significant court cases were pending during the year un-
+der review or as at the balance sheet date – with the excep-
+tion of proceedings within the scope of ordinary insurance 
+and reinsurance business activities.
+There were no further contingent liabilities or other financial 
+commitments that were not evident from the annual balance 
+sheet.
+The average size of the workforce was 1,423 in the year under 
+review, of whom 87 were executive staff and 1,336 employ-
+ees.
+The remuneration report is provided in the combined man-
+agement report of the company on pages 126 to 146 of the 
+Group Annual Report. The total remuneration of the Execu-
+tive Board of Hannover Re amounted to EUR 9.3 million (EUR 
+6.8 million). In the year under review 6,181 share awards with 
+a fair value of EUR 1.1 million were granted to active mem-
+bers of the Executive Board. Pension payments to former 
+members of the Executive Board and their surviving depend-
+ants amounted to EUR 1,460 thousand. A liability of EUR 
+20,432 thousand was recognised for current pensions of for-
+mer members of the Executive Board. The remuneration of 
+the Supervisory Board amounted to EUR 780 thousand (EUR 
+788 thousand).
+
+33
+Hannover Rück SE | Annual Report 2019
+Notes
+The particulars for the Executive Board and Supervisory 
+Board are provided on pages 2 to 5.
+The list of shareholdings is provided on pages 18 to 21.
+Talanx AG, Hannover, holds a majority interest in our compa-
+ny.
+Talanx AG, Hannover, and HDI Haftpflichtverband der 
+Deutschen Industrie V.a.G., Hannover, include our financial 
+statement in their consolidated financial statements, which 
+are published in the electronic Federal Gazette.
+On 5 November 2019 the Executive Board and Supervisory 
+Board of Hannover Rück SE submitted an updated Declara-
+tion of Conformity pursuant to § 161 of the Stock Corporation 
+Act (AktG) regarding compliance with the German Corporate 
+Governance Code and made it permanently accessible on the 
+company’s website (www.hannover-re.com/200801/declara-
+tion-of-conformity).
+The company combined opposing forward exchange transac-
+tions in notional amounts of ZAR 1,196.8 million (USD 75.9 
+million), USD 368.0 million (EUR 326.9 million), CAD 16.5 
+million (USD 12.5 million), AUD 142.4 million (USD 97.8 mil-
+lion), GBP 97.3 million (USD 128.6 million), SGD 25.0 million 
+(USD 18.4 million), USD 38.0 (TWD 1,145.7), JPY 9,430.0 mil-
+lion (USD 86.7 million), HKD 242.9 million (USD 31.0 mil-
+lion), CNH 221.0 million (USD 31.4 million) and JPY 6,704.8 
+million (EUR 55.0 million) into valuation units as at the bal-
+ance sheet date pursuant to § 254 of the Commercial Code 
+(HGB). The risk entered into vis-à-vis the counterparty is 
+passed on in full – including the default risk – to four affiliated 
+companies. In this context, the transactions with the affiliated 
+companies constitute the underlying transactions and those 
+with the counterparties outside the Group constitute the 
+hedge instruments that make up the valuation unit. Both the 
+interest rate risks and the currency risks of the underlying 
+transactions are hedged by means of micro-hedging. The op-
+posing effects from the valuation units are fully correlated 
+and recognised in the balance sheet using the net hedge 
+presentation method. The effectiveness of the micro-hedges 
+is assessed using the critical term method. As at 31 Decem-
+ber 2019 the underlying transactions show positive fair val-
+ues of altogether EUR 9.5 million and negative fair values to-
+talling EUR 1.6 million. The forward exchange transactions, 
+which were concluded in several tranches, have various ma-
+turity dates; the last transaction expires in 2022.
+The company’s portfolio also includes nine forward exchange 
+transactions in notional amounts of AUD 57.1 million (USD 
+39.4 million), AUD 696.3 million (EUR 429.2 million), USD 
+14.0 million (IDR 200.5 billion), USD 14.0 million (PHP 725.1 
+million), USD 8.0 million (KRW 9.5 billion) and USD 69.0 mil-
+lion (INR 5.2 billion) with maturity dates in 2020 that are not 
+combined into valuation units. Risks underlying the transac-
+tions are transferred to the branch in Malaysia or remain with 
+Hannover Re in Germany. The negative fair values of EUR 
+0.55 million (USD 0.62 million) and EUR 4.838 million (AUD 
+7.74 million) are carried in full on the liabilities side of the 
+balance sheet as a provision for anticipated losses. The calcu-
+lation is made on the basis of yield curves as well as spot and 
+forward rates using the interest rate parity model.
+In addition, forward exchange transactions with a spread be-
+tween the trade and interest value date that extends beyond 
+31 December 2019 was concluded in notional amounts of 
+AUD 28.3 million (USD 19.8 million) and USD 27.0 million 
+(EUR 23.9 million); these do not form part of the annual finan-
+cial statement due to the value date accounting method. In 
+view of the AUD / USD and USD / EUR exchange rate move-
+ments as at the balance sheet date, a theoretical positive fair 
+value is determined; it is not necessary to recognise a provi-
+sion for anticipated losses.
+Hannover Re hedges against currency risks by matching for-
+eign currency liabilities with foreign currency assets. The in-
+tention is that changes in the value of foreign currency liabil-
+ities (underlying) caused by movements in exchange rates 
+will be offset by opposing changes in the value of the foreign 
+currency assets (hedge instrument). Matched liabilities are 
+combined with their matching assets per currency into a val-
+uation unit which is recognised in the balance sheet in the 
+context of portfolio hedges. The volume amounts to EUR 
+25,876.3 million.
+The portfolio contains derivatives associated with the techni-
+cal account in a nominal volume of EUR 21.7 million which 
+relate to earthquake risks in Japan. The risks are offset by 
+countertrade transactions.
+The stock participation rights granted in the form of virtual 
+shares (share awards) in an amount of EUR 12.1 million were 
+hedged by equity swaps in the financial year. The hedge is 
+effected at the level of tranches and on a rolling basis with a 
+maturity of three months until the share awards are paid out 
+after five years. The hedged risk amounts to EUR 12.2 mil-
+lion. The underlying and the hedge were combined in a single 
+valuation unit pursuant to § 254 of the Commercial Code 
+(HGB). The offsetting changes in value are not recognised in 
+the profit and loss account (net hedge presentation method). 
+The effectiveness derives from the parallelism between the 
+payments from the equity swaps and the change in value of 
+the Hannover Re share. Effectiveness is measured retrospec-
+tively through the change in value of equity swaps and share 
+awards. In April 2019 share awards with a value of EUR 6.8 
+million were paid out. Hedging through equity swaps resulted 
+in a positive earnings effect of EUR 2.3 million.
+A permanent establishment of Hannover Re has invested de-
+posits with ceding companies amounting to USD 189.9 mil-
+lion arising out of a retrocession contract in a structured se-
+
+Hannover Rück SE | Annual Report 2019
+34
+curity of a large European bank (underlying). In this contract 
+the retrocessionaire furnished a capital and interest guaran-
+tee for the invested contract deposits (hedge). The hedged 
+risk amounted to USD 15.8 million as at the balance sheet 
+date. The underlying and hedge are combined into a valua-
+tion unit in the balance sheet in a micro-hedge relationship.
+We received an adequate consideration for all transactions 
+with affiliated companies according to the circumstances of 
+which we were aware at the time when the transactions were 
+effected. We incurred no disadvantages requiring compensa-
+tion as defined by § 311 (1) of the Stock Corporation Act 
+(AktG).
+No events of special significance occurred after the balance 
+sheet date that had a material impact on the results of opera-
+tions, financial position or net assets of Hannover Re.
+ 
+Hannover, 6 March 2020
+Executive Board
+Henchoz
+Althoff
+Chèvre
+Dr. Miller
+Dr. Pickel
+Sehm
+Vogel
+
+35
+Hannover Rück SE | Annual Report 2019
+Independent Auditor’s Report
+Independent Auditor’s Report
+(this auditor’s report is issued on financial statements prepared in German language)
+ 
+To Hannover Rück SE, Hannover
+Report on the audit of the annual financial statements and  
+of the management report
+Audit Opinions
+We have audited the annual financial statements of Hannover 
+Rück SE, Hannover, which comprise the balance sheet as at 
+31 December 2019, and the statement of profit and loss for 
+the financial year from 1 January to 31 December 2019, and 
+notes to the financial statements, including the presentation 
+of the recognition and measurement policies. In addition, we 
+have audited the management report of Hannover Rück SE, 
+which is combined with the group management report, for 
+the financial year from 1 January to 31 December 2019. In 
+accordance with the German legal requirements, we have not 
+audited the content of those parts of the management report 
+listed in the “Other Information” section of our auditor’s re-
+port. 
+In our opinion, on the basis of the knowledge obtained in the 
+audit, 
+•	 the accompanying annual financial statements comply, 
+in all material respects, with the requirements of Ger-
+man commercial law and give a true and fair view of the 
+assets, liabilities and financial position of the Company 
+as at 31 December 2019 and of its financial perfor-
+mance for the financial year from 1 January to 31 De-
+cember 2019 in compliance with German Legally Re-
+quired Accounting Principles, and 
+•	 the accompanying management report as a whole pro-
+vides an appropriate view of the Company’s position. In 
+all material respects, this management report is con-
+sistent with the annual financial statements, complies 
+with German legal requirements and appropriately pre-
+sents the opportunities and risks of future development. 
+Our audit opinion on the management report does not 
+cover the content of those parts of the management re-
+port listed in the “Other Information” section of our au-
+ditor’s report. 
+Pursuant to § [Article] 322 Abs. [paragraph] 3 Satz [sentence] 
+1 HGB [Handelsgesetzbuch: German Commercial Code], we 
+declare that our audit has not led to any reservations relating 
+to the legal compliance of the annual financial statements and 
+of the management report. 
+Basis for the Audit Opinions 
+We conducted our audit of the annual financial statements 
+and of the management report in accordance with § 317 HGB 
+and the EU Audit Regulation (No. 537/2014, referred to sub-
+sequently as “EU Audit Regulation”) in compliance with Ger-
+man Generally Accepted Standards for Financial Statement 
+Audits promulgated by the Institut der Wirtschaftsprüfer [In-
+stitute of Public Auditors in Germany] (IDW). Our responsibil-
+ities under those requirements and principles are further de-
+scribed in the “Auditor’s Responsibilities for the Audit of the 
+Annual Financial Statements and of the Management Report” 
+section of our auditor’s report. We are independent of the 
+Company in accordance with the requirements of European 
+law and German commercial and professional law, and we 
+have fulfilled our other German professional responsibilities 
+in accordance with these requirements. In addition, in ac-
+cordance with Article 10 (2) point (f) of the EU Audit Regula-
+tion, we declare that we have not provided non-audit services 
+prohibited under Article 5 (1) of the EU Audit Regulation. We 
+believe that the audit evidence we have obtained is sufficient 
+and appropriate to provide a basis for our audit opinions on 
+the annual financial statements and on the management re-
+port.
+
+Hannover Rück SE | Annual Report 2019
+36
+Key Audit Matters in the Audit of the Annual Financial Statements
+Key audit matters are those matters that, in our professional 
+judgment, were of most significance in our audit of the annu-
+al financial statements for the financial year from 1 January to 
+31 December 2019. These matters were addressed in the con-
+text of our audit of the annual financial statements as a whole, 
+and in forming our audit opinion thereon; we do not provide 
+a separate audit opinion on these matters.
+In our view, the matters of most significance in our audit were 
+as follows:
+	(1)	 Measurement of premium reserves 
+	(2)	 Measurement of provisions for claims outstanding in 
+the property reinsurance business segment 
+	(3)	 Calculation of estimated gross premium 
+Our presentation of these key audit matters has been struc-
+tured in each case as follows: 
+	(a)	 Matter and issue
+	(b)	 Audit approach and findings
+	 (c)	 Reference to further information
+Hereinafter we present the key audit matters:
+(1)	Measurement of premium reserves
+(a)	In the Company’s annual financial statements premium 
+reserves amounting to EUR 8,478.9 million (18.6% of to-
+tal assets) are reported under the “Technical provisions” 
+balance sheet item. The premium reserve was recognized 
+primarily for the reinsurance activities in the life and 
+health reinsurance segments. 
+	
+The premium reserve in accordance with German com-
+mercial law is measured by using actuarial methods to 
+derive the present value of future benefits to cedants, less 
+the present value of premiums still to be paid by cedants 
+in accordance with the German commercial law principles 
+of prudence and realization in accordance with the rele-
+vant requirements of German commercial and regulatory 
+law. Depending on the structure of the relevant policy and 
+the regular business, the calculation is based either on a 
+combination of available cedant settlements, where nec-
+essary adjusted to account for estimates of the course of 
+the policy for settlement periods not yet settled or based 
+on model-driven own calculations of the premium re-
+serve. The measurement also takes into account estimates 
+of valuation parameters, particularly with respect to the 
+biometric accounting bases to be recognized such as 
+probabilities for mortality and longevity, where applicable 
+including trends, invalidity and socioeconomic factors 
+such as assumed behaviors on the part of the policyhold-
+ers (e. g. cancellation). 
+	
+The estimate of the sufficiency of the reported premium 
+reserves, the estimates made in the absence of cedant set-
+tlements as well as model-driven calculations of the pre-
+mium reserve is subject to considerable scope for judg-
+ment on the part of the executive directors and the 
+associated uncertainties in the estimations made. 
+	
+Against this background and due to the material signifi-
+cance of the amount of the premium reserves for the as-
+sets, liabilities and financial performance of the Company 
+as well as the complexity of the underlying calculations, 
+this matter was of particular significance in the context of 
+our audit. 
+(b)	Given the significance of premium reserves, as part of our 
+audit we assessed together with our actuaries the meth-
+ods used by the Company and the assumptions made by 
+the executive directors. The assessment was based on our 
+industry expertise and experience, among other things.
+	
+For the purposes of the assessment, we also evaluated the 
+design and effectiveness of the controls established by the 
+Company for the purpose of calculating and recording the 
+premium reserves. We focused in particular on controls 
+designed to ensure that new products and policies are 
+correctly classified and that changes in assumptions are 
+correctly implemented in the systems. 
+	
+Based on the controls testing, we carried out additional 
+analytical and substantive audit procedures relating to the 
+measurement of the premium reserves. In our tests of de-
+tails procedures, we evaluated the correct and proper use 
+
+37
+Hannover Rück SE | Annual Report 2019
+Independent Auditor’s Report
+of the available cedant settlements for calculating the pre-
+mium reserves. Thereby, we also assessed the appropri-
+ateness of the material assumptions by analyzing how the 
+actuarial methods applied were derived. In particular, we 
+examined whether sufficient collateral was factored into 
+the valuation according to criteria of German commercial 
+law and whether it was necessary to strengthen reserves. 
+Furthermore, we analyzed the development of premium 
+reserves as compared to the previous year, particularly in 
+light of the fact that the assumptions correspond to the 
+currently available cedant information, current business 
+developments and our expectations based on market ob-
+servations.
+	
+Based on our audit procedures, we were able to satisfy 
+ourselves that the estimates and assumptions made by the 
+executive directors for measuring the premium reserves 
+are appropriate overall.
+(c)	 The Company’s disclosures on the premium reserve are 
+contained in the sections “measurement of equity and lia-
+bilities” and “notes to equity and liabilities” of the notes 
+to the financial statements. Disclosures on risks are con-
+tained in the Company’s management report in the sec-
+tion “Report on risks and opportunities”, subsection 
+“Technical risks of personal reinsurance”.
+(2)	Measurement of provisions for claims outstanding in the property reinsurance business segment
+(a)	In the annual financial statements of the Company provi-
+sions for unsettled claims amounting to EUR 26,075.4 
+million (57.3% of total assets) are reported under the 
+“Technical provisions” balance sheet item. A significant 
+portion of the gross provision for unsettled claims is at-
+tributable to property reinsurance. Pursuant to § 341g 
+HGB provisions must be recognized for obligations in-
+curred as a result of claims incurred but not yet settled by 
+the end of the financial year (“claims provisions”). 
+	
+The claims provisions under property reinsurance are es-
+timated taking into account cedant information based on 
+empirical values. The claims provision in accordance with 
+German commercial law is measured based on actuarial 
+methods, which require a sufficiently long data history 
+and stability of the observed data. The mathematical 
+methods use assumptions concerning premiums, ultimate 
+loss ratios and run-off patterns, which are based on an 
+expert estimate derived from past experience. The execu-
+tive directors calculate the amount of the claims provision 
+in accordance with German commercial law taking into 
+account the results of the actuarial methods and other fac-
+tors in relation to uncertainties. The technical provisions, 
+and therefore in particular the claims provisions must en-
+sure that the Company as an insurer is able to fulfil per-
+manently its obligations (particularly principle of pru-
+dence) and that the principle of accounting consistency is 
+complied with.
+	
+The determination of the claims provision required the 
+use of judgments, estimates and assumptions by the exec-
+utive directors. Minor changes to those assumptions or to 
+the methods used may have a material impact on the 
+measurement of this provision. Against this background 
+and also due to the material significance of the amount of 
+this provision for the assets, liabilities and financial per-
+formance of the Company, the measurement of this provi-
+sion was of particular significance in the context of our 
+audit. 
+(b)	Given the significance of claims provisions, as part of our 
+audit we assessed together with our actuaries the meth-
+ods used by the Company and the assumptions made by 
+the executive directors. The assessment was based on our 
+industry expertise and experience, among other things.
+	
+Among other things, we evaluated the appropriateness of 
+the design of the process for recognizing reserves as well 
+as carried out functional tests in order to assess the effec-
+tiveness of the internal controls. We focused in particular 
+on controls designed to ensure that the data used are ap-
+propriate and complete and that the calculation process is 
+subject to a sufficient form of quality assurance. 
+	
+Based on the controls testing, we carried out additional 
+analytical and substantive audit procedures relating to the 
+measurement of the claims provision. In light of the sig-
+nificance of the claims provision for the overall business 
+of the Company, our internal measurement specialists as-
+sessed the appropriateness of the methods used by the 
+Company. Furthermore, our internal measurement spe-
+cialists evaluated the models used by the Company and 
+assumptions made by the executive directors based on 
+industry expertise and experience with recognized actu-
+arial practice. In particular, we examined whether suffi-
+cient collateral was factored into the valuation according 
+to criteria of German commercial law and whether it was 
+necessary to strengthen reserves. Thereby, we verified 
+the valuation methods for consistency of use.
+
+Hannover Rück SE | Annual Report 2019
+38
+	
+Based on our audit procedures, we were able to satisfy 
+ourselves that the estimates and assumptions made by the 
+executive directors with respect to the claims provisions 
+are appropriate overall. 
+(c)	 The Company’s disclosures on the property reinsurance 
+claims provisions are contained in the sections “measure-
+ment of equity and liabilities” and “notes to equity and lia-
+bilities” of the notes to the financial statements. Disclo-
+sures on risks are contained in the Company’s management 
+report in the section “Report on risks and opportunities”, 
+subsection “Technical risks of property reinsurance”.
+(3)	Calculation of estimated gross premium 
+(a)	In its annual financial statements, the Company reported 
+gross premiums of EUR 18,072.9 million in the income 
+statement.
+	
+Acquired reinsurance premiums are accounted for in ac-
+cordance with the terms and conditions of the reinsur-
+ance policies. In the absence of settlements of cedants, 
+the Company made supplementary or complete estimates 
+of the contributions. Of the total gross premiums recog-
+nized, approximately EUR 6,582.1 million (36.43%) were 
+estimated. The estimates were based on assumptions and 
+are therefore subject to considerable uncertainties and 
+scope for judgment. 
+	
+Due to the material significance of the amount of the esti-
+mated premiums for the assets, liabilities and financial 
+performance of the Company as well as the considerable 
+scope for judgment on the part of the executive directors 
+and the associated uncertainties in the estimations made, 
+this matter was of particular significance in the context of 
+our audit. 
+(b)	For the assessment of the estimated gross premium, we 
+first conducted a design testing of the contribution and 
+estimation process. In that connection, we identified the 
+material key controls and analyzed their design. Based on 
+that analysis, we conducted a functional testing regarding 
+the effectiveness of the key controls implemented in the 
+process and assessed the appropriateness of the material 
+assumptions by verifying and analyzing the calculating 
+method for deriving the estimated gross premium. 
+	
+In context of our tests of details procedures, we critically 
+questioned the material assumptions underlying an esti-
+mate and had the Company explain to us the reasons for 
+such estimates. Based on information on the contribu-
+tions expected in the previous year, we reconciled the ex-
+pectations against the actual results and thus were able to 
+draw conclusions as to the quality of the estimates.
+	
+Based on our audit procedures, we were able to satisfy 
+ourselves that the calculation procedures applied by the 
+executive directors to derive the estimated gross premi-
+um are appropriate overall. 
+(c)	 The Company’s disclosures on the estimated gross premi-
+um are contained in the sections “measurement of equity 
+and liabilities” and “notes to the income statement” of the 
+notes to the financial statements.
+
+39
+Hannover Rück SE | Annual Report 2019
+Independent Auditor’s Report
+Other Information 
+The executive directors are responsible for the other informa-
+tion. The other information comprises the following non-au-
+dited parts of the management report:
+•	 the statement on corporate governance pursuant to 
+§ 289f HGB and § 315d HGB included in section “Enter-
+prise management” of the management report 
+•	 the non-financial statement pursuant to § 289b Abs. 1 
+HGB and § 315b Abs. 1 HGB included in section “Com-
+bined non-financial information statement” of the man-
+agement report 
+•	 the disclosures contained in the management report and 
+marked as unaudited regarding Solvency II reporting 
+The other information comprises further the remaining parts 
+of the annual report – excluding cross-references to external 
+information – with the exception of the audited annual finan-
+cial statements, the audited management report and our au-
+ditor’s report. 
+Our audit opinions on the annual financial statements and on 
+the management report do not cover the other information, 
+and consequently we do not express an audit opinion or any 
+other form of assurance conclusion thereon. 
+In connection with our audit, our responsibility is to read the 
+other information and, in so doing, to consider whether the 
+other information
+•	 is materially inconsistent with the annual financial 
+statements, with the management report or our 
+knowledge obtained in the audit, or 
+•	 otherwise appears to be materially misstated.
+Responsibilities of the Executive Directors and the Supervisory Board for the  
+Annual Financial Statements and the Management Report 
+The executive directors are responsible for the preparation of 
+the annual financial statements that comply, in all material 
+respects, with the requirements of German commercial law, 
+and that the annual financial statements give a true and fair 
+view of the assets, liabilities, financial position and financial 
+performance of the Company in compliance with German Le-
+gally Required Accounting Principles. In addition, the execu-
+tive directors are responsible for such internal control as they, 
+in accordance with German Legally Required Accounting 
+Principles, have determined necessary to enable the prepara-
+tion of annual financial statements that are free from material 
+misstatement, whether due to fraud or error.
+In preparing the annual financial statements, the executive 
+directors are responsible for assessing the Company’s ability 
+to continue as a going concern. They also have the responsi-
+bility for disclosing, as applicable, matters related to going 
+concern. In addition, they are responsible for financial report-
+ing based on the going concern basis of accounting, provided 
+no actual or legal circumstances conflict therewith.
+Furthermore, the executive directors are responsible for the 
+preparation of the management report that as a whole pro-
+vides an appropriate view of the Company’s position and is, in 
+all material respects, consistent with the annual financial 
+statements, complies with German legal requirements, and 
+appropriately presents the opportunities and risks of future 
+development. In addition, the executive directors are respon-
+sible for such arrangements and measures (systems) as they 
+have considered necessary to enable the preparation of a 
+management report that is in accordance with the applicable 
+German legal requirements, and to be able to provide suffi-
+cient appropriate evidence for the assertions in the manage-
+ment report.
+The supervisory board is responsible for overseeing the Com-
+pany’s financial reporting process for the preparation of the 
+annual financial statements and of the management report.
+
+Hannover Rück SE | Annual Report 2019
+40
+Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of 
+the Management Report
+Our objectives are to obtain reasonable assurance about 
+whether the annual financial statements as a whole are free 
+from material misstatement, whether due to fraud or error, 
+and whether the management report as a whole provides an 
+appropriate view of the Company’s position and, in all mate-
+rial respects, is consistent with the annual financial state-
+ments and the knowledge obtained in the audit, complies 
+with the German legal requirements and appropriately pre-
+sents the opportunities and risks of future development, as 
+well as to issue an auditor’s report that includes our audit 
+opinions on the annual financial statements and on the man-
+agement report.
+Reasonable assurance is a high level of assurance, but is not 
+a guarantee that an audit conducted in accordance with § 317 
+HGB and the EU Audit Regulation and in compliance with 
+German Generally Accepted Standards for Financial State-
+ment Audits promulgated by the Institut der Wirtschafts-
+prüfer (IDW) will always detect a material misstatement. Mis-
+statements can arise from fraud or error and are considered 
+material if, individually or in the aggregate, they could rea-
+sonably be expected to influence the economic decisions of 
+users taken on the basis of these annual financial statements 
+and this management report. 
+We exercise professional judgment and maintain professional 
+skepticism throughout the audit. We also: 
+•	 Identify and assess the risks of material misstatement of 
+the annual financial statements and of the management 
+report, whether due to fraud or error, design and per-
+form audit procedures responsive to those risks, and ob-
+tain audit evidence that is sufficient and appropriate to 
+provide a basis for our audit opinions. The risk of not 
+detecting a material misstatement resulting from fraud 
+is higher than for one resulting from error, as fraud may 
+involve collusion, forgery, intentional omissions, mis-
+representations, or the override of internal controls. 
+•	 Obtain an understanding of internal control relevant to 
+the audit of the annual financial statements and of ar-
+rangements and measures (systems) relevant to the au-
+dit of the management report in order to design audit 
+procedures that are appropriate in the circumstances, 
+but not for the purpose of expressing an audit opinion 
+on the effectiveness of these systems of the Company.
+•	 Evaluate the appropriateness of accounting policies 
+used by the executive directors and the reasonableness 
+of estimates made by the executive directors and related 
+disclosures. 
+•	 Conclude on the appropriateness of the executive direc-
+tors’ use of the going concern basis of accounting and, 
+based on the audit evidence obtained, whether a materi-
+al uncertainty exists related to events or conditions that 
+may cast significant doubt on the Company’s ability to 
+continue as a going concern. If we conclude that a mate-
+rial uncertainty exists, we are required to draw attention 
+in the auditor’s report to the related disclosures in the 
+annual financial statements and in the management re-
+port or, if such disclosures are inadequate, to modify our 
+respective audit opinions. Our conclusions are based on 
+the audit evidence obtained up to the date of our audi-
+tor’s report. However, future events or conditions may 
+cause the Company to cease to be able to continue as a 
+going concern.
+•	 Evaluate the overall presentation, structure and content 
+of the annual financial statements, including the disclo-
+sures, and whether the annual financial statements pres-
+ent the underlying transactions and events in a manner 
+that the annual financial statements give a true and fair 
+view of the assets, liabilities, financial position and fi-
+nancial performance of the Company in compliance with 
+German Legally Required Accounting Principles.
+•	 Evaluate the consistency of the management report with 
+the annual financial statements, its conformity with Ger-
+man law, and the view of the Company’s position it pro-
+vides. 
+•	 Perform audit procedures on the prospective informa-
+tion presented by the executive directors in the manage-
+ment report. On the basis of sufficient appropriate audit 
+evidence we evaluate, in particular, the significant as-
+sumptions used by the executive directors as a basis for 
+the prospective information, and evaluate the proper 
+derivation of the prospective information from these as-
+sumptions. We do not express a separate audit opinion 
+on the prospective information and on the assumptions 
+used as a basis. There is a substantial unavoidable risk 
+that future events will differ materially from the prospec-
+tive information.
+We communicate with those charged with governance re-
+garding, among other matters, the planned scope and timing 
+of the audit and significant audit findings, including any sig-
+nificant deficiencies in internal control that we identify dur-
+ing our audit.
+
+41
+Hannover Rück SE | Annual Report 2019
+Independent Auditor’s Report
+We also provide those charged with governance with a state-
+ment that we have complied with the relevant independence 
+requirements, and communicate with them all relationships 
+and other matters that may reasonably be thought to bear on 
+our independence, and where applicable, the related safe-
+guards. 
+From the matters communicated with those charged with 
+governance, we determine those matters that were of most 
+significance in the audit of the annual financial statements of 
+the current period and are therefore the key audit matters. 
+We describe these matters in our auditor’s report unless law 
+or regulation precludes public disclosure about the matter.
+Other legal and regulatory requirements
+Further Information pursuant to Article 10 of the EU Audit Regulation 
+We were elected as auditor by the supervisory board on 6 
+March 2019. We were engaged by the supervisory board on 
+26 June 2019. We have been the auditor of the Hannover 
+Rück SE, Hannover, without interruption since the financial 
+year 2018. 
+We declare that the audit opinions expressed in this auditor’s 
+report are consistent with the additional report to the audit 
+committee pursuant to Article 11 of the EU Audit Regulation 
+(long-form audit report). 
+German public auditor responsible for the engagement
+The German Public Auditor responsible for the engagement 
+is Mathias Röcker.
+Hannover, 9 March 2020 
+PricewaterhouseCoopers GmbH
+Wirtschaftsprüfungsgesellschaft
+Mathias Röcker	
+	
+	
+ppa. Dennis Schnittger
+Wirtschaftsprüfer		
+	
+Wirtschaftsprüfer
+
+Hannover Rück SE | Annual Report 2019
+42
+Responsibility statement
+To the best of our knowledge, and in accordance with the 
+applicable reporting principles, the annual financial state-
+ments give a true and fair view of the assets, liabilities, finan-
+cial position and results of operations of Hannover Rück SE, 
+and the combined management report includes a fair review 
+of the development and performance of the business and the 
+position of the company, together with a description of the 
+principal opportunities and risks associated with the expect-
+ed development of Hannover Rück SE.
+Hannover, 6 March 2020
+Executive Board
+Henchoz
+Althoff
+Chèvre
+Dr. Miller
+Dr. Pickel
+Sehm
+Vogel
+
+43
+Hannover Rück SE | Annual Report 2019
+Report of the Supervisory Board
+Report of the Supervisory Board
+of Hannover Rück SE
+In our function as the Supervisory Board we considered at 
+length during the 2019 financial year the position and devel-
+opment of the company and its major subsidiaries. We ad-
+vised the Executive Board on the direction of the company 
+and monitored the management of business on the basis of 
+written and verbal reports from the Executive Board. The Su-
+pervisory Board of Hannover Rück SE held four regular meet-
+ings in order to adopt the necessary resolutions after appro-
+priate discussion. A further meeting was a constituent 
+meeting of the Supervisory Board held following the General 
+Meeting. In addition, the Supervisory Board adopted two res-
+olutions in the reporting period by a written procedure. All 
+the Supervisory Board members attended the Supervisory 
+Board meetings held in 2019 in person. Two representatives 
+of the Federal Financial Supervisory Authority attended one 
+meeting on a routine basis. We were informed by the Execu-
+tive Board in writing and orally on the basis of the quarterly 
+statements about the course of business as well as the posi-
+tion of the company and the Group. With regard to reports on 
+topics that fall under the responsibility of key functions, we 
+had an opportunity to engage directly in a dialogue with the 
+respective key function holders, who attended parts of the 
+meetings as guests. The quarterly reports with the compo-
+nents of the financial statements and the key figures for the 
+Hannover Re Group constituted an important source of infor-
+mation for the Supervisory Board. We also regularly held dis-
+cussions without the presence of the Executive Board, inter 
+alia regarding personnel matters on the level of the Executive 
+Board.
+We received an analysis of the 2018 results in property & 
+casualty and life & health reinsurance as well as a presenta-
+tion from the Executive Board covering the profit expecta-
+tions for the 2019 financial year and the operational planning 
+for the 2020 financial year. In addition, the Chairman of the 
+Supervisory Board was constantly kept informed by the 
+Chairman of the Executive Board of major developments and 
+impending decisions as well as of the risk situation within the 
+company and the Group. All in all, we were involved in deci-
+sions taken by the Executive Board and assured ourselves of 
+the lawfulness, regularity and efficiency of the company’s 
+management as required by our statutory responsibilities and 
+those placed upon us by the company’s Articles of Associa-
+tion.
+No audit measures pursuant to § 111 Para. 2 Sentence 1 
+Stock Corporation Act (AktG) were required in the 2019 
+­financial year.
+Key points of deliberation
+At its meeting on 6 March 2019 the Supervisory Board dis-
+cussed the audited annual and consolidated financial state-
+ments as well as the Executive Board’s proposal for the ap-
+propriation of the disposable profit for the 2018 financial 
+year. In this regard, as in the previous year, the Executive 
+Board described all material indicators from the technical 
+and non-technical accounts as well as key data on the invest-
+ment side. The independent auditor directly presented the 
+results of the audit and elaborated on the audit procedure. 
+The Executive Board outlined the prospects for the current 
+2019 financial year and we discussed the major insights from 
+the compliance, audit and risk reports. Among the steps tak-
+en as part of the annual revision of the investment guidelines, 
+adjustments were made inter alia with respect to certain for-
+mal and procedural clarifications for the asset managers and 
+specifications regarding limit calculations were described in 
+greater detail. Additionally, the already defined budget for 
+the “impact investment funds” variant of the private equity 
+asset class was included in the procedural stipulations and 
+the thresholds contained in the guidelines. At the recommen-
+dation of the Finance and Audit Committee, Pricewaterhouse-
+Coopers GmbH Wirtschaftsprüfungsgesellschaft – following 
+its initial appointment in 2017 – was again awarded the man-
+date to audit the annual financial statements. In preparation 
+for the Annual General Meeting on 8 May 2019, the agenda 
+and the proposal for the election of new shareholder repre-
+sentatives was discussed and approved by the Supervisory 
+Board. In this context consideration was given to the compe-
+tencies within the entire Supervisory Board as well as aspects 
+relating to diversity and the independence of the members of 
+the Supervisory Board. In concrete terms, the Supervisory 
+Board deliberated on the election of Dr. Michael Ollmann, 
+who also attended the meeting for this purpose as a guest. 
+Furthermore, after extensive consideration and in accord-
+ance with the recommendation of the Standing Committee, 
+we appointed Ms. Silke Sehm as a member of the company’s 
+Executive Board to succeed Mr. Jürgen Gräber, whose 
+long-standing commendable service on the Executive Board 
+of Hannover Re was singled out for special praise. We ap-
+proved the resulting amendment to the schedule of responsi-
+bilities within the Executive Board. In addition, the variable 
+remuneration of the members of the Executive Board was 
+defined on the basis of the findings with respect to attainment 
+of the respective targets for the 2018 financial year. In this 
+context, as usual, we factored the findings of external surveys 
+
+Hannover Rück SE | Annual Report 2019
+44
+into our deliberations for the purpose of making a market 
+comparison.
+On 6 May 2019 the Executive Board reported to us on the first 
+quarter of 2019 and we explored the overall results of the 
+previous year in greater detail; in this regard the Executive 
+Board presented relevant analyses regarding the quality of 
+the loss reserves in property and casualty reinsurance and the 
+intrinsic value creation (IVC). In addition to the outlook for 
+the current financial year, the examination of the Own Risk 
+and Solvency Assessment (ORSA) and the capitalisation un-
+der Solvency II constituted further key points of deliberation. 
+Following up on this, the structure of the Regular Supervisory 
+Report (RSR) and its differences and overlaps relative to the 
+ORSA were explained. We also received a report on the return 
+on investment as compared with peer companies and a de-
+tailed report on non-US life business. Lastly, a resolution was 
+adopted that created the basis for issuance of subordinated 
+capital later in the year. In view of the personnel changes on 
+the Executive Board that had already been approved in the 
+previous year, under which Mr. Jean-Jacques Henchoz was 
+initially appointed as a member of the Executive Board and 
+subsequently also as Chief Executive Officer, further adjust-
+ments to the schedule of responsibilities for the Executive 
+Board were then approved.
+Following the General Meeting on 8 May 2019, at which the 
+shareholder representatives were elected, we came together 
+for a constituent meeting. This was also attended for the first 
+time by the employee representatives who had been newly 
+elected by the workforce, namely Ms. Natalie Bani Ardalan, 
+Ms. Ilka Hundeshagen and Ms. Frauke Heitmüller (re-elect-
+ed). At the meeting we chose from among our ranks the 
+Chairman and Deputy Chairman as well as the members of 
+the Finance and Audit Committee, the Standing Committee 
+and the Nomination Committee (composition shown on page 
+4 to 5). In this regard, particular emphasis was placed on en-
+suring that the necessary expertise, experience and inde-
+pendence are preserved on the committees.
+On 7 August 2019 the Executive Board reported on the first 
+half of 2019; in this context, as usual, it described the materi-
+al indicators from the technical and non-technical accounts 
+and outlined the attainment status of the strategic objectives. 
+The outlook for the current financial year was followed by a 
+discussion of the key insights from the risk report. Hannover 
+Re’s activities in the insurance-linked securities (ILS) market, 
+on which we received a detailed report, were another major 
+focus of the August meeting. In addition, we considered a 
+strategic transaction relating to a participating interest. We 
+also received the audit report on the solvency balance sheet. 
+With an eye to the self-assessment of the Supervisory Board’s 
+areas of expertise that had once more been carried out, the 
+Supervisory Board decided that the extensive list of topics 
+which goes beyond the regulatory requirements will be used 
+again in 2020.
+At the last meeting of the year on 5 November 2019, we de-
+liberated at length on the key preliminary results in the busi-
+ness performance together with the outlook for the current 
+financial year. We were provided with the report on employee 
+capacities. The Executive Board also presented to us the op-
+erational planning for 2020; we considered this in detail and 
+subsequently approved the annual / results planning submit-
+ted to us. We discussed the latest insights from the risk report 
+and were informed of the status of major pending legal pro-
+ceedings. In addition, the 100-day report by the Chief Execu-
+tive Officer on the strategic orientation of Hannover Re and 
+the measures for ensuring profitability during the P&C under-
+writing process were focal points of our deliberations. The 
+capital increase at a subsidiary was approved in advance. As 
+in every year, the full Supervisory Board considered the ade-
+quacy of the remuneration system for the members of the Ex-
+ecutive Board. Based on the findings of the “Fit & Proper” 
+self-assessment that had been conducted among the Supervi-
+sory Board members and against the backdrop of the new 
+composition of the Supervisory Board, we engaged in an ex-
+tensive exchange of views on a development plan for the en-
+tire Supervisory Board. It was again the case this year that the 
+individual members of the Supervisory Board attended nu-
+merous advanced training measures in relation to various 
+core topics and competencies. We also decided to update the 
+policy regarding the specialist and personal requirements for 
+members of the Supervisory Board. Furthermore, we dedicat-
+ed a significant part of our discussion to corporate govern-
+ance issues and in this regard we approved the revised diver-
+sity concept and the updated Declaration of Conformity (see 
+also further information below).
+As in every year, we were regularly briefed on the work of the 
+Supervisory Board committees.
+Committees of the Supervisory Board
+Of the committees formed by the Supervisory Board within the 
+meaning of § 107 Para. 3 Stock Corporation Act (AktG), the 
+Finance and Audit Committee met on four occasions, with one 
+resolution adopted by a written procedure, and the Standing 
+Committee met three times. The Chairman of the Supervisory 
+Board updated the full Supervisory Board on the major delib-
+erations of the committee meetings at its next meeting and 
+provided an opportunity for further questions.
+The Finance and Audit Committee considered inter alia the 
+consolidated financial statement and the quarterly reports 
+drawn up in accordance with IFRS and the individual financial 
+
+45
+Hannover Rück SE | Annual Report 2019
+Report of the Supervisory Board
+statement of Hannover Rück SE drawn up in accordance with 
+the German Commercial Code (HGB), and it discussed with 
+the independent auditors their reports on these financial 
+statements. As in the previous years, an expert opinion on the 
+adequacy of the loss reserves in property and casualty reinsur-
+ance was noted, the retrocession structure of the Hannover Re 
+Group, the risk reports and the compliance report were dis-
+cussed, and reports on the major subsidiaries were received 
+and considered. In addition, the Committee examined the in-
+vestment structure and investment income – including the 
+stress tests with regard to the investments and their implica-
+tions for net income and the equity base. The audit concentra-
+tions of the independent auditors for the 2019 financial year 
+were defined. The Committee continued to be provided with 
+ongoing detailed reports on the recognition and measurement 
+of the risk-oriented book of US life reinsurance business ac-
+quired in 2009 from Scottish Re as well as on the rate increas-
+es that had been initiated and / or implemented. The measures 
+for ensuring profitability during the P&C underwriting process 
+– which were also subsequently reported to the full Executive 
+Board – were discussed in detail and the Committee was able 
+to obtain a good understanding of the established, transparent 
+system. Furthermore, the Committee examined in detail Han-
+nover Re’s activities in the insurance-linked securities (ILS) 
+market.
+The Standing Committee considered, in the first place, the ap-
+pointment of Ms. Silke Sehm as a member of the Executive 
+Board, in which regard Ms. Sehm – who had already worked 
+for Hannover Re for many years – also attended part of the 
+meeting as a guest. As in the previous years, among other 
+things, the adequacy of the system of remuneration for the 
+members of the Executive Board was reviewed, the variable 
+remuneration of the members of the Executive Board for the 
+2018 financial year was determined based on the findings per-
+taining to attainment of their respective targets and the remu-
+neration for the Board members who were due for review was 
+examined. More specific consideration was also given to the 
+occupational pension commitments in the adequacy review. 
+In all these matters the Committee drew up corresponding 
+recommendations for the full Supervisory Board. The Commit-
+tee deliberated at length on the medium- and long-time suc-
+cession arrangements for the Executive Board. In addition, 
+the individual objectives of the members of the Executive 
+Board for 2020 were defined.
+Corporate Governance
+The Government Commission on the German Corporate Gov-
+ernance Code (DCKG) adopted an extensive revision of the 
+German Corporate Governance Code in May 2019, although 
+this had not entered into force by year-end. We nevertheless 
+devoted considerable attention to the topic of corporate gov-
+ernance and the proposed changes. For example, the Super-
+visory Board updated the diversity concept in the year under 
+review (cf. page 124 et seq. of the combined management 
+report in the Group Annual Report) and reported on the man-
+ner of its implementation as well as the results achieved in 
+the financial year. The diversity on the Supervisory Board and 
+Executive Board was increased accordingly in the financial 
+year and steps were initiated to bring about a further im-
+provement in the coming years.
+We considered the report by the Executive Board on non-fi-
+nancial matters (cf. page 70 et seq. of the combined manage-
+ment report in the Group Annual Report) and examined it. 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesell­
+schaft also audited the information statement with limited 
+assurance in accordance with the audit standard ISAE 3000 
+(Revised) (see here the Independent Auditor’s Report on page 
+35 et seq.).
+In addition, the Supervisory Board received a report on the 
+design of the remuneration schemes as well as the compli-
+ance, internal audit and risk reports. The Supervisory Board 
+further noted that at least three of its members – namely Dr. 
+Andrea Pollak, Dr. Ursula Lipowsky and Dr. Michael Ollmann 
+– are to be considered independent members of the Supervi-
+sory Board.
+Notwithstanding the high importance that the Supervisory 
+Board attaches to the standards of good and responsible en-
+terprise management defined in the German Corporate Gov-
+ernance Code as amended on 7 February 2017, the Supervi-
+sory Board decided not to fully comply with the 
+recommendations contained in Code Section 4.2.3 Para. 2 
+regarding caps on the amount of variable compensation ele-
+ments in management board contracts, in Code Section 4.2.3 
+Para. 4 concerning a cap on severance payments in manage-
+ment board contracts and in Code Section 5.3.2 Para. 3 Sen-
+tence 2 concerning the independence of the Chair of the Au-
+dit Committee. Justification for these divergences is provided 
+in the Declaration of Conformity pursuant to § 161 Stock Cor-
+poration Act (AktG) regarding compliance with the German 
+Corporate Governance Code, which is reproduced in the 
+Group Annual Report as part of the Declaration on Corporate 
+Governance (cf. page 120 et seq.). Further information on the 
+topic of corporate governance is available on the website of 
+Hannover Rück SE.
+
+Hannover Rück SE | Annual Report 2019
+46
+Audit of the annual financial statements and consolidated financial statements
+The accounting, annual financial statements, consolidated fi-
+nancial statements and the combined management report 
+were audited by PricewaterhouseCoopers GmbH Wirtschafts-
+prüfungsgesellschaft. The Supervisory Board chose the audi-
+tor and the Chairman of the Supervisory Board awarded the 
+audit mandate. The auditor’s independence declaration was 
+received. Along with the audit concentrations of the German 
+Financial Reporting Enforcement Panel (DPR), the additional 
+audit concentrations defined by the European Securities and 
+Markets Authority (ESMA) also formed part of the scope of 
+the audit. The mandate for the review report by the independ-
+ent auditors on the Half-yearly Financial Report as at 26 June 
+2019 was also awarded again. The special challenges associ-
+ated with the international aspects of the audits were met 
+without reservation. Since the audits did not give rise to any 
+objections, PricewaterhouseCoopers GmbH Wirtschaftsprü-
+fungsgesellschaft issued unqualified audit certificates. It was 
+also determined that the annual financial statement contains 
+the information pursuant to § 289f German Commercial Code 
+(HGB). The Finance and Audit Committee discussed the fi-
+nancial statements and the combined management report 
+with the participation of the auditors and in light of the audit 
+reports, and it informed the Supervisory Board of the out-
+come of its reviews. The audit reports were distributed to all 
+the members of the Supervisory Board and explored in detail 
+– with the participation of the auditors – at the Supervisory 
+Board meeting held to consider the annual results. The audi-
+tors will also be present at the Annual General Meeting.
+The report on the company’s relations with affiliated compa-
+nies drawn up by the Executive Board has likewise been ex-
+amined by PricewaterhouseCoopers GmbH Wirtschaftsprü-
+fungsgesellschaft and given the following unqualified audit 
+certificate:
+“Having audited the report in accordance with our profes-
+sional duties, we confirm that
+1.	 the factual details of the report are correct;
+2.	 in the case of the transactions detailed in the report, the 
+expenditure of the company was not unreasonably 
+high.”
+We have examined
+a.	 the annual financial statements of the company, the fi-
+nancial statements of the Hannover Re Group and the 
+combined management report prepared by the Execu-
+tive Board for the company and the Group, and
+b.	 the report of the Executive Board pursuant to § 312 
+Stock Corporation Act (AktG) (Report on relations with 
+affiliated companies).
+– in each case drawn up as at 31 December 2019 – and have 
+no objections in this regard; nor do we have any objections to 
+the statement made by the Executive Board at the end of the 
+report on relations with affiliated companies.
+The Supervisory Board concurred with the opinions of the 
+auditors and approved the annual financial statements and 
+the consolidated financial statements; the annual financial 
+statements are thereby adopted. Our proposal regarding the 
+appropriation of the disposable profit for 2019 is in accord-
+ance with that of the Executive Board.
+Changes on the Supervisory Board and the Executive Board
+Changes occurred in the composition of the Supervisory 
+Board, its committees and the Executive Board in the year 
+under review. The term of office of the company’s Superviso-
+ry Board expired pursuant to § 10 (3) of the Articles of Asso-
+ciation of Hannover Rück SE at the end of the General Meet-
+ing on 8 May 2019. At the suggestion of the Nomination 
+Committee and bearing in mind the targets for the composi-
+tion of the Supervisory Board, the former Supervisory Board 
+therefore proposed the following persons for election as rep-
+resentatives of the shareholders of the company with effect 
+from the end of the Annual General Meeting on 8 May 2019 
+for the period until the end of the General Meeting that rati-
+fies the actions taken for the 2023 financial year, although at 
+most for a term of six years:
+•	 Herbert K. Haas
+•	 Torsten Leue
+•	 Dr. Ursula Lipowsky
+•	 Dr Michael Ollmann
+•	 Dr. Andrea Pollak
+•	 Dr. Erhard Schipporeit
+The resolution was adopted by the General Meeting as pro-
+posed. Dr. Immo Querner was therefore not re-elected to the 
+Supervisory Board, from which he stepped down at the end of 
+the General Meeting. We are grateful to him for his valuable 
+contributions to the discussions and for his highly valued ex-
+pertise.
+
+47
+Hannover Rück SE | Annual Report 2019
+Report of the Supervisory Board
+Furthermore, in accordance with the provisions of the SE Par-
+ticipation Act (SEBG) the following employee representatives 
+were elected to the Supervisory Board by the workforce with 
+effect from the end of the Annual General Meeting on 8 May 
+2019:
+•	 Natalie Bani Ardalan
+•	 Frauke Heitmüller
+•	 Ilka Hundeshagen
+Mr. Otto Müller and Ms. Maike Sielaff thus routinely stepped 
+down from the Supervisory Board at this time. The Superviso-
+ry Board would like to express its sincere thanks for their 
+good cooperation and the conscientious fulfilment of their 
+duties on the Supervisory Board over the past few years.
+On 6 March 2019, following the sudden and entirely unex-
+pected passing of Mr. Jürgen Gräber on 9 November 2018, 
+Ms. Silke Sehm was appointed to the Executive Board. In this 
+connection changes arose in the Board responsibilities for 
+property and casualty reinsurance, which we discussed in 
+conjunction with the appointment and the implementation of 
+which we approved in the context of the revised schedule of 
+responsibilities for the Executive Board. In addition to the ar-
+eas of structured reinsurance and insurance-linked securi-
+ties, Ms. Sehm now bears responsibility for French-speaking 
+markets in Europe and the Nordic countries as well as Central 
+and Eastern Europe and the company’s natural catastrophe 
+business. In appointing Ms. Sehm, the Standing Committee 
+and subsequently the full Supervisory Board were able to 
+form a good picture of her extensive personal and specialist 
+competencies. We wish Ms. Sehm every success in her new 
+role and look forward to continued good cooperation going 
+forward.
+Mr. Henchoz, who had already been appointed by the Super-
+visory Board in the previous year, commenced his duties as a 
+member of the Executive Board on 1 April 2019 and as Chief 
+Executive Officer with effect from the end of the Annual Gen-
+eral Meeting on 8 May 2019. His predecessor, Mr. Ulrich Wal-
+lin, retired at this time. The Supervisory Board greatly appre-
+ciated working with Mr. Wallin. We believe that his vast 
+expertise and experience, combined with his prudent leader-
+ship of the company, were essential ingredients in Hannover 
+Re’s success in recent years.
+Word of thanks to the Executive Board and members of staff
+The good result generated by Hannover Rück SE for the 2019 
+financial year was made possible by the exceptional perfor-
+mance of the Executive Board and the members of staff work-
+ing for the company and the Group. The Supervisory Board 
+would like to express its recognition and special appreciation 
+to the Executive Board and all the employees for their efforts.
+Hannover, 10 March 2020
+The Supervisory Board
+Leue
+Haas
+Bani Ardalan
+Heitmüller
+Hundeshagen
+Dr. Lipowsky
+Dr. Ollmann
+Dr. Pollak
+Dr. Schipporeit
+
+Hannover Rück SE | Annual Report 2019
+48
+Contact information
+Corporate Communications
+Karl Steinle
+Tel.	 + 49 511 5604-1500
+Fax 	 + 49 511 5604-1648
+karl.steinle@hannover-re.com
+Media Relations
+Oliver Süß
+Tel. 	 + 49 511 5604-1502
+Fax 	 + 49 511 5604-1648
+oliver.suess@hannover-re.com
+Investor Relations
+Julia Hartmann
+Tel. 	 + 49 511 5604-1529
+Fax 	 + 49 511 5604-1648
+julia.hartmann@hannover-re.com
+A printed version of the Annual Report of Hannover Rück SE 
+is also available in German. The report can be downloaded 
+online in PDF format in English and German at:
+www.hannover-re.com
+This is a translation of the original German text; the German 
+version shall be authoritative in case of any discrepancies in 
+the translation.
+We would also be pleased to send you copies of the Annual 
+Reports of the Hannover Re Group and Hannover Rück SE in 
+English or German. If you wish to receive paper copies of any 
+of these versions please contact Corporate Communications 
+on:
+Tel. 	 + 49 511 5604-2343
+Fax 	 + 49 511 5604-1648 or order them online at
+www.hannover-re.com under
+“Investors / Results and reports”
+Published by
+Hannover Rück SE
+Karl-Wiechert-Allee 50
+30625 Hannover, Germany
+Tel. 	 + 49 511 5604-0
+Fax 	 + 49 511 5604-1188
+Print
+Printed on paper from environmentally responsible, socially 
+compatible and economically viable forest management
+ 
+Printed carbon neutral to offset greenhouse gas emissions
+ID-No. 2089580
+
+
+www.hannover-re.com

@@ -1,0 +1,1315 @@
+4
+Consolidated Financial 
+Statements
+
+
+CONSOLIDATED FINANCIAL STATEMENTS 
+195  Income Statement
+196  Statement of Comprehensive Income
+198  Balance Sheet
+200  Statement of Changes in Equity 
+202  Cash flow Statement
+203  NOTES
+203  Basis of presentation
+203  Effects of new and amended IFRSs
+206  New and amended IFRSs not applied
+206  Key events
+208  Basis of consolidation
+219  Consolidation methods
+220  Currency translation
+221  Accounting policies
+233  Segment reporting
+236  Income statement disclosures 
+236   1. Sales revenue
+237   2. Cost of sales
+237   3. Distribution expenses
+237   4. Administrative expenses
+238   5. Other operating income
+238   6. Other operating expenses
+239   7. Share of the result of
+ 
+  
+equity-accounted investments
+239   8. Interest result
+240   9. Other financial result
+240   10. Income tax income/expense
+244   11. Earnings per share
+245  Balance Sheet disclosures
+245   12. Intangible assets
+248   13. Property, plant and equipment
+250   14. Lease assets and investment property 
+252   15. Equity-accounted investments and other
+ 
+  
+ equity investments
+254   16. Noncurrent and current financial services receivables
+255   17. Noncurrent and current other financial assets 
+256   18. Noncurrent and current other receivables
+257   19. Tax assets
+258   20. Inventories
+258   21. Trade receivables
+258   22. Marketable securities
+259   23. Cash, cash equivalents and time deposits
+259   24. Equity
+261   25. Noncurrent and current financial liabilities
+261   26. Noncurrent and current other financial liabilities 
+262   27. Noncurrent and current other liabilities
+263   28. Tax liabilities
+264   29. Provisions for pensions and other
+ 
+   post-employment benefits
+272   30. Noncurrent and current other provisions
+273   31. Put options and compensation rights granted to
+ 
+  
+ noncontrolling interest shareholders 
+273   32. Trade payables
+274  Other disclosures
+274   33. IAS 23 (Borrowing Costs)
+274   34. IFRS 16 (Leases)
+278   35. IFRS 7 (Financial Instruments)
+291   36. Cash flow statement
+293   37. Financial risk management and
+ 
+  
+ financial instruments 
+314   38. Capital management 
+316   39. Contingent liabilities
+317   40. Litigation
+326   41. Other financial obligations
+327   42. Total audit fees of the Group auditor
+327   43. Personnel expenses
+328   44. Average number of employees during the year
+328   45. Events after the balance sheet date
+328  46. Remuneration based on performance shares and  
+ 
+  
+ phantom shares (share-based payment)
+330   47. Related party disclosures in accordance with IAS 24 
+334   48. German Corporate Governance Code
+334   49. Remuneration of the Board of Management
+ 
+  
+ and the Supervisory Board 
+336 Responsibility Statement
+337  Independent Auditor’s Report
+ 
+
+
+ 
+Consolidated Financial Statements 
+195
+Income Statement
+of the Volkswagen Group for the period January 1 to December 31, 2019 
+€ million 
+Note
+2019
+2018 
+Sales revenue 
+1
+252,632
+235,849
+Cost of sales 
+2
+–203,490
+–189,500
+Gross result 
+49,142
+46,350
+Distribution expenses 
+3
+–20,978
+–20,510
+Administrative expenses 
+4
+–9,767
+–8,819
+Other operating income 
+5
+11,453
+11,631
+Other operating expenses 
+6
+–12,890
+–14,731
+Operating result 
+16,960
+13,920
+Share of the result of equity-accounted investments 
+7
+3,349
+3,369
+Interest income 
+8
+910
+967
+Interest expenses 
+8
+–2,524
+–1,547
+Other financial result 
+9
+–339
+–1,066
+Financial result 
+1,396
+1,723
+Earnings before tax 
+18,356
+15,643
+Income tax income/expense 
+10
+–4,326
+–3,489
+   Current 
+–4,147
+–3,533
+   Deferred 
+–180
+43
+Earnings after tax 
+14,029
+12,153
+of which attributable to 
+Noncontrolling interests 
+143
+17
+Volkswagen AG hybrid capital investors 
+540
+309
+Volkswagen AG shareholders 
+13,346
+11,827
+Basic/diluted earnings per ordinary share in € 
+11
+26.60
+23.57
+Basic/diluted earnings per preferred share in € 
+11
+26.66
+23.63
+Income Statement 
+
+ 
+ 
+Statement of Comprehensive Income  
+196 
+Consolidated Financial Statements
+Changes in comprehensive income for the period January 1 to December 31, 2018 
+ 
+ 
+Statement of Comprehensive Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+€ million 
+Total
+Equity
+attributable to
+Volkswagen AG
+shareholders
+Equity 
+attributable to 
+Volkswagen AG 
+hybrid capital 
+investors 
+Equity
+attributable to
+noncontrolling
+interests
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Earnings after tax 
+12,153
+11,827
+309 
+17
+Pension plan remeasurements recognized in other comprehensive income 
+ 
+ 
+  
+ 
+Pension plan remeasurements recognized in other comprehensive income, before tax 
+144
+145
+– 
+–1
+Deferred taxes relating to pension plan remeasurements recognized in other 
+comprehensive income 
+–88
+–88
+– 
+0
+Pension plan remeasurements recognized in other comprehensive income, net of tax 
+56
+57
+– 
+–1
+Fair Value valuation of other participations and securities (equity instruments) that will not 
+be reclassified to profit or loss, net of tax 
+19
+19
+ 
+– 
+–
+Share of other comprehensive income of equity-accounted investments 
+that will not be reclassified to profit or loss, net of tax 
+34
+34
+ 
+– 
+–
+Items that will not be reclassified to profit or loss 
+110
+110
+– 
+–1
+Exchange differences on translating foreign operations 
+ 
+Gains/losses on currency translation recognized in other comprehensive income 
+–406
+–406
+– 
+1
+Transferred to profit or loss 
+61
+61
+– 
+0
+Exchange differences on translating foreign operations, before tax 
+–345
+–345
+– 
+1
+Deferred taxes relating to exchange differences on translating foreign operations 
+–8
+–8
+– 
+–
+Exchange differences on translating foreign operations, net of tax 
+–353
+–353
+– 
+1
+Hedging 
+ 
+Fair value changes recognized in other comprehensive income (OCI I) 
+–568
+–568
+– 
+0
+Transferred to profit or loss (OCI I) 
+–1,939
+–1,939
+– 
+0
+Cash flow hedges (OCI I), before tax 
+–2,506
+–2,506
+– 
+0
+Deferred taxes relating to cash flow hedges (OCI I) 
+715
+715
+– 
+0
+Cash flow hedges (OCI I), net of tax 
+–1,792
+–1,791
+– 
+0
+Fair value changes recognized in other comprehensive income (OCI II) 
+–1,360
+–1,360
+– 
+–
+Transferred to profit or loss (OCI II) 
+377
+377
+– 
+–
+Cash flow hedges (OCI II), before tax 
+–983
+–983
+– 
+–
+Deferred taxes relating to cash flow hedges (OCI II) 
+291
+291
+– 
+–
+Cash flow hedges (OCI II), net of tax 
+–692
+–692
+– 
+–
+Fair value valuation of securities and receivables (debt instruments) that may be 
+reclassified to profit or loss 
+ 
+Fair value changes recognized in other comprehensive income 
+–5
+–5
+– 
+–
+Transferred to profit or loss 
+1
+1
+– 
+–
+Fair value valuation of securities and receivables (debt instruments) that may be 
+reclassified to profit or loss, before tax 
+–4
+–4
+ 
+– 
+–
+Deferred taxes relating to fair value valuation of securities and receivables (debt 
+instruments) recognized in other comprehensive income 
+1
+1
+ 
+– 
+0
+Fair value valuation of securities and receivables (debt instruments) that may be reclassified 
+to profit or loss, net of tax 
+–3
+–3
+ 
+– 
+0
+Share of other comprehensive income of equity-accounted investments that 
+may be reclassified to profit or loss, net of tax 
+28
+28
+ 
+– 
+–
+Items that may be reclassified to profit or loss 
+–2,811
+–2,812
+– 
+0
+Other comprehensive income, before tax 
+–3,612
+–3,612
+– 
+0
+Deferred taxes relating to other comprehensive income 
+911
+911
+– 
+0
+Other comprehensive income, net of tax 
+–2,701
+–2,701
+– 
+0
+Total comprehensive income 
+9,452
+9,126
+309 
+17
+ 
+
+ 
+Consolidated Financial Statements 
+197
+Statement of Comprehensive Income
+Changes in comprehensive income for the period January 1 to December 31, 2019 
+€ million 
+Total 
+Equity
+attributable to
+Volkswagen AG
+shareholders
+Equity
+attributable to
+Volkswagen AG
+hybrid capital
+investors
+Equity 
+attributable to 
+noncontrolling 
+interests 
+Earnings after tax 
+14,029 
+13,346
+540
+143 
+Pension plan remeasurements recognized in other comprehensive income 
+Pension plan remeasurements recognized in other comprehensive income, before tax 
+–8,011 
+–7,993
+–
+–18 
+Deferred taxes relating to pension plan remeasurements recognized in other 
+comprehensive income 
+2,429 
+2,423
+–
+6 
+Pension plan remeasurements recognized in other comprehensive income, net of tax 
+–5,582 
+–5,570
+–
+–11 
+Fair Value valuation of other participations and securities (equity instruments) that will not 
+be reclassified to profit or loss, net of tax 
+–27 
+–26
+–
+–1 
+Share of other comprehensive income of equity-accounted investments 
+that will not be reclassified to profit or loss, net of tax 
+–3 
+–1
+–
+–2 
+Items that will not be reclassified to profit or loss 
+–5,612
+–5,597
+–
+–15 
+Exchange differences on translating foreign operations 
+Gains/losses on currency translation recognized in other comprehensive income 
+572 
+565
+–
+7 
+Transferred to profit or loss 
+2 
+2
+–
+0 
+Exchange differences on translating foreign operations, before tax 
+574 
+567
+–
+7 
+Deferred taxes relating to exchange differences on translating foreign operations 
+12 
+12
+–
+– 
+Exchange differences on translating foreign operations, net of tax 
+586 
+579
+–
+7 
+Hedging 
+Fair value changes recognized in other comprehensive income (OCI I) 
+–1,622 
+–1,618
+–
+–4 
+Transferred to profit or loss (OCI I) 
+–782
+–784
+–
+2 
+Cash flow hedges (OCI I), before tax 
+–2,404 
+–2,402
+–
+–2 
+Deferred taxes relating to cash flow hedges (OCI I) 
+708 
+707
+–
+1 
+Cash flow hedges (OCI I), net of tax 
+–1,697 
+–1,695
+–
+–1 
+Fair value changes recognized in other comprehensive income (OCI II) 
+–1,490 
+–1,490
+–
+0 
+Transferred to profit or loss (OCI II) 
+997 
+996
+–
+1 
+Cash flow hedges (OCI II), before tax 
+–493
+–494
+–
+1 
+Deferred taxes relating to cash flow hedges (OCI II) 
+146 
+146
+–
+0 
+Cash flow hedges (OCI II), net of tax 
+–347
+–348
+–
+1 
+Fair value valuation of securities and receivables (debt instruments) that may be 
+reclassified to profit or loss 
+Fair value changes recognized in other comprehensive income 
+23 
+23
+–
+– 
+Transferred to profit or loss 
+1 
+1
+–
+– 
+Fair value valuation of securities and receivables (debt instruments) that may be 
+reclassified to profit or loss, before tax 
+24 
+24
+–
+– 
+Deferred taxes relating to fair value valuation of securities and receivables (debt 
+instruments) recognized in other comprehensive income 
+–7 
+–7
+–
+– 
+Fair value valuation of securities and receivables (debt instruments) that may be reclassified 
+to profit or loss, net of tax 
+17 
+17
+–
+– 
+Share of other comprehensive income of equity-accounted investments that 
+may be reclassified to profit or loss, net of tax 
+78 
+77
+–
+1 
+Items that may be reclassified to profit or loss 
+–1,363
+–1,370
+–
+7 
+Other comprehensive income, before tax 
+–10,263
+–10,248
+–
+–14 
+Deferred taxes relating to other comprehensive income 
+3,288 
+3,282
+–
+7 
+Other comprehensive income, net of tax 
+–6,974
+–6,967
+–
+–8 
+Total comprehensive income 
+7,055 
+6,379
+540
+136 
+ 
+ 
+
+ 
+Balance Sheet  
+198 
+Consolidated Financial Statements
+of the Volkswagen Group as of December 31, 2019 
+€ million 
+Note
+Dec. 31, 2019
+Dec. 31, 2018
+Assets 
+Noncurrent assets 
+Intangible assets 
+12
+66,214
+64,613
+Property, plant and equipment 
+13, 34
+66,152
+57,630
+Lease assets 
+14, 34
+48,938
+43,545
+Investment property 
+14
+538
+496
+Equity-accounted investments 
+15
+8,169
+8,434
+Other equity investments 
+15
+1,902
+1,474
+Financial services receivables 
+16
+86,973
+78,692
+Other financial assets 
+17
+5,553
+6,521
+Other receivables 
+18
+2,722
+2,608
+Tax receivables 
+19
+341
+476
+Deferred tax assets 
+19
+13,106
+10,131
+300,608
+274,620
+Current assets 
+Inventories 
+20
+46,742
+45,745
+Trade receivables 
+21
+17,941
+17,888
+Financial services receivables 
+16
+58,615
+54,216
+Other financial assets 
+17
+12,216
+11,586
+Other receivables 
+18
+7,272
+6,203
+Tax receivables 
+19
+1,190
+1,879
+Marketable securities 
+22
+16,769
+17,080
+Cash, cash equivalents and time deposits 
+23
+25,923
+28,938
+Assets held for sale 
+795
+–
+187,463
+183,536
+Total assets 
+488,071
+458,156
+Balance Sheet  
+
+ 
+Consolidated Financial Statements 
+199
+Balance Sheet
+€ million 
+Note
+Dec. 31, 2019
+Dec. 31, 2018
+Equity and Liabilities 
+Equity 
+24
+ Subscribed capital 
+1,283
+1,283
+ Capital reserve 
+14,551
+14,551
+ Retained earnings 
+96,929
+91,105
+ Other reserves 
+–3,646
+–2,417
+Equity attributable to Volkswagen AG hybrid capital investors 
+12,663
+12,596
+Equity attributable to Volkswagen AG shareholders and hybrid capital investors 
+121,781
+117,117
+Noncontrolling interests 
+1,870
+225
+123,651
+117,342
+Noncurrent liabilities 
+Financial liabilities 
+25
+113,556
+101,126
+Other financial liabilities 
+26
+4,499
+3,219
+Other liabilities 
+27
+7,271
+6,448
+Deferred tax liabilities 
+28
+5,007
+5,030
+Provisions for pensions 
+29
+41,389
+33,097
+Provisions for taxes 
+28
+2,991
+3,047
+Other provisions 
+30
+21,783
+20,879
+196,497
+172,846
+Current liabilities 
+Put options and compensation rights granted to noncontrolling interest shareholders 
+31
+–
+1,853
+Financial liabilities 
+25
+87,912
+89,757
+Trade payables 
+32
+22,745
+23,607
+Tax payables 
+28
+408
+456
+Other financial liabilities 
+26
+10,858
+9,416
+Other liabilities 
+27
+19,320
+17,593
+Provisions for taxes 
+28
+1,876
+1,412
+Other provisions 
+30
+24,434
+23,874
+Liabilities associated with assets held for sale 
+370
+–
+167,924
+167,968
+Total equity and liabilities 
+488,071
+458,156
+
+ 
+Statement of Changes in Equity  
+200 
+Consolidated Financial Statements
+of the Volkswagen Group for the period January 1 to December 31, 2019 
+OTHER RESERVES 
+€ million 
+Subscribed capital
+Capital reserve
+Retained earnings
+Currency
+translation reserve
+Unadjusted balance at Jan. 1, 2018 
+1,283
+14,551
+81,367
+–3,223
+Changes in accounting policy to reflect IFRS 9 and 15 
+–
+–
+–282
+–
+Balance at Jan. 1, 2018 
+1,283
+14,551
+81,085
+–3,223
+Earnings after tax 
+–
+–
+11,827
+–
+Other comprehensive income, net of tax 
+–
+–
+57
+–353
+Total comprehensive income 
+–
+–
+11,884
+–353
+Disposal of equity instruments 
+–
+–
+113
+–
+Capital increases/Capital decreases¹ 
+–
+–
+–
+–
+Dividends payment 
+–
+–
+–1,967
+–
+Capital transactions involving a change in ownership interest 
+–
+–
+–10
+–
+Other changes 
+–
+–
+0
+–
+Balance at Dec. 31, 2018 
+1,283
+14,551
+91,105
+–3,576
+Balance at Jan. 1, 2019 
+1,283
+14,551
+91,105
+–3,576
+Earnings after tax 
+–
+–
+13,346
+–
+Other comprehensive income, net of tax 
+–
+–
+–5,570
+579
+Total comprehensive income 
+–
+–
+7,776
+579
+Disposal of equity instruments 
+–
+–
+–4
+–
+Capital increases/Capital decreases 
+–
+–
+–
+–
+Dividends payment 
+–
+–
+–2,419
+–
+Capital transactions involving a change in ownership interest² 
+–
+–
+390
+173
+Other changes 
+–
+–
+81
+–
+Balance at Dec. 31, 2019 
+1,283
+14,551
+96,929
+–2,824
+1 Volkswagen AG recorded an inflow of cash funds amounting to €2,750 million, less transaction costs of €19 million, from the hybrid capital issued in June 2018. Additionally, there were noncash 
+effects from the deferral of taxes amounting to €6 million. The hybrid capital is required to be classified as equity instruments granted. The calling of the first tranche of the hybrid capital issued in 
+September 2013 resulted in an outflow of cash funds of €1,250 million in September 2018. In addition, other effects of €14 million had to be recognized in equity. 
+2 For the change in capital transactions involving a change in ownership interest see the section entitled “Key events”. 
+3 As of fiscal year 2019, due to a change of IAS 12, attributable earnings and dividends payment related to hybrid capital are reported without tax effects. 
+Explanatory notes on equity are presented in the note relating to equity. 
+Statement of Changes in Equity  
+
+ 
+Consolidated Financial Statements 
+201
+Statement of Changes in Equity
+HEDGING 
+Cash flow hedges
+(OCI I)
+Deferred costs 
+of hedging 
+(OCI II)
+Equity and debt
+instruments
+Equity- 
+accounted 
+investments 
+Equity
+attributable to
+Volkswagen AG
+hybrid capital
+investors³
+ Equity 
+attributable to 
+Volkswagen AG 
+shareholders and 
+hybrid capital 
+investors 
+Noncontrolling
+interests
+Total equity 
+3,525
+–
+91
+166 
+11,088
+108,849 
+229
+109,077 
+56
+63
+–225
+– 
+–
+–388
+1
+–387
+3,581
+63
+–133
+166 
+11,088
+108,461 
+229
+108,690 
+–
+–
+–
+– 
+309
+12,136 
+17
+12,153 
+–1,791
+–692
+16
+62 
+–
+–2,701 
+0
+–2,701 
+–1,791
+–692
+16
+62 
+309
+9,435 
+17
+9,452 
+–
+–
+–113
+– 
+–
+– 
+–
+– 
+–
+–
+–
+– 
+1,501
+1,501 
+–
+1,501 
+–
+–
+–
+– 
+–403
+–2,370 
+–4
+–2,375 
+–
+–
+–
+– 
+–
+–10 
+–18
+–28 
+–
+–
+–
+– 
+101
+101 
+2
+102 
+1,790
+–629
+–230
+228 
+12,596
+117,117 
+225
+117,342 
+1,790
+–629
+–230
+228 
+12,596
+117,117 
+225
+117,342 
+–
+–
+–
+– 
+540
+13,886 
+143
+14,029 
+–1,695
+–348
+–9
+76 
+–
+–6,967 
+–8
+–6,974 
+–1,695
+–348
+–9
+76 
+540
+6,920 
+136
+7,055 
+–
+–
+4
+– 
+–
+– 
+–
+– 
+–
+–
+–
+– 
+–
+– 
+–
+– 
+–
+–
+–
+– 
+–472
+–2,891 
+–9
+–2,899 
+1
+0
+–1
+–10 
+–
+553 
+1,519
+2,071 
+–
+–
+–
+1 
+–
+82 
+–1
+81 
+95
+–977
+–235
+295 
+12,663
+121,781 
+1,870
+123,651 
+ 
+ 
+ 
+
+ 
+Cash flow statement  
+202 
+Consolidated Financial Statements
+of the Volkswagen Group for the period January 1 to December 31, 2019 
+€ million 
+2019
+2018
+Cash and cash equivalents at beginning of period 
+28,113
+18,038
+Earnings before tax 
+18,356
+15,643
+Income taxes paid 
+–2,914
+–3,804
+Depreciation and amortization of, and impairment losses on, intangible assets, property, plant and equipment, 
+and investment property¹ 
+12,046
+11,034
+Amortization of and impairment losses on capitalized development costs¹ 
+3,665
+3,668
+Impairment losses on equity investments¹ 
+300
+170
+Depreciation of and impairment losses on lease assets¹ 
+8,428
+7,689
+Gain/loss on disposal of noncurrent assets and equity investments 
+–4
+98
+Share of the result of equity-accounted investments 
+460
+244
+Other noncash expense/income 
+–730
+347
+Change in inventories 
+–674
+–5,372
+Change in receivables (excluding financial services) 
+–893
+–6,400
+Change in liabilities (excluding financial liabilities) 
+2,297
+3,645
+Change in provisions 
+1,646
+–762
+Change in lease assets 
+–13,204
+–11,647
+Change in financial services receivables 
+–10,796
+–7,282
+Cash flows from operating activities 
+17,983
+7,272
+Investments in intangible assets (excluding development costs), property, plant and equipment, and investment property 
+–14,230
+–13,729
+Additions to capitalized development costs 
+–5,171
+–5,234
+Acquisition of subsidiaries 
+–673
+–470
+Acquisition of other equity investments 
+–420
+–420
+Disposal of subsidiaries 
+3
+–26
+Disposal of other equity investments 
+177
+210
+Proceeds from disposal of intangible assets, property, plant and equipment, and investment property 
+237
+282
+Change in investments in securities 
+387
+–1,378
+Change in loans and time deposits 
+–1,456
+–826
+Cash flows from investing activities 
+–21,146
+–21,590
+Capital contributions/capital redemptions 
+–
+1,491
+Dividends paid 
+–2,899
+–2,375
+Capital transactions with noncontrolling interest shareholders 
+1,368
+–28
+Proceeds from issuance of bonds 
+25,916
+35,308
+Repayments of bonds 
+–19,784
+–15,290
+Changes in other financial liabilities 
+–4,509
+5,488
+Repayments of lease liabilities 
+–957
+–29
+Cash flows from financing activities 
+–865
+24,566
+Effect of exchange rate changes on cash and cash equivalents 
+243
+–173
+Change of loss allowance within cash and cash equivalents 
+1
+–1
+Net change in cash and cash equivalents 
+–3,784
+10,075
+Cash and cash equivalents at end of period  
+24,329
+28,113
+Cash and cash equivalents at end of period 
+24,329
+28,113
+Securities, loans and time deposits 
+29,099
+28,036
+Gross liquidity 
+53,428
+56,148
+Total third-party borrowings 
+–201,468
+–190,883
+Net liquidity 
+–148,040
+–134,735
+1 Net of impairment reversals. 
+Explanatory notes on the cash flow statement are presented in the section relating to the cash flow statement. 
+Cash flow statement

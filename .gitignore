@@ -1,0 +1,35 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+conda-env/
+
+# IDE & OS Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large Scraped PDF Reports (20+ GB on disk - harvested on demand via scripts/01_data_collection)
+reports/*.pdf
+reports/**/*.pdf
+*.pdf
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Temporary files
+scratch/
+tmp/
+temp/

@@ -1,0 +1,3806 @@
+Annual financial 
+statements of  
+Evonik Industries AG 
+For the fiscal year from January 1 to December 31, 2019 
+
+Annual financial statements of Evonik Industries AG 2019 
+2 
+Contents 
+Balance sheet ............................................................................................................................................................................. 4
+Income statement  ...................................................................................................................................................................... 5
+Notes to the financial statements for 2019 ................................................................................................................................... 6
+1.
+Basis of preparation of the financial statements ............................................................................................................... 6
+1.1 
+General information ................................................................................................................................................. 6 
+1.2 
+Accounting and valuation principles .......................................................................................................................... 6
+2.
+Notes to the balance sheet .......................................................................................................................................... 12
+2.1 
+Intangible assets, property, plant and equipment  ..................................................................................................... 12
+2.2 
+Inventories ............................................................................................................................................................ 14
+2.3 
+Receivables and other assets ................................................................................................................................... 15
+2.4 
+Other securities ..................................................................................................................................................... 15
+2.5 
+Cash and cash equivalents ...................................................................................................................................... 16
+2.6 
+Prepaid expenses and deferred charges ................................................................................................................... 16
+2.7 
+Equity ................................................................................................................................................................... 16
+2.8 
+Provisions ............................................................................................................................................................. 19
+2.9 
+Liabilities .............................................................................................................................................................. 19
+3.
+Notes to the income statement .................................................................................................................................... 21
+3.1 
+Sales ..................................................................................................................................................................... 21
+3.2 
+Other operating income ......................................................................................................................................... 22
+3.3 
+Cost of materials  ................................................................................................................................................... 22
+3.4 
+Personnel expense  ................................................................................................................................................ 22
+3.5 
+Other operating expense ........................................................................................................................................ 23
+3.6 
+Income from investments  ...................................................................................................................................... 23
+3.7 
+Write-downs of financial assets and current securities .............................................................................................. 23
+3.8 
+Write-ups of financial assets and current securities ................................................................................................... 23
+3.9 
+Net interest expense .............................................................................................................................................. 24
+3.10 
+Deferred taxes ....................................................................................................................................................... 24
+3.11 
+Income taxes ......................................................................................................................................................... 24
+4.
+Other disclosures ....................................................................................................................................................... 25
+4.1 
+Further information on the reporting period ............................................................................................................ 25
+4.2 
+Contingent liabilities  ............................................................................................................................................. 25
+4.3 
+Information pursuant to section 285 no. 3 and no. 3a of the German Commercial Code (HGB) ................................... 27
+4.4 
+Financial derivatives ............................................................................................................................................... 27
+4.5 
+Performance-related remuneration ......................................................................................................................... 29
+4.6 
+Related parties  ...................................................................................................................................................... 30
+4.7 
+Members of the executive board and supervisory board ........................................................................................... 31
+4.8 
+Total remuneration of the executive board and supervisory board ............................................................................. 36
+
+Annual financial statements of Evonik Industries AG 2019 
+3 
+4.9 
+Declaration of conformity with the German Corporate Governance Code .................................................................. 36
+4.10 
+Information pursuant to section 160 paragraph 1 no. 8 of the German Stock Corporation Act (AktG) .......................... 36
+4.11 
+Inclusion in the consolidated financial statements of RAG-Stiftung ............................................................................ 37
+4.12 
+List of shareholdings .............................................................................................................................................. 37
+4.13 
+Events after the reporting date ................................................................................................................................ 43
+4.14 
+Proposal for the distribution of the profit ................................................................................................................. 43
+Responsibility statement ........................................................................................................................................................... 44 
+Independent auditor´s report .................................................................................................................................................... 45 
+
+Annual financial statements of Evonik Industries AG 2019 
+4 
+Balance sheet  
+Balance sheet for Evonik Industries AG 
+in € million 
+Note 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Intangible assets 
+23
+21 
+Property, plant and equipment 
+46
+33 
+Financial assets 
+8,998
+8,454 
+Non-current assets 
+2.1 
+9,067 
+8,508 
+Inventories 
+2.2 
+6 
+- 
+Trade accounts receivable 
+7
+10 
+Receivables from affiliated companies 
+3,694
+3,221 
+Other assets 
+183
+246 
+Receivables and other assets 
+2.3 
+3,884 
+3,477 
+Other securities 
+2.4 
+- 
+1,197 
+Cash and cash equivalents 
+2.5 
+604 
+837 
+Current assets 
+4,494 
+5,511 
+Prepaid expenses and deferred charges 
+2.6 
+15 
+12 
+Total assets 
+13,576 
+14,031 
+Issued capital 
+466 
+466 
+Capital reserve 
+721 
+722 
+Retained earnings 
+4,246 
+4,278 
+- statutory reserve 
+47
+47 
+- other retained earnings
+4,199
+4,231 
+Distributable profit 
+536 
+950 
+Equity 
+2.7 
+5,969 
+6,416 
+Provisions for pensions and similar obligations  
+161 
+152 
+Provisions for taxes 
+196
+251 
+Other provisions 
+420
+339 
+Provisions 
+2.8 
+777 
+742 
+Bonds 
+1,750
+1,750 
+Liabilities to banks 
+77
+66 
+Trade accounts payable 
+74
+32 
+Liabilities to affiliated companies 
+4,900
+4,996 
+Other payables 
+29
+29 
+Liabilities 
+2.9 
+6,830 
+6,873 
+Total equity and liabilities 
+ 
+13,576 
+14,031 
+
+Annual financial statements of Evonik Industries AG 2019 
+5 
+Income statement  
+Income statement for Evonik Industries AG 
+in € million 
+Note 
+2018 
+2019 
+Sales 
+3.1
+705
+467 
+Other own work capitalized 
+2
+1 
+Other operating income 
+3.2
+484
+611 
+Cost of materials 
+3.3
+-263
+-58 
+Personnel expense 
+3.4
+-415
+-359 
+Depreciation and amortization of intangible assets, property, plant and equipment 
+-24 
+-26 
+Other operating expense 
+3.5
+-855
+-866 
+Operating result 
+-366 
+-230 
+Income from profit-and-loss transfer agreements 
+563 
+1,473 
+Income from investments 
+1
+1 
+Income from investments 
+3.6 
+564 
+1,474 
+Write-downs of financial assets and current securities 
+3.7 
+-15 
+-6 
+Write-ups of financial assets and current securities 
+3.8 
+11 
+17 
+Net interest expense 
+3.9
+-136
+-28 
+Income before income taxes 
+58 
+1,227 
+Income taxes 
+3.11
+-121
+-245 
+Income after taxes 
+-63 
+982 
+Net income 
+-63 
+982 
+Profit carried forward from the previous year 
+234 
+- 
+Withdrawals from (+)/additions to (-) other retained earnings 
+365 
+-32 
+Distributable profit 
+536 
+950 
+
+Annual financial statements of Evonik Industries AG 2019 
+6 
+Notes to the financial statements for 2019 
+1. Basis of preparation of the financial statements
+1.1 General information 
+The annual financial statements for Evonik Industries AG, Essen (Germany) (referred to as Evonik Industries AG or the 
+company) have been prepared in accordance with the accounting standards set out in the German Commercial Code 
+(HGB) and the German Stock Corporation Act (AktG).  
+To enhance clarity, some items have been combined in the balance sheet and income statement. These are stated 
+separately in the notes.  
+The income statement has been drawn up using the total cost format. 
+Evonik Industries AG is a large stock company within the meaning of section 267 paragraph 3 of the German 
+Commercial Code (HGB). The company's registered office is in Essen (Germany), and it is entered in the commercial 
+register B at Essen District Court under the number 19474. 
+There is a domination agreement and a profit-and-loss transfer agreement between Evonik Industries AG and Evonik 
+Operations GmbH (until November 4, 2019: Evonik Degussa GmbH), Essen (Germany). Both agreements were last 
+amended in 2013. Further, there is a domination and profit-and-loss transfer agreement between Evonik Industries AG 
+and Evonik Risk and Insurance Services GmbH, Essen (Germany), which was last amended in 2013. 
+1.2 Accounting and valuation principles 
+1.2.1 Intangible assets, property, plant and equipment 
+Purchased intangible assets are recognized at the cost of acquisition, including ancillary acquisition costs, and amortized 
+on a straight-line basis over their estimated useful lives. Their useful life is between one and five years. Self-generated 
+intangible assets are not capitalized. Advance payments are recognized at their nominal amount. 
+Property, plant and equipment are valued at the cost of acquisition, including ancillary acquisition costs. Additions 
+to depreciable property, plant and equipment made before January 1, 2008 and in fiscal 2009 are depreciated—insofar 
+as this is permitted for tax purposes—using the declining balance method, with a subsequent switch to the straight-line 
+method. The straight-line depreciation method has been used for all additions since fiscal 2010. Depreciation is 
+calculated on the basis of the following customary useful lives for the various types of assets.  
+
+Annual financial statements of Evonik Industries AG 2019 
+7 
+Useful lives of property, plant and equipment 
+in years 
+Other premises 
+15 
+Operating equipment  
+20 
+Distribution systems 
+15 
+Machinery and other equipment 
+10 
+Vehicles 
+5 
+IT equipment 
+3-7 
+Factory and office equipment 
+5-10 
+Movable assets acquired in the reporting period are depreciated on a pro rata temporis basis from the month of 
+acquisition using the straight-line method. Assets purchased for more than €250 but no more than €1,000 are grouped 
+in a collective item for the year. The overall cost of this collective item is depreciated in five equal installments in the year 
+in which it is established and the following four years.  
+Write-downs are made for any decline in the value of assets that is expected to be lasting and goes beyond normal 
+wear and tear. 
+1.2.2 Financial assets 
+Financial assets are recognized at cost of acquisition or, in the event of a decline in value that is expected to be lasting, at 
+the lower fair value. Investments in companies that are listed on the stock market are written down to the lower stock 
+market price on the reporting date if the decline in value is expected to be permanent. If and insofar as the reasons for a 
+write-down no longer apply, financial assets are written up to their fair value or higher stock market price on the 
+reporting date, but only up to their amortized cost. In accordance with section 271 paragraph 1 sentence 1 of the German 
+Commercial Code (HGB), the investments included in financial assets are equity interests in other companies which serve 
+the company's own operations by establishing a lasting relationship. 
+
+Annual financial statements of Evonik Industries AG 2019 
+8 
+1.2.3 Inventories 
+Inventories are carried at cost of acquisition or production, taking into account the lowest value principle. The cost of 
+acquisition is calculated using the average cost method, plus ancillary costs. The cost of production comprises direct 
+production costs, plus an appropriate portion of material and manufacturing overheads and depreciation of non-current 
+assets. Interest on debt is not capitalized. Write-downs are recognized for inventory risks resulting from diminished 
+usability, slow-moving items, etc. 
+1.2.4 Receivables, other assets, and cash and cash equivalents 
+Receivables, other assets, and cash and cash equivalents are recognized at nominal value. Specific risks relating to 
+receivables are recognized through individual write-downs. The general credit risk on receivables is taken into account 
+through a global valuation allowance.  
+1.2.5 Securities 
+Other securities are recognized at cost of acquisition or at fair value on the reporting date if this is lower. 
+1.2.6 Issued capital 
+The issued capital (capital stock) is measured at nominal value.  
+1.2.7 Provisions 
+In accordance with section 253 paragraphs 1 and 2 of the German Commercial Code (HGB), provisions for pensions and 
+similar obligations are valued using the projected unit credit method. This method takes account of expected future salary 
+and pension increases as well as pension obligations and accrued entitlements as of the reporting date. The valuation is 
+based on the revised biometric data in the 2018 G mortality tables published by Klaus Heubeck. 
+Actuarial methods are used to value provisions for pensions and other non-current personnel-related provisions 
+for phased retirement programs, early retirement, continued payment of salaries after death, annual bonuses and the 
+granting of annual vacation entitlements in the event of illness, anniversaries, and some elements of employees' long-
+term accounts.  
+In accordance with section 253 paragraph 2 sentence 1 of the German Commercial Code (HGB), provisions due 
+in more than one year are discounted using the average market interest rate corresponding to their term. For provisions 
+for pension obligations, this is derived from the past ten fiscal years, while for other provisions it is derived from the past 
+seven fiscal years. In accordance with section 253 paragraph 6 sentence 2 of the German Commercial Code (HGB), the 
+difference between pension provisions using the ten-year average for the interest rate as of the reporting date and the 
+seven-year average, less deferred taxes recognized on this amount, may not be distributed. 
+In application of the option provided for by section 253 paragraph 2 sentences 2 and 3 of the German Commercial 
+Code (HGB), these provisions are discounted over an assumed term of 15 years. For the valuation as of December 31, 
+2019, the average interest rate for the past seven fiscal years was 1.97 percent (2018: 2.32 percent) and the average 
+interest rate for the past ten fiscal years was 2.71 percent (2018: 3.21 percent). These rates are identical to the rates 
+published by the Bundesbank as of December 31, 2019. 
+
+Annual financial statements of Evonik Industries AG 2019 
+9 
+The table shows the assumptions used for the actuarial valuation of the obligations: 
+Actuarial assumptions 
+in % 
+2019 
+Future salary increases 
+2.50 
+Employee turnover 
+2.74 
+Future pension increases 
+1.50 
+Obligations relating to pension commitments are for company pensions.  
+In the previous years, the company transferred assets (“funded assets”) to the pension trust Evonik 
+Pensionstreuhand e.V., Essen (Germany) to insure some of the pension obligations to employees against insolvency. 
+In accordance with section 246 paragraph 2 sentence 2 of the German Commercial Code (HGB), these assets 
+were offset against the provisions of €971 million (2018: €902 million) for settlement of these obligations. The fair 
+value of the netted funded assets is €819 million (2018: €741 million). 
+The historical cost of acquisition of the assets was €582 million (2018: €600 million). The market values were 
+taken as their fair values and correspond to the fair values derived from the master fund as of December 30, 2019.  
+Section 268 paragraph 8 of the German Commercial Code (HGB) imposes a ban on the distribution of any fair 
+value in excess of the cost of acquisition of pension assets, less the related deferred tax liabilities recognized in the balance 
+sheet. This does not apply to the company as it has sufficient reserves. 
+The valuation of the indirect pension obligations results in underfunding of €73 million (2018: no underfunding), which 
+is not recognized as such on the balance sheet. 
+The company has established provisions for the full amount of top-up and termination benefits for employees on 
+the German phased retirement plan or who have signed agreements to embark on this plan, plus pro rata provisions for 
+their salary payments in the period in which they are not working.  
+To support the adjustment of headcount without causing undue hardship, provisions for termination benefits were 
+established in the reporting period and prior years and adjusted accordingly in the reporting period. 
+Commitments relating to long-term accounts comprise two components. The first is an obligation to grant 
+collectively agreed one-time payments and vacation during the period in which employees do not work, plus final 
+company-financed benefits. This obligation is recognized in the financial statements through a provision. Entitlements to 
+final company-financed benefits for which there is not yet a firm agreement are weighted by the probability of use. The 
+second component comprises current amounts credited by employees to their personal long-term accounts, which are 
+insured against insolvency through a contractual trust arrangement. This component is a securities-based commitment as 
+defined by section 253 paragraph 1 sentence 3 German Commercial Code (HGB).  
+The obligations correspond to the fair value of the assets allocated, totaling €62 million (2018: €45 million). 
+Pursuant to section 246 paragraph 2 sentence 2 of the German Commercial Code (HGB), the assets that are designated 
+as insolvency insurance for commitments on employee accounts are offset against these commitments. The historical cost 
+of acquisition of the assets was €57 million (2018: €43 million). Where market values are available for assets, they are 
+used as the fair value. These assets are held in a segregated equity and bond fund. The asset valuations correspond to the 
+fair values of this segregated fund as of December 30, 2019. The fund is managed by Allianz. 
+The tax provisions and other provisions take adequate account of all identifiable risks and uncertain liabilities. The 
+amounts allocated to provisions reflect the anticipated utilization of the provisions based on a prudent assessment of the 
+
+Annual financial statements of Evonik Industries AG 2019 
+10 
+settlement amount. In accordance with section 253 paragraph 2 sentence 1 of the German Commercial Code (HGB), 
+provisions due in more than one year are discounted over their remaining term using the average market interest rate for 
+the past seven years.  
+1.2.8 Liabilities 
+Bonds and liabilities are recognized at nominal value or at the settlement amount if this is higher. 
+Foreign currency assets and liabilities are recognized at the historical rates at the time of their initial recognition. 
+Items with a remaining term of more than one year are subsequently valued using the imparity principle at the average 
+spot rates on the reporting date. As a result, positive values are not recognized. Items with a remaining term of less than 
+one year are valued at the average spot rate on the reporting date so positive values are also included. 
+The valuation of receivables and liabilities from the overnight funds, trade accounts receivable and payable, cash 
+and cash equivalents, and liabilities to banks are valued at the average spot rate (ECB rate fixed daily). 
+In the reporting period, the cash pool receivables and liabilities were combined in a valuation unit. Valuation units 
+are formed in accordance with section 254 of the German Commercial Code (HGB) by comparing the fair value of 
+overnight funds and of receivables and liabilities from the cash pool with the fair value of the related hedging transaction. 
+If the difference is negative, a provision for impending losses is recognized. All valuation units are presented on the 
+balance sheet as net hedges. 
+1.2.9 Deferred tax liabilities 
+In accordance with section 274 paragraph 1 of the German Commercial Code (HGB), deferred taxes are recognized for 
+differences between the valuation of assets, liabilities, and deferred items for the commercial accounts and their tax 
+valuations; these differences are expected to be reduced in future fiscal years. Tax loss carryforwards and interest carried 
+forward are included in the calculation of deferred tax assets at the level at which they are expected to be offset in the 
+next five years. 
+The tax rates used to calculate deferred taxes are those valid under current legislation as of the date when the 
+temporary differences will probably be settled. Such discrepancies between balance sheet valuations are valued using a 
+company-specific tax rate of 32.2 percent (2018: 32.2 percent). This comprises 15 percent German corporation tax, a 
+5.5 percent solidarity surcharge on the corporation tax, and 16.4 percent trade tax.  
+If a company forms part of a tax entity, deferred taxes are assigned to the controlling company (formal viewpoint). 
+If deferred tax assets exceed deferred tax liabilities, the option of recognizing the net deferred tax asset in 
+accordance with section 274 paragraph 1 sentence 2 of the German Commercial Code (HGB) is not utilized. If the net 
+result is a tax liability, this is recognized on the balance sheet as a deferred tax liability. On the income statement, the 
+change in deferred taxes is then shown separately in income taxes. 
+
+Annual financial statements of Evonik Industries AG 2019 
+11 
+1.2.10 Sales 
+Sales are recognized after sales deductions and deduction of value-added tax and all other taxes directly related to sales. 
+Sales comprise revenue from the sale, rental or leasing of products and the provision of services.  
+Products comprise goods covered by the company’s normal product portfolio. In addition, assets are deemed to 
+be products and are recognized as such if they are normally sold as part of the reporting company’s business activities. 
+Revenues from the provision of services are recognized as sales where they are based on an exchange of services. 
+
+Annual financial statements of Evonik Industries AG 2019 
+12 
+2. Notes to the balance sheet
+(in € million, except where stated otherwise)  
+2.1  Non-current assets 
+Development of intangible assets 
+in € million 
+Acquired licenses, 
+trademarks and  
+similar rights 
+Advance  
+payments made 
+Total 
+Cost of acquisition/production 
+As of January 1, 2018 
+45 
+- 
+45 
+Additions 
+7
+-
+7
+Disposal 
+- 
+- 
+-
+Reclassification 
+8
+-
+8
+As of December 31, 2018 
+60 
+- 
+60 
+Additions 
+2
+1
+3
+Disposal 
+-3
+-
+-3
+Reclassification 
+4
+-
+4
+As of December 31, 2019 
+63 
+1 
+64 
+Amortization and write-downs 
+As of January 1, 2018 
+29 
+- 
+29 
+Amortization 
+8
+-
+8
+Write-ups 
+- 
+- 
+-
+Disposal 
+- 
+- 
+-
+Reclassification 
+- 
+- 
+-
+As of December 31, 2018 
+37 
+- 
+37 
+Write-downs in fiscal year 
+10 
+- 
+10 
+Write-ups in fiscal year 
+- 
+- 
+- 
+Disposal 
+-4
+-
+-4
+Reclassification 
+- 
+- 
+-
+As of December 31, 2019 
+43 
+- 
+43 
+Carrying amounts as of December 31, 2018 
+23 
+- 
+23 
+Carrying amounts as of December 31, 2019 
+20 
+1 
+21 
+
+Annual financial statements of Evonik Industries AG 2019 
+13 
+Development of property, plant and equipment 
+in € million 
+Land, land rights 
+and buildings, 
+including 
+buildings on 
+leased land 
+Plant and 
+machinery 
+Other plant,  
+office furniture,  
+and equipment 
+Advance 
+payments and 
+construction  
+in progress 
+Total 
+Cost of acquisition/production 
+As of January 1, 2018 
+2 
+3 
+89 
+11 
+105 
+Additions
+-
+- 
+6
+11
+17
+Disposal
+-
+- 
+-1
+-
+-1
+Reclassification
+-
+- 
+5
+-13
+-8
+As of December 31, 2018 
+2 
+3 
+99 
+9 
+113 
+Additions
+-
+- 
+7
+1
+8
+Disposal
+-
+- 
+-19
+-
+-19
+Reclassification
+-
+- 
+4
+-8
+-4
+As of December 31, 2019 
+2 
+3 
+91 
+2 
+98 
+Depreciation and write-downs 
+As of January 1, 2018 
+1 
+2 
+50 
+- 
+53 
+Depreciation
+-
+- 
+16
+-
+16
+Write-ups
+- 
+- 
+-
+- 
+-
+Disposal
+-
+- 
+-2
+-
+-2
+Reclassification
+- 
+- 
+-
+- 
+-
+As of December 31, 2018 
+1 
+2 
+64 
+- 
+67 
+Write-downs in fiscal year 
+- 
+- 
+16 
+- 
+16 
+Write-ups in fiscal year 
+- 
+- 
+- 
+- 
+- 
+Disposal
+-
+- 
+-18
+-
+-18
+Reclassification
+- 
+- 
+-
+- 
+-
+As of December 31, 2019 
+1 
+2 
+62 
+- 
+65 
+Carrying amounts as of December 31, 2018 
+1 
+1 
+35 
+9 
+46 
+Carrying amounts as of December 31, 2019 
+1 
+1 
+29 
+2 
+33 
+
+Annual financial statements of Evonik Industries AG 2019 
+14 
+Development of financial assets
+in € million 
+Shares in affiliated 
+companies 
+Loans to affiliated 
+companies 
+Investments 
+Total 
+Cost of acquisition/production 
+As of January 1, 2018 
+9,203 
+687 
+65 
+9,955 
+Additions
+19
+3
+1
+23
+Disposal
+-
+- 
+-
+- 
+Reclassification
+-
+-500
+-
+-500
+As of December 31, 2018 
+9,222 
+190 
+66 
+9,478 
+Additions
+352
+2
+-
+354
+Disposal
+-752
+-126
+-2
+-880
+Reclassification
+-
+-35
+-
+-35
+As of December 31, 2019 
+8,822 
+31 
+64 
+8,917 
+Write-downs
+As of January 1, 2018 
+476 
+49 
+- 
+525 
+Write-downs
+15
+-
+- 
+15
+Write-ups
+-11
+-
+- 
+-11
+Disposal
+-
+- 
+-
+- 
+Reclassification
+-
+-49
+-
+-49
+As of December 31, 2018 
+480 
+- 
+- 
+480 
+Write-downs in fiscal year 
+- 
+- 
+- 
+- 
+Write-ups in fiscal year 
+-17 
+- 
+- 
+-17 
+Disposal
+-
+- 
+-
+- 
+Reclassification
+-
+- 
+-
+- 
+As of December 31, 2019 
+463 
+- 
+- 
+463 
+Carrying amounts as of December 31, 2018 
+8,742 
+190 
+66 
+8,998 
+Carrying amounts as of December 31, 2019 
+8,359 
+31 
+64 
+8,454 
+Additions of shares in affiliated companies comprised €13 million as a result of the increase in the stake in an affiliated 
+company in Germany. The company subsequently became part of Evonik Industries AG due to the exit of the general 
+partner. This resulted in a disposal of €352 million and a corresponding addition of €339 million. 
+ The other disposal of €400 million comprised a transfer of assets from the capital reserves of an affiliated 
+company to Evonik Industries AG. 
+For information on the list of shareholdings of Evonik Industries AG, please refer to note 4.12.  
+2.2 Inventories 
+Inventories 
+in € million 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Merchandise 
+6 
+- 
+6 
+- 
+
+Annual financial statements of Evonik Industries AG 2019 
+15 
+2.3 Receivables and other assets 
+Receivables and other assets 
+in € million 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Remaining term 
+Total 
+up to  
+1 year 
+more than  
+1 year 
+Trade accounts receivable 
+7 
+10 
+– 
+10 
+Receivables from affiliated companies 
+3,694 
+3,221 
+– 
+3,221 
+Other assets 
+183
+232
+14
+246 
+3,884
+3,463
+14
+3,477 
+The following table shows the breakdown of receivables from affiliated companies: 
+Receivables from affiliated companies 
+in € million € 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Financial receivables 
+3,570 
+3,087 
+Other receivables 
+12 
+68 
+Trade accounts receivable 
+112 
+66 
+3,694 
+3,221 
+The receivables from affiliated companies include claims to the transfer of profits, mainly from Evonik Operations GmbH, 
+and from the cash pool, mainly from Evonik Operations GmbH and Evonik Methionine SEA. Other assets mainly comprise 
+receivables in connection with businesses that have been divested, claims for reimbursement under plant management 
+agreements, income tax receivables, and value-added tax credits. 
+2.4 Other securities 
+In 2019, Evonik Industries AG purchased 100 percent of the units in the segregated funds LBBW AM-EVO and Union 
+Treasury 1. These funds are used to reduce risk and to diversify the liquid assets of Evonik Industries AG. They invest 
+primarily in bonds with a short remaining term to maturity. In principle, the fund units can be redeemed at any time. The 
+de facto constraint on redemption is sale of the securities held by the fund, which normally takes a few working days.  
+The cash inflows were €602 million to LBBW AM-EVO and €600 million to Union Treasury 1. As of December 
+31, 2019, the value of the fund units was €598 million for the LBBW AN-EVO fund and €599 million for the Union 
+Treasury 1 fund. That was €4 million and €2 million respectively below the cost of acquisition, so they were written 
+down.  
+€2 million of the €3 million net investment income of the LBBW AM-EVO fund was distributed as an interim 
+dividend, which was immediately reinvested. The entire net investment income of €3 million of the Union Treasury 1 
+fund was retained and reinvested by the fund.  
+
+Annual financial statements of Evonik Industries AG 2019 
+16 
+2.5 Cash and cash equivalents 
+Cash and cash equivalents comprise credit balances held with banks. 
+2.6 Prepaid expenses and deferred charges 
+The prepaid expenses and deferred charges are mainly accruals for IT software and IT maintenance licenses. 
+2.7 Equity 
+( a ) Issued capital 
+As in the previous year, the company’s issued capital (capital stock) was €466,000,000 on the reporting date. It is divided 
+into 466,000,000 no-par registered shares. The arithmetic value of each share is €1. Each no-par share entitles the 
+holder to one vote. 
+( b ) Authorized capital 
+A resolution on authorized capital was adopted at the annual shareholders’ meeting on May 23, 2018. This authorizes 
+the executive board until May 22, 2023 to increase the company's capital stock, subject to the approval of the supervisory 
+board, by up to €116,500,000 by issuing new registered no-par shares (authorized capital 2018).  
+This authorization may be exercised through one or more issuances.  
+The new shares may be issued against cash and/or contributions in kind. The executive board is authorized, subject to 
+the approval of the supervisory board, to exclude shareholders' statutory subscription rights when issuing new shares in 
+the following cases: 
+
+capital increases against contributions in kind
+
+if the capital increase is against cash and the proportionate share of the capital stock attributable to the
+new shares does not exceed 10 percent of the capital stock, and the issue price of the new shares is not
+significantly below the stock market price of shares already listed on the stock exchange
+
+to exclude fractional amounts arising from the subscription ratio
+
+insofar as is necessary to grant holders and/or creditors of warrants or conversion rights or obligors of
+warrant and/or conversion obligations subscription rights to new shares to the extent that they would
+be entitled to them after exercise of their warrants and/or conversion rights or fulfillment of their
+warrant or conversion obligations
+
+to grant shares to employees (employee stock), provided that the new shares for which subscription
+rights are excluded do not in aggregate account for a proportionate share of the capital stock in excess
+of 1 percent
+
+for the execution of a scrip dividend.
+
+Annual financial statements of Evonik Industries AG 2019 
+17 
+The proportionate amount of the capital stock attributable to the shares for which subscription rights are excluded, 
+together with the proportionate amount of the capital stock attributable to treasury stock or to conversion and/or warrant 
+rights or obligations arising from debt instruments, which are sold or issued after May 23, 2018 under exclusion of 
+subscription rights, may not exceed 20 percent of the capital stock. If the sale or issue takes place in application—
+analogously or mutatis mutandis—of section 186 paragraph 3 sentence 4 of the German Stock Corporation Act (AktG), 
+this shall also be deemed to constitute exclusion of subscription rights. 
+The executive board is authorized, subject to the approval of the supervisory board, to define further details of 
+capital increases out of the authorized capital 2018.  
+The authorized capital has not yet been utilized. 
+( c ) Conditional capital 
+Under a further resolution adopted by the annual shareholders' meeting of May 23, 2018, the capital stock is 
+conditionally increased by up to €37,280,000, divided into up to 37,280,000 registered shares with no par value 
+(conditional capital 2018). This conditional capital increase relates to a resolution of the above shareholders’ meeting 
+granting authorization to issue convertible and/or warrant bonds.  
+The conditional capital increase will only be conducted insofar as holders or creditors of warrant or conversion 
+rights or obligors of warrant or conversion obligations arising from warrant bonds and/or convertible bonds issued or 
+guaranteed on the basis of the authorization resolved at the annual shareholders' meeting of May 23, 2018, exercise 
+their warrants or conversion rights or, insofar as they have an obligation to exercise the warrants or conversion 
+obligations, meet the obligation to exercise the warrant or conversion obligations, and other forms of settlement are not 
+used. In principle, the shareholders have a statutory right to subscription rights to the convertible and/or warrant bonds; 
+the authorization sets out specific cases where the executive board may exclude subscription rights to convertible and/or 
+warrant bonds, subject to the approval of the supervisory board. The new shares shall be issued at the warrant or 
+conversion price set in accordance with the above provisions of the resolution. 
+The new shares are entitled to a dividend from the start of the fiscal year in which they are issued. 
+The executive board is authorized, subject to the approval of the supervisory board, to define further details of capital 
+increases out of the conditional capital. 
+The conditional capital has not yet been utilized. 
+( d ) Treasury shares 
+On March 5, 2019, Evonik Industries AG announced that it would be utilizing the authorization granted by the annual 
+shareholders' meeting on May 18, 2016 to purchase shares in the company totaling up to €143,880 thousand by April 
+5, 2019 at the latest. The purpose of purchasing the shares was to grant shares under an employee share program to 
+employees of Evonik Industries AG and certain subordinated affiliated companies in the Evonik Group, and to members 
+of the management of subordinated affiliated companies of Evonik Industries AG.  
+
+Annual financial statements of Evonik Industries AG 2019 
+18 
+Through this share buyback program, by March 29, 2019 Evonik Industries AG purchased a total of 681,009 shares in 
+the company (corresponding to 0.1 percent or €681,009 of the capital stock). A total of €16.8 million was spent on the 
+shares, corresponding to an average price of €24.67 per share. The purchases were made from March 7, 2019 at an 
+average daily volume of around 40,000 shares on each Xetra trading day through a bank acting on the instructions of 
+Evonik Industries AG. The maximum purchase price of each share repurchased (excluding ancillary costs) could not 
+exceed or fall short of the opening price as set in the opening auction for the trading day for shares in Evonik Industries 
+AG in Xetra trading on the Frankfurt stock exchange by more than 5 percent. In April 2019, 608,209 ordinary shares 
+(including 162,913 bonus shares) were transferred to participating employees on the basis of the share price of €25.53 
+per share and the exchange rates prevailing on April 4, 2019. The remaining 72,800 ordinary shares were sold via the 
+stock exchange by April 29, 2019 at an average price of €26.52 per share. As of December 31, 2019, Evonik Industries 
+AG therefore no longer held any treasury shares. 
+( e ) Capital reserve 
+The capital reserve of €722 million results primarily from additions pursuant to section 272 paragraph 2 no. 4 of the 
+German Commercial Code (HGB). In fiscal 2019, €643 thousand resulting from the purchase and issue of shares for the 
+employee share program was allocated to the capital reserve. 
+( f ) Retained earnings 
+This balance sheet item contains the statutory reserve totaling €47 million. The other retained earnings amounted to 
+€4,231 million as of December 31, 2019 (2018: €4,199 million). 
+The change in the other retained earnings results from the allocation of part of the present net profit of 
+€ 32,068,223.77. 
+( g ) Amounts subject to the ban on distribution 
+The increase in unrealized assets from the fair value measurement of assets offset against pension obligations, which 
+amounted to €236 million, and the difference of €116 million resulting from the change in the discount rate for pensions 
+from a seven-year average to a ten-year average resulted in a total amount of €352 million, which is subject to the ban 
+on distribution. Profits may only be distributed if, after the distribution, this amount is available as freely available reserves 
+plus any profit carried forward and less any loss carried forward. As of December 31, 2019, Evonik Industries AG had 
+sufficient freely available reserves. 
+
+Annual financial statements of Evonik Industries AG 2019 
+19 
+2.8 Provisions 
+Provisions 
+in € million 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Provisions for pensions and similar obligations 
+161 
+152 
+Provisions for taxes 
+196 
+251 
+Other provisions 
+420 
+339 
+thereof attributable to 
+- personnel-related provisions 
+152 
+109 
+- miscellaneous provisions 
+268 
+230 
+777 
+742 
+Valuation of pension provisions using the average market interest rate for the past seven years gives a pension obligation 
+of €1,087 million as of December 31, 2019. Valuation of pension provisions using the average market interest rate for 
+the past ten years gives a pension obligation of €971 million as of December 31, 2019. The difference is €116 million. 
+Provisions for taxes contain appropriate amounts for fiscal years for which tax assessments have not yet been 
+finalized. 
+The other provisions include, among other things, provisions for restructuring, outstanding invoices, and 
+provisions for impending liabilities from pending transactions.  
+Out of the total provisions, €527 million (2018: €495 million) have a remaining term of more than one year. 
+2.9 Liabilities 
+Liabilities
+in € million 
+Dec. 31, 2019 
+Remaining term 
+Total 
+up to  
+1 year 
+more than  
+1 year 
+thereof more 
+than 5 years 
+Bonds 
+500
+1,250
+–
+1,750 
+Liabilities to banks 
+66
+– 
+– 
+66 
+Trade accounts payable 
+32
+– 
+– 
+32 
+Liabilities to affiliated companies 
+4,396 
+600 
+23 
+4,996 
+Other payables 
+29
+– 
+– 
+29 
+of which for taxes 
+6
+– 
+– 
+6 
+of which for social security 
+1 
+– 
+– 
+1 
+5,023
+1,850
+23
+6,873 
+
+Annual financial statements of Evonik Industries AG 2019 
+20 
+Liabilities
+in € million 
+Dec. 31, 2018 
+Remaining term 
+Total 
+up to  
+1 year 
+more than  
+1 year 
+thereof more 
+than 5 years 
+Bonds 
+–
+1,750
+–
+1,750
+Liabilities to banks 
+77
+– 
+– 
+77
+Trade accounts payable 
+74
+– 
+– 
+74
+Liabilities to affiliated companies 
+4,866 
+34 
+25 
+4,900 
+Other payables 
+29
+– 
+– 
+29
+of which for taxes 
+6
+– 
+– 
+6
+of which for social security 
+1 
+– 
+– 
+1 
+5,046
+1,784
+25
+6,830
+The following table shows the breakdown of liabilities to affiliated companies: 
+Liabilities to affiliated companies 
+in € million 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Financial liabilities 
+4,795 
+4,938 
+Trade accounts payable 
+17 
+12 
+Other payables 
+88 
+46 
+4,900 
+4,996 
+The financial liabilities to affiliated companies include loans from RÜTGERS GmbH, Essen (Germany), Evonik Peroxide 
+Holding B.V., Amsterdam (Netherlands), Evonik Dutch Holding B.V., Amsterdam (Netherlands), and RCIV 
+Vermögensverwaltungs-GmbH, Essen (Germany), and other liabilities relating to cash pooling with, among others, 
+Evonik International Holding B.V., Amsterdam (Netherlands), Evonik Finance B.V., Amsterdam (Netherlands), Evonik 
+Corporation, Parsippany (New Jersey, USA), Evonik Technology & Infrastructure GmbH, Essen (Germany), Evonik 
+Resource Efficiency GmbH, Essen (Germany), Evonik Nutrition & Care GmbH, Essen (Germany), Evonik Performance 
+Materials GmbH, Essen (Germany), RÜTGERS Dienstleistungs-GmbH, Essen (Germany), Evonik Degussa (China) Co., 
+Ltd., (China), Evonik Speciality Organics Ltd., Milton Keynes (UK), and Evonik IP GmbH, Gründau (Germany). 
+Further, liabilities to affiliated companies include value-added tax invoiced for the tax entity, imputable taxes, and 
+liabilities for the reimbursement of expenses. 
+The other payables totaling €29 million contain liabilities for interest on bonds (€16 million) and liabilities for the 
+payment of wage tax (€6 million).  
+
+Annual financial statements of Evonik Industries AG 2019 
+21 
+3. Notes to the income statement
+(in € million, except where stated otherwise)  
+3.1 Sales 
+The sales split between the reporting units was as follows in 2019: 
+Sales 
+in € million 
+2018 
+2019 
+IT services 
+207 
+209 
+Procurement 
+297 
+100 
+HR Germany 
+84 
+49 
+Legal, IPM & Compliance 
+38 
+36 
+Financial services 
+24 
+22 
+Other 
+55 
+51 
+705 
+467 
+The regional breakdown of sales in 2019 was as follows: 
+Regional breakdown of sales 
+in € million 
+2018 
+2019 
+Western Europe 
+648 
+407 
+thereof Germany 
+612 
+391 
+North America 
+33 
+34 
+Asia-Pacific North 
+11 
+11 
+Asia-Pacific South 
+8 
+9 
+Central & South America 
+3 
+4 
+Eastern Europe 
+1 
+1 
+Middle East & Africa 
+1 
+1 
+705 
+467 
+The reduction in sales was principally attributable to a change in invoicing processes for the procurement of raw 
+materials. Evonik Industries AG now acts as a procurement intermediary and the raw material purchases are made directly 
+by the Group companies. 
+
+Annual financial statements of Evonik Industries AG 2019 
+22 
+3.2 Other operating income 
+Other operating income 
+in € million 
+2018 
+2019 
+Currency translation gains 
+420 
+454 
+Income from invoicing of project and consultancy costs 
+24 
+29 
+Miscellaneous costs passed through to Group companies 
+21 
+21 
+Miscellaneous other operating income 
+2 
+2 
+Income relating to other periods 
+Income from the reversal of provisions 
+14 
+104 
+Other income relating to other periods 
+3 
+1 
+484 
+611 
+The currency translation gains of €454 million are stated gross in compliance with the ban on netting imposed by section 
+246 paragraph 2 of the German Commercial Code (HGB). Currency translation losses amounted to €442 million. 
+Economically, these two items comprise a single unit. In a net view, the overall result would have been net gain of €12 
+million.  
+3.3 Cost of materials 
+Cost of materials 
+in € million 
+2018 
+2019 
+Expenses for raw materials and supplies 
+253 
+54 
+Expenses for purchased services 
+10 
+4 
+263 
+58 
+3.4 Personnel expense 
+Personnel expense 
+in € million 
+2018 
+2019 
+Wages and salaries 
+346 
+294 
+Social security contributions and expenses for pensions and similar obligations 
+69 
+65 
+of which for pensions 
+34 
+31 
+415 
+359 
+
+Annual financial statements of Evonik Industries AG 2019 
+23 
+3.5 Other operating expense 
+Other operating expense 
+in € million 
+2018 
+2019 
+Currency translation losses 
+419 
+442 
+IT expense 
+136 
+133 
+Corporate services 
+72 
+79 
+Legal and consulting expenses 
+51 
+75 
+Rental costs 
+19 
+25 
+Expenses for additions to provisions 
+34 
+4 
+Patent expenses 
+3 
+3 
+Other taxes 
+2 
+2 
+Miscellaneous other operating expense 
+117 
+101 
+Expenses relating to other periods 
+Miscellaneous other operating expense 
+2 
+2 
+855 
+866 
+The currency translation losses of €442 million are stated gross in compliance with the ban on netting imposed by section 
+246 paragraph 2 of the German Commercial Code (HGB). Currency translation gains amounted to €454 million. 
+Economically, these two items comprise a single unit. In a net view, the overall result would have been net gain of 
+€12 million.  
+3.6 Income from investments 
+Income from investments 
+in € million 
+2018 
+2019 
+Income from profit-and-loss transfer agreements 
+563 
+1,473 
+Income from investments 
+1 
+1 
+564 
+1,474 
+The year-on-year increase in income from profit-and-loss transfer agreements mainly results from a higher profit transfer 
+from Evonik Operations GmbH. The increase is primarily attributable to the divestment of the methacrylates business.  
+3.7 Write-downs of financial assets and current securities 
+Write-downs of financial assets and current securities totaled €6 million (2018: €15 million). This amount resulted from 
+the write-down of €6 million on the segregated funds. 
+3.8 Write-ups of financial assets and current securities 
+Write-ups of financial assets totaled €17 million (2018: €11 million) and resulted from the write-up of two affiliated 
+companies. 
+
+Annual financial statements of Evonik Industries AG 2019 
+24 
+3.9 Net interest expense 
+Net interest expense 
+in € million 
+2018 
+2019 
+Other interest and similar income 
+99 
+111 
+of which from affiliated companies 
+80 
+83 
+Interest and similar expenses 
+-235 
+-139 
+of which for interest on provisions 
+-124 
+-3 
+of which due to affiliated companies 
+-19 
+-28 
+-136 
+-28 
+The €69 million change in interest relating to pensions and personnel-related commitments is included in interest and 
+similar expense. The income of €101 million from pension fund assets resulting from the general market situation in the 
+fiscal year is also included in interest and similar expense. 
+3.10 Deferred taxes 
+If a company forms part of a tax entity, deferred taxes are assigned to the controlling company (formal viewpoint). 
+Deferred taxes were recognized for temporary differences between the valuation of assets, liabilities, and 
+deferred items for the commercial accounts and their tax valuations; these differences are expected to be reduced in 
+future fiscal years. The resulting tax relief led to the establishment of deferred tax assets (especially for differences 
+relating to loans and other receivables). Deferred tax liabilities resulted from future tax expense (especially for 
+differences relating to provisions for pensions and to other provisions). Deferred tax assets and liabilities have been 
+netted. In accordance with section 274 paragraph 1 sentence 2 of the German Commercial Code (HGB), net deferred 
+tax assets relating to temporary differences were not capitalized. 
+3.11 Income taxes 
+The income taxes totaling €245 million comprise tax expense of €205 million for current taxes and tax expense of 
+€40 million relating to previous years. The current tax expense comprises corporation tax of €99 million, including the 
+solidarity surcharge, and trade tax of €106 million. 
+
+Annual financial statements of Evonik Industries AG 2019 
+25 
+4. Other disclosures
+4.1 Further information on the reporting period 
+Average number of employees during the year 
+No. of employees 
+2018 
+2019 
+Exempt employees 
+1,211 
+1,181 
+Other employees 
+1,409 
+1,299 
+2,620 
+2,480 
+Auditor’s fees 
+The auditor for the annual financial statements of Evonik Industries AG was PricewaterhouseCoopers GmbH 
+Wirtschaftsprüfungsgesellschaft (PwC), Frankfurt (Germany), Düsseldorf branch. 
+Audit fees were incurred for Evonik Industries AG and the companies it controls, in particular for the statutory 
+audit of the separate and consolidated financial statements of Evonik Industries AG, reviews of interim financial 
+statements, audit-related support in connection with the implementation of new financial reporting standards, and the 
+audit of information systems and processes. In addition, other audit-related services were provided, especially services 
+in connection with regulatory and statutory requirements, and other services, principally project-related consultancy 
+services in connection with the optimization and management of business processes. 
+As permitted by section 285 no. 17 of the German Commercial Code (HGB), no information is given on the 
+auditor’s fees as these are included in the consolidated financial statements of Evonik Industries AG, Essen (Germany).  
+4.2 Contingent liabilities 
+Contingent liabilities 
+in € million 
+Dec. 31, 2018 
+Dec. 31, 2019 
+Guarantee obligations 
+80 
+74 
+of which liabilities relating to retirement pensions 
+– 
+– 
+of which for the benefit of affiliated companies 
+80 
+74 
+of which for the benefit of associates 
+– 
+– 
+Obligations under indemnity guarantees 
+2,441 
+2,530 
+of which liabilities relating to retirement pensions 
+126 
+65 
+of which for the benefit of affiliated companies 
+2,441 
+2,527 
+of which for the benefit of associates 
+– 
+– 
+2,521 
+2,604 
+As part of its financing activities for the Evonik Group, Evonik Industries AG provides banks with guarantees and 
+indemnities in respect of companies in the Evonik Group. Further, Evonik Industries AG has provided guarantees and 
+indemnities for possible obligations of Group companies towards third parties. 
+All guarantees and indemnities are continuously monitored by the Corporate Finance department. They are 
+provided almost exclusively to assure the activities of companies in the Evonik Group so utilization is not likely. 
+Credit insurance guarantees totaled €1,991 million and are examined as part of the monthly financial reporting 
+and liquidity planning process. The liquidity of the subsidiaries in the Evonik Group is ensured through a uniform 
+corporate financing strategy, so utilization is not likely.  
+
+Annual financial statements of Evonik Industries AG 2019 
+26 
+Contract fulfillment guarantees amounted to €174 million. Group companies are required to meet the contractual 
+obligations they have entered into. Controlling of contracts at individual companies ensures ongoing monitoring so 
+utilization of these guarantees is not probable. 
+As well as the guarantee obligations and indemnity guarantees of Evonik Industries AG, contract fulfillment 
+guarantees include guarantees in respect of credit balances for the phased early retirement plan under statutory 
+insolvency requirements. These credit balances are covered by guarantees that are renewed every six months and cover 
+the maximum balance in the relevant period. The level of these guarantees is based on the companies included in the 
+guarantees and the forecast data on the number of employees to be covered by the guarantees. The trustee for this 
+guarantee model for the phased early retirement plan is Deutsche Treuinvest-Stiftung, Frankfurt am Main (Germany). 
+As of December 31, 2019, the guarantees totaled €65 million. 
+There are also other guarantees amounting to €439 million. Since these are managed by the responsible specialist 
+departments, especially the Legal Division, it is assumed that they will not be utilized. 
+Evonik has issued letters of comfort for affiliated companies in which it undertakes to provide liquid assets for 
+these companies insofar as is necessary to enable them to settle obligations in existence as of December 31, 2019 and 
+those that arise in 2020 and that are due in not less than twelve months from December 31, 2019. The liquidity of the 
+subsidiaries in the Evonik Group is ensured through a uniform corporate financing strategy, so utilization is not likely.  
+
+Annual financial statements of Evonik Industries AG 2019 
+27 
+4.3 Information pursuant to section 285 no. 3 and no. 3a of the German Commercial 
+Code (HGB) 
+Information pursuant to section 285 no. 3 and no. 3a of the German Commercial Code (HGB) 
+in € million 
+Dec. 31, 2019 
+Commitments arising from rental and leasing contracts 
+due in 2020 
+16 
+due in 2021 
+16 
+due in 2022 
+13 
+due in 2023 
+11 
+due in 2024 
+11 
+due after 2024 
+18 
+Sub-total 
+85 
+of which for the benefit of affiliated companies 
+13 
+of which for the benefit of associates 
+- 
+of which relating to retirement pensions 
+- 
+Order commitments relating to investments 
+8 
+Commitments under long-term offtake agreements and other legal commitments 
+due in 2020 
+71 
+due in 2021 
+44 
+due in 2022 
+28 
+due in 2023 
+20 
+due in 2024 
+18 
+due after 2024 
+18 
+Sub-total 
+199 
+of which for the benefit of affiliated companies 
+- 
+of which for the benefit of associates 
+- 
+of which relating to retirement pensions 
+- 
+Total 
+292 
+4.4 Financial derivatives 
+In the course of its business, Evonik Industries AG is exposed to currency and interest rate risks. Financial derivatives are 
+used to reduce or eliminate these risks. Foreign currency receivables and liabilities are hedged. Moreover, Evonik 
+Industries AG concludes financial derivatives contracts on behalf of subsidiaries. Financial derivatives contracts are only 
+concluded with banks and trading institutions with first-class credit standing within fixed limits. Only common 
+instruments found on the market with sufficient liquidity are used. Therefore Evonik assumes that there are no material 
+credit risks.  
+Forward exchange rate agreements, currency options, and cross-currency interest rate swaps were concluded in 
+fiscal 2019 to hedge currency risks. Their fair values were determined with the aid of a discounted cash flow method or 
+option pricing models on the basis of the exchange rates at the European Central Bank, observed interest rate structure 
+curves, and FX volatilities.  
+
+Annual financial statements of Evonik Industries AG 2019 
+28 
+Fair values are recognized using the imparity principle: Negative fair values are recognized as provisions for impending 
+losses unless they are included in a valuation portfolio or form a valuation unit with corresponding underlying 
+transactions. Under its currency hedging policy, Evonik Industries AG has passed on some forward exchange rate 
+agreements concluded with subsidiaries to banks on a back-to-back basis and grouped some to form a currency portfolio. 
+The amount remaining after internal netting is hedged with banks. Forward exchange rate agreements concluded with 
+banks on a back-to-back basis and the corresponding counter-transactions with subsidiaries are combined in valuation 
+units through macro hedges. These are presented as net hedges so the valuation result is low. The critical terms match 
+method is applied to determine the effectiveness of the hedging relationship and the average term of the derivatives is 
+less than one year. In addition, Evonik Industries AG establishes currency portfolios for those transactions that are not 
+passed on through other transactions. In the portfolio approach, the net risk position in each foreign currency is 
+determined for each company in the Evonik Group and then hedged via intragroup investment or borrowing via the cash 
+pool. The remaining net risk positions on cash pool balances are hedged on a currency-by-currency basis using external 
+forward exchange rate agreements. As of December 31, 2019, provisions for impending losses totaling €3 million were 
+established for negative balances on these currency portfolios and the negative fair values of forward exchange 
+agreements for which no counter-transaction was recognized on the balance sheet. By forming valuation units for 
+receivables and liabilities from cash pooling and the associated hedging transactions, it was possible to avoid the 
+recognition of a provision of €10 million for impending losses. The amounts relating to the establishment of these 
+provisions are shown in other operating expense. 
+The following hedged items are included in valuation units with forward exchange rate agreements at the nominal 
+amounts given below: 
+Items hedged by forward exchange rate agreements 
+in € million 
+Dec. 31, 2019 
+Assets 
+3,208 
+Liabilities 
+1,793 
+5,001 
+To hedge the planned acquisition of PeroxyChem, Evonik Industries AG concluded a US dollar currency option with a 
+US bank, which expires in February 2020, and passed this on to its Dutch subsidiary on a back-to-back basis in accordance 
+with the hedging strategy outlined above. These two transactions have been combined in a valuation unit.  
+As of the reporting date, Evonik Industries AG had the following derivative financial instruments to hedge currency risks: 
+Financial derivatives used to hedge interest rate and currency risks 
+in € million 
+Notional value  
+< 1 year 
+Notional value  
+> 1 year
+Fair value 
+Dec. 31, 2019 
+Dec. 31, 2019 
+Dec. 31, 2019 
+External 
+Intragroup 
+External 
+Intragroup 
+Positive 
+Negative 
+Forward exchange rate agreements and currency 
+options
+5,310 
+1,883
+224
+224
+58
+77
+Cross-currency interest rate swaps 
+– 
+– 
+460 
+496 
+33 
+33 
+
+Annual financial statements of Evonik Industries AG 2019 
+29 
+Further, as of December 31, 2019 the portfolio contained an external, long-term interest rate swap with a notional value 
+of €650 million and a positive fair value of €2 million. This was passed on to a subsidiary on identical terms in accordance 
+with the principles outlined above. As a result, the internal interest rate has a notional value of €650 million and a 
+negative fair value of €2 million.  
+The notional values are stated as absolute values; the fair values include accrued interest.  
+4.5 Performance-related remuneration 
+Evonik's remuneration system comprises a basic salary, annual short-term incentive payments and, as a long-term 
+component, the long-term incentive (LTI) plans for members of the executive board and other executives. Following the 
+stock exchange listing, the performance of Evonik shares became the central element in the LTI plan for the first time in 
+2013. The redesigned LTI plan was introduced for both executive board members and other executives.  
+The LTI plans comprise share-based payments with cash settlement. The plans are valued on the reporting date 
+using a Monte Carlo simulation, which models exercise patterns. The LTI plans result in personnel expense which is 
+distributed over the term of each tranche. 
+Performance is measured by the absolute performance of Evonik's share price and its performance relative to the 
+MSCI World Chemicals IndexSM. 
+Based on the contractually agreed target amount, which is defined in euros, a number of virtual shares is calculated 
+using the share price at the start of the performance period. This is based on the price in the last 60 trading days before 
+the start of the performance period. The performance period starts on January 1 of the grant year and runs for four years. 
+At the end of the performance period, the starting price of Evonik shares is viewed against the average share price at the 
+end of the performance period. This is compared with the performance of the benchmark index (total shareholder 
+return). 
+If the relative performance is below 70 percentage points, the relative performance factor is deemed to be zero. 
+If the relative performance is above 130 percentage points, the relative performance factor is set at 130.  
+The payment is calculated by multiplying the relative performance by the number of virtual shares allocated and 
+the average price of Evonik shares at the end of the performance period.  
+For LTI tranches up to and including 2018, there is a one-time option to extend the tranche for a further year at 
+the end of the performance period. Partial exercise at the end of the original performance period is not permitted. The 
+upper limit for these payments is set at 300 percent of the individual target amount. 
+Starting in 2019, the intrinsic value of the LTI is no longer measured at the end of the performance period; instead 
+it is measured at the end of each year in the four-year performance period. In line with previous practice, the starting 
+price of Evonik shares is viewed against the average share price at the end of each year of the performance period, plus 
+any dividends per share actually paid in this period. This is then compared with the performance of the benchmark index 
+(total shareholder return). At the end of the performance period, the overall performance is calculated as the average of 
+the performance in each year. There is no longer an option to extend the performance period. 
+As of December 31, 2019, total provisions for share-based payment amounted to €20.4 million (2018: 
+€27.2 million). In 2019, total expense for share-based payment was €7.9 million (2018: €2.8 million). 
+
+Annual financial statements of Evonik Industries AG 2019 
+30 
+4.6 Related parties 
+The presentation includes all material transactions with related parties. Under the German Commercial Code (HGB), the 
+provisions of IAS 24 are used to define related parties.  
+Transactions with related parties in 2019 
+Type of transaction 
+Type of related party 
+in € million 
+Affiliated 
+companies 
+Public sector 
+ companies 
+Contingent liabilities 
+2,601
+–
+Currency translation gains 
+217
+–
+Currency translation losses 
+141
+–
+Services provided 
+431
+–
+Reimbursement of costs and other expenses 
+90
+1
+Interest income 
+84
+–
+Income from costs that were passed through 
+46
+–
+Interest expense 
+28
+–
+Rental income 
+4
+–
+Other financial obligations 
+13
+1
+Rental expenses 
+16
+–
+For information on income and expenses relating to profit-and-loss transfer agreements with subsidiaries, please see 
+note 3.6. The dividend for fiscal 2018 was paid in the second quarter of 2019, following the adoption of the resolution 
+by the annual shareholders' meeting on May 28, 2019. RAG-Stiftung, Essen (Germany) received €344 million. 
+Related parties also include members of the management who are directly or indirectly responsible for corporate 
+planning, management, and oversight of the Evonik Group, and members of their families. At Evonik, these parties 
+comprise the executive board and supervisory board of Evonik Industries AG, and the executive board and board of 
+trustees of RAG-Stiftung. 
+For details of the remuneration paid to the members of the executive board and supervisory board, please see the 
+information pursuant to section 285 no. 9 of the German Commercial Code (HGB) (and note 4.8).  
+
+Annual financial statements of Evonik Industries AG 2019 
+31 
+4.7 Members of the executive board and supervisory board 
+Members of the executive board 
+Christian Kullmann, Hamminkeln 
+Chairman of the Executive Board  
+a)
+Borussia Dortmund GmbH & Co. KGaA
+Dr. Harald Schwager, Speyer 
+Deputy Chairman of the Executive Board 
+a)
+Evonik Nutrition & Care GmbH (Chair)
+Evonik Resource Efficiency GmbH (Chair)
+Evonik Performance Materials GmbH (Chair)
+b)
+KSB Management SE
+Thomas Wessel, Recklinghausen 
+Chief Human Resources Officer/Industrial Relations Director 
+a)
+Evonik Nutrition & Care GmbH
+Evonik Resource Efficiency GmbH
+Evonik Performance Materials GmbH
+Evonik Technology & Infrastructure GmbH (Chair)
+Pensionskasse Degussa VVaG (Chair)
+Vivawest GmbH
+Vivawest Wohnen GmbH
+b)
+Gesellschaft zur Sicherung von Bergmannswohnungen mbH
+Ute Wolf, Düsseldorf 
+Chief Financial Officer 
+a)
+DWS Group GmbH & Co. KGaA
+Evonik Nutrition & Care GmbH
+Evonik Resource Efficiency GmbH
+Evonik Performance Materials GmbH
+Klöckner & Co. SE
+Pensionskasse Degussa VVaG
+b)
+Borussia Dortmund Geschäftsführungs-GmbH
+Key: 
+a) Membership of statutory supervisory boards.
+b) Membership of comparable German and foreign supervisory bodies of business enterprises pursuant to section
+125 paragraph 1 sentence 5 of the German Stock Corporation Act (AktG).
+
+Annual financial statements of Evonik Industries AG 2019 
+32 
+Members of the supervisory board 
+Bernd Tönjes, Marl 
+Chairman of the Supervisory Board 
+Chairman of the Executive Board of RAG-Stiftung 
+a)
+RAG Aktiengesellschaft (Chair)
+RAG Deutsche Steinkohle AG (Chair) (until April 26, 2019)
+RSBG SE (Chair) (since August 22, 2019)
+b)
+DEKRA e.V.
+Edeltraud Glänzer, Hanover 
+Deputy Chairwoman of the Supervisory Board 
+Political Secretary for Special Matters of the German Mining, Chemical and Energy Industrial Union (IG BCE) 
+a)
+B. Braun Melsungen AG
+Merck KGaA
+Martin Albers, Dorsten 
+Chairman of the Group Works Council of Evonik Industries AG 
+Chairman of the Works Council of the jointly operated Essen campus 
+Prof. Barbara Albert, Darmstadt 
+Professor of Solid State Chemistry at the Eduard-Zintl Institute of Inorganic  
+and Physical Chemistry of the Technical University of Darmstadt 
+a)
+Schunk GmbH
+Jens Barnhusen, Bottrop 
+Chairman of the Works Council for Evonik's Goldschmidtstrasse facilities 
+a)
+Pensionskasse Degussa VVaG
+Prof. Aldo Belloni, Eurasburg 
+Chairman of the Executive Board of Linde Aktiengesellschaft (until February 28, 2019) 
+b)
+TÜV Süd e. V.
+Karin Erhard, Hanover 
+Member of the Central Board of Executive Directors of the German Mining, Chemical and Energy Industrial Union 
+(IG BCE) 
+
+Annual financial statements of Evonik Industries AG 2019 
+33 
+Prof. Barbara Grunewald, Bonn 
+Professor and Chair for Civil Law and Commercial Law  
+at the University of Cologne (until February 28, 2019) 
+Martin Kubessa, Velbert 
+Member of the Works Council for Evonik's Marl facilities 
+a)
+Evonik Technology & Infrastructure GmbH (until February 28, 2019)
+Frank Löllgen, Cologne 
+Regional Director North Rhine of the German Mining, Chemical, and Energy  
+Industrial Union (IG BCE) 
+a)
+Bayer AG
+Dr. Siegfried Luther, Gütersloh 
+Former Chief Financial Officer of Bertelsmann AG (now Bertelsmann SE & Co. KGaA) 
+a)
+Schaeffler AG (until April 24, 2019)
+Sparkasse Gütersloh-Rietberg
+Hussin El Moussaoui, Brachttal Schlierbach 
+(since December 11, 2019) 
+Deputy Chairman of the Group Works Council of Evonik Industries AG 
+Deputy Chairman of the Works Council of the jointly operated Hanau site 
+a)
+Evonik Technology & Infrastructure GmbH
+Martina Reisch, Rheinfelden 
+(since May 13, 2019) 
+Chairwoman of the Works Council of the jointly operated Rheinfelden site 
+a)
+Evonik Resource Efficiency GmbH
+Michael Rüdiger, Utting am Ammersee 
+Chairman of the Executive Board of DekaBank Deutsche Girozentrale (until December 31, 2019) 
+a)
+Deka Immobilien GmbH (until September 16, 2019)
+Deka Investment GmbH (Chair) (until December 31, 2019)
+Deka Vermögensmanagement GmbH (Chair)
+(formerly: Landesbank Berlin Investment GmbH) (until December 31, 2019)
+Dr. Thomas Sauer, Bad Homburg 
+Chairman of the Executive Staff Council of the Evonik Group 
+Peter Spuhler, Weiningen (Switzerland) 
+Chairman of the Board of Directors of Stadler Rail AG, Bussnang (Switzerland) and of 
+PCS Holding AG, Frauenfeld (Switzerland) 
+a)
+Robert Bosch GmbH, Stuttgart (since April 1, 2019)
+
+Annual financial statements of Evonik Industries AG 2019 
+34 
+b)
+Aebi Schmidt Holding AG, Frauenfeld (Switzerland) (Chair)
+AngelStar S.r.l., Mola di Bari (Italy)
+Allreal Holding AG, Zug (Switzerland)
+Autoneum Holding AG, Winterthur (Switzerland)
+Chesa Sül Spelm AG, Frauenfeld (Switzerland)
+DSH Holding AG, Warth-Weiningen (Switzerland)
+Estonia Train Finance AG, Frauenfeld (Switzerland) (Chair)
+European Loc Pool AG, Frauenfeld (Switzerland)
+Nordic Train Finance AG, Frauenfeld (Switzerland) (Chair)
+Rana Aps AG, Warth-Weiningen (Switzerland) (Chair)
+Rana Aps Iberica S.L., Warth-Weiningen (Switzerland) (Chair)
+Rieter Holding AG, Winterthur (Switzerland)
+Stadler CIS AG, Bussnang (Switzerland) (Chair)
+Stadler Minsk CJSC, Minsk (Belarus) (Chair)
+Stadler Pankow GmbH, Berlin (Chair)
+Stadler Trains Magyarország Kft., Budapest (Hungary)
+Stadler US Inc., Westfield (USA)
+Wohnpark Promenade AG, Frauenfeld (Switzerland)
+ZLE Betriebs AG, Zurich (Switzerland)
+until June 27, 2019: 
+Gleisag Gleis- und Tiefbau AG, Goldach (Switzerland) (Chair) 
+Walo Bertschinger AG, Zurich (Switzerland) 
+Anke Strüber-Hummelt, Marl 
+Deputy Chairwoman of the Group Works Council of Evonik Industries AG 
+Chairwoman of the Works Council for Evonik's Marl facilities 
+Angela Titzrath, Hamburg 
+Chairwoman of the Executive Board of Hamburger Hafen und Logistik AG 
+a)
+Talanx AG
+Dr. Volker Trautz, Munich 
+Former Chairman of the Executive Board of LyondellBasell Industries  
+a)
+Citigroup Global Markets Deutschland AG
+b)
+CERONA Companhia de Energia Renovável, São Paulo (Brazil)
+Ulrich Weber, Krefeld 
+Former member of the Executive Board, Human Resources & Law, of Deutsche Bahn AG 
+a)
+HDI Global SE
+ias Aktiengesellschaft
+b)
+ias Stiftung
+
+Annual financial statements of Evonik Industries AG 2019 
+35 
+The following members left the supervisory board of Evonik Industries AG in 2019: 
+Carmen Fuchs, Alzenau 
+(until December 11, 2019) 
+Member of the Group Works Council of Evonik Industries AG 
+Chairwoman of the Works Council of the jointly operated Hanau site (until October 31, 2019) 
+Michael Hofmann, Griesheim 
+(until April 30, 2019) 
+Member of the Works Council for the Darmstadt/Weiterstadt/Wörth facilities 
+Key: 
+a) Membership of statutory supervisory boards.
+b) Membership of comparable German and foreign supervisory bodies of business enterprises pursuant to section
+125 paragraph 1 sentence 5 of the German Stock Corporation Act (AktG).
+
+Annual financial statements of Evonik Industries AG 2019 
+36 
+4.8 Total remuneration of the executive board and supervisory board 
+The total remuneration paid to the members of the executive board for their work in 2019 was €12,387 thousand 
+(2018: €11,969 thousand). The figure for 2019 includes bonus payments of €594 thousand for the previous year, for 
+which no provision was established in 2018. The total remuneration also contains the fair value of the LTI plan 2019 as 
+of the legally binding commitment or grant date. As of the grant date, this comprised €4,026 thousand over the four-
+year performance period. There are a total of 181,784 virtual shares that will be used as the calculation basis to determine 
+possible future payments. This is performance-related remuneration.  
+Current expenses for pension provisions for the executive board totaled €2,066 thousand (2018: 
+€1,860 thousand). The settlement amount of the pension obligations was €17,844 thousand on December 31, 2019 
+(2018: €13,662 thousand). 
+Total remuneration of former members of the executive board and their surviving dependents was 
+€2,515 thousand in 2019 (2018: €1,546 thousand). 
+As of the reporting date €65,314 thousand (2018: €61,985 thousand) was allocated to provisions for pension 
+obligations to former members of the executive board and their surviving dependents. 
+The remuneration of the supervisory board for 2019 totaled €3,383 thousand (2018: €3,469 thousand). 
+Details of the remuneration system of the executive board members, together with an individual breakdown of 
+the amounts paid to executive board and supervisory board members can be found in the remuneration report in the 
+combined management report for Evonik Industries AG for 2019. 
+4.9 Declaration of conformity with the German Corporate Governance Code 
+The executive board and supervisory board have issued a declaration of conformity in accordance with section 161 of 
+the German Stock Corporation Act (AktG). This has been published on the company’s website at 
+www.evonik.com/responsibility and as part of the declaration on corporate governance in accordance with section 289f 
+of the German Commercial Code (HGB).  
+4.10 Information pursuant to section 160 paragraph 1 no. 8 of the German Stock 
+Corporation Act (AktG) 
+Notifications pursuant to section 40 paragraph 1 of the German Securities Trading Act (WpHG)1 
+As of the date of finalization of the financial statements we had received the following notifications of shareholdings in 
+Evonik Industries AG pursuant to section 33 paragraph 1 or paragraph 2 of the German Securities Trading Act (WpHG)1. 
+Under this Act, notification must be submitted not only of directly acquired voting rights in the company (section 33 
+WpHG1), but also of those voting rights attributable to the notifier through a subsidiary or a third party with which the 
+notifier has a contractual agreement governed by the law of obligations (section 34 paragraph 1 WpHG1). Further, voting 
+rights may be attributable to shareholders on the basis of shareholder agreements (section 34 paragraph 2 WpHG1). The 
+total voting rights disclosed therefore comprise both directly acquired voting rights and those determined indirectly on 
+the basis of attribution. 
+Note that in each case these notifications relate to the date stated in the notification. Consequently, the notifier’s 
+shareholding could have changed as of the date of preparation of this list, without the notifier being required to submit 
+a new notification in accordance with section 33 WpHG1, if no relevant threshold was involved. 
+1 In the version valid from January 3, 2018.
+
+Annual financial statements of Evonik Industries AG 2019 
+37 
+Notifications pursuant to section 33 paragraph 1 of the German Securities Trading Act (WpHG)2 
+Notifier 
+Date of change 
+Threshold 
+Voting rights 
+Attributable voting rightsa 
+in % 
+absolute 
+Government of Singapore, 
+represented by the 
+Finance Minister, 
+Singapore (Republic of 
+Singapore) 
+Oct. 6, 2016 
+3 % 
+0.39  
+1,806,000 
+0.39% attributable pursuant to section 22 
+WpHG 
+CVC Nominees Limited, 
+St. Helier (Jersey) 
+May 31, 2016 
+3 % 
+1.33  
+6,185,556 
+1.33% attributable pursuant to section 22 
+WpHG 
+BlackRock, Inc., 
+Wilmington (Delaware, 
+USA) 
+Feb. 7, 2017 
+3 % 
+2.97  
+13,848,139 
+2.97 % attributable pursuant to section 22 
+WpHG 
+RAG-Stiftung, Essen 
+(Germany) 
+Jul. 16, 2015 
+75 % 
+74.04  
+345,005,998 
+6.13% attributable pursuant to section 22 
+paragraph 2 WpHG; the voting rights of The 
+Gabriel Finance Limited Partnership exceed 3% 
+a The sections cited here relate to the version of the law in force at the time of the respective voting rights notifications. 
+4.11 Inclusion in the consolidated financial statements of RAG-Stiftung 
+RAG-Stiftung, Essen (Germany) is the parent company of Evonik Industries AG, and prepares the consolidated financial 
+statements for largest and smallest groups of companies. The consolidated financial statements are published in the 
+Federal Gazette. 
+The consolidated financial statements for Evonik Industries AG are also published in the Federal Gazette.  
+4.12 List of shareholdings 
+List of shareholdings 
+Name  
+Registered office 
+Share-
+holding 
+in % 
+Fiscal       
+year 
+Foot- 
+note 
+Equity in  
+€ million 
+Net In-
+come/loss  
+before P/L 
+transfer 
+Consolidated subsidiaries: Germany 
+1 
+BK-Wolfgang-Wärme GmbH 
+Hanau 
+100.00 
+2019 
+3 
+– 
+2 
+CPM Netz GmbH 
+Essen 
+100.00 
+2019 
+1
+1
+5
+3 
+Evonik Animal Nutrition GmbH 
+Essen 
+100.00 
+2019 
+23 
+-5 
+4 
+Evonik Beteiligungs-GmbH 
+Frankfurt am Main 
+100.00 
+2019 
+1
+1
+–
+5 
+Evonik Catering Services GmbH 
+Marl 
+100.00 
+2019 
+1
+–
+4
+6 
+Evonik Creavis GmbH 
+Essen 
+100.00 
+2019 
+1
+5
+–
+7 
+Evonik Dahlenburg GmbH 
+Dahlenburg 
+100.00 
+2019 
+1
+2
+1
+8 
+Evonik Digital GmbH 
+Essen 
+100.00 
+2019 
+1
+3
+-7
+9 
+Evonik Dr. Straetmans GmbH 
+Hamburg 
+100.00 
+2019 
+1
+15
+6
+10 
+Evonik Eastern Europe GmbH 
+Essen 
+100.00 
+2019 
+– 
+– 
+11 
+Evonik Functional Solutions GmbH 
+Essen 
+100.00 
+2019 
+1
+20
+1
+12 
+Evonik Goldschmidt Rewo GmbH 
+Essen 
+100.00 
+2019 
+-6 
+-69 
+
+Annual financial statements of Evonik Industries AG 2019 
+38 
+Name  
+Registered office 
+Share-
+holding 
+in % 
+Fiscal       
+year 
+Foot- 
+note 
+Equity in  
+€ million 
+Net In-
+come/loss  
+before P/L 
+transfer 
+13 
+Evonik Gorapur GmbH 
+Wittenburg 
+100.00 
+2019 
+1 
+25
+-3
+14 
+Evonik IP GmbH 
+Gründau 
+100.00 
+2019 
+1 
+142
+79
+15 
+Evonik Logistics Services GmbH 
+Marl 
+100.00 
+2019 
+1 
+1
+2
+16 
+Evonik Materials GmbH 
+Marl 
+100.00 
+2019 
+1 
+14
+1
+17 
+Evonik Nutrition & Care GmbH 
+Essen 
+100.00 
+2019 
+1 
+234
+14
+18 
+Evonik Operations GmbH 
+Essen 
+100.00 
+2019 
+1 
+6,849 
+1,470 
+19 
+Evonik Performance Materials GmbH 
+Essen 
+100.00 
+2019 
+1 
+243
+11
+20 
+Evonik Real Estate GmbH & Co. KG 
+Marl 
+100.00 
+2019 
+184 
+38 
+21 
+Evonik Real Estate Verwaltungs-GmbH 
+Marl 
+100.00 
+2019 
+– 
+– 
+22 
+Evonik Resource Efficiency GmbH 
+Essen 
+100.00 
+2019 
+1 
+284
+37
+23 
+Evonik Risk and Insurance Services 
+GmbH 
+Essen
+100.00 
+2019
+1 
+1
+3
+24 
+Evonik Technology & Infrastructure 
+GmbH 
+Essen
+100.00 
+2019
+1 
+303
+-2
+25 
+Evonik Venture Capital GmbH 
+Hanau 
+100.00 
+2019 
+1 
+9
+-3
+26 
+HD Ceracat GmbH 
+Frankfurt am Main 
+100.00 
+2019 
+91 
+5 
+27 
+KMV Vermögensverwaltungs-GmbH 
+Marl 
+100.00 
+2019 
+10 
+– 
+28 
+RBV Verwaltungs-GmbH 
+Essen 
+100.00 
+2019 
+501 
+11 
+29 
+RCIV Vermögensverwaltungs-GmbH 
+Essen 
+100.00 
+2019 
+1 
+26
+-2
+30 
+RÜTGERS Dienstleistungs-GmbH 
+Essen 
+100.00 
+2019 
+1 
+6
+-13
+31 
+RÜTGERS GmbH 
+Essen 
+100.00 
+2019 
+313 
+4 
+32 
+Stockhausen Unterstützungseinrichtung 
+GmbH 
+Krefeld
+100.00 
+2019
+ 
+–
+– 
+33 
+Westgas GmbH 
+Marl 
+100.00 
+2019 
+1 
+8
+11
+Consolidated subsidiaries: other countries 
+34 
+Degussa International, Inc.
+Wilmington (Delaware, 
+USA) 
+100.00
+2019
+ 
+1,380
+38
+35 
+DSL. Japan Co., Ltd. 
+Tokyo (Japan) 
+51.00 
+2019 
+14 
+4 
+36 
+Egesil Kimya Sanayi ve Ticaret A.S. 
+Istanbul (Turkey) 
+51.00 
+2019 
+25 
+16 
+37 
+Evonik Advanced Botanicals S.A.S. 
+Parcay Meslay (France) 
+100.00 
+2019 
+2 
+– 
+38 
+Evonik Aerosil France S.A.R.L. 
+Salaise-sur-Sanne (France) 
+100.00 
+2019 
+3 
+– 
+39 
+Evonik Africa (Pty) Ltd. 
+Midrand (South Africa) 
+100.00 
+2019 
+15 
+– 
+40 
+Evonik Amalgamation Ltd. 
+Milton Keynes (UK) 
+100.00 
+2019 
+– 
+– 
+41 
+Evonik Antwerpen NV 
+Antwerp (Belgium) 
+100.00 
+2019 
+241 
+18 
+42 
+Evonik Argentina S.A. 
+Buenos Aires (Argentina) 
+100.00 
+2019 
+10 
+1 
+43 
+Evonik Australia Pty Ltd. 
+Mount Waverley (Australia) 
+100.00 
+2019 
+5 
+1 
+44 
+Evonik Brasil Ltda. 
+São Paulo (Brazil) 
+100.00 
+2019 
+207 
+20 
+45 
+Evonik Canada Inc. 
+Calgary (Canada) 
+100.00 
+2019 
+54 
+11 
+46 
+Evonik Catalysts India Pvt. Ltd. 
+Dombivli (India) 
+100.00 
+2019 
+24 
+4 
+47 
+Evonik Chemicals Ltd. 
+Milton Keynes (UK) 
+100.00 
+2019 
+123 
+13 
+48 
+Evonik Chile SpA 
+Santiago (Chile) 
+100.00 
+2019 
+– 
+– 
+49 
+Evonik Colombia S.A.S. 
+Medellín (Colombia) 
+100.00 
+2019 
+– 
+– 
+
+Annual financial statements of Evonik Industries AG 2019 
+39 
+Name  
+Registered office 
+Share-
+holding 
+in % 
+Fiscal       
+year 
+Foot- 
+note 
+Equity in  
+€ million 
+Net In-
+come/loss  
+before P/L 
+transfer 
+50 
+Evonik Corporation 
+Parsippany (New Jersey, 
+USA) 
+100.00
+2019
+ 
+3,614
+644
+51 
+Evonik Degussa Africa (Pty) Ltd. 
+Midrand (South Africa) 
+100.00 
+2019 
+– 
+– 
+52 
+Evonik Degussa (China) Co., Ltd. 
+Beijing (China) 
+100.00 
+2019 
+192 
+103 
+53 
+Evonik Dutch Holding B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+42 
+– 
+54 
+Evonik España y Portugal, S.A.U. 
+Granollers (Spain) 
+100.00 
+2019 
+30 
+2 
+55 
+Evonik Fermas s.r.o. 
+Slovenská L'upča (Slovakia) 
+100.00 
+2019 
+25 
+3 
+56 
+Evonik Fibres GmbH 
+Schörfling (Austria) 
+100.00 
+2019 
+17 
+2 
+57 
+Evonik Finance B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+244 
+-1 
+58 
+Evonik France S.A.S. 
+Ham (France) 
+100.00 
+2019 
+53 
+2 
+59 
+Evonik Goldschmidt UK Ltd. 
+Milton Keynes (UK) 
+100.00 
+2019 
+7 
+– 
+60 
+Evonik Gulf FZE 
+Dubai (United Arab 
+Emirates) 
+100.00
+2019
+1
+–
+61 
+Evonik Holding Egypt LLC 
+Cairo (Egypt) 
+100.00 
+2019 
+– 
+– 
+62 
+Evonik Hong Kong Ltd. 
+Hong Kong (Hong Kong) 
+100.00 
+2019 
+3 
+– 
+63 
+Evonik India Pvt. Ltd. 
+Mumbai (India) 
+100.00 
+2019 
+29 
+10 
+64 
+Evonik Industries de Mexico, S.A. de 
+C.V. 
+Mexico City (Mexico) 
+100.00 
+2019 
+71 
+7 
+65 
+Evonik International AG 
+Zurich (Switzerland) 
+100.00 
+2019 
+1 
+– 
+66 
+Evonik International Costa Rica, S.A. 
+Santa Ana (Costa Rica) 
+100.00 
+2019 
+3 
+– 
+67 
+Evonik International Holding B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+4,959 
+314 
+68 
+Evonik International Trading (Shanghai) 
+Co., Ltd. 
+Shanghai (China) 
+100.00 
+2019 
+2 
+1 
+69 
+Evonik Iran AG 
+Teheran (Iran) 
+100.00 
+2019 
+2 
+1 
+70 
+Evonik Italia S.r.l. 
+Pandino (Italy) 
+100.00 
+2019 
+11 
+1 
+71 
+Evonik Japan Co., Ltd. 
+Tokyo (Japan) 
+100.00 
+2019 
+128 
+27 
+72 
+Evonik Korea Ltd. 
+Seoul (South Korea) 
+100.00 
+2019 
+14 
+10 
+73 
+Evonik LIL Limited 
+Milton Keynes (UK) 
+100.00 
+2019 
+3 
+1 
+74 
+Evonik Limited Egypt 
+Cairo (Egypt) 
+100.00 
+2019 
+– 
+– 
+75 
+Evonik Malaysia Sdn. Bhd. 
+Kuala Lumpur (Malaysia) 
+100.00 
+2019 
+2 
+1 
+76 
+Evonik Materials Netherlands B.V. i.L. 
+Utrecht (Netherlands) 
+100.00 
+2019 
+in liquidation 
+77 
+Evonik Membrane Extraction 
+Technology Limited 
+Milton Keynes (UK) 
+100.00 
+2019 
+-6 
+– 
+78 
+Evonik Methionine SEA Pte. Ltd. 
+Singapore (Singapore) 
+100.00 
+2019 
+428 
+-13 
+79 
+Evonik Metilatos S.A. 
+Rosario (Argentina) 
+100.00 
+2019 
+17 
+11 
+80 
+Evonik Mexico, S.A. de C.V. 
+Mexico City (Mexico) 
+100.00 
+2019 
+12 
+1 
+81 
+Evonik Oil Additives Asia Pacific Pte. 
+Ltd. 
+Singapore (Singapore) 
+100.00 
+2019 
+130 
+49 
+82 
+Evonik Oil Additives Canada Inc. 
+Morrisburg (Canada) 
+100.00 
+2019 
+13 
+6 
+83 
+Evonik Oil Additives S.A.S. 
+Lauterbourg (France) 
+100.00 
+2019 
+20 
+3 
+84 
+Evonik Oil Additives USA, Inc.
+Horsham (Pennsylvania, 
+USA) 
+100.00
+2019
+21
+45
+85 
+Evonik Oxeno Antwerpen NV 
+Antwerp (Belgium) 
+100.00 
+2019 
+67 
+27 
+86 
+Evonik Para-Chemie GmbH in Liqu. 
+Gramatneusiedl (Austria) 
+100.00 
+2019 
+in liquidation 
+
+Annual financial statements of Evonik Industries AG 2019 
+40 
+Name  
+Registered office 
+Share-
+holding 
+in % 
+Fiscal       
+year 
+Foot- 
+note 
+Equity in  
+€ million 
+Net In-
+come/loss  
+before P/L 
+transfer 
+87 
+Evonik Pension Scheme Trustee Limited 
+Milton Keynes (UK) 
+100.00 
+2019 
+– 
+– 
+88 
+Evonik Peroxid GmbH 
+Weissenstein (Austria) 
+100.00 
+2019 
+14 
+3 
+89 
+Evonik Peroxide Africa (Pty) Ltd. 
+Umbogintwini (South Africa) 
+100.00 
+2019 
+7 
+1 
+90 
+Evonik Peroxide Holding B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+194 
+– 
+91 
+Evonik Peroxide Ltd. 
+Morrinsville (New Zealand) 
+100.00 
+2019 
+13 
+2 
+92 
+Evonik Peroxide Netherlands B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+16 
+1 
+93 
+Evonik Perú S.A.C. 
+Lima (Peru) 
+100.00 
+2019 
+2 
+-1 
+94 
+Evonik (Philippines) Inc. 
+Taguig City (Philippines) 
+100.00 
+2019 
+1 
+– 
+95 
+Evonik Porphyrio NV 
+Leuven (Belgium) 
+100.00 
+2019 
+2 
+-1 
+96 
+Evonik Re S.A. 
+Luxembourg (Luxembourg) 
+100.00 
+2019 
+54 
+4 
+97 
+Evonik Rexim (Nanning) Pharmaceutical 
+Co., Ltd. 
+Nanning (China) 
+100.00 
+2019 
+24 
+5 
+98 
+Evonik Rexim S.A.S. 
+Ham (France) 
+100.00 
+2019 
+3 
+-4 
+99 
+Evonik (SEA) Pte. Ltd. 
+Singapore (Singapore) 
+100.00 
+2019 
+388 
+7 
+100 
+Evonik Servicios, S.A. de C.V. 
+Mexico City (Mexico) 
+100.00 
+2019 
+2 
+– 
+101 
+Evonik (Shanghai) Investment 
+Management Co., Ltd. 
+Shanghai (China) 
+100.00 
+2019 
+4 
+– 
+102 
+Evonik Silica Belgium BVBA 
+Ostend (Belgium) 
+100.00 
+2019 
+9 
+1 
+103 
+Evonik Silica Finland Oy 
+Hamina (Finland) 
+100.00 
+2019 
+12 
+1 
+104 
+Evonik Silquimica, S.A.U. 
+Zubillaga-Lantaron (Spain) 
+100.00 
+2019 
+12 
+1 
+105 
+Evonik Singapore Specialty Chemicals 
+Pte. Ltd. 
+Singapore (Singapore) 
+100.00 
+2019 
+-1 
+– 
+106 
+Evonik Speciality Organics Ltd. 
+Milton Keynes (UK) 
+100.00 
+2019 
+260 
+– 
+107 
+Evonik Specialty Chemicals (Jilin) Co., 
+Ltd. 
+Jilin (China) 
+100.00 
+2019 
+52 
+-9 
+108 
+Evonik Specialty Chemicals (Nanjing) 
+Co., Ltd. 
+Nanjing (China) 
+100.00 
+2019 
+83 
+11 
+109 
+Evonik Specialty Chemicals (Shanghai) 
+Co., Ltd. 
+Shanghai (China) 
+100.00 
+2019 
+210 
+37 
+110 
+Evonik Specialty Silica India Pvt. Ltd. 
+Mumbai (India) 
+100.00 
+2019 
+24 
+2 
+111 
+Evonik Taiwan Ltd. 
+Taipei (Taiwan) 
+100.00 
+2019 
+6 
+4 
+112 
+Evonik Tasnee Marketing LLC 
+Riyadh (Saudi Arabia) 
+75.00 
+2019 
+12 
+2 
+113 
+Evonik (Thailand) Ltd. 
+Bangkok (Thailand) 
+100.00 
+2019 
+8 
+2 
+114 
+Evonik Tianda (Liaoyang) Chemical 
+Additive Co., Ltd. 
+Liaoyang (China) 
+97.04 
+2019 
+28 
+2 
+115 
+Evonik Ticaret Ltd. Sirketi 
+Tuzla/Istanbul (Turkey) 
+100.00 
+2019 
+9 
+5 
+116 
+Evonik Trustee Limited 
+Milton Keynes (UK) 
+100.00 
+2019 
+– 
+– 
+117 
+Evonik UK Holdings Ltd. 
+Milton Keynes (UK) 
+100.00 
+2019 
+491 
+-11 
+118 
+Evonik United Silica Industrial Ltd. 
+Taoyuan Hsien (Taiwan) 
+100.00 
+2019 
+35 
+7 
+119 
+Evonik United Silica (Siam) Ltd. 
+Rayong (Thailand) 
+70.00 
+2019 
+22 
+2 
+120 
+Evonik Vietnam Limited Liability 
+Company 
+Ho-Chi-Minh City (Vietnam) 
+100,00 
+2019 
+2 
+– 
+
+Annual financial statements of Evonik Industries AG 2019 
+41 
+Name  
+Registered office 
+Share-
+holding 
+in % 
+Fiscal       
+year 
+Foot- 
+note 
+Equity in  
+€ million 
+Net In-
+come/loss  
+before P/L 
+transfer 
+121 
+Evonik Wellink Silica (Nanping) Co., 
+Ltd. 
+Nanping (China) 
+60.00 
+2019 
+33 
+11 
+122 
+Evonik Wynca (Zhenjiang) Silicon 
+Material Co.,Ltd. 
+Zhenjiang (China) 
+60.00 
+2019 
+14 
+– 
+123 
+Granollers Química, S.L.U. 
+Granollers (Spain) 
+100.00 
+2019 
+– 
+– 
+124 
+Insilco Ltd. 
+Gajraula (India) 
+73.11 
+2019 
+11 
+-1 
+125 
+JIDA Evonik High Performance Polymers 
+(Changchun) Co., Ltd. 
+Changchun (China) 
+84.04 
+2019 
+9 
+-2 
+126 
+Laporte Nederland (Holding) B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+37 
+– 
+127 
+MedPalett AS 
+Sandnes (Norway) 
+100.00 
+2019 
+3 
+1 
+128 
+Nilok Chemicals Inc. (i.L.)
+Parsippany (New Jersey, 
+USA) 
+100.00
+2019
+in liquidation
+129 
+Nippon Aerosil Co., Ltd. 
+Tokyo (Japan) 
+80.00 
+2019 
+68 
+16 
+130 
+OOO Evonik Chimia 
+Moscow (Russian 
+Federation) 
+100.00
+2019
+21
+2
+131 
+PT. Evonik Indonesia 
+Cikarang Bekasi (Indonesia) 
+99.98 
+2019 
+9 
+3 
+132 
+PT. Evonik Sumi Asih 
+Bekasi Timur (Indonesia) 
+75.00 
+2019 
+10 
+1 
+133 
+Qingdao Evonik Silica Materials Co., Ltd. 
+Qingdao (China) 
+100.00 
+2019 
+37 
+2 
+134 
+Rutgers Organics LLC 
+Wilmington (Delaware, 
+USA) 
+100.00
+2019
+2
+-5
+135 
+Silbond Corporation 
+Weston (Michigan, USA) 
+100.00 
+2019 
+43 
+5 
+136 
+SKC Evonik Peroxide Korea Co., Ltd. 
+Ulsan (South Korea) 
+55.00 
+2019 
+33 
+7 
+137 
+Stockhausen Nederland B.V. 
+Amsterdam (Netherlands) 
+100.00 
+2019 
+– 
+-13 
+Companies recognized as joint operations: Germany 
+138 
+Neolyse Ibbenbüren GmbH 
+Ibbenbüren 
+50.00 
+2019 
+18 
+1 
+Companies recognized as joint operations: other countries 
+139 
+Veramaris (USA) LLC 
+Blair (Nebraska, USA) 
+50.00 
+2019 
+52 
+– 
+140 
+Veramaris V.O.F. 
+Delft (Netherlands) 
+50.00 
+2019 
+22 
+-8 
+Non-consolidated subsidiaries: Germany 
+141 
+PKU Pulverkautschuk Union GmbH 
+Marl 
+100.00 
+2019 
+-1 
+1 
+142 
+Studiengesellschaft Kohle mbH 
+Mülheim 
+84.18 
+2018 
+– 
+– 
+Non-consolidated subsidiaries: other countries 
+143 
+EGL Ltd. 
+Milton Keynes (UK) 
+100.00 
+2019 
+– 
+– 
+144 
+Evonik Bangladesh Ltd. 
+Dhaka (Bangladesh) 
+100.00 
+2019 
+– 
+– 
+145 
+Evonik East Africa Limited 
+Nairobi (Kenya) 
+100.00 
+2019 
+– 
+– 
+146 
+Evonik Ecuador S.A. 
+Quito (Ecuador) 
+100.00 
+2019 
+1 
+– 
+147 
+Evonik Guatemala, S.A. 
+Guatemala City (Guatemala) 
+100.00 
+2019 
+1 
+– 
+148 
+Evonik Gulf FZE/Jordan (Free Zone) 
+LLC 
+Amman (Jordan) 
+100.00 
+2019 
+– 
+– 
+149 
+Evonik LCL Limited 
+Milton Keynes (UK) 
+100.00 
+2019 
+– 
+– 
+150 
+Evonik Pakistan (Private) Limited 
+Karachi (Pakistan) 
+100.00 
+2019 
+– 
+– 
+151 
+LLC "Evonik Ukraine" i.L. 
+Kiev (Ukraine) 
+100.00 
+2019 
+in liquidation 
+152 
+Structured Polymers Inc. 
+Austin (Texas, USA) 
+100.00 
+2019 
+8 
+– 
+
+Annual financial statements of Evonik Industries AG 2019 
+42 
+Name  
+Registered office 
+Share-
+holding 
+in % 
+Fiscal       
+year 
+Foot- 
+note 
+Equity in  
+€ million 
+Net In-
+come/loss  
+before P/L 
+transfer 
+Joint ventures (at equity): other countries 
+153 
+Daicel-Evonik Ltd. 
+Tokyo (Japan) 
+50.00 
+2019 
+19 
+4 
+154 
+Evonik Headwaters LLP i.L. 
+Milton Keynes (UK) 
+50.00 
+2019 
+in liquidation 
+155 
+Evonik Lanxing (Rizhao) Chemical 
+Industrial Co., Ltd. 
+Rizhao (China) 
+50.00 
+2019 
+6 
+1 
+156 
+Evonik Treibacher GmbH 
+Treibach/Althofen (Austria) 
+50.00 
+2019 
+22 
+16 
+157 
+LiteCon GmbH 
+Hönigsberg/Mürzzuschlag 
+(Austria) 
+49.00
+2019
+4
+-1
+158 
+Rusferm Limited 
+Nicosia (Cyprus) 
+49.00 
+2019 
+29 
+– 
+159 
+San-Apro Ltd. 
+Kyoto (Japan) 
+50.00 
+2019 
+10 
+3 
+160 
+Saudi Acrylic Polymers Company, Ltd. 
+Jubail (Saudi Arabia) 
+25.00 
+2019 
+-77 
+-40 
+Joint ventures (not recognized at equity): Germany 
+161 
+dev.log GmbH 
+Niederkassel 
+50.00 
+2019 
+1 
+– 
+162 
+StoHaas Management GmbH i.L. 
+Marl 
+50.00 
+2019 
+in iiquidation 
+Joint ventures (not recognized at equity): other countries 
+163 
+RSC Evonik Sweeteners Co., Ltd. 
+Bangkok (Thailand) 
+50.00 
+2018 
+3 
+– 
+Associates (recognized at equity): Germany 
+164 
+ARG mbH & Co. KG 
+Oberhausen 
+19.93 
+2019 
+2
+8
+38
+165 
+TÜV NORD InfraChem GmbH & Co. KG 
+Marl 
+49.00 
+2018 
+2 
+– 
+166 
+TÜV NORD InfraChem 
+Verwaltungsgesellschaft mbH 
+Marl
+49.00 
+2018
+ 
+–
+– 
+167 
+Vestaro GmbH 
+Munich 
+49.00 
+2019 
+– 
+– 
+Associates (recognized at equity): other countries 
+168 
+ABCR Laboratorios, S.L. 
+Forcarei (Spain) 
+50.00 
+2019 
+8 
+1 
+Associates (not recognized at equity): Germany 
+169 
+ARG Verwaltungs GmbH 
+Oberhausen 
+20.00 
+2019 
+– 
+– 
+170 
+Umschlag Terminal Marl GmbH & Co. 
+KG 
+Marl
+50.00 
+2019
+ 
+1 
+–
+171 
+Umschlag Terminal Marl Verwaltungs-
+GmbH 
+Marl
+50.00 
+2019
+ 
+–
+– 
+Associates (not recognized at equity): other countries 
+172 
+HPNow ApS 
+Copenhagen (Denmark) 
+33.82 
+2019 
+2 
+1 
+173 
+OPTIFARM Ltd. 
+Great Chesterford (UK) 
+40,00 
+2019 
+– 
+1 
+1 There are domination and/or profit-and-loss transfer agreements with these companies. 
+2 ARG mbH & Co. KG, Oberhausen (Germany) is included in the financial statements as an associate even though both the voting rights and the shareholding are below 20 
+percent because Evonik has a material influence through contractual agreements. 
+Vivawest GmbH, Essen (Germany) (shareholding: 15.00 percent; fiscal year 2019: income after taxes: €165.6 million; 
+equity: €1,882 million). Half of the stake in its capital (7.50 percent) was transferred to Evonik Pensionstreuhand e.V. 
+Evonik holds more than 5 percent of the voting rights in the following company, which is defined as a large stock 
+corporation in accordance with section 267 paragraph 3 of the German Commercial Code (HGB) (disclosure pursuant 
+to section 285 no. 11b German Commercial Code (HGB)): 
+
+Annual financial statements of Evonik Industries AG 2019 
+43 
+Borussia Dortmund GmbH & Co. KGaA, Dortmund (Germany) (shareholding: 14.78 percent; fiscal year 2018/2019: 
+income after taxes: €26.2 million; equity: €390 million).  
+4.13 Events after the reporting date 
+On November 7, 2018, Evonik Industries AG signed an agreement to acquire PeroxyChem (Pennsylvania, USA) from 
+One Equity Partners, Chicago (Illinois, USA). PeroxyChem is a manufacturer of hydrogen peroxide and peracetic acid. 
+The acquisition was initially delayed because the Federal Trade Commission (FTC) in the USA filed a lawsuit to block 
+the transaction. The lawsuit was dismissed in January 2020 and the acquisition was then closed on February 3, 2020. 
+The provisional amount paid for the acquisition was €583 million. This was contractually agreed in US dollars and 
+settled out of cash and cash equivalents. This amount was paid by Evonik Industries AG and charged to the Group 
+companies participating in the transaction. 
+On February 14, 2020, Evonik reduced its stake in the listed company Borussia Dortmund GmbH & Co. KGaA 
+from 14.8 percent to 9.8 percent. This transaction was connected to a change in the sponsoring concept, which resulted 
+in a reduction in advertising rights. 
+4.14 Proposal for the distribution of the profit 
+Shareholders are entitled to their dividend on the third working day following the annual shareholders’ meeting unless 
+a later payment date is set in the articles of association or the resolution of the annual shareholders’ meeting on the 
+distribution of the profit (section 58 paragraph 4, sentences 2 and 3 of the German Stock Corporation Act/AktG). An 
+earlier payment date is not provided for. The distributable profit for fiscal 2019 should be used to pay a dividend of 
+€1.15 per share entitled to the dividend. 
+The executive board proposes that the distributable profit of Evonik Industries AG for fiscal 2019 amounting to 
+€950,000,000.00 should be utilized as follows: 
+Allocation of the distributable profit 
+- Payment of a dividend of €1.15 per no-par share entitled to the dividend 
+= €535,900,000.00 
+- Allocation to other retained earnings 
+= €0.00 
+- Profit carried forward 
+= €414,100,000.00 
+Distributable profit 
+= € 950,000,000.00 
+The dividend will be paid on June 2, 2020. 
+This proposal for the allocation of the profit is based on the capital stock of €466,000,000.00—divided into 
+466,000,000 no-par shares—entitled to a dividend on February 19, 2020 (date of finalization of the annual financial 
+statements). The number of shares entitled to the dividend and thus the total dividend could decrease by the date of 
+adoption of the resolution on the distribution of the profit. In this case, the executive board and supervisory board will 
+submit an amended proposal for the distribution of the profit, which will, however, propose an unchanged dividend of 
+€1.15 per no-par share entitled to the dividend, but increase the amount to be carried forward. 
+
+Annual financial statements of Evonik Industries AG 2019 
+44 
+Responsibility statement 
+To the best of our knowledge, and in accordance with the applicable reporting principles, the annual financial statements 
+give a true and fair view of the assets, liabilities, financial position and profit or loss of the company in accordance with 
+German accepted accounting principles, and the management report for the company, which is combined with the 
+management report for the Evonik Group, includes a fair view of the development and performance of the business and 
+the position of the company, together with a description of the material opportunities and risks associated with the 
+expected development of the company. 
+Essen, February 19, 2020 
+Evonik Industries AG 
+The Executive Board 
+Kullmann 
+Dr. Schwager 
+Wessel 
+Wolf 
+
+Annual financial statements of Evonik Industries AG 2019 
+45 
+INDEPENDENT AUDITOR’S REPORT 
+To Evonik Industries AG, Essen 
+REPORT ON THE AUDIT OF THE ANNUAL FINANCIAL STATEMENTS AND OF THE MANAGEMENT 
+REPORT 
+Audit Opinions 
+We have audited the annual financial statements of Evonik Industries AG, Essen, which comprise the 
+balance sheet as at 31 December 2019, and the income statement for the financial year from 
+1 January to 31 December 2019 and notes to the financial statements, including the presentation of 
+the recognition and measurement policies. In addition, we have audited the management report, 
+which is combined with the group management report, of Evonik Industries AG for the financial 
+year from 1 January to 31 December 2019. In accordance with the German legal requirements, we 
+have not audited the content of those parts of the management report listed in the "Other 
+Information" section of our auditor’s report. 
+In our opinion, on the basis of the knowledge obtained in the audit, 
+
+the accompanying annual financial statements comply, in all material respects, with the
+requirements of German commercial law and give a true and fair view of the assets, liabilities
+and financial position of the Company as at 31 December 2019 and of its financial performance
+for the financial year from 1 January to 31 December 2019 in compliance with German Legally
+Required Accounting Principles, and
+
+the accompanying management report as a whole provides an appropriate view of the
+Company’s position. In all material respects, this management report is consistent with the
+annual financial statements, complies with German legal requirements and appropriately
+presents the opportunities and risks of future development. Our audit opinion on the
+management report does not cover the content of those parts of the management report listed
+in the "Other Information" section of our auditor’s report.
+Pursuant to § [Article] 322 Abs. [paragraph] 3 Satz [sentence] 1 HGB [Handelsgesetzbuch: German 
+Commercial Code], we declare that our audit has not led to any reservations relating to the legal 
+compliance of the annual financial statements and of the management report. 
+Basis for the Audit Opinions 
+We conducted our audit of the annual financial statements and of the management report in 
+accordance with § 317 HGB and the EU Audit Regulation (No. 537/2014, referred to subsequently as 
+"EU Audit Regulation") in compliance with German Generally Accepted Standards for Financial 
+Statement Audits promulgated by the Institut der Wirtschaftsprüfer [Institute of Public Auditors in 
+Germany] (IDW). Our responsibilities under those requirements and principles are further 
+described in the "Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of 
+the Management Report" section of our auditor’s report. We are independent of the Company in 
+
+Annual financial statements of Evonik Industries AG 2019 
+ 
+46 
+ 
+accordance with the requirements of European law and German commercial and professional law, 
+and we have fulfilled our other German professional responsibilities in accordance with these 
+requirements. In addition, in accordance with Article 10 (2) point (f) of the EU Audit Regulation, we 
+declare that we have not provided non-audit services prohibited under Article 5 (1) of the EU Audit 
+Regulation. We believe that the audit evidence we have obtained is sufficient and appropriate to 
+provide a basis for our audit opinions on the annual financial statements and on the management 
+report. 
+Key Audit Matters in the Audit of the Annual Financial Statements 
+Key audit matters are those matters that, in our professional judgment, were of most significance in 
+our audit of the annual financial statements for the financial year from 1 January to 
+31 December 2019. These matters were addressed in the context of our audit of the annual financial 
+statements as a whole, and in forming our audit opinion thereon; we do not provide a separate audit 
+opinion on these matters. 
+In our view, the matters of most significance in our audit were as follows: 
+❶ Pension provision 
+❷ Accounting treatment of hedging relationships 
+Our presentation of these key audit matters has been structured in each case as follows: 
+① Matter and issue 
+② Audit approach and findings 
+③ Reference to further information 
+Hereinafter we present the key audit matters: 
+❶ Pension provision 
+① In the annual financial statements of Evonik Industries AG, pension provisions amounting to 
+EUR 152 million are reported, comprising the settlement amount in accordance with German 
+commercial law of the direct obligations under the Company's pension plans amounting to EUR 
+971 million, less the fair value of the plan assets of EUR 819 million. In addition, there are 
+indirect pension obligations that are not reported in the balance sheet. These result in an excess 
+of plan obligations over plan assets of EUR 73 million that is disclosed in the notes to the 
+financial statements. The pension plan obligations resulting from indirect and direct pension 
+commitments are measured using the projected unit credit method. This requires assumptions 
+to be made in particular about long-term salary and pension increases, staff turnover and 
+average life expectancy. The plan assets of the Company and those of the pension institution for 
+the indirect pension commitments are measured at fair value, which in turn involves making 
+estimates that are subject to uncertainties. In our view, these matters were of particular 
+significance in the context of our audit because the recognition and measurement of this 
+
+Annual financial statements of Evonik Industries AG 2019 
+47 
+ 
+significant item are based to a large extent on estimates and assumptions made by the 
+Company's executive directors. 
+② As part of our audit we evaluated the actuarial expert reports and the professional 
+qualifications of the external experts, among other things. Given the special features of the 
+actuarial calculations, we received support from our internal pension specialists for this 
+purpose. With their assistance, we assessed the appropriateness of the valuation methods on 
+which the valuations were based as well as the valuation parameters used. In addition, we 
+analyzed the development of the obligations and the effects of changes in the valuation 
+parameters and the numerical data on the basis of the actuarial expert report, and assessed 
+their plausibility. Finally, we reconciled the accounting entries for the provisions and the 
+disclosures in the notes to the financial statements based on the actuarial expert report. We 
+obtained bank confirmations for the fair values of the quoted securities held directly, fund units 
+and bank balances included in the plan assets. In the case of quoted securities for which the 
+bank confirmations did not include fair values, unquoted bonds and structured products held 
+directly as well as other fund units, we assessed the methods on which the respective valuation 
+was based and the valuation parameters used with the assistance of our internal specialists. 
+Based on our audit procedures, we were able to satisfy ourselves that the estimates and 
+assumptions made by the executive directors are substantiated and sufficiently documented. 
+③ The Company's disclosures relating to pension provisions are contained in sections 1.2.7 
+"Provisions" and 2.8 "Provisions" of the notes to the financial statements. 
+❷ Accounting treatment of hedging relationships 
+① Evonik Industries AG enters into a large number of transactions for different derivative 
+financial instruments – in particular forward exchange transactions and options, cross-currency 
+interest rate swaps and interest rate swaps – for the purpose of hedging against currency and 
+interest rate risks. The executive directors’ hedging policy is documented in corresponding 
+internal guidelines and serves as the basis for these transactions. In the context of Evonik 
+Industries AG's currency hedging activities, some forward exchange transactions and cross-
+currency interest rate swaps concluded with subsidiaries were traded through to banks in 
+matching onward transactions, while others were combined into a currency portfolio and, after 
+internal offsetting, the net position was hedged with banks. The Company also enters into 
+external cross-currency interest rate swaps in order to hedge the currency risk arising from the 
+cash flows for redemption and interest payments on foreign currency borrowings within the 
+Group and from cross-currency interest rate swaps within the Group. As of the balance sheet 
+date, Evonik Industries AG had outstanding forward exchange transactions and options 
+amounting to EUR 7,641 million (notional amount), cross-currency interest rate swaps 
+amounting to EUR 956  million (notional amount) and interest rate swaps amounting to EUR 
+1,300 million (notional amount). The positive fair values of all of the derivative financial 
+instruments used for hedging purposes amount to EUR 93 billion as at the balance sheet date; 
+the negative fair values amount to EUR 112 billion. As far as possible, the derivative financial 
+instruments are combined with the respective hedged transactions into valuation units for 
+accounting purposes under German commercial law. For currency hedging purposes in 
+particular, portfolio hedges are also recognized in addition to micro-hedges. This leads to the 
+consequence that, due to the application of the net hedge presentation method, changes in the 
+values or cash flows of the derivative financial instruments over the term of the hedging 
+relationship are not reflected in the annual financial statements, as far as the hedging 
+
+Annual financial statements of Evonik Industries AG 2019 
+ 
+48 
+ 
+relationship is effective. Insofar as the hedging relationship is ineffective and results in a net 
+loss, a provision for onerous contracts is recognized. 
+In our view, these matters were of particular significance for our audit due to the high degree of 
+complexity and the quantity of hedging instruments as well as the extensive accounting and 
+reporting requirements. 
+② As part of our audit and together with the assistance of our internal specialists, among other 
+things we assessed the contractual and financial bases of the hedging relationship between the 
+hedged transactions and the derivative financial instruments as hedging instruments and the 
+accounting treatment adopted. We assessed the recognition of valuation units and their 
+accounting treatment, including the ineffective amounts. We also assessed the Company’s risk 
+management system with regard to derivative financial instruments, including the internal 
+activities to monitor compliance with the hedging policy. We evaluated the Company's internal 
+guidelines on hedging against currency risks and interest rate risks, in particular with respect 
+to a risk management strategy documented in writing and the assignment of responsibilities by 
+the executive directors, and assessed their appropriateness and effectiveness. Furthermore, for 
+the purpose of evaluating the measurement of the derivative financial instruments at fair value, 
+we also assessed the calculation methods using market data. With respect to the expected cash 
+flows and the assessment of the effectiveness of the hedging relationships, we mainly carried 
+out a retrospective assessment of past hedge effectiveness. In addition, we verified the 
+accounting treatment of the hedges and in particular their presentation in the balance sheet 
+and statement on profit and loss, and assessed compliance with the applicable accounting 
+requirements. Based on our audit procedures, we were able to satisfy ourselves that the 
+estimates and assumptions made by the executive directors are substantiated and sufficiently 
+documented. 
+③ The Company's disclosures pertaining to hedging relationships are contained in section 4.4 
+"Derivative financial instruments" of the notes to the financial statements. 
+Other Information 
+The executive directors are responsible for the other information. The other information comprises 
+the following non-audited parts of the management report: 
+ 
+the statement on corporate governance pursuant to § 289f HGB and § 315d HGB included in 
+section "Corporate governance report and declaration on corporate governance" of the 
+management report 
+ 
+the corporate governance report pursuant to No. 3.10 of the German Corporate Governance 
+Code 
+ 
+the separate non-financial report pursuant to § 289b Abs. 3 HGB and § 315b Abs. 3 HGB 
+ 
+chapter 5.4 “Value chain” included in section 5 "Sustainability" of the management report 
+Our audit opinions on the annual financial statements and on the management report do not cover 
+the other information, and consequently we do not express an audit opinion or any other form of 
+assurance conclusion thereon. 
+
+Annual financial statements of Evonik Industries AG 2019 
+49 
+ 
+In connection with our audit, our responsibility is to read the other information and, in so doing, to 
+consider whether the other information 
+ 
+is materially inconsistent with the annual financial statements, with the management report or 
+our knowledge obtained in the audit, or 
+ 
+otherwise appears to be materially misstated. 
+Responsibilities of the Executive Directors and the Supervisory Board for the Annual Financial 
+Statements and the Management Report 
+The executive directors are responsible for the preparation of the annual financial statements that 
+comply, in all material respects, with the requirements of German commercial law, and that the 
+annual financial statements give a true and fair view of the assets, liabilities, financial position and 
+financial performance of the Company in compliance with German Legally Required Accounting 
+Principles. In addition, the executive directors are responsible for such internal control as they, in 
+accordance with German Legally Required Accounting Principles, have determined necessary to 
+enable the preparation of annual financial statements that are free from material misstatement, 
+whether due to fraud or error. 
+In preparing the annual financial statements, the executive directors are responsible for assessing 
+the Company’s ability to continue as a going concern. They also have the responsibility for 
+disclosing, as applicable, matters related to going concern. In addition, they are responsible for 
+financial reporting based on the going concern basis of accounting, provided no actual or legal 
+circumstances conflict therewith. 
+Furthermore, the executive directors are responsible for the preparation of the management report 
+that as a whole provides an appropriate view of the Company’s position and is, in all material 
+respects, consistent with the annual financial statements, complies with German legal requirements, 
+and appropriately presents the opportunities and risks of future development. In addition, the 
+executive directors are responsible for such arrangements and measures (systems) as they have 
+considered necessary to enable the preparation of a management report that is in accordance with 
+the applicable German legal requirements, and to be able to provide sufficient appropriate evidence 
+for the assertions in the management report. 
+The supervisory board is responsible for overseeing the Company’s financial reporting process for 
+the preparation of the annual financial statements and of the management report. 
+Auditor’s Responsibilities for the Audit of the Annual Financial Statements and of the Management 
+Report 
+Our objectives are to obtain reasonable assurance about whether the annual financial statements as 
+a whole are free from material misstatement, whether due to fraud or error, and whether the 
+
+Annual financial statements of Evonik Industries AG 2019 
+ 
+50 
+ 
+management report as a whole provides an appropriate view of the Company’s position and, in all 
+material respects, is consistent with the annual financial statements and the knowledge obtained in 
+the audit, complies with the German legal requirements and appropriately presents the 
+opportunities and risks of future development, as well as to issue an auditor’s report that includes 
+our audit opinions on the annual financial statements and on the management report. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in 
+accordance with § 317 HGB and the EU Audit Regulation and in compliance with German Generally 
+Accepted Standards for Financial Statement Audits promulgated by the Institut der 
+Wirtschaftsprüfer (IDW) will always detect a material misstatement. Misstatements can arise from 
+fraud or error and are considered material if, individually or in the aggregate, they could reasonably 
+be expected to influence the economic decisions of users taken on the basis of these annual financial 
+statements and this management report. 
+We exercise professional judgment and maintain professional skepticism throughout the audit. We 
+also:  
+ 
+Identify and assess the risks of material misstatement of the annual financial statements and of 
+the management report, whether due to fraud or error, design and perform audit procedures 
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide 
+a basis for our audit opinions. The risk of not detecting a material misstatement resulting from 
+fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, 
+intentional omissions, misrepresentations, or the override of internal controls. 
+ 
+Obtain an understanding of internal control relevant to the audit of the annual financial 
+statements and of arrangements and measures (systems) relevant to the audit of the 
+management report in order to design audit procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an audit opinion on the effectiveness of 
+these systems of the Company. 
+ 
+Evaluate the appropriateness of accounting policies used by the executive directors and the 
+reasonableness of estimates made by the executive directors and related disclosures. 
+ 
+Conclude on the appropriateness of the executive directors’ use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists 
+related to events or conditions that may cast significant doubt on the Company’s ability to 
+continue as a going concern. If we conclude that a material uncertainty exists, we are required to 
+draw attention in the auditor’s report to the related disclosures in the annual financial 
+statements and in the management report or, if such disclosures are inadequate, to modify our 
+respective audit opinions. Our conclusions are based on the audit evidence obtained up to the 
+date of our auditor’s report. However, future events or conditions may cause the Company to 
+cease to be able to continue as a going concern. 
+ 
+Evaluate the overall presentation, structure and content of the annual financial statements, 
+including the disclosures, and whether the annual financial statements present the underlying 
+transactions and events in a manner that the annual financial statements give a true and fair 
+view of the assets, liabilities, financial position and financial performance of the Company in 
+compliance with German Legally Required Accounting Principles. 
+
+Annual financial statements of Evonik Industries AG 2019 
+51 
+ 
+ 
+Evaluate the consistency of the management report with the annual financial statements, its 
+conformity with German law, and the view of the Company’s position it provides. 
+ 
+Perform audit procedures on the prospective information presented by the executive directors 
+in the management report. On the basis of sufficient appropriate audit evidence we evaluate, in 
+particular, the significant assumptions used by the executive directors as a basis for the 
+prospective information, and evaluate the proper derivation of the prospective information 
+from these assumptions. We do not express a separate audit opinion on the prospective 
+information and on the assumptions used as a basis. There is a substantial unavoidable risk that 
+future events will differ materially from the prospective information. 
+We communicate with those charged with governance regarding, among other matters, the planned 
+scope and timing of the audit and significant audit findings, including any significant deficiencies in 
+internal control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with the 
+relevant independence requirements, and communicate with them all relationships and other 
+matters that may reasonably be thought to bear on our independence, and where applicable, the 
+related safeguards. 
+From the matters communicated with those charged with governance, we determine those matters 
+that were of most significance in the audit of the annual financial statements of the current period 
+and are therefore the key audit matters. We describe these matters in our auditor’s report unless 
+law or regulation precludes public disclosure about the matter. 
+OTHER LEGAL AND REGULATORY REQUIREMENTS 
+Further Information pursuant to Article 10 of the EU Audit Regulation 
+We were elected as auditor by the annual general meeting on 28 May 2019. We were engaged by the 
+supervisory board on 17 October 2019. We have been the group auditor of Evonik Industries AG, 
+Essen, without interruption since the Company first met the requirements as a public-interest entity 
+within the meaning of § 319a Abs. 1 Satz 1 HGB in the financial year 2013. 
+We declare that the audit opinions expressed in this auditor’s report are consistent with the 
+additional report to the audit committee pursuant to Article 11 of the EU Audit Regulation (long-
+form audit report). 
+GERMAN PUBLIC AUDITOR RESPONSIBLE FOR THE ENGAGEMENT 
+The German Public Auditor responsible for the engagement is Antje Schlotter. 
+
+ 
+ 
+EVONIK INDUSTRIES AG 
+Rellinghauser Straße 1-11 
+45128 Essen 
+www.evonik.de

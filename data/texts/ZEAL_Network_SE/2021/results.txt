@@ -1,0 +1,3082 @@
+ZEAL Network SE 
+Hamburg 
+ 
+ 
+ 
+Jahresabschluss und Lagebericht 
+ 
+31. Dezember 2021 
+
+Anlage 1
+ZEAL Network SE, Hamburg
+Bilanz zum 31. Dezember 2021
+AKTIVA
+31.12.2021
+31.12.2020
+PASSIVA
+31.12.2021
+31.12.2020
+TEUR 
+TEUR
+TEUR
+TEUR
+A.
+ANLAGEVERMÖGEN
+A.
+EIGENKAPITAL
+I.
+Immaterielle Vermögensgegenstände
+I.
+Gezeichnetes Kapital
+22.396
+22.396
+abzüglich Nennbetrag eigener Aktien
+-33
+-37
+1.
+Entgeltlich erworbener Kundenstamm und Software
+38.236
+40.699
+2.
+Geleistete Anzahlungen
+188
+269
+22.364
+22.359
+38.425
+40.968
+II.
+Kapitalrücklage
+250.168
+280.506
+II.
+Sachanlagen
+III.
+Bilanzgewinn
+47.032
+35.542
+1.
+Technische Anlagen und Maschinen
+-
+-
+Andere Anlagen, Betriebs- und Geschäftsausstattung
+28
+84
+319.563
+338.407
+B.
+RÜCKSTELLUNGEN
+III.
+Finanzanlagen
+1.
+Steuerrückstellungen
+48
+48
+1.
+Anteile an verbundene Unternehmen
+306.767
+298.068
+2.
+Sonstige Rückstellungen
+6.069
+6.848
+2.
+Ausleihungen an verbundene Unternehmen
+2.391
+3.591
+3.
+Beteiligungen
+3.706
+3.898
+6.116
+6.896
+312.864
+305.557
+C.
+VERBINDLICHKEITEN
+351.317
+346.609
+1.
+Verbindlichkeiten gegenüber Kreditinstituten
+8.700
+0
+2.
+Verbindlichkeiten aus Lieferungen und Leistungen
+1.159
+99
+B.
+UMLAUFVERMÖGEN
+3.
+Verbindlichkeiten gegenüber verbundenen Unternehmen
+44.983
+45.981
+4.
+Sonstige Verbindlichkeiten
+6.179
+1.873
+I.
+ Forderungen und sonstige Vermögensgegenstände
+davon aus Steuern TEUR 143 (Vj.TEUR 80)
+1.
+Forderungen aus Lieferungen und Leistungen
+3
+1.
+Forderungen aus Lieferungen und Leistungen
+166
+141
+61.020
+47.954
+2.
+Forderungen gegen verbundene Unternehmen
+1.910
+1.714
+3.
+Sonstige Vermögensgegenstände
+1.871
+1.514
+3.947
+3.369
+II.
+Wertpapiere
+Sonstige Wertpapiere
+17.769
+29.753
+III.
+Kassenbestand und Guthaben bei Kreditinstituten
+12.857
+13.258
+34.572
+46.380
+C.
+RECHNUNGSABGRENZUNGSPOSTEN
+811
+267
+D.
+AKTIVE LATENTE STEUERN
+-
+-
+386.700
+393.256
+386.700
+393.256
+
+Anlage 2
+ZEAL Network SE, Hamburg
+Gewinn- und Verlustrechnung für 2021
+2021
+2020
+TEUR
+TEUR
+TEUR
+1. 
+Umsatzerlöse
+20.456
+21.028
+2.
+Sonstige betriebliche Erträge
+4.017
+4.859
+davon aus der Währungsumrechnung TEUR 117 (Vj. TEUR 304)
+3.
+Materialaufwand
+-4.021
+0
+4.
+Personalaufwand
+a) Gehälter
+-6.574
+-8.991
+b) Soziale Abgaben
+-506
+-591
+5.
+Abschreibungen auf immaterielle Vermögensgegenstände
+des Anlagevermögens und Sachanlagen
+-2.837
+-2.772
+6.
+Sonstige betriebliche Aufwendungen
+-12.460
+-14.996
+davon aus Währungsumrechnung TEUR -147 (Vj. TEUR -243)
+-22.378
+-27.349
+7.
+Erträge aus Beteiligungen
+4.660
+37.000
+davon an verbundene Unternehmen TEUR 4.660 (Vj. TEUR 37.000)
+8.
+Sonstige Zinsen und ähnliche Erträge
+115
+114
+9.
+Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
+-597
+-466
+10. Zinsen und ähnliche Aufwendungen
+-1.148
+-1.135
+davon an verbundene Unternehmen TEUR -1.101 (Vj. TEUR -1.101)
+3.031
+35.513
+11. Steuern vom Einkommen und vom Ertrag
+0
+-1.073
+12. Jahresüberschuss
+1.104
+32.978
+13. Bilanzgewinn des Vorjahres
+35.542
+2.564
+14. Dividende
+-20.127
+0
+15. Gewinnvortrag
+15.414
+0
+16. Entnahme aus Kapitalrücklage
+30.513
+0
+17. Bilanzgewinn
+47.032
+35.542
+
+Anlage 3 
+ Seite 1 | 26 
+ 
+ 
+ZEAL NETWORK SE, HAMBURG 
+ANHANG FÜR 2021 
+ 
+1. 
+ALLGEMEINE HINWEISE 
+ZEAL Network SE („ZEAL“ oder die „Gesellschaft“) ist gem. § 267 Abs. 3 Satz 2 HGB in Verbin-
+dung mit § 264d HGB eine große Kapitalgesellschaft. Der Jahresabschluss der ZEAL Network 
+SE wird nach den Vorschriften des deutschen Handelsgesetzbuchs (HGB), der einschlägigen 
+Regelungen SE-Einführungsgesetzes und des Aktiengesetzes (AktG) aufgestellt. 
+Die Aktien der Gesellschaft sind zum Handel am regulierten Markt (Prime Standard) der Frank-
+furter Wertpapierbörse zugelassen (ISINDE000ZEAL241; WKN ZEAL24).   
+Die Gewinn- und Verlustrechnung wurde nach dem Gesamtkostenverfahren erstellt. 
+Um die Klarheit der Darstellung zu verbessern, wurden die Angaben zur Mitzugehörigkeit zu an-
+deren Posten und Davon-Vermerke teilweise an dieser Stelle gemacht. 
+Registerinformationen  
+Die Gesellschaft ist unter der Firma ZEAL Network SE mit Sitz in Hamburg im Handelsregister 
+des Amtsgerichts Hamburg unter der Nummer HRB 159581 eingetragen. 
+2. 
+BILANZIERUNGS- UND BEWERTUNGSMETHODEN 
+Die nachfolgend aufgeführten Bilanzierungs- und Bewertungsmethoden wurden gegenüber dem 
+Vorjahr unverändert angewendet. Soweit unter den Bilanzierungs- und Bewertungsmethoden 
+nicht auf Änderungen eingegangen wird, sind sie in den entsprechenden Positionen erläutert. 
+Die immateriellen Vermögensgegenstände werden, soweit sie gegen Entgelt erworben wur-
+den, zu Anschaffungskosten, vermindert um planmäßige lineare Abschreibungen angesetzt. 
+Selbst 
+geschaffene 
+immaterielle 
+Vermögensgegenstände 
+des 
+Anlagevermögens  
+(§ 248 Abs. 2 HGB) sind zu Anschaffungskosten beziehungsweise Herstellungskosten in Höhe 
+der angefallenen Entwicklungsaufwendungen bilanziert und werden, sofern diese der Abnutzung 
+unterliegen, entsprechend ihrer Nutzungsdauer um planmäßige Abschreibungen vermindert.  
+
+Anlage 3 
+ Seite 2 | 26 
+ 
+ 
+Die Sachanlagen werden zu Anschaffungskosten, vermindert um planmäßige Abschreibungen, 
+angesetzt.  
+Die Abschreibungen werden nach der linearen Methode über die voraussichtliche Nutzungsdauer 
+vorgenommen. Anlagegüter mit einem Netto-Einzelwert von mehr als 250,00 Euro werden ein-
+zeln über die individuelle voraussichtliche Nutzungsdauer abgeschrieben werden.  
+Das Finanzanlagevermögen wird zu Anschaffungskosten oder zum niedrigeren beizulegenden 
+Wert angesetzt, wobei der niedrigere beizulegende Wert grundsätzlich nach dem Discounted-
+Cash-Flow-Verfahren ermittelt wird. Bei voraussichtlich dauerhaften Wertminderungen werden 
+außerplanmäßige Abschreibungen vorgenommen. Die verzinslich ausgereichten Ausleihungen 
+wurden zum Nominalwert bilanziert. 
+Die Forderungen und sonstigen Vermögensgegenstände werden mit dem Nennbetrag oder 
+mit dem am Bilanzstichtag niedrigeren beizulegenden Wert angesetzt. Bei Forderungen, deren 
+Einbringlichkeit mit erkennbaren Risiken behaftet ist, werden angemessene Wertabschläge vor-
+genommen; uneinbringliche Forderungen werden abgeschrieben beziehungsweise nach erfolg-
+losem Mahn-/Inkasso-/Beitreibungsprozess ausgebucht. 
+Die sonstigen Wertpapiere des Umlaufvermögens wurden zu Anschaffungskosten oder gege-
+benenfalls nach § 253 Abs. 4 HGB zu den niedrigeren Werten, die sich aus den Börsen- oder 
+Marktpreisen am Stichtag ergeben, angesetzt. 
+Der Rechnungsabgrenzungsposten enthält vor dem Bilanzstichtag geleistete/erhaltene Zah-
+lungen, die Leistungen für einen bestimmten Zeitraum nach dem Bilanzstichtag betreffen. 
+Die Steuerrückstellungen und die sonstigen Rückstellungen werden nach vernünftiger kauf-
+männischer Beurteilung in Höhe des Erfüllungsbetrags gebildet und decken alle am Bilanzstich-
+tag drohenden Verluste und ungewissen Verbindlichkeiten ab. Rückstellungen mit einer Restlauf-
+zeit von mehr als einem Jahr werden mit dem ihrer Restlaufzeit entsprechenden, durchschnittli-
+chen Marktzinssatz abgezinst. 
+Die Verbindlichkeiten werden mit dem Erfüllungsbetrag angesetzt. 
+Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten wurden 
+grundsätzlich mit dem Devisenkassamittelkurs zum Abschlussstichtag umgerechnet. Bei der 
+Restlaufzeit von mehr als einem Jahr wurde dabei das Realisationsprinzip (§ 252 Abs. 1 Nr. 4 
+Halbsatz 2 HGB) und das Anschaffungskostenprinzip (§ 253 Abs. 1 Satz 1 HGB) beachtet. 
+Für die Ermittlung latenter Steuern aufgrund von temporären oder quasi-permanenten Differen-
+zen zwischen den handelsrechtlichen Wertansätzen von Vermögensgegenständen, Schulden 
+
+Anlage 3 
+ Seite 3 | 26 
+ 
+ 
+und Rechnungsabgrenzungsposten und ihren steuerlichen Wertansätzen oder aufgrund steuer-
+licher Verlustvorträge werden diese mit den unternehmensindividuellen Steuersätzen im Zeit-
+punkt des Abbaus der Differenzen bewertet und die Beträge der sich ergebenden Steuerbe- und 
+-entlastung nicht abgezinst. Des Weiteren werden steuerliche Verlustvorträge, deren Verrech-
+nung innerhalb der nächsten 5 Jahre erwartet wird, bei der Berechnung aktiver latenter Steuern 
+berücksichtigt. Aktive und passive Steuerlatenzen werden verrechnet. Die Bilanzierung eines 
+Überhangs aktiver latenter Steuern unterbleibt in Ausübung des dafür bestehenden Ansatzwahl-
+rechts gemäß § 274 Abs. 1 Satz 2 HGB. 
+Umsatzerlöse werden realisiert, wenn die Leistung erbracht wurde, es wahrscheinlich ist, dass 
+der wirtschaftliche Nutzen aus dem Geschäft der ZEAL Network SE zufließt und die Höhe der 
+Umsatzerlöse verlässlich bestimmt werden kann.  
+Dieser Abschluss wurde unter der Annahme aufgestellt, dass das Unternehmen für die abseh-
+bare Zukunft seine Geschäftstätigkeit fortführt.  
+3. 
+ERLÄUTERUNGEN ZUR BILANZ UND GEWINN- UND VERLUSTRECHNUNG 
+3.1 Anlagevermögen 
+Die Entwicklung des Anlagevermögens ist unter Angabe der Abschreibungen im Anlagespiegel 
+dargestellt. 
+3.1.1 Entgeltlich erworbener Kundenstamm und Software   
+Dieser Posten beinhalten einen Kundenstamm und Software, die am 15.10.2019 zu einem Kauf-
+preis in Höhe von 44.029 Tsd. Euro. erworben wurden. Von dem Kaufpreis entfällt ein Betrag in 
+Höhe von 37.453 Tsd. Euro auf den Kundenstamm und ein Betrag in Höhe von 6.576 Tsd. Euro 
+auf die Software.  
+Die Abschreibung erfolgt planmäßig über eine Nutzungsdauer von 20 bzw. 28 Jahre (Kunden-
+stamm) und von 5 Jahren (Software).  
+3.1.2 Andere Anlagen, Betriebs- und Geschäftsausstattung 
+Dieser Posten beinhaltet die erworbene Arbeitsplatzausstattungen in den Geschäftsräumen der 
+Gesellschaft.  
+Die Nutzungsdauer der Sachanlagen liegt regelmäßig zwischen einem und fünf Jahren. Die Ver-
+mögenswerte unterliegen keinen Beschränkungen in den Verfügungsrechten und wurden weiter-
+hin nicht als Sicherheiten für Schulden verpfändet. 
+
+Anlage 3 
+ Seite 4 | 26 
+ 
+ 
+3.1.3 Finanzanlagen 
+Die Entwicklung der Finanzanlagen ist aus dem Anlagenspiegel ersichtlich. 
+Die folgende Liste gemäß § 285 Nr. 11 HGB umfasst alle verbundenen Tochterunternehmen und 
+Beteiligungen, unabhängig davon, ob diese für die Darstellung der Vermögens-, Finanz- und Er-
+tragslage der Gesellschaft von Bedeutung sind.  
+Das Heimatland, in dem die unten genannten Tochterunternehmen aktiv sind, entspricht dabei 
+auch dem Land, in dem das jeweilige Tochterunternehmen ihren Sitz hat.  
+ 
+Name und eingetrage-
+ner Sitz 
+Land 
+Hauptge-
+schäftstätig-
+keit 
+Art der Bezie-
+hung zu ZEAL 
+Network 
+Effektiver Anteil in % 
+ 
+2021 
+2020 
+myLotto24 Limited  
+Suite 1, 3rd Floor 11–
+12 St. James's Square, 
+London, SW1Y 4LB 
+Vereinigtes 
+Königreich 
+Lotterie 
+Tochterunter-
+nehmen 
+100 
+100 
+Tipp24 Services Lim-
+ited 
+Suite 1, 3rd Floor 11–
+12 St. James's Square, 
+London, SW1Y 4LB 
+Vereinigtes 
+Königreich 
+Service- 
+leistungen 
+Tochterunter-
+nehmen 
+100 
+100 
+Tipp24 Deutschland 
+GmbH 
+Burchardstrasse 22 
+MBE 311 20095 Ham-
+burg 
+Deutschland 
+Lotterie 
+Tochterunter-
+nehmen 
+100 
+100 
+Lottovate Deutschland 
+GmbH 
+Kurze Muehren 1 
+20095 Hamburg 
+Deutschland 
+Lotterie 
+Tochterunter-
+nehmen 
+100 
+100 
+Zeal Iberia S.L.U 1 
+Leganitos 47 
+28013 Madrid 
+Spanien 
+Lotterie 
+Tochterunter-
+nehmen 
+100 
+100 
+Smartgames Technolo-
+gies Limited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+In Liquidation 
+Tochterunter-
+nehmen 
+100 
+100 
+
+Anlage 3 
+ Seite 5 | 26 
+ 
+ 
+Lottovate Limited  
+5th Floor One New 
+Change, London, 
+EC4M 9AF 
+Vereinigtes 
+Königreich 
+In Liquidation 
+Tochterunter-
+nehmen 
+100 
+100 
+ZEAL International Lim-
+ited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+Tipp24 Investment 1 
+Limited 
+The Shard, 32 London 
+Bridge 
+Street, London, SE1 
+9SG 
+Vereinigtes 
+Königreich 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+Tipp24 Investment 2 
+Limited  
+The Shard, 32 London 
+Bridge 
+Street, London, SE1 
+9SG 
+Vereinigtes 
+Königreich 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+Lotto Network Limited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+eSailors Limited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+In Liquidation 
+Tochterunter-
+nehmen 
+100 
+100 
+Schumann e.K. 
+Straßenbahnring 11 
+20251 Hamburg 
+Deutschland 
+Lotterie 
+Tochterunter-
+nehmen 
+– 
+– 
+Geonomics Global 
+Games Limited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+In Liquidation 
+Tochterunter-
+nehmen 
+100 
+100 
+Geo24 UK Limited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+
+Anlage 3 
+ Seite 6 | 26 
+ 
+ 
+Gratis Lotto Limited 
+The Shard, 32 London 
+Bridge Street, London, 
+SE1 9SG 
+Vereinigtes 
+Königreich 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+myLotto24 South Africa 
+Pty Ltd 
+7 Martin Hammerschlag 
+Way, Foreshore, Cape 
+Town, 8001 
+Südafrika 
+In Liquidation 
+Tochterunter-
+nehmen 
+100 
+100 
+Tipp24 Services Ltd 
+(Malta) 
+93 Mill Street, QORMI 
+QRM 3102 
+Malta 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+myLotto24 Ltd (Malta) 
+85, St. John Street, Val-
+letta, Malta 
+Malta 
+Service- 
+leistungen 
+Tochterunter-
+nehmen 
+100 
+100 
+ZEAL International Lim-
+ited (Malta) 
+85 St John Street, Val-
+letta, VLT 1165 
+Malta 
+Liquidiert 
+Tochterunter-
+nehmen 
+- 
+100 
+LOTTO24 AG 
+Straßenbahnring 11 
+20251 Hamburg 
+Deutschland 
+Lotterie- 
+vermittlung 
+Tochterunter-
+nehmen 
+95 
+93 
+1 Der Firmenname von Ventura24 S.L.U. wurde im Geschäftsjahr 2021 in ZEAL Iberia S.L.U. ge-
+ändert.
+ 
+3.2 
+Umlaufvermögen 
+3.2.1 Forderungen aus Lieferungen und Leistungen 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Forderung gegen Kunden 
+ 
+166 
+ 
+141 
+Gesamt 
+166 
+141 
+ 
+Die Forderungen aus Lieferung und Leistungen beinhalten im Wesentlichen Ansprüche gegen 
+die BildungsChancen gGmbH im Zusammenhang mit der Soziallotterie freiheit+. Alle Forderungs-
+sachverhalte weisen eine Restlaufzeit von unter einem Jahr auf. 
+
+Anlage 3 
+ Seite 7 | 26 
+ 
+ 
+3.2.2 Forderungen gegen verbundene Unternehmen 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Forderung L&L ZEAL Gruppe 
+ 
+1.910 
+ 
+1.714 
+Gesamt 
+1.910 
+1.714 
+ 
+Die Forderungen aus Lieferung und Leistungen gegen verbundene Unternehmen bestehen 
+hauptsächlich aus Zahlungsverpflichtungen, die am Bilanzstichtag noch von Unternehmen der 
+ZEAL-Gruppe für Unternehmensdienstleistungen fällig sind. Alle Forderungen sind innerhalb ei-
+nes Jahres fällig. 
+3.2.3 Sonstige Vermögensgegenstände 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Kaution/Sicherheitsleistungen 
+ 
+1.150 
+ 
+1.150 
+Steuerforderungen 
+ 
+101 
+ 
+174 
+Übrige 
+ 
+620 
+ 
+190 
+Gesamt 
+1.871 
+1.514 
+ 
+Die Forderungen aus Steuern resultieren aus Erstattungsansprüchen von Umsatzsteuer (Vor-
+steuer), Körperschaftssteuerrückforderungen und der Überzahlung von Lohnsteuer. 
+Zum Bilanzstichtag lagen keine Gründe für eine Wertminderung vor, die mit einer Wertberichti-
+gung hätten berücksichtigt werden müssen. Die sonstigen Vermögensgegenstände aus Steuer-
+forderungen sowie die übrigen sonstigen Vermögensgegenstände haben eine Restlaufzeit von 
+bis zu einem Jahr. Die Restlaufzeit der Kaution/Sicherheitsleistung beträgt mehr als 5 Jahre.  
+3.2.4 Sonstige Wertpapiere 
+Die Anschaffungskosten der sonstigen Wertpapiere des Umlaufvermögens betragen 17.769 Tsd. 
+Euro (Vorjahr: 29.753 Tsd. Euro). Der Zeitwert der Wertpapiere beträgt zum Bilanzstichtag 18.020 
+Tsd. Euro (Vorjahr: 30.243 Tsd. Euro). Die sonstigen Wertpapiere haben keine Endfälligkeit. 
+
+Anlage 3 
+ Seite 8 | 26 
+ 
+ 
+3.3 
+Kassenbestand und Guthaben bei Kreditinstituten 
+Der zum 31. Dezember 2021 ausgewiesene Kassenbestand sowie die Guthaben bei Kreditinsti-
+tuten beinhaltet im Wesentlichen die bei mehreren Kreditinstituten geführten Guthaben in Höhe 
+von 12.857 Tsd. Euro (Vorjahr: 13.258 Tsd. Euro). 
+3.4 
+Rechnungsabgrenzungsposten 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Aktive Rechnungsabgrenzung 
+ 
+811 
+ 
+267 
+Gesamt 
+811 
+267 
+ 
+Die aktive Rechnungsabgrenzung enthält im Wesentlichen Vorauszahlungen auf IT-Service-
+/Wartungsverträge. 
+3.5  
+Latente Steuern 
+Anders als im Vorjahr wurden keine latenten Steuern auf Bonusrückstellungen in der Handels- 
+und Steuerbilanz ermittelt. Auch auf bestehende körperschaft- und gewerbesteuerlichen Verlust-
+vorträge in Höhe von rund 60 Mio. Euro (noch nicht final durch die Steuerbehörden bestätigt) 
+wurden keine latenten Steuern gebildet, da in absehbarer Zeit nicht mit einem positiven zu ver-
+steuernden Einkommen auf der Ebene der ZEAL Network SE zu rechnen ist, mit dem die steuer-
+lichen Verlustvorträge verrechnet werden können. Der Berechnung wurde ein kumulierter Ertrag-
+steuersatz von unverändert rd. 32,28% zugrunde gelegt.  
+3.6 
+Eigenkapital 
+3.6.1 Gezeichnetes Kapital 
+Das gezeichnete Kapital entspricht dem Grundkapital der Gesellschaft und ist eingeteilt in 
+22.396.070 Stückaktien (Aktien ohne Nennbetrag). Es ist in voller Höhe eingezahlt und beträgt 
+22.396 Tsd. Euro (Vorjahr: 22.396 Tsd. Euro). Hiervon werden 32.569,00 Euro für von der ZEAL 
+selbst als eigene Anteile gehalten. 
+3.6.2 Kapitalrücklage 
+Die Kapitalrücklage beträgt 250.168 Tsd. Euro (Vorjahr: 280.506 Tsd. Euro) und beinhaltet eine 
+freie Kapitalrücklage gemäß § 272 Abs.2 Nr. 4 HGB in Höhe von 229.999 Tsd. Euro. Die freie 
+Kapitalrücklage beinhaltet zum 31. Dezember 2021 damit auch die gesetzlich zu bildende Rück-
+lage gemäß § 150 Abs. 2 AktG. 
+
+Anlage 3 
+ Seite 9 | 26 
+ 
+ 
+Am Anfang des Geschäftsjahres verfügte die Gesellschaft über gebundenes Kapital gem. § 272 
+Abs 2 Nr. 1 HGB von 259.203 Tsd. Euro. Gemäß Beschluss der Hauptversammlung vom 
+01.06.2021 wurden, im Wege einer Kapitalerhöhung aus Gesellschaftsmitteln nach § 207 ff. HGB, 
+hiervon 257.554 Tsd. Euro in das Grundkapital eingelegt. Mit Beschluss der gleichen Hauptver-
+sammlung wurde unmittelbar folgend, durch ordentliche Kapitalherabsetzung nach § 222 Abs 4 
+AktG, das Grundkapital um 257.554 Tsd. Euro reduziert und der Kapitalrücklage nach § 272 Abs. 
+2 Nr. 4 HGB zugeführt. 
+Aus der freien Kapitalrücklage wurde ein Betrag in Höhe von 29.234 Tsd. Euro entnommen. Zu-
+sätzlich reduzierte sich die Kapitalrücklage auf Grund einer Korrektur der Vorjahre um 1.279 Tsd. 
+Euro. Ursprünglich wurde der Marktwert von eigenen Anteilen (abzüglich Nennwert) im Gewinn-
+vortrag ausgewiesen, dies wurde im Geschäftsjahr 2021 korrigiert und nun in der Kapitalrücklage 
+ausgewiesen.  
+3.6.3 Eigene Aktien 
+Mit Beschluss der Hauptversammlung vom 27. Juli 2018 wurde die Gesellschaft ermächtigt, in 
+der Zeit bis zum 31. Dezember 2018 43.910 eigene Aktien zu einem Preis von 43,34 Euro pro 
+Aktie von bestimmten Aktionären zu erwerben, die im Zusammenhang mit der Verlegung des 
+Sitzes der Gesellschaft von Hamburg, Deutschland, nach London, Vereinigtes Königreich, An-
+spruch auf Barabfindung hatten. Der Vorstand hat von der Ermächtigung in vollem Umfang Ge-
+brauch gemacht. Gemäß dem Beschluss der Hauptversammlung vom 25. September 2019 kön-
+nen die Aktien unter Ausschluss des Bezugsrechts der Aktionäre unter anderem für Unterneh-
+menszusammenschlüsse und -übernahmen verwendet werden oder aber gegen Barzahlung an 
+Dritte zu einem Preis veräußert werden, der den Börsenkurs zum Zeitpunkt der Veräußerung 
+nicht wesentlich unterschreitet. Die Aktien können darüber hinaus an Mitarbeiter der Gesellschaft 
+und verbundener Unternehmen, einschließlich der Führungskräfte verbundener Unternehmen, 
+im Rahmen von Aktienoptions- und/oder Mitarbeiterbeteiligungsprogrammen ausgegeben wer-
+den. Die eigenen Aktien der Gesellschaft können auch eingezogen werden. Im Jahr 2021 wurden 
+4.146 eigene Aktien an Mitarbeiter der Gruppe veräußert. Die ZEAL Network SE hält zum 31. 
+Dezember 2021 insgesamt 32.569 eigene Anteile mit einem Wert von 43,34 Euro pro Aktie. 
+3.6.4 Genehmigtes Kapital  
+Der Vorstand ist derzeit nicht zur Ausgabe neuer Aktien ermächtigt. Insbesondere verfügt die 
+Gesellschaft weder über genehmigtes noch über bedingtes Kapital. Bis zum Ende der Laufzeit 
+des Genehmigten Kapitals am 21. Juni 2021 hatte der Vorstand von diesem keinen Gebrauch 
+gemacht. 
+3.6.5 Bilanzergebnis 
+Der Bilanzgewinn von 47.032 Tsd. Euro besteht aus dem Jahresüberschuss in Höhe von 
+1.104 Tsd. Euro (Jahresüberschuss Vorjahr: 32.978 Tsd. Euro), dem Gewinnvortrag in Höhe von 
+15.414 Tsd. Euro (Vorjahr: 2.564 Tsd. Euro). Im Berichtsjahr erfolgte eine Gewinnausschüttung 
+
+Anlage 3 
+ Seite 10 | 26 
+ 
+ 
+für das Jahr 2020 in Höhe von 20.127 Tsd. Euro (Vorjahr: 17.887 Tsd. Euro). Des Weiteren wurde 
+der Gewinnvortrag um 1.279 Tsd. Euro erhöht, da hier im Vorjahr die eigenen Anteile abgezogen 
+waren. Zusätzlich erfolgte eine Zuführung aus der freien Kapitalrücklage in Höhe von 29.234 Tsd. 
+Euro. 
+3.7 
+Rückstellungen  
+3.7.1 Steuerrückstellungen 
+Die Steuerrückstellungen umfassen Steuern vom Einkommen und vom Ertrag für die noch nicht 
+endgültig veranlagten Jahre. 
+3.7.2 Sonstige Rückstellungen 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Anteilsbasierte Vergütung 
+ 
+3.348  
+3.716 
+Personalbezogene Rückstellungen 
+ 
+1.325  
+2.234 
+Ausstehende Rechnungen 
+ 
+1.203  
+715 
+Jahresabschlusskosten 
+ 
+184  
+177 
+Übrige 
+ 
+7  
+0 
+Gesamt 
+6.069 
+6.841 
+ 
+Den Vorstandsmitgliedern wurde ein variables Vergütungsprogramm mit kurzfristiger (»STI«) als 
+auch langfristiger (»LTI«) Anreizwirkung gewährt. Auf die kurzfristige Anreizwirkung entfallen 
+25 % der Gesamtvergütung aller Vorstandsmitglieder (basierend auf einer 100 % Erreichung der 
+STI-Ziele). Die Zielerreichung wird anhand von vorgegebenen finanziellen und nicht-finanziellen 
+Zielen gemessen. Die Bewertung der Zielerreichung wird jährlich (Januar oder Februar des Fol-
+gezeitraums) mit einer gleichen Gewichtung der oben genannten Ziele überprüft.  
+Eine Übererfüllung der Ziele ist nach der Vergütungspolitik zulässig, aber der kurzfristige Anreiz 
+ist auf die Gesamthöhe der Grundvergütung begrenzt (wenn 200 % des STI-Ziels erreicht wer-
+den). Die langfristige Anreizwirkung im Rahmen der Vergütungspolitik ist so ausgelegt, dass sie 
+25 % der Gesamtvergütung aller Vorstandsmitglieder entspricht (basierend auf einer 100 %i Er-
+reichung der LTI-Ziele).  
+Den Vorstandsmitgliedern wurde ein langfristiges aktienbasiertes Vergütungsprogramm bewilligt. 
+Jedes Jahr erhalten die Vorstandsmitglieder eine variable Vergütungssumme, die in eine Anzahl 
+von virtuellen Aktien umgewandelt wird.  Für die Berechnung der Aktienanzahl wird der variable 
+Vergütungsbetrag durch den durchschnittlichen volumengewichteten Aktienkurs einer auf den In-
+haber lautenden nennwertlosen Stammaktie (Stückaktie) der ZEAL Network SE im Xetra-Handel 
+
+Anlage 3 
+ Seite 11 | 26 
+ 
+ 
+der Deutschen Börse innerhalb der 90-Tage-Frist vor Ausgabe der Aktie dividiert. Die Auszahlung 
+erfolgt drei Jahre nach Ausgabe, die zu zahlende Höhe entspricht der Anzahl der ausgegebenen 
+Aktien multipliziert mit dem finalen Aktienkurs. Der finale Aktienkurs ist der durchschnittliche vo-
+lumengewichtete Aktienkurs einer auf den Inhaber lautenden nennwertlosen Stammaktie (Stück-
+aktie) von ZEAL im Xetra-Handel der Deutschen Börse innerhalb der 90-Tage-Frist vor Zahlungs-
+tag.  
+Die personalbezogenen Rückstellungen enthalten die Verpflichtungen für Bonusansprüche, für 
+Ansprüche aus den Auslösungsvereinbarungen mit anderen Mitarbeitern sowie nicht genomme-
+nen Urlaub der Mitarbeiter.  
+Die Rückstellungen für ausstehende Eingangsrechnungen berücksichtigen die noch offenen Zah-
+lungsverpflichtungen für bereits erhaltene Dienstleistungen. 
+Mit Ausnahme der anteilsbasierten Vergütung werden alle Rückstellungen voraussichtlich inner-
+halb eines Jahres verbraucht.  
+3.8 
+Verbindlichkeiten 
+ 
+Verbindlichkeiten gegenüber verbundenen Unternehmen in Höhe eines Betrages von 44.304 
+Tsd. Euro haben eine Restlaufzeit von über einem Jahr und weniger als 5 Jahren. 
+ 
+in Tsd. Euro 
+ 
+31.12.2021 
+31.12.2020 
+ 
+Restlaufzeit 
+Restlaufzeit 
+ 
+Art der Verbindlich-
+keit 
+bis 1 
+Jahr 
+mehr 
+als 1 
+Jahr 
+mehr 
+als 5 
+Jahre 
+gesamt 
+bis 1 
+Jahr 
+mehr 
+als 1 
+Jahr 
+mehr 
+als 5 
+Jahre 
+gesamt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Verbindlichkeiten 
+gegenüber Kreditin-
+stituten  
+0 
+8.700 
+0 
+8.700 
+0 
+0 
+0 
+0 
+2. Verbindlichkeiten 
+aus Lieferungen und 
+Leistungen 
+1.159 
+0 
+0 
+1.159 
+99 
+0 
+0 
+99 
+3. Verbindlichkeiten 
+gegenüber verbunde-
+nen Unternehmen 
+954 
+44.029 
+0 
+44.983 
+1.860 
+44.121 
+0 
+45.981 
+4. Sonstige Verbind-
+lichkeiten 
+1.651 
+593 
+ 
+3.935 
+6.179 
+218 
+418 
+1.175 
+1.873 
+- davon aus Steuern  
+143 
+ 
+ 
+143 
+80 
+ 
+ 
+80 
+Gesamt  
+3.764 
+53.322 
+3.935 
+61.020 
+2.178 
+44.601 
+1.175 
+47.954 
+
+Anlage 3 
+ Seite 12 | 26 
+ 
+ 
+3.8.1 Verbindlichkeiten gegenüber Kreditinstituten 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Darlehen Commerzbank 
+ 
+8.700  
+0 
+Gesamt 
+8.700 
+0 
+ 
+Das Darlehen dient zur Finanzierung von weiteren Anteilskäufen der LOTTO24 AG sowie der 
+Finanzierung von Investitionen in neue Geschäftsfelder.  
+3.8.2 Verbindlichkeiten aus Lieferungen und Leistungen 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Verbindlichkeiten aus Lieferung und Leistungen 
+ 
+1.159  
+99 
+Gesamt 
+1.159 
+99 
+ 
+Die Verbindlichkeiten aus Lieferungen und Leistungen berücksichtigen im Wesentlichen die noch 
+zum Stichtag offenen Zahlungsverpflichtungen für bereits erhaltene Dienstleistungen.  
+3.8.3 Verbindlichkeiten gegenüber verbundenen Unternehmen 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Verbindlichkeiten aus Darlehen 
+ 
+44.304  
+44.121 
+Verbindlichkeiten aus Lieferung und Leistungen 
+ 
+678  
+1.860 
+Gesamt 
+44.983 
+45.981 
+ 
+Die Verbindlichkeiten aus Darlehen resultieren aus dem Kauf eines Kundenstamms und Software 
+von einem verbundenen Unternehmen inklusive aufgelaufenen Zinsen. 
+Die Verbindlichkeiten aus Lieferungen und Leistungen bestehen hauptsächlich aus Zahlungsver-
+pflichtungen, die am Bilanzstichtag noch an Unternehmen der ZEAL-Gruppe für Unternehmens-
+dienstleistungen fällig sind. Die Verbindlichkeiten aus Lieferungen und Leistungen sind innerhalb 
+eines Jahres fällig. Die Verbindlichkeiten aus Darlehen haben eine Restlaufzeit von 3 Jahren. 
+
+Anlage 3 
+ Seite 13 | 26 
+ 
+ 
+3.8.4 Sonstige Verbindlichkeiten 
+31.12.2021 
+31.12.2020 
+in Tsd. Euro 
+Zahlungsverpflichtungen ggü. Kunden 
+ 
+6.035  
+1.775 
+Verbindlichkeiten aus Steuern 
+ 
+144  
+80 
+Übrige 
+ 
+0  
+18 
+Gesamt 
+6.179 
+1.873 
+ 
+Die Verbindlichkeiten aus Steuern sowie die übrigen Verbindlichkeiten haben sind innerhalb eines 
+Jahres fällig. Die Verbindlichkeiten aus Zahlungsverpflichtungen ggü. Kunden sind innerhalb der 
+nächsten 15 Jahre fällig. 
+ 
+3.9 
+Umsatzerlöse 
+2021 
+2020 
+in Tsd. Euro 
+Umsatzerlöse 
+ 
+20.456  
+21.028 
+Gesamt 
+20.456 
+21.028 
+ 
+ZEAL Network SE erzielt Umsätze aus Lizenzerlösen und aus der Bereitstellung von Dienstleis-
+tungen für Gesellschaften innerhalb des Konzernkreises. Die Umsätze werden in Deutschland 
+erzielt. Im Jahr 2021 beliefen sich diese Umsatzerlöse auf 19.926 Tsd. Euro (Vorjahr: 19.931 Tsd. 
+Euro). Des Weiteren wurden Umsatzerlöse aus der Untervermietung von Büroflächen in Höhe 
+von 530 Tsd. Euro (Vorjahr: 462 Tsd. Euro) erwirtschaftet. 
+3.10 Sonstige betriebliche Erträge 
+2021 
+2020 
+in Tsd. Euro 
+Sonstige betriebliche Erträge 
+ 
+4.017  
+4.859 
+Gesamt 
+4.017 
+4.859 
+ 
+Die sonstigen betrieblichen Erträge setzten sich im Geschäftsjahr 2021 im Wesentlichen aus der 
+Versicherungsentschädigung freiheit+ in Höhe von 3.450 Tsd. Euro (Vorjahr: null) zusammen. 
+
+Anlage 3 
+ Seite 14 | 26 
+ 
+ 
+Daneben sind Erträge aus Währungsumrechnung in Höhe von 117 Tsd. Euro (Vorjahr: 304 Tsd. 
+Euro) enthalten.  
+3.11  Materialaufwand 
+2021 
+2020 
+in Tsd. Euro 
+Kosten aus der Auszahlung von Großgewinnen 
+ 
+5.750  
+0 
+Erstattungen der Gewinnauslagen 
+ 
+-1.729  
+0 
+Gesamt 
+4.021 
+0 
+ 
+Bei dem in diesem Geschäftsjahr erstmals ausgewiesenen Materialaufwand handelt es sich um 
+Kosten aus der Auszahlung von Großgewinnen der Soziallotterie freiheit+ für das aktuelle Ge-
+schäftsjahr und Erstattungen auf Basis vertraglicher Bedingungen mit dem Lotterieveranstalter. 
+Im Vorjahr 2020 betrug dieser Aufwand 1.748 Tsd. Euro und wurde in den Umsatzerlösen einbe-
+zogen. Der Betrag setzte sich aus den Kosten der Auszahlung von Großgewinnen in Höhe von 
+2.300 Tsd. Euro abzüglich der Erstattungen der Gewinnauslagen in Höhe von 522 Tsd. Euro 
+zusammen. Bereinigt um diesen Effekt würden die 2020er Umsatzerlöse 22.776 Tsd, Euro be-
+tragen. 
+3.12 Personalaufwand 
+2021 
+2020 
+in Tsd. Euro 
+Gehälter 
+ 
+6.574  
+8.991 
+Soziale Abgaben 
+ 
+506  
+591 
+Gesamt 
+7.080 
+9.582 
+ 
+3.13 Abschreibungen  
+Hinsichtlich der Zusammensetzung der Abschreibungen verweisen wir auf den Anlagenspiegel. 
+ 
+ 
+
+Anlage 3 
+ Seite 15 | 26 
+ 
+ 
+3.14 Sonstige betriebliche Aufwendungen 
+2021 
+2020 
+in Tsd. Euro 
+Direkte Kosten des Geschäftsbetriebs 
+ 
+4.951  
+5.513 
+Indirekte Kosten des Geschäftsbetriebs 
+ 
+7.510  
+9.483 
+Gesamt 
+12.460 
+14.996 
+Folgende Faktoren beeinflussten die Reduzierung dieser Position:  
+- 
+Die direkten Kosten des Geschäftsbetriebs sind von 5.513 Tsd. Euro im Vorjahr um 
+562 Tsd. Euro auf 4.951 Tsd. Euro gesunken. Grund hierfür sind die im Geschäftsjahr 
+2021 geringer ausgefallenen Intercompany Lizenzgebühren. 
+- 
+Die indirekten Kosten des Geschäftsbetriebs sanken von 9.483 Tsd. Euro um 1.973 
+Tsd. Euro auf 7.510 Tsd. Euro. Der wesentliche Grund hierfür war die Reduzierung 
+der Raumkosten um 766 Tsd. Euro und der Beratungskosten um 1.180 Tsd. Euro.  
+3.15 Finanzergebnis 
+2021 
+2020 
+in Tsd. Euro 
+Finanzierungserträge 
+   
+   
+Erträge aus Beteiligungen 
+ 
+4.660  
+37.000 
+Zinserträge 
+ 
+115  
+114 
+  
+ 
+4.775  
+37.114 
+  
+  
+  
+Finanzierungsaufwendungen 
+  
+  
+Abschreibungen auf Finanzanlagen 
+ 
+597  
+466 
+Zinsen und ähnliche Aufwendungen 
+ 
+1.148  
+1.135 
+  
+ 
+1.745  
+1.601 
+Gesamt 
+3.030 
+35.513 
+ 
+Die Finanzierungserträge resultieren hauptsächlich aus einer Dividendenausschüttung der       
+myLotto24 Limited, London.   
+Die Abschreibungen auf Finanzanlagen betreffen die Wertberichtigung von Beteiligungen an as-
+soziierten Unternehmen in Großbritannien. 
+
+Anlage 3 
+ Seite 16 | 26 
+ 
+ 
+Zinsen und ähnliche Aufwendungen beinhalten Zinsaufwendungen aus bestehenden Darlehen.  
+4. 
+ 
+SONSTIGE ANGABEN 
+4.1  
+Vorstand 
+Der Vorstand besteht derzeit aus vier Mitgliedern. Vorstände können nur durch den Aufsichtsrat 
+ernannt und abberufen werden. 
+Dr. Helmut Becker ist als Vorsitzender des Vorstands zuständig für dessen Leitung sowie für die 
+Unternehmensstrategie, externe Kommunikation, Recht, Regulierung und Compliance, Human 
+Resources, Vertrieb und die Lotterievermittlung.  
+Herr Paul Dingwitz ist als neu bestelltes Mitglied seit dem 5. Juni 2021 zuständig für den Ge-
+schäftsbereich Informationstechnologie. 
+Herr Sönke Martens ist als neu bestelltes Mitglied seit dem 1. Juli 2021 zuständig für den Ge-
+schäftsbereich Marketing und Markenführung. 
+Herr Jonas Mattsson ist zuständig für die Bereiche Finanzen, Rechnungswesen, Steuern, Con-
+trolling und Investors Relations. 
+Die Vorstände üben ihre Tätigkeit hauptberuflich aus. Die Vergütung des Vorstandes setzte sich 
+im Geschäftsjahr zum 31. Dezember 2021 wie folgt zusammen: 
+Vorstand 
+Jahr
+Festvergü-
+tung 
+Kurzfristige
+Anreize
+Langfristige 
+Anreize
+Ver-
+sorgung- 
+und son-
+stige Leis-
+tungen 
+Gesamt 
+in Tsd. Euro 
+Dr. Helmut Becker 
+2021
+667 
+462
+882
+11 
+2.022 
+Dr. Helmut Becker 
+2020
+663 
+415
+286
+11 
+1.375 
+Paul Dingwitz 
+2021
+168 
+-
+-
+- 
+168 
+Sönke Martens 
+2021
+147 
+-
+-
+2 
+149 
+Jonas Mattsson 
+2021
+487 
+323
+619
+- 
+1.429 
+
+Anlage 3 
+ Seite 17 | 26 
+ 
+ 
+Jonas Mattsson 
+2020
+494 
+291
+185
+11 
+981 
+ 
+Einzelheiten zum Aktienbesitz des Vorstands zum 31. Dezember 2020 und 2021 beziehungs-
+weise zum Zeitpunkt des Ausscheidens aus den Organen sind wie folgt: 
+Im wirtschaftlichen Eigentum 
+gehaltene Aktien 
+Position 
+2020 
+Veränderungen 
+2021 
+Dr. Helmut Becker 
+CEO 
+25.856 
+1.500 
+27.356 
+Jonas Mattson 
+CFO 
+8.600 
+1.400 
+10.000 
+4.2  
+Aufsichtsrat 
+Der Aufsichtsrat besteht derzeit aus sechs Mitgliedern. Seine Mitglieder werden in der ordentli-
+chen Hauptversammlung des Unternehmens durch die Aktionäre bestellt und abberufen. Bei der 
+Zusammensetzung der Mitglieder des Aufsichtsrats wurde auf ein ausgewogenes Verhältnis von 
+Fähigkeiten, Erfahrung, Unabhängigkeit und Kenntnissen über das Unternehmen geachtet, damit 
+die Aufgaben und Zuständigkeiten des Aufsichtsrats effektiv durchgeführt werden können. Der 
+Aufsichtsrat kommt zu der Schlussfolgerung, dass er aus einer angemessenen Anzahl unabhän-
+giger Mitglieder besteht. 
+Der Aufsichtsrat hat ein Kompetenzprofil für das Gesamtgremium beschlossen. Nach seiner Ein-
+schätzung verfügt er in der derzeitigen Zusammensetzung insgesamt über die Kompetenzen, die 
+im Hinblick auf die Tätigkeit von ZEAL notwendig sind. Hierzu zählen insbesondere die folgenden 
+Erfahrungen und Kenntnisse:  
+ 
+- 
+besondere Kenntnisse und Erfahrungen im Bereich des Lotteriegeschäfts (Markt und Wettbe-
+werb) 
+- 
+umfassende Kenntnisse im Bereich Finanzwesen/Rechnungslegung und Controlling 
+- 
+besondere Kenntnisse im Bereich Informationstechnologie im E-Commerce-Umfeld 
+- 
+Erfahrungen in der Führung und Überwachung eines Unternehmens inklusive der Corporate 
+Governance-Anforderungen 
+Der Aufsichtsrat hat festgestellt, dass mindestens ein Mitglied des Prüfungsausschusses über 
+Sachverstand auf dem Gebiet Rechnungslegung und mindestens ein weiteres Mitglied des Prü-
+fungsausschusses über Sachverstand auf dem Gebiet Abschlussprüfung verfügt sowie, dass die 
+Mitglieder in ihrer Gesamtheit mit dem Sektor, in dem die Gesellschaft tätig ist, vertraut sind. 
+
+Anlage 3 
+ Seite 18 | 26 
+ 
+ 
+Dem Aufsichtsrat der ZEAL Network SE gehörten im Geschäftsjahr 2021 an: 
+- Peter Steiner, Wirtschaftsprüfer (Vorsitzender des Aufsichtsrats) 
+- Oliver Jaster, Vorstand der Günter Holding SE (stellvertretender Vorsitzender) 
+- Thorsten Hehl, Mitglied der Geschäftsführung Günter Holding SE (einfaches Mitglied, Vor-
+sitzender des Prüfungsausschusses) 
+- Marc Peters, Kaufmann (einfaches Mitglied) 
+- Jens Schumann, Kaufmann (einfaches Mitglied) 
+- Frank Strauß, Unternehmensberater (einfaches Mitglied)  
+ 
+Peter Steiner ist Mitglied in folgenden anderen gesetzlich zu bildenden inländischen Aufsichtsrä-
+ten oder in vergleichbaren in- und ausländischen Kontrollgremien: 
+-  Clariant International AG (Mitglied des Verwaltungsrats, Vorsitzender des Prüfungsaus-
+schusses) 
+-  Wienerberger AG (Vorsitzender des Aufsichtsrats) 
+Oliver Jaster ist Mitglied in folgenden anderen gesetzlich zu bildenden inländischen Aufsichtsrä-
+ten oder in vergleichbaren in- und ausländischen Kontrollgremien: 
+- Günther Holding SE (Vorsitzender des Verwaltungsrats) 
+- Günther SE (Vorsitzender des Verwaltungsrats) 
+- Günther Direct Services GmbH (Vorsitzender des Beirats) 
+- All4cloud Management GmbH (Vorsitzender des Beirats) 
+- All4cloud GmbH (Vorsitzender des Beirats) 
+- G Connect GmbH (Vorsitzender des Beirats) 
+- MAX Automation SE (Mitglied des Verwaltungsrats) 
+ 
+ 
+Thorsten Hehl ist Mitglied in folgenden anderen gesetzlich zu bildenden inländischen Auf-
+sichtsräten oder in vergleichbaren in- und ausländischen Kontrollgremien: 
+- LOTTO24 AG (Mitglied des Aufsichtsrats) 
+- Günther Direct Services GmbH (Mitglied des Beirats) 
+ 
+Marc Peters hat derzeit keine weiteren Aufsichtsratsmandate. 
+ 
+Jens Schumann ist Mitglied in folgenden anderen gesetzlich zu bildenden inländischen Auf-
+sichtsräten oder in vergleichbaren in- und ausländischen Kontrollgremien: 
+-  LOTTO24 AG (Vorsitzender des Aufsichtsrats) 
+-  LemonSwan GmbH (Mitglied des Beirats)   
+
+Anlage 3 
+ Seite 19 | 26 
+ 
+ 
+ 
+Frank Strauß ist Mitglied in folgenden anderen gesetzlich zu bildenden inländischen Aufsichtsrä-
+ten oder in vergleichbaren in- und ausländischen Kontrollgremien: 
+- Bullfinch Asset Aktiengesellschaft (Mitglied des Aufsichtsrats) 
+- Clark AG (Vorsitzender des Aufsichtsrats) 
+- European Bank for Financial Services GmbH (Vorsitzender des Aufsichtsrats) 
+- Kiwi HoldCo Cayco Limited (Mitglied des Board of Directors) 
+- Precis Capital Partners Limited (Vorsitzender des Board of Directors) 
+- The Fifty Five Foundry Inc. (Mitglied des Boards of Directors) 
+ 
+In der folgenden Tabelle sind die Positionen der einzelnen Aufsichtsratsmitglieder im Aufsichtsrat 
+und in seinen Ausschüssen dargestellt: 
+Name 
+Positionen in Aufsichtsrat und Ausschüssen 
+Peter Steiner 
+Vorsitzender des Präsidialausschusses, Vorsitzender des Investitions-
+ausschusses, Vorsitzender des Sonderausschusses, Mitglied des Prü-
+fungsausschusses 
+Oliver Jaster 
+Mitglied des Präsidialausschusses, 
+Mitglied des Sonderausschusses 
+Thorsten Hehl 
+Vorsitzender des Prüfungsausschusses,  
+Mitglied des Investitionsausschusses 
+Marc Peters 
+Mitglied des Investitionsausschusses,  
+Mitglied des Sonderausschusses 
+Jens Schumann 
+Mitglied des Präsidialausschusses,  
+Mitglied des Investitionsausschusses 
+Frank Strauß 
+Mitglied des Prüfungsausschusses,  
+Mitglied des Sonderausschusses 
+ 
+Die erhaltenen Zuwendungen der Mitglieder des Aufsichtsrats für das Geschäftsjahr zum 31. De-
+zember 2021 ist in der folgenden Tabelle dargestellt:  
+AUFSICHTSRATS 
+2021 
+2020 
+in Tsd. Euro 
+ 
+ 
+
+Anlage 3 
+ Seite 20 | 26 
+ 
+ 
+Peter Steiner 
+172 
+153 
+Andreas de Maizière 
+- 
+86 
+Oliver Jaster 
+109 
+90 
+Thorsten Hehl 
+81 
+73 
+Jens Schumann 
+63 
+63 
+Marc Peters 
+63 
+60 
+Frank Strauß 
+63 
+37 
+Gesamt 
+551 
+562 
+ 
+4.3  
+Beziehungen zu nahestehenden Unternehmen und Personen 
+Die Mitglieder des Vorstands und des Aufsichtsrats von ZEAL Network sowie ihre unmittelbaren 
+Angehörigen werden als nahestehend betrachtet.  
+Oliver Jaster ist ein Mitglied des Aufsichtsrats. Der Geschäftsbetrieb der Schumann e.K. wurde 
+an ein verbundenes Unternehmen von Oliver Jaster, die Günther Direct Services GmbH, Bam-
+berg, ausgelagert. Im Gegenzug erhielt die Günther Direct Services GmbH, Bamberg, eine Ver-
+gütung von 150 Tsd. Euro für das Geschäftsjahr (2020: 126 Tsd. Euro).  
+Seit Juni 2014 hat die LOTTO24 AG mit der Staatliche Lotterie-Einnahme Günther KG eine Ko-
+operationsvereinbarung geschlossen. Der vertretungsberechtigte Gesellschafter (Komplementär) 
+der Staatliche Lotterie-Einnahme Günther KG, Oliver Jaster ist eine "nahestehende Person" ge-
+mäß IAS 24 sowohl in Bezug auf die Staatliche Lotterie-Einnahme Günther KG als auch auf die 
+ZEAL und die mit ihr verbundene LOTTO24 AG. Die Kooperationsvereinbarung regelt die Ver-
+marktung der Klassenlotterien NKL und SKL über die Webseiten der LOTTO24 AG (lotto24.de, 
+seit 2020 auch tipp24.com) mit Wirkung ab 1. Juli 2014. Kunden, die die Klassenlotterieangebote 
+auf lotto24.de oder tipp24.com auswählen und auf einer speziellen Landing Page weitere Daten 
+für den Kauf und die Registrierung erfassen, werden hiernach auf die Seite guenther.de weiter-
+geleitet und können dort Klassenlotterieprodukte erwerben. Die LOTTO24 AG erhält für die er-
+folgreiche Weiterleitung dauerhaft einen festgelegten Provisionsanteil der dort getätigten Klas-
+senlotterieumsätze dieser Kunden. Außerdem werden für gemeinsame Werbekampagnen Wer-
+bekostenzuschüsse abgerechnet. Die LOTTO24 AG hatte vor Abschluss der Vereinbarung meh-
+rere Angebote verschiedener Klassenlotterie-Einnehmer eingeholt, um die Marktüblichkeit beur-
+teilen zu können, und sich hiernach für das Angebot der Günther-Unternehmen entschieden.  
+
+Anlage 3 
+ Seite 21 | 26 
+ 
+ 
+Jens Schumann ist Mitglied des Aufsichtsrats. Jens Schumann ist der Alleininhaber der Schu-
+mann e. K. Diese Struktur existiert in vergleichbarer Form seit 2002 und wurde gewählt, weil 
+Klassenlotterien Lizenzen nur an natürliche Personen oder Unternehmen vergeben haben und 
+werden, bei denen weder die Haftung der Gesellschaft noch ihrer direkten und indirekten Partner 
+beschränkt ist. Eine Kooperationsvereinbarung, die die Abwicklung der Spielteilnahme von Klas-
+senlotteriekunden durch die Schumann e. K. regelt, besteht zwischen ZEAL und der Schumann 
+e. K. Die Schumann e. K. muss im Rahmen der Vereinbarung alle in diesem Zusammenhang 
+erhobenen Provisionen und sonstigen Vermittlungsgebühren an ZEAL abführen. ZEAL erbringt 
+für die Schumann e. K. Dienstleistungen in den Bereichen Controlling, Buchhaltung, Marketing 
+und technische Dienstleistungen und trägt die Kosten, die der Schumann e. K. durch die Betriebs-
+führung entstanden sind. Da die Schumann e. K. in den Konzernabschluss von ZEAL einbezogen 
+ist, werden alle Aufwendungen und Er-träge im Konzernabschluss vollständig eliminiert. 
+Da Jens Schumann die Schumann e. K. im Interesse von ZEAL betreibt, hat sich ZEAL verpflich-
+tet, ihn im Falle von persönlichen Ansprüchen Dritter aus oder im Zusammenhang mit dem Be-
+trieb der Schumann e. K. freizustellen. Die Freistellung ist insoweit beschränkt, als die Erfüllung 
+dieser Freistellung nicht dazu führen darf, dass ZEAL zahlungsunfähig oder überschuldet wird. 
+Jens Schumann hat in seiner Eigenschaft als Inhaber der Schumann e. K. im Geschäftsjahr keine 
+Vergütung erhalten. 
+Marc Peters, Mitglied des Aufsichtsrats von ZEAL, war bis Ende 2021 an der Lottostarlet Limited 
+(Lottostarlet), einem Lotterieveranstalter mit Sitz in Malta, beteiligt. Im Geschäftsjahr 2019 hatte 
+die Tipp24 Services eine Vereinbarung über Spieldienstleistungen mit Lottostarlet geschlossen. 
+2020 hatte Tipp24 Services im Zusammenhang mit dieser Vereinbarung Umsatzerlöse in Höhe 
+von 1.396 Tsd. Euro (2021: null) erfasst; davon standen zum Jahresende 193 Tsd. Euro (2021: 
+null) aus. Im Verlauf des Jahres 2020 hatte die myLotto24 zudem eine Vereinbarung über Infra-
+strukturleistungen mit der Lottostarlet geschlossen. Im Rahmen dieser Vereinbarung stellte die 
+myLotto24 der Lottostarlet verschiedene Technologieleistungen zur Verfügung. 2020 hatte my-
+Lotto24 im Zusammenhang mit dieser Vereinbarung Umsatzerlöse in Höhe von 236 Tsd. Euro 
+(2021: null) erfasst; davon standen zum Jahresende 32 Tsd. Euro (2021: null) aus. Am 18. De-
+zember 2020 wurde die Geschäftsbeziehung der Tipp24 Services und der myLotto24 mit Lot-
+tostarlet beendet. 
+Andere wesentliche Geschäftsvorgänge mit nahestehenden Unternehmen und Personen sind im 
+Geschäftsjahr nicht erfolgt. 
+4.4  
+Sonstige finanzielle Verpflichtungen 
+Wesentliche sonstige finanzielle Verpflichtungen aus sonstigen Verträgen bestehen in folgender 
+Höhe: 
+
+Anlage 3 
+ Seite 22 | 26 
+ 
+ 
+2022 
+2023 
+2024 
+2025 
+2026 
+und  
+später 
+Summe 
+in Tsd. Euro 
+ 
+514  
+89  
+89  
+89  
+171  
+952 
+ 
+4.5 
+Entsprechenserklärung zur Übernahme der Empfehlungen der »Regierungskommis-
+sion Deutscher Corporate Governance Kodex« 
+Aufsichtsrat und Vorstand haben gemäß § 161 AktG eine Entsprechenserklärung zum Corporate 
+Governance Kodex abgegeben und den Aktionären auf der Website der Gesellschaft (ZEALnet-
+work.de) dauerhaft zugänglich gemacht. 
+4.6  
+Mitarbeiter 
+Im Durchschnitt der Quartalsstichtage belief sich die Anzahl der Mitarbeiter 2021 auf 25 (Vorjahr: 
+15). 
+4.7  
+Angaben gemäß § 160 Abs. 1 Nr. 8 AktG 
+Gemäß § 160 Abs. 1 Nr. 8 AktG sind nachstehend die uns nach § 33 Abs. 1 WpHG bzw. § 21 
+Abs. 1 WpHG (a. F.) übermittelten und von uns nach § 40 Abs. 1 WpHG bzw. § 26 Abs. 1 WpHG 
+(a. F.) veröffentlichten Mitteilungen über Beteiligungen an der Gesellschaft wiedergegeben. Wir 
+weisen darauf hin, dass sich die Zahl der Gesamtstimmrechte der Gesellschaft von den zum 
+Zeitpunkt der ersten Börsenzulassung am 12. Oktober 2005 bestehenden 8.872 Tsd. Euro am 
+23. Januar 2009 auf 7.985 Tsd. Euro, am 30. April 2013 auf 8.385 Tsd. Euro und am 8. Mai 2019 
+auf 22.396 Tsd. Euro geändert hat. 
+Morgan Stanley, Wilmington, Delaware, Vereinigte Staaten von Amerika, hat uns mitgeteilt, dass 
+ihr Stimmrechtsanteil an der Gesellschaft am 18. Juni 2021 10,13 % (2.268.021 Stimmrechte von 
+22.396.070) beträgt. Davon sind Morgan Stanley 10,13 % (2.268.021 Stimmrechte) nach § 34 
+WpHG zuzurechnen. 3 % oder mehr der Stimmrechte (10,05 %) werden zu dem angegebenen 
+Zeitpunkt direkt von der Morgan Stanley & Co. International plc gehalten. 
+Die UBS Group AG, Zürich, Schweiz, hat uns mitgeteilt, dass ihr Stimmrechtsanteil an der Ge-
+sellschaft am 12. Mai 2021 13,96 % (3.125.886 Stimmrechte von 22.396.070) beträgt. Davon sind 
+der UBS Group AG 13,96 % (3.125.886 Stimmrechte) nach § 34 WpHG zuzurechnen. 3 % oder 
+mehr der Stimmrechte (12,80 %) werden zu dem angegebenen Zeitpunkt direkt von der UBS AG 
+gehalten. 
+Marc Peters hat uns mitgeteilt, dass sein Stimmrechtsanteil an der Gesellschaft am 3. Juli 2012 
+die Schwelle von 5 % unterschritten hat und zu diesem Tag 4,46 % (384.715 Stimmrechte) be-
+trägt.  
+
+Anlage 3 
+ Seite 23 | 26 
+ 
+ 
+Zusätzliche Angaben zu mitgeteilten Beteiligungen an der Gesellschaft: 
+Vom 7. Februar 2014 bis zum 25. Oktober 2019 hatte die Gesellschaft ihren Sitz im Vereinigten 
+Königreich. In diesem Zeitraum waren Mitteilungen über Beteiligungen an der Gesellschaft nach 
+den Vorschriften der britischen Disclosure and Transparency Rules (DTR) zu übermitteln. Die 
+nachstehenden, uns nach DTR5.1.2R übermittelten und von uns nach § 40 Abs. 1 WpHG veröf-
+fentlichten Mitteilungen über Beteiligungen an der Gesellschaft werden freiwillig zusätzlich zu den 
+Angaben gemäß § 160 Abs. 1 Nr. 8 AktG wiedergegeben (jeweils Übersetzungen aus der engli-
+schen Sprache): 
+Oliver Jaster hat uns mitgeteilt, dass sein Stimmrechtsanteil an der Gesellschaft am 24. Oktober 
+2019 33,89 % (7.577.378 Stimmrechte von 22.352.160) beträgt. Davon werden zu diesem Zeit-
+punkt 33,89 % indirekt i.S.d. Art. 10 der Richtlinie 2004/109/EG) (DTR5.2.1) gehalten. Ebenfalls 
+zu diesem Zeitpunkt werden 3% oder mehr der Stimmrechte direkt von der Othello Vier Beteili-
+gungs GmbH & Co. KG (30,06 %) sowie der Othello Drei Beteiligungs GmbH & Co. KG (3,83 %) 
+gehalten.  
+Die Working Capital Advisors (UK) Limited, London, Vereinigtes Königreich, hat uns mitgeteilt, 
+dass ihr Stimmrechtsanteil an der Gesellschaft am 25. September 2019 20,18 % (4.511.693 
+Stimmrechte) beträgt. Davon werden zu diesem Zeitpunkt 20,18 % der Stimmrechte indirekt i.S.d. 
+Art. 10 der Richtlinie 2004/109/EG (DTR5.2.1) gehalten. Ebenfalls zu diesem Zeitpunkt werden 3 
+% oder mehr der Stimmrechte direkt von der Working Capital Partners, Limited (11,55 %) sowie 
+der High Street Partners, Limited (8,63 %) gehalten.  
+Jens Schumann hat uns mitgeteilt, dass sein Stimmrechtsanteil an der Gesellschaft am 14. Mai 
+2019 3,58 % (800.209 Stimmrechte von 22.352.160¹) beträgt. Zu diesem Zeitpunkt werden 
+3,58 % der Stimmrechte direkt i.S.d. Art. 9 der Richtlinie 2004/109/EG (DTR5.1) gehalten.  
+Die Lottoland Holdings Limited, Gibraltar, hat uns mitgeteilt, dass ihr Stimmrechtsanteil an der 
+Gesellschaft am 11. Januar 2019 5,53 % (463.499 Stimmrechte von 8.385.088) beträgt. Zu die-
+sem Zeitpunkt werden 5,53 % der Stimmrechte direkt i.S.d. Art. 9 der Richtlinie 2004/109/EG 
+(DTR5.1) gehalten.  
+4.8  
+Honorar des Abschlussprüfers 
+Das von dem Abschlussprüfer für das Geschäftsjahr berechnete Honorar ist im IFRS Konzern-
+abschluss der ZEAL Network SE angegeben und erläutert. 
+4.9  
+Nachtragsbericht 
+Die Eskalation der Russland-Ukraine Krise, die am 24. Februar 2022 zum Beginn einer kriegeri-
+schen Auseinandersetzung geführt hat, belastet die Entwicklung der Weltwirtschaft und kann 
+auch bei den Kundinnen und Kunden der ZEAL zu Unsicherheiten führen. Auch wenn die ZEAL 
+
+Anlage 3 
+ Seite 24 | 26 
+ 
+ 
+keine direkten Beziehungen zu Unternehmen, Kundinnen und Kunden in den betroffenen Län-
+dern hat und aufgrund seines Geschäftsmodells auch keine wesentlichen negativen Auswirkun-
+gen aus Lieferkettenengpässen oder der Energiepreisentwicklung erwartet, kann der Vorstand 
+nicht abschließend einschätzen, wie sich die aus dieser Situation voraussichtlich erwachsenden 
+Unsicherheiten auf die Nachfrage und somit auf seine künftige Geschäftsentwicklung auswirken 
+werden. 
+Bis zum Datum der Aufstellung des Konzernabschlusses sind keine anderen wesentlichen be-
+richtspflichtigen Ereignisse eingetreten. 
+4.10 Konzernabschluss 
+Die ZEAL Network SE stellt einen Konzernabschluss nach internationalen IFRS-Rechnungsle-
+gungsstandards, wie sie in der EU anzuwenden sind, und den ergänzend nach § 315e Abs.1 
+HGB anzuwendenden deutschen gesetzlichen Vorschriften auf. Dieser Konzernabschluss wird 
+im Bundesanzeiger und auf der Website der Gesellschaft (www.ZEALnetwork.de) veröffentlicht. 
+ 
+ 
+
+Anlage 3 
+ Seite 25 | 26 
+ 
+ 
+4.11 Vorschlag für die Ergebnisverwendung 
+Der Hauptversammlung wird vorgeschlagen, aus dem Bilanzgewinn des Geschäftsjahres 2021 
+der ZEAL Network SE 46.963.352,10 Euro (2,10 Euro je dividendenberechtigter Stückaktie) an 
+die Aktionäre auszuschütten und diesen im Übrigen auf neue Rechnung vorzutragen. 
+Hamburg, den 22. März 2022 
+Der Vorstand 
+ZEAL Network SE 
+ 
+ 
+Dr. Helmut Becker 
+  
+ 
+ 
+Paul Dingwitz 
+Vorstandsvorsitzender  
+ 
+ 
+Vorstand Technology 
+ 
+ 
+ 
+ 
+ 
+Sönke Martens  
+ 
+ 
+ 
+Jonas Mattsson 
+Vorstand Operations 
+ 
+ 
+ 
+Finanzvorstand 
+ 
+
+ZEAL Network SE, Hamburg
+Anlage 3
+Wert zum 01.01.21
+Zugänge
+Umbuchung
+Abgänge
+Wert zum 31.12.21
+Wert zum 
+01.01.21
+Zugänge
+Abgänge
+Wert zum 
+31.12.21
+31.12.2021
+31.12.2020
+EUR
+EUR
+EUR
+EUR
+EUR
+EUR
+EUR
+EUR
+EUR
+EUR
+EUR
+I. Immaterielle Vermögensgegenstände
+1. Entgeltlich erworbener Kundenstamm und 
+Software
+44.029.000,00
+95.431,91
+216.850,83
+-
+44.341.282,74
+-3.330.324,00
+-2.774.473,00
+-
+-6.104.797,00
+38.236.485,74
+40.698.676,00
+2. Geleistete Anzahlungen
+269.448,53
+135.697,30
+-216.850,83
+-
+188.295,00
+-
+-
+-
+-
+188.295,00
+269.448,53
+44.298.448,53
+231.129,21
+-
+-
+44.529.577,74
+-3.330.324,00
+-2.774.473,00
+-
+-6.104.797,00
+38.424.780,74
+40.968.124,53
+II. Sachanlagen
+Andere Anlagen, Betriebs- und 
+Geschäftsausstattung
+109.488,93
+6.812,64
+-
+-
+116.301,57
+-25.756,07
+-62.935,51
+-
+-88.691,58
+27.609,99
+83.732,86
+109.488,93
+6.812,64
+-
+-
+116.301,57
+-25.756,07
+-62.935,51
+-
+-88.691,58
+27.609,99
+83.732,86
+III. Finanzanlagen
+1. Anteile an verbundene Unternehmen
+298.068.204,61
+8.699.068,98
+-
+-
+306.767.273,59
+-
+-
+-
+306.767.273,59
+298.068.204,61
+2. Ausleihungen an verbundene Unternehmen
+3.590.821,91
+-
+-
+-1.200.000,00
+2.390.821,91
+-
+-
+-
+-
+2.390.821,91
+3.590.821,91
+3. Beteiligungen
+5.369.673,84
+405.015,40
+-
+-133.497,54
+5.641.191,70
+-1.471.420,25
+-596.875,29
+133.497,54
+-1.934.798,00
+3.706.393,70
+3.898.253,59
+307.028.700,36
+9.104.084,38
+-
+-1.333.497,54
+314.799.287,20
+-1.471.420,25
+-596.875,29
+133.497,54
+-1.934.798,00
+312.864.489,20
+305.557.280,11
+Gesamt
+351.436.637,82
+9.342.026,23
+-
+-1.333.497,54
+359.445.166,51
+-4.827.500,32
+-3.434.283,80
+133.497,54
+-8.128.286,58
+351.316.879,93
+346.609.137,50
+31. Dezember 2021
+Entwicklung des Anlagevermögens für das Geschäftsjahr 01.01.2021 bis 31.12.2021
+Anschaffungs- bzw. Herstellungskosten
+Abschreibungen
+Restbuchwerte
+26/26
+
+Anlage 4 
+Seite 1 von 22 
+ 
+ZEAL NETWORK SE, HAMBURG  
+LAGEBERICHT FÜR 2021 
+GESCHÄFTSMODELL 
+Organisatorische Struktur 
+Die ZEAL Network SE („ZEAL“, „wir“) ist eine Societas Europaea (SE) mit Sitz in Hamburg.  
+Der Vorstand besteht aus vier Mitgliedern. Die Mitglieder werden durch den Aufsichtsrat bestellt und 
+abberufen. Der Aufsichtsrat verantwortet die Festlegung des Tätigkeitsumfangs und der 
+Zuständigkeiten der einzelnen Vorstandmitgliedern sowie der Entscheidungen, die vom 
+Gesamtvorstand getroffen werden müssen. Für die Mitglieder des Vorstandes hat der Aufsichtsrat 
+eine Altersgrenze von 63 Jahren festgelegt.  
+Dr. Helmut Becker ist als Vorsitzender des Vorstands zuständig für dessen Leitung sowie für die 
+Unternehmensstrategie, externe Kommunikation, Recht, Regulierung und Compliance, Human 
+Resources, Vertrieb und die Lotterievermittlung. 
+Herr Paul Dingwitz ist als neu bestelltes Mitglied seit dem 5. Juni 2021 zuständig für den 
+Geschäftsbereich Informationstechnologie. 
+Herr Sönke Martens ist als neu bestelltes Mitglied seit dem 1. Juli 2021 zuständig für den 
+Geschäftsbereich Marketing und Markenführung. 
+Herr Jonas Mattsson ist zuständig für die Bereiche Finanzen, Rechnungswesen, Steuern, Controlling, 
+Investor Relations und die Leitung der Geschäftsaktivitäten in Spanien.  
+Die Vorstände üben ihre Tätigkeit hauptberuflich aus. 
+Die Beteiligungen im Ausland werden durch unabhängig handelnde, erfahrene Geschäftsführer 
+geleitet.   
+Gegenstand des Unternehmens ist die Tätigkeit einer geschäftsleitenden Holding, d.h. die 
+Zusammenfassung von Unternehmen unter einheitlicher Leitung, deren Beratung sowie die 
+Übernahme sonstiger Dienstleistungen und betriebswirtschaftlicher Aufgaben für Unternehmen, die 
+insbesondere in der Entwicklung, Bereitstellung und dem Vertrieb von Produkten und 
+Dienstleistungen auf dem Gebiet der elektronischen Medien, insbesondere der internet-basierten 
+Vermittlung der Teilnahme an Lotterien, tätig sind. 
+Rückblick 
+1999 als Tipp24 SE in Deutschland gegründet, startete ZEAL zunächst als Lotterievermittler. 2005 
+ging die damalige Tipp24 SE an die Frankfurter Wertpapierbörse.  
+Nachdem die Gruppe 2009 den Fokus von der Lotterievermittlung hin zum Zweitlotteriegeschäft und 
+später den Firmensitz nach London verlegte, wurde sie im November 2014 in ZEAL Network SE 
+umbenannt.  
+Änderung Geschäftsmodell, Übernahme LOTTO24 AG und Sitzverlagerung 
+Im Mai 2019 übernahm ZEAL die LOTTO24 AG, überführte das frühere Tipp24-Zweitlotteriegeschäft 
+im Oktober 2019 zurück in das deutsche Online-Lotterievermittlungsgeschäft. Im gleichen Monat 
+wurde auch der Firmensitz von London, Großbritannien, zurück nach Hamburg, Deutschland verlegt. 
+ 
+STEUERUNGSSYSTEM 
+Wir nutzen eine Reihe von Indikatoren, um die Leistung kontinuierlich zu bewerten und so 
+sicherzustellen, dass die festgelegte Strategie der ZEAL und somit der gesamten Gruppe mit den 
+Interessen der Aktionäre übereinstimmen.  
+
+Anlage 4 
+Seite 2 von 22 
+ 
+In den Geschäftsbereichen wird Wertsteigerung im Wesentlichen durch Gewinnung neuer sowie 
+Intensivierung der Geschäftsbeziehungen zu bestehenden Kunden betrieben. Der Fokus liegt hier auf 
+dem Lotteriebereich. Nach dem Geschäftsmodellwechsel haben wir die bisher verwendeten 
+Kennzahlen überprüft und aktualisiert und die Angaben im Geschäftsbericht an die für die interne 
+Entscheidungsfindung verwendeten Informationen angeglichen.  
+ 
+Finanzielle Kennzahlen  
+Durch die Konzentration der ZEAL auf die Aufgabe als geschäftsleitende Holding werden maßgeblich 
+konzerninterne Umsatzerlöse generiert. Diesen Umsatzerlöse stehen erhebliche 
+Verwaltungsausgaben gegenüber – auch größtenteils aus konzerninternen Weiterbelastungen. 
+Demensprechend werden folgende Kennzahlen zur Steuerung genutzt: 
+- 
+Umsatzerlöse 
+- 
+EBIT 
+Aufgrund des Geschäftsmodels der Gesellschaft das nicht auf Profitmaximierung ausgelegt ist, 
+werden die vormals genutzte Kennzahl Eigenkapitalrendite nicht mehr herangezogen.  
+ 
+in € Tsd.  
+2021   
+2020 
+Umsatzerlöse 
+20.456 
+21.028 
+EBIT 
+-1.926 
+-1.463 
+ 
+Die Verträge mit verbunden Unternehmen werden kontinuierlich überprüft und bei wesentlichen 
+Veränderungen der Gegebenheiten angepasst. Es ist geplant, dass die Gesellschaft operativ 
+weitestgehend einen leichten Überschuss erwirtschaften wird.  
+ 
+FORSCHUNG & ENTWICKLUNG   
+Als kundenzentrisches Technologieunternehmen bauen wir Kernkompetenzen selbst auf und 
+entwickeln und betreiben sowohl unsere Plattform als auch zentrale Systeme selbst. So können wir 
+die Software bestmöglich auf operative Prozesse und Kundenbedürfnisse ausrichten. Ob 
+Lottoscheinabgabe, Bezahlung, Registrierung, Datenveränderung, die Ausrichtung eigener Lotterien 
+unter notarieller Aufsicht oder die Einrichtung und der Betrieb von B2B-Integrationen unserer 
+Software bei Partnern – über ein Planungs- und Zielesystem („Objectives & Key Results“, „OKR“) 
+werden die nötigen Entwicklungen und Verbesserungen priorisiert und eingeplant.  
+Ein großes Unterfangen stellte im Jahr 2021 die Umstellung vieler Komponenten auf die 
+Anforderungen des neuen Glücksspielstaatsvertrag dar. In der App-Entwicklung konnten aufgrund der 
+geteilten neuen Technologieplattform wichtige Synergien in Betrieb und Weiterentwicklung erzielt 
+werden. Außerdem konnten wir mit der Deutschen Sportlotterie im Rahmen einer Kooperation mit 
+Lotto Hessen ein weiteres attraktives Produkt für die gewerbliche Spielevermittlung entwickeln, sowie 
+mit der Deutschen Traumhauslotterie ein neues innovatives Angebot für den deutschen Lotteriemarkt 
+starten. In diesem Zuge haben wir die für die Entwicklung neuer Lotterieprodukte notwendigen 
+Softwarebereiche erheblich modernisiert. Ferner wurden wichtige Produkt- und Compliance-
+Vorbereitungen für den Angebotsstart für virtuelle Automatenspiele getroffen.  
+Um die Umstellung auf eine vollständige service-orientiert Architektur („SOA“) abzuschließen, wurde 
+ferner mit dem Extrahieren und Überarbeiten der letzten Komponenten begonnen, die sich noch in 
+der alten, monolithischen Softwarearchitektur befinden. Diese Arbeiten werden sich vermutlich noch 
+über 18 Monate erstrecken.   
+
+Anlage 4 
+Seite 3 von 22 
+ 
+ 
+ 
+WIRTSCHAFTSBERICHT 
+ 
+Die ZEAL ist nicht nur direkt von regulatorischen und wirtschaftlichen Rahmenbedingungen betroffen, 
+sondern auch aufgrund Ihrer Aufgabe als Holding-Gesellschaft der gesamten ZEAL-Gruppe indirekt 
+von den Rahmenbedingungen der einzelnen Gesellschaften. Diese Rahmenbedingen sind 
+nachfolgend aufgeführt: 
+ 
+Regulatorische Rahmenbedingungen 
+ 
+Glücksspielstaatsvertrag 
+In Deutschland wird das Angebot von Lotterien im Internet durch den Glücksspielstaatsvertrag 
+("GlüStV") geregelt. Dieser GlüStV ist seit dem 1. Juli 2021 in Kraft. Er ermöglicht LOTTO24 AG - wie 
+in den Jahren zuvor auch - die Vermittlung von staatlich lizensierten Lotterieprodukten über das 
+Internet. Der Staatsvertrag hat eine unbestimmte Laufzeit und ist frühestens zum 31. Dezember 2028 
+von einzelnen Bundesländern kündbar. Die Bundesländer haben vereinbart, dass die Auswirkungen 
+des aktuellen GlüStV regelmäßig evaluiert werden. Zwei Evaluierungen sollen zum 31. Dezember 
+2023 und 31. Dezember 2026 in Form eines Zwischenberichts vorgelegt werden. Der GlüStV sieht im 
+Vergleich zum vorherigen Staatsvertrag neue Erlaubnismodelle für virtuelle Automatenspiele ("Online 
+Games"), Sportwetten (Online und Offline) und Online Poker sowie ein Konzessionsmodell für Online 
+Casino im Internet vor. Vorausgegangen war eine mehrmonatige politische Debatte über den Grad 
+der Marktöffnung insbesondere für Online Games und Online Casinos. Die Bundesländer planen die 
+Einrichtung einer nationalen, öffentlich-rechtlichen Anstalt zur Glücksspielaufsicht. Diese soll bis zum 
+1. Januar 2023 schrittweise die aktuell auf verschiedene Behörden der Bundesländer verteilten 
+Befugnisse übertragen bekommen. Das bisher für die Bündelung der Länderentscheidungen 
+eingesetzte Glücksspielkollegium der Bundesländer soll mittelfristig aufgelöst 
+werden. Frühere Veranstaltungs- beziehungsweise Vermittlungserlaubnisse der bereits zuvor im 
+Markt agierenden Anbieter (zum Beispiel LOTTO24 AG) haben über den 30. Juni 2021 hinaus für ein 
+weiteres Kalenderjahr ihre Gültigkeit behalten. 
+Der GlüStV 2021 beinhaltet spielformübergreifende Vorschriften, die auch für die gewerbliche 
+Spielvermittlung relevant sind (zum Beispiel zur Spieleridentifizierung, Werbung oder Sperrdatei). Wie 
+erwartet haben die Bundesländer am staatlichen Veranstaltungsmonopol für Lotterien festgehalten, 
+wie bisher mit Ausnahme der Lotterien mit geringem Gefährdungspotenzial (Soziallotterien). Zudem 
+unterscheidet der GlüStV 2021 in vielen Bereichen zwischen dem Angebot der klassischen Lotterien, 
+mit nicht mehr als zwei Ziehungen pro Woche, und allen anderen Angeboten, wie Sportwetten oder 
+Online Games, aber auch Online-Sofortlotterien und Keno. Die spezifischen Regelungen für die 
+gewerbliche Spielvermittlung sind weitgehend unverändert geblieben.   
+ 
+Darüber hinaus wurde das bisherige Gebot aufgehoben, Online-Glücksspielformen auf verschiedenen 
+Websites streng voneinander zu trennen. In Zukunft ist es Anbietern von Glücksspielen unter 
+Vorgaben erlaubt, unterschiedliche Glücksspielarten über dieselbe Internetdomain anzubieten.   
+ 
+ERLAUBNISSE ZUR VERMITTLUNG UND VERANSTALTUNG VON GLÜCKSSPIEL 
+Am 24. September 2012 erhielt die LOTTO24 AG erstmalig die Erlaubnis, bundesweit staatliche 
+Lotterien im Internet zu vermitteln. Mit Bescheid vom 26. Juli 2017 erteilte das Niedersächsische 
+Innenministerium eine Folgeerlaubnis mit Gültigkeit bis zum 30. Juni 2021. Die Gültigkeit dieser 
+Erlaubnis wurde mit Inkrafttreten des neuen Glückspielstaatsvertrages gemäß § 29 GlüStV bis zum 
+30. Juni 2022 verlängert. Die LOTTO24 AG hat bereits im Dezember 2021 einen Antrag auf Erlaubnis 
+zur bundesweiten Lotterievermittlung für den Zeitraum ab 1. Juli 2022 gestellt. Wir gehen davon aus, 
+dass die Zustellung des Erlaubnisbescheides, wie in den Vorjahren 2012 und 2017, rechtzeitig vor 
+Ablauf der bestehenden Erlaubnis und voraussichtlich innerhalb des zweiten Quartals 2022 erfolgen 
+
+Anlage 4 
+Seite 4 von 22 
+ 
+wird.   
+Mit Bescheid vom 29. März 2018 erteilte das zuständige Niedersächsische Innenministerium der 
+LOTTO24 AG erstmalig die Erlaubnis, staatliche Sofortlotterien (Rubbellose) im Internet zu vermitteln. 
+Sie gilt inzwischen in den Ländern Niedersachsen, Sachsen, Hessen und Nordrhein-Westfalen, in 
+denen auch die Landeslotteriegesellschaften eine entsprechende Veranstaltungserlaubnis erhalten 
+haben. Damit haben bereits mehr als 50 % der volljährigen deutschen Bevölkerung Zugang zu 
+Rubbellosen im Internet. Für die Länder Schleswig-Holstein und Baden-Württemberg beabsichtigen 
+wir, kurzfristig entsprechende Ergänzungen zu beantragen.   
+Darüber hinaus hat die LOTTO24 AG eine Erlaubnis zur bundesweiten Vermittlung der Soziallotterien 
+Deutsche Fernsehlotterie, freiheit+ und Deutsche Traumhauslotterie, sowie zur Vermittlung der 
+Deutschen Sport Lotterie im Bundesland Hessen.   
+Bereits im Juli 2021 und damit unverzüglich mit Beginn der Antragsphase, hat die LOTTO24 AG 
+einen Erlaubnisantrag zur Veranstaltung von virtuellem Automatenspiel (Online Games) gestellt. 
+Eine separate Werbeerlaubnis ist nach dem GlüStV nicht mehr erforderlich. Die bisherigen 
+Beschränkungen für Werbung gelten kraft Gesetzes bis zum 30. Juni 2022 fort. In Zukunft werden 
+werberechtliche Vorgaben über entsprechende Nebenbestimmungen in der bundesweiten 
+Vermittlungserlaubnis angewandt. 
+   
+Werbeerlaubnis 
+Gemäß GlüStV 2021 entfällt seit dem 1. Juli 2021 die Notwendigkeit einer separaten Werbeerlaubnis. 
+Die bisherigen Beschränkungen gelten kraft Gesetzes bis zum 30. Juni 2022 fort. In Zukunft werden 
+werberechtliche Vorgaben über entsprechende Nebenbestimmungen in der bundesweiten 
+Vermittlungserlaubnis angewandt.   
+ 
+ 
+Wirtschaftliche Rahmenbedingungen 
+ 
+Spieleinsatzstabilität im Deutschen Lotteriemarkt 
+Im Geschäftsjahr 2021 ging der Umsatz des DLTB nach eigenen Angaben leicht um 0,3 % auf € 7,9 
+Mrd. zurück (2020: knapp € 7,9 Mrd.). Dabei hielt die Lotterie LOTTO 6aus49 mit Spieleinsätzen vom 
+€ 4,0 Mrd. und nach wie vor rund 51 % am Gesamteinsatz ihre Position als beliebteste Lotterie in 
+Deutschland (2019: € 3,98 Mrd.). Trotz der im Vorjahresvergleich schwächerer Jackpotlage blieb die 
+europäische Lotterie EuroJackpot mit Spieleinsätze von rund € 1,4 Mrd. (2020: € 1,47 Mrd.) auf dem 
+zweiten Platz der beliebtesten Lotterieprodukte 2021. Weitere Produkte des DLTB sind Spiel 77, 
+Sofortlotterien, Super 6, Glückspirale, Oddset, Keno, Bingo, Genau, Toto, Plus 5, und Sieger-Chance, 
+sowie die Deutsche Sportlotterie. 
+ 
+ 
+LOTTO24 und Tipp24 nach wie vor mit starker Markposition 
+Nach Informationen des DLTB und des Deutschen Lottoverbands (DLV) wuchsen die Online-
+Spieleinsätze der staatlichen Veranstalter sowie der erlaubten privaten Vermittler kontinuierlich: 
+Hatten sie 2012 noch bei € 35 Mio. gelegen, erreichten sie im Geschäftsjahr 2020 € 1.587 Mio. und 
+stiegen 2021 weiter auf rund € 1.663¹ Mio. Dies entspricht einem Online-Anteil von 21 % am Lotterie-
+Gesamtspieleinsatzvolumen 2021 in Deutschland (2020: 20 %). In diesem Rahmen ist unser 
+Marktanteil mit rund 39,4 % im Vergleich zu 2020 (41,1 %) leicht gesunken. 
+¹ Aufgrund geringen Rücklaufs von den anderen gewerblichen Spielvermittler auf der Umfrage 2021 haben wir die Ergebnisse als nicht repräsentativ betrachtet 
+und die Umsatzerlöse 2020 von diesen Vermittler in der Kalkulation ins Betracht genommen. 
+ 
+
+Anlage 4 
+Seite 5 von 22 
+ 
+Großes Potenzial im Online-Segment 
+In Deutschland leben rund 69,4 Mio. Erwachsene1, von denen 28,9 Mio. gelegentlich oder regelmäßig 
+Lotto spielen2. Dies entspricht einem Anteil von knapp 42 % aller volljährigen Deutschen. Laut 
+unserer jüngsten Umfrage im November 2021 unter 4.076 lottoaffinen Internetnutzern hat sogar ein 
+Anteil von 49 % der Befragten in den letzten sechs Monaten Lotto gespielt. Interessant ist dabei, dass 
+sich der Anteil der befragten Offline-Spieler – also der Lottospieler, die ihren Lottoschein noch immer 
+am Kiosk abgeben – die sich vorstellen können, Lotto in Zukunft online zu spielen, seit 2020 von 48% 
+auf 69% gestiegen ist. Übertragen auf die 29,7 Mio. Lottospieler ergäbe sich hieraus ein 
+Marktpotenzial von 19,9 Mio. potenziellen Online-Lottospielern. Bezogen auf das gesamte deutsche 
+Lotteriemarktvolumen (DLTB zuzüglich Klassen-, Sozial- und sonstigen regulierten Lotterien) von 
+rund € 9,0 Mrd.3 ergäbe sich somit potenzielle Online-Lotterie-Gesamspieleinsätze von € 6,7 Mrd. (€ 
+5,0 Mrd. zusätzlich zum aktuellen Online-Lotteriemarktvolumen von € 1,7 Mrd.) 
+¹ Quelle: Statisches Bundesamt © Statista 2021, "Bevölkerung - Zahl der Einwohner in Deutschland nach relevanten Altersgruppen am 31. Dezember 2020  (in 
+Millionen)") 
+2 Quelle: IfD Allensbach © Statista 201, "Anzahl der Personen in Deutschland, die Lotto oder Toto spielen, nach Häufigkeit von 2017 bis 2021 (in Millionen)") 
+3 Quelle: Goldmedia "Glücksspielmarkt Deutschland 2020", Juni 2020 
+ 
+Auch wenn der deutsche Online-Lotteriemarkt noch nicht das Niveau anderer europäischer Länder 
+oder vergleichbarer Branchen im E-Commerce-Bereich erreicht hat, belegt die Entwicklung der 
+letzten Jahre einen konsequenten Aufwärtstrend – Deutschland holt auf. Dass sich dieses Wachstum 
+auch in den kommenden Jahren fortsetzen dürfte, wird aus unserer Sicht insbesondere von den 
+folgenden Faktoren gestützt: 
+• 
+Da Online-Angebote von Lotterien bis Mitte 2012 gänzlich verboten waren, rechnen wir auch 
+weiterhin mit deutlichen Umsatzsteigerungen. Im Vergleich mit ausländischen Online-
+Lotteriemärkten, die in der Vergangenheit weniger stark reguliert waren, erwarten wir für 
+Deutschland mittelfristig ein überproportionales Wachstum.  
+• 
+Der Online-Anteil am Lotteriemarkt in Online-affinen Ländern wie Norwegen (54%), 
+Schweden (46%) und dem Vereinigten Königreich (30%¹) ist deutlich höher als in 
+Deutschland.  
+• 
+Auch die steigende Bedeutung von E-Commerce als Absatzkanal sowie mobile Angebote 
+verstärken diesen Trend: Im ersten Halbjahr 2021 lag in Deutschland der digitale Anteil in 
+der Musikbranche bereits bei 79 %². Ebenfalls nutzen 2020 65 % der deutsche Bevölkerung 
+das Internet für Bankgeschäfte3 und 67 % der Reisen wurden 2020 online verkauft4. 
+ 
+¹ Quelle: La Fleur's 2020 European Lottery Abstract (basierend auf Zahlen für 2019) 
+² Quelle: BVMI Half-Year Report 2021 
+³ Quelle: Eurostat, statista 
+4 Quelle: vir, Daten & Fakten zum Online-Reisemarkt 2021 
+ 
+Basierend auf einer mittel- bis langfristig angelegten Annahme eines Online-Anteils von 50 % am 
+gesamten deutschen Lotteriemarkt (DLTB zuzüglich Soziallotterien, GKL und sonstigen regulierten 
+Lotterien) von € 9,0 Mrd.¹ ergäbe sich auch vor diesem Hintergrund ein Online-Lotterie-Marktpotenzial 
+von € 4,5 Mrd. Da es unser Ziel ist, unseren eigenen Marktanteil weiter in Richtung 50 % 
+beziehungsweise darüber hinaus auszubauen, läge unser langfristiges Potenzial beim 
+Transaktionsvolumen also jenseits der € 2 Mrd.-Marke. 
+¹ Quelle: Goldmedia "Glücksspielmarkt Deutschland 2020", Juni 2020 
+ 
+ 
+ 
+
+Anlage 4 
+Seite 6 von 22 
+ 
+Werbung und Wettbewerb 
+Unser Erfolg wird wesentlich von Umfang und Effizienz unserer Marketingmaßnahmen – 
+insbesondere zur Neukundenakquisition – bestimmt. Neben den regulatorischen 
+Rahmenbedingungen beeinflusst auch die Anzahl der im Online-Lottobereich offensiv werbenden 
+Wettbewerber unsere Kennzahlen, wobei die staatlichen Landeslotteriegesellschaften mit ihrer 
+gebündelten Plattform unter lotto.de sowie die in Deutschland nicht erlaubten, ausländischen 
+Zweitlotterien unsere Hauptwettbewerber sind.  
+Laut Informationen des zuständigen Niedersächsischen Innenministeriums hatten neben den 
+staatlichen Gesellschaften zum Ende des Berichtszeitraums 15 private gewerbliche Spielvermittler 
+geltende Vermittlungserlaubnisse. Wie zuvor fielen auch 2021 die Werbeaktivitäten des in 
+Deutschland erlaubten privaten Wettbewerbs sehr zurückhaltend aus.  
+Der Werbedruck von Seiten der Zweitlotterieanbieter, die nicht über eine deutsche Erlaubnis 
+verfügen, ist sowohl aufgrund des konsequenteren Vorgehens der zuständigen Aufsichtsbehörden als 
+auch aufgrund von wettbewerbsrechtlichen Verfahren einiger Landeslotteriegesellschaften rückläufig. 
+ 
+Schwache Jackpot-Entwicklung 
+Jackpots sind ein wesentlicher Treiber unseres Transaktionsvolumens. Vor allem dann, wenn 
+Spielinteressenten außergewöhnlich hohe Gewinnerwartungen haben – also vor allem in Zeiten 
+hoher Jackpots – erwarten wir, dass sowohl die Aktivität als auch die Anzahl der registrierten Kunden 
+besonders stark zulegt. 
+2021 verlief die Jackpot-Entwicklung der einzelnen Lotterien für uns unvorteilhaft. Trotz des positiven 
+Effektes der im September 2020 erfolgte Produktumstellung des DLTB (unter anderem die Anhebung 
+der ersten Gewinnklasse auf € 45 Mio. sowie die transaktionsvolumen-steigernde Preiserhöhung), lag 
+der durchschnittliche Jackpot der deutschen Lotterie LOTTO 6aus49 2020 19% unten dem Vorjahr. 
+Außerdem wurde die Zwangsausschüttungsmarke für LOTTO 6aus49 keinmal erreicht, während drei 
+Zwangsausschüttungen im Geschäftsjahr 2020 stattgefunden hatten. Auch der durchschnittliche 
+Jackpot der europäischen Lotterie Eurojackpot lag 22 % unten dem Vorjahresniveau und erreichte 
+nur dreimal die € 90 Mio.-Marke (2020: sechsmal). 
+ 
+ 
+ 
+
+Anlage 4 
+Seite 7 von 22 
+ 
+GESCHÄFTFSVERLAUF 
+ZEAL weist im Vergleich zum Vorjahr ein deutlich reduziertes positives Periodenergebnis in Höhe von 
+€ 1.104 Tsd. aus (Vorjahr Gewinn von € 32.978 Tsd.). Dies ist hauptsächlich darin begründet das die 
+Dividenden aus Tochtergesellschaften im Vergleich zum Vorjahr um € 32.340 Tsd. auf € 4.660 Tsd. 
+gesunken sind. 
+Das EBIT zeigt sich dieses Jahr noch negativ, allerdings wird erwartet, dass durch kontinuierliche 
+Anpassung der Transfer Pricing Verträge das Ergebnis weiterhin verbessert werden kann.  
+ 
+VERGLEICH MIT VORJAHRESPROGNOSE 
+ 
+Auf Grund der schwachen Jackpotlage bei den Lotterien EuroJackpot und LOTTO 6aus49 gab es im 
+Jahr 2021 weniger Möglichkeiten als ursprünglich gedacht. 
+ 
+PROGNOSE-
+GEGENÜBERSTELLUNG  
+Prognose 
+2021 
+2020 
+Ist 
+Ist 
+Umsatzerlöse in Mio. € 
+21,9 
+20,5 
+21,0 
+EBIT 
+0,5 
+-1,9 
+-1,4 
+ 
+ 
+ 
+ERTRAGS-, FINANZ- UND VERMÖGENSLAGE  
+ 
+ERTRAGSLAGE 
+ 
+  
+  
+2021 
+% Umsatz 
+2020 
+% Umsatz 
+in € Tsd. 
+ 
+ 
+ 
+ 
+  
+Umsatzerlöse 
+ 
+20.456 
+100% 
+21.028 
+100% 
+Sonstige betriebliche Erträge 
+ 
+4.017 
+20% 
+4.859 
+23% 
+Gesamtleistung 
+ 
+24.473 
+120% 
+25.887 
+123% 
+Materialaufwand 
+ 
+-4.021 
+-20% 
+0 
+0% 
+Personalaufwand 
+ 
+-7.080 
+-35% 
+-9.582 
+-46% 
+Sonstige betriebliche 
+Aufwendungen 
+ 
+-12.460 
+-61% 
+-14.996 
+-71% 
+Abschreibungen  
+ 
+-2.837 
+-14% 
+-2.772 
+-13% 
+EBIT 
+ 
+-1.926 
+-9% 
+-1.463 
+-7% 
+Finanzierungs- und 
+Investitionsergebnis 
+ 
+3.031 
+15% 
+35.513 
+169% 
+Ergebnis vor Steuern 
+ 
+1.104 
+5% 
+34.050 
+162% 
+Ertragsteuern 
+ 
+0 
+0% 
+-1.073 
+-5% 
+Periodenergebnis 
+  
+1.104 
+5% 
+32.978 
+157% 
+ 
+ 
+
+Anlage 4 
+Seite 8 von 22 
+ 
+Umsatzerlöse und Gesamtleistung 
+Die Umsatzerlöse sind im Geschäftsjahr von € 21.028 Tsd. auf € 20.456 Tsd. gesunken. Diese setzen 
+sich wesentlich aus Lizenzerträge verbundener Unternehmen € 16.159 Tsd. (Vorjahr: € 17.148 Tsd.) 
+und anderen Serviceleistungen verbundener Unternehmen € 3.571 Tsd. (Vorjahr: € 6.802 Tsd.).  
+Die sonstigen betrieblichen Erträge sind im Geschäftsjahr von € 4.859 Tsd. auf € 4.017 Tsd. 
+gesunken.  
+Aufwendungen 
+Bei dem in diesem Geschäftsjahr erstmals ausgewiesenen Materialaufwand handelt es sich um 
+Kosten aus der Auszahlung von Großgewinnen der Soziallotterie freiheit+ für das aktuelle 
+Geschäftsjahr und Erstattungen auf Basis vertraglicher Bedingungen mit dem Lotterieveranstalter. 
+ 
+Im Vorjahr 2020 betrug dieser Aufwand 1.748 Tsd. Euro und wurde in den Umsatzerlösen 
+einbezogen. Der Betrag setzte sich aus den Kosten der Auszahlung von Großgewinnen in Höhe von 
+2.300 Tsd. Euro abzüglich der Erstattungen der Gewinnauslagen in Höhe von 522 Tsd. Euro 
+zusammen. Bereinigt um diesen Effekt würden die 2020er Umsatzerlöse 22.776 Tsd, Euro betragen. 
+ 
+Der Personalaufwand ist auf € 7.080 Tsd. (Vorjahr: € 9.582 Tsd.) gesunken. Der Rückgang ist 
+maßgeblich auf die Reduzierung der aktienbasierten Vergütung in Höhe von € 2.178 Tsd. (Long Term 
+Incentve Program - LTI) zurückzuführen.   
+ 
+Finanzierungs- und Investitionsergebnis 
+Das Finanzierungs- und Investitionsergebnis besteht im Geschäftsjahr maßgeblich aus den 
+Beteiligungserträgen von € 4.660 Tsd. aus Gewinnausschüttungen einer Tochtergesellschaft. Des 
+Weiteren war das Investitionsergebnis durch die Abschreibung einer Beteiligung von € 597 Tsd. 
+belastet.  
+ 
+ 
+FINANZLAGE 
+Grundsätze und Ziele des Kapitalmanagements  
+Vor dem Geschäftsmodellwechsel betrieb ZEAL ein dezentral organisiertes Kapitalmanagement-
+system. Nach dem Geschäftsmodellwechsel wurde das Kapitalmanagementsystem zentralisiert. Alle 
+Entscheidungen zur Finanzierungsstruktur der Gesellschaft trifft der Vorstand. 
+ 
+EIGENKAPITAL  
+in € Tsd. 
+31.12.2021 31.12.2020 
+Gezeichnetes Kapital 
+22.396 
+22.396 
+abzüglich Nennbetrag eigener Aktien 
+-33 
+-37 
+Kapitalrücklage 
+250.168 
+280.506 
+ 
+Angesammelte Ergebnisse 
+47.032 
+35.542 
+Gesamt 
+319.563 
+338.407 
+ 
+Das gezeichnete Kapital entspricht dem Grundkapital der Gesellschaft und ist eingeteilt in 22.396.070 
+
+Anlage 4 
+Seite 9 von 22 
+ 
+Stückaktien (Aktien ohne Nennbetrag). Es ist in voller Höhe eingezahlt und beträgt € 22.396 Tsd. 
+(Vorjahr: € 22.396 Tsd.). 
+Die Kapitalrücklage beträgt € 250.168 Tsd. (Vorjahr: € 280.506 Tsd.) und beinhaltet eine freie 
+Kapitalrücklage gemäß § 272 Abs. 2 Nr.4 HGB in Höhe von € 229.999 Tsd. 
+Die freie Kapitalrücklage beinhaltet zum 31. Dezember 2021 damit auch die gesetzlich zu bildende 
+Rücklage gemäß § 150 Abs. 2 AktG. 
+Am Anfang des Geschäftsjahres verfügte die Gesellschaft über gebundenes Kapital gem. § 272 Abs 
+2 Nr. 1 HGB von € 259.203 Tsd. Gemäß Beschluss der Hauptversammlung vom 01.06.2021 wurden, 
+im Wege einer Kapitalerhöhung aus Gesellschaftsmitteln nach § 207ff. HGB, hiervon € 257.554 Tsd. 
+in das Grundkapital eingelegt. Mit Beschluss der gleichen Hauptversammlung wurde unmittelbar 
+folgend, durch ordentliche Kapitalherabsetzung nach § 222 Abs. 4 AktG das Grundkapital um             
+€ 257.554 Tsd. reduziert und der Kapitalrücklage nach § 272 Abs. 2 Nr. 4 HGB zugeführt. 
+Aus der freien Kapitalrücklage wurde ein Betrag in Höhe von € 29.234 Tsd. Zusätzlich reduzierte sich 
+die Kapitalrücklage auf Grund einer Korrektur der Vorjahre um € 1.279 Tsd. Ursprünglich wurde der 
+Marktwert von eigenen Anteilen (abzüglich Nennwert) im Gewinnvortrag ausgewiesen, dies wurde im 
+Geschäftsjahr 2021 korrigiert und nun in der Kapitalrücklage ausgewiesen.  
+ 
+Investitionsanalyse 
+Im Berichtszeitraum investierte die ZEAL Network SE € 7 Tsd. (2020: € 99 Tsd.) in für den 
+Geschäftsbetrieb notwendige Soft- und Hardware und für Arbeitsplatzausstattungen. 
+Die wesentlichen Investitionen im Bereich immaterielle Vermögenswerte erfolgten mit über € 231 Tsd. 
+in die Anzahlung für ein neues Finanz-ERP-Systems (Vorjahr: 269 Tsd.).  
+Im Bereich Finanzanlagen waren die wesentlichen Zugänge im Bereich verbundene Unternehmen     
+€ 8.699 Tsd. (Vorjahr: € 826 Tsd. aus der Übernahme der LOTTO24 AG) und die Investition in 
+sonstige Beteiligungen in Höhe von € 405 Tsd. (Vorjahr: € 377 Tsd.).  
+ 
+Liquiditätsanalyse 
+Bestehende Liquidität sind zum 31.12.2021 mit € 12.857 Tsd. (Vorjahr: € 13.258 Tsd.) in 
+Kassenbeständen und Bankguthaben bei Kreditinstituten investiert. 
+ 
+VERMÖGENSLAGE 
+ 
+Die Vermögenswerte haben sich insgesamt von € 393.256 Tsd. zum 31. Dezember 2020 auf 
+€ 386.700 Tsd. zum 31. Dezember 2021 reduziert. Diese Absenkung ist im Wesentlichen auf die 
+Reduzierung der Liquiden Mittel und der Wertpapiere in Höhe von € 12.386 Tsd. zurückzuführen. Des 
+Weiteren sind die Finanzanlagen um € 7.307 Tsd. im Vergleich zum Vorjahr gestiegen.  
+ 
+Schuldenposition 
+Das Fremdkapital hat sich von € 54.849 Tsd. zum 31. Dezember 2020 auf € 67.137 Tsd. zum 31. 
+Dezember 2021 erhöht. Dieser Anstieg ist im Wesentlichen auf die Erhöhung von Verbindlichkeiten 
+gegenüber Endkunden im Rahmen der freiheit+ Soziallotterie und der Auszahlung des Bankdarlehens 
+der Commerzbank zurückzuführen.  
+Eigenkapitalposition  
+Das Eigenkapital ist per 31. Dezember 2021 um € 18.844 Tsd. auf € 319.563 Tsd. gesunken (2020: 
+
+Anlage 4 
+Seite 10 von 22 
+ 
+€ 338.407 Tsd.).  
+Nicht erfasste Vermögenswerte 
+ZEAL hat in ihrem Jahresabschluss keine selbst erstellten Vermögenswerte wie Kundenstamm, 
+Marken oder Glücksspielsoftware erfasst.  
+ 
+GESAMTAUSSAGE ZUR WIRTSCHAFLTICHEN LAGE DER ZEAL NETWORK SE  
+Der Vorstand und der Aufsichtsrat bewerten den Geschäftsverlauf im Jahr 2021 als positiv.  
+Mit dem Schwerpunkt auf die Eingliederung von LOTTO24 AG und die Umwandlung des 
+Kerngeschäfts hin zu einem in Deutschland erlaubten Online-Lotterievermittler wurden gute 
+Fortschritte erzielt.    
+ 
+ 
+MITARBEITER 
+ 
+  
+ANZAHL MITARBEITER 
+31.12.2021 31.12.2020 
+Gesamt 
+25 
+18 
+davon Frauen 
+8 
+3 
+davon Teilzeitarbeitnehmer  
+5 
+2 
+Altersdurchschnitt der Belegschaft in Jahren  
+37 
+43 
+Mitarbeiter (Vollzeitäquivalente)  
+18 
+18 
+ 
+NACHTRAGSBERICHT 
+Die Eskalation der Russland-Ukraine Krise, die am 24. Februar 2022 zum Beginn einer 
+kriegerischen Auseinandersetzung geführt hat, belastet die Entwicklung der Weltwirtschaft und kann 
+auch bei den Kundinnen und Kunden der ZEAL Network SE zu Unsicherheiten führen. Auch wenn 
+die ZEAL Network SE keine direkten Beziehungen zu Unternehmen, Kundinnen und Kunden in den 
+betroffenen Ländern hat und aufgrund seines Geschäftsmodells auch keine wesentlichen negativen 
+Auswirkungen aus Lieferkettenengpässen oder der Energiepreisentwicklung erwartet, kann der 
+Vorstand nicht abschließend einschätzen, wie sich die aus dieser Situation voraussichtlich 
+erwachsenden Unsicherheiten auf die Nachfrage und somit auf seine künftige Geschäftsentwicklung 
+auswirken werden. 
+ 
+BERICHT ÜBER DIE VORAUSSICHTLICHE ENTWICKLUNG MIT IHREN WESENTLICHEN 
+CHANCEN UND RISIKEN 
+RISIKOBERICHT  
+Unsere Geschäftsmodelle und Unternehmungen werden von vielen Faktoren beeinflusst – unter 
+anderem von den rechtlichen und gesamtwirtschaftlichen Rahmenbedingungen, der 
+Aufrechterhaltung der entsprechenden lokalen Erlaubnisse und von Geschäfts- beziehungsweise 
+sonstigen Vertragsverhältnissen. Auf dieser Grundlage treffen wir Annahmen zu unserer Entwicklung 
+und Profitabilität, den Transaktionsvolumina und Umsatzerlösen, zu den Kostenpositionen, der 
+Mitarbeiterausstattung, der Finanzierung sowie wesentlichen Bilanzposten, die sich als unzutreffend 
+
+Anlage 4 
+Seite 11 von 22 
+ 
+oder unvollständig erweisen könnten. Es gibt keine Gewähr, dass sich ZEAL langfristig in diesem 
+Umfeld behaupten können wird. Insbesondere hängt das weitere Wachstum davon ab, ob und 
+inwieweit wir in der Lage sein werden, neue Kunden für das Angebot von ZEAL zu gewinnen, unser 
+bestehendes Angebot auszubauen, weitere Produkte in unser Leistungsangebot aufzunehmen und 
+neue Vertriebskanäle zu etablieren.  
+ 
+Im ungünstigsten Fall könnte sich das Geschäftsmodell als nicht profitabel oder nicht durchführbar 
+erweisen. Dies könnte Wertberichtigungen insbesondere bei aktivierten langfristigen 
+Vermögenswerten erfordern sowie weitere wesentliche nachteilige Auswirkungen auf die 
+Vermögens-, Finanz- und Ertragslage von ZEAL haben. 
+ 
+Risiko- und Compliance-Management 
+Der Vorstand der ZEAL Network SE hat das bestehende Risikomanagementsystem auf ein 
+integriertes Risiko- und Compliance-Management-System ausgeweitet. Dazu beobachten wir 
+intensiv unser Markt- und Wettbewerbsumfeld und analysieren die identifizierten Risiken und 
+Compliance-Felder im Rahmen von regelmäßig stattfindenden Risikomanagement-Workshops. Die 
+darin gewonnenen Erkenntnisse setzen wir zeitnah in Maßnahmen zur nachhaltigen Sicherung des 
+Erfolgs der Gruppe und zur Prävention von Compliance-Verstößen um. 
+ 
+Die ZEAL Network SE unterliegt den typischen Branchen- und Marktrisiken eines Unternehmens im 
+Online-Glücksspiel- und Lotteriebereich. Als Risiken definieren wir Ereignisse oder Entwicklungen, 
+die sich negativ auf die Gruppe beziehungsweise die Erreichung unserer Unternehmensziele 
+auswirken können. Um ihnen zu begegnen, haben wir ein modernes und umfassendes 
+Risikomanagementsystem etabliert. Darüber hinaus überwachen wir regelmäßig die Anpassungen 
+und Aktualisierungen der Sicherheitssysteme und -prozesse bei unseren Dienstleistern.  
+ 
+Operative Risiken überwachen wir durch regelmäßige Risikomanagement-Workshops von Vorstand 
+und Management, durch die kontinuierliche Bewertung der Risiken im Hinblick auf ihre mögliche 
+Auswirkung auf relevante finanzielle und nicht-finanzielle Kennzahlen bei Eintritt des Risikos. Die 
+Bewertung der möglichen Auswirkung erfolgt mittels quantitativer oder qualitativer Einschätzung. Die 
+quantitative Auswirkung wird anhand der möglichen finanziellen Gewinnauswirkung (EBIT) bewertet. 
+Qualitativ werden zudem Auswirkungen auf unsere Reputation berücksichtigt. Bei der Bewertung 
+einzelner Risiken berücksichtigen wir vorhandene risikomindernde Maßnahmen. Unsere 
+Risikomatrix enthält das nach Abzug der risikomindernden Maßnahmen verbleibende Restrisiko. Ab 
+einem quantitativen Wert von über 5 Mio. EUR überwachen wir Risiken regelmäßig gesondert und 
+berichten diese hervorgehoben an den Vorstand und den Aufsichtsrat.  
+ 
+Die regulatorischen Rahmenbedingungen werten wir regelmäßig auch mit Unterstützung 
+kompetenter Rechtsberatung aus und können so zeitnah und angemessen reagieren. 
+ 
+Wir sind überzeugt, dass unser Risikofrüherkennungs- und Risikomanagementsystem geeignet ist, 
+die sich aus möglichen Risiken ergebenden Gefahren für ZEAL rechtzeitig zu erkennen und ihnen 
+angemessen zu begegnen. Das Risikofrüherkennungssystem ist formal dokumentiert, es wird 
+regelmäßig überprüft und angepasst. Sollten eines oder mehrere der nachfolgend dargestellten 
+Risiken eintreten, könnte dies unsere Geschäftstätigkeit wesentlich beeinträchtigen und erhebliche 
+Auswirkungen auf die Vermögens-, Finanz- und Ertragslage der ZEAL Network SE haben. 
+ 
+Das Compliance-Management-System von ZEAL setzt sich aus einer Vielzahl von internen 
+Maßnahmen und Prozessen zusammen. Es dient unserem Anspruch, nach ethischen Grundsätzen 
+zu handeln und uns an alle geltenden Gesetze, internen Regelungen und freiwilligen 
+
+Anlage 4 
+Seite 12 von 22 
+ 
+Selbstverpflichtungen zu halten. Neben den allgemeinen Compliance-Feldern achten wir besonders 
+auf die Einhaltung der besonderen Compliance-Felder Glücksspielregulierung, Datenschutz, IT-
+Sicherheit, Wettbewerb, Korruption, Arbeitsschutz, Arbeitsbedingungen und allgemeine 
+Gleichbehandlung. 
+ 
+Diese besonderen Anforderungen haben wir in einem Verhaltenskodex verbindlich festgeschrieben. 
+Alle Führungskräfte sind im Sinne eines "Tone from the top" dazu aufgefordert, durch eigene 
+Haltung und eigenes Handeln eine Risikokultur vorzuleben, die alle Mitarbeiter dazu motiviert, 
+geltende Regelungen einzuhalten beziehungsweise Verstöße strikt zu vermeiden. Die 
+Führungskräfte, deren Verantwortlichkeitsbereiche Berührungspunkte zu Compliance-Feldern 
+aufweisen, treffen sich regelmäßig in Workshops, um mögliche Risiken zu analysieren und zu 
+bewerten sowie entsprechende Maßnahmen festzulegen. Die Verantwortung für das Compliance-
+Management-System und die Koordination der Compliance-Workshops liegt beim Compliance-
+Beauftragten, der direkt an den Vorstand berichtet. 
+ 
+Die Wirksamkeit unseres Compliance-Management-Systems überprüfen wir laufend und passen es 
+an Entwicklungen, veränderte Risiken und neue rechtliche Anforderungen an. So sollen seine 
+Effektivität und Effizienz stetig verbessert werden. Compliance-Risiken minimieren wir systematisch 
+und regelmäßig über alle Geschäftsbereiche. Die Ergebnisse dieser Analyse dienen als Grundlage 
+unseres Risikomanagements.  
+Für die frühzeitige Erkennung von Risiken ist es wichtig, dass Betrug oder Fehlverhalten seitens der 
+Mitarbeiter oder Führungskräfte der Organisation gemeldet und angemessen behandelt wird. Eine 
+transparente, offene und diverse Unternehmenskultur ist entscheidend für die Bereitschaft eines 
+jeden Einzelnen, Fehlverhalten oder Risiken offen anzusprechen. ZEAL fördert eine transparente, 
+offene und diverse Unternehmenskultur, die den Mitarbeitern das Gefühl vermittelt, "mutig denken" 
+und Bedenken äußern zu können und ermutigt jeden, etwaige Bedenken hinsichtlich des Verhaltens 
+anderer im Rahmen des Geschäftsbetriebs oder der Führung des Geschäfts, zu äußern. ZEAL hat 
+ein Hinweisgeber-System (Whistleblowing) eingerichtet, über das Mitarbeiter oder externe 
+Hinweisgeber Compliance-Verstöße an ZEAL melden können. Dabei kann die Meldung auch 
+anonym erfolgen. 
+ 
+Die ZEAL-Gruppe verarbeitet die Daten von mehreren Millionen Kunden. Die Sicherheit und der 
+Schutz der personenbezogenen Daten unserer Kunden steht für ZEAL als führender Online Anbieter 
+staatlicher Lotterieprodukte sowie Dienstleister für die Veranstaltung von Lotterien an erster Stelle. 
+ZEAL hält sich dabei strikt an die gesetzlichen Anforderungen, insbesondere der Datenschutz 
+Grundverordnung (DSGVO). Für die Einhaltung der IT-Sicherheit sorgt eine eigene Fachabteilung. 
+Die datenschutzrechtlichen Anforderungen werden sowohl intern als auch durch einen externen 
+Datenschutzbeauftragten laufend überwacht. Für die Sicherstellung des Datenschutzes und der IT-
+Sicherheit arbeiten die Rechtsabteilung und die IT-Sicherheitsabteilung eng zusammen. ZEAL 
+betreibt ein Informations-Sicherheits-Management System (ISMS) und lässt wesentliche 
+Datenverarbeitungssysteme nach ISO 27001 zertifizieren. Das ISMS definiert und regelt sowohl die 
+Verarbeitung der personenbezogenen Daten als auch die Sicherheit geschäftskritischer 
+Informationen, Zugangskontrollen und Anforderungen zur Business Continuity. Es basiert auf 
+unterschiedlichen Richtlinien, die in den jeweiligen Bereichen umgesetzt werden. Hierbei werden 
+entsprechende Best-Practices sowie Standards laufend fortentwickelt und in die jeweils geltenden 
+Prozesse integriert. 
+ 
+Branchen- und Marktrisiken 
+Verschärfter Wettbewerb 
+
+Anlage 4 
+Seite 13 von 22 
+ 
+Es ist nicht auszuschließen, dass der Wettbewerb innerhalb der Glücksspielbranche mittelfristig 
+zunimmt. Nach dem Inkrafttreten des neuen GlüStV 2021 könnten auch internationale Sportwetten- 
+und Casino-Anbieter in das Lotterievermittlungsgeschäft einsteigen. Gleichzeitig könnte der 
+Lotterieumsatz durch ein größeres Angebot an alternativen Online-Glücksspielen zurückgehen. Der 
+Wettbewerb durch Zweitlotterien ist dagegen durch den strengeren Vollzug der gesetzlichen 
+Beschränkungen in den letzten Jahren erheblich unter Druck geraten. Wir rechnen deshalb zukünftig 
+mit schwächerem Wettbewerb durch ausländische Anbieter von Zweitlotterien. Der mittelfristige 
+Erfolg des Geschäfts-modells der Zweitlotterie ist damit grundsätzlich in Frage gestellt und erschwert 
+dessen weiteres Wachstum. Es dürfte den verbleibenden Anbietern zunehmend schwerer fallen, 
+erfolgreiche Werbekooperationen abzuschließen, um ein weiteres Wachstum sicherzustellen. 
+Allerdings könnten die bisher noch nicht zugelassenen Anbieter von Zweitlotterien ihr bisheriges 
+Geschäftsmodell einstellen und daher die Erteilung einer Erlaubnis für die Lotterievermittlung in 
+Deutschland anstreben. 
+Ausfall strategischer Dienstleister 
+Strategisch relevante Dienstleister wie Amazon, Apple, Google oder Facebook könnten die 
+Zusammenarbeit mit Glücksspielanbietern verweigern oder durch eine Veränderung ihrer 
+Unternehmensrichtlinien bestehende Vereinbarungen aufheben. Daher besteht das Risiko, dass 
+diese Unternehmen ihre Leistungserbringung uns gegenüber einstellen. Folglich würde die Werbung 
+von LOTTO24 und Tipp24 oder die entsprechende Nutzung von Cloud-Services erheblichen 
+Einschränkungen unterliegen, was zu einem wesentlichen Rückgang von Umsatz und 
+Neukundenzahl führen könnte. 
+Geringere Häufigkeit hoher Lotto-Jackpots 
+Jackpots entstehen zufällig auf der Grundlage bestimmter Ereignisse bei Lottoziehungen. Es ist 
+nicht auszuschließen, dass sich über längere Zeiträume keine besonders hohen Jackpots bilden. 
+Dies könnte zu niedrigeren Umsätzen und Neukundenzahlen aufgrund eines geringeren 
+Spielinteresses führen. 
+ 
+Rechtliche Risiken aus dem regulatorischen Umfeld  
+Weiterhin ungewisse zukünftige Entwicklung der Rechtslage in Deutschland 
+Über die allgemeinen rechtlichen Rahmenbedingungen und die hieraus möglicherweise folgenden 
+Unsicherheiten haben wir bereits im Abschnitt Regulatorische Rahmenbedingungen berichtet. Im 
+Vergleich zu den Vorjahren hat sich das regulatorische Risiko mit Inkrafttreten des neuen 
+Glücksspielstaatsvertrag leicht verringert. Zwar bestehen wesentliche Beschränkungen für 
+Onlineangebote auch unter dem neuen Glücksspielstaatsvertrag fort. Allerdings schätzen wir die 
+Rechtssicherheit und Vorhersehbarkeit des Verwaltungsvollzugs zukünftiger Nebenbestimmungen 
+höher ein. Jedoch können sich infolge der auch im neuen Staatsvertrag fortgeschriebenen 
+unbestimmten Ermächtigungsgrundlagen auch weiterhin folgende bestandsgefährdende Risiken für 
+die Gruppe ergeben: 
+In Deutschland ist der Vertrieb staatlicher Lotterien im Internet nur nach Erteilung einer 
+Vermittlungserlaubnis und darin enthaltenen weiteren Werbebeschränkungen zulässig. Die 
+entsprechenden Erlaubnisse wurden der LOTTO24 AG in der Vergangenheit jeweils ohne 
+grundlegende Beanstandungen erteilt. Jedoch gehen wir davon aus, dass die zukünftig zu 
+erteilenden Erlaubnisse unter dem neuen Glücksspielstaatsvertrag erneut eine Befristung und einen 
+allgemeinen Widerrufsvorbehalt enthalten werden. Es ist unwahrscheinlich, aber nicht 
+auszuschließen, dass die bestehende oder zukünftige Vermittlungserlaubnis widerrufen oder nicht 
+verlängert wird. Ein solcher Widerruf oder eine Nichtverlängerung könnte den weiteren 
+Geschäftsbetrieb oder -aufbau verhindern beziehungsweise wesentlich beschränken. 
+Aufgrund der weiterhin zu erwartenden Vielzahl unbestimmten Erlaubnisnebenbestimmungen und 
+teilweise unbestimmten gesetzlichen Ermächtigungsgrundlagen besteht auch in Zukunft ein im 
+
+Anlage 4 
+Seite 14 von 22 
+ 
+Vergleich zu anderen Branchen wesentliches, aber im Vergleich zur Vergangenheit geringeres Maß 
+an Rechtsunsicherheit. Gegen behördliche Maßnahmen bestehen aufgrund eines sehr weiten 
+Ermessensspielraums der Behörden und teilweise fehlenden Bestimmtheit der 
+Ermächtigungsgrundlagen keine effektiven einstweiligen Rechtsschutzmöglichkeiten. Vollziehbare 
+behördliche Beschränkungen unseres Angebots müssen regelmäßig zunächst – trotz einstweiligen 
+Ersuchens um Rechtsschutz – beachtet werden. Dies kann vorübergehend oder dauerhaft zu 
+geringeren Umsätzen und Neukundenzahlen führen. 
+Künftige Entwicklung der regulierten Märkte 
+ZEAL ist in mehreren europäischen Rechtsordnungen tätig. Jede Rechtsordnung verfügt über 
+unterschiedliche Gesetze und Vorschriften zu Glücksspielen und Lotterien, die nicht nach 
+europäischem Recht harmonisiert wurden. Die Ausübung der Geschäftstätigkeit von ZEAL hängt in 
+entscheidendem Maße von diesen regulatorischen Umfeldern ab. Im Allgemeinen unterliegt das 
+Angebot von Lotterie- und Glücksspielprodukten Beschränkungen, insbesondere der Anforderung, 
+dass diese Produkte nicht ohne die von der zuständigen Behörde erteilten Erlaubnisse, Lizenzen 
+und sonstigen Genehmigungen angeboten werden dürfen. 
+ 
+ 
+Steuerrisiken 
+ZEAL unterliegt in mehreren Rechtsordnungen verschiedenen Steuergesetzen und ist abhängig von 
+ihrer Anwendung und Auslegung. Die Steuergesetze und verwaltungstechnischen Richtlinien (unter 
+anderem in Bezug auf ihre Auslegung oder Anwendung) könnten sich ändern und mit einer 
+Änderung der Steuergesetze, ihrer Auslegung oder Anwendung könnte sich die künftige steuerliche 
+Belastung erhöhen. 
+ 
+Unsicherheit bezüglich des Steuerumfelds in Deutschland  
+Es besteht weiterhin keine endgültige Rechtssicherheit, ob für bestimmte von der 
+Tochtergesellschaft myLotto24 Ltd bis zum 15. Oktober 2019 erbrachten Leistungen in Deutschland 
+Umsatzsteuer abzuführen ist und welche Steuerbemessungsgrundlage Anwendung findet. 
+Hintergrund sind Unklarheiten im Zusammenhang mit einer am 1. Januar 2015 in Kraft getretenen 
+Änderung des deutschen Umsatzsteuergesetzes (UStG). Bis zum 31. Dezember 2014 wurden auf 
+den Rechnungen Umsatzsteuerbeträge für elektronisch erbrachte Dienstleistungen (ESS – 
+Electronically Supplied Services) an private Verbraucher nach den geltenden Rechtsvorschriften des 
+Landes ausgewiesen, in dem der Anbieter ansässig war (Herkunftslandprinzip, im Fall von 
+myLotto24 Ltd Großbritannien). Mit den zum 1. Januar 2015 eingeführten Änderungen des 
+deutschen UStG wurden Anpassungen der EU-Richtlinie über das gemeinsame 
+Mehrwertsteuersystem (EU-MwSt.-Richtlinie) umgesetzt. Demnach befindet sich der 
+umsatzsteuerliche Leistungsort für ESS dort, wo der Verbraucher wohnhaft ist. Sofern die von der 
+myLotto24 Ltd erbrachten Leistungen als ESS einzustufen sind, wären diese zwischen dem 1. 
+Januar 2015 und dem 15. Oktober 2019 (Stichtag der Einstellung des Angebots nach geschäftlicher 
+Neuausrichtung) möglicherweise in Deutschland umsatzsteuerpflichtig.  
+Die myLotto24 Ltd hat Ende 2019 mit dem zuständigen Finanzamt Hannover-Nord eine 
+Vereinbarung getroffen, mit der das Risiko der Festsetzung etwaiger Säumniszuschläge 
+ausgeschlossen und der Umfang etwaiger Zinszahlungen erheblich verringert wird. myLotto24 Ltd 
+hat im Januar 2020 - ohne Anerkennung einer Rechtspflicht - einen Teilbetrag von rund 54 Mio. Euro 
+auf Umsatzsteuer an das Finanzamt gezahlt, die in Bezug auf ihr früheres Zweitlotteriegeschäft 
+durch das Finanzamt für in Deutschland steuerpflichtige ESS festgesetzt wurde.  
+Das Finanzgericht Hannover hatte am 19. November 2019 der Klage der myLotto24 Ltd gegen die 
+Festsetzung von Umsatzsteuer stattgegeben. Das Finanzamt hat gegen das Urteil des 
+Finanzgerichts beim Bundesfinanzhof Revision eingelegt. Weil das Revisionsverfahren bereits seit 
+
+Anlage 4 
+Seite 15 von 22 
+ 
+mehr als zwei Jahren anhängig ist, rechnet die myLotto24 Ltd unter Zugrundelegung der 
+gewöhnlichen Verfahrensdauer mit einer Entscheidung des Bundesfinanzhofs im Jahr 2022. Wir sind 
+weiterhin zuversichtlich, dass der Klage von myLotto24 Ltd auch letztinstanzlich stattgegeben wird. 
+In diesem Fall würde die gezahlte Umsatzsteuer zuzüglich Zinsen an myLotto24 Ltd zurückerstattet 
+werden.  
+ 
+Unsicherheit bezüglich des Steuerumfelds in Österreich 
+In Österreich bestehen zwei getrennte Rechtssysteme für die Besteuerung von 
+Glücksspieldienstleistungen. Möglicherweise könnten die bis Oktober 2019 von der myLotto24 
+erbrachten Dienstleistungen hiernach in Österreich als steuerpflichtig gelten. Die Koexistenz der 
+beiden Gesetze führt zu einer Unsicherheit in Bezug auf die Abgrenzung der Besteuerungsgrundlage. 
+Für Glücksspiele könnte eine Besteuerung von 40 % der Bruttoglücksspielumsätze anwendbar sein, 
+während Wetten derzeit nur mit 4 % der Spieleinsätze besteuert werden.  
+ 
+Rechtstreitigkeiten und behördliche Verfahren 
+Die Unternehmen der ZEAL-Gruppe sind Parteien in verschiedenen Gerichtsverfahren im 
+Zusammenhang mit unterschiedlichen Aspekten des Glücksspiel- und Steuerrechts. Die LOTTO24 
+AG führt verschiedene gerichtliche Verfahren, um die aus unserer Sicht unbestimmten und 
+unverhältnismäßigen Beschränkungen der Erlaubnisse und festgesetzten Erlaubnisgebühren auf ihre 
+Rechtmäßigkeit zu überprüfen. Eine abschließende Klärung der grundlegenden Fragen wird durch die 
+zum 1. Juli 2021 geänderte Rechtslage und die zu erwartende Neuerteilung der Vermittlungserlaubnis 
+erschwert. Wir rechnen derzeit aus den anhängigen Verfahren nicht mit wesentlichen Auswirkungen 
+auf das zukünftige Geschäft.  
+ 
+Laufende Klage von MyLotto24 gegen Umsatzsteuerberscheid  
+In einem Verfahren der myLotto24 Ltd. ("myLotto24") gegen die Festsetzung von Umsatzsteuer auf 
+Umsätze aus dem früheren Zweitlotteriegeschäft hatte das Finanzgericht Hannover am 19. November 
+2019 der Klage der myLotto24 stattgegeben. Das Finanzamt hat gegen das Urteil Revision eingelegt. 
+Eine Entscheidung ist auch im Geschäftsjahr 2021 nicht erfolgt. Der Bundesfinanzhof könnte jedoch 
+im Verlauf des Jahres 2022 eine Entscheidung in der Sache treffen. In einer vorangegangenen 
+Entscheidung im einstweiligen Rechtsschutz hatte das Finanzgericht im September 2019 den Antrag 
+von myLotto24 abgewiesen, eine Aussetzung der Vollziehung von für die Monate Mai 2018 und Juni 
+2018 festgesetzter Umsatzsteuer ohne Sicherheitsleistung anzuordnen. Die Auswirkung der beiden 
+Entscheidungen auf die weiteren betroffenen Zeiträume von Januar 2015 bis Mitte Oktober 2019 war 
+daher Gegenstand von Besprechungen zwischen der myLotto24 und dem zuständigen Finanzamt 
+Hannover, mit dem myLotto24 im Dezember 2019 eine Vereinbarung getroffen hat, um das Risiko der 
+Festsetzung etwaiger Säumniszuschläge auszuschließen und den Umfang etwaiger Zinszahlungen 
+erheblich zu verringern. Ohne Anerkennung einer Rechtspflicht hat die myLotto24 im Januar 2020 
+einen Teilbetrag von rund € 54 Mio. auf Umsatzsteuer gezahlt, die in Bezug auf ihr früheres 
+Zweitlotteriegeschäft festgesetzt wurde. Die ZEAL Network SE ist weiterhin zuversichtlich, dass der 
+Klage von myLotto24 auch letztinstanzlich stattgegeben werden wird. In diesem Fall würde die 
+gezahlte Umsatzsteuer zuzüglich in der Höhe noch festzusetzender Zinsen an myLotto24 
+zurückerstattet werden.  
+Operative Risiken 
+Risiken aus dem Spielbetrieb 
+Abhängigkeit von komplexen IT-Systemen: Wir sind zur Abwicklung der Spielverträge auf den Einsatz 
+automatisierter Verfahren angewiesen. Trotz unserer derzeit umfassend vorhandenen 
+Sicherheitsvorkehrungen könnte die Abwicklung der Spielverträge durch Ausfälle oder Störungen der 
+IT-Systeme erheblich beeinträchtigt werden. Ursächlich hierfür könnten unter anderem die Zerstörung 
+der Hardware, Systemabstürze, Softwareprobleme, Virenattacken, Eindringen unbefugter Personen 
+in das System oder vergleichbare Störungen sein sowie insbesondere die automatisierte Erzeugung 
+massenhafter Anfragen an einen Server über das Internet mit dem Ziel, dessen Verfügbarkeit durch 
+Überlastung wesentlich einzuschränken ("Denial-of-Service-Angriffe"). Je nach Umfang etwaiger 
+Beeinträchtigungen könnten daraus Imageschäden und finanzielle Verluste entstehen. 
+
+Anlage 4 
+Seite 16 von 22 
+ 
+Datenmissbrauch durch Unbefugte: Unsere Kunden übermitteln uns im Rahmen der Registrierung 
+personenbezogene Daten, die elektronisch gespeichert werden und für den Kunden in seinem 
+Spielkontobereich über das Internet abrufbar sind. Wir haben umfassende Maßnahmen zur Sicherung 
+der bei uns gespeicherten Daten getroffen, die wir regelmäßig von unabhängigen Sicherheitsexperten 
+überprüfen lassen und kontinuierlich an den erforderlichen Stand der Technik anpassen. Trotz dieser 
+hohen Sicherheitsvorkehrungen kann nicht vollständig ausgeschlossen werden, dass unberechtigte 
+Personen sich rechtswidrig Zugang zu unserem Kundenbestand oder dem Kundenbestand von 
+Partnern verschaffen. Dies könnte zu Umsatzausfällen, Schadensersatzverpflichtungen und 
+erheblichen Vermögensschäden führen. 
+Zusammenarbeit mit externen Dienstleistern: Wir sind bei der Abwicklung des Geschäfts auf die 
+Zusammenarbeit mit externen Dienstleistern angewiesen, die über besondere Kenntnisse und 
+Technologien verfügen. Hiervon betroffen sind unter anderem Daten- und Sprachkommunikation, 
+Beschaffung, Installation, Fortentwicklung, Pflege und Wartung von Hard- und Software, 
+Rechenzentrumsdienstleistungen, Zahlungsabwicklung sowie SMS- und E-Mail-Versand. Es besteht 
+die Möglichkeit, dass einer oder mehrere der eingesetzten externen Dienstleister die Leistungen 
+nicht, nicht zeitgerecht oder nicht fehlerfrei erbringen. Es ist daher möglich, dass wir uns aufgrund von 
+Fehlern oder Versäumnissen der beauftragten externen Dienstleister außerstande sehen könnten, 
+unsere eigenen Dienstleistungen einwandfrei oder zeitgerecht zu erbringen. Dies könnte zu 
+Umsatzausfällen, Schadensersatzverpflichtungen und erheblichen Reputationsschäden führen. 
+ 
+Jackpot-Risiko 
+In Deutschland führen wir für die BildungsChancen gGmbH verschiedene Soziallotterien durch. Als 
+Durchführer tragen wir das wirtschaftliche Risiko der Gewinnauszahlungsverpflichtungen gegenüber 
+den Spielteilnehmern. Es besteht das Risiko, dass insbesondere in der Anlaufzeit mit geringeren 
+Spieleinsätze nicht ausreichen, um insbesondere Höchstgewinnsummen auszuzahlen. Um das 
+entsprechende Risiko zu vermindern, haben wir eine Versicherung zur Abdeckung der größten 
+Auszahlungsrisiken, insbesondere der höchsten Gewinnklasse abgeschlossen.  
+ 
+Ausfallrisiko der Gegenpartei 
+ZEAL hält auf den Konten der Kreditinstitute regelmäßig große Barguthaben oder hat diese kurzfristig 
+angelegt. Durch diese Einlagen, Zahlungsmitteläquivalente und anderen kurzfristig gehaltenen Anteile 
+an Eigenkapitalfonds und sonstigen vertraglichen Vereinbarungen könnten sich Ausfallrisiken 
+aufgrund von Forderungen an Vertragspartner, einschließlich Kreditinstituten, ergeben. ZEAL könnten 
+außerplanmäßige Abschreibungen oder schwerwiegende Zahlungsverzögerungen durch 
+Vertragspartner oder erfolgter Investments in Startups entstehen. Der finanzielle Ausfall einzelner 
+Kreditinstitute, bei denen ZEAL Bankguthaben führt, könnte teilweise oder gänzlich zu einem Verlust 
+der Einlagen führen. Ebenso könnte der Ausfall einzelner Emittenten von Zahlungsmitteläquivalenten 
+teilweise oder gänzlich zu einem Verlust dieser Zahlungsmitteläquivalente führen. 
+ 
+CHANCENBERICHT 
+Steigende Digitalisierung der Mediennutzung und des Handels 
+In Deutschland werden von Jahr zu Jahr mehr Medien digital konsumiert und Geschäfte im Internet 
+getätigt: Kunden wandern von Print- zu Internettiteln und vom linearen Fernsehen hin zu "Video-on-
+Demand-Services", die auf diversen Endgeräten verfügbar sind. Dieser Wandel bietet uns die 
+Möglichkeit, vom digitalen Trend zu profitieren und gegebenenfalls neue Vertriebswege zu 
+erschließen, die unser Wachstum durch einen vereinfachten Zugang zu unserem Produktangebot 
+beschleunigen. 
+Häufigkeit von ungewöhnlich hohen Lotto-Jackpots 
+Jackpots entstehen zufällig auf Grundlage bestimmter Ereignisse bei Lottoziehungen. In Zeiten hoher 
+Jackpots erwarten wir erfahrungsgemäß ein besonders starkes Kundenwachstum sowie einen 
+Anstieg des Transaktionsvolumens bereits registrierter Kunden. Insbesondere eine höhere Frequenz 
+von maximalen Jackpots (€ 45 Mio. für Lotto 6aus49 und € 90 Mio. für Eurojackpot) könnte zu 
+
+Anlage 4 
+Seite 17 von 22 
+ 
+steigendem Kundenwachstum und höheren Umsätzen führen. 
+Erweitertes Produktportfolio 
+Die seit dem 1. Juli 2021 geltende Fassung des Glücksspielstaatsvertrags enthält die Möglichkeit, 
+zusätzliche Glücksspielprodukte, insbesondere virtuelle Automatenspiele und Sportwetten im Internet 
+anzubieten. Zusätzliche Angebote könnten weitere Kundengruppen ansprechen und zu einem 
+Kundenwachstum und höheren Umsätzen und Margen führen.   
+BEWERTUNG DER RISIKEN UND CHANCEN  
+Wir bewerten die Wahrscheinlichkeit eines Eintretens der zuvor genannten Risiken jeweils 
+unterschiedlich und halten die Risikolage insgesamt für moderat. Insbesondere konnten wesentliche 
+Risiken wie z.B. regulatorische Unsicherheiten oder IT-Sicherheitsrisiken verringert werden, was 
+nach dem Geschäftsmodellwechsel 2019 zu einer weiteren Normalisierung des Gesamtrisikos 
+führte. Die Eintrittswahrscheinlichkeit von Risiken, die den Fortbestand der Gruppe gefährden 
+könnten, wie z.B. die Nichterteilung von beantragten Erlaubnissen, erachten wir als gering. Zudem 
+würden wir in Fällen rechtlicher Risiken bestehende Rechtsschutzmöglichkeiten ausschöpfen. 
+Darüber hinaus sind uns Risiken, die den Fortbestand der Gruppe gefährden könnten, derzeit nicht 
+bekannt. Insgesamt sind wir der Ansicht, dass die Chancen, die die Gruppe hat, die Risiken, denen 
+wir ausgesetzt sind, deutlich überwiegen. 
+ 
+ 
+MERKMALE DES RECHNUNGSLEGUNGSBEZOGENEN INTERNEN KONTROLL- UND 
+RISIKOMANAGEMENTSYSTEMS 
+ 
+Unsere Definition des rechnungslegungsbezogenen internen Kontroll- und 
+Risikomanagementsystems (IKS) entspricht der des vom Committee of Sponsoring Organizations of 
+the Treadway Commission (COSO) herausgegebenen Internal Control Framework – COSO I-Modell. 
+Des Weiteren wurde die Weiterführung durch das Enterprise Risk Management Integrated 
+Framework COSO-II Modells ebenfalls umgesetzt. Demnach wurde ein Kontrollumfeld definiert, eine 
+Risikobeurteilung vorgenommen, Kontrollmaßnahmen festgelegt und sichergestellt, dass 
+fortlaufende Informationen, Dokumentationen und die ständigen Überwachungen des 
+Kontrollsystems gewährleistet sind. Umfang und Ausgestaltung des IKS liegen im Ermessen und in 
+der Verantwortung des Vorstands und werden laufenden weiterentwickelt und an die internen und 
+externen Gegebenheiten angepasst.  
+ 
+Primäres Ziel des rechnungslegungsbezogenen IKS ist es, das Risiko wesentlicher Fehlaussagen in 
+der Rechnungslegung zu vermeiden, wesentliche Fehlbewertungen aufzudecken und die Einhaltung 
+der maßgeblichen Vorschriften zu gewährleisten. Eine absolute Sicherheit zur Erreichung dieses 
+Ziels durch ein IKS kann – unabhängig von der konkreten Ausgestaltung – dabei nicht erreicht 
+werden. 
+  
+Das rechnungslegungsbezogene IKS von ZEAL stellt durch definierte Organisations-, Kontroll- und 
+Überwachungsstrukturen die vollständige Erfassung von mit der Gruppe zusammenhängenden 
+Sachverhalten sowie deren sachgerechte Darstellung im Konzernabschluss sicher. Die dazu 
+eingeführten Grundsätze, Verfahren und Maßnahmen werden regelmäßig überprüft und 
+weiterentwickelt. 
+ 
+Die ZEAL Network SE erstellt einen Jahresabschluss nach den deutschen handelsrechtlichen 
+Vorschriften und darüber hinaus einen Konzernabschluss nach den Vorschriften der IFRS, wie sie in 
+der EU anzuwenden sind. Änderungen der einschlägigen rechtlichen Vorschriften werden fortlaufend 
+beobachtet und auf etwaigen Anpassungsbedarf hin überprüft. 
+  
+Wir betrachten die folgenden Elemente des internen Kontroll- und Risikomanagementsystem 
+hinsichtlich des (Konzern-) Rechnungslegungsprozesses als wesentlich: 
+• 
+Identifizierung aller wesentlichen rechnungslegungsrelevanten Prozesse und Risikofelder 
+einschließlich der Unterstützung von IT-Systemen und Festlegung entsprechender 
+Schlüsselkontrollen, 
+
+Anlage 4 
+Seite 18 von 22 
+ 
+• 
+kontinuierliche Analyse neuer oder veränderter Rechnungslegungsgrundsätze, Gesetze und 
+sonstiger Vorschriften und Bewertung ihrer Auswirkungen auf den Abschluss. Regelmäßige 
+Aktualisierung der konzernweiten Bilanzierungs- und Berichterstattungsrichtlinien in Form 
+von Bilanzierungsrichtlinien, Kontenplänen und Berichtsverfahren, 
+• 
+Unterstützung von Konzerngesellschaften bei der Einführung angemessener 
+Rechnungslegungsprozesse und -systeme, beispielsweise durch die Beratung bei der Buch-
+haltung, die Bereitstellung von Richtlinien und Checklisten für die Abschlusserstellung sowie 
+Schlüsselrisiken- und Standard-kontrollen innerhalb der Geschäftsprozesse, 
+• 
+zentralisierte Aufstellung des Konzernabschlusses (einschließlich Lagebericht) mit 
+manuellen und automatisierten Kontrollen und Qualitätskontrollen, 
+• 
+Sicherstellung der erforderlichen Kompetenz von Mitarbeitern des Finanz- und 
+Rechnungswesens durch entsprechende Auswahlverfahren und Schulungen sowie den 
+Einsatz von Spezialisten für spezifische Bewertungs- und IFRS-Themen wie 
+Beteiligungsbewertung und anteilsbasierte Vergütungen. 
+ 
+Verantwortlich für die Abschlusserstellung sind die Mitarbeiter des Bereichs Finanzen. Der Prozess 
+der Abschlusserstellung folgt einem mit den Mitarbeitern der zuliefernden Fachbereiche 
+abgestimmten Zeitplan. Einzelne Sachverhalte werden unter Einbindung externer 
+Experten/Gutachter bilanziell abgebildet. 
+ 
+Wir überwachen das rechnungslegungsbezogene IKS im Wesentlichen durch prozessintegrierte 
+Kontrollen. Dazu gehören sowohl präventive als auch aufdeckende Tätigkeiten. Folgende Kontrollen 
+sind in den Prozess eingebettet: IT-gestützte und manuelle Abstimmungen, Funktionstrennung, Vier-
+Augen-Prinzip sowie Monitoring-Kontrollen. 
+ 
+ 
+PROGNOSEBERICHT 
+Gesamtaussage  
+Die Ertragslage der ZEAL Network SE wird weiterhin stark abhängig von der Entwicklung der 
+gesamten ZEAL-Gruppe sein. Insgesamt planen wir im Jahr 2022 unsere Marktführerschaft als 
+Online-Anbieter staatlicher Lotterieprodukte weiter auszubauen.  
+Wirtschaftliche Prognose 
+Wir erwarten weiterhin eine erhebliche Nachfrage nach Online-Lotterie Produkten insbesondere der 
+Vermittlung von DLTB-Spielscheinen, aber auch unsere eigenen Produkte wie die freiheit+ 
+Soziallotterie wird weiterhin Anklang finden. Zudem plant die ZEAL-Gruppe im Rahmen der 
+Möglichkeiten des neuen Glücksspielstaatsvertrags eigene Glückspielprodukte, unter anderem eine 
+neue Soziallotterie-Kooperation, zu starten. Aus unserem existierenden Geschäft erwarten wir 
+mittelfristig einen Anstieg des Transaktionsvolumens auf 2 Milliarden (mindestens 750m in 2022). 
+Aktuell ist die ZEAL-Gruppe operativ von der Corona-Krise nicht betroffen. Wir gehen davon aus, 
+dass der Wirtschaftszweig, in dem wir uns bewegen weiterhin nicht maßgeblich von COVID-19 
+Maßnahmen jeglicher Art beeinträchtigt sein wird, daher sehen wir auch sehr optimistisch in Richtung 
+2022. 
+Erwartete Ertragslage 
+Die Ertragslage der ZEAL wird weiterhin stark durch die Verträge mit Tochterunternehmen geprägt 
+sein, wir erwarten daher in den kommenden Jahren keine wesentlichen Anstiege bei den 
+Umsatzerlösen. Die Kostenstruktur der ZEAL ist stark auf Fixkosten ausgelegt, daher wird auch hier 
+keine wesentliche Veränderung erwartet. Allerdings wird die Gesellschaft weiterhin 
+Kostensparpotenziale ermitteln und umsetzen, sowie die Verträge mit Tochterunternehmen 
+kontinuierlich an die tatsächlichen Gegebenheiten anpassen. Gewinne im Rahmen der freiheit+ 
+werden künftig durch eine Rückversicherung abgedeckt werden. Daher rechnen wir für die 
+kommenden Jahre mit einem positiven EBIT.  
+ 
+Wir rechnen mit folgenden finanziellen Kennzahlen im Geschäftsjahr 2022  
+Umsatzerlöse  = € 15,9m 
+EBIT 
+ 
+= €   3,7m 
+ 
+
+Anlage 4 
+Seite 19 von 22 
+ 
+ 
+ 
+Erwartete Vermögenslage 
+Die Vermögenslage der Gesellschaft wird sich voraussichtlich nur wenig in den kommenden Jahren 
+verändern. Lediglich im Bereich der Finanzanlagen sind Veränderung durch neue (Dis-)Investitionen 
+der Venture-Beteiligungen möglich, allerdings gibt es aktuell hierzu keine konkreten Pläne. Auch sind 
+Zukäufe im Bereich der verbundenen Unternehmen denkbar, aber auch hier wurde keine konkrete 
+Strategie entworfen.  
+ 
+Es wird erwartet, dass die Gesellschaft aufgrund der anhaltenden niedrigen Zinssätze, in Verbindung 
+mit den inzwischen auferlegten Strafzinsen auf Bankguthaben verstärkt Liquide Mittel in Wertpapieren 
+anlegen wird, sofern dies für die Gruppe wirtschaftlich sinnvoll ist. Im Bereich des 
+Nettoumlaufvermögens erwarten wir keine wesentlichen Veränderungen.  
+ 
+Erwartete Kapitallage  
+Die Gesellschaft plant die existieren Kreditlinien weiter auszubauen damit ein höheres Maß an 
+Flexibilität im Investitionsbereich ermöglicht werden kann. Allerdings ist noch völlig offen, ab welchem 
+Zeitpunkt diese tatsächlich gezogen werden und damit Einzug in die Passive haben werden.  
+ 
+Da wir weiterhin von einer steigenden Marktkapitalisierung ausgehen, wird ein Anstieg in den 
+Rückstellungen für Aktienbasiere Vergütungen mittelfristig zu erwarten sein. Das Eigenkapital wird in 
+den kommenden Jahren durch erwartete Dividendenausschüttungen an die Gesellschafter belastet 
+werden, was wiederum mittelfristig durch Dividenden der Tochtergesellschaften ausgeglichen werden 
+wird.  
+ 
+ÜBERNAHMERELEVANTE ANGABEN UND ERLÄUTERUNGEN  
+Die folgenden Angaben erfolgen gemäß § 289a HGB: 
+ 
+Zusammensetzung des gezeichneten Kapitals 
+Zum 31. Dezember 2021 betrug das gezeichnete Kapital der ZEAL Network SE € 22.396.070, 
+eingeteilt in 22.396.070 auf den Namen lautende nennwertlose Stückaktien. Gemäß § 67 Abs. 2 
+AktG gilt im Verhältnis zur Gesellschaft als Aktionär nur, wer als solcher im Aktienregister 
+eingetragen ist. Mit Ausnahme eigener Aktien, aus denen der Gesellschaft keine Rechte zustehen, 
+gewähren alle Aktien die gleichen Rechte. Jede Aktie vermittelt eine Stimme und, gegebenenfalls 
+mit Ausnahme eventueller nicht dividendenberechtigter junger Aktien, den gleichen Anteil am 
+Gewinn nach Maßgabe der von der Hauptversammlung beschlossenen Dividendenausschüttung. 
+Die Rechte und Pflichten aus den Aktien ergeben sich aus den gesetzlichen Vorschriften, 
+insbesondere aus Artikel 9(1)(c)(ii) der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 
+2001 über das Statut der Europäischen Gesellschaft (SE) ("SE-VO") in Verbindung mit den §§ 12, 
+53a ff., 118 ff. und 186 AktG. Zum 31. Dezember 2021 hielt die ZEAL Network SE 32.569 eigene 
+Aktien. 
+Beschränkungen, die Stimmrechte oder die Übertragung von Aktien betreffen 
+Aus eigenen Aktien stehen der Gesellschaft keine Rechte zu. In den Fällen des § 136 AktG ist das 
+Stimmrecht aus den betroffenen Aktien kraft Gesetzes ausgeschlossen. Auch können Verstöße 
+gegen die Mitteilungspflichten gemäß §§ 33, 38 oder 39 WpHG dazu führen, dass nach Maßgabe 
+des § 44 WpHG Rechte aus Aktien – darunter das Stimmrecht – zumindest zeitweise nicht 
+bestehen.  
+Soweit Vorstandsmitglieder in einem Geschäftsjahr ZEAL-Aktien für bis zu 10 % ihrer 
+Grundvergütung erwerben, wofür sie eine entsprechende Erhöhung ihrer Grundvergütung erhalten, 
+sind sie verpflichtet, die entsprechenden Aktien für einen Mindestzeitraum von drei Geschäftsjahren 
+ab dem 1. Januar des Erwerbsjahres zu halten. 
+
+Anlage 4 
+Seite 20 von 22 
+ 
+Direkte oder zugerechnete Beteiligungen am Kapital, die 10 % der Stimmrechte überschreiten 
+Gemäß § 160 Abs. 1 Nr. 8 AktG sind nachstehend die uns nach § 33 Abs. 1 WpHG bzw. § 21 Abs. 1 
+WpHG (a. F.) übermittelten und von uns nach § 40 Abs. 1 WpHG bzw. § 26 Abs. 1 WpHG (a. F.) 
+veröffentlichten Mitteilungen über Beteiligungen an der Gesellschaft wiedergegeben. Wir weisen 
+darauf hin, dass sich die Zahl der Gesamtstimmrechte der Gesellschaft von den zum Zeitpunkt der 
+ersten Börsenzulassung am 12. Oktober 2005 bestehenden 8.872.319 am 23. Januar 2009 auf 
+7.985.088, am 30. April 2013 auf 8.385.088 und am 8. Mai 2019 auf 22.396.070 geändert hat. 
+ 
+Morgan Stanley, Wilmington, Delaware, Vereinigte Staaten von Amerika, hat uns mitgeteilt, dass ihr 
+Stimmrechtsanteil an der Gesellschaft am 18. Juni 2021 10,13 % (2.268.021 Stimmrechte von 
+22.396.070) beträgt. Davon sind Morgan Stanley 10,13 % (2.268.021 Stimmrechte) nach § 34 
+WpHG zuzurechnen. 3 % oder mehr der Stimmrechte (10,05 %) werden zu dem angegebenen 
+Zeitpunkt direkt von der Morgan Stanley & Co. International plc gehalten. 
+Die UBS Group AG, Zürich, Schweiz, hat uns mitgeteilt, dass ihr Stimmrechtsanteil an der 
+Gesellschaft am 12. Mai 2021 13,96 % (3.125.886 Stimmrechte von 22.396.070) beträgt. Davon sind 
+der UBS Group AG 13,96 % (3.125.886 Stimmrechte) nach § 34 WpHG zuzurechnen. 3 % oder 
+mehr der Stimmrechte (12,80 %) werden zu dem angegebenen Zeitpunkt direkt von der UBS AG 
+gehalten. 
+Marc Peters hat uns mitgeteilt, dass sein Stimmrechtsanteil an der Gesellschaft am 3. Juli 2012 die 
+Schwelle von 5 % unterschritten hat und zu diesem Tag 4,82 % (384.715 Stimmrechte) beträgt.  
+Inhaber von Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen 
+Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen, wurden nicht ausgegeben. 
+ 
+Art der Stimmrechtskontrolle, wenn Arbeitnehmer am Kapital beteiligt sind und ihre Kontrollrechte 
+nicht unmittelbar ausüben 
+Arbeitnehmer, die Aktien der ZEAL Network SE halten, üben ihre Kontrollrechte wie andere 
+Aktionäre nach Maßgabe der gesetzlichen Vorschriften und der Satzung aus. 
+Gesetzliche Vorschriften und Bestimmungen der Satzung über die Ernennung und Abberufung von 
+Vorstandsmitgliedern und die Änderung der Satzung 
+Die ZEAL Network SE ist eine dualistisch strukturierte SE im Sinne von Artikel 38 lit. b) 1. Alt. SE-
+VO. Die Mitglieder des Vorstands (Leitungsorgan) der Gesellschaft werden vom Aufsichtsrat 
+(Aufsichtsorgan) für einen Zeitraum von höchstens fünf Jahren bestellt. Wiederbestellungen, jeweils 
+für höchstens fünf Jahre, sind zulässig (§ 6 Abs. 2 der Satzung). Für die Bestellung von 
+Vorstandsmitgliedern ist die einfache Mehrheit der abgegebenen Stimmen im Aufsichtsrat 
+erforderlich. Bei Stimmengleichheit gibt die Stimme des Aufsichtsratsvorsitzenden in einer erneuten 
+Abstimmung den Ausschlag (§ 13 Abs. 6 der Satzung). Für den Widerruf der Bestellung von 
+Vorstandsmitgliedern gilt dieses Verfahren entsprechend. 
+Der Vorstand besteht gemäß § 6 Abs. 1 der Satzung aus einer oder mehreren Personen. Die Zahl 
+der Mitglieder wird vom Aufsichtsrat bestimmt. Nach § 84 Abs. 2 AktG kann der Aufsichtsrat ein 
+Mitglied des Vorstands zum Vorsitzenden ernennen. Fehlt ein erforderliches Vorstandsmitglied, wird 
+das Mitglied nach § 85 Abs. 1 AktG in dringenden Fällen auf Antrag eines Beteiligten gerichtlich 
+bestellt. Der Aufsichtsrat kann die Bestellung zum Vorstand und die Ernennung zum Vorsitzenden 
+des Vorstands gemäß § 84 Abs. 3 AktG widerrufen, wenn ein wichtiger Grund vorliegt. 
+Der Umfang der Tätigkeit, die das Unternehmen ausüben kann, ist in § 2 der Satzung definiert. 
+Änderungen der Satzung richten sich nach Artikel 59 SE-VO, § 179 AktG und der Satzung. Soweit 
+nicht zwingende gesetzliche Vorschriften etwas Abweichendes bestimmen, werden Beschlüsse der 
+Hauptversammlung nach § 133 AktG, § 20 Abs. 1 der Satzung mit einfacher Mehrheit der 
+abgegebenen Stimmen und gegebenenfalls mit einfacher Mehrheit des vertretenen Kapitals gefasst. 
+Für eine Änderung des Unternehmensgegenstands ist gemäß § 179 Abs. 2 AktG eine Mehrheit von 
+75 % des vertretenen Grundkapitals erforderlich; von der Möglichkeit, hierfür eine größere 
+
+Anlage 4 
+Seite 21 von 22 
+ 
+Kapitalmehrheit zu bestimmen, wird in der Satzung kein Gebrauch gemacht. Änderungen der 
+Satzung, die lediglich die Fassung betreffen, kann der Aufsichtsrat gemäß § 16 der Satzung 
+beschließen. Satzungsänderungen werden nach § 181 Abs. 3 AktG mit Eintragung in das 
+Handelsregister wirksam. 
+Befugnisse des Vorstands, Aktien auszugeben oder zurückzukaufen 
+Der Vorstand ist derzeit nicht zur Ausgabe neuer Aktien ermächtigt. Insbesondere verfügt die 
+Gesellschaft weder über genehmigtes noch über bedingtes Kapital. Bis zum Ende der Laufzeit des 
+Genehmigten Kapitals am 21. Juni 2021 hatte der Vorstand von diesem keinen Gebrauch gemacht. 
+Gemäß dem Beschluss der Hauptversammlung vom 25. September 2019 ist der Vorstand 
+ermächtigt, sämtliche zu diesem Zeitpunkt von der Gesellschaft gehaltenen eigenen Aktien unter 
+Ausschluss des Bezugsrechts der Aktionäre unter anderem für Unternehmenszusammenschlüsse 
+und -übernahmen zu verwenden oder aber gegen Barzahlung an Dritte zu einem Preis zu 
+veräußern, der den Börsenkurs zum Zeitpunkt der Veräußerung nicht wesentlich unterschreitet. Die 
+Aktien können darüber hinaus an Mitarbeiter der Gesellschaft und verbundener Unternehmen, 
+einschließlich der Führungskräfte verbundener Unternehmen, im Rahmen von Aktienoptions- 
+und/oder Mitarbeiterbeteiligungsprogrammen ausgegeben werden. Die eigenen Aktien der 
+Gesellschaft können auch eingezogen werden. Im Jahr 2021 wurden 4.146 eigene Aktien an 
+Mitarbeiter der Gruppe veräußert. 
+Wesentliche Vereinbarungen, die unter der Bedingung eines Kontrollwechsels infolge eines 
+Übernahmeangebots stehen 
+Wesentliche Vereinbarungen, die unter der Bedingung eines Kontrollwechsels infolge eines 
+Übernahmeangebots stehen, wurden nicht getroffen. 
+ 
+Entschädigungsvereinbarungen für den Fall eines Übernahmeangebots 
+Entschädigungsvereinbarungen der Gesellschaft, die für den Fall eines Übernahmeangebots mit den 
+Mitgliedern des Vorstands oder Arbeitnehmern getroffen sind, bestehen nicht. 
+ 
+ 
+ERKLÄRUNG ZUR UNTERNEHMENSFÜHRUNG GEMÄẞ § 289F HGB 
+Die Erklärung zur Unternehmensführung gemäß § 289f HGB wurde auf der Website der Gesellschaft 
+unter zealnetwork.de öffentlich zugänglich gemacht.  
+ 
+ 
+ 
+ 
+
+Anlage 4 
+Seite 22 von 22 
+ 
+VERSICHERUNG DER GESETZLICHEN VERTRETER 
+Wir versichern nach bestem Wissen, dass der Jahresabschluss der ZEAL Network SE unter 
+Beachtung der anzuwendenden Rechnungslegungsgrundsätze ein den tatsächlichen Verhältnissen 
+entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der ZEAL Network SE vermittelt und 
+im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der ZEAL 
+Network SE so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild 
+vermittelt wird, sowie die wesentlichen Chancen und Risiken der voraussichtlichen Entwicklung der 
+ZEAL Network SE beschrieben sind. 
+ 
+Hamburg, 22. März 2022 
+ 
+Der Vorstand 
+ZEAL Network SE 
+ 
+ 
+_________________________ 
+ 
+ 
+ 
+_________________________ 
+ 
+Dr. Helmut Becker  
+ 
+ 
+ 
+Paul Dingwitz 
+ 
+Vorsitzender 
+ 
+ 
+ 
+ 
+Vorstand Technology  
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+ 
+ 
+ 
+_________________________ 
+ 
+Sönke Martens   
+ 
+ 
+ 
+Jonas Mattsson  
+Vorstand Operations 
+ 
+ 
+ 
+Finanzvorstand

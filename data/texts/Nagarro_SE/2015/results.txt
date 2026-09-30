@@ -1,0 +1,528 @@
+Thinking Breakthroughs
+
+Disclaimer
+The information contained in this document is provided as of the date of its publication and is subject to change without notice. 
+This presentation contains preliminary figures and forward-looking statements. Forward-looking statements may be identified by words such as “expect”, “forecast”, “anticipate”, “intend”, “plan”, “believe”, “seek”, “estimate”, “will”, “target” or words of similar meaning. These 
+statements are based on the current views, expectations, assumptions and information of the management of Nagarro, of which many are beyond Nagarro’s control. Forward-looking statements involve known and unknown risks and uncertainties and, therefore actual 
+results, performance or events may differ materially from those described in such statements due to, among other things, changes in the general economic and competitive environment, risks associated with capital markets, currency exchange rate fluctuations, changes 
+in international and national laws and regulations, in particular with respect to tax laws and regulations, and other factors. All forward-looking statements only speak as of the date when they were made and Nagarro does not undertake any obligation to update any of the 
+forward-looking statements.
+The figures presented for Q1 ‘23 are unaudited.
+Gross profit, gross margin, adjusted EBITDA and adjusted EBITDA margin are non-IFRS/non-GAAP financial measures. These and other non-IFRS/non-GAAP financial measures may not be comparable to similarly titled measures presented by other companies, nor should 
+they be construed as an alternative to other financial measures determined in accordance with IFRS or other GAAP. You are cautioned not to place undue reliance on any non-IFRS/non-GAAP financial measures included herein. Please find further explanations regarding 
+our financial key performance indicators in chapter “Section A – V. Financial Performance” in the Annual Report 2022 of the Company. These documents are available under the following internet link https://www.nagarro.com/en/investor-relations/financial-reports-and-
+publications. Due to rounding, numbers presented in this document may not add up precisely to the totals provided and percentages may not precisely reflect the absolute figures to which they refer. 
+
+Nagarro at a glance
+Employee data as of Mar 31, 2023
+• Fast-growing, scaled, diversified, digital engineering leader 
+with a full-service portfolio
+• A global company domiciled in Germany
+• ~19,000 Nagarrians across 34 countries
+• Differentiated organization design based on 
+entrepreneurship and global teams
+• Diverse and loyal blue–chip customer base, 1,000+ 
+customers across 63 countries
+• Strong results through “CARING” core values
+3
+FY 2022
+• €856 million revenue
+• 56.8% YoY revenue growth
+• 48.0% YoY constant currency 
+revenue growth
+• 39.3% YoY organic constant 
+currency revenue growth
+• 28.9% gross margin
+• 17.3% adj. EBITDA margin
+FY 2023 guidance 
+• €940 million revenue 
+not including 2023 M&A
+• 28% gross margin
+• 15% adj. EBITDA margin
+
+To make distance and difference irrelevant between intelligent people 
+Our Mission Statement
+
+A global company with no single HQ
+34 
+countries with 
+registered offices
+Over a dozen 
+nationalities in 
+senior management
+5
+Americas
+Canada
+Colombia
+Ecuador
+Mexico
+US
+EMEA
+Austria
+Bahrain
+Denmark
+Finland
+France
+Germany 
+Malta
+Mauritius
+Norway
+Poland
+Portugal
+Romania
+Saudi Arabia
+Spain
+Sweden
+Switzerland 
+South Africa
+UAE
+UK
+Asia
+Australia
+China
+India
+Japan
+Malaysia
+Philippines
+Singapore
+Sri Lanka
+Thailand
+Taiwan
+
+Our core values: a magnet for talentCaring is our superpower
+Agile
+Responsible
+Intelligent
+Non
+-hierarchical
+Global
+Client
+- centric
+6
+
+Addressing a large, fast
+-growing digital services market
+Growing spend on digital IT services, supported by structural tailwinds
+The estimate of the digital services market is based on the “3rd Platform IT Services” forecast in the IDC Worldwide Black Bo
+ok, 3rd Platform Edition (August 2020). IDC defines the 3rd Platform as 
+made up of four pillars: cloud, mobile, big data, and social. These pillars represent a new architecture for ICT, based on a 
+clo
+ud
+-first, mobile
+-first approach to the management and usage of 
+devices, infrastructure, software, and services. In addition to the four pillars, IDC also added new technologies that it ref
+ers to as innovation accelerators., which include 3D printing, AR/VR, 
+artificial intelligence, IoT, blockchain, robotics and security.
+$346 billion
+2020
+$543 billion
+2024
+CAGR 12% 
+2020-24
+Connected Everything
+Automotive, Manufacturing 
+and Industrial 
+Immersive Experiences
+Telecom, Media and Entertainment
+Dynamic Pricing
+Travel and Aviation
+Fintech
+Financial Services and Insurance 
+eCommerce
+Retail and CPG 
+Connected Health
+Lifesciences and Healthcare 
+7
+
+Differentiated market positioning
+Companies presented do not include all peers. The representation here is the company’s view of the competitive landscape.
+8
+Engineering DNA
+Consulting  DNA
+Services  DNA
+Excellence in digital 
+product engineering to 
+“change the business”
+Excellence in enterprise 
+services to “run the business”
+Nagarro’s differentiated position:
+Excellence in digital product 
+engineering combined with a 
+portfolio of enterprise services
+
+15%
+Top 5
+9%
+Top 6-10
+76%
+Rest
+20% 
+Automotive, Manufacturing 
+and Industrial
+14%  
+Financial Services and 
+Insurance
+13%  
+Retail and CPG
+9%  
+Public, Non-profit, Education
+9% 
+Travel and Logistics 
+8%  
+Horizontal Tech
+8%  
+Energy, Utilities and 
+Bldg Automation
+7%  
+Life Sciences and 
+Healthcare
+7%  
+Management 
+Consulting and 
+Business Information
+6%  
+Telecom, Media and 
+Entertainment
+Diversified across industries and clients
+Revenue by industry is based on the company’s own classification of each client (or its corporate group) by industry. Each corporate group is counted as a single customer. Percentages are individually rounded and may not add up to 100%.
+Revenue by industry
+Revenue by customers
+9
+
+Global opportunities served with global talent
+Central Europe comprises Austria, Croatia, Czech Republic, Germany, Hungary, Poland, Romania, Serbia, Slovakia, Slovenia and 
+Swi tzerland.
+A number of the new hires for Q1 2023 are college graduates, to be trained further, and not likely to be immediately deployed
+on client projects.
+Number of personnel as of March 31, 2023
+Revenue by client region
+Personnel worldwide
+10
+27% 
+Central Europe 
+(Germany is 20%)
+14% 
+Rest of Europe
+38% 
+North America
+22% 
+Rest of World
+17,674
+professionals in engineering
+18,946
+total professionals, of which...
+
+Working with the leaders in each industry
+The term “Big 3 management consulting firms” is used for McKinsey, the Boston Consulting Group and Bain Consulting.
+Automotive, Manufacturing and Industrial
+Travel and Logistics
+Telecom, Media and Entertainment
+Financial Services and Insurance
+Energy, Utilities and Building Automation
+Life Sciences and Healthcare
+Management Consulting and Business Information
+2 of the Big 3 
+management 
+consulting firms
+Retail and CPG
+Public, Non-profit and Education
+Horizontal Tech
+11
+
+Large client base to develop over time
+Data from acquired entities
+is included as if they were part of the company for the entire period except 2019
+12
+number of clients
+12 years
+average relationship
+> € 10 million 
+revenue
+€ 5-10 million
+revenue
+€ 1-5 million
+revenue
+7 years
+average relationship
+5 years
+average relationship
+2019
+2022
+2019
+2022
+2019
+2022
+
+Nagarro’s “Enterprise Agile” mindset, processes and organization 
+design deliver:
+• Enterprise-class robust engineering
+• Agility in projects, agility in adapting to changing business and 
+technology environments
+• Expertise across industries and regions
+Why customers choose us
+NPS numbers are from the CSAT survey for Q1, 2023. The question posed was: “On a scale of 1
+-10, how likely are you to recommend 
+Nagarro to a friend 
+or colleague?” Promoters are those who gave a score of 9 or 10, Passive are those who gave a score of 7 or 8, and Detractors 
+are those who responded 
+with a score below 7. The NPS score is calculated as (Number of Promoters 
+–number of Detractors) * 100 / (total number of NPS r
+esponses).
+13
+NPS
+65.4
+
+• Virtual, global organization
+rather than a federation of national orgs or legal entities
+• Emphasis on autonomy and choice
+via internal marketplaces, not top-down decision making
+• Flat, entrepreneurial management
+50+ top-level leaders, >25% of them entrepreneurs
+• Proprietary “business operating system”
+embedding the org design and culture
+Powered by a unique org design and culture
+14
+
+Open, global culture drives post
+-merger integration 
+and synergies
+Bringing the target’s capabilities to the world…
+…and bringing global capabilities to the target’s clients
+15
+
+Socially responsible around the globe
+Testing Pro for people with autism
+Saving lives via road safety
+Making art accessible
+With WWF against single-use plastic
+Organizing car-free days
+Incubating a university
+16
+
+Q1 2023
+
+Q1 2023, described
+Total number of professionals as of March 31, 2023The MBIS acquisition awaits anti
+-trust clearance in Turkey
+Highlights
+• Constant currency growth continued, 
+although the pace moderated
+• FX impacted reported revenue numbers
+• Inorganic growth continued 
+with the acquisition of Infocore and MBIS
+• New subsidiary opened in Taiwan
+• Near-term demand softening predicted 
+due to the banking crisis and general economic conditions
+• Medium-term sentiment bullish as digital transformation 
+segues into Big Data- and AI-transformation
+• Low wage inflation and attrition in certain job markets, 
+including in our largest service region, India
+Milestones
+• 2.6% QoQ
+revenue growth in constant currency 
+• 22.9% YoY
+revenue growth in constant currency
+• Net Promoter Score
+65
+• 18,946 Nagarrians
+696 net new additions
+18
+
+Q1 2023, by the numbers
+.
+€230m
+revenue
+23.7%
+YoY revenue growth
+22.9%
+YoY revenue growth
+(constant currency)
+26.8%
+gross margin
+€31.4m
+adjusted EBITDA
+INDUSTRIES’ YoY GROWTH RANGE
+SEGMENTS’ YoY GROWTH RANGE
+15%
+top 5 clients’ revenue
+39%
+financial services &
+insurance
+-6%
+horizontal tech
+33%
+rest of world
+17%
+central europe
+€114m
+cash balance
+696
+professionals added
+92.0%
+CSAT score
+GUIDANCE
+~€940  
+2023 revenue
+~15.0%
+2023 adjusted 
+EBITDA margin
+19
+CSAT scores for Q1 2023 reported under revised survey format; Q2 2022 and subsequent CSAT scores not comparable with Q1 2022 and previous scoresGuidance per announcement on May 12, 2023, excludes revenue from acquisitions made or to be made in 2023
+
+15%
+Top 5
+9%
+Top 6-10
+76%
+Rest
+20%  (PY 19%)
+Automotive, Manufacturing 
+and Industrial
+14%  (PY 13%)
+Financial Services and 
+Insurance
+13%  (PY 13%)
+Retail and CPG
+9%  (PY 9%)
+Public, Non-profit, Education
+9% (PY 9%)
+Travel and Logistics 
+8%  (PY 10%)
+Horizontal Tech
+8%  (PY 7%)
+Energy, Utilities and 
+Bldg Automation
+7%  (PY 8%)
+Life Sciences and 
+Healthcare
+7%  (PY 7%)
+Management 
+Consulting and 
+Business Information
+6%  (PY 6%)
+Telecom, Media and 
+Entertainment
+Broad
+-based growth across industries and clients
+Revenue by industry is based on the company’s own classification of each client (or its corporate group) by industry. Each corporate group is counted as a single customer.Numbers in brackets represent previous year (PY) data, i.e. for Q1 ’22.Percentages are individually rounded and may not add up to 100%.
+Revenue by industry
+Revenue by customers
+€230m
+Q1 ’23
+€230m
+Q1 ’23
+20
+
+Rest of World leads growth
+Central Europe comprises Austria, Croatia, Czech Republic, Germany, Hungary, Poland, Romania, Serbia, Slovakia, Slovenia and 
+Swi tzerland.
+A number of the new hires for Q1 2023 are college graduates, to be trained further, and not likely to be immediately deployed
+on client projects.
+Number of personnel as of March 31, 2023
+Revenue by client region
+Personnel worldwide
+21
+27% (PY 29%) 
+Central Europe 
+(Germany is 20%)
+14% (PY 13%) 
+Rest of Europe
+38% (PY 38%) 
+North America
+22% (PY 20%) 
+Rest of World
+17,674
+professionals in engineering
+18,946
+total professionals, of which...
+€230m
+Q1’23
+
+Segment revenues and gross margins
+22
+Revenues€m
+Q1 ’22
+Q1 ’23
+North America
+Q1 ’22
+Q1 ’23
+Central Europe
+Q1 ’22
+Q1 ’23
+Rest of World
+Q1 ’22
+Q1 ’23
+Rest of  Europe
+.
+25%
+24%
+28%
+34%
+Gross margin
+27%
+24%
+29%
+27%
+22.4%
+16.9%
+29.1%
+32.5%
+
+Net liabilities and cash flows
+Financial liabilities include drawdown on syndicated credit facility, working capital facilities, bank loans, and liabilities
+fr om factoring.
+Net leverage is calculated as net liabilities divided by adjusted LTM EBITDA.
+Financial liabilities
+Net leverage
+2.1x
+1.1x
+1.04x
+Net liabilities€m
+Lease liabilities
+Cash
+23
+DEC 31, 
+20 21
+DEC 31, 
+20 22
+MAR 31, 2023
+Net cash flow from 
+operating activities
+Net cash flow from 
+investing activities
+Net cash flow from 
+financing activities
+-27.2
+7.0
+Cash flows€m
+Total cash flow
+166.0
+162.2
+157.4
+Net liabilities
+Q1 ‘22
+Q1 ‘23
+
+24
+Outlook
+Revenue
+Gross Margin
+Adjusted EBITDA
+2023 target  
+~€940m
+~15%
+~28%
+Guidance per announcement on May 12, 2023, excludes revenue from acquisitions made or to be made in 2023
+
+Nagarro investment highlights, reiterated
+1. Positioning 
+“Engineering DNA” digital leader with a special “Enterprise Agile” approach
+2. Clients 
+Large, global, blue-chip customer base
+3. Organization Agile, entrepreneurial and global org design and culture
+4. Financials 
+Strong revenue growth, attractive margins and upside potential
+5. Growth 
+Sustainable organic growth capabilities, plus synergistic M&A
+
+Q&A

@@ -1,0 +1,3905 @@
+Annual Report  
+Siemens Financieringsmaatschappij N.V. 
+October 1, 2014 – September 30, 2015  
+
+Siemens Financieringsmaatschappij N.V. 
+1 
+ 
+ 
+Contents 
+Report of the Board of Directors 
+2 
+Corporate Governance Statement 
+5 
+Report of the Supervisory Board 
+7 
+Financial Statements 
+13 
+Statement of Comprehensive Income 
+13 
+Statement of Financial Position 
+14 
+Statement of Cash Flows 
+15 
+Statement of Changes in Equity 
+17 
+Notes to the Financial Statements 
+18 
+1. 
+Basis of presentation 
+18 
+2. 
+Summary of significant accounting policies 
+20 
+3. 
+Management estimates and judgments 
+25 
+4. 
+Interest income and expenses 
+26 
+5. 
+Fair value changes of financial Instruments 
+26 
+6. 
+Non-trading foreign exchange results 
+27 
+7. 
+Other general expenses 
+27 
+8. 
+Income tax 
+28 
+9. 
+Cash and cash equivalents 
+30 
+10.  Receivables from Associated Companies 
+30 
+11.  Derivative financial instruments 
+31 
+12.  Other financial assets 
+31 
+13.  Liabilities to Associated Companies 
+31 
+14.  Debt 
+32 
+15.  Other liabilities 
+35 
+16.  Equity 
+36 
+17.  Additional disclosures on financial instruments 
+37 
+18.  Financial risk management 
+39 
+19.  Events after reporting date 
+42 
+20.  Claims and litigations 
+42 
+21.  Segment information 
+43 
+22.  Related parties 
+43 
+23.  Remuneration Board of Directors and Supervisory Board 
+46 
+Independent auditor’s report 
+47 
+Profit appropriation 
+51 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+2 
+ 
+Report of the Board of Directors 
+Herewith we present the Financial Statements of Siemens Financieringsmaatschappij N.V. (the “Company” or 
+“SFM”) as of September 30, 2015. These Financial Statements have been prepared in accordance with the 
+International Financial Reporting Standards (IFRS) as adopted by the European Union as well as with Part 9 of 
+Book 2 of the Dutch Civil Code. 
+ 
+General 
+Siemens Financieringsmaatschappij N.V. is registered in The Hague, Prinses Beatrixlaan 800, a public company, 
+founded on September 14, 1977 under the laws of the Netherlands and acts under its legal and commercial name 
+Siemens Financieringsmaatschappij N.V. 
+The Company acts as a finance company for the benefit of Siemens AG and Siemens AG Group companies 
+(Associated Companies). The Company is a 100% subsidiary of Siemens AG Berlin / Munich. 
+ 
+The Company forms part of the capital markets section of the Siemens’ Division Financial Services (SFS) which is 
+responsible for safeguarding the Siemens Group’s liquidity by establishing the necessary capital market 
+instruments such as commercial paper, medium-term notes and long-term bonds. 
+ 
+Objectives 
+The objectives of the Company, in accordance to article 2 of the Articles of Association, are participating in, 
+financing and managing companies, enterprises and other business undertakings, withdrawing and lending money 
+and, in general conducting financial transactions, issuing securities and doing all such further actions and taking 
+measures as are consequential or may be conducive thereto in the broadest sense. The Board of Directors is of 
+the opinion that the objectives were met. 
+ 
+Strategy 
+The Company is a funding party of the Associated Companies. Interest risks and foreign exchange risks are 
+covered by mirror deals or hedging instruments. Credit risks over EUR 2 million are covered by agreements with 
+Siemens AG. Funding is found by borrowing on the money and capital markets by issuing loans, bonds, notes and 
+commercial paper. The Company has no participations. 
+ 
+The Company acts as part of the Siemens’ Division Financial Services (SFS). Given its interrelatedness with 
+Siemens AG, management refrains from commenting on the activity level and expected results for the near future. 
+In the next fiscal year the Company will continue its activities as financing company for Associated Companies. 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+3 
+ 
+Risk management 
+Under responsibility of the Board of Directors, systems for internal control and for the management of risks within 
+the Company were set up, in cooperation with Siemens AG, to identify and subsequently manage the credit, 
+interest and foreign exchange rate risks which could endanger the realization of the objectives of the Company. 
+Interest rate risks and exchange rate risks related to loans and receivables are covered by mirror deals or hedging 
+instruments. When the Company lends to Associated Companies, the credit risk over EUR 2 million of these loans 
+is covered by a guarantee of Siemens AG. For this reason, a limited capital at risk agreement was entered into 
+between the Company and Siemens AG. For further information see also Note 2 and Note 18. 
+ 
+Liquidity risk 
+Liquidity risk results from the Company’s potential inability to meet its financial liabilities when they become due, at 
+reasonable costs and in a timely manner. As the Company participates as potential issuer in different programs 
+guaranteed by Siemens AG this risk is considered to be low. For further information see also Note 18. 
+ 
+Business Review 
+The Company participates as issuer in a EUR 15.0 billion program for the issuance of debt instruments (DIP) and 
+in a USD 9.0 billion global commercial paper program, both established by Siemens AG. Siemens AG 
+unconditionally and irrevocably guarantees all debt securities of the Company. 
+In May 2015, the Company issued instruments with a nominal amount of USD 7.75 billion and maturities between 3 
+and 30 years. In June 2015, the assignable loan amounting to EUR 333 million was redeemed.  
+ 
+In February 2012, the Company issued bonds in an aggregate volume of USD 3 billion. The bonds, issued by the 
+Company, were complemented with warrants issued by Siemens AG. In August, 2015, Siemens AG made an 
+exchange offer to institutional investors to replace the existing warrants relating to Siemens and OSRAM shares 
+with new warrants relating only to Siemens shares. To facilitate the exchange, in total, floating–rate instruments of 
+EUR 64 million were issued in September 2015. 
+The total nominal amount outstanding under the DIP was EUR 10.5 billion as of September 30, 2015. 
+As of September 30, 2015, the Company participates in three credit facility programs of Siemens AG. For further 
+information see Note 14 to the Financial Statements. 
+ 
+The changes in the ineffective portion of the fair values of the hedging instruments contributed negatively to the 
+Company’s result where they contributed positively in earlier years, see Note 5. 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+4 
+ 
+Tax 
+In fiscal year 2014 a joint German Dutch tax audit was held by the German and Dutch authorities in order to 
+discuss the remuneration to be earned by the Company for the fiscal years 2013 up to and including 2016. As a 
+result the remuneration policy was established for the Company. The Statement of Comprehensive Income reflects 
+the tax result of the fiscal year 2015. 
+In 2015, SFM received a refund of paid taxes for the years 2011-2014 in aggregate amount of  EUR 154,641 with 
+regards to VAT. 
+ 
+Other items 
+All personnel are employed by the regional company Siemens Nederland N.V. For details on remuneration see 
+Note 23. 
+In connection with the listing of bonds at the Luxembourg Stock Exchange the Company is regarded as a “Public 
+Interest Entity (Organisatie van Openbaar Belang (OOB)”. The Company applies parts III.5.4  (part a, b, c and f) 
+and III.5.7 of the Dutch Corporate Governance Code (Code) concerning the audit committee and principles V2 and 
+V4 concerning the external auditor. 
+ 
+Representation by the Board of Directors as required under section 5:25c, part 2, item c of the Dutch 
+Financial Markets Supervision Act (WFT) 
+Management declares that, to the best of its knowledge, the Financial Statements prepared in accordance with 
+International Financial Reporting Standards (IFRS) as adopted by the European Union  as well as with Part 9 of 
+Book 2 of the Dutch Civil Code give a true and fair view of the assets, liabilities, financial position and results of the 
+Company. The report of the Board of Directors includes a fair review of the development and performance of the 
+business during financial year, the position of the Company on the balance sheet date and a description of the 
+material risks that the Company faces. 
+ 
+ 
+The Hague, November 9, 2015 
+ 
+On behalf of the Board of Directors 
+ 
+G.J.J. van der Lubbe 
+ 
+S. Galanzin 
+ 
+CEO 
+ 
+CFO 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+5 
+ 
+Corporate Governance Statement 
+ 
+The Board of Directors is responsible for establishing and maintaining an adequate risk and internal control system 
+for the Company. The risk and internal control systems are designed to manage rather than eliminate risk and to 
+provide a degree of assurance, although not absolute assurance, that the organization’s business objectives are 
+being met and key risks are being adequately managed – for example that the organization’s assets are 
+safeguarded, financial reporting is reliable and laws and regulations are complied with. The risk and internal control 
+system is based on an ongoing process designed to: 
+- 
+identify and prioritize risks to achievement of business objectives; 
+- 
+manage these risks efficiently and effectively, including the issuance of guidance and associated control 
+requirements; and 
+- 
+regularly review the risks being managed, including evaluating the achievement of control requirements 
+and the effectiveness of key controls designed to mitigate these risks. 
+ 
+No risk and internal control system, including one determined to be effective, can ensure that the organization's 
+business objectives are being met and key risks are being adequately managed. Instead, it can only provide a 
+certain degree of assurance thereon, acknowledging that limitations exist in all systems of internal control, and that 
+uncertainties and risks may exist, which no one can confidently predict with precision. Also, projections of any 
+evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because 
+of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+The core elements on which our internal control system is based include, but are not limited to: 
+- 
+Policy and Control Master book (PCMB): The Policy and Control Master book is a central reference point 
+for all globally applicable Control Requirements mandated in Siemens Circulars and other existing 
+Corporate policies and guidance. It provides a clear and consistent set of Control Requirements which 
+assist management and staff to appropriately control areas for which they are responsible. Control 
+Requirements are structured into the four categories strategic, operations, financial and compliance on the 
+basis of the established and globally accepted COSO 'Enterprise Risk Management - Integrated 
+Framework' to allow the organization to break down its control environment into manageable aspects and 
+to work towards achieving its overall control objectives. 
+- 
+Internal Control (IC) Process: An integrated IC Process considering the core elements of COSO. ‘Internal 
+Control - Integrated Framework' is in place to review the effectiveness of internal controls over strategic, 
+operations, financial and compliance Control Requirements. The Control Requirements included in the 
+PCMB form the basis for the annual assessment. Any internal control deficiencies identified through this 
+process are evaluated and respective remediation activities are initiated by management. 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+6 
+ 
+ 
+- 
+Internal Certification Process: A quarterly certification process has been instituted, requiring management 
+to internally certify various matters, providing the basis for the responsibility statement of the Siemens AG 
+Managing Board and for the representation of the Siemens AG CEO, CFO and Corporate Controller to the 
+external auditor. 
+ 
+Assurance efforts have primarily been focused on safeguarding of assets, reliability of financial reporting and 
+compliance with laws and regulations. In order to effectively manage assurance efforts, different assessment 
+approaches and therefore levels of assurance have been applied.  
+The highest level of assurance has been provided through the integrated Control over Financial Reporting (ICFR) 
+Process on reliability of financial reporting and through other Detailed Assessments in the IC Process that require 
+independent testing and are primarily performed for anti-corruption topics.  
+The majority of remaining assessments in the IC Process were conducted in the form of Self Assessments or 
+known issue reporting. Whilst these are subject to validation procedures, the level of comfort that is achieved is 
+lower compared to Detailed Assessments. 
+ 
+In connection with the listing of bonds at the Luxembourg Stock Exchange the Company is regarded as a “Public 
+Interest Entity (Organisatie van Openbaar Belang (OOB)”. The Company applies parts III.5.4  (part a, b, c and f) 
+and III.5.7 of the Dutch Corporate Governance Code (Code) concerning the audit committee and principles V2 and 
+V4 concerning the external auditor. 
+ 
+No critical internal control weaknesses were identified as part of the review of effectiveness process. 
+ 
+The Hague, November 9, 2015 
+ 
+On behalf of the Board of Directors 
+ 
+ 
+G.J.J. van der Lubbe 
+S. Galanzin 
+ 
+CEO                                                                                  CFO 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+7 
+ 
+Report of the Supervisory Board  
+I. Submission  
+We hereby submit the Report of the Supervisory Board of Siemens Financieringsmaatschappij N.V. for the fiscal 
+year 2015. The annual accounts have been audited by Ernst & Young Accountants LLP and were provided with an 
+unqualified auditor’s opinion on November 9, 2015. The Independent Auditors’ Report can be found on page 47 of 
+the Annual Report. 
+The Supervisory Board agrees with the proposal by the Board of Directors to distribute no dividends from the result 
+for fiscal 2015 of EUR (14.8) million and to withdraw EUR 14.8 million from the Company’s shareholder’s equity. 
+We recommend the General Meeting of Shareholders to adopt the annual accounts and to ratify the actions of the 
+members of the Board of Directors.  
+ 
+II. Position of Siemens Financieringsmaatschappij N.V. and significant developments  
+General, targets and strategy  
+Siemens Financieringsmaatschappij N.V. is one of the top players in the Siemens Group in the field of funding and 
+financing of group companies. The activities not forming part of the core business have been outsourced to 
+specialist parts of the Siemens Group in Germany and The Netherlands. This outsourcing has no effect on the 
+responsibilities of the Board of Directors. During 2015 the strategy of outsourcing and checks thereon was 
+evaluated with the Board of Directors. 
+Likewise the Supervisory Board discussed with the Board of Directors the risk management strategy, as well as the 
+monitoring and the reporting of risk management to the Supervisory Board. Unambiguous agreements have been 
+reached in this respect. Siemens Group experts have assisted the Supervisory Board. 
+Based on reports submitted by the Board of Directors, we discussed in detail the business transactions of major 
+significance to the Company. 
+ 
+In order to examine independently the situation in the various parts of the Siemens Group that are involved in the 
+Company’s business processes, the Supervisory Board has been informed by these parts of the Siemens Group.  
+The Supervisory Board was able to use the information obtained when assessing the way in which the Board of 
+Directors has implemented internal control. 
+ 
+Special developments  
+The Company participates as issuer in a EUR 15.0 billion program for the issuance of debt instruments (DIP) and 
+in a USD 9.0 billion global commercial paper program, both established by Siemens AG. Siemens AG 
+unconditionally and irrevocably guarantees all debt securities of the Company.  
+In May 2015, the Company issued instruments with a nominal amount of USD 7.75 billion and maturities between 3 
+and 30 years. In June 2015, the Company redeemed a EUR 333 million assignable loan.  
+In February 2012, the Company issued bonds in an aggregate volume of USD 3 billion. The bonds, issued by the 
+Company, were complemented with warrants issued by Siemens AG. In August, 2015, Siemens AG made an 
+exchange offer to institutional investors to replace the existing warrants relating to Siemens and OSRAM shares 
+
+Siemens Financieringsmaatschappij N.V. 
+8 
+ 
+with new warrants relating only to Siemens shares. To facilitate the exchange, in total, floating–rate instruments of 
+EUR 64 million were issued in September 2015. 
+ 
+Financing and tax planning 
+As a group financing company the planning of the Company’s financing has been fully integrated with that of the 
+parent company. The planning adhered to by the parent company is accepted as binding and followed by the 
+Company. 
+ 
+In fiscal year 2014 a joint tax audit was held by the German and Dutch authorities in order to discuss the 
+remuneration to be earned by the Company for the fiscal years from 2013 to 2016. As a result the tax payable in 
+the Netherlands was adjusted. The Statement of Comprehensive Income reflects the tax result of this adjustments. 
+The result of the audit was confirmed in an agreement of the tax offices of both countries. 
+ 
+The Board of Directors gave a presentation on the outcome of the joint tax audit and current tax topics in relation to 
+the Company’s tax control framework in cooperation with the tax manager of the Dutch regional entities of 
+Siemens. The general conclusion is that the tax risk profile is consistent with the policy. The tax policy can be 
+considered as conservative. The existing arrangements with the tax authorities provide sufficient comfort. The 
+Supervisory Board has approved the Company’s tax policy.  
+ 
+Compliance with legislation and regulations 
+Relevant legislation for the Company can be found in the Dutch Financial Markets Supervisory Act (WFT), and 
+applicable laws in Luxembourg concerning stock market listing and prospectus guidelines. The Board of Directors 
+demonstrated the Supervisory Board how compliance with the principal legislation and regulations is ensured. An 
+external legal opinion was obtained in order to evaluate the Company’s position with regards to rules and 
+regulations. The Supervisory Board did not note any shortcomings in this respect.  
+ 
+III. Governance  
+In connection with the listing of bonds at the Luxembourg Stock Exchange the Company is regarded as a “Public 
+Interest Entity (Organisatie van Openbaar Belang (OOB)”. The Supervisory Board considers itself responsible for 
+compliance with the Dutch Corporate Governance Code (Code) parts III.5.4  (part a, b, c and f) and III.5.7 of the 
+Code concerning the audit committee and principles V2 and V4 concerning the external auditor. The Supervisory 
+Board supervises fulfillment of these provisions. Annually compliance with the best practice provisions is discussed 
+with the Board of Directors. The Corporate Governance statement is included on page 5 of the Annual Report. The 
+Supervisory Board approves the contents of this statement. 
+ 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+9 
+ 
+IV. Composition of Supervisory Board and Board of Directors 
+The current composition of the Supervisory Board with personal details, primary and secondary functions: 
+ 
+H.-P. Rupprecht (1954, German nationality, male)  
+Member of the Supervisory Board since: 24-11-2000  
+Chairman of the Supervisory Board  
+Primary function:         Chief Executive Officer of Siemens Treasury GmbH and Group Treasurer Siemens AG 
+Secondary functions: Supervisory director of Siemens Bank GmbH 
+ 
+Chairman of the Supervisory Board of Siemens Finance B.V. 
+        Supervisory Board - Vice - Chairman of UBS Real Estate Kapitalanlagegesellschaft mbH  
+        Board of Directors - Chairman of Siemens Capital Company LLC 
+        Board of Directors - Vice-Chairman of Siemens Financial Services Ltd 
+ 
+Dr. H. Bernhöft (1958, German nationality, male)  
+Member of the Supervisory Board since: 14-01-2011  
+Primary function:         Chief Financial Officer of Siemens Treasury GmbH 
+Secondary function:    Supervisory director of Siemens Finance B.V. 
+ 
+B.G. Trompert (1948, Dutch nationality, male)  
+Member of the Supervisory Board since: 01-07-2009  
+Other functions:          Supervisory director of Siemens Finance B.V.   
+       Joint Managing Director of 2 not related companies. 
+ 
+The General Meeting of Shareholders, who also fixes their number, appoints the members of the Supervisory 
+Board. These appointments are for an unlimited period. All the members of the Supervisory Board are 
+independent.  
+ 
+The current composition of the Board of Directors with personal details, primary and secondary functions: 
+ 
+G.J.J. van der Lubbe (1960, Dutch nationality, male)  
+Member of the Board of Directors since: 01-07-2009  
+Chairman of the Board of Directors 
+Other functions:          Managing director of Siemens Finance B.V.   
+ 
+Sergej Galanzin (1981, German nationality, male)  
+Member of the Board of Directors since: 27-11-2014  
+Other functions:          Managing director of Siemens Finance B.V. 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+10 
+ 
+In October 2014 the CFO, Mr. M.L.M. van de Weijer retired services at Siemens. After the resignation of Mr. van de 
+Weijer per October 17, 2014, Mr. G.J.J. van der Lubbe was the remaining member of the Board of Directors. In the 
+Annual Meeting of Shareholders on November 26, 2014 the Shareholders appointed Mr. S. Galanzin as Managing 
+Director of the Company and granted him the title of CFO. 
+ 
+V. Meetings and other sessions  
+The Supervisory Board met twice in the fiscal year. A delegation of the Supervisory Board attended the quarterly 
+meeting of the Board of Directors with the external auditor. On a monthly basis the Board of Directors discusses 
+with the independent member of the Supervisory Board the developments. The CEO meets the chairman of the 
+Supervisory Board several times a year, whereas the CFO meets regularly the member of the Supervisory Board. 
+During these meetings and during other ad hoc contacts with the BoD throughout the year  monitoring is ensured. 
+ 
+Self-assessment by the Supervisory Board 
+In fiscal year 2013 the performance of the Supervisory Board as a whole has been assessed. The Supervisory 
+Board aims for an appropriate combination of knowledge and experience among its members in relation to the 
+character of the business of the Company. 
+ 
+VI. Committees  
+The size of the Company enables the Supervisory Board to operate without separate committees. A supervisory 
+director has been appointed to supervise in closer alliance with the Board of Directors.. 
+Due to the size of the Company the Supervisory Board as a whole acts as Audit Committee and deals with the 
+Company’s risk management system including legal and regulatory risks. 
+The Audit Committee met once in the fiscal year. Furthermore the delegated supervisory director attended the 
+quarterly closing meetings with the external auditor and met the Board of Directors on a regular basis for advice 
+and information. 
+ 
+Remuneration policy 
+When reviewing the Board of Directors’ remuneration policy the standards that apply in the Siemens Group for 
+comparable functions are applicable. The performance targets for the members of the Board of Directors are 
+determined annually at the beginning of the year. The Supervisory Board determines whether performance 
+conditions have been met and can adjust the pay-out of the annual cash incentive and the long-term incentive if the 
+predetermined performance criteria were to produce an unfair result. 
+The Supervisory Board is of the opinion that the criteria emphasize short-term performance, as well as long-term 
+performance, and are in line with the targets formulated.  
+ 
+Risks and internal risk management systems  
+The Siemens risk management system is laid down in the Siemens Policy and Control Master Book. This is 
+regarded as the single source for globally relevant control requirements at Siemens and is the cornerstone of the 
+Companies’ integrated and Siemens Group wide risk system. 
+
+Siemens Financieringsmaatschappij N.V. 
+11 
+ 
+In fiscal year 2015 the delegated supervisory director and the Board of Directors met several times to discuss the 
+risks associated with the strategy and the nature of the business, as well as the effectiveness of the internal risk 
+management systems. The operational and strategic risks relating to the business are described in the Report of 
+the Board of Directors (page 2 in the Annual Report). The Board of Directors discussed the structure and operation 
+as well as the results of the internal risk management systems with the Supervisory Board. 
+ 
+Financial reporting  
+The reporting processes were clarified to the Supervisory Board. The Board of Directors informed the Supervisory 
+Board how it monitors the quality of financial reporting. On the basis of this presentation and the reports from the 
+external auditor, the Supervisory Board is of the opinion that the Board of Directors sufficiently meets its 
+responsibilities in respect of the quality of financial information provided.  
+ 
+Consultation with the external auditor 
+Prior to the accounting audit the audit approach for fiscal year 2015 was discussed with the external auditor, 
+including the materiality used for preparing and auditing the annual Financial Statements and the boundary above 
+which auditor’s findings are reported to the Supervisory Board. 
+ 
+The Supervisory Board discusses the annual Financial Statements, the Annual Report, the audit findings and the 
+risk management policy with the Board of Directors and the auditor. The way in which the Board of Directors 
+handles recommendations within the business was discussed. No aspects arose which could lead to further actions 
+in this area.  
+ 
+The Supervisory Board assessed the independence of the auditor in fiscal year 2015. It was concluded that, in view 
+of the absence of non-audit services, there is no question of threats to independence. The Supervisory Board is of 
+the opinion that the external auditor has provided the board with  relevant information to enable it to exercise its 
+supervisory role. The auditor reported no irregularities in the reporting.  
+ 
+VII. Relationship to the Shareholders 
+Siemens AG owns all shares and 2 of the 3 members of the Supervisory Board are employed by Siemens. 
+ 
+VIII. Personnel / works council  
+All personnel are employed by Siemens Nederland N.V. and deployed to the Company. Partly in view of the size of 
+the business, the Company does not have an own works council. 
+ 
+IX. Diversity  
+To foster diversity throughout the Siemens organization, Siemens AG launched a Diversity Initiative, which bundles 
+targeted measures and projects for ensuring and further enhancing diversity at all levels of Siemens. Examples 
+include the global network of about 160 Siemens Diversity Ambassadors, who identify diversity issues Company-
+wide. 
+
+Siemens Financieringsmaatschappij N.V. 
+12 
+ 
+ 
+The Global Diversity Office coordinates strategies, measures and programs across Siemens following these 
+Diversity-principles:  
+- 
+we want to have the best person for every position; 
+- 
+we want to provide opportunities for diversity of experience and interaction; and 
+- 
+we want to achieve diversity of thinking across our Company. 
+ 
+ 
+Siemens Global networks promote and discuss diversity topics across the Company, such as the Global 
+Leadership Organization of Women (GLOW), Diversity Ambassador and Generations Networks. In addition, 
+Siemens has over 100 local employee networks worldwide with employees actively engaged in diversity-related 
+programs and activities. The Board of Directors and the Supervisory Board of the Company fully support the 
+Diversity Initiative and the Diversity-principles.  
+ 
+In preparing recommendations on the appointment of members of the Board of Directors or members of the 
+Supervisory Board the Supervisory Board takes into account a candidate’s professional qualifications, international 
+experience and leadership qualities, the Board’s plans for succession as well as the Board’s diversity and, in 
+particular, the appropriate consideration of women. Together with the regional company additional measures will be 
+taken in order to improve the gender balance at a next occasion.  
+ 
+The size of the Company, with a Board of Directors consisting of two persons, and a Supervisory Board consisting 
+of three persons, limits opportunities for diversity on the short term. Since 2012 no Board positions are held by 
+women. 
+ 
+X. Special matters  
+No special matters arose for which approval by the Supervisory Board is required by law, the articles of association 
+or the Corporate Governance Code.  
+No transactions occurred which resulted in conflicting interests of directors, supervisory directors, shareholders 
+and/or external auditor and which were of material importance for the Company and/or the relevant directors, 
+supervisory directors, shareholders and/or external auditor. 
+ 
+Our Board would like to thank the Board of Directors as well as the personnel of the Company for their efforts and 
+commitment to the success of Siemens Financieringsmaatschappij N.V. 
+ 
+The Hague, November 9, 2015 
+ 
+On behalf of the Supervisory Board 
+ 
+H.-P. Rupprecht 
+Chairman 
+
+Siemens Financieringsmaatschappij N.V. 
+FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+13 
+ 
+ 
+Financial Statements 
+Statement of Comprehensive Income 
+ 
+ 
+Fiscal year ended September 30,
+ 
+Notes
+2015 
+2014
+ 
+Interest income 
+4 
+410.5 
+337.4 
+Interest expenses 
+4 
+(399.5) 
+(317.5) 
+Net interest income (expenses) 
+11.0 
+19.9
+ 
+ 
+ 
+ 
+Fair value changes of financial instruments 
+5 
+(249.4) 
+(129.9) 
+Non-trading foreign exchange results 
+6 
+219.0 
+115.2 
+Net operating income (loss) 
+(19.4) 
+5.2
+ 
+ 
+ 
+ 
+Other general expenses 
+7 
+(0.4) 
+(0.4) 
+Profit (loss) before tax 
+(19.8) 
+4.8
+ 
+ 
+ 
+ 
+Income tax revenues (expenses) 
+8 
+5.0 
+(0.1) 
+Profit (loss) after tax 
+(14.8) 
+4.7
+ 
+ 
+ 
+Other comprehensive income 
+ 
+ 
+-
+Income tax relating to components of other comprehensive income 
+ 
+ 
+-
+Total other comprehensive income after tax 
+ 
+ 
+- 
+ 
+ 
+ 
+Total comprehensive income (loss) for the period 
+attributable to equity holders 
+ 
+(14.8) 
+4.7 
+
+Siemens Financieringsmaatschappij N.V. 
+FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+14 
+ 
+Statement of Financial Position 
+ 
+  
+  
+September 30, 
+ASSETS 
+Notes 
+2015 
+2014 
+ 
+  
+ 
+  
+Cash and cash equivalents 
+9 
+15.5 
+3,222.5 
+Receivables from Associated Companies 
+10 
+27,144.1 
+15,945.0 
+Tax receivables 
+8 
+- 
+0.2 
+Derivative financial instruments 
+11 
+1,045.5 
+1,151.6 
+Other financial assets 
+12 
+156.0 
+152.2 
+ 
+Total assets 
+ 
+28,361.1 
+ 
+20,471.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 30, 
+LIABILITIES AND EQUITY 
+Notes 
+2015 
+2014 
+ 
+ 
+ 
+ 
+Liabilities 
+ 
+ 
+ 
+Liabilities to Associated Companies 
+13 
+893.7 
+795.5 
+Debt 
+14 
+26,975.2 
+19,317.8 
+Derivative financial instruments 
+11 
+132.1 
+41.5 
+Tax liabilities 
+8 
+0.1 
+- 
+Deferred tax liabilities 
+8 
+6.5 
+13.4 
+Other liabilities 
+15 
+277.2 
+207.5 
+Total liabilities 
+ 
+28,284.8 
+20,375.7 
+ 
+ 
+ 
+ 
+Equity attributable to equity holders
+ 
+ 
+ 
+Issued and paid in share capital 
+16 
+10.3 
+10.3 
+Share premium reserve 
+16 
+1.5 
+1.5 
+Retained earnings 
+16 
+79.3 
+79.3 
+Undistributed profit (loss) 
+16 
+(14.8) 
+4.7 
+Total equity attributable to equity holders 
+ 
+76.3 
+95.8 
+ 
+Total liabilities and equity 
+ 
+ 
+28,361.1 
+ 
+20,471.5 
+
+Siemens Financieringsmaatschappij N.V. 
+FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+15 
+ 
+Statement of Cash Flows 
+  
+Fiscal year ended September 30, 
+  
+Notes
+2015 
+2014
+  
+ 
+ 
+ 
+Profit (loss) before tax 
+ 
+(19.8) 
+4.8 
+ 
+Adjustments for non-cash income/ expenses: 
+ 
+ 
+ 
+Amortization (dis)agio 
+4 
+29.6 
+25.7 
+Amortization transaction cost 
+4 
+7.6 
+6.8 
+Non-trading foreign exchange results 
+6 
+(219.0) 
+(115.2) 
+Fair value change of debt in a hedging relationship 
+5 
+(79.1) 
+(66.5) 
+Change in derivative financial instruments 
+11/12 
+192.9 
+159.4 
+Change in interest accrual receivables 
+ 
+(0.2) 
+(0.2) 
+Other movements from operations: 
+ 
+ 
+ 
+Change in other liabilities 
+ 
+69.7 
+(11.2) 
+Net cash flows from receivables 
+6/10 
+(10,100.7) 
+(275.1) 
+Net cash flows from liabilities 
+ 
+(98.1) 
+795.5 
+Transaction cost paid 
+ 
+(28.2) 
+(0.6) 
+Income taxes received (paid) 
+8 
+(1.6) 
+(1.8) 
+ 
+Net cash (used in) provided by operating activities 
+(10,050.7) 
+521.6 
+ 
+Net cash provided by investing activities 
+ 
+- 
+- 
+Proceeds from issuance of debt 
+ 
+7,599.9 
+526.8 
+Redemption of debt 
+ 
+(751.5) 
+(1,433.3) 
+Proceeds from issuance of commercial paper 
+ 
+0.0 
+0.0 
+Repayment of commercial paper 
+ 
+0.0 
+0.0 
+Dividends paid 
+ 
+(4.7) 
+(0.5) 
+ 
+Net cash (used in) provided by financing activities 
+6,843.7 
+(907.0) 
+ 
+Net change in cash and cash equivalents 
+ 
+(3,207.0) 
+(385.4) 
+Cash and cash equivalents at beginning of fiscal year 
+ 
+3,222.5 
+3,607.9 
+ 
+Cash and cash equivalents at end of fiscal year 
+9 
+15.5 
+3,222.5 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+16 
+ 
+ 
+Interest paid and received 
+Fiscal year ended September 30, 
+ 
+ 2015  
+2014 
+ 
+Interest paid 
+(319.4) 
+(306.4) 
+Interest received 
+331.4 
+230.2 
+Interest related income received 
+78.9 
+107.0 
+
+Siemens Financieringsmaatschappij N.V. 
+FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+17 
+ 
+Statement of Changes in Equity  
+ 
+ 
+Issued 
+and paid-
+in capital 
+Share 
+premium 
+reserve 
+Retained 
+earnings 
+Undis- 
+tributed 
+profit 
+Total 
+ 
+Balance as at October 1, 2013 
+10.3 
+1.5 
+79.3 
+0.5 
+91.6 
+Appropriation of undistributed profit 
+-
+-
+- 
+-
+-
+Dividends 
+- 
+- 
+- 
+(0.5) 
+(0.5) 
+Total comprehensive income (loss) for the 
+fiscal year ended September 30, 2014 
+- 
+- 
+- 
+4.7 
+4.7 
+ 
+Balance as at September 30, 2014 
+10.3 
+1.5 
+79.3 
+4.7 
+95.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance as at October 1, 2014 
+10.3 
+1.5 
+79.3 
+4.7 
+95.8 
+Appropriation of undistributed profit 
+- 
+- 
+- 
+- 
+- 
+Dividends 
+- 
+- 
+- 
+(4.7) 
+(4.7) 
+Total comprehensive income (loss) for the 
+fiscal year ended September 30, 2015 
+- 
+- 
+- 
+(14.8) 
+(14.8) 
+ 
+Balance as at September 30, 2015 
+10.3 
+1.5 
+79.3 
+(14.8) 
+76.3 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+18 
+ 
+Notes to the Financial Statements 
+ 
+1. 
+Basis of presentation 
+ 
+Reporting entity 
+Siemens Financieringsmaatschappij N.V. is a company domiciled in the Netherlands. The address of the 
+Company’s registered office is Prinses Beatrixlaan 800, 2595 BN The Hague, the Netherlands. The Company is 
+registered in the Commercial Register at September 14, 1977, number 27092998. The Company has chosen 
+Luxembourg as its home member state, pursuant to the law on transparency requirements for issuers of securities. 
+The Company acts as a finance company for the benefit of Siemens AG and Siemens AG Group companies 
+(Associated Companies). Since September 28, 1992, the Company is a 100% subsidiary of Siemens AG 
+Berlin/Munich. The Company’s Financial Statements are included in the Siemens AG Consolidated Financial 
+Statements. 
+ 
+The Company is primarily involved in the financing of Associated Companies. 
+ 
+The Financial Statements were authorised for issue by the Board of Directors on November 9, 2015. 
+ 
+Reporting standard 
+The accompanying Financial Statements have been prepared in accordance with International Financial Reporting 
+Standards (IFRS) as adopted by the European Union as well as with Part 9 of Book 2 of the Dutch Civil Code. The 
+Company applied all standards and interpretations that were effective as of October 1, 2014. The following 
+standards and interpretations are mandatory and/or implemented for the first time: 
+- 
+Improvements to International Financial Reporting Standards - 2010-2012 cycle, as effective for years 
+beginning on or after July 1, 2014. The topics do not apply, as the Company does not have personnel, 
+does not using business combinations, does not have operating business, does not have intangible 
+assets, does not have property, plant or equipment. Therefore the impact of these improvements is none.  
+- 
+Improvements to International Financial Reporting Standards - 2011-2013 cycle, as effective for years 
+beginning on or after July 1, 2014. The topics do not apply, as the Company is not a first time IFRS 
+adopter, does not using business combinations, does not have investment property. Therefore the impact 
+of these improvements is none. 
+- 
+Amendments to IAS 32 ‘Presentation – Offsetting Financial Assets and Financial Liabilities’, effective for 
+years beginning on or after January 1, 2014. This standard amends the disclosure requirements for 
+offsetting. The impact of this measurement is none, as the Company did and does not have the intention 
+to offset financial assets. 
+- 
+Amendments to IAS 36 ‘Impairment of assets – Recoverable Amount Disclosures for Non-Financial 
+Assets, effective for years beginning on or after January 1, 2014. The impact of this measurement is none, 
+as the Company does not have non-financial assets. 
+- 
+Amendments to IAS 39 'Financial Instruments: Recognition and Measurement': Novation of Derivatives 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+19 
+ 
+and Continuation of Hedge Accounting, effective for years beginning on or after January 1, 2014. The 
+impact is expected to be none, as the Company has all its derivatives with SAG as counterparty. 
+- 
+IFRIC 21 ‘Levies’, as effective for years beginning on or after January 1, 2014. The impact is expected to 
+be none. 
+- 
+Amendments to IFRS 10 and 12 and IAS 27 “Investment Entities”, as effective for years beginning on or 
+after January 1, 2014, are not relevant for the Company. The topics do not apply, as the Company does 
+not have interests in other entities. 
+- 
+Amendments to IAS 19 'Defined Benefit Plans: Employee contributions': The impact of this standard is 
+none, as the Company does not have any employees. 
+ 
+A number of standards, amendments to standards and interpretations is not effective for the fiscal year beginning 
+October 1, 2014 and has not been early adopted. The relevant (amendments to) standards and interpretations not 
+adopted are: 
+- 
+IFRS 9 ‘Financial Instruments‘, effective for years beginning on or after January 1, 2018. IFRS 9 
+introduces a single approach for the classification and measurement of financial assets according to their 
+cash flow characteristics and the business model they are managed in, and provides a new impairment 
+model based on expected credit losses. IFRS 9 also includes new regulations regarding the application of 
+hedge accounting to better reflect an entity’s risk management activities especially with regard to 
+managing non-financial risks, starting October 1, 2018. Early adoption is not expected. 
+- 
+IFRS 14 ‘Regulatory Deferral Accounts’, effective for years beginning on or after January 1, 2016. The 
+scope of IFRS is limited to first-time adopters. Therefore the impact of this measurement is none. 
+- 
+Amendments to IFRS 7 'Mandatory effective date and transition disclosure', as effective for years 
+beginning on or after January 1, 2015. Early adoption is not expected.  
+- 
+Amendments to IFRS 7, IFRS 9, IAS 39: 'Hedge accounting', as effective for years beginning on or after 
+January 1, 2018. These amendments apply when IFRS 9 is applied. The impact of the amendments will 
+be further analyzed for the fiscal year, starting October 1, 2018. 
+- 
+Amendments to IAS 16 and IAS 38: 'Clarification of acceptable methods of Depreciation of Amortisation', 
+as effective for years beginning on or after January 1, 2016. The topics do not apply, as the Company, 
+does not have property, plant or equipment or intangible assets. Therefore the impact of these 
+improvements is none. 
+- 
+Amendments to IFRS 11: 'Accounting for acquisition of interest in Joint Operations', as effective for years 
+beginning on or after January 1, 2016. The topics do not apply, as the Company does not do any 
+acquisition of interest in joint operations. 
+- 
+Amendments to IAS 16 and IAS 41: 'Agriculture: Bearer Plants', as effective for years beginning on or 
+after January 1, 2016. The impact of this standard is none, as the Company does not have any agriculture 
+positions. 
+- 
+IFRS 15: 'Revenue from contracts with customers', as effective for years beginning on or after January 1, 
+2017.  The impact of this standard is none, as the Company does not have any operating business. 
+- 
+Amendments to IAS 27: 'Equity method in separate financial statements', as effective for years beginning 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+20 
+ 
+on or after January 1, 2016. The topics do not apply, as the Company does not have any investment 
+positions in the financial statements. 
+- 
+Amendments to IFRS 10 and IAS 28: ‘Sale of Contribution of Assets between an Investor and its 
+Associate or Joint Venture’, as effective for years beginning on or after January 1, 2016. The impact of the 
+topic does not apply as the Company does not have any Sale of Contribution of Assets. 
+- 
+Annual improvements to International Financial Reporting Standards - 2012-2014 cycle, as effective for 
+years beginning on or after July 1, 2016. 
+The impact of the Annual improvements are minor, while the company does not have any non-current 
+Assets held for sale, servicing contracts or employee benefits. The impact of the amendment regarding 
+disclosure information will be further analyzed for the fiscal year, starting October 1, 2016. 
+- 
+Amendments to IFRS 10 and 12 and IAS 28 ‘Investment Entities’: applying the consolidation exception, as 
+effective for years beginning on or after January 1, 2016, are not relevant for the Company. The topics do 
+not apply, as the Company does not have interests in other entities. 
+- 
+Amendments to IAS 1: ‘Disclosure Initiative’, as effective for years beginning on or after January 1, 2016. 
+These amendments include focus on improvements in the following areas; Materiality, Disaggregation and 
+subtotals, notes structure, disclosure of accounting policies and presentation of items in OCI arising from 
+equity accounted investments. The impact of the amendments will be further analyzed for the fiscal year, 
+starting October 1, 2016. 
+ 
+ 
+2. 
+Summary of significant accounting policies 
+ 
+Valuation principles 
+The Financial Statements have been prepared on the historical cost basis unless indicated otherwise below. 
+ 
+Associated Companies 
+Associated Companies are Siemens AG and its subsidiaries which are directly or indirectly controlled by  
+Siemens AG or companies in which Siemens AG has the ability to exercise significant influence over operating and 
+financial policies (generally through direct or indirect ownership of 20% to 50% of the voting rights). 
+ 
+Functional and presentational currency 
+These Financial Statements are presented in euro, which is the Company’s functional and presentational currency. 
+All financial information presented in euro has been rounded to the nearest million, unless otherwise stated. The 
+consequence is that the rounded amounts may not add up to the rounded total in all cases. 
+ 
+Transactions in foreign currencies are initially recorded at the exchange rates prevailing at the date of the 
+transaction. Monetary assets and liabilities denominated in foreign currencies are translated using period-end 
+exchange rates. All differences are taken to the Statement of Comprehensive Income. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+21 
+ 
+Non-monetary items that are measured in terms of historical cost in a foreign currency are translated using the 
+exchange rates as at the dates of the initial transactions. Non-monetary items measured at fair value in a foreign 
+currency are translated using the exchange rates at the date when the fair value is determined. 
+ 
+The exchange rates of the significant currencies were as follows:  
+ 
+Year-end exchange rate 
+1 EUR quoted 
+into currencies 
+specified below 
+September 30, 
+Annual average rate 
+1 EUR quoted into 
+currencies specified 
+below fiscal year ended 
+September 30, 
+Currency 
+ISO Code
+2015
+2014 
+2015
+2014
+U.S. Dollar .....................................................
+USD  
+1.1203 
+1.258 
+1.149 
+1.357 
+British Pound .................................................
+GBP  
+0.7385 
+0.777 
+0.743 
+0.819 
+ 
+Impairment of financial assets 
+The carrying amounts of the Company’s financial assets are reviewed at each reporting date to determine whether 
+there is any indication of impairment. A financial asset or a group of financial assets is deemed to be impaired if 
+there is objective evidence of impairment as a result of one or more events that occurred after the initial recognition 
+of the asset (‘loss event’) and that loss event has an impact on the estimated future cash flows of the financial 
+asset or the group of financial assets that can be reliably estimated. Evidence of impairment of debt instruments 
+may include indications that the debtors or a group of debtors is experiencing significant financial difficulty, default 
+or delinquency in interest or principal payments, the probability that they will enter bankruptcy or other financial 
+reorganization and where observable data indicate that there is a measurable decrease in the estimated future 
+cash flows. Impairment losses are recognized using separate allowance accounts. 
+If there is objective evidence that an impairment loss has been incurred, the amount of the loss is measured as the 
+difference between the carrying amount of the asset and the present value of estimated future cash flows using the 
+original effective interest rate. Impairment losses are recognized in the Statement of Comprehensive Income.  
+Since the Company’s (current and non-current) receivables mainly consist of balances due from the Associated 
+Companies, valuation and collectability of these receivables depend upon the financial position and 
+creditworthiness of the involved companies and of the Siemens AG Group as a whole. 
+ 
+Income Taxes 
+The Company applies IAS 12, Income Taxes. Deferred tax assets and liabilities are recognized for the future tax 
+consequences attributable to temporary differences between the statement of financial position carrying amounts of 
+existing assets and liabilities and their respective tax bases. The effect on deferred tax assets and liabilities of a 
+change in tax laws is recognized in the Statement of Comprehensive Income unless related to items directly 
+recognized in equity in the period the new laws are substantively enacted. Deferred tax assets are recognized to 
+the extent that it is probable that future taxable income will be available against which the deductible temporary 
+differences can be utilized. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+22 
+ 
+Financial instruments 
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability of 
+another entity. Financial assets mainly include cash and cash equivalents, receivables from Associated Companies 
+and derivative financial instruments with a positive fair value. Financial liabilities mainly comprise issued notes and 
+bonds, loans from banks, commercial paper and derivative financial instruments with a negative fair value. 
+ 
+Financial instruments are recognized on the Statement of Financial Position when the Company becomes a party 
+to the contractual obligations of the instrument. 
+Initially, financial instruments are recognized at their fair value. Transaction costs directly attributable to the 
+acquisition or issue of financial instruments are only recognized in determining the carrying amount, if the financial 
+instruments are not measured at fair value through profit or loss. Subsequently, financial instruments are measured 
+according to the category to which they are assigned. 
+ 
+A financial asset is derecognized when the rights to receive cash flows from the asset have expired, or if the 
+Company has transferred its rights to receive cash flows from the asset. A financial liability is derecognized when 
+the obligation specified in the contract is discharged, cancelled, settled or expired.  
+ 
+Cash and cash equivalents 
+The Company considers the current account with Siemens AG to be cash equivalents. Cash and cash equivalents 
+are measured at historical cost. 
+ 
+Receivables 
+Financial assets classified as receivables are measured after initial measurement at amortized cost using the 
+effective interest method. The amortization is included in “Interest income” in the Statement of Comprehensive 
+Income. Impairment losses are recognized using separate allowance accounts. A receivable is derecognized when 
+the rights to receive cash flows from the receivable have expired, or if the Company has transferred its rights to 
+receive cash flows from the receivable. 
+ 
+Financial liabilities 
+The Company measures financial liabilities, except for derivative financial instruments and debt designated in a fair 
+value hedge relationship, at amortized cost using the effective interest method. The amortization is included in 
+“Interest expenses” in the Statement of Comprehensive Income. A financial liability is derecognized when the 
+obligation specified in the contract is discharged, cancelled, settled or expired. 
+ 
+Derivative instruments 
+Derivative financial instruments, such as foreign currency exchange contracts and interest rate swap contracts, are 
+measured at fair value. The fair value of interest rate swap contracts is estimated by discounting expected future 
+cash flows using current market interest rates and yield curve over the remaining term of the instrument. The fair 
+value of forward foreign exchange contracts is based on forward exchange rates. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+23 
+ 
+Derivative financial instruments are classified as held-for-trading unless they are designated as hedging 
+instruments in a fair value hedge relationship, for which hedge accounting is applied. Changes in the fair value of 
+derivative financial instruments are recognized periodically in net income, net of applicable deferred income taxes.  
+The Company does not hold or issue derivative financial instruments for speculative purposes. 
+ 
+In consistence with the principles of IFRS 13 the Company reflects counterparty risk on derivative assets (CVA) 
+and  own non-performance risk on derivative liabilities (DVA). 
+ 
+Hedge accounting 
+The Company uses derivative instruments to mitigate risks related to interest rates and foreign currency 
+translations. In accordance with its treasury policy, the Company does not hold or issue derivative financial 
+instruments for speculative purposes.  
+ 
+In order to manage risks related to foreign currency translations, the Company uses cross currency swaps. The 
+Company does not apply hedge accounting for these transactions. 
+ 
+In order to manage interest rate risks, all fixed rated notes and bonds are either swapped to floating or on lent with 
+the same structure to Associated Companies. To minimize the exposure of the Company to fair value changes of 
+the swaps resulting from changes in market interest rates, the Company applies hedge accounting for transactions 
+which meet the specified criteria. 
+ 
+At inception of the hedge relationship, the Company formally documents the relationship between the hedged item 
+and the hedging instrument, including the nature of the risk, the objective and strategy for undertaking the hedge 
+and the method that will be used to assess the effectiveness of the hedging relationship. Also at the inception of 
+the hedge relationship, a formal assessment is undertaken to ensure the hedging instrument is expected to be 
+highly effective in offsetting the designated risk in the hedged item. Hedges are formally assessed quarterly. A 
+hedge is expected to be highly effective if the changes in fair value attributable to the hedged risk during the period 
+for which the hedge is designated are expected to offset in a range of 80%-125%. 
+ 
+Fair value hedges 
+The carrying amount of the hedged item is adjusted by the gain or loss attributable to the hedged risk. For 
+designated and qualifying fair value hedges, the changes in the fair values of the hedging derivatives and 
+the hedged items are recognized in the Statement of Comprehensive Income in ‘fair value changes of 
+financial instruments’.  
+For hedged items carried at amortized cost, the base adjustment is amortized such that it is fully amortized 
+by maturity of the hedged item. The amortization is recognized in the Statement of Comprehensive Income 
+in ‘interest expenses’. 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+24 
+ 
+If the hedging instrument expires or is sold, terminated or exercised, or where the hedge no longer meets the 
+criteria for hedge accounting, the hedge relationship is terminated. For hedged items recorded at amortized cost, 
+the difference between the carrying value of the hedged item on termination and the face value is amortized over 
+the remaining term of the original hedge using the effective interest method. If the hedged item is derecognized, the 
+unamortized fair value adjustment is recognized immediately in the Statement of Comprehensive Income. 
+ 
+Related party transactions 
+The transactions of the Company mainly comprise transactions with Associated Companies and are executed on 
+an “at arm’s length” basis, unless indicated otherwise. The Company did not enter into any transactions with 
+members of the Board of Directors nor with members of the Supervisory Board. 
+ 
+Revenue recognition 
+Interest revenues are recognized and accounted for in the period to which they relate. 
+ 
+Cost recognition 
+Expenses are recognized and accounted for in the period to which they relate. 
+ 
+Dividends 
+Dividends proposed by the Board of Directors are not recorded in the Financial Statements until the dividends are 
+declared.  
+ 
+Cash Pool 
+The form of the cash pools is zero-balancing where all account balances are automatically transferred to one 
+control account held by Siemens AG. Funds moving into these accounts create intercompany balances between 
+the Company and Siemens AG. In the Financial Statements, these intercompany balances are included in Cash 
+and cash equivalents under the title of ‘current account’. 
+ 
+Statement of Cash Flows 
+The Statement of Cash Flows shows how the cash and cash equivalents of the Company have changed during the 
+course of the fiscal year as a result of cash inflows and cash outflows. Cash flows are classified into cash flows 
+from operating, investing and financing activities.  
+The Company’s purpose is to assist the financing of the activities conducted by the Associated Companies. The 
+assistance is considered to be an operating activity of the Company. The cash flows from operating activities are 
+computed using the indirect method, starting from the profit before tax of the Company. Under this method, 
+changes in assets and liabilities relating to operating activities are adjusted for currency translation effects. The 
+cash flows from investing and financing activities are based on actual payments and receipts. 
+ 
+The accounting policies set out above have been applied consistently to all periods presented in these Financial 
+Statements. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+25 
+ 
+3. 
+Management estimates and judgments 
+ 
+Certain accounting policies require critical accounting estimates that involve complex and subjective judgments and 
+the use of assumptions, some of which may be for matters that are inherently uncertain and susceptible to change. 
+Such critical accounting estimates could change from period to period and have a material impact on financial 
+condition or results of operations. Critical accounting estimates could also involve estimates where management 
+reasonably could have used a different estimate in the current accounting period. Although the number and 
+complexity of management estimates and judgments are limited in these accounts, management cautions that 
+future events often vary from forecasts and that estimates routinely require adjustment. 
+ 
+Fair value of financial instruments 
+There are three levels of fair value: 
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities; 
+Level 2: inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either 
+directly (i.e. as prices) or indirectly (i.e. derived from prices); and 
+Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs). 
+ 
+Where the fair value of financial assets and financial liabilities recorded in the Statement of Financial Position can 
+not be derived from quoted prices in active markets (Level 2 and 3), they are determined using valuation 
+techniques including the discounted cash flows model. The fair values of derivative interest rate contracts (e.g. 
+interest rate swap agreements) are estimated by discounting expected future cash flows using current market 
+interest rates (Reuters) and yield curve over the remaining term of the instrument. The fair value of forward foreign 
+exchange contracts is based on forward exchange rates. 
+The inputs to these models are taken from observable markets where possible (Level 2), but where this is not 
+feasible, a degree of judgment is required in establishing fair values (Level 3). The judgments include 
+considerations of inputs such as liquidity risk, credit risk and volatility. Changes in assumptions about these factors 
+could affect the reported fair value of financial instruments. See Note 17 for further information. 
+ 
+Impairment of financial assets 
+The carrying amounts of the Company’s financial assets are reviewed at each reporting date to determine whether 
+there is any indication of impairment. Since the Company’s (current and non-current) receivables mainly consist of 
+balances due from the Associated Companies, valuation and collectability of these receivables depends upon the 
+financial position and creditworthiness of the involved companies and of the Siemens AG Group as a whole. 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+26 
+ 
+4. 
+Interest income and expenses 
+ 
+Details of interest income and expenses
+Fiscal year ended September 30, 
+  
+2015 
+2014
+ 
+Interest income on receivables from Associated Companies 
+331.6 
+230.4 
+Interest related income 1) 
+78.9 
+107.0 
+Interest income 
+410.5 
+337.4
+Interest expenses on financial debt 
+(825.7) 
+(733.7) 
+Therein: 
+ 
+ 
+ Amortization of transaction costs 
+(7.6) 
+(6.8) 
+ Amortization of (dis)agio 
+(29.6) 
+(25.7) 
+Interest expenses on liabilities to Associated Companies 
+(4.6) 
+(0.8) 
+Interest result on interest rate swaps 2) 
+430.8 
+417.0 
+Interest expenses 
+(399.5) 
+(317.5)
+ 
+Net interest income (expenses) 3) 
+11.0 
+19.9 
+1) The Company applies the Siemens AG worldwide policy for fixing interest rates for receivables from and liabilities to 
+Associated 
+Companies 
+at 
+arms’ 
+length 
+prices. 
+The 
+Company 
+entered 
+into 
+an 
+agreement 
+with 
+Siemens AG limiting the capital at risk for the Company and determining the interest result for the Company. When the total 
+actual interest result differs from the total agreed interest result the difference is settled following this agreement and stated 
+as Interest related income. 
+2) As the interest rate swaps are used as interest hedging instruments for issued debt the interest income and expenses are 
+displayed as a net value within the position ‘interest expenses’ in the Statement of Comprehensive Income. 
+3) The total interest result varies due to market interest changes, changes in portfolio of loans and borrowings and the 
+agreement with SAG as mentioned in footnote 1.
+ 
+ 
+5. 
+Fair value changes of financial Instruments 
+ 
+ 
+Derivatives  
+Fiscal year ended September 30, 
+  
+ 2015 
+2014 
+ 
+Change in fair value of interest rate swaps 
+(109.2) 
+(70.3) 
+ 
+Change in fair value of debt 
+79.1 
+66.5 
+Ineffective portion of fair value hedges 
+(30.1) 
+(3.8) 
+Fair value changes of cross currency swaps 
+(219.3) 
+(126.1) 
+  
+Total of changes in derivatives 
+(249.4) 
+(129.9) 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+27 
+ 
+The ineffective portion of fair value hedges consists of the change in the fair values of the hedging instruments 
+(interest rate swaps) and the change in the fair values of the hedged items (notes and bonds and loans from 
+banks). For additional disclosures on derivative financial instruments see also Note 11. 
+ 
+ 
+6. 
+Non-trading foreign exchange results 
+ 
+ 
+Currency results 
+Fiscal year ended September 30, 
+  
+ 2015  
+2014 
+ 
+Currency result on assets 
+1,098.2 
+804.8 
+Currency result on debt  
+(879.2) 
+(689.6) 
+  
+Total currency results 
+219.0 
+115.2 
+ 
+The currency result of the Company is due to the positions in foreign currencies such as USD and GBP and the 
+volatility in the currency exchange rates. The Company uses cross currency swaps and forward exchange rate 
+contracts to limit foreign exchange risks. Therefore the currency result must also be seen in conjunction with the 
+result on cross currency swaps and forward exchange rate contracts. For more information on foreign exchange 
+rate risk management see also Note 18. 
+The total currency results must be considered in conjunction with ‘Fair value changes of cross currency swaps’ as 
+mentioned in Note 5. 
+ 
+ 
+7. 
+Other general expenses  
+ 
+The other general expenses mainly relate to cost from the regional company Siemens Nederland N.V. for staff, 
+working for the Company. 
+The other general expenses include the costs for Ernst & Young Accountants LLP of EUR 41,250 excl. VAT 
+(2014: EUR 34,632 excl. VAT). These costs regard completely to audit costs EUR 31,250 and audit related costs 
+EUR 10,000. 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+28 
+ 
+8. 
+Income tax 
+ 
+Taxes are based on the applicable tax laws and rates, taking into account any fiscal facilities. Insofar as valuations 
+for tax purposes differ from the principles as applied in these Financial Statements, and these result in deferred tax 
+liabilities, a provision is formed for these liabilities, calculated according to the statutory tax rate applicable as at 
+reporting date. The taxation on result comprises both taxes payable in the short term and deferred taxes, taking 
+account of tax facilities and non-deductible costs. 
+ 
+Income tax revenues (expenses) 
+Fiscal year ended September 30, 
+  
+2015 
+2014
+ 
+Current tax expenses 
+(1.9) 
+(1.4) 
+Deferred tax expenses 
+6.9 
+1.3 
+ 
+Total income tax revenues (expenses) 
+5.0 
+(0.1) 
+ 
+For fiscal years ended September 30, 2015 and 2014, the Company is subject to Dutch corporate income tax. The 
+statutory tax rate is 25.0% (2014: 25.0%).  
+ 
+Income tax expenses differ from the amounts computed by applying statutory Dutch income tax rates as follows: 
+ 
+Reconciliation of the income tax revenues (expenses)
+Fiscal year ended September 30, 
+  
+2015 
+2014
+ 
+Profit (loss) before tax 
+(19.8) 
+4.8 
+  
+ 
+ 
+ Income tax using corporate tax rate of 25.0% (2014: 25.0%) 
+5.0 
+(1.2) 
+ Discount for tax payment in advance 
+0.0 
+0.0 
+ Adjustments related to tax assessments previous years1) 
+- 
+1.1 
+ 
+Total income tax revenues (expenses) 
+5.0 
+(0.1) 
+1) 
+In fiscal years 2013 until 2014 a joint tax audit was conducted by the German and Dutch authorities in order to determine the 
+remuneration to be earned by the Company. This resulted in a reduced amount of the tax payable in the Netherlands for the 
+years 2013 and 2014. The Statement of Comprehensive Income reflects the tax impact of the adjustments made as a result 
+of this tax audit. 
+ 
+The effective tax rate is 25.2% (2014: 1.3%, before adjustment of previous periods this is 24.6%). 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+29 
+ 
+The change in the income tax consists of the following: 
+ 
+Tax receivable/payable (accrual) 
+September 30, 
+  
+2015 
+2014
+ 
+Balance at beginning of the fiscal year 
+0.2 
+(0.2) 
+Current income tax2) 
+(1.9) 
+(1.4) 
+Payments to tax authorities, net 
+1.6 
+1.8 
+ 
+Balance at the end of the fiscal year 
+(0.1) 
+0.2 
+2) In the current income tax an adjustment of 0.2 was booked in 2014 as a result of the aforementioned tax audit. 
+ 
+The deferred tax liability regards to the temporary difference in valuation of financial instruments for tax purposes.  
+The Company applies Hedge Accounting for financial instruments designated as hedging instruments in a fair 
+value hedge relationship. For tax purposes this result is not considered. The change in the deferred tax liability 
+consists of the following:  
+ 
+Deferred tax liability 
+September 30, 
+  
+ 2015 
+2014
+ 
+ 
+ 
+Balance at beginning of the fiscal year  
+(13.4) 
+(14.8) 
+Adjustment related to tax assessments previous years 
+- 
+0.9 
+Deferred tax benefit/expense for fiscal year  
+6.9 
+0.5 
+ 
+Balance at the end of the fiscal year  
+(6.5) 
+(13.4) 
+ 
+Deferred tax has been computed at the statutory tax rate of 25.0% (2014: 25.0%).  
+The deferred tax liability is a result of temporary differences between IFRS and tax result, due to the different 
+treatment of hedges. 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+30 
+ 
+9. 
+Cash and cash equivalents 
+ 
+Cash and cash equivalents relate completely to the current account with Siemens AG. As the Company 
+participates in the Siemens cash pool, the bank balances of the Company are transferred to the Siemens cash pool 
+on a daily basis. The balances remain at the disposal of the Company and are readily convertible to known 
+amounts of cash. 
+ 
+Cash and cash equivalents  
+September 30, 
+ 
+2015 
+2014
+  
+  
+ 
+Current account 
+15.5 
+3,222.5 
+ 
+Total cash and cash equivalents 
+15.5 
+3,222.5 
+  
+ 
+10. 
+Receivables from Associated Companies 
+ 
+Receivables from Associated Companies
+September 30, 
+  
+2015 
+2014
+ 
+ 
+ 
+Interest receivables 
+31.7 
+31.4 
+Loans < 1 year 
+5,814.8 
+2,188.4 
+Loans > 1 year 
+21,297.6 
+13,725.2 
+ 
+Total receivables from Associated Companies 
+27,144.1 
+15,945.0 
+ 
+In fiscal years ended September 2015 and 2014 there was no impairment of receivables. 
+For additional disclosures on receivables see also Note 22. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+31 
+ 
+11. 
+Derivative financial instruments 
+ 
+The table below shows the fair values of derivative financial instruments, recorded as assets or liabilities, together 
+with their notional amounts. 
+  
+September 30, 2015
+September 30, 2014
+ 
+Assets 
+Liabilities 
+Notional 
+Amount 
+Assets 
+Liabilities 
+Notional 
+Amount 
+Derivatives not designated in 
+a fair value hedge relationship 
+ 
+ 
+ 
+ 
+ 
+ 
+Currency swaps < 1 yr 
+- 
+- 
+- 
+- 
+(9.5) 
+397.4 
+Currency swaps > 1 yr 
+1.9 
+(132.1) 
+1,520.6 
+- 
+(32.0) 
+1,353.8 
+ 
+1.9 
+(132.1) 
+1,520.6 
+- 
+(41.5) 
+1,751.2 
+Derivatives used as fair value 
+hedges 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest rate swaps < 1 yr 
+85.4 
+- 
+2.361.9 
+10.6 
+- 
+333.0 
+Interest rate swaps > 1 yr 
+958.2 
+- 
+7,724.2 
+1,141.0 
+- 
+9,643.8 
+ 
+1,043.6 
+- 
+10,086.1 
+1,151.6 
+- 
+9,976.8 
+  
+Total derivatives 
+1,045.5 
+(132.1) 
+11,606.7 
+ 
+1,151.6 
+(41.5) 
+11,728.0 
+ 
+As per September 30, 2015, all interest rate swaps are designated as hedging instruments in a fair value hedge 
+relationship. In most interest rate swap contracts Siemens AG is the counterparty. The arrangements have been 
+entered into to swap the fixed interest on long term debt into floating interest on short term base.  For additional 
+disclosures on financial instruments see also Note 17. 
+ 
+ 
+12. 
+Other financial assets 
+ 
+The other financial assets comprise the net interest accrual of interest rate swap contracts with a positive fair value. 
+The total amount is due within one year. 
+ 
+ 
+13. 
+Liabilities to Associated Companies 
+ 
+Liabilities to Associated Companies 
+ September 30, 
+  
+ 2015  
+ 2014 
+ 
+Interest accruals 
+(1.1) 
+(0.8) 
+Borrowings > 1 year 
+(892.6) 
+(794.7) 
+Other liabilities to Associated Companies 
+0.0 
+- 
+  
+Total liabilities to Associated Companies 
+(893.7) 
+(795.5) 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+32 
+ 
+14. 
+Debt 
+ 
+Debt 
+ September 30, 
+  
+2015 
+2014
+ 
+ 
+Short-term (< 1 year) 
+ 
+ 
+Notes and bonds  
+(456.2) 
+- 
+Loans from banks  
+(4.5) 
+(343.6) 
+Commercial paper 
+- 
+- 
+Long-term (> 1 year) 
+ 
+ 
+Notes and bonds  
+(25,621.9) 
+(18,175.5) 
+Loans from banks  
+(892.6) 
+(798.7) 
+ 
+Total debt 
+(26,975.2) 
+(19,317.8) 
+ 
+ 
+Commercial paper 
+On April 4, 2007 Siemens AG, Siemens Capital Company LLC and Siemens Financieringsmaatschappij N.V. 
+established an USD 9.0 billion global commercial paper program for the issuance of commercial paper. In the fiscal 
+year the Company issued no commercial papers (2014: 0) under this program. 
+ 
+As of September 30, 2015, the weighted average interest rate for loans from banks was 1.1% (2014: 2.3%) and the 
+weighted average interest rate for notes and bonds was 3.5% (2014: 3.8%). 
+ 
+ 
+Debt carrying amount 
+ September 30,  
+  
+ 2015 
+2014
+ 
+ 
+Notes, bonds and loans from banks 
+(26,121.3) 
+(18,365.1) 
+Adjustment of carrying amount due to fair value hedge accounting  
+(1,017.8) 
+(1,097.9) 
+Other financial indebtedness  
+163.9 
+145.2 
+Therein: 
+ 
+ 
+ 
+Unamortized portion of (dis-)agio 
+114.4 
+116.4 
+ 
+Unamortized portion of transaction costs 
+49.5 
+28.8 
+Commercial paper 
+ 
+- 
+  
+Total debt 
+(26,975.2) 
+(19,317.8) 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+33 
+ 
+Debt Issuance Program 
+Together with Siemens AG and Siemens Capital Company LLC, the Company has agreements with financial 
+institutions under which it may issue instruments up to EUR 15.0 billion. As of September 30, 2015 
+EUR 10.5 billion (2014: EUR 10.2 billion) in notional amounts were issued and outstanding.  
+ 
+USD Bonds 
+In August 2006, the Company issued USD 5.0 billion of notes. These notes were issued in various tranches of 
+which the following are outstanding as of September 30, 2015: USD 1.750 billion 5.75% notes due October 17, 
+2016 and USD 1.750 billion 6.125% notes due August 17, 2026.  
+In May 2015, the Company issued USD 7.75 billion of notes. These notes were issued in various tranches of which 
+the following are outstanding as of September 30, 2015: USD 500 million floating-rate notes due May 25, 2018; 
+USD 1.250 billion 1.45% notes due May 25, 2018; USD 1.0 billion 2.15% notes due May 27, 2020; USD 1.750 
+billion 2.9% notes due May 27, 2022; USD 1.5 billion 3.25% notes due May 27, 2025 and USD 1.750 billion 4.4% 
+notes due May 27, 2045. 
+ 
+Hybrid Capital Bond 
+In September 2006, the Company issued a subordinated Hybrid Capital Bond, which is on a subordinated basis 
+guaranteed by Siemens AG. The subordinated bond was issued in a tranche of EUR 900 million and a tranche of 
+GBP 750 million (EUR 1.015 billion), both with a legal final maturity on September 14, 2066 and with a call option 
+for Siemens in 2016 or thereafter. The bonds bear fixed rate interests until September 14, 2016, thereafter, floating 
+rate interest according to the conditions of the bond. Due to its characteristics such as long maturity date and 
+subordination this instrument bears the character of both debt and equity, hence the term “Hybrid”. This term is 
+also used in the prospectus of the instruments. In accordance to the accounting policies of the Company, these 
+bonds are fully classified as financial liabilities. 
+ 
+Bonds complemented with warrants issued by Siemens AG 
+In February 2012, Siemens issued USD bonds with warrant units in an aggregate principal amount of USD 3 billion 
+in two tranches. The bonds issued by the Company are guaranteed by Siemens AG and complemented with 
+warrants issued by Siemens AG. The bonds due in August 2017 have a volume of USD 1.5 billion and a coupon of 
+notional 1.05 % per annum; the bonds due in August 2019 have a volume of USD 1.5 billion and a coupon of 
+notional 1.65% per annum. 
+In September 2015, Siemens issued EUR bonds with warrant units in an aggregate principal amount of EUR 64 
+million in two tranches. The bonds issued by the Company are guaranteed by Siemens AG and complemented with 
+warrants issued by Siemens AG. Floating-rate notes due in September 2017 have a volume of EUR 32.6 million 
+and floating-rate notes due September 2017 have a volume of EUR 31.4 million 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+34 
+ 
+Details of the Company’s instruments 
+September 30, 
+ 
+ 
+2015 
+2014 
+ 
+ 
+notional 
+amount 
+carrying 
+amount 
+EUR  
+notional 
+amount 
+carrying 
+amount 
+EUR 
+5.625% 2006/2016 USD fixed-rate instruments 
+2) 
+USD 
+500.0 
+456.2 
+500.0 
+424.5 
+5.625% 2008/2018 EUR fixed-rate instruments 
+2) 
+EUR 
+1,600.0 
+1,790.4 
+1,600.0 
+1,848.7 
+5.125% 2009/2017 EUR fixed-rate instruments 
+2) 
+EUR 
+2,000.0 
+2,084.7 
+2,000.0 
+2,113.2 
+USD 3m Libor + 1.4% 2012/2019 USD floating-rate instruments1) 
+USD 
+400.0 
+356.8 
+400.0 
+317.6 
+3.75% 2012/2042 GPB fixed-rate instruments 
+1) 
+GBP 
+650.0 
+865.5 
+650.0 
+821.6 
+2.75% 2012/2025 GPB fixed-rate instruments 
+1) 
+GBP 
+350.0 
+472.2 
+350.0 
+448.5 
+1.5% 2012/2020 EUR fixed-rate instruments 
+2) 
+EUR 
+1,000.0 
+1,048.4 
+1,000.0 
+1,047.9 
+1.75% 2013/2021 EUR fixed-rate instruments 
+1) 
+EUR 
+1,250.0 
+1,244.1 
+1,250.0 
+1,243.0 
+2.875% 2013/2028 EUR fixed-rate instruments 
+1) 
+EUR 
+1,000.0 
+996.1 
+1,000.0 
+995.8 
+1.50% 2013/2018 USD fixed-rate instruments 
+1) 
+USD 
+500.0 
+445.0 
+500.0 
+395.7 
+3.50% 2013/2028 USD fixed-rate instruments 
+1) 
+USD 
+100.0 
+86.9 
+100.0 
+77.2 
+2013/2020 USD floating-rate instruments 1) 
+USD 
+400.0 
+356.5 
+400.0 
+317.2 
+2014/2019 USD floating-rate instruments 1) 
+USD 
+300.0 
+267.3 
+300.0 
+237.8 
+2014/2021 USD floating-rate instruments 1) 
+USD 
+400.0 
+356.7 
+400.0 
+317.5 
+ 
+Total Debt Issuance Program 
+ 
+ 
+10,826.8 
+ 
+10,606.2 
+ 
+ 
+ 
+ 
+ 
+ 
+5.75% 2006/2016 USD fixed-rate instruments 
+2) 
+USD 
+1,750.0 
+1,641.0 
+ 1,750.0 
+1,517.5 
+6.125% 2006/2026 USD fixed-rate instruments 
+2) 
+USD 
+1,750.0 
+2,076.3 
+1,750.0 
+1,769.3 
+USD 3m Libor+0.28% 2015/2018 USD floating-rate instruments1) 
+USD 
+500.0 
+445.5 
+- 
+- 
+2.15% 2015/2020 USD fixed-rate instruments 
+1) 
+USD 
+1,000.0 
+889.0 
+- 
+- 
+2.9% 2015/2022 USD fixed-rate instruments 
+1) 
+USD 
+1,750.0 
+1,557.0 
+- 
+- 
+3.25% 2015/2025 USD fixed-rate instruments 
+1) 
+USD 
+1,500.0 
+1,330.6 
+- 
+- 
+4.4% 2015/2045 USD fixed-rate instruments 
+1) 
+USD 
+1,750.0 
+1,539.0 
+- 
+- 
+1.45% 2015/2018 USD fixed-rate instruments 
+1) 
+USD 
+1,250.0 
+1,113.6 
+- 
+- 
+ 
+Total USD Bonds 
+ 
+ 
+10,592.0 
+ 
+3,286.8 
+ 
+ 
+ 
+ 
+ 
+ 
+5.25% 2006/2066 EUR fixed-rate instruments 
+2) 
+EUR 
+900.0 
+933.9 
+900.0 
+959.8 
+6.125% 2006/2066 GBP fixed-rate instruments 
+2) 
+GBP 
+750.0 
+1,055.3 
+750.0 
+1,024.9 
+ 
+Total Hybrid Capital Bond 
+ 
+ 
+1,989.2 
+ 
+1,984.7 
+ 
+ 
+ 
+ 
+ 
+ 
+1.05% 2012/2017 USD fixed-rate instruments 
+1) 
+USD 
+1,500.0 
+1,314.0 
+1,500.0 
+1,158.1 
+1.65% 2012/2019 USD fixed-rate instruments 
+1) 
+USD 
+1,500.0 
+1,292.2 
+1,500.0 
+1,139.7 
+3m Euribor+0.2% 2015/2017 EUR floating-rate instruments 1) 
+EUR 
+32.6 
+32.5 
+- 
+- 
+3m Euribor+0.2% 2015/2017 EUR floating-rate instruments 1) 
+EUR 
+31.4 
+31.4 
+- 
+- 
+ 
+Total Bonds complemented with warrants issued by SAG 
+ 
+ 
+2,670.1 
+ 
+2,297,8 
+  
+Total instruments 
+ 
+ 
+26,078.1 
+  
+18,175.5 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+35 
+ 
+ 
+1) instruments not designated in a hedge accounting relationship measured at amortized cost 
+2) instruments designated in a hedge accounting relationship measured at amortized cost with a fair value basis adjustment 
+for the hedged risk 
+All instruments are guaranteed by Siemens AG. 
+ 
+Assignable and term loans 
+In fiscal 2013 the Company signed two bilateral USD 500 million floating-rate term loan facilities. In fiscal 2015, the 
+Company extended these facilities by one year until March 26, 2020 with no extension option remaining. Both 
+facilities are fully drawn and bear interest of 0.79% above the 3 month USD London Inter Bank Offered Rate. In 
+June 2015, Siemens redeemed a EUR 333 million assignable loan. 
+ 
+Details of assignable and term loans 
+September 30, 
+ 
+ 
+2015 
+2014 
+ 
+ 
+notional 
+amount 
+carrying 
+amount 
+EUR  
+ 
+notional 
+amount 
+carrying 
+amount 
+EUR 
+5.435% 2008/2015 EUR instruments 
+EUR 
+- 
+- 
+ 
+333.0 
+343.6 
+USD LIBOR 3M + 0.79% 2013/2020 USD term loan 
+USD 
+500.0 
+446.3 
+ 
+500.0 
+397.4 
+USD LIBOR 3M + 0.79% 2013/2020 USD term loan 
+USD 
+500.0 
+446.3 
+ 
+500.0 
+397.4 
+  
+Total assignable and term loans 
+ 
+ 
+892.6 
+  
+ 
+1,138.4 
+ 
+Credit facilities 
+As of September 30, 2015, the Company participates in three credit facility programs of Siemens AG under which 
+the Company may draw up to USD 3.0 billion, EUR 4.0 billion and EUR 450 million respectively. Furthermore, the 
+Company’s revolving EUR 450 million credit facility was extended with one year in September 2015. The Company 
+did not use these facilities so far.  
+ 
+For additional disclosures on Debt see also Note 17. 
+ 
+15. 
+Other liabilities  
+ 
+The total amount of other financial liabilities is due within one year. 
+Other liabilities 
+ September 30, 
+  
+ 2015 
+ 2014 
+ 
+ 
+ 
+Other financial liabilities 
+(277.2) 
+(207.4) 
+Current liabilities 
+- 
+(0.1) 
+  
+Total other liabilities 
+(277.2) 
+(207.5) 
+ 
+Other financial liabilities refer completely to the accrued interest on notes, bonds and loans from banks. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+36 
+ 
+16. 
+Equity 
+ 
+The Company’s authorized share capital is divided in 50,000 shares with a nominal value of  EUR 1 thousand 
+each, of which 10,256 shares have been issued and fully paid in. All shares are held by  Siemens AG. During the 
+fiscal year, there were no movements in the number of shares. The share premium reserve comprises additional 
+paid-in capital on the issue of the shares. 
+Retained earnings are available for distribution upon decision of the general meeting of shareholders. The holders 
+of the shares are entitled to execute the rights under the Netherlands Civil Code without any restrictions. 
+Undistributed profit comprises the profit for the actual period. 
+For the fiscal year 2015, the Board of Directors proposes to pay no dividend. Payment of any dividend is contingent 
+upon approval by the shareholders at the Annual Shareholders’ Meeting. In fiscal year 2015 a dividend of EUR 4.7 
+million was paid as profit distribution for the fiscal year ended September 30, 2014. 
+ 
+Solvency 
+Given the objectives of the Company, the Company is economically interrelated with the parent company,  
+Siemens AG, Germany. In assessing the solvency and general risk profile of the Company also the solvency of 
+Siemens AG as a whole needs to be considered. The structure and organisation of the Company are such that 
+interest, foreign exchange, market, credit and operational risks to the Company are strictly limited in design. 
+Receivables from Associated Companies are priced on an “at arm’s length” basis. All issued shares – fully held by 
+the parent company – are part of the Company’s capital management objectives.  
+ 
+Capital Management 
+The Company’s capital consists of: issued and paid in share capital, share premium reserves and retained 
+earnings as stated as Equity in the Statement of Financial position and the Statement of changes in Equity. The 
+Company is set up to serve funding needs of Associated Companies following the strategy of the parent company, 
+Siemens AG. The return on equity held by the Company is a key objective of neither the Company nor  
+Siemens AG as the sole shareholder, as this results from the strategic decisions at group level relating funding of 
+local activities. The Company is not subject to externally imposed capital requirements. 
+The Company did not change its objectives, policies and processes for capital management during the fiscal year. 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+37 
+ 
+17. 
+Additional disclosures on financial instruments 
+ 
+This section gives a comprehensive overview of the significance of financial instruments for the Company and 
+provides additional information on Statement of Financial Position items that contain financial instruments. 
+ 
+The following table presents the carrying amounts of each category of financial assets and liabilities: 
+Financial assets 
+ September 30, 2015 
+ September 30, 2014 
+ 
+Fair
+value 
+Carrying 
+amount 
+Fair 
+value 
+Carrying 
+amount 
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents 1) 
+15.5 
+15.5 
+3,222.5 
+3,222.5 
+Receivables from Associated Companies 1) 
+29,097.6 
+27,144.1 
+16,573.5 
+15,945.0 
+Derivatives without a hedging relationship 3) 
+1.9 
+1.9 
+- 
+- 
+Derivatives with a hedging relationship 3) 
+1,043.6 
+1,043.6 
+1,151.6 
+1,151.6 
+Other financial assets 1) 
+156.0 
+156.0 
+152.2 
+152.2 
+ 
+Total financial assets 
+30,314.6 
+28,361.1 
+21,099.8 
+20,471.3 
+Financial liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Liabilities to Associated Companies 
+(901.8) 
+(893.7) 
+(804.6) 
+(795.5) 
+Notes and bonds 1/ 2) 
+(27,781.7) 
+(26,078.1) 
+(18,574.8) 
+(18,175.5) 
+Loans from banks 1/ 2) 
+(928.2) 
+(897.1) 
+(1,170.2) 
+(1,142.3) 
+Commercial paper 1) 
+- 
+- 
+- 
+- 
+Derivatives without a hedging relationship 3) 
+(132.1) 
+(132.1) 
+(41.5) 
+(41.5) 
+Other financial liabilities 1) 
+(277.2) 
+(277.2) 
+(207.4) 
+(207.4) 
+ 
+Total financial liabilities 
+(30,021.0) 
+(28,278.2) 
+(20,798.5) 
+(20,362.2) 
+ 
+1) Carrying amounts measured at amortized cost 
+The fair values of cash and cash equivalents, other financial assets and other financial liabilities approximate their 
+carrying amount largely due to the short-term maturities of these instruments. All new issued bonds, notes and 
+loans from banks are measured at amortized cost. Due to their long maturity the carrying amounts of these 
+instruments do not approximate their fair values. The Company lends the amounts of these instruments to an 
+Associated Company. Due to their long maturity the fair values of these receivables do not approximate their 
+carrying amount. The fair value of these receivables is estimated by discounting future cash flows using rates 
+currently available for instruments with similar terms and remaining maturities (Level 2). The carrying amounts for 
+notes and bonds and loans from banks also contain transaction costs, which are measured at amortized cost. 
+ 
+2) Carrying amounts measured at amortized costs with a fair value basis adjustment for the hedged risk 
+The basis adjustment of quoted notes and bonds is based on price quotations at the balance sheet date (Level 2). 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+38 
+ 
+3) Carrying amounts measured at fair value 
+The calculation of fair values for derivative financial instruments depends on the type of instruments: 
+ 
+Derivative interest rate contracts 
+The fair values of derivative interest rate contracts (e.g. interest rate swap agreements) are calculated by 
+discounting expected future cash flows using current market interest rates and yield curve over the 
+remaining term of the instrument. 
+ 
+Derivative currency contracts 
+The fair value of forward foreign exchange contracts is based on forward exchange rates. 
+ 
+The following tables allocate the financial assets and liabilities measured at fair value to the three levels of the fair 
+value hierarchy as per September 30, 2015 and 2014. 
+ 
+September 30, 2015 
+Level 1
+Level 2
+Level 3 
+Total
+Financial assets measured at fair value 
+ 
+ 
+ 
+ 
+ Derivative financial instruments 
+- 
+1,045.5 
+- 
+1,045.5 
+Financial liabilities measured at fair value 
+ 
+ 
+ 
+ 
+ Derivative financial instruments 
+- 
+(132.1) 
+- 
+(132.1) 
+ 
+September 30, 2014 
+Level 1
+Level 2
+Level 3 
+Total
+Financial assets measured at fair value 
+ 
+ 
+ 
+ 
+ Derivative financial instruments 
+- 
+1,151.6 
+- 
+1,151.6 
+Financial liabilities measured at fair value 
+ 
+ 
+ 
+ 
+ Derivative financial instruments 
+- 
+(41.5) 
+- 
+(41.5) 
+ 
+The levels of the fair value hierarchy and its application to our financial assets and liabilities are described below: 
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities; 
+Level 2: inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either 
+directly (i.e. as prices) or indirectly (i.e. derived from prices); and 
+Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs). 
+ 
+During the fiscal year, no transfers between Level 1 and Level 2 occurred. 
+ 
+As per September 30, 2015, no Level 3 investments are held, the movement analysis and sensitivity analyses on 
+Level 3 investments are not applicable. 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+39 
+ 
+Net gains (losses) of financial instruments 
+ September 30, 
+  
+ 2015 
+2014
+ 
+ 
+ 
+Derivative financial instruments in connection with fair value hedges 
+(109.2) 
+(70.3) 
+Notes, bonds and loans from banks 
+79.1 
+66.5 
+Derivative financial instruments not designated in a hedge accounting 
+relationship 
+(219.3) 
+(126.1) 
+  
+Total net gains (losses) of financial instruments 
+(249.4) 
+(129.9) 
+ 
+Net gains (losses) on derivative financial instruments in connection with fair value hedges and net losses/gains on 
+notes, bonds and loans from banks together present the ineffective portion of fair value hedges. 
+Net gains (losses) on derivative financial instruments not designated in a hedge accounting relationship consist of 
+changes in the fair value of derivative financial instruments, for which hedge accounting is not applied. 
+ 
+ 
+18. 
+Financial risk management 
+ 
+As part of the Company’s risk management program, a variety of derivative financial instruments is used to reduce 
+risks resulting primarily from fluctuations in foreign exchange rates and interest rates. In accordance with its 
+treasury policy, the Company does not hold or issue derivative financial instruments for speculative purposes. For 
+more information on these derivatives see also Notes 11 and 17. 
+The Company has exposure to the following risks: 
+- 
+Foreign currency exchange rate risk 
+- 
+Interest rate risk 
+- 
+Liquidity risk 
+- 
+Credit risk 
+ 
+Foreign currency exchange rate risk 
+Foreign exchange rate fluctuations may create unwanted and unpredictable earnings and cash flow volatility. In 
+order to minimize exchange rate risks the Company seeks to lend and borrow in the same functional currency. 
+Furthermore the Company uses cross currency swaps to limit foreign exchange risks. All such derivative financial 
+instruments are recorded at fair value on the Statement of Financial Position and changes in fair values are 
+charged to net income. The USD position is caused by loans to Associated Companies in the United States, in 
+particular Siemens Capital Company LLC. Some loans are financed by borrowings in EUR. For the loans financed 
+by EUR debt, the Company entered into cross currency swaps, with Siemens AG as counterparty. The swaps 
+match the maturity and nominal values of the respective loans. The remaining exposure is therefore relatively low. 
+The GBP position is caused by several bonds that serve to finance several loans in GBP to Associated Companies 
+that totals to approximately the full value of the bond. Therefore the remaining GBP exposure is low. As a result of 
+the low currency positions, the foreign currency exchange risk is considered low. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+40 
+ 
+The table below shows the foreign-currency positions of the Company before and after currency swaps: 
+Currency 
+30 September 
+2015 
+before swaps 
+Currency 
+swaps 
+30 September 
+2015 
+net position 1) 
+Effects of 
+10% rise 
+in EUR 
+Effects of 
+10% decline 
+in EUR 
+30 September 
+2014 
+net position 1) 
+GBP 
+(1.2) 
+- 
+(1.2) 
+0.1 
+(0.2) 
+6.6 
+USD 
+1,708.4 
+(1,703,5) 
+4.9 
+(0.4) 
+0.5 
+14.2 
+1) A positive amount is an asset: when euro gains in value: the effect is negative on net income. 
+ 
+The Company did not designate the cross currency swaps for cash flow hedges, therefore the Company is not 
+allowed to apply cash flow hedge accounting under IAS 39. All such derivative financial instruments are recorded at 
+fair value and changes in fair values are charged to net income.  
+As the Company entered into an agreement with Siemens AG limiting the capital at risk for the Company and ruling 
+the interest result (including the result out of currency exchange rate movements) for the Company, the sensitivity 
+of the Company’s results to changes in currency exchange rates is mitigated. For more information on the 
+settlements for the capital at risk agreement see also Note 4. 
+ 
+Interest rate risk 
+The Company’s interest rate risk exposure is mainly related to fixed-rate notes and bonds. It arises from the 
+sensitivity of financial assets and liabilities to changes in market rates of interest. The Company seeks to mitigate 
+such a risk either by lending onwards with the same structure to Associated Companies or by entering into interest 
+rate derivative financial instruments such as interest rate swaps. 
+Under the interest rate swap agreements the Company agrees to pay a variable rate of interest multiplied by a 
+notional principle amount, and receive in return an amount equal to a specified fixed rate of interest multiplied by 
+the same notional principal amount.  
+ 
+The Company had interest rate swap contracts to pay variable rates of interest (average rate of 1.07% and 1.16% 
+as of September 30, 2015 and 2014 respectively) and received fixed rates of interest (average rate of 5.22% and 
+5.19% as of September 30, 2015 and 2014 respectively). The notional amount of indebtedness hedged as of 
+September 30, 2015 amounts to EUR 10.1 billion (2014: EUR 10.0 billion). The notional amounts of these interest 
+rate swap contracts mature at varying dates based on the maturity of the underlying hedged items. 
+ 
+In cases where the Company is lending to Associated Companies with a duration that differs from the duration of 
+the notes and bonds including the swap a mismatch could lead to an interest rate risk. The average interest rate on 
+receivables in the fiscal year ended September 30, 2015 was 1.49% (2014: 1.44%). As the Company entered into 
+an agreement with Siemens AG limiting the capital at risk for the Company and ruling the interest result (including 
+the result out of currency exchange rates) for the Company, the sensitivity of the Company’s results to changes in 
+market interest rates is mitigated. For more information on the settlements for the capital at risk agreement see 
+also Note 4. 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+41 
+ 
+Assuming historical volatilities and correlations, a ten day holding period and a confidence level of 99.5% the 
+interest rate VaR was EUR 1.7 as of September 30, 2015 (2014: EUR 1.3). The interest rate risk results from the 
+unrealized gains and losses out of hedge packages, which is not covered by the limited capital at risk agreement 
+with Siemens AG. Although VaR is an important tool for measuring risk, the assumptions on which the model is 
+based give rise to some limitations including the following. A ten day holding period assumes that it is possible to 
+dispose of the underlying positions within this period. While this is considered to be a realistic assumption in almost 
+all cases, it may not be valid during prolonged periods of severe market illiquidity. A 99.5% confidence level does 
+not reflect losses that may occur beyond this level. There is a 0.5% statistical probability that losses could exceed 
+the calculated VaR. The use of historical data as a basis for estimating the statistic behavior of the relevant 
+markets and finally determining the possible range of the future outcomes on the basis of this statistic behavior 
+may not always cover all possible scenarios, especially those of an exceptional nature. 
+ 
+Liquidity risk 
+Liquidity risk results from the Company’s potential inability to meet its financial liabilities when they become due, at 
+reasonable costs and in a timely manner. The Company participates as issuer in a EUR 15.0 billion Debt Issuance 
+Program for the issuance of debt instruments (EMTN) and in a USD 9.0 billion global commercial paper program, 
+both established by Siemens AG. Siemens AG unconditionally and irrevocably guarantees all debt securities of the 
+Company. 
+ 
+The tables below summarize the maturity profile of the Company’s financial assets and liabilities, including 
+derivative financial instruments as of September 30, 2015 and 2014 respectively, based on undiscounted cash 
+flows for the respective upcoming fiscal years. The amounts include interest. 
+ 
+ 
+September 30, 2015 
+Receivables 
+from Associated 
+Companies 
+Liabilities to
+Associated 
+Companies 
+Bonds & 
+notes 
+Bank loans  
+Interest
+Rate 
+Swaps 
+Maturing during: 
+ 
+ 
+ 
+2015 – 2016 
+6,315.5 
+(4.7) 
+(3,519.0) 
+(14.5) 
+486.4 
+2016 – 2017 
+3,273.6 
+(4.7) 
+(5,562.8) 
+(10.0) 
+274.8 
+2017 – 2018 
+3,695.3 
+(4.7) 
+(4,112.1) 
+(10.0) 
+153.9 
+2018 – 2019 
+3,134.6 
+(896.4) 
+(2,381.0) 
+(10.0) 
+104.7 
+2019 – 2020 
+2,673.9 
+- 
+(2,628.0) 
+(897.5) 
+104.5 
+Thereafter 
+13,281.2 
+- 
+(13,700.8) 
+- 
+453.1 
+ 
+Total 
+32,374.1 
+(910.5) 
+(31,903.7) 
+ 
+(942.0) 
+1,577.4 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+42 
+ 
+ 
+September 30, 2014 
+Receivables 
+from Associated 
+Companies 
+Liabilities to 
+Associated 
+Companies 
+Bonds & 
+notes 
+Bank loans  
+Interest
+Rate 
+Swaps 
+Maturing during: 
+ 
+ 
+ 
+2014 – 2015 
+2,455.6 
+(3.8) 
+(861.5) 
+(359.5) 
+491.6 
+2015 – 2016 
+629.0 
+(3.8) 
+(2,896.6) 
+(12.1) 
+429.6 
+2016 – 2017 
+2,896.7 
+(3.8) 
+(4,964.0) 
+(8.1) 
+210.1 
+2017 – 2018 
+1,730.2 
+(3.8) 
+(2,293.1) 
+(8.1) 
+126.1 
+2018 – 2019 
+2,632.3 
+(797.8) 
+(1,971.6) 
+(798.8) 
+94.7 
+Thereafter 
+7,882.9 
+- 
+(8,358.1) 
+- 
+498.7 
+  
+Total  
+18,266.7 
+(813.0) 
+(21,344.9) 
+(1,186.6) 
+1,850.8 
+ 
+Credit risk 
+The Company is exposed to credit risk in connection with its significant size of loans granted to the Associated 
+Companies and its derivative instruments. Credit risk is defined as an unexpected loss in cash and earnings if the 
+ultimate counterparty is unable to pay its obligations in due time. Valuation and collectability of these receivables 
+and instruments depend upon the financial position and creditworthiness of the companies involved and of 
+Siemens AG as a whole. Receivables from Associated Companies are covered by a limited capital at risk 
+agreement between Siemens AG and the Company mitigating the credit risk for the Company. The limited capital 
+at risk agreement between the Company and Siemens AG reduces the risk of the Company to a maximum of 
+EUR 2 million. 
+ 
+The effective monitoring and controlling of credit risk is a core competency of Siemens AG’s risk management 
+system. Siemens AG has implemented a credit policy. Hence, credit evaluations and ratings are performed on all 
+counterparties with an exposure or requiring credit beyond a centrally defined limit. Counterparty ratings, analyzed 
+and defined by a designated Siemens AG department, and individual counterparty limits are based on generally 
+accepted rating methodologies, the input from external rating agencies and Siemens AG’s default experiences. 
+ 
+ 
+19. 
+Events after reporting date 
+ 
+As per and since reporting date there are no events to report. 
+ 
+ 
+20. 
+Claims and litigations 
+ 
+As per and since reporting date, the Company is not involved in any litigation matters. 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+43 
+ 
+21. 
+Segment information 
+ 
+The Company has only a single reportable segment. The Company provides funding to Associated Companies. 
+The main funding partners are a USA treasury company and a Dutch treasury company. The USA treasury 
+company represents approximately 72% (2014: 74%) of the Company’s loans to and receivables from Associated 
+Companies at year end and approximately 81% (2014: 71%) of the Company’s interest income from Associated 
+Companies. The Dutch treasury company represents approximately 27% (2014: 18%) of the Company’s loans to 
+and receivables from Associated Companies at year end and approximately 18% (2014: 25%) of the Company’s 
+interest income from Associated Companies. 
+ 
+ 
+22. 
+Related parties 
+ 
+The Company is the main funding party of the Associated Companies and offers finance solutions mainly for 
+general purposes of the borrower. No amount is paid by the Company or any of the Associated Companies other 
+than in the line of business. The Company lends the proceeds of issuances of bonds, notes and loans from banks 
+to related parties only and are executed on an “at arm’s length” basis. Receivables from Associated Companies are 
+covered by a limited capital at risk agreement between Siemens AG and the Company mitigating the credit risk for 
+the Company. The limited capital at risk agreement reduces the credit risk of the Company to a maximum of EUR 2 
+million and determines the interest result for the Company. The determination is made by comparing actual result 
+with the agreed interest result (the target margin). The target margin is calculated based on the agreed interest on 
+Equity and the margin on average Financial Debt over the year. When the total actual interest result differs from the 
+total agreed interest result the difference is settled following this agreement and stated as Interest related income. 
+See also Note 4. 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+44 
+ 
+ 
+The following table provides information regarding loans to, deposits from, interest related income and derivatives 
+with related parties for the fiscal year ending September 30, 2015. 
+ 
+Cash equivalents 
+(in millions of EUR)  
+ 
+ 
+Cash equivalents
+on September 30 
+ 
+ 
+ 
+ 
+Siemens AG 
+2015 
+ 
+15.5 
+ 
+2014 
+ 
+3,222.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Receivables from Associated Companies 
+(in millions of EUR)  
+ 
+Interest income 
+Loans on 
+September 30 
+  
+  
+  
+ 
+Dutch holding companies 
+2015 
+1.4 
+90.0 
+ 
+2014 
+4.9 
+982.5 
+ 
+ 
+ 
+ 
+Dutch treasury companies 
+2015 
+58.9 
+7,407.0 
+ 
+2014 
+57.0 
+2,929.0 
+ 
+ 
+ 
+ 
+Siemens AG 
+2015 
+- 
+- 
+ 
+2014 
+2.0 
+- 
+ 
+ 
+ 
+ 
+UK treasury / holding companies 
+2015 
+2.7 
+115.1 
+ 
+2014 
+3.2 
+282.2 
+ 
+ 
+ 
+ 
+USA treasury companies 
+2015 
+268.5 
+19,500.4 
+ 
+2014 
+163.3 
+11,719.8 
+ 
+ 
+ 
+ 
+ 
+ 
+Liabilities to Associated Companies 
+(in millions of EUR)  
+ 
+Interest expenses 
+Deposits on 
+September 30 
+  
+  
+  
+ 
+Dutch treasury companies 
+2015 
+(4.6) 
+(893.6) 
+ 
+2014 
+(0.8) 
+(795.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest related income 
+(in millions of EUR)  
+ 
+Interest related 
+income 
+ 
+  
+  
+  
+ 
+Siemens AG 
+2015 
+78.9 
+ 
+ 
+2014 
+107.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+45 
+ 
+Interest rate swaps with Associated Companies 
+(in millions of EUR)  
+ 
+Net interest 
+Fair value on 
+September 30 
+  
+  
+ 
+ 
+Siemens AG 
+2015 
+370.8 
+660.0 
+ 
+2014 
+367.3 
+867.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Currency swaps with Associated Companies 
+(in millions of EUR)  
+ 
+Fair value 
+changes 
+Fair value on 
+September 30 
+  
+  
+ 
+ 
+Siemens AG 
+2015 
+(219.3) 
+(131.8) 
+ 
+2014 
+(126.1) 
+(41.5) 
+ 
+ 
+Geographic allocation of related parties: 
+ 
+ 
+Receivables from Associated Companies 
+(in millions of EUR)  
+ 
+Interest income 
+Loans on 
+September 30 
+  
+  
+  
+ 
+Netherlands 
+2015 
+60.3 
+7,497 
+ 
+2014 
+61.9 
+3,911.5 
+ 
+ 
+ 
+ 
+Germany 
+2015 
+- 
+- 
+ 
+2014 
+2.0 
+- 
+ 
+ 
+ 
+ 
+Great Britain 
+2015 
+2.7 
+115.1 
+ 
+2014 
+3.2 
+282.2 
+ 
+ 
+ 
+ 
+United States of America 
+2015 
+268.5 
+19,500.4 
+ 
+2014 
+163.3 
+11,719.8 
+ 
+ 
+ 
+ 
+ 
+ 
+Liabilities to Associated Companies 
+(in millions of EUR)  
+ 
+Interest expenses 
+Deposits on 
+September 30 
+  
+  
+  
+ 
+Netherlands 
+2015 
+(4.6) 
+(893.6) 
+ 
+2014 
+(0.8) 
+(795.5) 
+ 
+ 
+ 
+The Company did not enter into any transactions with members of the Board of Directors nor with members of the 
+Supervisory Board. 
+ 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the FINANCIAL STATEMENTS 
+Year ended September 30, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+46 
+ 
+23. 
+Remuneration Board of Directors and Supervisory Board 
+ 
+The members of the Supervisory Board, received a remuneration of in total EUR 20,000 (2014: EUR 20,000) for 
+account of the Company during the fiscal year. The members of the Board of Directors received no remuneration 
+for account of the Company during the fiscal year. 
+ 
+ 
+The Hague, November 9, 2015 
+ 
+ The Hague, November 9, 2015 
+ 
+The Supervisory Board 
+ 
+ The Board of Directors 
+ 
+ 
+ 
+ 
+H.-P. Rupprecht 
+ 
+ 
+ G.J.J. van der Lubbe 
+ 
+ 
+ 
+ 
+Dr. H. Bernhöft 
+ 
+ 
+ S. Galanzin 
+ 
+ 
+ 
+ 
+B.G. Trompert 
+ 
+  
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+ 
+47 
+ 
+Independent auditor’s report 
+To: the Supervisory Board, the Board of Directors and Shareholders of Siemens Financieringsmaatschappij N.V. 
+ 
+Report on the audit of the financial statements for the year end 30 September 2015 
+ 
+Our opinion 
+We have audited the financial statements for the 
+year ended 30 September 2015 of Siemens 
+Financieringsmaatschappij 
+N.V. 
+(the 
+company), 
+based in The Hague.  
+ 
+In our opinion the financial statements give a true 
+and fair view of the financial position of Siemens 
+Financieringsmaatschappij N.V. as at 30 September 
+2015 and of its result and its cash flows for the year 
+then 
+ended 
+in 
+accordance 
+with 
+International 
+Financial Reporting Standards as adopted by the 
+European Union (EU-IFRS) and with Part 9 of Book 
+2 of the Dutch Civil Code. 
+ 
+The financial statements comprise: 
+• The statements of financial position as at 30 
+September 2015. 
+• The following statements for the year ended 30 
+September 
+2015: 
+ 
+the 
+statements 
+of 
+comprehensive income, changes in equity and 
+cash flows.  
+• The notes comprising a summary of the 
+significant 
+accounting 
+policies 
+and 
+other 
+explanatory information. 
+ 
+Basis for our opinion 
+We conducted our audit in accordance with Dutch 
+law, including the Dutch Standards on Auditing. Our 
+responsibilities under those standards are further 
+described in the “Our responsibilities for the audit of 
+the financial statements” section of our report. 
+ 
+We 
+are 
+independent 
+of 
+Siemens 
+Financieringsmaatschappij N.V. in accordance with 
+the Verordening inzake de onafhankelijkheid van 
+accountants bij assurance-opdrachten (ViO) and 
+other relevant independence regulations in the 
+Netherlands. Furthermore, we have complied with 
+the 
+Verordening 
+gedrags- 
+en 
+beroepsregels 
+accountants (VGBA). 
+ 
+We believe that the audit evidence we have obtained 
+is sufficient and appropriate to provide a basis for 
+our opinion. 
+ 
+Materiality 
+Misstatements can arise from fraud or error and are 
+considered material if, individually or in the 
+aggregate, they could reasonably be expected to 
+influence the economic decisions of users taken on 
+the basis of these financial statements. The 
+materiality affects the nature, timing and extent of 
+our audit procedures and the evaluation of the effect 
+of identified misstatements on our opinion. 
+ 
+Based on our professional judgment, we determined 
+the materiality for the financial statements as a 
+whole at € 3.3 million. The materiality is based on 
+1% of interest income. We have also taken into 
+account 
+misstatements 
+and/or 
+possible 
+misstatements that in our opinion are material for the 
+users of the financial statements for qualitative 
+reasons. 
+ 
+We agreed with the supervisory board that 
+misstatements in excess of € 166 thousand, which 
+are identified during the audit, would be reported to 
+them, as well as smaller misstatements that in our 
+view must be reported on qualitative grounds. 
+ 
+Our key audit matters 
+Key audit matters are those matters that, in our 
+professional judgment, were of most significance in 
+our audit of the financial statements. We have 
+communicated the key audit matters to the 
+
+Siemens Financieringsmaatschappij N.V. 
+ 
+48 
+ 
+supervisory board. The key audit matters are not a 
+comprehensive reflection of all matters discussed. 
+ 
+These matters were addressed in the context of our 
+audit of the financial statements as a whole and in 
+forming our opinion thereon, and we do not provide a 
+separate opinion on these matters.  
+ 
+Use of shared service center  
+The company has outsourced cash management, 
+investor reporting, valuation and treasury and IT 
+processes to shared service center of Siemens AG. 
+Management is responsible for these processes as 
+they relate to the financial statements of the 
+company. For the purpose of obtaining assurance 
+regarding these processes and related accounts (in 
+particular 
+the 
+receivables 
+from/to 
+associated 
+companies, the derivative financial instruments, the 
+debts and the other assets and liabilities and the 
+related interest income, interest expense and the fair 
+value change of financial instruments as disclosed in 
+notes 10, 11, 12, 13, 14 and 15 of the financial 
+statements) we relied on procedures performed by 
+the auditor of Siemens AG to the extent required for 
+our audit of the financial statements. We have issued 
+instructions and reviewed the related procedures 
+performed and conclusions reached by the auditor 
+concerning to the assessment of the operating 
+effectiveness of internal controls of the processes of 
+the shared service center. 
+ 
+Valuation of financial instruments  
+Refer to note 2 Summary of significant accounting 
+policies, and the notes 11,14 and 17 Additional 
+disclosures on financial instruments.  
+The company holds significant positions in derivative 
+financial instruments and issued bonds, and applies 
+hedge accounting relating to these positions. The 
+valuation of these instruments is performed by the 
+Siemens AG shared service centre. Management 
+remains responsible for the valuation and hedge 
+accounting applied in the financial statements of the 
+company (refer to paragraph Use of the shared 
+service centre). 
+ 
+The auditor of Siemens AG involves valuation 
+specialists in the audit procedures regarding the 
+valuation 
+of 
+derivatives 
+and 
+other 
+financial 
+instruments. We have issued instructions and 
+reviewed the related procedures performed and 
+conclusions reached by the auditor including the 
+procedures 
+performed 
+by 
+these 
+specialists. 
+Furthermore, we assessed whether the disclosures 
+in the financial statements in relation to the valuation 
+of financial instruments are compliant with the 
+relevant reporting requirements. 
+ 
+Related party transactions 
+Refer to note 22 Related parties 
+The company enters into significant related party 
+transactions related to lending and treasury activities 
+with 
+Siemens 
+AG 
+group 
+companies.  
+The associated transaction pricing can be a 
+subjective area and comprises various assumptions. 
+The use of different assumptions could produce 
+significantly different pricing for these transactions. 
+Siemens AG applies principles which are aimed to 
+ensure that these are executed on an “at arm’s 
+length” 
+basis 
+consistent 
+with 
+the 
+applicable 
+advanced pricing agreement. For the purpose of 
+obtaining assurance regarding the consistency with 
+the advanced pricing agreement, we involved tax 
+specialists in our team. Finally, we assessed 
+whether the disclosures in the financial statements in 
+relation to the related parties are compliant with the 
+relevant accounting requirements. 
+ 
+Responsibilities 
+of 
+management 
+and 
+the 
+Supervisory Board for the financial statements 
+Management is responsible for the preparation and 
+fair presentation of the financial statements in 
+accordance with EU-IFRS and Part 9 of Book 2 of 
+the Dutch Civil Code, and for the preparation of the 
+Report of the Board of Directors in accordance with 
+Part 9 of Book 2 of the Dutch Civil Code. 
+Furthermore, management is responsible for such 
+internal control as management determines is 
+necessary to enable the preparation of the financial 
+statements that are free from material misstatement, 
+whether due to fraud or error. 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+ 
+49 
+ 
+As part of the preparation of the financial statements, 
+management is responsible for assessing the 
+company’s ability to continue as a going concern. 
+Based 
+on 
+the 
+financial 
+reporting 
+frameworks 
+mentioned, 
+management 
+should 
+prepare 
+the 
+financial statements using the going concern basis of 
+accounting unless management either intends to 
+liquidate the company or to cease operations, or has 
+no realistic alternative but to do so. Management 
+should disclose events and circumstances that may 
+cast significant doubt on the company’s ability to 
+continue as a going concern in the financial 
+statements. 
+ 
+The Supervisory Board is responsible for overseeing 
+the company’s financial reporting process. 
+ 
+Our responsibilities for the audit of the financial 
+statements 
+Our objective is to plan and perform the audit 
+assignment in a manner that allows us to obtain 
+sufficient and appropriate audit evidence for our 
+opinion. 
+ 
+Our audit has been performed with a high, but not 
+absolute, level of assurance, which means we may 
+not have detected all errors and fraud. 
+ 
+We have exercised professional judgment and have 
+maintained professional scepticism throughout the 
+audit, in accordance with Dutch Standards on 
+Auditing, ethical requirements and independence 
+requirements. Our audit included e.g.,: 
+• Identifying and assessing the risks of material 
+misstatement 
+of 
+the 
+financial 
+statements, 
+whether due to fraud or error, designing and 
+performing audit procedures responsive to those 
+risks, and obtaining audit evidence that is 
+sufficient and appropriate to provide a basis for 
+our opinion. The risk of not detecting a material 
+misstatement resulting from fraud is higher than 
+for one resulting from error, as fraud may involve 
+collusion, 
+forgery, 
+intentional 
+omissions, 
+misrepresentations, or the override of internal 
+control. 
+• Obtaining an understanding of internal control 
+relevant to the audit in order to design audit 
+procedures 
+that 
+are 
+appropriate 
+in 
+the 
+circumstances, but not for the purpose of 
+expressing an opinion on the effectiveness of the 
+company’s internal control.  
+• Evaluating the appropriateness of accounting 
+policies 
+used 
+and 
+the 
+reasonableness 
+of 
+accounting estimates and related disclosures 
+made by management.  
+• Concluding 
+on 
+the 
+appropriateness 
+of 
+management’s use of the going concern basis of 
+accounting, and based on the audit evidence 
+obtained, whether a material uncertainty exists 
+related to events or conditions that may cast 
+significant doubt on the company’s ability to 
+continue as a going concern. If we conclude that 
+a material uncertainty exists, we are required to 
+draw attention in our auditor’s report to the 
+related disclosures in the financial statements or, 
+if such disclosures are inadequate, to modify our 
+opinion.  
+Our conclusions are based on the audit evidence 
+obtained up to the date of our auditor’s report. 
+However, future events or conditions may cause 
+the company ceasing to continue as a going 
+concern. 
+• Evaluating the overall presentation, structure and 
+content of the financial statements, including the 
+disclosures. 
+• Evaluating whether the financial statements 
+represent the underlying transactions and events 
+in a manner that achieves fair presentation. 
+ 
+We communicate with the supervisory board 
+regarding, among other matters, the planned scope 
+and timing of the audit and significant audit findings, 
+including any significant findings in internal control 
+that we identify during our audit.  
+ 
+We provide the supervisory board with a statement 
+that we have complied with relevant ethical 
+requirements 
+regarding 
+independence, 
+and 
+to 
+communicate with them all relationships and other 
+matters that may reasonably be thought to bear on 
+
+Siemens Financieringsmaatschappij N.V. 
+ 
+50 
+ 
+our independence, and where applicable, related 
+safeguards.  
+From 
+the 
+matters 
+communicated 
+with 
+the 
+supervisory board, we determine those matters that 
+were of most significance in the audit of the financial 
+statements of the current period and are therefore 
+the key audit matters. We describe these matters in 
+our auditor’s report unless law or regulation 
+precludes public disclosure about the matter or 
+when, 
+in 
+extremely 
+rare 
+circumstances, 
+not 
+communicating the matter is in the public interest. 
+ 
+ 
+Report on other legal and regulatory requirements 
+ 
+Report on the Report of the Board of Directors and 
+the other information 
+Pursuant to legal requirements of Part 9 of Book 2 of 
+the Dutch Civil Code (concerning our obligation to 
+report about the Report of the Board of Directors and 
+other information): 
+• We have no deficiencies to report as a result of 
+our examination whether the Report of the Board 
+of Directors, to the extent we can assess, has 
+been prepared in accordance with Part 9 of Book 
+2 of the Dutch Civil Code, and whether the 
+information as required by Part 9 of Book 2 of the 
+Dutch Civil Code has been annexed. 
+• We report that the Report of the Board of 
+Directors, to the extent we can assess, is 
+consistent with the financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engagement 
+We were engaged by the Supervisory Board as 
+auditor of Siemens Financieringsmaatschappij N.V. 
+on 16 December 2008, as of the audit for the year 
+ended 30 September 2009 and have operated as 
+statutory auditor ever since that date. 
+ 
+Amsterdam, 9 November 2015 
+Ernst & Young Accountants LLP  
+ 
+ 
+ 
+ 
+ 
+signed by O.E.D. Jonker 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+ 
+51 
+ 
+Profit appropriation according to the Articles of Association 
+Article 19 of the articles of association reads as follows: 
+ 
+1. 
+Any reserves determined by the Supervisory Board shall be made out of the profit less the annual 
+depreciation. The remaining profit after such amounts have been reserved shall be at the disposal of the 
+General Meeting of Shareholders to pay out dividends or for other purposes to be determined by the meeting. 
+ 
+2. 
+The Company may make payments, out of the distributable profit, to shareholders and other persons entitled 
+to such payment, only if and to the extent that the Company’s authorised capital is in excess of the paid-up 
+share of the capital plus the reserves that must be maintained by virtue of the law and these Articles of 
+Association. 
+ 
+3. 
+Payments of profit shall be made after confirmation of the annual accounts showing that such payment is 
+permissible. 
+ 
+4. 
+Upon prior approval of the Supervisory Board, the Board of Directors may resolve, prior to the confirmation of 
+the annual accounts in any fiscal year, upon payment of one or more interim-dividend(s) based on the dividend 
+to be expected, always provided that the provision laid down in paragraph 2 with regard to the Company’s 
+authorised capital has been satisfied, which shall appear from an interim capital report signed by the Board of 
+Directors. 
+ 
+ 
+Proposal for appropriation of the result 
+Pursuant to article 19 of the Articles of Association, it is proposed to appropriate the results of the fiscal year 
+2015 as follows: 
+ 
+Distribution of dividends 
+EUR 
+- 
+Adding to (extracting from) retained earnings 
+EUR 
+(14,788,231.15) 
+ 
+
+Siemens Financieringsmaatschappij N.V. 
+NOTES to the CONDENSED INTERIM FINANCIAL STATEMENTS 
+Period ended March 31, 2015 
+(in millions of EUR, except where otherwise stated) 
+ 
+ 
+ 
+13

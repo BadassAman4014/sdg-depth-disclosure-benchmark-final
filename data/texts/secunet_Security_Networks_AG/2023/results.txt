@@ -1,0 +1,1849 @@
+2023
+
+secunet – protecting 
+digital infrastructures
+secunet is Germany’s leading cybersecurity company. In an increasingly connected 
+world, the Company’s combination of products and consulting assures resilient digital 
+infrastructures and the utmost protection for data, applications and digital identities. 
+­secunet specialises in areas with particular security requirements – such as eGovern-
+ment, eHealth as well as IIoT and cloud computing. With security solutions from ­secunet, 
+companies can maintain the highest security standards in digitalisation projects and 
+thus expedite their digital transformation. 
+Public Sector
+Digital sovereignty for state and society
+A holistic IT security concept is essential for public authorities and armed forces. ­secunet’s 
+Public Sector supports the digital transformation of administrations, authorities and armed 
+forces in Germany and abroad. Trustworthy security solutions assure resilient digital infra-
+structures and the utmost protection for data, applications and digital identities. Consulting, 
+security analyses and training round out secunet’s cybersecurity portfolio. This enables public 
+organisations to leverage the latest technologies while retaining their digital sovereignty.  
+Business Sector
+Secure digitalisation in industry and healthcare
+The digital transformation is spawning new business models, accelerating communication 
+and creating more efficient processes in existing value chains. However, increased networking 
+and new technologies simultaneously amplify the risk of cyberattacks, malware, data misuse 
+and espionage. secunet’s Business Sector supports companies and the healthcare sector 
+in safeguarding information and communication technologies. The core competence lies 
+in consulting as well as in the development and production of trustworthy security solutions 
+that integrate seamlessly into existing IT landscapes and protect them effectively. 
+
+Key Figures
+secunet Group at a glance (according to IFRS)
+Figures in million euros
+Key operating figures
+H1/2023
+H1/2022
+Change
+Sales revenue
+151.5
+135.5
+12 %
+Earnings before interest and taxes (EBIT)
+4.0
+14.9
+-73 %
+EBIT margin
+2.6 %
+11.0 %
+-8.4 Pp.
+Earnings before taxes (EBT)
+3.6
+14.9
+-76 %
+Group profit for the period
+2.4
+10.1
+-76 %
+Earnings per share (in euros)
+0.39
+1.57
+-76 %
+Key cash flow figures
+H1/2023
+H1/2022
+Change
+Cash flow from operating activities
+-3.0
+-32.7
+– %
+Cash flow from investing activities
+-3.4
+-51.6
+– %
+Cash flow from financing activities
+-11.9
+-30.0
+– %
+Key balance sheet figures
+30 Jun 2023
+31 Dec 2022
+Change
+Balance sheet total
+281.1
+315.4
+-11 %
+Equity (including non-controlling interests)
+111.7
+127.8
+-13 %
+Equity ratio
+39.7 %
+40.5 %
+-0.8 Pp.
+Cash and cash equivalents
+3.2
+21.5
+-85 %
+Liabilities
+169.4
+187.6
+-10 %
+Loans
+9.9
+0.5
+>100 %
+Order book
+191.6
+197.6
+-3 %
+Permanent employees
+1,013
+958
++6 %
+Key share figures
+30 Jun 2023
+31 Dec 2022
+Change
+Shares outstanding
+6,469,502
+6,469,502
+– %
+Closing price (Xetra, in euros)
+217.5
+196.4
+11 %
+Market capitalisation (in billion euros)
+1.4
+1.3
+11 %
+Quarterly overview 
+Figures in million euros
+Q1/2022
+Q2/2022
+Q3/2022
+Q4/2022
+Q1/2023
+Q2/2023
+Sales revenue
+65.4
+70.1
+77.5
+134.2
+55.2
+96.3
+Earnings before interest and taxes (EBIT)
+8.5
+6.4
+9.0
+23.1
+-6.2
+10.2
+
+
+Service
+Condensed Consolidated Interim Financial Statements
+Interim Group Management Report
+Half-Year Financial Report 2023
+Interim Group Management Report  
+for the First Half-Year 2023
+	
+8	
+Results of operations
+	
+10	
+Assets and financial position
+	
+12	
+Capital expenditure
+	
+12	
+Employees
+	
+13	
+Outlook, risks and opportunities
+	
+13	
+Forward-looking statements
+Condensed Consolidated Interim  
+Financial Statements
+	
+16	
+Consolidated balance sheet
+	
+18	
+Consolidated income statement
+	
+18	
+Group statement of comprehensive income
+	
+19	
+Consolidated cash flow statement
+	 20	
+Consolidated statement of changes in equity
+	
+22	
+Selected consolidated explanatory notes
+	
+33	
+Responsibility Statement
+	
+34	
+Review Report
+Service
+	
+36	
+Service and Information
+Contents
+5
+
+secunet | Half-Year Financial Report 2023
+6
+
+Interim Group Management Report
+8	
+Results of operations
+10	
+Assets and financial position
+12	
+Capital expenditure
+12	
+Employees
+13	
+Outlook, risks and opportunities
+13	
+Forward-looking statements
+for the First Half-Year 2023
+Interim Group 
+­Management  
+Report
+7
+
+secunet | Half-Year Financial Report 2023
+8
+Results of operations
+Sales revenue performance
+In the first half of 2023, secunet generated Group sales revenue of 151.5 million euros. This cor-
+responds to a 12% increase on the result for the same period of the previous year (135.5 million 
+euros). The growth in sales revenue is attributable to positive business development in the 
+Public Sector segment. 
+In the second quarter of 2023, sales revenue of 96.3 million euros was generated. Sales revenue 
+was 37% higher than in the same quarter of the previous year (70.1 million euros). The seasonal 
+sales pattern of secunet Group during the year usually shows a disproportionately rising trend 
+from the first to the last quarter. This is also evident this year: Following a restrained start to 
+the year in operational terms, the second quarter already saw a clear turnaround. 
+Earnings performance
+In the second quarter of 2023, secunet Group recorded a significant improvement in earnings. 
+Following a negative EBIT of -6.2 million euros in the first quarter, a positive EBIT of 10.2 million 
+euros was achieved in the second quarter. This corresponds to a 59% increase on the same 
+period of the previous year (6.4 million euros).
+Overall, secunet Group’s EBIT amounted to 4.0 million euros in the first half of 2023, compared 
+with 14.9 million euros in the same period of the previous year. This decline is attributable in 
+particular to the cost of sales, which increased by 27% to 127.5 million euros (previous year: 
+100.2 million euros). This is explained by an increase in the cost of materials due to growth in 
+the product business and a change in the product mix. Furthermore, the strong expansion 
+of the workforce in the productive areas led to an increase in personnel expenditure. 
+Selling expenses increased to 12.7  million euros in the reporting period (previous year: 
+10.6 ­million euros), which is attributable to increased sales activities and the associated 
+higher personnel requirements. At 5.4 million euros, general administrative costs were at the 
+same level as the previous year (5.4 million euros), as were research and development costs 
+at 4.6 million euros (previous year: 4.5 million euros). 
+In the course of the half-year financial statements as at 30 June 2023, the payout clause 
+contractually agreed in conjunction with the acquisition of SysEleven GmbH was revalued. 
+The revaluation resulted in an impairment of the payout clause of 2.6 million euros. This led to 
+a corresponding one-time positive effect on earnings in the reporting period in the amount 
+of 2.6 million euros, which was recognised as other operating income.
+Interest income was insignificant in the first half of 2023. Interest expenses totalled 0.3 ­million 
+euros (previous year: 0.2 million euros). In addition to the interest on pension provisions, the 
+increase resulted mainly from the interest expense for a temporary current-account credit 
+facility that was taken out as well as expenses within the scope of lease accounting in 
+accordance with IFRS 16.  
+
+9
+Interim Group Management Report
+Earnings before taxes (EBT) of secunet Group amounted to 3.6 million euros in the first half of 
+2023 (previous year: 14.9 million euros). Tax expenses amounted to 1.2 million euros (previous 
+year: 4.8 million euros). This corresponds to a tax ratio of 32% (previous year: 32%). As a result, 
+Group profit for the period amounted to 2.4 million euros (previous year: 10.1 million euros). 
+Diluted and undiluted earnings per share are reported at 0.39 euros (previous year: 1.57 euros).
+Segment reporting 
+secunet Group is segmented into two business units according to target groups.
+Public Sector
+secunet Group’s business is focused on public authorities, ministries and defence organisa-
+tions. The contribution of the corresponding Public Sector division to Group sales revenue is 
+accordingly high and amounted to 86% in the first half of 2023 (previous year: 84%). Sales 
+revenues amounted to 130.2 million euros, an increase of 15% compared to the same period 
+of the previous year (113.1 million euros). Both the product business and the service business 
+contributed to this positive development.  
+As at Group level, expenses in the Public Sector also increased at a higher rate than sales rev-
+enue. The causes are analogous to those in the Group. Cost of sales amounted to 105.9 ­million 
+euros (previous year: 83.3 million euros) and represented the largest cost item. Selling expenses 
+totalled 10.0 million euros (previous year: 8.3 million euros), general administrative expenses 
+4.6 million euros (previous year: 4.5 million euros) and research and development expenses 
+4.1 million euros (previous year: 2.9 million euros). 
+Due to this cost development, EBIT in the Public Sector decreased to 5.6 million euros (previous 
+year: 14.2 million euros).
+Business Sector
+The Business Sector division generated about 14% of Group sales revenue (previous year: 16%). 
+This division serves two markets in the private sector: healthcare and industry. Sales revenue 
+amounted to 21.2 million euros in the first half of 2023, only slightly below the figure for the 
+same period of the previous year (22.4 million euros).
+Costs developed as follows: cost of sales and selling expenses increased to 18.9 million 
+euros (previous year: 16.9 million euros) and 2.7 million euros (previous year: 2.2 million euros) 
+respectively. By contrast, general administrative costs and research and development costs 
+decreased to 0.8 million euros (previous year: 1.0 million euros) and 0.5 million euros (previous 
+year: 1.6 million euros) respectively. Due to these developments, EBIT in the Business Sector 
+decreased to -1.6 million euros (previous year: 0.7 million euros).
+Order situation
+The Group’s order book remained at a very high level as at 30 June 2023. In total, firm orders 
+added up to 191.6 million euros. This corresponds to an increase of 20% on the order book as 
+at the previous year’s reporting date (159.9 million euros). 
+
+secunet | Half-Year Financial Report 2023
+10
+Assets and financial position
+Capital structure of the Group
+At the end of the first half of 2023, secunet Group’s balance sheet total amounted to 
+281.1 ­million euros (31 December 2022: 315.4 million euros). On the liabilities side, equity 
+accounted for 111.7 million euros (31 December 2022: 127.8 million euros) and debt capital for 
+169.4 million euros (31 December 2022: 187.6 million euros). 
+The financing of current business and necessary replacement investments was ensured by 
+cash and cash equivalents in the reporting period. Additionally, secunet has a credit line of 
+30 million euros at its disposal.
+Assets
+The assets side of the consolidated balance sheet showed current assets of 148.7 million euros 
+as at 30 June 2023 (31 December 2022: 179.8 million euros). The following balance sheet items 
+show a significant change compared with the figures as at 31 December 2022:
+Trade receivables decreased to 53.0 million euros (31 December 2022: 75.8 million euros). As 
+the focus of secunet’s business is in the fourth quarter, there are high receivables at the end 
+of the year, which decrease significantly in the course of the first months of the year.
+Contract assets increased to 4.8 million euros (31 December 2022: 2.6 million euros), and 
+represent services already rendered under contracts for work and services for which no 
+unconditional claim for payment has yet arisen. 
+Due to the dividend payment of 18.5 million euros made in June 2023, cash and cash equiv-
+alents decreased to 3.2 million euros (31 December 2022: 21.5 million euros). 
+Non-current assets totalled 132.4 million euros as at 30 June 2023 (31 December 2022: 
+135.7 million euros). There were no significant changes in the related balance sheet items. 
+Debt and equity
+The liabilities side of the consolidated balance sheet showed lower current liabilities, i.e. lia-
+bilities with a remaining term of less than one year, of 93.4 million euros as at 30 June 2023 
+(31 December 2022: 103.3 million euros). Non-current liabilities decreased to 76.0 million euros 
+(31 December 2022: 84.3 million euros). The following balance sheet items show a significant 
+change compared with the figures as at 31 December 2022:
+
+11
+Interim Group Management Report
+Trade payables amounted to 35.9 million euros as at the reporting date of 30 June 2023 
+(31 December 2022: 36.2 million euros). The item “Short-term loans and current portion of 
+long-term loans” increased to 9.9 million euros as a result of drawing down a current-account 
+credit facility, compared to 0.3 million euros as at 31 December 2022. 
+Other provisions fell to 11.3 million euros (31 December 2022: 18.8 million euros), mainly due to 
+lower liabilities to personnel resulting from the payment of variable remuneration compo-
+nents during the reporting period. 
+Other non-current liabilities include a success-related purchase price component agreed 
+in the context of the acquisition of SysEleven GmbH. The success-related purchase price 
+payments are dependent on quantitative and qualitative targets. As at 30 June 2023, the 
+discounted fair value of the contingent purchase price payment amounted to 8.4 million 
+euros (31 December 2022: 11.1 million euros). 
+secunet Group’s equity at the end of the first half-year 2023 amounted to 111.7 million euros 
+(31 December 2022: 127.8 million euros). In relation to the balance sheet total, this results in 
+a slightly reduced equity ratio of 39.7% compared to 31 December 2022 (31 December 2022: 
+40.5%). 
+Cash flow and liquidity
+In the first half of 2023, secunet Group recorded a cash flow from operating activities of 
+-3.0 million euros, which represents a significant improvement compared to the same period 
+of the previous year (-32.7 million euros). This positive development was achieved by reducing 
+working capital. This more than compensated for the effects of the lower earnings before 
+taxes. It should be noted that negative cash flow from operating activities is common in the 
+first half of the year due to the seasonal pattern of the business model. 
+Cash flow from investing activities amounted to -3.4 million euros in the reporting period and 
+mainly comprised investments in intangible assets and property, plant and equipment. In 
+comparison, the corresponding figure of -51.6 million euros in the previous year was strongly 
+influenced by the acquisition of SysEleven GmbH. No acquisitions were made in the current 
+reporting period. 
+The cash flow of -11.9 million euros from financing activities (previous year: -30.0 million euros) 
+essentially reflects the dividend payment of 18.5 million euros (previous year: 34.8 million euros) 
+and proceeds from the drawdown of a current-account credit facility of 9.6 million euros. 
+After the end of the first half of 2023, there was an overall outflow of cash and cash equiva-
+lents totalling 18.3 million euros, compared to a cash outflow of 114.3 million euros in the same 
+period of the previous year. Cash and cash equivalents amounted to 3.2 million euros as at 
+30 June 2023 (31 December 2022: 21.5 million euros). In order to ensure additional financial 
+flexibility, secunet has a current-account credit facility of 30 million euros. Of this amount, a 
+total of 20.4 million euros was freely available as at the balance sheet date.
+
+secunet | Half-Year Financial Report 2023
+12
+Capital expenditure
+Capital expenditure amounted to 3.4 million euros in the first half of 2023 and mainly com-
+prised investments in intangible assets and property, plant and equipment. These were pri-
+marily expenditures for the new acquisition and replacement of hardware, software and other 
+operating equipment. In comparison, the corresponding figure of 51.6 million euros in the 
+previous year was strongly influenced by the acquisition of SysEleven GmbH. No acquisitions 
+were made in the current reporting period. 
+The investments were made primarily by secunet Security Networks AG and funded mainly 
+from cash and cash equivalents.
+Employees
+As at the end of the first half of 2023, secunet employed 1,013 permanent employees across 
+the Group. The number of permanent employees thus increased by 79 permanent employees 
+or 8% compared to the date in the previous year (934 permanent employees). In addition, 
+­secunet Group employed 63 temporary staff as at the reporting date (previous year’s report-
+ing date: 100 temporary staff). This means that a total of 1,076 employees were working for 
+­secunet Group. (Previous year’s reporting date: 1,034 employees).  
+Over the past few years, secunet Group has recorded strong growth in the number of employ-
+ees. This is particularly evident when looking at the last one and a half years: since the balance 
+sheet date of 31 December 2021 (755 permanent employees), the number of permanent 
+employees has grown by 258 employees or 34%. This increase resulted both from new hires 
+and from the acquisition of SysEleven GmbH with over 100 employees.  
+The growth in the number of employees primarily serves the expansion and diversification 
+of the product range, for example in the area of cloud security for particularly security-crit-
+ical applications. Furthermore, the increase in the number of employees creates additional 
+operational capacity, which is necessary for the future growth of the company.
+
+13
+Interim Group Management Report
+Outlook, risks and opportunities
+Since the publication of the 2022 Annual Report (March 2023), the Management Board’s 
+view of opportunities and risks for secunet Group has not changed. Risks that jeopardise the 
+continued existence of the company are currently not discernible. 
+The Management Board’s assessment of the business development in the current year 2023 
+also remains unchanged. The seasonal pattern of sales revenue and EBIT during the year 
+traditionally shows a focus in the second half of the year. This is related to the procurement 
+processes of public sector clients, who make up the majority of our customer base. Based 
+on the well-filled order book, the Management Board expects this pattern to continue in 
+2023. Therefore, sales revenue and EBIT are expected to increase strongly in the second half 
+of the year.
+In this context, the Management Board confirms its forecast for the 2023 financial year. 
+Significant sales growth to around 375 million euros (2022: 347.2 million euros) is still expected. 
+EBIT is predicted to increase slightly to around 50 million euros (2022: 47.0 million euros).
+Forward-looking statements
+This financial report contains statements regarding the future performance of secunet Group, 
+as well as economic and political developments. These statements are opinions that we have 
+formed based on the information currently available to us. Should the assumptions on which 
+these statements are based not be applicable or should further risks arise, the actual results 
+may deviate from the results currently expected. We cannot therefore offer any guarantee 
+as to the accuracy of these statements. 
+
+14
+secunet | Half-Year Financial Report 2023
+
+Condensed Consolidated Interim Financial Statements
+for the period from 1 January to 30 June 2023
+Condensed 
+­Consolidated 
+Interim  
+Financial 
+Statements
+16	
+Consolidated balance sheet
+18	
+Consolidated income statement
+18	
+Group statement of comprehensive income
+19	
+Consolidated cash flow statement
+20	
+Consolidated statement of changes in equity
+22	
+Selected consolidated explanatory notes
+33	
+Responsibility Statement
+34	
+Review Report
+15
+
+16
+secunet | Half-Year Financial Report 2023
+Consolidated balance sheet
+as at 30 June 2023
+Assets
+in euros
+30 Jun 2023
+31 Dec 2022
+Current assets
+Cash and cash equivalents
+3,189,917.62
+21,479,549.36
+Trade receivables
+52,963,040.04
+75,818,259.18
+Intercompany financial assets
+442,575.88
+304,018.98
+Contract assets
+4,768,938.85
+2,596,942.21
+Inventories
+72,402,994.52
+72,298,654.03
+Other current assets
+5,704,817.56
+6,084,621.52
+Income tax receivables
+9,250,382.36
+1,174,591.64
+Total current assets
+148,722,666.83
+179,756,636.92
+Non-current assets
+Property, plant and equipment
+11,453,422.24
+10,720,417.00
+Right-of-use assets
+15,846,748.78
+18,288,681.46
+Intangible assets
+35,877,085.25
+39,006,599.04
+Goodwill
+47,627,601.69
+47,627,601.69
+Non-current financial assets
+6,561,293.90
+6,549,879.00
+Deferred taxes
+3,451,643.93
+2,547,651.27
+Other non-current assets
+11,556,482.46
+10,922,602.38
+Total non-current assets
+132,374,278.25
+135,663,431.84
+Total assets
+281,096,945.08
+315,420,068.76
+
+17
+Condensed Consolidated Interim Financial Statements
+Liabilities
+in euros
+30 Jun 2023
+31 Dec 2022
+Current liabilities
+Trade accounts payable
+35,898,736.19
+36,185,965.84
+Intercompany payables
+236,086.75
+79,789.82
+Lease liabilities
+5,466,937.43
+3,947,364.31
+Short-term loans and current portion of long-term loans
+9,919,025.77
+312,500.00
+Other provisions
+9,729,300.20
+17,211,643.67
+Income tax liabilities
+0.00
+3,068,902.97
+Other current liabilities
+6,092,950.12
+12,290,604.69
+Contract liabilities
+26,090,257.75
+30,231,243.38
+Total current liabilities
+93,433,294.21
+103,328,014.68
+Non-current liabilities
+Lease liabilities
+10,784,065.35
+14,709,981.23
+Other non-current liability
+10,109,578.45
+12,638,551.04
+Deferred taxes
+11,012,406.83
+11,999,696.98
+Provisions for pensions
+5,922,622.42
+5,604,437.00
+Other provisions
+1,585,725.88
+1,585,725.88
+Contract liabilities
+36,598,428.80
+37,562,964.37
+Liabilities to banks
+0.00
+156,250.00
+Total non-current liabilities
+76,012,827.73
+84,257,606.50
+Equity
+Subscribed capital
+6,500,000.00
+6,500,000.00
+Capital reserves
+21,922,005.80
+21,922,005.80
+Other reserves
+-340,218.99
+-211,218.99
+Retained earnings
+83,391,266.70
+99,378,962.70
+Equity attributable to parent company shareholders
+111,473,053.51
+127,589,749.51
+Non-controlling interests
+177,769.63
+244,698.07
+Total equity
+111,650,823.14
+127,834,447.58
+Total equity and liabilities
+281,096,945.08
+315,420,068.76
+
+18
+secunet | Half-Year Financial Report 2023
+Group statement of  
+comprehensive income
+for the period from 1 January to 30 June 2023
+in euros
+1 Jan – 30 Jun 
+2023
+1 Jan – 30 Jun 
+2022
+Group profit for the period
+2,448,151.28
+10,098,068.78
+Items not reclassified to the income statement
+Revaluation of defined benefit pension plans
+-190,000.00
+2,720,000.00
+Taxes attributable to components of the other  
+comprehensive income/loss
+61,000.00
+-868,496.00
+Other comprehensive income/loss
+-129,000.00
+1,851,504.00
+Consolidated comprehensive income/loss
+2,319,151.28
+11,949,572.78
+of which attributable to shareholders of secunet AG
+2,386,079.72
+12,007,651.66
+of which attributable to non-controlling interests
+-66,928.44
+-58,078.88
+Consolidated income statement
+for the period from 1 January to 30 June 2023
+in euros
+1 Jan – 30 Jun 
+2023
+1 Jan – 30 Jun 
+2022
+Sales revenue
+151,482,304.21
+135,490,681.85
+Cost of sales
+-127,483,327.47
+-100,181,241.63
+Gross profit on sales
+23,998,976.74
+35,309,440.22
+Selling expenses
+-12,709,731.15
+-10,550,748.29
+Research and development costs
+-4,572,898.40
+-4,465,112.39
+General administrative costs
+-5,391,514.52
+-5,416,961.37
+Other operating income
+2,660,297.60
+8,494.89
+Other operating expenses
+-4,154.00
+0.00
+Earnings before interest and taxes (EBIT)
+3,980,976.27
+14,885,113.06
+Interest income
+232.00
+14,539.10
+Interest expenses
+-335,405.44
+-158,803.83
+Other financial result
+0.00
+183,967.79
+Earnings before taxes (EBT)
+3,645,802.83
+14,924,816.12
+Taxes on income
+-1,197,651.55
+-4,826,747.34
+Group profit for the period
+2,448,151.28
+10,098,068.78
+of which attributable to shareholders of secunet AG
+2,515,079.72
+10,156,147.66
+of which attributable to non-controlling interests
+-66,928.44
+-58,078.88
+Earnings per share (diluted/undiluted)
+0.39
+1.57
+Average number of shares outstanding (diluted/undiluted, units)
+6,469,502
+6,469,502
+
+19
+Condensed Consolidated Interim Financial Statements
+Consolidated cash flow statement
+for the period from 1 January to 30 June 2023
+in Euro
+1 Jan – 30 Jun 
+2023
+1 Jan – 30 Jun 
+2022
+Cash flow from operating activities
+Earnings before taxes (EBT)
+3,645,802.83
+14,924,816.12
+Depreciation and amortisation of tangible assets, 
+ right-of-use assets and intangible assets
+8,543,016.82
+5,840,348.48
+Other non-cash income
+-2,652,000.00
+-268,469.10
+Changes in provisions
+-7,383,798.05
+-13,339,425.88
+Book losses on the sale of intangible assets and of property,  
+plant and equipment
+1,303.10
+24,489.00
+Interest result
+335,173.44
+144,264.73
+Change in receivables, contract assets, inventories
+20,186,248.99
+-31,158,466.27
+Change in liabilities and contract liabilities
+-11,499,669.49
+2,806,956.07
+Tax paid
+-14,172,628.05
+-11,716,762.00
+Cash outflow from operating activities
+-2,996,550.41
+-32,742,248.85
+Cash flow from investing activities
+Purchase of intangible assets and of property,  
+plant and equipment
+-3,388,189.41
+-2,288,281.73
+Proceeds from the sale of intangible assets and of property,  
+plant and equipment
+3,921.90
+23,541.00
+Purchase of financial assets
+-30,810.70
+-30,809.77
+Proceeds from financial assets
+19,395.80
+52,350.00
+Acquisition of subsidiaries less cash and cash equivalents acquired
+0.00
+-49,369,823.53
+Cash outflow from investing activities
+-3,395,682.41
+-51,613,024.03
+Cash flow from financing activities
+Proceeds from short-term or long-term loans
+10,058,685.15
+6,822,557.34
+Loan repayments
+-419,820.97
+0.00
+Dividend payment
+-18,502,775.72
+-34,805,920.76
+Repayment portion of lease payments
+-2,727,953.94
+-1,881,674.27
+Interest received
+232.00
+14,539.10
+Interest paid
+-305,765.44
+-129,163.83
+Cash outflow from financing activities
+-11,897,398.92
+-29,979,662.42
+Reduction in cash and cash equivalents
+-18,289,631.74
+-114,334,935.30
+Cash and cash equivalents at the beginning of the period
+21,479,549.36
+119,476,061.19
+Cash and cash equivalents at the end of the period
+3,189,917.62
+5,141,125.89
+
+20
+secunet | Half-Year Financial Report 2023
+Consolidated statement of changes in equity
+for the period from 1 January to 30 June 2023
+in euros
+Subscribed 
+capital
+Capital 
+reserves
+Other reserves
+Reserve for 
+treasury 
+ shares
+Currency 
+­conversion 
+differences from 
+the currency 
+conversion of 
+financial state-
+ments of foreign 
+subsidiaries
+Equity as at 31 Dec 2021 / 1 Jan 2022
+6,500,000.00
+21,922,005.80
+-103,739.83
+268,469.10
+Group profit for the period 1 Jan – 30 Jun 2022
+0.00
+0.00
+Other comprehensive income / loss – Change in the  
+consolidated Group
+0.00
+-268,469.10
+Miscellaneous other comprehensive income / loss  
+1 Jan – 30 Jun 2022
+0.00
+0.00
+Consolidated comprehensive income 1 Jan – 30 Jun 2022
+0.00
+-268,469.10
+Dividend payment
+0.00
+0.00
+Equity as at 30 Jun 2022
+6,500,000.00
+21,922,005.80
+-103,739.83
+0.00
+Group profit for the period 01 Jan – 30 Jun 2022
+0.00
+0.00
+Miscellaneous other comprehensive income / loss  
+1 Jan – 30 Jun 2022
+0.00
+0.00
+Consolidated comprehensive income 1 Jul – 31 Dec 2022
+0.00
+0.00
+Equity as at 31 Dec 2022 / 1 Jan 2023
+6,500,000.00
+21,922,005.80
+-103,739.83
+0.00
+Group profit for the period 1 Jan – 30 Jun 2023
+0.00
+0.00
+Miscellaneous other comprehensive income / loss  
+1 Jan – 30 Jun 2023
+0.00
+0.00
+Other comprehensive income / loss 1 Jan – 30 Jun 2023
+0.00
+0.00
+Consolidated comprehensive income 1 Jan – 30 Jun 2023
+0.00
+0.00
+Dividend payment
+0.00
+0.00
+Equity as at 30 Jun 2023
+6,500,000.00
+21,922,005.80
+-103,739.83
+0.00
+
+21
+Condensed Consolidated Interim Financial Statements
+ Other reserves
+Retained 
+earnings
+Equity of 
+­secunet AG 
+shareholders
+Non-controlling 
+interests
+Total 
+Revaluation of 
+performance- 
+oriented pension 
+plans
+Income taxes 
+attributable to 
+components 
+of the other 
+comprehensive 
+income / loss
+Total other 
+reserves
+-2,830,316.20
+927,654.60
+-1,737,932.33
+102,876,356.60
+129,560,430.07
+263,410.66
+129,823,840.73
+0.00
+0.00
+0.00
+10,156,147.66
+10,156,147.66
+-58,078.88
+10,098,068.78
+0.00
+0.00
+-268,469.10
+0.00
+-268,469.10
+0.00
+-268,469.10
+2,720,000.00
+-868,496.00
+1,851,504.00
+0.00
+1,851,504.00
+0.00
+1,851,504.00
+2,720,000.00
+-868,496.00
+1,583,034.90
+10,156,147.66
+11,739,182.56
+-58,078.88
+11,681,103.68
+0.00
+0.00
+0.00
+-34,805,920.76
+-34,805,920.76
+0.00
+-34,805,920.76
+-110,316.20
+59,158.60
+-154,897.43
+78,226,583.50
+106,493,691.87
+205,331.78
+106,699,023.65
+0.00
+0.00
+0.00
+21,152,379.20
+21,152,379.20
+39,366.29
+21,191,745.49
+-81,190.00
+24,868.44
+-56,321.56
+0.00
+-56,321.56
+0.00
+-56,321.56
+-81,190.00
+24,868.44
+-56,321.56
+21,152,379.20
+21,096,057.64
+39,366.29
+21,135,423.93
+-191,506.20
+84,027.04
+-211,218.99
+99,378,962.70
+127,589,749.51
+244,698.07
+127,834,447.58
+0.00
+0.00
+0.00
+2,515,079.72
+2,515,079.72
+-66,928.44
+2,448,151.28
+-190,000.00
+61,000.00
+-129,000.00
+0.00
+-129,000.00
+0.00
+-129,000.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+-190,000.00
+61,000.00
+-129,000.00
+2,515,079.72
+2,386,079.72
+-66,928.44
+2,319,151.28
+0.00
+0.00
+0.00
+-18,502,775.72
+-18,502,775.72
+0.00
+-18,502,775.72
+-381,506.20
+145,027.04
+-340,218.99
+83,391,266.70
+111,473,053.51
+177,769.63
+111,650,823.14
+
+22
+secunet | Half-Year Financial Report 2023
+Selected consolidated  
+explanatory notes
+These Consolidated Interim Financial Statements as at 30 June 2023 have been prepared 
+in compliance with the provisions of International Accounting Standard (IAS) 34 “Interim 
+Financial Reporting”, which governs interim financial statements in accordance with Inter-
+national Financial Reporting Standards (IFRS). They are Condensed Consolidated Interim 
+Financial Statements in accordance with IAS 34 as adopted by the EU, which means they 
+do not include all the information required by IFRS for consolidated financial statements at 
+the end of a financial year. The Consolidated Interim Financial Statements must therefore 
+be read in conjunction with the IFRS consolidated financial statements as at 31 December 
+2022 (Consolidated Financial Statements). These Consolidated Interim Financial Statements 
+have not been audited, but have been reviewed by an auditor pursuant to Article 115 of the 
+German Securities Trading Act (Wertpapierhandelsgesetz, WpHG). The Condensed Consoli-
+dated Interim Financial Statements and the Interim Group Management Report for the first 
+half-year 2023 were approved by the Management Board of secunet Security Networks AG 
+on 9 August 2023.
+Accounting principles
+The consolidation principles and the method of currency translation correspond to those 
+used for the Consolidated Annual Financial Statements for the 2022 financial year. The 
+accounting and valuation methods were retained. The Consolidated Financial Statements 
+of ­secunet Security Networks AG as at 31 December 2022 were prepared on the basis of 
+Articles 315 and 315e of the German Commercial Code (Handelsgesetzbuch, HGB) and in 
+accordance with the International Financial Reporting Standards as they are to be applied 
+in the European Union.
+The values shown in the consolidated balance sheet, consolidated income statement, 
+consolidated statement of comprehensive income, consolidated cash flow statement and 
+consolidated statement of changes in equity correspond to the normal course of business 
+of secunet Group and do not include any extraordinary items.
+The calculation of income taxes for domestic companies is based on a tax rate of 31.97%.
+The preparation of the Consolidated Interim Financial Statements requires a series of 
+assumptions and estimates on the part of management. As a result, it is possible that the fig-
+ures reported in the Consolidated Interim Financial Statements may deviate from the actual 
+future figures. The main assumptions and estimates are fundamentally unchanged compared 
+to the Consolidated Financial Statements as at 31 December 2022. The business operations 
+and therefore the net assets, financial position and earnings situation of ­secunet Group are 
+not significantly impacted by the effects of the war in Ukraine.
+
+23
+Condensed Consolidated Interim Financial Statements
+New accounting rules
+The following standards were to be applied for the first time in the 2023 financial year:
+Standard / Interpretation
+Content of the amendment
+IFRS 17
+Including Amendments to IFRS 17 and Initial Application of IFRS 17 and 
+IFRS 9 Comparative Information
+IAS 1
+Classification of Liabilities as Current or Non current including Deferral 
+of Effective Date and Disclosure of Accounting Policies
+IAS 8
+Definition of Accounting Estimates
+IAS 12
+Deferred Tax related to Assets and Liabilities arising from a Single 
+Transaction
+The amended standards and interpretations that came into force on 1 January 2023 have 
+no significant effect on secunet Group.
+Consolidated group
+In addition to secunet Security Networks AG, the Consolidated Financial Statements include 
+all associate companies that are controlled by secunet Security Networks AG. Control is 
+considered to be in place if secunet has the power of disposition over the associate company, 
+has a right to variable returns from the investment and has the opportunity to use the power 
+of disposition over the associate company in a way that can influence the variable returns.
+Non-controlling interests (minority shareholders) exist as a result of the consolidation of 
+­secustack GmbH, Dresden.
+Stock of treasury shares
+As at 30 June 2023, the Company held 30,498 treasury shares, unchanged from 31 December 
+2022; this corresponds to 0.5% of the share capital.
+Recognition of actuarial gains and losses in equity (“other compre-
+hensive income”) from the revaluation of defined benefit pension 
+plans
+In the first six months of the financial year, a total of 0.2 million euros from the revaluation of 
+the defined benefit pension plans as at 30 June 2023 was recognised in the other compre-
+hensive income of secunet Group, with no effect on profit or loss, which increased equity. The 
+revaluation includes the effects of the increase in the actuarial interest rate from 3.40% as at 
+31 December 2022 to 3.50% as at 30 June 2023. In this connection, an effect from deferred 
+taxes totalling 0.1 million euros had an opposite impact on equity.
+
+24
+secunet | Half-Year Financial Report 2023
+Capitalisation of development costs
+The development project “secustack as a service” has met the conditions for the capitalisa-
+tion of development costs. In total, 0.4 million euros of development costs were capitalised 
+as intangible assets in the last financial year and in the first half of 2023. 
+Revaluation of the payout clause
+In conjunction with the half-year financial statements as at 30 June 2023, a revaluation of 
+the contractually agreed payout clauses was carried out in relation to the acquisition of 
+SysEleven GmbH. The revaluation resulted in an impairment of the payout clause, resulting 
+in an increase of 2.6 million euros in other operating earnings and a significant increase 
+compared with the previous year (0.0 million euros) was recorded.
+Segment reporting
+secunet Group is split into two divisions: the Public Sector division and the Business Sector 
+division. Both divisions are shown separately for the purposes of segment reporting, as they 
+meet at least one of the quantitative thresholds defined in IFRS 8.13.
+The Public Sector division offers its customers the SINA product family, comprising solutions 
+(software, hardware and management) for highly secure, cryptographic processing, trans-
+mission and storage of classified information with varying levels of confidentiality. Further 
+solutions from the Public Sector division include products for electronic passports, automated 
+(biometric) border controls and the ELSTER electronic tax declaration. Furthermore, a wide 
+range of IT security products and services for public customers, ranging from IT security con-
+sulting and training to the equipment of large infrastructures with high-security technology 
+and public key infrastructures, are also offered.
+The Business Sector division provides IT security consulting and solutions for companies in 
+the private and healthcare sectors. The product portfolio includes, for example, the ­secunet 
+konnektor for healthcare telematics (in different variants depending on the size of the infra-
+structure to be served) and secunet edge, which enables Internet-supported production 
+facilities to be secured.
+
+25
+Condensed Consolidated Interim Financial Statements
+Segment report H1 2023
+in thousand euros
+Public Sector
+Business Sector
+secunet H1 2023
+Segment revenue
+130,234
+21,248
+151,482
+Cost of sales
+-105,894
+-18,933
+-124,827
+Selling expenses
+-10,025
+-2,685
+-12,710
+Research and development costs
+-4,072
+-500
+-4,572
+Administrative costs
+-4,617
+-775
+-5,392
+Segment result (EBIT)
+5,626
+-1,645
+3,981
+Interest result
+-335
+Group profit before tax
+3,646
+Goodwill
+46,328
+1,300
+47,628
+Segment report H1 2022
+in thousand euros
+Public Sector
+Business Sector
+secunet H1 2022
+Segment revenue
+113,140
+22,351
+135,491
+Cost of sales
+-83,257
+-16,924
+-100,181
+Selling expenses
+-8,340
+-2,211
+-10,551
+Research and development costs
+-2,856
+-1,609
+-4,465
+Administrative costs
+-4,453
+-955
+-5,408
+Segment result (EBIT)
+14,234
+652
+14,886
+Interest result
+-145
+Income from investments
+183
+Group profit before tax
+14,924
+Goodwill
+46,328 ¹
+1,300
+47,628
+1	 In the context of reporting as at 30 June 2022, only provisional values for intangible assets, goodwill and 
+deferred taxes could be included in the Consolidated Financial Statements. The reported goodwill as at 
+30 June 2022 was subsequently adjusted to the final value as at 31 December 2022.
+The accounting principles for the segments are identical to those used for the Consolidated 
+Interim Financial Statements. Using apportionments, expenses (e.g. overhead costs) that are 
+not directly allocable to the reportable segments are allocated to the reportable segments. 
+A revenue-based allocation table is used for most cost items. 
+The segments are managed on the basis of the segment results. With the exception of 
+non-essential components, the segments’ assets are focused on the domestic market.
+In segment reporting, income from the revaluation of the payout clause which is recorded 
+in the income statement under other operating income is offset against the cost of sales.
+
+26
+secunet | Half-Year Financial Report 2023
+Sales revenue
+secunet Group realises its sales revenue entirely within the framework of contracts with cus-
+tomers. 
+The following overview breaks down sales by geographical characteristics, main revenue 
+streams and revenue recognition.
+Public Sector
+Business Sector
+Group
+in thousand euros
+H1 2023
+ H1 2022
+H1 2023
+ H1 2022
+H1 2023
+ H1 2022
+Geographical allocation
+Domestic
+118,971.8
+100,022.4
+20,983.8
+22,129.9
+139,955.6
+122,152.3
+Abroad
+11,262.2
+13,117.6
+264.2
+221.1
+11,526.4
+13,338.7
+Total
+130,234.0
+113,140.0
+21,248.0
+22,351.0
+151,482.0
+135,491.0
+Revenue generation
+Consultancy business
+23,413.8
+14,826.1
+2,955.0
+3,181.0
+26,368.8
+18,007.1
+Product business
+106,820.2
+98,313.9
+18,293.0
+19,170.0
+125,113.2
+117,483.9
+Total
+130,234.0
+113,140.0
+21,248.0
+22,351.0
+151,482.0
+135,491.0
+Recognition of sales revenue
+Over time
+36,163.9
+27,576.2
+11,691.8
+13,065.5
+47,855.7
+40,641.7
+At a point in time
+94,070.1
+85,563.8
+9,556.2
+9,285.5
+103,626.3
+94,849.3
+Total
+130,234.0
+113,140.0
+21,248.0
+22,351.0
+151,482.0
+135,491.0
+
+27
+Condensed Consolidated Interim Financial Statements
+
+28
+secunet | Half-Year Financial Report 2023
+Additional notes on financial instruments
+The carrying amounts and fair values of the financial instruments reported in the balance sheet are as follows:
+30 June 2023
+Carrying amounts
+in euros
+Mandatory 
+as FVTPL
+At amortised 
+cost
+Not allocated 
+to any IFRS 9 
+category 
+Financial­ 
+­liabilities at 
+amortised cost
+Financial assets measured at fair value
+Non-current financial assets
+0.00
+0.00
+6,561,293.90
+0.00
+Financial assets not measured at fair value
+Cash and cash equivalents
+0.00
+3,189,917.62
+0.00
+0.00
+Trade receivables
+0.00
+52,963,040.04
+0.00
+0.00
+Intercompany financial assets
+0.00
+442,575.88
+0.00
+0.00
+Other current and non-current assets
+0.00
+0.00
+0.00
+0.00
+0.00
+56,595,533.54
+0.00
+0.00
+Financial liabilities measured at fair value
+Other non-current liabilities
+8,491,643.00
+0.00
+0.00
+0.00
+Financial liabilities not measured at fair value
+Trade accounts payable
+0.00
+0.00
+0.00
+35,898,736.19
+Intercompany payables
+0.00
+0.00
+0.00
+236,086.75
+Other current and non-current liabilities
+0.00
+0.00
+0.00
+2,200,342.73
+0.00
+0.00
+0.00
+38,335,165.67
+
+29
+Condensed Consolidated Interim Financial Statements
+Carrying 
+amounts
+Fair value
+Total carrying 
+amounts
+Level 1
+Level 2
+Level 3
+Total 
+fair values
+6,561,293.90
+0.00
+6,561,293.90
+0.00
+6,561,293.90
+3,189,917.62
+0.00
+0.00
+0.00
+0.00
+52,963,040.04
+0.00
+0.00
+0.00
+0.00
+442,575.88
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+56,595,533.54
+0.00
+0.00
+0.00
+0.00
+8,491,643.00
+0.00
+0.00
+8,491,643.00
+8,491,643.00
+35,898,736.19
+0.00
+0.00
+0.00
+0.00
+236,086.75
+0.00
+0.00
+0.00
+0.00
+2,200,342.73
+0.00
+0.00
+0.00
+0.00
+38,335,165.67
+0.00
+0.00
+0.00
+0.00
+
+30
+secunet | Half-Year Financial Report 2023
+31 December 2022
+Carrying amounts
+in euros
+Mandatory 
+as FVTPL
+At amortised 
+cost
+Not allocated 
+to any IFRS 9 
+category 
+Financial­ 
+­liabilities at 
+amortised cost
+Financial assets measured at fair value
+Non-current financial assets
+0.00
+0.00
+6,549,879.00
+0.00
+Financial assets not measured at fair value
+Cash and cash equivalents
+0.00
+21,479,549.36
+0.00
+0.00
+Trade receivables
+0.00
+75,818,259.18
+0.00
+0.00
+Intercompany financial assets
+0.00
+304,018.98
+0.00
+0.00
+Other current and non-current assets
+0.00
+900,068.00
+0.00
+0.00
+0.00
+98,501,895.52
+0.00
+0.00
+Financial liabilities measured at fair value
+Other non-current liabilities
+11,143,643.00
+0.00
+0.00
+0.00
+Financial liabilities not measured at fair value
+Trade accounts payable
+0.00
+0.00
+0.00
+36,185,965.84
+Intercompany payables
+0.00
+0.00
+0.00
+79,789.82
+Current and non-current liabilities to banks
+0.00
+0.00
+0.00
+468,750.00
+Other current and non-current liabilities
+0.00
+0.00
+0.00
+2,091,397.47
+0.00
+0.00
+0.00
+38,825,903.13
+
+31
+Condensed Consolidated Interim Financial Statements
+Carrying 
+amounts
+Fair value
+Total carrying 
+amounts
+Level 1
+Level 2
+Level 3
+Total 
+fair values
+6,549,879.00
+0.00
+6,549,879.00
+0.00
+6,549,879.00
+21,479,549.36
+0.00
+0.00
+0.00
+0.00
+75,818,259.18
+0.00
+0.00
+0.00
+0.00
+304,018.98
+0.00
+0.00
+0.00
+0.00
+900,068.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+11,143,643.00
+0.00
+0.00
+11,143,643.00
+11,143,643.00
+36,185,965.84
+0.00
+0.00
+0.00
+0.00
+79,789.82
+0.00
+0.00
+0.00
+0.00
+468,750.00
+0.00
+468,750.00
+0.00
+468,750.00
+2,091,397.47
+0.00
+1,941,397.47
+0.00
+1,941,397.47
+38,825,903.13
+0.00
+2,410,147.47
+0.00
+2,410,147.47
+
+32
+secunet | Half-Year Financial Report 2023
+Related party disclosures
+The consolidated companies of secunet Group have dealings with the main shareholder 
+Giesecke + Devrient GmbH, Munich, and its affiliated companies in the course of their nor-
+mal business activities. Furthermore, the main shareholder is granted short-term loans. All 
+transactions are conducted in accordance with standard market terms.
+In the first six months of the 2023 financial year, no members of the Management Board were 
+promised or granted any benefits by a third party with regard to their activities as members of 
+the Management Board. In the first six months of the 2023 financial year, the members of the 
+Supervisory Board did not receive any further remuneration for services provided personally, 
+in particular consulting and agency services, beyond the remuneration of the Supervisory 
+Board regulated in the Articles of Association of ­secunet Security Networks AG. The employee 
+representatives on the Supervisory Board receive remuneration at a normal market rate for 
+their work. Neither the members of the Management Board nor the members of the Super-
+visory Board receive any loans from the Company.
+Events after the end of the interim reporting period
+There were no significant events after the balance sheet date.
+Essen, 9 August 2023
+Axel Deininger	
+Torsten Henn
+Dr Kai Martius	
+Thomas Pleines
+
+33
+Condensed Consolidated Interim Financial Statements
+Responsibility Statement
+“To the best of our knowledge, and in accordance with the applicable reporting principles for 
+interim financial reporting, the Consolidated Interim Financial Statements give a true and fair 
+view of the assets, liabilities, financial position and results of operations of the Group, and the 
+Interim Group Management Report includes a true and fair presentation of the development 
+and performance of the business and the position of the Group, together with a description 
+of the principal opportunities and risks associated with the expected development of the 
+Group for the remainder of the financial year.”
+Essen, 9 August 2023
+Axel Deininger	
+Torsten Henn
+Dr Kai Martius	
+Thomas Pleines
+
+34
+secunet | Half-Year Financial Report 2023
+Review Report
+To secunet Security Networks Aktiengesellschaft, Essen
+We have reviewed the Condensed Consolidated Interim Financial Statements – compris-
+ing the consolidated balance sheet, the consolidated income statement, the consolidated 
+statement of comprehensive income, the consolidated cash flow statement, the consoli-
+dated statement of changes in equity and selected explanatory notes – and the Interim 
+Group Management Report of ­secunet Security Networks Aktiengesellschaft, Essen, for the 
+period from 1 January 2023 to 30 June 2023, which are integral parts of the Half-Year Report 
+pursuant to Article 115 of the German Securities Trading Act (Wertpapierhandelsgesetz, 
+WpHG). The preparation of the Condensed Consolidated Interim Financial Statements in 
+accordance with the IFRS applicable to interim financial reporting as adopted by the EU 
+and of the Interim Group Management Report in accordance with the requirements of the 
+German Securities Trading Act (WpHG) applicable to interim group management reports is 
+the responsibility of the Company’s Management Board. Our responsibility is to issue a review 
+report on the Condensed Consolidated Interim Financial Statements and the Interim Group 
+Management Report based on our review. 
+We conducted our review of the Condensed Consolidated Interim Financial Statements and 
+the Interim Group Management Report in accordance with the German Generally Accepted 
+Standards for Financial Statement Audits as promulgated by the Institut der Wirtschafts-
+prüfer (IDW). These standards require that we plan and perform the review in such a way that 
+we can preclude, through critical appraisal and with reasonable assurance, that the Con-
+densed Consolidated Interim Financial Statements have not been prepared, in all material 
+respects, in accordance with the IFRS applicable to interim financial reporting as adopted 
+by the EU, and that the Interim Group Management Report has not been prepared, in all 
+material respects, in accordance with the provisions of the German Securities Trading Act 
+(WpHG) applicable to interim group management reports. A review is essentially limited to 
+the questioning of Company personnel and analytical assessments and therefore does not 
+provide the same assurance as is attainable in a financial statement audit. Since, in accord-
+ance with our mandate, we have not performed an audit of the financial statements, we 
+cannot issue an audit opinion. 
+Based on our review, no matters have come to our attention that cause us to presume that 
+the Condensed Consolidated Interim Financial Statements have not been prepared, in all 
+material respects, in accordance with the IFRS applicable to interim financial reporting as 
+adopted by the EU or that the Interim Group Management Report has not been prepared, 
+in all material respects, in accordance with the provisions of the German Securities Trading 
+Act (WpHG) applicable to interim group management reports.
+Essen, 9 August 2023
+BDO AG 
+Wirtschaftsprüfungsgesellschaft
+Marc Fritz	
+Dr Marcus Falk 
+Wirtschaftsprüfer	
+Wirtschaftsprüfer
+(German Public Auditor)	
+(German Public Auditor)
+
+35
+Condensed Consolidated Interim Financial Statements
+
+36
+secunet | Half-Year Financial Report 2023
+Essen
+Bonn Siegen
+Frankfurt
+Ilmenau
+Munich
+Dresden
+Berlin
+Hamburg
+Hanover
+Paderborn
+Stuttgart
+Service
+Locations
+Headquarters Essen
+secunet Security Networks AG
+Kurfürstenstraße 58
+45138 Essen
+Phone: + 49 201 54 54 - 0
+Fax: + 49 201 54 54 - 1000
+Berlin
+secunet Security Networks AG
+Alt-Moabit 96
+10559 Berlin
+Berlin
+SysEleven GmbH
+Boxhagener Straße 80
+10245 Berlin
+Bonn
+secunet Security Networks AG
+Dreizehnmorgenweg 6
+53175 Bonn
+Dresden
+secunet Security Networks AG
+Ammonstraße 74
+01067 Dresden
+Frankfurt
+secunet Security Networks AG
+Mergenthalerallee 77
+65760 Eschborn
+Hamburg
+secunet Security Networks AG
+Osterbekstraße 90 b
+22083 Hamburg
+Hanover
+stashcat GmbH
+Schiffgraben 47
+30175 Hanover
+Ilmenau
+secunet Security Networks AG
+Werner-von-Siemens-Straße 6
+98693 Ilmenau
+Munich
+secunet Security Networks AG
+Konrad-Zuse-Platz 2 – 12
+81829 Munich
+Paderborn
+secunet Security Networks AG
+Hauptstraße 35
+33178 Borchen
+Siegen
+secunet Security Networks AG
+Weidenauer Straße 223 – 225
+57076 Siegen
+Stuttgart
+secunet Security Networks AG
+Neue Brücke 3
+70173 Stuttgart
+Training Center Dresden
+secunet Security Networks AG
+Ammonstraße 74
+01067 Dresden
+
+37
+Service
+Financial  
+Calendar 
+10 August
+Half-Year Financial Report  
+as at 30 June 2023
+9 November
+Group Quarterly Statement  
+as at 30 September 2023
+Imprint
+Issued by
+secunet Security Networks AG
+Kurfürstenstraße 58
+45138 Essen
+Phone: 	+ 49 201 54 54 - 0
+e-mail:	info@secunet.com
+www.secunet.com
+Investor Relations
+Phone:	+ 49 201 54 54 - 3937
+e-mail:	investor.relations@secunet.com
+Press
+Phone:	+ 49 201 54 54 - 1234
+e-mail:	presse@secunet.com
+Concept, design and setting
+sam waikiki GbR, Hamburg
+www.samwaikiki.de
+Text
+secunet Security Networks AG
+Information
+This financial report contains statements 
+regarding the future performance of ­secunet 
+Group, as well as economic and political 
+developments. These statements are opin-
+ions that we have formed based on the 
+information currently available to us. Should 
+the assumptions on which these statements 
+are based not be applicable or should fur-
+ther risks arise, the actual results may devi-
+ate from the results currently expected. We 
+cannot therefore offer any guarantee as to 
+the accuracy of these statements. 
+Due to rounding, it is possible that individ-
+ual figures in this financial report may not 
+add up precisely to the totals provided and 
+percentages presented may not accurately 
+reflect the absolute values to which they 
+relate.
+For better readability, we use only the gram-
+matically masculine form in this financial 
+report. References to persons always apply 
+to all genders involved: male, female, diverse.
+All the brand and trade names or product 
+names mentioned in this financial report are 
+the property of the corresponding holder. 
+This applies in particular for DAX, MDAX, 
+SDAX, TecDAX and Xetra as registered trade-
+marks and property of Deutsche Börse AG.
+This financial report was published on 
+10  August 2023. It is available in German 
+and English. Both versions are available for 
+download at www.secunet.com. The German 
+version is legally binding in cases of doubt. 
+
+secunet Security Networks AG
+Kurfürstenstraße 58
+45138 Essen
+Phone:	
++ 49 201 54 54 - 0
+Fax:	
++ 49 201 54 54 - 1000
+e-mail:	
+info@secunet.com
+Internet:	 www.secunet.com

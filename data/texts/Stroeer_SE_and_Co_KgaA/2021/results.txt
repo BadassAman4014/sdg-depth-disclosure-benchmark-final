@@ -1,0 +1,4372 @@
+a
+SUSTAINABILITY REPORT 2021
+STRÖER SE & CO. KGAA
+
+b
+1 | Introduction
+01
+2 | Foreword by the Supervisory Board ESG officer
+03
+3 | About Ströer
+04
+4 | 	Sustainability at Ströer
+05
+4.1 Central frameworks
+05
+4.2 Materiality analysis and reporting topics
+05
+4.3 EU taxonomy
+07
+4.4 Stakeholder dialogue
+08
+4.5 2030 Sustainability Strategy
+09
+4.6 Sustainability organization
+11
+5 | Environment: Becoming climate neutral
+12
+5.1 Environmental management
+12
+5.2 Climate strategy
+12
+5.3 Advertising media
+15
+5.4 Fleet and business travel
+16
+5.5 Sustainable office
+16
+5.6 Commuting by employees
+16
+5.7 Materials management
+17
+6 | Employees: Focus on people
+18
+6.1 HR management
+19
+6.2 Knowledge and involvement
+21
+6.3 Diversity
+21
+6.4 Staff development
+22
+6.5 Fair working conditions
+23
+6.6 Health and safety
+24
+6.7 Voluntary employee benefits
+25
+7 | Business partners and society: Sustainable solutions
+26
+7.1 Advertising media and street furniture
+26
+7.2 Posters that benefit the environment
+28
+7.3 Reach for sustainability topics
+29
+7.4 Pro bono advertising
+29
+7.5 Product stewardship
+30
+7.6 Sustainable supply chain and human rights  
+32
+7.7 Corporate citizenship
+34
+8 | Governance: Acting in a way that builds trust
+35
+8.1 Corporate governance
+35
+8.2 Governance, risk & compliance system
+41
+8.3 Information security
+42
+8.4 Data protection
+43
+8.5 Compliance
+44
+8.6 Other areas of GRC
+46
+8.7 Political relationships
+46
+9 | Formal sustainability communication
+48
+9.1 About this report
+48
+9.2 GRI content index
+49
+9.3 Further notes
+52
+CONTENT
+
+1
+Introduction 
+1 | INTRODUCTION 
+Dear reader,
+dear shareholder,
+[102-14] [103-1] 2021 was a successful year for the Ströer Group, despite the challenges cre-
+ated by the COVID-19 pandemic. Overall, we either achieved our financial targets or even 
+slightly exceeded them. We were equally successful in the pursuit of our goals to improve 
+sustainability performance.
+Making our out-of-home advertising portfolio more environmentally friendly by digitalizing 
+our advertising media played an important role in this. Consumption of materials (paper 
+and adhesive) has been continuously and significantly reduced in comparison to traditional 
+advertising, along with the travel involved in changing the posters, and disposal of the waste. 
+At the time of the publication of this report, we cover the energy requirements of our approx-
+imately 6,100 digital advertising media with around 7,800 displays mainly with zero emission 
+green energy.
+We are also switching to green electricity in many other areas, and the transition is largely 
+complete. Where advertising campaigns run by Ströer produce unavoidable greenhouse gas 
+emissions, they are offset through certified climate change mitigation projects. 
+Year by year, our portfolio of products and services is also becoming more sustainable. For 
+example, after years of development work, the giant posters of our subsidiary blowUP Media 
+are now made entirely of recyclable materials – and they even clean the air. 
+Ströer is signaling its strong commitment to responsible advertising through strict internal 
+policies. We have also supported hundreds of community projects and initiatives in recent 
+years with our reach and a media volume of more than EUR 20m per year. We provided a 
+substantial amount of advertising space pro bono in 2021, too, including for the UN chil-
+dren’s organization UNICEF. We are also aware of our responsibility as an employer. Mindful 
+of the changes to working conditions and processes brought about by the global pandemic 
+that lasted for more than two years, we care about the wellbeing of our employees and we 
+recently carried out a [403-4] staff survey to evaluate the physical stress and, especially, the 
+mental stress suffered during the COVID-19 pandemic.
+The positive results of the study show that we were able to alleviate much of the stress 
+and strain for our employees through our corporate culture and our straightforward and 
+open communication about the measures we were taking. We also reaped the benefits of 
+Ströer’s efforts to make HR processes leaner and more efficient through standardization and 
+automation. This work, which has been going on for a long time, enabled us to focus more 
+intensively on supporting our employees, and having the right technical setup made flexible 
+working far easier.
+
+2
+Introduction 
+Good corporate governance is a key element of our ESG strategy and reflects the importance 
+of sustainability to the Company. The Supervisory Board of our general partner, which is re-
+sponsible for Board of Management remuneration, updated the remuneration system for the 
+Board of Management to explicitly take account of ESG-related components. The Supervisory 
+Board of the general partner also established a Remuneration Committee at its meeting on 
+June 22, 2022. A further important element of the Supervisory Board’s work was its increased 
+focus on sustainability topics. During the year under review, the Supervisory Board of Ströer 
+SE & Co. KGaA added ESG to the competencies of its Audit Committee and appointed an 
+ESG officer of the Supervisory Board of Ströer SE & Co. KGaA to the Audit Committee. The 
+Supervisory Board of our general partner also included ESG topics in the allocation of Board 
+of Management responsibilities and appointed an ESG officer at Board of Management level. 
+To make processes even more robust and efficient, the Governance, Risk & Compliance Man-
+agement unit introduced even more far-reaching and detailed oversight structures in 2021.
+We have already achieved many important milestones in recent years, with the support of 
+our employees, and we still have many more plans. The commitment and dedication of our 
+staff will enable us to achieve the goals we have set ourselves. We invite you to join us on 
+our journey, and also to talk to us. Your suggestions are welcome and will contribute to the 
+sustainable development and growth of Ströer.
+We hope you find this report informative.
+On behalf of the general partner
+Udo Müller | Christian Schmalzl | Dr. Christian Baier  | Henning Gieseke
+from left:
+Henning Gieseke
+CFO
+Ströer Management SE
+Udo Müller 
+Gründer/Co-CEO
+Ströer Management SE
+	
+Christian Schmalzl 
+Co-CEO
+Ströer Management SE	
+Dr. Christian Baier
+COO
+Board of Management
+ESG Officer 
+Ströer Management SE
+
+3
+Foreword by the Supervisory Board ESG officer 
+2 | 	FOREWORD BY THE SUPERVISORY BOARD  
+	
+ESG OFFICER OF STRÖER SE & CO. KGAA 
+Dear reader,
+[102-14, 102-15] [103-1] Sustainability is an increasingly important factor for investors when 
+making investment decisions and when setting financing terms. There is also growing public 
+awareness of sustainability, particularly in relation to issues such as climate change, working 
+conditions, social aspects, and governance. Opportunities, aspirations, and the realities at 
+companies then quickly become the focus of interest and heated debate.
+In light of these developments, and particularly because of the public awareness and impor-
+tance of sustainability, policymakers at national and international level are also increasingly 
+focusing on ESG topics (environment, society, and governance). The European Union’s Green 
+Deal and taxonomy, combined with new reporting obligations, have created environment- 
+related requirements that will involve a significant amount of work to implement.
+The Commission of the European Union is currently working on new standards for the social 
+aspect of ESG, which companies will have to comply with in the future. Requirements relating 
+to corporate governance are already a key part of national legislation and business practice 
+and are reflected in regulations such as the German Corporate Governance Code, the General 
+Data Protection Regulation, and the Supply Chain Due Diligence Act – to name just the most 
+important.
+All these initiatives and rules create sometimes far-reaching requirements and obligations, 
+both substantive and procedural, although none of this is new to Ströer which has been 
+working intensively on sustainability for a number of years as part of its day-to-day business 
+operations. Continuous improvement is the watchword here. The next step will be for Ströer 
+to tackle the details, i.e. sustainability structures and transparency. In 2021, the Company 
+made significant progress on a number of key points, as described by the general partner in 
+its introduction above.
+The Supervisory Board of Ströer SE & Co. KGaA believes that a great deal has been achieved 
+at the various work levels over the past two years. New business strategies with a strong 
+focus on sustainability have been formulated and successfully implemented. New competen-
+cies have been created for sustainable practices and the reporting on them. Ambitious, yet 
+realistic goals have been set and the resources necessary to achieve them have been made 
+available.
+Ströer’s business operations will be carbon-neutral by 2025 at the latest, which is significant-
+ly earlier than the deadline set by the member states of the European Union for this target 
+(2050). In addition to this environmental goal, Ströer has also set sustainability targets for its 
+product portfolio, for HR, and for the corporate governance system, and has drawn up action 
+plans to achieve them.
+Ströer’s current sustainability performance is at a high to very high level. Further improve-
+ments will inevitably be both on a smaller scale and more challenging. I have no doubt that 
+Ströer will rise to these challenges with energy and determination.
+Martin Diederichs
+Supervisory Board ESG Officer
+Ströer SE & Co. KGaA
+
+4
+About Ströer
+3 | ABOUT STRÖER 
+[102-1, 102-2, 102-3, 102-4, 102-6, 102-7, 102-10] Ströer SE 
+& Co. KGaA, a listed German company with its headquarters 
+in Cologne, is a leading provider of out-of-home and online 
+advertising in Germany as well as all forms of dialogue mar-
+keting. It also operates ‘data as a service’ services (DaaS) 
+under the Statista brand and an online cosmetics store under 
+the AsamBeauty brand. In 2021, the Ströer Group generated 
+just under 90% of its revenue in Germany; other key sales 
+markets were the USA, France, and Poland.
+Ströer’s core business is out-of-home (OOH) media – including 
+all forms of digital out-of-home advertising (DOOH). In 
+the out-of-home business, Ströer uses around 300,000 
+advertising media in Europe, predominantly in Germany. The 
+service offering includes traditional formats, such as posters 
+or screens and projectors, and digital formats featuring 
+LED/LCD screens. The out-of-home advertising business 
+has a diversified portfolio of contracts with private and 
+public-sector owners of land and buildings that give Ströer 
+advertising concessions for high-traffic sites.
+In the Digital & Dialog Media segment, Ströer provides 
+solutions for the marketing of online advertising in the 
+context of proprietary and third party content. The scalable 
+products marketed on this basis range from branding and 
+storytelling to performance, native advertising, and social 
+media. The websites include 
+www
+ t-online.de and watson.de 
+as well as special interest portals such as giga.de, familie.de, 
+desired.de, and kino.de. Ströer Digital Media GmbH is ranked 
+the number one digital marketer in Germany by the German 
+Association of Online Research (AGOF), making it one of the 
+most important display and mobile marketers in the German 
+advertising market. 
+The Digital & Dialog Media segment also encompasses 
+the companies Ströer X and the Ranger Group. Ströer X 
+is responsible for dialogue marketing within the Group 
+and is one of the largest providers of call center capacity 
+in Germany. The Ranger Group is a field sales specialist, 
+providing direct sales services. Finally, the Statista and 
+AsamBeauty brands operate in the DaaS and e-commerce 
+sectors respectively. 
+The 
+www
+ 2021 Annual Report of Ströer SE & Co. KGaA contains 
+detailed information on the business model, the organizational 
+structure, and additional key financial indicators.
+[102-7] Key indicators for the Ströer Group
+EUR m
+2019
+2020
+2021
+Revenue*
+1,591.1
+1,442.2
+1,627.3
+EBITDA (adjusted)*
+538.3
+452.8
+513.3
+Consolidated profit or loss for the period*
+105.9
+48.2
+130.3
+Market capitalization (Dec. 31) 
+4,076.3
+4,588.4
+3,928.7
+Number of employees  
+12,210
+10,003
+10,079
+* From continuing operations
+
+5
+Sustainability at Ströer
+[102-15] [103-1, 103-2] Ströer has long adopted sus-
+tainable practices, based on the conviction that sus-
+tainability and business success go hand in hand. 
+Efficiency, innovation, and responsibility are guiding 
+principles that shape all sustainability activities at 
+Ströer. Sustainable strategies and practices have been 
+continuously extended and developed in recent years, 
+strengthening Ströer’s future competitiveness and en-
+abling it to meet the higher standards demanded by 
+stakeholders and lawmakers.
+4.1 Central frameworks
+[102-12, 102-16] As a company based in Germany, Ströer 
+supports the multilateral frameworks in the area of sustain-
+ability that have been ratified by the federal government – 
+such as the United Nations Guiding Principles on Business 
+and Human Rights and the fundamental conventions of the 
+International Labour Organization. They are reflected in 
+Ströer’s key regulations, in particular the 
+www
+ Code of Con-
+duct, the Ströer Social Charter ( 
+ chapter 6.5), and the 
+www
+ Code of Conduct for Suppliers and Business Partners 
+( 
+ chapter 7.6).
+Ströer is committed to the UN’s 17 sustainable development 
+goals (SDGs). The Group plays its part in helping to achieve 
+the goals of the 2030 international sustainability agenda 
+and the related national sustainability strategy of the federal 
+government. 
+ Chapter 4.2 contains a table in which Ströer 
+sets out in transparent form the relevant SDGs and what the 
+Group is doing to help achieve them.
+Ströer is also committed to the principles of the UN Global 
+Compact, which provide a guideline for the Company’s sus-
+tainability activities, and to the ‘1.5 degree target’ of the 
+2015 UN climate conference (COP 21).
+4.2 Materiality analysis and reporting topics
+[102-46, 102-47] A systematic evaluation process is used to 
+identify the material topics addressed in this sustainabili-
+ty report. This process was last carried out in 2021 during 
+preparations for the Group non-financial report of Ströer SE 
+& Co. KGaA. 
+The first stage involved drawing up a list of potential mate-
+rial topics using the Global Reporting Initiative (GRI) stan-
+dards and conducting an analysis of the most important sus-
+tainability ratings. This approach prioritized topics that are 
+relevant to the sector and Ströer in particular. Based on this 
+list of topics, all relevant business segments of Ströer were 
+asked to assess the impact of the topics on their business, 
+and the effect of the business on stakeholders and the envi-
+ronment (‘double materiality’).
+The results of this survey were then evaluated in internal 
+follow-up workshops in which representatives of the depart-
+ments responsible for those topics that were considered to 
+be material took part. 
+External expectations of stakeholders were also fed into the 
+process from various sources. In particular, relevant current 
+and forthcoming regulations, sustainability ratings, and 
+stakeholder concerns that had been brought to the attention 
+of Ströer or the sector during the year under review were 
+addressed. 
+4 | SUSTAINABILITY AT STRÖER 
+
+6
+Sustainability at Ströer
+This produced a total of eleven material topics as defined in 
+the GRI guideline. These are shown in the highlighted fields 
+2021 STRÖER MATERIALITY MATRIX
+RELEVANCE TO STAKEHOLDERS
+RELEVANCE TO STRÖER
+very high
+high
+medium
+medium
+high
+very high
+ Materials & waste
+ 
+ 
+Biodiversity
+ 
+ 
+Water
+ Sustainable products
+ Corporate citizenship
+ Voluntary employee 
+benefits
+ Climate action 
+ Sustainable supply chain 
+& human rights
+ Compliance
+ Diversity & equality
+ Product stewardship
+ Information security
+ Data protection
+ Corporate governance
+ Fair working conditions
+ Health and safety
+	Training & staff 
+ development
+Attribution to ESG dimensions  
+ 
+ 
+Environment    
+ 
+ 
+Social    
+ 
+ 
+Governance
+Four more material topics were identified in addition to 
+those included in the Group non-financial report of Ströer SE 
+& Co. KGaA for the 2021 financial year:
+•	
+Climate action and sustainable supply chain & human 
+rights are also included in the report, due to their high 
+regulatory and social importance and the requirements 
+of ESG ratings.
+•	
+The internal survey carried out in 2021 identified the 
+topics of product stewardship and corporate governance 
+as material. However, they were not included in the 
+Group non-financial report because the CSR Directive 
+Implementation Act (sections 289b-e and section 315b-c 
+of the German Commercial Code (HGB)) does not require 
+information on these matters. 
+The topics of information security, compliance, and data 
+protection are presented in the overall context of Ströer’s 
+governance, risk & compliance system. In addition to the 
+eleven material topics identified, the report also deals with 
+materials and waste, sustainable products, and corporate 
+citizenship, in order to present an overall strategic picture of 
+the Company’s sustainability activities. 
+Financial aspects of Ströer’s business performance are pub-
+lished in the 
+www
+ Annual Report. This sustainability report 
+also contains references to other Ströer documents that go 
+into more depth on sustainability matters and the related 
+activities of the Group.
+of the 2021 Ströer materiality matrix:
+
+7
+Sustainability at Ströer
+[103-1, 103-2, 103-3] Summary of sustainability topics reported on in 2021
+Topic
+Sustainable development goals (SDG) of the UN
+Chapter
+Climate action
+  
+  
+  
+5.2–5.6
+Materials and waste
+5.7
+Fair working conditions
+  
+  
+  
+6.5
+Diversity and equality
+  
+6.3
+Health and safety
+  
+6.6
+Training and development
+  
+6.4
+Sustainable products
+  
+  
+  
+7.1–7.4
+Product stewardship
+  
+  
+ 
+7.5
+Sustainable supply chain and human rights
+  
+  
+7.6
+Corporate Citizenship
+  
+  
+  
+  
+7.4, 7.7
+Information security
+  
+8.3
+Data protection
+  
+8.4
+Compliance (incl. corruption & bribery)
+8.5
+Corporate governance
+  
+8.1
+4.3 EU taxonomy
+The disclosure requirements of the Taxonomy Regulation 
+(EU) 2020/852 (‘Regulation’) have applied to the areas of 
+climate change mitigation and adaptation since the start of 
+2021. Ströer has established an evaluation process to check 
+each year whether Ströer’s business activities are subject to 
+the disclosure requirement in accordance with the current 
+version of the Regulation and to implement measures for 
+any business activities that have to be reported on under 
+the Regulation. For 2021, this analysis revealed that Ströer’s 
+business activities do not at present fall within the current 
+scope of disclosable activities under the EU taxonomy. As 
+things currently stand, neither the NACE codes on which 
+the EU taxonomy is based nor the descriptions of taxonomy- 
+eligible business activities correspond to the business seg-
+ments of the Ströer Group. The Group 
+www
+ Non Financial 
+Report of Ströer SE & Co. KGaA for the 2021 financial year 
+contains more information on this.
+
+8
+Sustainability at Ströer
+4.4 Stakeholder dialogue
+[102-13, 102-42, 102-43] The collaborative partnership be-
+tween Ströer and its stakeholders is critical to the Compa-
+ny’s success. Ströer therefore maintains regular dialogue 
+with various stakeholder groups in order to find out what 
+their concerns are and also to set out its own position. Cus-
+tomers, investors, employees, lessors, and suppliers are the 
+key stakeholders. Ströer also engages in dialogue with com-
+petitors and socio-political stakeholders through its mem-
+bership of trade associations, including Fachverband Auss-
+enwerbung e.V., City- und Stadtmarketing Deutschland e.V., 
+the newly founded Institute for Digital Out of Home Media 
+(IDOOH), and the German Association for the Digital Econo-
+my (Bundesverband Digitale Wirtschaft e.V.).
+The selection of stakeholders of relevance to Ströer is based 
+on current definitions of internal and external stakeholder 
+groups. These were then prioritized in coordination with 
+the departments and according to their importance to 
+Ströer’s business, and the key topics for the stakeholders 
+were identified. 
+[102-40, 102-44] Summary of stakeholder dialogue
+Stakeholder group
+Topics and interests
+Dialogue formats (selection)
+Customers
+• 	Quality in service provision
+• 	Customized solutions
+• 	Green products and sustainable content
+• 	Direct dialogue with customer relationship 
+managers  
+• 	Trade fairs  
+• 	Readers advisory council and user labs (t-online)
+Investors
+• 	Positive business performance
+• 	Low volatility and reduction of avoidable  
+ESG risks
+• 	Transparency
+• 	Direct dialogue
+• 	Capital markets day
+• 	Virtual roadshows
+• 	Quarterly reporting
+Employees
+• 	Development opportunities
+• 	Individual working models and diversity
+• 	Fair working conditions
+• 	Sustainable employer
+• 	Recruitment events
+• 	Intranet and internal information events
+• 	Sustainability workshop
+Lessors
+• 	Contract compliance  
+• 	Installation of the advertising spaces without 
+disruption to the surrounding area
+• 	Sustainable partner
+• 	Direct dialogue 
+• 	Municipal events
+Suppliers and 
+business partners
+• 	Trust-based cooperation 
+• 	Fair and compliant tendering conditions
+• 	Low ESG risks 
+• 	Sustainable supply chain 
+• 	Direct dialogue 
+• 	Trade fairs
+
+9
+Sustainability at Ströer
+4.5 2030 Sustainability Strategy
+[102-15] Ströer’s 2030 Sustainability Strategy is a roadmap 
+that sets out how the Company intends to improve its sus-
+tainability performance in the areas of environment, social, 
+and governance over the coming years. In 2021, Ströer fur-
+ther developed the strategic framework and the underlying 
+targets. As well as sharpening the understanding of sustain-
+ability within the Company, there were two fundamental 
+changes. Firstly, the 15 strategic targets were grouped into 
+a new target system; the associated changes are set out in 
+this chapter in the table headed ‘Adjustment of the current 
+targets’. Secondly, the social aspect is now divided into 
+two pillars: employees, and business partners and society. 
+Areas requiring action were prioritized for each of the four 
+strategic pillars and, based on this, focal points and four 
+cross-functional targets were defined. This report describes 
+the progress in the areas of action that are relevant in terms 
+of achieving the targets.  
+Ströer's 2030 sustainability strategy
+Environment
+Employees
+Business partners & 
+society
+Governance
+On the way to becoming 
+carbon-neutral
+Focus on people
+Sustainable solutions
+Acting in a way that 
+builds trust
+Target: carbon-neutral 
+by 2025
+Target: ensure the 
+quality of our HR work
+Target: expand 
+sustainable solutions
+Target: enhance our 
+governance systems
+Strategic pillars
+Areas for action
+Consumption of 
+advertising media
+HR management
+Advertising media & 
+street furniture
+Corporate governance
+Fleet & business travel
+Knowledge & involvement
+Posters that benefit the 
+environment
+Information security
+Sustainable office
+Diversity
+Reach for sustainability 
+topics
+Data protection
+Employee commutes
+Development
+Pro-bono advertising
+Compliance
+Materials management
+Fair working conditions
+Product stewardship
+Internal audit
+Health & safety
+Supply chain & 
+human rights
+Internal control system
+Risk management
+
+10
+Sustainability at Ströer
+OUR PERSPECTIVE
+Sustainability as a key to business success: Ströer 
+is a modern family business in the best sense. We com-
+bine enterprise and the drive to grow our processes and 
+products sustainably through innovation and contin-
+uous improvement. We prefer to think in decades, not 
+quarters. We see the global transition toward a sus-
+tainable economy as a driving force that we can use to 
+secure our own business success in tomorrow’s world.
+Responsibility for the impact on people and the 
+environment: Ströer is at the heart of society. Our 
+products are an integral part of daily life and shape the 
+urban landscape. They also give us a wide audience 
+for relevant topics and content. We currently employ 
+around 10,000 people. Responsibility for the impact our 
+business activity has on people and the environment 
+is therefore central to our corporate philosophy. The 
+interests of our shareholders and stakeholders are an 
+important yardstick that we take very seriously. 
+Joining forces to get things done: Ströer has many 
+faces. We bring together the perspectives of various 
+segments, subsidiaries, and the people who work for us. 
+Diversity, personal responsibility, and a can-do mental-
+ity are part of our shared DNA and make Ströer as a 
+whole strong. We use our strength to push ahead with 
+sustainable changes in the Company wherever they are 
+needed.
+OUR APPROACH
+Sustainability as an integral addition to our busi-
+ness strategy: Our sustainability strategy takes the 
+content and priorities of the business strategy and syste-
+matically supplements them with sustainability aspects.
+Efficiency, innovation, and responsibility as gui-
+ding principles for our actions: When developing 
+targets and action plans in the area of sustainability, we 
+are always guided by the principles of efficiency, innova-
+tion, and responsibility. This ensures that our sustainabi-
+lity activities are consistent with our business strategy.
+Group targets in four sustainability areas: We have 
+set strategic goals and priorities at Group level in the 
+areas of environment, employees, business partners 
+and society, and governance. We are also optimizing 
+our sustainability performance in all four areas. We re-
+gularly report to our shareholders on our progress and 
+potential hurdles.
+Sustainability is embedded at Board of Manage-
+ment level & involves all relevant business areas: 
+Sustainability is embedded at Board of Management le-
+vel at Ströer. The Sustainability Council is an overarching 
+steering committee that comprises decision-makers 
+from all relevant business areas and departments, who 
+are responsible for the implementation and the specific 
+design of sustainability activities in their areas.
+2030 SUSTAINABILITY STRATEGY
+
+11
+Sustainability at Ströer
+Changes to the target system
+[102-48] The 15 sustainability goals formulated in 2019 were 
+compared against the progress made so far and the changes 
+made to the strategic framework. The results of this analy-
+sis were then used to form a three-stage hierarchy of goals, 
+sub-goals and targets, which in turn was used to group the 
+previous targets into the four new strategic pillars. Two of the 
+previous targets were dropped. The areas where adjustments 
+are needed are shown below.
+[TCFD] Redefinition of previous targets  
+Previous targets
+Definition under the new 
+system of goals and targets
+Environment
+• 	Climate neutral by 2025
+• 	Unchanged, goal  
+• 	25% reduction in the 
+energy consumption of LED 
+screens by 2025
+• 	Unchanged, sub-goal
+• 	Significant increase in  
+the proportion of  
+sustainable materials used 
+in advertising media
+• 	Unchanged, sub-goal  
+Employees
+• 	Automation of administra-
+tive processes
+• 	Unchanged, target  
+• 	Extension of Flex Work
+• 	Unchanged, target  
+Business partners & society
+• 	Climate-neutral advertising 
+solutions
+• 	Unchanged, target  
+• 	Additional functionality in 
+street furniture (Smart City)
+• 	Unchanged, target  
+• 	Pro bono advertising 
+services
+• 	Unchanged, target  
+• 	Extension of sustainability-
+related content on t-online 
+and watson
+• 	Unchanged, target  
+• 	Provide infrastructure for 
+additional sustainability 
+services
+• 	Unchanged, target  
+Governance
+• 	Systematization of cyber-
+security management
+• 	Unchanged, target  
+• 	Systematization of data 
+protection management
+• 	Unchanged, target  
+• 	Fulfill profile of skills and 
+expertise for the  
+Supervisory Board
+• 	Unchanged, target  
+• 	Set up sustainability  
+workshop
+Target achieved: Current  
+measures will be continued 
+under the ‘Employees’ pillar
+• 	Improve sustainability 
+performance and external 
+ratings
+Now not just a specific target, 
+but a fundamental  
+requirement of all Ströer’s  
+sustainability activities
+4.6 Sustainability organization
+[102-20, 102-32] During the year under review, Chief Oper-
+ating Officer (COO) Christian Baier, member of the Board 
+of Management of the general partner, was responsible for 
+sustainability matters. The head of Sustainability Manage-
+ment reported directly to the COO and was responsible for 
+the coordination and implementation of cross-functional 
+sustainability matters in the holding company.
+From mid-2022, the Chief Financial Officer (COO) Henning 
+Gieseke, member of the Board of Management of the general 
+partner, will assume responsibility for all sustainability mat-
+ters. From that point onward, responsibility for the coordina-
+tion and implementation of overarching sustainability mat-
+ters passes to the head of Investor Relations and is integrated 
+into sustainability management within Investor Relations.
+The Sustainability Council of Ströer will remain the central 
+steering committee, meeting every two months. The com-
+mittee comprises decision-makers from all relevant divisions 
+and departments of Ströer. They are responsible for the im-
+plementation and the specific design of sustainability activ-
+ities in their divisions. Dedicated sustainability-related roles 
+have also been created in the large subsidiaries AsamBeauty 
+and Statista. The sustainability management team works 
+directly with the relevant divisions and subsidiaries to co-
+ordinate measures to achieve the sustainability targets that 
+apply to all divisions and companies across the Group.
+[103-3] The ESG officer on the Ströer SE & Co. KGaA Super-
+visory Board is responsible for overall monitoring of Ströer’s 
+sustainability performance. As a member of the Supervisory 
+Board and of the Audit Committee, the ESG officer ensures 
+that regulatory requirements and strategically relevant sus-
+tainability matters are implemented appropriately by the 
+general partner. The ESG officer puts sustainability matters 
+forward at the meetings of the Audit Committee and Super-
+visory Board of Ströer SE & Co. KGaA, and makes sure that 
+the sustainability targets and related measures are continu-
+ously monitored. This structure ensures that the sustainabil-
+ity targets and their achievement, the materiality analysis, 
+and the reporting on sustainability are regularly and exten-
+sively discussed by the Supervisory Board of Ströer SE & Co. 
+KGaA at the Audit Committee meetings and, where neces-
+sary, at regular Supervisory Board meetings.
+
+12
+Environment: Becoming climate neutral
+5.1 Environmental management
+Ströer aims to avoid negative environmental impacts or, 
+where avoidance is not immediately possible, to continuously 
+reduce them. As a company headquartered in Germany, 
+Ströer’s environmental management complies with applica-
+ble national statutory provisions that stipulate requirements 
+for areas such as operational environmental protection, the 
+selection and disposal of materials, and nature conservation. 
+Ströer also requires its suppliers to meet similar environmen-
+tal management standards via its Code of Conduct for Sup-
+pliers and Business Partners ( 
+chapter 7.6).
+The Sustainability Council has overarching responsibility for 
+environmental management at Ströer. It meets regularly to 
+hear reports on current environment-related topics and mea-
+sures within the business. The member of the Board of Man-
+agement responsible for sustainability at Ströer chairs the 
+council and brings matters potentially requiring a decision 
+to the Board of Management. Decisions are implemented by 
+the relevant divisions and departments. The sustainability 
+management team provides support in tracking the mea-
+sures and acts as a link between the steering organization 
+and the implementing organization.
+Because Ströer focuses on out-of-home advertising and of-
+fice work accounts for a high proportion of its activity, its 
+ecological footprint is low by comparison with the manu-
+facturing sector. Ströer’s environmental management activ-
+ities are therefore centered on aspects that typically have a 
+material influence on the environmental performance of a 
+company of its type in this sector. They include energy con-
+sumption and associated GHG emissions, and the materials 
+for the advertising media and their disposal/recycling at the 
+end of their lifecycle.
+Ströer’s business activities do not require significant amounts 
+of water. In the offices, employees use water from the pub-
+lic supply (for hot beverages, bathrooms, cleaning, etc.), but 
+only in typical household quantities. Ströer’s offices and 
+business activities are based exclusively in inner-city areas 
+and business parks close to towns and cities. Consequently, 
+Ströer has no relevant negative impact on biodiversity. In the 
+year under review, [307-1] Ströer was also unaware of any 
+accusations that it had violated environmental protection 
+laws and regulations.
+5.2 Climate strategy
+The main focus of Ströer’s environmental management activ-
+ity is climate action. The groupwide CO2 emissions (corporate 
+carbon footprint, or CCF) are the main key performance indi-
+cator. By analyzing the CCF, the Company can work out the 
+potential for reduction and the levers for achieving it, and then 
+develop appropriate measures. This footprint is thus critical 
+for achieving the strategic objective of making all of Ströer’s 
+business climate neutral by 2025. For key types of advertis-
+ing media, Ströer also records the individual carbon emissions 
+that are associated exclusively with the advertising activities 
+(operating business), the so-called product carbon footprint 
+or PCF. 
+Chapter 7.1 contains more information on the PCF. 
+Becoming climate neutral
+[TCFD] The transition to becoming a climate-friendly economy is well under way. Ströer wants to be 
+part of this change and is modifying its business activities accordingly. By 2025, the entire business 
+should be climate neutral and Ströer is implementing a whole series of measures to ensure this. They 
+include reducing energy demand and the associated greenhouse gases (GHG emissions), switching 
+to renewable energy sources, and purchasing goods and services that have a minimal impact on the 
+climate. This strategy focuses on four areas: advertising media, fleet and business travel, sustainable 
+office, and employee commuting. Ströer will offset any GHG emissions that cannot be avoided using 
+certified climate change mitigation projects.
+ For the whole business to be 100% climate neutral by 2025
+5 | ENVIRONMENT
+
+13
+Environment: Becoming climate neutral
+The CCF and PCF are calculated with the assistance of an ex-
+ternal service provider using the internationally recognized 
+standards of the Greenhouse Gas Protocol (GHG protocol). 
+The GHG protocol distinguishes between three categories 
+(‘scopes’). The emission sources used to calculate the CCF 
+are each allocated to one of these scopes, which provide the 
+parameters for Ströer’s greenhouse gas inventory.
+•	
+Scope 1 (direct emissions): Burning of gas, heating oil, 
+gasoline, and diesel; evaporation of refrigerants
+•	
+Scope 2 (indirect emissions from purchased energy): 
+Purchase of electricity and district heating
+•	
+Scope 3 (external indirect emissions): Employee travel; 
+upstream chains of the energy sources used; external 
+data centers; business travel (by rental car, train, and 
+plane); working from home; waste disposal; water  
+consumption; office supplies; catering, and external 
+service providers
+Based on the calculation of the CCF, four central areas were 
+identified where Ströer’s GHG emissions could be noticeably 
+reduced. These form the key planks of the climate strategy:
+• 	 Consumption of advertising media  
+• 	 Fleet and business travel  
+•	
+Sustainable office
+• 	 Commuting to and from work
+Measures have been implemented over the past three years 
+to reduce Ströer’s CCF in these areas. They include the avoid-
+ance of GHG emissions, for example by switching to green 
+electricity for offices and, increasingly, for the advertising 
+media, and reducing business travel and commuting by em-
+ployees, as well as introducing efficiency measures such as 
+cutting GHG emissions in the operation of the advertising 
+media and reducing daily office hours. More details on the 
+four key action areas in 2021 are described in the chapters 
+that follow.    
+[305-6, 305-7] Ströer emits ozone-depleting substances only 
+in very low amounts (evaporation of refrigerants). Nitrogen 
+oxides are generated during the operation of Ströer’s vehicle 
+fleet and are included under direct greenhouse gas emis-
+sions (scope 1). Sulfur oxides and other significant emissions 
+into the air are barely perceptible.
+[305-5] CO2e emissions in the Ströer Group*
+in CO2 equivalent (CO2e) (tonnes)
+2019
+2020
+2021
+[305-1] Scope 1
+6,241
+5,752
+6,010
+Heat
+1,394
+1,373
+1,429
+Refrigerants
+234
+190
+234
+Vehicle fleet
+4,613
+4,189
+4,346
+[305-2] Scope 2
+33,556
+25,309
+10,127
+Electricity for advertising media 
+29,888
+22,308
+8,815
+Electricity for offices
+3,094
+2,329
+625
+District heating
+574
+672
+687
+Scope 1 + 2
+39,797
+31,061
+16,136
+[305-3] Scope 3
+23,978
+17,474
+16,243
+Employee commuting
+13,441
+8,120
+8,859
+Other emissions**
+10,537
+9,354
+7,384
+Total (Scope 1 + 2 + 3)
+63,775
+48,535
+32,379
+Change from previous year (%)
+–24 %
+–33 %
+Total (Scope 1 + 2 + 3) adjusted***
+66,838
+52,219
+35,074
+[305-4] Emissions intensity (t CO2e/employee)****
+2.6
+2.4
+2.2
+* 	
+For details on the methodology see 
+ chapter 9.1 ‘About this report’; the final digit of the values for the scopes may contain rounding differences.
+** 	
+Material sources of other emissions are fuel-related and energy-related upstream activities.
+*** 	 Extended to include an adjustment factor for sites for which no data has been recorded (based on the number of employees).
+**** Based on total t CO2e, excl. advertising media (electricity, electricity used by upstream suppliers, disposal).
+
+14
+Environment: Becoming climate neutral
+At Group level, Ströer achieved a significant cut in its GHG 
+emissions in 2021 compared with the prior year. In total, the 
+GHG emissions that make up the corporate carbon footprint 
+fell by 33% compared with 2020, which had already seen 
+a significant reduction of 24% compared with 2019. A key 
+driver in the reporting period was the extensive switch of 
+advertising media and offices to green electricity. The move 
+to green electricity saved the equivalent of 14,069 t CO2 in 
+2021. In addition, the number of commuting miles and busi-
+ness trips – which had seen a significant fall in 2020 – re-
+mained at a low level. This was due in part to the restrictions 
+imposed by government to combat the SARS-CoV2 virus, 
+which Ströer managed by extending flexible working models 
+and Vertrauensarbeitzeit, the system of working time based 
+on mutual trust.
+CO2e emissions in the Ströer Group (tonnes)
+ 
+Scope 1    
+Scope 2    
+Scope 3
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+63,775
+48,535
+32,379
+–24 %
+–33 %
+In 2022, Ströer aims to implement additional measures to 
+continue reducing greenhouse gas emissions. It will also 
+seek to fully offset the GHG emissions that are not avoided 
+or are unavoidable through certified climate change mitiga-
+tion projects. Ströer already offsets the non-avoidable GHG 
+emissions from the PCF that are directly related to advertis-
+ing. In the period from June 2021 to May 2022, the Com-
+pany offset 16,978 tonnes of CO2e in this way. And since 
+June 2021, all non-avoidable GHG emissions at Ströer’s sub-
+sidiary Statista have been completely offset through two 
+climate change mitigation projects in Nicaragua and Brazil. 
+[201-2] [TCFD] So far, climate change has not had a notice-
+able impact on Ströer’s business. Climate-related risks to the 
+physical infrastructure that could be triggered by extreme 
+weather events, for example, are considered low. Neverthe-
+less, Ströer sees tighter regulations in the future or changes 
+in the advertising behavior of customers as a result of climate 
+change as transition risks to which the Company could be 
+exposed in the coming years. In addition, Ströer is reliant on 
+stable supplier relations (for electricity supply, for example). 
+With its 2030 Sustainability Strategy, (e.g. more advanced 
+advertising media and formats, and thus reduced energy re-
+quirement), Ströer is continuously mitigating these transition 
+risks and thus increasing the resilience of the business. 
+2019
+2020
+2021
+
+15
+Environment: Becoming climate neutral
+5.3 Advertising media
+Ströer is pursuing a strategy to digitalize its OOH portfolio 
+and to reduce the number of conventional advertising me-
+dia and adding digital advertising (screens) to its advertising 
+media portfolio instead. This significantly decreases the de-
+mand for materials (paper, analog screens) and the need to 
+service these media (trips to the installation sites, replacing 
+the advertisements). Digital systems require more energy to 
+operate, but fewer resources such as poster materials. Sev-
+eral tonnes of paper are currently used in the production of 
+posters every year. And since 2021, Ströer has obtained all 
+the energy to power its digital advertising media from re-
+newable sources (‘green electricity’), i.e. largely free from 
+greenhouse gas emissions.
+In 2021, the digital advertising media consumed 15.522 
+million kilowatt hours (kWh) of electricity – 19% more than 
+in 2020. This was due to two factors: the increased number 
+of digital billboards and the recovery of advertising activ-
+ity and resultant increase in capacity utilization. However, 
+the relative energy consumption (the electricity per square 
+meter of screen area) fell sharply by 12% to 835 kWh/m2 
+(see table).
+Ströer achieved this significant increase in efficiency with 
+unchanged broadcast quality through a combination of sev-
+eral measures, particularly the optimization of the settings 
+on the advertising media. These measures included, first and 
+foremost, the use of even more advanced technology, indi-
+vidually regulated screen brightness depending on the ambi-
+ent light, powering-down of the installations at night when 
+there is no audience, and adjusted color contrast controls. 
+These measures not only reduce electricity consumption, but 
+also significantly extend the service life of the digital adver-
+tising media.
+The electricity consumption of traditional advertising media 
+such as billboards, outdoor advertising columns, or rolling 
+poster displays increased slightly, by 1.2%, in 2021. This is 
+due to greater utilization of the more energy-intensive mo-
+tor-powered rolling poster displays. The relative power con-
+sumption per square meter of advertising space rose from 
+36 kWh/m2 to 53 kWh/m2, because in addition to increased 
+capacity utilization, it was primarily the large-scale and less 
+energy-intensive billboards that were taken out of service. In 
+2021, green electricity accounted for 59% of the energy used 
+to power traditional advertising media.
+[302-1, 302-2, 302-3, 302-4, 302-5] Energy consumption for out-of-home advertising
+2019
+2020
+2021
+absolute in 
+kWh
+relative in 
+kWh/m2
+absolute in 
+kWh
+relative in 
+kWh/m2
+absolute in 
+kWh
+relative in 
+kWh/m2
+Energy used by digital advertising
+10,690,145
+908
+13,023,249
+947
+15,522,451
+835
+Proportion of renewable energy
+100.0 %
+Energy used by traditional advertising
+37,665,621
+55
+34,712,001
+36
+35,121,097
+53
+Proportion of renewable energy
+59.0 %
+Total
+48,355,766
+47,735,250
+50,643,548
+
+16
+Environment: Becoming climate neutral
+5.4 Fleet and business travel
+Ströer employees in certain roles are entitled to a compa-
+ny car that they may use for business and personal travel. 
+The central fleet contains around 1,000 vehicles and now 
+includes an increasing number of hybrid and electric cars, 
+alongside the traditional models with internal combustion 
+engines. The key regulations governing company cars are set 
+out in the Ströer Group Car Policy. Procedures for preparing 
+for, carrying out, and claiming the cost of business travel, 
+as well as conduct during business trips, are set out in the 
+binding travel policy. 
+The consumption of fuel by the vehicles managed by Ströer 
+decreased substantially in 2020 with the increase in trust-
+based working time models and greater flexibility as to 
+where work was carried out. In 2021, there was a slight in-
+crease in gasoline consumption, although diesel consump-
+tion fell a little. Overall therefore, the significant decrease 
+seen in 2020 relative to 2019 was consolidated in 2021. The 
+addition of hybrid and electric vehicles to the fleet meant the 
+Company saw a substantial increase in electricity consump-
+tion for the first time. From 2022, Ströer will also be introduc-
+ing a carbon-neutral fuel card so that in the future the GHG 
+emissions produced in connection with this fuel type can be 
+offset via the partner company.
+[302-1, 302-2, 302-4] Energy consumption of the 
+Ströer fleet
+2019
+2020
+2021
+Gasoline consumption 
+(liters)
+376,579
+252,058
+264,079
+Diesel consumption 
+(liters)
+1,422,166
+1,238,057
+1,236,292
+Electricity consumption 
+(kWh)
+0
+173
+18,698
+5.5 Sustainable office
+Ströer’s mission is to keep negative environmental impacts 
+of everyday office activities to a low level. This is also in the 
+Group’s financial interests, as making processes more effi-
+cient and avoiding consumption and waste will reduce costs. 
+One example is the significant reduction in the use of print-
+er paper in recent years, thanks to the greater use of digi-
+tal working and the switch to digital processes in contract 
+management ( 
+chapter 6.1). Ströer is subject to a number of 
+German regulations in this respect, such as the German Build-
+ings Energy Act and the German and European legislation on 
+waste. However, Ströer leases around 90% of its office space 
+which means that the Group is limited in the extent to which 
+it can influence environment-related parameters. 
+In 2021, electricity consumption in the properties used by 
+Ströer fell slightly (by 1.3%) compared with the prior year. 
+Green electricity accounted for the majority of this for the 
+first time in 2021.  
+[302-1, 302-2, 302-4] 
+Consumption by the Ströer properties
+in kilowatt hours (kWh) 
+2019
+2020
+2021*
+Electricity consumption
+5,593,570
+5,905,090
+5,830,229
+of which:  
+green electricity
+8 %
+7 %
+80 %
+Heat (natural gas)
+5,205,320
+5,127,486
+5,337,806
+Heat (district heating)
+2,997,828
+3,510,608
+3,585,598
+Refrigerants
+144,256
+119,647
+136,546
+*	The 2021 figures for utility charges by landlords were not available at 
+the time this report went to press. So to calculate consumption for this 
+year, the utility costs for 2020 were taken in addition to the electricity 
+consumption for 2021, and extrapolated based on the total office area 
+in 2021.
+5.6 Commuting by employees
+Ströer regularly collects data on the type of transport used 
+by employees for their journey to and from the office, and 
+uses it to calculate the quantity of greenhouse gases pro-
+duced by these journeys. 
+Employee journeys to and from the office decreased signifi-
+cantly in 2020 and 2021 due to the substantially greater use 
+of trust-based working time models and greater flexibility as 
+to where work was carried out. The figure for 2019 was 37.9 
+million kilometers, but in 2021 this had fallen to 19.4 million 
+kilometers. The halving in the use of public transport in favor 
+of private transport is explained partly by government orders 
+relating to the use of public transport and partly by the ac-
+tion taken voluntarily by employees to reduce social contact 
+and thus lessen the risk of infection.
+[302-1, 302-2] Commuting by employees*
+Kilometers traveled
+2019
+2020
+2021
+Single journeys
+37,902,379
+14,909,108
+19,419,956
+Private transport 
+(car/motorbike)
+54 %
+62 %
+65 %
+Cycling/walking
+6 %
+11 %
+15 %
+Local public 
+transport
+40 %
+27 %
+20 %
+*	Survey of 15% to 20% of employees and extrapolation.
+
+17
+Environment: Becoming climate neutral
+5.7 Materials management
+[306-1, 306-2] One of the main aspects considered by Ströer 
+when selecting the material for advertising media is its sus-
+tainability. Alongside quality and price, low consumption of 
+materials and energy during manufacture and good recy-
+clability of the types of material used are important criteria 
+in the development of advertising media and street furniture.
+The standardization of systems is part of the Company’s suc-
+cessful strategy to make production, maintenance, and repair 
+processes as cost-effective as possible and to keep material 
+consumption to a minimum. Ströer also avoids using compos-
+ite materials that are difficult to separate, and ensures that 
+its products can be completely disassembled. This makes 
+recycling easier and improves the circular economy system.
+[301-1] Materials requirements for Ströer out-of-home advertising*
+(tonnes)
+2019
+2020
+2021
+Procurement of advertising media, street furniture, and spare parts**
+2,713
+1,569
+7,109
+Procurement of advertising materials  
+(regular and specialty paper, adhesives, and resins)**
+7,509
+5,607
+7,903
+*	 Out-of-home advertising in Germany, excl. Ströer Poland and blowUP.  
+**	Decrease in 2020 due to the ‘coronavirus effect’; increase in 2021 due to increased purchasing of digital advertising media.
+Advertising media damaged by vehicles or bad weather, or 
+as a result of vandalism or material wear, are repaired or 
+completely replaced and the undamaged installations or 
+parts thereof are recycled. Any electrical and electronic com-
+ponents that are still intact are often returned to Ströer’s 
+spare parts warehouse, while the remaining parts are passed 
+on to professional recycling companies. Ströer calculates the 
+information it provides on the circular economy on the basis 
+of data that is able to be collected and on the average values 
+for the waste management sector provided by the German 
+Federal Statistical Office.
+Conventional advertising posters are only partially recycla-
+ble, and the materials used (posters, adhesive) are often not 
+water-soluble. This means that only 40% of advertising ma-
+terials can be recycled, with 60% of posters incinerated as 
+household or hazardous waste (thermal recycling).
+[301-2] [306-3, 306-4, 306-5] Recycling of material from Ströer’s advertising media*
+(tonnes)
+2019**
+2020
+2021
+Decommissioned advertising media, street furniture, and spare parts
+–
+219.4
+167.6
+Quantity returned to use (circular economy)***
+–
+162.3
+122.3
+Recycling rate****
+–
+74.0 %
+73.0 %
+*	
+Out-of-home advertising in Germany, excl. Ströer Poland and blowUP.   
+**	
+Data not yet recorded in 2019.
+***	 The full volume of decommissioned material cannot always be recycled (broken glass, for example) and the recyclable volume cannot  
+always actually be fully recycled.
+****	Figures are based on available data and the average values for the waste management sector provided by the German Federal Statistical Office.
+
+18
+Employees: Focus on people
+Focus on people
+[102-8] [403-1] High-performing and motivated employees are the key to success. That is why Ströer 
+seeks to strengthen and continuously improve its efforts in this area by way of the three strategic 
+fields of HR work: attractiveness, responsibility, and excellence. Promoting diversity and encouraging 
+staff development makes Ströer a more attractive employer. The Company takes responsibility for its 
+employees by providing healthy and safe workplaces and fair working conditions. And by making HR 
+processes more efficient and involving employees more closely in Ströer’s growth and development, 
+the excellence of the organization is increased. Ströer will measure future progress using the Orga-
+nizational Performance & Vitality Index (OPVI) with indicators from the three strategic fields (attrac-
+tiveness, responsibility, excellence).
+ To ensure the quality of HR activities
+6 | EMPLOYEES
+Values
+ [403-8] TARGET STRUCTURE IN HR AUGMENTED
+We give customers visibility
+Overarching vision in HR work
+Growth & development
+Appreciation
+Innovation & quality
+Diversity
+Development
+Health and 
+safety
+Fair working 
+conditions
+HR management
+Knowledge & 
+involvement
+Strategic areas
+Organizational Performance & Vitality Index (OPVI)
+Measuring attractiveness
+Measuring responsibility
+Measuring excellence
+Percentage of 
+women in leadership 
+positions
+Retention rate of 
+degree apprentices
+Findings of the 
+healthy workplace 
+survey
+Number of employee 
+recommendations
+Availability of 
+sharing models
+Retention rate of 
+trainees
+Trends in accidents 
+at work
+Adherence to 
+principles of fair 
+working conditions
+Improvement of 
+Ströer's Kununu score
+Use of the 
+sustainability 
+workshop
+BE ATTRACTIVE 
+Success is the result of our employees' hard 
+work. People make the difference, which is why 
+Ströer values every individual's contribution. 
+The outcome is most important to us. This is the 
+corporate culture we are committed to. We take 
+hiring for attitude and performance seriously. 
+Ströer's culture thrives on passion, commitment, 
+and supportiveness, and provides space to 
+enjoy doing and making. This approach allows 
+us to offer many opportunities for professional 
+development, which ensures that we remain 
+attractive to the people who work at Ströer and 
+want to grow with the Company.
+BE RESPONSIBLE 
+Fairness, honesty, and integrity are the guiding 
+principles in our day-to-day dealings with 
+customers, partners, and colleagues. Ströer 
+takes responsibility for its employees' concerns 
+and provides a safe, healthy, and fair working en-
+vironment. We are considered a reliable partner 
+on whom employees can rely, even in difficult 
+times, and we work closely with employee 
+representatives to achieve this.
+BE EXCELLENT 
+Our highly skilled employees exceed our 
+customers' expectations every day. Expertise and 
+innovation are embedded in Ströer's DNA. We 
+promise that it never gets boring here. We also 
+use the opportunities presented by digitalization 
+to increase the speed of HR work through auto-
+mation, standardization, data transparency, and 
+the involvement of employees. This gives us more 
+time for providing support, development, and 
+attracting new recruits.
+Measurement
+
+19
+Employees: Focus on people
+Employees by segment – 
+as of Dec. 31, 2021
+6.1 HR management
+General
+[102-8] The Ströer Group wants to be an attractive employer 
+with which employees can identify and for which they enjoy 
+working. This aspiration is embodied in the employer brand 
+JUMP, which is used both in external communications and 
+within the Group. In 2020, Ströer was ranked in the top 1% 
+of employers in Germany by the global metastudy ‘Leading 
+Employers’.
+The importance of employee matters is reflected in the 
+pivotal position of HR within the organizational structure. 
+The head of HR reports directly and on a regular basis to 
+the relevant member of the Board of Management of the 
+general partner. She is also a member of the executive 
+committee, the highest management body in the Ströer 
+Group after the Board of Management. Employee matters 
+relating to sustainability are also dealt with by the Sus-
+tainability Council.
+[402-1] Ströer informs its employees promptly of any mate-
+rial developments at the Company, including in relation to 
+sustainability, and of all actions that are relevant to their 
+employment. No time frame has been specified for this as it 
+must happen as soon as possible.
+Key data on the staff structure
+[401-1]
+2019
+2020
+2021
+Total employees in the Ströer Group
+12,210
+10,003
+10,079
+Percentage of employees in Germany
+88 %
+81 %
+84 %
+Percentage of employees outside Germany
+12 %
+19 %
+16 %
+Percentage of part-time employees
+32 %
+32 %
+29 %
+Average period of service (years)
+4.8
+4.6
+4.7
+Staff turnover	
+total 
+excl. Ströer X
+28 %
+16 %
+27 %
+14 %
+New hires	
+excl. Ströer X
+3,631 
+2,309
+3,776
+1,606
+At the end of 2021, the Ströer Group had a total of 10,079 
+full-time and part-time employees. The slight increase com-
+pared with 2020 was a result of organic growth. The over-
+whelming majority of the workforce is employed in Germany. 
+At the end of the year, foreign Group companies employed 
+a total of 1,590 people, or 16% of the total. During the re-
+porting period, more than 96% of the Ströer workforce was 
+employed within the European Union where the legal stan-
+dards governing social welfare and employment are high. In 
+the fourth quarter of 2021, only 35 contract workers worked 
+for Ströer (0.34%).
+Total
+10,079
+5,926 Digital & Dialog Media
+2,113 OOH Media
+1,648 DaaS & E-Commerce
+392 Holding
+At the end of 2021, Ströer began restructuring the targets 
+in the ‘Employees’ pillar as part of the ongoing develop-
+ment of its sustainability strategy. Three strategic fields 
+were defined and six topic areas were selected as priori-
+ties within these fields.
+•	
+Attractiveness: Diversity and development 
+•	
+Responsibility: Health & safety and fair working 
+conditions 
+•	
+Excellence: HR management and knowledge & 
+	
+involvement 
+Going forward, progress in all six topic areas will be mea-
+sured and managed on the basis of clearly defined indica-
+tors. These will form an overarching index that represents 
+the key performance indicator in the ‘Employees’ pillar. 
+The introduction of the target system and associated 
+specification of targets is planned for 2022.
+
+20
+Employees: Focus on people
+The HR policy strategies and measures outlined in this report 
+have been introduced in the German group companies un-
+less explicitly stated otherwise. This is for economic reasons 
+or due to different legal provisions.
+In 2021, staff turnover across the Ströer Group was 27%. 
+This figure also includes planned attrition. The main reason 
+is the subsidiary Ströer X, which includes the call centers and 
+Ströer’s direct sales operations. In these businesses, Ströer X 
+has a policy of allowing applicants with low academic and 
+professional qualifications to prove their ability in a practi-
+cal setting. New employees are specifically trained for the 
+role on courses conducted by internal and external trainers, 
+lasting several days or weeks. This training and the first six 
+months of employment show who is up to the challenge and 
+employees find out whether they can see themselves work-
+ing in the call center in the medium to long term. As a result, 
+staff turnover at Ströer X during these first few months is 
+considerably higher than in the traditional advertising busi-
+ness. After this initial period, the attrition rate falls sharply. 
+Both in the call centers and in direct sales, the level of staff 
+turnover at Ströer is usual for the sector.
+Through its personnel planning activities, Ströer was able to 
+adequately fill vacancies in 2021. Capacity and competency 
+gaps were thus anticipated and avoided. Key recruitment 
+tools include the central careers portal on the Ströer web-
+site, approaching potential candidates through online career 
+networks and job sites, and attending job fairs and univer-
+sity events. 
+Around 60,000 applications were received during 2021, con-
+firming Ströer’s status as an employer of choice. The digital 
+employee referral program ‘FirstBird’, through which Group 
+employees share vacancies with their contacts and social 
+media networks, also accounted for a proportion of these 
+applications. Most of Ströer’s managers are hired from the 
+local German labor market.
+Process excellence through digitalization
+For Ströer, excellence in HR means high standards of quali-
+ty and efficiency in the way it deals with employees, man-
+agers, and applicants. Digital technologies are important 
+here. They enable the automation of simple administrative 
+processes, allowing HR to focus on human-centered activi-
+ties. They also allow longer process chains, such as those in-
+volved in recruitment, to be simplified and speeded up. This 
+means that more cases can be processed and the individual 
+time devoted to (potential) employees can be increased.
+Ströer therefore continued the process of switching numer-
+ous HR formats from paper to digital in 2021, and optimized 
+the interface processes. The DocuSign application is now an 
+integral part of contract management. DocuSign enables 
+contract processes to be digitalized and automated, for ex-
+ample by allowing electronic signatures and the automation 
+of contract preparation. This has significantly accelerated 
+the processing time for new hires. 
+Percentage of employees by country
+88% Germany
+5% France
+3% Spain
+1% Turkey
+1% Poland
+2% Other
+2019
+81% Germany
+4% Other
+1% Poland
+1% Turkey
+5% Spain
+8% France
+2020
+84% Germany
+5% France
+4% Spain
+1% Turkey
+1% Poland
+1% USA
+4% Other
+2021
+
+21
+Employees: Focus on people
+6.2 Knowledge and involvement
+[102-43, 102-44] The ‘Healthy Workplace’ employee survey 
+developed by Ströer in partnership with its subsidiary Statis-
+ta was rolled out across the Group in 2021. The purpose of 
+the survey is to document key factors that affect the satis-
+faction of staff with their day-to-day work. Stress and the 
+risks to mental health are among the main concerns. A total 
+of 2,522 employees took part in the online survey. Overall, 
+Ströer scored an average of 3.9 points on a scale of one to 
+five where five is highest. Even though the overall result was 
+positive, the survey motivated Ströer to continue improving 
+work processes, the attractiveness of the workplace, and 
+collaboration between employees. The Company has already 
+initiated a number of specific measures. Going forward, the 
+survey will be conducted every two years. Another mini sur-
+vey, the ‘pulse check’ is planned for later this year with an-
+other full-scale survey in 2023.
+In September 2021, Ströer organized its first virtual sustain-
+ability month, in which all employees were invited to take 
+part. The event will be repeated this year. In addition to pre-
+sentations by internal and external speakers on sustainabil-
+ity topics, the ‘sustainability workshop’ was also officially 
+launched. This is an online platform where employees can 
+contribute ideas for sustainability-related improvements at 
+any time. The Sustainability Council then decides whether 
+they are worth implementing. If ideas are taken up, the plat-
+form can be used to actively recruit supporters among the 
+staff, who can also discuss, comment, and vote on the ideas. 
+During the year under review, more than 50 ideas were sub-
+mitted through the sustainability workforce workshop, many 
+of which related to the environment.
+Ströer has also created additional forums to improve em-
+ployee communication – both directly with each other and 
+with managers. At the quarterly town hall meetings, the 
+Board of Management of the general partner reports to 
+employees on business performance in the preceding quar-
+ter, relays the latest news and current focus areas within 
+the business, and answers questions from employees. Em-
+ployees can also take part virtually. There is also a central 
+digital information platform (‘Ströer Net’) where employ-
+ees can access all information, news, and press releases 
+relating to the Group or the sector via an app or website. 
+The platform also strengthens cooperation and the sharing 
+of knowledge within Ströer.
+6.3 Diversity  
+[102-12] [405-1] Ströer promotes a balanced and diverse 
+workforce. The Group employs people from more than 90 
+nations with different skills, from different backgrounds 
+and cultures, with diverse sexual orientations, and in all age 
+groups. Diversity is a catalyst for ideas and the cornerstone 
+for the sustainable growth of the Company, and is a reflec-
+tion of Ströer’s customers and of society. The head of HR at 
+Ströer is directly responsible for the topic of diversity.
+In 2021, Ströer signed up to the 
+www
+ Diversity Charter (Charta 
+der Vielfalt), one of the biggest initiatives in Germany to 
+promote diversity in the workplace. By signing the Charter, 
+Ströer is committing to promote a diverse working environ-
+ment and to report on its progress. In 2021, the Group also 
+used Diversity Day in Germany to draw attention to the sub-
+ject on large-format screens and to spark discussions with 
+employees, dispel preconceptions, and raise awareness of 
+language and attitudes. At the end of the year, the Com-
+pany also set up the internal LGBTQ+ network LOUT! – an 
+idea submitted through the Sustainability Workshop. With 
+LOUT! and the women’s network ‘EmpowHer’, Ströer is em-
+phasizing the open culture of the Company and encouraging 
+dialogue. Both networks also serve to initiate change within 
+Ströer.
+Diversity in the Ströer Group
+[405-1]
+2019
+2020
+2021
+Percentage of women 
+on the Supervisory 
+Board
+44 %
+44 %
+44 %
+Percentage of women 
+in management*
+19 %
+21 %
+Percentage of  
+men/women in the  
+workforce
+49 %/51 %
+51 %/49 %
+51 %/49 %
+Age structure
+30 or below
+36 %
+37 %
+36 %
+31 to 40 
+31 %
+31 %
+32 %
+41 to 50 
+17 %
+17 %
+17 %
+over 50
+17 %
+15 %
+15 %
+*	 Management = the three highest management levels below the 
+Board of Management.
+
+22
+Employees: Focus on people
+Gender structure by segment
+2021 in %
+ 
+Digital & Dialog Media    
+OOH Media   
+ 
+DaaS & E-Commerce    
+Holding
+Ströer employed an almost equal number of women and 
+men in 2021. As a founding member of the Cologne-based 
+www
+ Mit Frauen in Führung [women in the lead] association, 
+Ströer campaigns for equal development opportunities for 
+women and men. A total of 14 major Cologne-based com-
+panies are members of this association, which invests in 
+female executive staff, primarily through a cross-mentor-
+ing program. Ströer is also involved in the 
+www
+ Women into 
+Leadership (IWIL) initiative, which encourages networking 
+and the sharing of ideas and information between women 
+in leadership positions. The talent program (JUMP’n’grow) is 
+also open to all employees. This is another initiative used by 
+Ströer to promote commitment and diversity. 
+Ströer has also committed to equal pay. When filling man-
+agement positions in the Ströer Group, the Board of Manage-
+ment pays attention to diversity and endeavors to ensure that 
+women are appropriately represented. The Board of Manage-
+ment of the general partner has set the following targets for 
+the proportion of women at the two management levels be-
+low the Board of Management by September 30, 2025:
+•	
+30% of the first management level of Ströer SE & Co. 
+KGaA below the Board of Management to be women 
+(in 2021: 30.0 %).
+•	
+33% of the second management level of Ströer SE & Co. 
+KGaA below the Board of Management to be women 
+(in 2021: 33.2 %).
+In 2021, the Supervisory Board of the general partner also 
+set a target of 33% for the proportion of women on a Board 
+of Management with three members by 2027.  
+Ströer offers its employees various options for adapting 
+their working hours to their individual situation or stage 
+of life. These include general company-wide arrangements 
+and customized arrangements for individual employees. 
+Ströer is implementing progressive working practices as 
+part of the digitalization of the workplace. In addition to 
+Vertrauensarbeitzeit (a system of working time based on 
+mutual trust), these include arrangements such as individ-
+ual part-time working or hybrid work patterns that Ströer 
+calls Flex Work (working from any location). Flex Work has 
+already been successfully launched in several group com-
+panies. Ströer also offers sabbaticals through its Urlaub+ 
+model, which enables employees to increase their vacation 
+allowance by up to 20 days’ unpaid leave. Here too, the ob-
+jective is to increase flexibility.
+6.4 Staff development
+[404-2] Ströer sees the training of young people as an im-
+portant step in assuming responsibility for their qualifica-
+tions and in ensuring that talented staff are identified at an 
+early stage and retained in the Company. The Ströer Group 
+provides vocational training for a total of 154 talented young 
+people in Germany. As well as offering traditional vocation-
+al training, Ströer also offers a degree apprenticeship pro-
+gram (with bachelors and masters degrees). The idea is to 
+provide support through extensive on-the-job training and 
+to maintain consistency in the number of trainees and the 
+proportion of trainees to whom the Company subsequently 
+offers permanent positions. In 2021, Ströer once again re-
+ceived a five star rating from the business magazine Capital 
+in its survey to identify Germany’s best training providers. As 
+part of its trainee program, Ströer now offers young trainees 
+the option to enter one of the following three areas: general 
+management, HR, and sales.
+Training and development in the Ströer Group
+[404-1] [401-1]
+2019
+2020
+2021
+Number of trainees 
+and employees on the 
+degree apprenticeship 
+program
+217
+151
+154
+New trainee hires
+45
+112
+Trainees offered a 
+permanent position
+34
+76
+Continuing profes-
+sional development 
+hours per employee
+28
+26
+Men
+Woman
+28
+12
+7
+2
+28
+11
+10
+2
+
+23
+Employees: Focus on people
+[404-2] Ströer offers its employees opportunities to achieve 
+their professional goals within the Ströer Group. Develop-
+ment needs are discussed and agreed individually between 
+managers and employees. The agreements are based in par-
+ticular on the role of the employee, the work goals agreed 
+with the manager, and potential career prospects within the 
+Group. 
+In addition to these individual development measures, Ströer 
+also offers standardized development programs across the 
+Group. JUMP’n’grow is a talent development program that 
+usually lasts twelve months. Participants are selected by the 
+Ströer executive committee. The program includes various 
+training courses and workshops and is supported by indi-
+vidual mentoring from senior executives. As a result of the 
+coronavirus restrictions, some parts of the program took 
+place digitally in 2021. In addition, digital self-guided cours-
+es were offered and regular book discussions were estab-
+lished, with the face-to-face workshops being postponed to 
+a later date.
+The JUMP up management training program was also con-
+tinued in 2021, with ‘Digital Leadership’ as its main area of 
+focus. The program comprises various modules in which HR 
+employees who are qualified trainers prepare content tai-
+lored to participants’ needs and roll it out to Group offices 
+across Germany. A number of modules were offered for man-
+agers on topics such as working with decentralized teams 
+(‘lead over distance’), authenticity, modern leadership, ap-
+preciation & communication, and delegation. Digital work-
+ing courses (e.g. ‘meet over distance’) were offered to all 
+employees. Further modules are currently being planned for 
+well into 2022.
+Ströer extended its interactive learning platform JUMP’n’train 
+for employees and trainees in 2021. The platform is a central 
+repository for existing knowledge and development courses. 
+The courses are continually added to, and cover topics such 
+as IT and systems, methods and media literacy, sales, and 
+soft skills and can be accessed by employees at any time. 
+Content can be offered at any location thanks to new tech-
+nologies such as virtual classrooms. In 2021, each employee 
+completed an average of 26 hours of continuing professional 
+development.
+In addition to these courses, the Company provides manda-
+tory staff instruction, both in order to meet regulatory re-
+quirements and to ensure that important topics are firmly 
+grounded across the workforce. The main topics are data 
+protection, compliance, IT security, health and safety, fire 
+safety, and driver instruction ( 
+chapters 8.3 to 8.6).
+6.5 Fair working conditions
+[401-2] [406-1] [407-1] Ströer does most of its business in 
+western Europe where legal (social) standards for the protec-
+tion of workers’ rights are high. Ströer has also documented 
+its groupwide commitment to fair working conditions in the 
+new 
+www
+ Ströer Social Charter that was resolved by the Board 
+of Management in mid-2022. Information events will subse-
+quently be organized for the Group companies.
+[102-41] In this context, Ströer permits its employees to or-
+ganize themselves in any way they choose. Freedom of as-
+sociation is part of this. Currently, none of the employees 
+are voluntarily unionized and thus covered by collective pay 
+bargaining. Accordingly, no member of the Ströer workforce 
+is employed under a collective pay agreement. 
+In accordance with the German Codetermination Act, half 
+of the members of the Supervisory Board of Ströer SE & Co. 
+KGaA are employee representatives. Workplace represen-
+tation is regulated by the German Works Constitution Act, 
+which sets out in detail the rules governing the establish-
+ment of a works council and its codetermination rights. 
+Employees with grievances or personal problems can take 
+them either to the management or to the members of the 
+general works council or the works councils of the subsid-
+iaries, who function as workplace representatives. Ströer is 
+also subject to the General Equal Treatment Act (AGG) that 
+was introduced in 2006 and regulates areas of application 
+and processes for the prevention of discrimination in a work-
+place context. The AGG specifies among other things that 
+part-time employees are entitled to the same pay and the 
+same workplace benefits (in some cases on a pro rata basis) 
+as full-time employees.
+Every employee has been informed about the AGG and has 
+given a written commitment to abide by it. Violations can 
+be reported via the central complaints bureau of the Ströer 
+Group, the relevant works council, or the German Federal 
+Anti-Discrimination Agency. Ströer’s clear anti-discrimina-
+tion position is also enshrined in the Ströer Social Charter. 
+Ströer provides employees with information on rules and on 
+how, and to whom, to complain via various channels such 
+as the intranet.
+
+24
+Employees: Focus on people
+THE STRÖER SOCIAL CHARTER
+ 
+[412-2] The Ströer Social Charter is a groupwide frame- 
+work for fair and ethical dealings within Ströer and with 
+customers, partners, and other stakeholders. The values 
+and social principles set out in the charter are based 
+on internationally accepted norms, guidelines, and 
+standards, including the UN’s Universal Declaration of 
+Human Rights and Guiding Principles on Business and 
+Human Rights, the fundamental conventions of the ILO, 
+and the OECD Guidelines for Multinational Enterprises.
+The Ströer Social Charter contains 21 principles that 
+set out Ströer’s social obligations in detail. They cover 
+aspects such as human rights, freedom of association, 
+the right to collective bargaining, collaborative part-
+nership with employee representatives, and handling 
+restructuring measures responsibly. The Charter also
+ 
+defines clear responsibilities and processes for how it
+should be implemented within Ströer and for making 
+sure employees are aware of it. Overarching respon-
+sibility for the Charter lies with the Group Board of 
+Management, while responsibility for implementation 
+rests with the individual companies. In the future, im-
+plementation of the Ströer Social Charter will form an 
+integral part of the overarching HR target system. A key 
+metric will also be defined for Ströer to use to measure 
+the progress of the implementation in the coming years.   
+The Charter can be accessed on the 
+Ströer website 
+and on the intranet, and every new employee will also 
+receive a copy of it with their employment contract in 
+the future.
+In 2021, as in the prior period, Ströer coped well with the 
+challenges posed by the global SARS-CoV2 pandemic with-
+out notable restructuring and without compulsory redun-
+dancies. In addition to the positive business performance, 
+the use of Flex Work and virtual work flows helped Ströer in 
+this regard. [402-1] In the event of compulsory redundancies 
+by the employer, the statutory periods specified in Germa-
+ny in section 622 of the German Civil Code (BGB) apply to 
+Ströer. In 2020, during the pandemic, some employees were 
+switched to short-time working. Ströer topped up the gov-
+ernment subsidies for these employees during this period in 
+order to minimize any individual financial difficulties. This 
+measure has gradually been rolled back in the various units 
+so that in 2021, only a very small number of departments 
+were still on short-time working.
+6.6 Health and safety
+Health and safety KPIs in the Ströer Group
+[403-2, 403-9]
+2019
+2020
+2021
+Sickness rate*
+5.3 %
+5.6 %
+No. of accidents at 
+work
+66
+63
+62
+Number of training 
+sessions
+Health and safety
+9,455
+12,366
+of which fire 
+safety
+3,974
+3,358
+of which driver 
+training
+2,834
+3,087
+*	 Proportion of sickness-related absence relative to planned working 
+time.
+
+25
+Employees: Focus on people
+[403-2] Ströer takes its responsibility for the health and safe-
+ty of its employees seriously. Its primary concerns are pro-
+tecting their mental health and preventing accidents in the 
+workplace or any work-related illnesses. Ströer is subject to 
+the statutory provisions of the German Health and Safety at 
+Work Act and similar legislation in other relevant countries.
+Ströer therefore takes all action necessary to ensure the 
+safety and health of its employees at work. Threats and risks 
+are regularly identified in the risk assessments and meetings 
+of the occupational safety committee (ASA) that are required 
+by law. Health and safety measures are then developed on 
+the basis of these analyses. 
+[403-3, 403-5] Safety officers, first aiders, and fire safety 
+officers complete regular training courses. The mandatory 
+instruction sessions on health and safety, fire safety, and 
+driver training apply to all employees and can be completed 
+via the interactive learning platform JUMP’n’train. All acci-
+dents at work are fully documented in accordance with the 
+statutory regulations and, if necessary, corrective measures 
+are implemented. First aid equipment and fire extinguishers 
+are available in all offices. The external occupational medical 
+service also visits the workplaces regularly and carries out 
+inspections for employees working at screens, for example, 
+and medical check-ups in accordance with the German Ordi-
+nance on Occupational Healthcare (ArbMedVV). An external 
+service provider also assists with the regular workplace in-
+spections by safety specialists.
+The general health and safety obligations (first aiders and 
+fire safety officers, risk assessment, instruction, and ASA 
+meetings) and the special work safety obligations (mental 
+health risk assessment, compliance with working hours reg-
+ulations) are delegated in writing to the managing directors 
+or managers at the sites. Ströer provides employees with 
+information on matters relating to occupational health and 
+safety, internal contact persons, and relevant statutory pro-
+visions on the intranet. 
+In 2021, there were a total of 62 reportable accidents at 
+Ströer, compared to 63 accidents in 2020. The sickness rate 
+rose year on year from 5.3% to 5.6%. The impact of the glob-
+al SARS-CoV2 pandemic has to be taken into account here, 
+as the effects were also felt in the Ströer workforce. Together 
+with the subsidiary Statista, a total of 141 mental health risk 
+assessments were carried out at 27 subsidiaries.  
+[403-4, 403-6] Ströer also offers its staff other perks in the 
+form of voluntary benefits, including health days where the 
+Company highlights important health-related matters. Em-
+ployees can also arrange appointments with a physiothera-
+pist at the Cologne office and a masseur in Hamburg. Strict 
+rules on hygiene and conduct, the use of Flex Work, and 
+virtual work processes meant that Ströer was again able to 
+minimize health risks for employees in connection with the 
+SARS-CoV2 pandemic in 2021. The Group also provided free 
+lateral flow tests in its offices for employees to test them-
+selves. In July and August 2021, Ströer offered first and sec-
+ond vaccinations at many of its sites. In December 2021, the 
+Group was also involved in the national booster campaign. 
+In total, an additional 95 booster vaccinations were given at 
+the Cologne site.
+6.7 Voluntary employee benefits
+[401-2] Ströer also offers its staff voluntary benefits. In part-
+nership with an external service provider, Ströer offers two 
+extras on top of salary: Joblunch and Jobbike. Joblunch is a 
+lunch subsidy for registered employees while Jobbike gives 
+staff the opportunity to lease bikes or e-bikes at attractive 
+rates. Ströer also offers all employees a range of corporate 
+benefits via partner platforms. These benefits are comple-
+mented by site-specific perks such as water coolers, free fruit 
+and coffee, or health courses. At Ströer headquarters there is 
+also a staff cafeteria and a company kindergarten. All infor-
+mation on the general and site-specific voluntary employee 
+benefits are available to employees via the intranet and the 
+Group’s website.
+
+26
+Business partners and society: Sustainable solutions
+Sustainable solutions
+[102-2] The products are at the very heart of Ströer’s work. The growing demand for sustainable solu-
+tions is an incentive for the Company to continually develop and enhance its portfolio. Firstly, Ströer 
+seeks to offer services for its customers that provide an additional benefit to the environment and 
+society. This includes pro bono advertising. Secondly, Ströer can reach a wide audience for sustaina-
+bility-related topics via content-based solutions such as t-online or watson, both online and in public 
+spaces via digital media. This portfolio gives Ströer a sustainable quality advantage that it can offer 
+to its customers, municipal partners, and society. 
+ To add to the portfolio of sustainable solutions
+7 | BUSINESS PARTNERS AND SOCIETY
+7.1 Advertising media and street furniture
+[203-1] Ströer began recording the volume of CO2 emissions 
+generated by its out-of-home advertising and digital adver-
+tising in 2020. This involved firstly measuring the volume of 
+CO2 emissions for all main advertising media types used in 
+both its out-of-home advertising and its digital advertising 
+that are generated in direct connection with the Company’s 
+advertising activities (product carbon footprint, PCF). Be-
+sides electricity consumption by the advertising media them-
+selves, the PCF includes the data centers, printing, logistics, 
+and paper disposal. Based on these results, a program was 
+developed so that when booking their advertising space, all 
+customers can be assured that all digital advertising media 
+and the most important advertising media for out-of-home 
+advertising used in their campaigns is carbon-neutral.  
+The most important measure to reduce CO2 emissions is the 
+gradual switch to carbon-free electricity from renewable 
+sources (green electricity). Since the fourth quarter of 2021, 
+around 80% of the energy required to operate Ströer’s ad-
+vertising media in Germany has been green electricity. The 
+digital advertising media are powered entirely by green elec-
+tricity ( 
+chapter 5.2). Any remaining CO2 emissions that are 
+directly related to the advertising are offset each year via 
+a certified climate change mitigation project. Ströer is also 
+involved in ‘Green GRP’, a German climate protection ini-
+tiative run by companies in the media industry. If they wish, 
+advertisers making use of the carbon offset scheme can use 
+the label ‘Climate-Neutral Advertising Campaign’.
+Communications/advertising infrastructure
+Mega Light: Single or double-sided advertising media for display formats of around 9m² mounted on a single pillar. The Mega Light is a 
+glazed, backlit display case in which the posters are automatically rotated every few seconds.
+City Light Pillar: An advertising medium for outdoor use, similar to the outdoor advertising column, with a circular cross-sectional geometry 
+that houses backlit posters. Total display area of around 12m² (three sides of 4m² each).
+City Light Poster: Backlit advertising medium that can be free-standing or integrated into street furniture for display formats of around 
+2m², such as at bus stops in pedestrian zones or shopping malls. Single or double-sided variants.
+Billboard: Traditional boards (some with lighting) for affixing paper-based materials of varying composition in 9m² format. Single or  
+double-sided variants.
+City Star: Boards (some with lighting) for affixing paper-based materials of varying composition in 9m² format. Single or double-sided 
+variants mounted on a single pillar.
+Premium Billboard: An advertising medium for display formats of around 9m². The Premium Billboard is a glazed, backlit display case in 
+which the posters rotate automatically every few seconds.
+Public Video Station: Rectangular design in 9:16 portrait format with 1m² to 2m² screen for use in buildings such as train stations.
+Public Video Infoscreen: Digital screens in 16:9 landscape format on train platforms (underground, intercity, and suburban).
+
+27
+Business partners and society: Sustainable solutions
+Public Video Mall: Digital screens in 9:16 and 16:9 formats, placed on walkways in shopping malls.
+Public Video Roadside: Digital LED screens in landscape format, mounted in an elevated position on main arterial roads and intersections.
+Public Video City: Free-standing digital display areas in city centers and pedestrian zones in 9:16 format.
+Public Video City Tower: Digital display areas in portrait format for use in busy streets in city centers; five meters high and up to three 
+sides per tower.
+Public Video Giant (Indoor): Digital LED and full HD screens in train stations in various formats with a display area of up to 31m².
+Other infrastructure – street furniture
+Benches, bus/tram shelters, outdoor advertising columns, street lights, clock pillars, public toilets
+With around 14,000 bus and tram shelters in Germany, 
+Ströer is already an important part of the local public trans-
+port infrastructure. The Company is also investing in the 
+expansion and upgrading of its infrastructure to provide 
+additional functionality for the sustainable development of 
+urban systems (‘Smart City’). Ströer offers services in four ar-
+eas: emissions (measurement and reduction), mobility (mea-
+surement, services), communication (education, inspiration), 
+and safety (warning). This portfolio enables the Company to 
+address environmental and social aspects of sustainability. 
+The expansion of Ströer’s digital infrastructure opens up new 
+opportunities. Information can be provided, interaction cre-
+ated, and people inspired – all in real time and in accordance 
+with local needs. Ströer’s screens can also be used for sus-
+tainable communications that promote a positive social and 
+environmental urban climate. One example is the delivery of 
+sustainability-related content via the ‘Green Voice’ channel 
+introduced by Ströer in 2021. Ströer works closely with con-
+tent partners such as the Justdiggit and Fairventures chari-
+ties and the ‘Sinnflut – Zukunft gesunde Stadt’ initiative to 
+create the content for Green Voice.
+Another building block in the infrastructure improvement 
+plan is the greening of street furniture. The aim is to con-
+tinuously increase the number of greened bus/tram shelters 
+and advertising pillars over the next few years and make a 
+visible contribution to enhancing the quality of life in towns 
+and cities. Ströer therefore offers all its partners the option 
+of sustainable greening of bus/tram shelters as a means of 
+ensuring that existing infrastructure remains fit for future 
+use. As part of the Smart City partnership with the city of 
+Bonn, Ströer began testing out future scenarios, such as the 
+greening of shelters with sedum, in 2021. Work also began 
+on the greening of bus shelters and advertising columns in 
+other German towns and cities such as Duisburg, Frankfurt, 
+and Bamberg in the year under review. 
+Ströer’s activities in the area of municipal warning systems 
+were also expanded in 2021. In Pforzheim, for example, a 
+total of 16 of the existing digital screens were upgraded. In 
+Frankfurt am Main, 290 screens were hooked up to the warn-
+ing infrastructure in November 2021. All warnings issued by 
+the integrated control room for the fire service, emergen-
+cy medical services, and disaster response will now appear 
+directly on the Ströer screens. This provides an additional 
+means of informing the public in emergency situations.  
+
+28
+Business partners and society: Sustainable solutions
+STRÖER AT THE 2021 GREENTECH FESTIVAL
+ 
+The 
+Greentech Festival was held in Kraftwerk Berlin, 
+a former power station, and the former army bakery 
+(Heeresbäckerei) in Berlin from June 16 to June 18, 
+2021. As part of a pilot project organized by the Berlin 
+Senate Department for Economics, Energy, and Enter-
+prises in partnership with Visit Berlin, the 2021 festival 
+took place in a COVID-19-secure format with a limited 
+number of participants. Greentech is one of the world’s 
+biggest events in the area of sustainability and green 
+technologies. 
+As one of the festival’s premium partners, Ströer exhib-
+ited a number of products that filter pollutants out of 
+the air – via natural means or using smart environmental 
+technology that is integrated into outdoor advertising
+media or street furniture. Festival visitors could learn all 
+about greening ideas for street furniture, integrable sen-
+sors (measuring components), a bus shelter with active 
+air filtering, and other customized solutions. Sharing an 
+exhibition stand with its partner companies placense, 
+Hawa Dawa, Mann+Hummel, and its subsidiary Out-
+site Media, Ströer showed the role smart communica-
+tions infrastructure in public spaces can play in ensur-
+ing more sustainable development of towns and cities.  
+Ströer sees the partnership and the media support pro-
+vided to the Greentech Festival as an expression of its 
+belief that sustainability and business success are mutu-
+ally interdependent.
+7.2 Posters that benefit the environment
+Since mid-2021, customers of the Ströer Group company 
+blowUP media have been able to choose a 100% PVC-free 
+material for their giant posters, and in February 2022 the 
+company switched completely to the more environmentally 
+friendly ‘Green Line’ materials. Polyvinyl chloride (PVC) is a 
+synthetic polymer that contains plasticizers. Pollutants are 
+created both in the production and the disposal of PVC. The 
+new Green Line poster material is not only PVC-free, but also 
+made from up to 100% recycled materials, depending on the 
+product type. The use of production waste as a recycled ma-
+terial, combined with weight savings, means fewer resourc-
+es are used and carbon emissions are almost 68% lower 
+than if conventional materials are used. Customers can also 
+have their posters treated with an air-purifying coating: ‘The 
+Pure’ is an ultra-thin and transparent layer of active titanium 
+dioxide that is applied to the poster and removes pollutants 
+from the air by a process of photocatalysis. A poster with a 
+surface area of 500m² has the air-purifying capacity of 35 
+broadleaf trees.
+Since early 2021, all giant posters offered by blowUP media 
+are produced carbon-neutrally. The CO2 emissions produced 
+in the manufacture of the posters is measured and offset via 
+a certified climate change mitigation project.
+Outsite Media, provider of giant posters and a Ströer Group 
+company, also offers air-filtering materials in Germany. The 
+Breath technology cleans the air by filtering out harmful air 
+particles: Three special layers absorb polluted molecules and 
+unpleasant odors, thereby cleansing the air. The process is 
+completely passive and uses the natural movement of the 
+air without requiring any additional energy. In one year, a gi-
+ant poster with this technology can filter the pollutants from 
+the exhausts and tire wear of up to 400,000 cars from the 
+air. The material is mounted on the reverse side of the giant 
+poster and remains active for around six months. The mate-
+rial is then replaced and professionally disposed of.
+
+29
+Business partners and society: Sustainable solutions
+7.3 Reach for sustainability topics
+Ströer’s news and information portals enable it to achieve 
+reach for sustainability topics of relevance to its target audi-
+ence online and in public spaces via digital media. The two 
+news portals, 
+www
+ t-online.de and watson.de, report regu-
+larly on current sustainability-related topics. The offering 
+encompasses news from the worlds of science, business, 
+technology, and politics as well as topics relating to health-
+ier and more sustainable lifestyles. Since 2020, the topic 
+of sustainability has become a permanent part of the edi-
+torial planning. This reflects the greater interest of readers, 
+and also the increased social importance of sustainability 
+in recent years. In the year under review, the new ‘Green 
+Voice’ channel was introduced for the digital infrastructure 
+( 
+chapter 7.1).
+7.4 Pro bono advertising
+[102-12] Ströer uses its expertise in out-of-home advertis-
+ing to gain reach for topics of relevance to society. Ströer 
+offers advertising space at cost price or heavily discount-
+ed prices for non-government organizations and socially 
+beneficial purposes (pro bono) and has a long track record 
+of successful collaboration with charitable organizations. 
+Support is focused on children, development aid, and the 
+arts. Partners include the SOS Children’s Villages, the Ger-
+man Children’s Fund, the children’s charity Kindernothilfe, 
+Impacc (development aid), and the Young Euro Classic 
+(arts), an international music festival for youth orchestras. 
+Ströer either covers the full cost of a campaign, including 
+materials, or waives its fee for the service provided. Ströer 
+has supported hundreds of projects and initiatives in this 
+way in recent years, with a media volume of more than 
+EUR 20m per year.
+The partnership agreed in summer 2021 with UNICEF, the UN 
+children’s organization, is a flagship project and a reflection 
+of this approach to sustainability in a social/community con-
+text. The partnership will initially run for three years. Ströer 
+will support UNICEF in its efforts to promote the rights and 
+interests of children and to raise public awareness of chil-
+dren’s rights. To this end, the Company is providing advertis-
+ing space in towns and cities across Germany. For example, 
+on November 20, 2021, World Children’s Day, Ströer drew 
+attention to the UN Convention on the Rights of the Child in 
+many towns and cities. Going forward, the partnership will 
+also focus on developing and delivering joint campaigns to 
+promote children’s rights in Germany.
+STRÖER SUPPORTS CHANCENWERK E.V.
+ 
+Ströer drew attention to the 
+ Chancenwerk e.V. 
+initiative in February 2021 with a public video cam-
+paign in several major German cities. Chancenwerk is a 
+non-profit association and voluntary youth welfare or-
+ganization that has been working since 2004 to ensure 
+children have a fair chance of education regardless of 
+parental income or background and, through this, the 
+opportunity for successful integration, social mobility, 
+and participation in society. 
+To gain maximum public exposure for the initiative’s 
+concerns – especially in an age of distance learning and 
+homeschooling – Ströer broadcast a number of informa-
+tion films on its public video network in Cologne, Ham-
+burg, Bremen, Hannover, and Düsseldorf. The campaign 
+was created by Chancenwerk in partnership with Ströer 
+and emphasizes the Company’s philosophy of using its 
+infrastructure’s wide reach for not-for-profit purposes.
+
+30
+Business partners and society: Sustainable solutions
+7.5 Product stewardship
+Quality management
+[SASB] Ströer is a service provider focusing on out-of-home 
+advertising. The system of quality measurement used in 
+industrial companies thus only has limited application to 
+Ströer’s processes, so it has decided against introducing 
+traditional certified quality management systems. Instead, 
+Ströer has implemented systems that are tailored to the spe-
+cific requirements of its business and address its own high 
+quality standards in an appropriate way.
+Relationships with all customers are based on 
+www
+ Ströer’s 
+General Terms and Conditions (GTC) for out-of-home adver-
+tising and digital marketing and its General Terms and Con-
+ditions of Purchase. The GTC are supplied to all customers 
+and are based on the statutory provisions applicable in each 
+country. If the service provided by Ströer is not adequate, 
+customers can use the means and the communication chan-
+nels defined in the GTC to assert their rights.
+To avoid deficiencies and ensure conformity with Ströer’s GTC 
+and applicable law, quality management systems tailored to 
+the needs of the specific businesses have been implemented 
+in out-of-home advertising and digital marketing. These re-
+quire advertising content to be checked by Ströer before it is 
+run ( 
+Responsible advertising), and quality assurance and 
+client liaison are carried out on an ongoing basis during the 
+whole time the campaign is running. Specific instructions for 
+employees and related responsibilities are defined and set 
+out in policies. In digital marketing, questions of technical 
+functionality, compatibility, and user-friendliness in compar-
+ison with the out-of-home advertising naturally have partic-
+ular weight. 
+[416-1] In out-of-home advertising, Ströer has supplier man-
+agement, buildings management, and advertising media 
+management systems to ensure that the advertising media 
+and street furniture is made, installed, and managed prop-
+erly and in accordance with German law. The relevant duties 
+and responsibility for overarching quality management are 
+centralized at Ströer. The relevant knowledge and regula-
+tions are documented in the quality management handbook 
+(QMH), which provides the basis for the collaboration with 
+external service providers.
+Prototypes for advertising media or new sub-functions are 
+subjected to intensive testing in Ströer’s own research de-
+partment before they are installed or used in public. New 
+advertising media are signed off at the manufacturer’s prem-
+ises or after delivery to the receiving warehouse, by suitably 
+qualified and trained Ströer employees. Once they have 
+been brought into service, advertising media are regularly 
+inspected in situ as part of the management process and are 
+subject to technical inspections at varying intervals – includ-
+ing the regular DGUV-V3 inspection (DGUV = German Social 
+Accident Insurance organization) and the stability analysis 
+for advertising media. Ströer is thereby not only meeting its 
+quality promise to customers, but also guaranteeing a high 
+standard of (product) safety and durability of the advertising 
+media in public spaces.
+A systematic quality management procedure has also been es-
+tablished for Ströer’s journalistic offering. At 
+www
+ t-online.de, 
+Ströer’s central news platform, all key requirements are 
+documented in editorial policies and accompanying guide-
+lines. These include the editorial identity, the definition of 
+workflows, formats for communicating with customers, such 
+as the readers’ advisory council and user labs, and formal-
+ized quality assurance mechanisms. Similar policies are also 
+available for 
+www
+ watson.de. 
+In 2021, further preparations were made for the establish-
+ment of IT infrastructure in the cloud for t-online.de. This will 
+enable t-online.de to respond more flexibly and robustly to 
+high user demand while at the same time increasing the eco-
+nomic and ecological efficiency of the IT infrastructure. For 
+users of t-online.de, faster loading times should noticeably 
+improve quality and the new, especially easy-to-read fonts 
+and font sizes should also make the content more accessible 
+for users with disabilities. More information on information 
+security and data protection is available in 
+ chapters 8.3 
+and 8.4 of this sustainability report.
+Responsible advertising
+[416-1] [SASB] The activities of Ströer and its advertisers 
+(clients) are governed by advertising-relevant legislation in 
+Germany. This includes, in particular, the Unfair Competition 
+Act (UWG), along with provisions in other statutes such as 
+the Protection of Young Persons Act (JuSchG), the Medicinal 
+Products Act (AMG), and the Health Services and Products 
+Advertising Act (HWG). German price specification regula-
+tions and certain product-related advertising bans or restric-
+tions also apply, and national laws such as the press laws or 
+standards applicable to the presentation of advertising also 
+have to be considered.
+
+31
+Business partners and society: Sustainable solutions
+Taken together, these rules (‘advertising law’) set clear 
+guidelines for responsible advertising and the associated ob-
+ligations of companies. They are reflected in Ströer’s general 
+terms and conditions, the groupwide 
+www
+ Principles of Ethical 
+Advertising, and the associated process landscape. They in-
+clude the obligation to ensure that advertising content is le-
+gally compliant and not unethical. Pursuant to Ströer’s GTC, 
+the clients are responsible for the form and content of the 
+advertisements and ensuring that they are legal, and Ströer 
+does not have a formal obligation to inspect such content.  
+As part of the process of inspecting advertising content in 
+out-of-home advertising, however, for reasons of due dili-
+gence Ströer checks whether there are any clear violations 
+of law or ethics. Such violations may exist if for example the 
+content is clearly degrading or discriminatory, if it is political-
+ly, ideologically, or religiously extreme, if children or young 
+people are targeted in an unethical or manipulative way, 
+or if there are concerns relating to road traffic law. A sim-
+ilar process exists in digital marketing. This is documented 
+in relevant advertising policies and is also applied to every 
+campaign. 
+For out-of-home advertising, the first step is to carry out 
+an automated, initial content check on the basis of the GTC 
+for out-of-home advertising with the help of artificial intel-
+ligence. Ströer has developed its own learning software for 
+this, which independently identifies and labels offensive 
+images and text. The software checks all incoming copy 
+provided by clients and offers a high level of accuracy in 
+the initial identification of possible GTC violations. Based 
+on this, the campaign management employees carry out 
+their own, parallel check. If this check reveals unacceptable 
+content, dialogue is sought with the clients, and ultimately 
+the advertisement is revised or rejected, or the campaign 
+is halted. In cases of doubt, decisions are escalated to the 
+next-highest management level, right up to senior manage-
+ment. If required, Ströer’s legal department can be consult-
+ed. Every year, around 90,000 advertisements undergo this 
+review process. 
+Policies and documentation on approving advertisements in 
+out-of-home advertising are filed centrally and can be ac-
+cessed at any time by all employees who are involved in the 
+process. Employees can also take an external ‘youth media 
+protection’ course and become certified as youth protection 
+officers within campaign management. The review process 
+also forms part of the online training program for all staff 
+and the onboarding of new campaign management staff, in 
+order to raise their awareness of the subject and equip them 
+to deal with it.
+In out-of-home advertising, there are also bans that apply 
+to certain product segments, product groups, and individual 
+products, based on the location of the advertising medium 
+and the interests of the site owner. This may apply, for exam-
+ple, within a certain radius of schools and childcare settings. 
+These bans are noted in the technical documentation for 
+each advertising medium so that certain campaigns cannot 
+be delivered there. For tobacco advertising that is current-
+ly still permitted (tobacco heaters, e-cigarettes), there are 
+also defined exclusion zones that are programmed into the 
+booking system, within which no advertising of this type is 
+allowed. The statutory deadlines for when this advertising is 
+no longer permitted will of course be respected. In its digital 
+marketing, Ströer has voluntarily undertaken not to target 
+certain groups unethically. This includes targeting certain 
+ethnicities, specific sexual preferences, and people with crit-
+ical health conditions, or addressing certain target groups 
+for political purposes.
+[102-13] As a member of the Fachverband Aussenwerbung 
+e.V. [out-of-home advertising trade association] and the 
+Bundesverband Digitale Wirtschaft e.V. [German Associa-
+tion for the Digital Economy], Ströer is also subject to volun-
+tary self-regulation through the German Advertising Council 
+[Deutscher Werberat], an initiative of the German advertis-
+ing industry. The aim of the German Advertising Council is to 
+prevent advertising that is permitted in law but considered 
+by the sector itself to be inappropriate, or to correct it after it 
+has appeared in public. The German Advertising Council has 
+formulated a specific code of conduct (‘Advertising Code’), 
+on the basis of which complaints by members of the public 
+can be submitted to the body. The advertising code can be 
+accessed at any time on the website of the German Adver-
+tising Council. [417-3] In 2021, one substantiated complaint 
+about Ströer was reported in relation to vehicle advertising. 
+The complaint concerned one of Ströer’s own advertise-
+ments on a bus, part of a campaign that had ended several 
+years ago. However, one bus was sold with the advertising 
+in place and was still in use. Following the complaint, Ströer 
+tracked the bus down, neutralized the advertisement, and 
+thereby successfully resolved the matter. 
+
+32
+Business partners and society: Sustainable solutions
+In general, advertising is protected by the fundamental right 
+of freedom of expression. Ströer is therefore reluctant to act 
+as a censor of advertising content, provided that there are 
+no clear breaches of law or morality. Within these parame-
+ters, Ströer undertakes to act in a manner that is politically, 
+ideologically, and religiously neutral. This also applies if the 
+content is inconsistent with the Company’s own political 
+views. In the public debate about the anti-Green Party post-
+er campaign in the 2021 Bundestag elections (‘Grüner Mist’), 
+Ströer came under fire despite its role as a neutral service 
+provider. So in August 2021, the Company invited all parties 
+to a roundtable meeting with the aim of finding consensus 
+concerning better regulations for party political communica-
+tions in out-of-home advertising. In preliminary discussions 
+with the parties in January 2022, it was agreed that the 
+parties’ own election posters and election campaigns would 
+continue to be displayed. With regard to political campaigns 
+of other actors (i.e. not the parties themselves), further talks 
+are planned which will focus in particular on creating trans-
+parency concerning the identity of the source.
+Journalistic ethics
+Ströer and its online media are subject to the German Inter-
+state Media Treaty (MStV, the German legal framework for 
+media services) and accordingly are required to adhere to 
+recognized journalistic principles. Content must be checked 
+with due care for content, origin, and truth. The competent 
+media authorities of each federal state are responsible for 
+regulation. Complaints can also be submitted to these au-
+thorities. 
+Ströer’s groupwide 
+www
+ Journalistic Principles also apply to 
+all employees. They are based on the principles of the Ger-
+man Press Code, which encompass a wide range of areas 
+from respecting human dignity, preventing discrimination, 
+and protecting victims, to separating advertising from edi-
+torial content. The Journalistic Principles are reflected in the 
+editorial guidelines drawn up by the Group’s media brands 
+www
+ t-online.de and watson.de. For t-online.de, the require-
+ments are further specified in the legal guidelines, which are 
+available to all employees on the intranet along with the ed-
+itorial guidelines. Both news portals have youth protection 
+officers who act as points of contact for all questions, com-
+plaints, or comments. They can be contacted anonymously 
+and, in accordance with the legal provisions, are not bound 
+by instructions. 
+No complaints – substantiated or otherwise – were made to 
+the press council about Ströer in 2021. No media authority of 
+a federal state took action against Ströer in connection with 
+violations of youth media protection rules or other statutory 
+provisions.  
+7.6 Sustainable supply chain and human rights
+[102-9] Ströer’s value-based corporate governance includes 
+undertaking human rights due diligence and adhering to 
+fundamental social principles. This is evidenced by the Com-
+pany’s commitment to international frameworks ( 
+ chap-
+ter 4.1), the Ströer Social Charter ( 
+ chapter 6.5), and the 
+systems relating to corporate governance ( 
+ chapter 8). 
+Ströer does not tolerate human rights violations and any 
+such violations are rigorously sanctioned.
+[204-1] Ströer purchases the majority of its goods and ser-
+vices in Germany and other European Union (EU) countries. 
+This region has adequate legal provisions governing human 
+rights and social standards. In 2021, central Purchasing (ex-
+cluding Technical Purchasing) sourced around 73% of its to-
+tal purchasing volume in Germany. 
+[407-1] [308-1] Ströer requires its suppliers to comply with 
+the 
+www
+ General Terms and Conditions of Purchase and 
+the associated Code of Conduct for Suppliers and Business 
+Partners. The Code of Conduct requires suppliers to respect 
+fundamental rights and human rights in their area of activ-
+ity and to prevent discrimination, disadvantage, and rights 
+violations. The Code of Conduct for Suppliers and Business 
+Partners also contains clear stipulations for the fair treat-
+ment of employees and the management of environmental 
+issues. The General Terms and Conditions of Purchase and 
+the associated Code of Conduct for suppliers and business 
+partners are enclosed with every order placed by Purchasing. 
+
+33
+Business partners and society: Sustainable solutions
+IMPLEMENTATION OF THE GERMAN SUPPLY CHAIN 
+DUE DILIGENCE ACT
+ 
+[308-1] [414-1, 414-2] The Ströer Group relies on sta-
+ble, trust-based relations with its suppliers to be able 
+to guarantee high-quality products and services at all 
+times. Compliance with clear quality standards, ethical 
+standards, and human rights is an essential requirement.
+In 2021, the German government passed the Supply 
+Chain Due Diligence Act (LkSG), which will come into 
+force on January 1, 2023. The LkSG implements the Unit-
+ed Nations Guiding Principles on Business and Human 
+Rights in Germany. The provisions of the LkSG range 
+from governance issues to checking the supplier base for 
+risks relating to the potential violation of human rights. 
+Penalties and fines can be imposed on companies for 
+non-compliance. Non-governmental organizations and 
+trade unions based in Germany can also bring action 
+before German courts on behalf of persons affected in 
+other countries. 
+Against this background, a project was initiated in 2021 
+to implement the requirements of the LkSG for the Ströer 
+Group companies by the end of 2022. The project will 
+be overseen by the (1) Governance, Risk & Compliance 
+(GRC), (2) Legal Affairs, and (3) Purchasing and Real 
+Estate corporate units. The main project goals include
+•	
+Agreement of a 
+ Policy Statement on Compliance 
+with Environmental and Human Rights Standards by 
+the Board of Management 
+•	
+The implementation of a regular process for mon-
+itoring and preventing human rights risks in the 
+Group companies.
+•	
+Setting up a complaints office or a complaints pro-
+cess – for employees and external stakeholders 
+– for identifying and reporting human rights risks 
+and violations.
+•	
+The establishment of documentation and public re-
+porting to the Federal Office for Economic Affairs 
+and Export Control each year on any incidents and 
+how deviations from environmental and human 
+rights standards have been dealt with.  
+•	
+The revision of the internal Code of Conduct, the 
+Code of Conduct for Suppliers and Business Partners, 
+and the General Terms and Conditions of Purchase.
+In 2021, Ströer established a digital supplier platform to 
+improve the management of high-risk suppliers in the 
+area of sustainability in light of the forthcoming legis-
+lative changes (implementation of the LkSG). It will be 
+possible to access all relevant information on suppliers 
+via the platform in the future. The Company has thereby 
+created a key tool enabling suppliers to be assessed for 
+sustainability in a way that is standardized and allows 
+comparisons with other suppliers.
+
+34
+Business partners and society: Sustainable solutions
+[407-1] For non-domestic suppliers in Technical Purchas-
+ing (particularly purchasing of advertising media), Ströer 
+demands compliance with the 
+www
+ International Supplier 
+Code of Conduct of the Responsible Business Alliance. This 
+also sets out requirements relating to environmental man-
+agement and the protection of human rights and has to be 
+signed every year in Technical Purchasing by all suppliers 
+outside Germany. Ströer’s Code of Conduct for Suppliers and 
+Business Partners as well as the Code of Conduct of the Re-
+sponsible Business Alliance are an integral part of the Ströer 
+purchasing handbook given to every buyer when they start 
+work at the holding company.
+The purchase of analog and digital advertising media is man-
+aged by Technical Purchasing in close cooperation with the 
+product development team in Research & Development. The 
+suppliers are essentially a small number of specialist part-
+ner companies from China, with which the Company been 
+working for many years. Ströer therefore has its own rep-
+resentative office in Shanghai. This enables direct and in-
+tensive communication, which in turn ensures the quality of 
+the products, the efficient management of production at the 
+manufacturer, and timely delivery. The comprehensive sup-
+plier relationship also includes regular visits to China. Due 
+to the tight restrictions on travel in 2020 and 2021, no visits 
+took place during this period.
+7.7 Corporate citizenship
+[102-12] Corporate citizenship at Ströer focuses mainly on 
+providing pro bono advertising ( 
+ chapter 7.4). In addi-
+tion, Ströer’s subsidiaries are involved in their communities, 
+for example through small donations to local initiatives or 
+through corporate volunteering. 
+Ströer ran its internal Advent calendar initiative for the fifth 
+year in a row in 2021. Employees were able to buy tickets 
+for the chance to win a prize, with the money raised supple-
+mented by the Board of Management and donated in full to 
+charitable organizations. A total of EUR 100,000 was raised 
+during the reporting year.
+Ströer has also partnered with Arbeit für Menschen mit 
+Behinderung (AfB) (work for people with disabilities), 
+Europe’s largest charitable IT company, since 2020. Be-
+tween April and December 2021, Ströer gave a total of 
+755 used IT and mobile devices to AfB, 96% of which were 
+remarketed after professional data erasure, hardware test-
+ing, parts replacement, and other steps. This enabled AfB 
+to create two full-time jobs for people with disabilities and 
+also save resources and energy, cut down on its use of wa-
+ter, and reduce CO2-equivalent emissions by 91 tonnes. 
+INCREASING SUSTAINABILITY IN SALES
+ 
+Since 2016, Ströer has provided its sales employees 
+with personalized gifts for use in customer relation-
+ship management. Close attention is paid to the sus-
+tainability of these items. For example, artists turn 
+the covers of decommissioned outdoor advertising 
+columns into unique sculptures with a strictly limited 
+production run, which gives the pieces their cachet.
+Sustainability is also key when it comes to the gifts 
+provided as incentives for sales employees. For ex-
+ample, the carbon emissions generated as part of 
+travel provided by the Company as a gift are offset 
+via climate change mitigation projects. Smaller gifts 
+such as water carbonators are designed to obviate 
+the need to buy water in plastic bottles.
+Ströer also pays attention to the sustainability of its 
+promotional gifts. For example, rucksacks with the 
+Ströer logo are made from recycled PET bottles. So-
+cial and environmental aspects are considered for all 
+products and services made available to sales and 
+other departments.
+
+35
+Governance: Acting in a way that builds trust
+Acting in a way that builds trust
+Ströer works tirelessly to improve its internal governance structures and processes in order to meet 
+the latest technological and regulatory requirements, and society’s expectations. The relevant func-
+tions are combined in a joint system in the Governance, Risk & Compliance (GRC) corporate unit. 
+Ströer also strives to ensure high standards in its corporate governance. This enables Ströer to pro-
+vide a robust governance framework that justifies the trust of stakeholders and offers employees 
+clear guidance for their day-to-day tasks.
+ To enhance our governance systems
+8 | GOVERNANCE
+8.1 Corporate governance
+Corporate governance encompasses the responsible and 
+transparent management and oversight of a company in the 
+interests of the company – taking into account the interests 
+of its shareholders, employees, and other stakeholders, with 
+the aim of creating value sustainably. Ströer is committed 
+to responsible corporate governance and has created an 
+appropriate legal and practical framework. Ströer publishes 
+comprehensive information about this on the 
+www
+ IR website 
+under ‘Financial reports’ and ‘Corporate governance’. 
+Management structure and remuneration
+[102-5, 102-35, 102-36] Ströer operates in the legal form of 
+a partnership limited by shares: Ströer SE & Co. KGaA. The 
+limited partners of Ströer SE & Co. KGaA, a listed company, 
+are its shareholders in a partnership limited by shares 
+(‘limited shareholders’) while Ströer Management SE, a non- 
+listed company, acts as the general partner. In 2021, Ströer 
+SE & Co. KGaA complied with the recommendations of the 
+German Corporate Governance Code (GCGC) where these 
+apply either directly or analogously to a partnership limited 
+by shares. Two of the applicable GCGC recommendations 
+were not followed.
+•	
+A board of management member of a listed company 
+should not have more than two positions on superviso-
+ry boards of non-group listed entities, or comparable 
+functions, or chair the supervisory board of a non-group 
+listed entity. The chairman of the Supervisory Board of 
+Ströer SE & Co. KGaA, Christoph Vilanek, is also the CEO 
+of freenet AG, chairman of the Supervisory Board of 
+Ströer Management SE, and a member of the supervisory 
+board of another listed company. Given his long-stand-
+ing familiarity with the Company, his excellent industry 
+knowledge, his qualifications, and his experience on 
+other oversight bodies, Mr. Vilanek is very well suited to 
+be both a member of the Supervisory Board of Ströer SE 
+& Co. KGaA and its chairman. Ströer satisfied itself that 
+Mr. Vilanek has sufficient time to be able to perform his 
+duties adequately, and is keen to retain him as chairman 
+of the Supervisory Board.
+•	
+The additional time spent by the chair and deputy chair 
+and by the chairs and members of committees should be 
+taken into consideration accordingly when determining 
+the remuneration of supervisory board members. In the 
+past, Ströer SE & Co. KGaA did not comply with this rec-
+ommendation, as the members of the Supervisory Board 
+of Ströer SE & Co. KGaA merely received an attendance 
+fee and out-of-pocket expenses. However, the provisions 
+for the remuneration of the Supervisory Board have been 
+changed with effect from October 1, 2021 so that Ströer 
+SE & Co. KGaA has complied with this particular stipula-
+tion of the GCGC from that point forward.
+
+36
+Governance: Acting in a way that builds trust
+THE STRÖER GROUP: Ströer SE & Co. KGaA (PARTNERSHIP LIMITED BY SHARES)
+December 31, 2021
+The Supervisory Board of Ströer Management SE
+Supervisory Board of Ströer SE & Co. KGaA
+Ströer Management SE
+Ströer SE & Co. KGaA
+Shareholders as limited partners
+Board of Management
+Udo Müller (Co-CEO), Christian Schmalzl (Co-CEO), 
+Dr. Christian Baier (COO), Henning Gieseke (CFO)
+General partner
+Procedures and composition of the general partner 
+and of the Supervisory Board
+[102-18, 102-19, 102-20, 102-21, 102-22, 102-24] Due to the 
+features specific to the legal form of a partnership limited by 
+shares (KGaA), Ströer SE & Co. KGaA has three decision-mak-
+ing bodies: its general partner, its shareholder meeting, and 
+its Supervisory Board plus committees. The general partner 
+in turn has three decision-making bodies: its Board of Man-
+agement, its Supervisory Board, and its shareholder meet-
+ing. The decision-making bodies have the following tasks 
+and procedures:
+•	
+The general partner, represented by its Board of Man-
+agement, develops the corporate strategy of the Ströer 
+Group and is responsible for its implementation. As the 
+management body of Ströer SE & Co. KGaA, the general 
+partner conducts the business of the Ströer Group in-
+dependently and does not take instructions from third 
+parties. It upholds business policy principles and pursues 
+the interests of the Company in line with German stock 
+company law.
+•	
+In accordance with the articles of association, Ströer SE 
+& Co. KGaA’s shareholders exercise their rights in the 
+shareholder meeting. The shareholder meeting adopts 
+the annual financial statements and decides on matters 
+such as the appropriation of profits, the formal approval 
+of the acts of the general partner and the Supervisory 
+Board, the election of the independent auditors, and 
+the legal foundations of the Company including, but not 
+limited to, amendments to the articles of association. 
+[102-37] Since 2021, the shareholder meeting has also 
+adopted advisory resolutions on the approval of the re-
+muneration system. In the event of material structural 
+changes or takeover bids the general partner will, if it 
+deems appropriate in an individual case, convene an 
+extraordinary shareholder meeting at which the share-
+holders discuss the relevant matters and, if necessary, 
+agree corporate-law measures to be taken. The ordinary 
+shareholder meeting takes place annually.
+•	
+The Supervisory Board of Ströer SE & Co. KGaA has 16 
+members. In accordance with the German Codetermi-
+nation Act, half of them are shareholder representatives 
+and half are employee representatives. The shareholder 
+representatives are elected by the shareholder meeting 
+of Ströer SE & Co. KGaA; the elections are held as individ-
+ual elections. The employee representatives are elected 
+in accordance with the provisions of the Codetermination 
+Act. The Supervisory Board advises and oversees the 
+general partner and examines the separate and consol-
+idated financial statements, the combined management 
+report, and the proposal for the appropriation of profit. It 
+approves the separate and consolidated financial state-
+ments and agrees the recommendation on the appropri-
+ation of profit to be put to the shareholder meeting. It is 
+jointly responsible with the general partner for preparing 
+the remuneration report. The Supervisory Board, with the 
+support of its Audit Committee, also deals with compli-
+ance issues. In view of the features specific to the legal 
+form of Ströer SE & Co. KGaA as a partnership limited by 
+shares, its Supervisory Board has a limited function. It 
+is not responsible for electing, appointing, or dismissing 
+members of the Board of Management, or for setting the 
+terms of their contracts. The Supervisory Board generally 
+meets four times a year. The remuneration of members 
+of the Supervisory Board is approved by the shareholder 
+meeting with the agreement of the general partner.
+
+37
+Governance: Acting in a way that builds trust
+Committees of the Supervisory Board of Ströer SE & 
+Co. KGaA
+[102-31] The Supervisory Board of Ströer SE & Co. KGaA 
+established two committees in 2021. The committee chairs 
+regularly report on the committees’ activities to the Super-
+visory Board.
+•	
+The main duty of the Audit Committee is to oversee the 
+financial reporting and the processes involved in such re-
+porting. It is responsible for the preliminary review of the 
+separate and consolidated financial statements and the 
+combined management report of Ströer SE & Co. KGaA 
+and the Ströer Group, including non-financial matters. 
+It also discusses the quarterly statements and half-year 
+financial reports with the Board of Management of the 
+general partner and deals with risk management, the in-
+ternal audit system, and compliance issues. The persons 
+responsible for these matters and the Chief Compliance 
+Officer report to the Audit Committee. It also performs 
+advisory and control functions on matters of sustainabil-
+ity and has created the role of Supervisory Board ESG 
+officer. The Audit Committee prepares the proposal of 
+the Supervisory Board on the election of the auditor to 
+be put to the shareholder meeting, examines the inde-
+pendence of the auditor, awards the audit engagement 
+in accordance with the resolution adopted by the share-
+holder meeting, and oversees the auditing of financial 
+statements along with the selection, quality, rotation, 
+and efficiency of the auditor. Finally, it carries out regu-
+lar assessments of the quality of the auditing. 
+•	
+The Nomination Committee is responsible for propos-
+ing suitable candidates to the Supervisory Board for the 
+election of shareholder representatives to the Supervi-
+sory Board by the shareholder meeting. When making 
+its proposals, the Nomination Committee must take 
+account of the profile of skills and expertise for share-
+holder representatives and ensure an appropriate mix of 
+male and female members in accordance with the statu-
+tory requirements.
+Membership of the Supervisory Board
+[102-23] In 2021, the Supervisory Board of Ströer SE & Co. 
+KGaA was composed of the following members who held the 
+memberships of statutory supervisory boards and compara-
+ble oversight bodies in Germany and abroad listed below.
+
+38
+Governance: Acting in a way that builds trust
+Shareholder representatives on the Supervisory Board of Ströer SE & Co. KGaA in 2021
+Member of the Supervisory 
+Board
+Profession
+Member since
+Appointed 
+until
+Memberships*
+Christoph Vilanek, Hamburg, 
+chairman ■
+CEO Freenet AG
+April 10, 2013
+2022
+CSB Ströer Management SE
+SB Ceconomy AG
+SB Exaring AG
+SB Verlag Norman Rentrop AG
+CM Mairs Geographischer Verlag
+Dirk Ströer, Cologne, 
+deputy chairman ■
+Entrepreneur
+April 20, 2004
+May 31, 2021
+DCSB Ströer Management SE
+Ulrich Voigt, Cologne, deputy 
+chairman since July 15, 2021 ■ ■
+Chairman of the board 
+of management of 
+Sparkasse Köln-Bonn
+September 24, 
+2013
+2022
+DCSB Ströer Management SE 
+since September 3, 2021
+SB Landesbank Berlin Holding AG
+SB Berlin Hypo AG
+SB Landesbank Berlin AG
+Dr. Karl-Georg Altenburg, London
+Vice chairman of the 
+Board of Directors of 
+Plastic Energy Global SL
+August 19, 2020
+2023
+SB Ströer Management SE
+CM Plastic Energy Global SL
+CM MedShr Ltd.
+Angela Barzen, Oberschleißheim
+Freelance business 
+coach, management 
+and company trainer
+June 19, 2019
+2022
+–
+Martin Diederichs, Cologne ■ ■ ■
+Lawyer
+June 16, 2018
+2022
+SB Ströer Management SE
+SB Pirson Montage AG
+CM DSD Steel Group GmbH
+Barbara Liese-Bloch, Cologne 
+Managing Director of 
+Monofil-Technik 
+Gesellschaft für 
+Synthesemonofile mbH
+November 4, 
+2020
+2023
+–
+Dr. Kai Sauermann, Cologne
+Auditor/tax accountant, 
+shareholder-managing 
+director of SEJ GmbH-
+Steuerberatungs- 
+gesellschaft
+September 3, 
+2021
+2024
+SB Ströer Management SE
+Petra Sontheimer, Cologne ■
+Management coach & 
+organizational  
+consultant
+June 15, 2018
+2022
+–
+*	 Memberships of statutory supervisory boards (CSB = chair of the supervisory board, DCSB = deputy chair of the supervisory board, SB = member of 
+the supervisory board).
+	 Memberships in comparable oversight bodies of commercial enterprises in Germany and abroad (CM = committee member).
+■	Member of the Audit Committee (chair Voigt, deputy chair Vilanek).
+■	 Member of the Nomination Committee (chair Diederichs, deputy chair Sontheimer).
+■	 ESG officer of the Ströer Supervisory Board.
+
+39
+Governance: Acting in a way that builds trust
+Profile of skills and expertise of Supervisory Board members
+[102-27] The Supervisory Board as a whole should meet the Company-specific and functional requirements that are essential in 
+view of the business activities of the Ströer Group. Not every Supervisory Board member has to have all the skills and expertise 
+listed below. These are rather the sum of all individual expertise, capabilities, and professional experience.
+Criterion
+Alten-
+burg
+Barzen
+Die-
+derichs
+Liese-
+Bloch
+Sauer-
+mann
+Sont-
+heimer
+Vilanek
+Voigt
+Experience in the area of media 
+and digital business
+
+
+In-depth experience in the area of 
+finance/capital markets
+
+
+Expertise in the area of accounting
+
+
+
+Expertise in the area of auditing
+
+
+
+
+Experience in supervisory board 
+and committee work and in the 
+management of large organizations
+
+
+
+
+
+Experience of corporate strategy 
+development and M&A processes
+
+
+
+
+
+The Supervisory Board should 
+always have at least two finance 
+experts among its members
+
+
+
+
+With regard to the diversity of its 
+members, the Supervisory Board 
+also aims for a range of profes-
+sional experience in different 
+areas and a range of ages and 
+backgrounds. It strives to ensure 
+adequate representation of all 
+genders (proportion of women on 
+the Supervisory Board of 30% or 
+more).
+
+
+
+The members should be in active 
+professional life
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+Remuneration incentives for sustainable actions
+[102-35, 102-36, 102-37] Sustainability is an integral element 
+of Ströer’s day-to-day business, and of its long-term corpo-
+rate strategy in particular. The successful implementation 
+of the strategy and its sustainability components should 
+be reflected in the Board of Management’s remuneration. 
+Through approaches such as appropriate incentives for in-
+creasing earnings and revenue, the current remuneration 
+system encourages the Board of Management of the general 
+partner to meet strategic targets and generate lasting busi-
+ness growth. 
+The new remuneration system for the Board of Manage-
+ment of the general partner encompasses key sustainability 
+aspects and takes stakeholder interests into account by in-
+troducing environmental, social, and corporate governance 
+(ESG) targets. The system is now more closely linked to the 
+corporate strategy and to sustainability. Environmentally 
+friendly practices and long-term profitable growth are equal-
+ly of the utmost importance.
+The new remuneration system for the Board of Management 
+of the general partner will be used for new and extended 
+employment contracts following approval of the system by 
+the shareholder meeting of Ströer SE & Co. KGaA in 2021. 
+The members of the Board of Management of the general 
+partner have grandfather rights and were thus still remuner-
+ated using the previous system in 2021. The system satisfies 
+AktG requirements and is based on the recommendations 
+set out in the German Corporate Governance Code. It com-
+plements the strategy and boosts the long-term growth of 
+the business.
+An ‘environment’ target, in particular the criterion ‘CO2 emis-
+sions’, will be the first relevant component target for calcu-
+lating the ESG factor in 2022. The extent to which this value 
+changes will determine a factor of between 0.8 and 1.2, 
+which is used as a multiplier for the variable remuneration. 
+Subsequent years will see the addition of a further compo-
+nent target (‘social’ or ‘corporate governance’, or both at the 
+same time). The specific criteria for these component targets 
+are still to be defined.
+
+40
+Governance: Acting in a way that builds trust
+The Supervisory Board of the general partner regularly re-
+views the remuneration of the members of the Board of 
+Management to assess whether it is appropriate and typ-
+ical for the market. Such reviews are based on comparisons 
+from both external and internal perspectives. They include 
+the structure as well as the amount of the remuneration. An 
+independent, external remuneration advisor assists the Su-
+pervisory Board with the review. In addition, the Superviso-
+ry Board of the general partner established a Remuneration 
+Committee during its meeting on June 22, 2022. 
+The 
+www
+ Remuneration Report of Ströer SE & Co. KGaA for 
+2021 contains more information.
+System of performance-related Board of Management remuneration from 2022 onward
+Timeline
+Performance criteria
+Objective
+Short-term incentive
+• 	Operating cash flow
+•	 ESG targets
+Promotes the strategic objective of profitable growth and now also the  
+importance of the environmental, social, and corporate governance factors. 
+Long-term incentive
+• 	ROCE
+•	 Organic revenue growth
+• 	Operating EBITDA
+• 	Share price
+Promotes the strategic objective of profitable growth and ensures that the  
+incentives have a long-term impact on conduct. The new structure will  
+have an even stronger reference to the capital markets and take even greater 
+account of the long-term interests of investors.
+Shareholder meeting and shareholder communication
+In accordance with the articles of association, Ströer SE & Co. 
+KGaA’s shareholders exercise their rights in the shareholder 
+meeting of Ströer SE & Co. KGaA. The shareholder meeting 
+adopts the Company’s annual financial statements and de-
+cides on matters such as the appropriation of profits, the 
+formal approval of the acts of the general partner and the 
+Supervisory Board, the election of the independent auditors, 
+and the legal foundations of the Company including, but not 
+limited to, amendments to the articles of association. Since 
+2021, the shareholder meeting has also adopted advisory 
+resolutions on the approval of the remuneration system to 
+be presented by the Supervisory Board.
+Each share entitles the holder to one vote in the sharehold-
+er meeting. Voting rights can be exercised by an authorized 
+agent. There are no shares with special voting rights. Unless 
+the law or the Company’s articles of association stipulate 
+a larger majority, the shareholder meeting’s decisions are 
+approved by simple majority of the votes cast. Where the 
+German Stock Corporation Act stipulates that resolutions 
+require a majority vote by the represented share capital, a 
+simple majority of the represented share capital is sufficient 
+if the law permits.
+The ordinary shareholder meeting takes place annually. 
+The notice of the shareholder meeting and agenda are also 
+published on Ströer’s website along with the reports and 
+documents required for the shareholder meeting. To make 
+it easier for them to exercise their rights, Ströer provides the 
+shareholders with proxies who are bound by their instruc-
+tions. The proxies can also be contacted during the share-
+holder meeting. Shareholders may also cast their votes in 
+writing or electronically (absentee voting). The Company 
+may stipulate that shareholders can participate in the share-
+holder meeting without being physically present and without 
+appointing an authorized representative, and can exercise 
+all their voting rights or specific voting rights wholly or in 
+part electronically.
+As part of its investor relations activities, Ströer publishes 
+regular, comprehensive reports on developments within the 
+Ströer Group on its 
+www
+ website. In addition to the quarterly 
+statements and half-year financial and business reports, the 
+Company also publishes results announcements, ad hoc dis-
+closures, analyst presentations and press releases here along 
+with the financial calendar for the current year. The calendar 
+contains key publication dates for financial communications 
+and the date of the shareholder meeting.
+
+41
+Governance: Acting in a way that builds trust
+8.2 Governance, risk & compliance system
+[102-30] In 2021, Ströer brought together the compliance, 
+risk management, internal control system, internal audit, 
+data protection, and IT security functions within the Ströer 
+Group in an integrated governance, risk & compliance (GRC) 
+system. This approach enables the Company to utilize syner-
+gies between the six functions, identify interdependencies 
+at an early stage, and intervene where necessary. Strategies, 
+processes, people, and technology are closely coordinated 
+with a view to efficiency and effectiveness. The GRC corpo-
+rate unit established at Ströer SE & Co. KGaA is supported by 
+a decentralized organization in all key areas of the business 
+(clusters). This ensures that segment-specific risks and cir-
+cumstances can be addressed appropriately, and that Ströer 
+can respond quickly to specific requirements and changes.
+The head of the GRC corporate unit reports directly to the 
+Board of Management of Ströer SE & Co. KGaA and is also 
+in direct contact with the chair of the Audit Committee of 
+Ströer SE & Co. KGaA’s Supervisory Board. The overarching 
+corporate governance, risk & compliance principles apply to 
+all the Group’s majority-held subsidiaries and create mini-
+mum organizational standards and a uniform framework for 
+the implementation and monitoring of, and reporting on, the 
+GRC system. They also provide a clear allocation and demar-
+cation of responsibilities. Within the six functions brought 
+together in the GRC system, there are separate policies, 
+responsibilities, and structures in place enabling the func-
+tion-specific requirements and risks to be addressed. 
+Board of Management of Ströer SE & Co. KGaA
+Compliance
+GRC division / Chief Compliance Officer
+GRC Group functions
+Risk management
+Internal control system
+Internal audit
+Data protection
+IT security
+Devolved GRC clusters by business segment
+Out-of-home advertising Germany
+Content
+Data-as-a-service
+Ströer Poland
+Digital marketing
+E-commerce
+blowUP
+Call centers
+Door-to-door
+OOH Media
+Digital & Dialog Media
+DaaS & E-Commerce
+
+42
+Governance: Acting in a way that builds trust
+The cross-disciplinary and cross-divisional composition of 
+the Governance, Risk & Compliance (GRC) committee es-
+tablished in May 2022 enables it to advise and support the 
+Board of Management. This ensures that overarching issues 
+are discussed on a regular basis and that the Board of Man-
+agement has a fully rounded view of the relevant issues.
+Alongside generally advising the Board of Management on 
+GRC issues, the committee’s main focus areas are its involve-
+ment in important compliance cases and compliance mea-
+sures, and the comprehensive assessment of the Company’s 
+risk-bearing capacity and risk position. The committee meet-
+ings are attended by the CFO of Ströer SE & Co. KGaA and 
+chaired by the head of Governance, Risk & Compliance.
+8.3 Information security
+Data security and confidentiality are integral elements of 
+Ströer’s operating policy. Key priorities of information securi-
+ty are ensuring that customers and employees can trust the 
+Ströer Group to use their data in a responsible and legally 
+compliant way and protecting the Company’s assets against 
+cyberattacks. This is even more important in an environment 
+where cybercriminals are becoming increasingly professional 
+and the risk to companies of data surveillance and attacks 
+on IT systems is thus constantly growing. 
+Ströer has defined authenticity, integrity, confidentiality, and 
+availability as the overarching objectives of information se-
+curity. The emphasis is on protecting the Ströer Group’s most 
+valuable assets. In order to achieve these objectives and take 
+account of developments in the field at an organizational 
+level, Ströer has prioritized the ongoing enhancement of the 
+Group’s information security systems since 2020. This pro-
+cess is based on the international ISO 27001 standard for 
+information security.
+The information security guidelines and the information se-
+curity management system (ISMS) defined therein apply to 
+all companies in the Ströer Group. They define in detail the 
+minimum standards that the Ströer Group companies must 
+meet with their individual information security organization 
+and associated measures. In addition to these definitions, 
+the policies are developed as required for the individual com-
+panies in the Ströer Group, to match local circumstances.
+In 2021, Ströer continued to develop processes, organiza-
+tion, and responsibilities in the area of information security 
+on this basis. A key element was the creation of the overar-
+ching Group Information Security Office. This department is 
+set to grow from two employees at the end of 2021 to eight 
+employees over the course of 2022. The Group Information 
+Security Office has the power to issue guidelines in infor-
+mation security; it drives improvement initiatives across the 
+Group, carries out audits within the Group, and advises the 
+Group companies. The Group Information Security Office is 
+assisted by employees in the departments and Group com-
+panies (Cluster Information Security Officers) who deal with 
+local information security and data security matters.
+Identifying weaknesses in systems and processes and find-
+ing solutions to remedy them are key to further improving 
+information security. Accordingly, Ströer continued testing 
+for weaknesses across the Group in 2021 and initiated the 
+appropriate remedial measures. Checks for weaknesses by 
+external providers are carried out twice a year in addition 
+to the inhouse tests. The plan is to increase the frequency 
+to every month from mid-2022 onward with ‘attack surface 
+monitoring’. External and internal penetration tests are car-
+ried out at regular intervals.
+In 2021, the Company started assessing software that con-
+tinually monitors all possible attack vectors (attack surface 
+monitoring) and analyzes any attack for severity and threat 
+level (threat intelligence). If a cyber incident is detected, the 
+tested incident response processes for the whole Group are 
+initiated. At the same time, crisis response teams are set up 
+in coordination with the Group Information Security Office 
+to scrutinize the attack. 
+To raise awareness of cybersecurity and keep all employees 
+up to date, Ströer introduced mandatory training in 2021 on 
+the current challenges of cybersecurity and how to deal with 
+it correctly. This additional training complements existing 
+mandatory training on information security and data protec-
+tion. In 2021, 4,743 mandatory training sessions on informa-
+tion security were carried out. In the second quarter of 2022, 
+a state-of-the-art training solution was purchased. The as-
+sociated training will start in the fourth quarter of 2022 and 
+be carried out at regular intervals as well as on a risk basis.
+
+43
+Governance: Acting in a way that builds trust
+8.4 Data protection
+[SASB] Data protection protects the right of customers, 
+business partners, and employees to privacy. With this in 
+mind, Ströer takes all appropriate measures to ensure the 
+security of personal data and protect it from misuse. The 
+main legal basis for this is the EU’s General Data Protection 
+Regulation (GDPR), and every employee must agree in writ-
+ing to adhere to it.
+Data protection management
+As with GRC, Ströer’s data protection organization is decen-
+tralized. Each cluster has an information security officer (ISO) 
+who takes on specific tasks defined in a separate guideline. 
+Where required, a data protection officer (DPO) is also ap-
+pointed at Group-company level. Each DPO is responsible 
+for advising and monitoring their company and acting as the 
+contact person for data subjects on matters of data protec-
+tion. Each Group company also appoints one or more data 
+protection coordinators (DPC). The DPC is the link between 
+ISO, DPO, and the relevant Group company. The DPC is also 
+the first port of call for employees and offers them advice.
+At the end of 2021, the data protection organization includ-
+ed five ISOs, eleven DPOs (internal and external), and 68 
+DPCs. The number of DPCs has been increased by 37 year on 
+year to effectively support the Group companies’ integration 
+into the data protection processes.
+At Group level, the Group data protection function within the 
+GRC corporate unit manages the coordination of all Group 
+companies in the data protection organization. Its responsi-
+bilities include issuing groupwide data protection guidelines 
+and monitoring the implementation of agreed measures. It 
+also ensures the regular sharing of information within the 
+data protection organization, for example as part of monthly 
+meetings between all relevant stakeholders. The function is 
+also responsible for coordinating important matters relating 
+to data protection and running the data protection man-
+agement system (DPMS). To support central data protection 
+processes, data protection management software has been 
+introduced across the Group. The software increases the au-
+tomation and standardization of data protection processes. 
+Key guidelines, procedures, and tools have been combined in 
+a ‘data protection toolbox’ which is made available to Ströer 
+Group subsidiaries to support their compliance with data 
+protection requirements. Employees can find explanations of 
+the key data protection roles, requirements, and applications 
+on the Ströer intranet.
+Data protection at Ströer is regularly reviewed by internal 
+auditors. Two data protection audits were carried out in 
+2021 with the aim of developing an understanding of the de-
+centralized data protection organization and the compliance 
+with current responsibilities. Once the audits were complet-
+ed, action plans for the relevant Ströer Group subsidiaries 
+were drawn up to define the measures and improvements to 
+be implemented.
+Complaints and data incidents
+[418-1] The management of data protection and related in-
+cidents is integral to data protection compliance at Ströer. 
+In certain cases, the GDPR stipulates that a personal data 
+breach must be reported to the relevant supervisory au-
+thority and the data subject, and so back in 2018, Ströer 
+published a data incident response plan for the reporting 
+of personal data breaches and as a guideline for the Ströer 
+Group. The guideline defines how data incidents are man-
+aged in the Ströer Group and what the responsibilities are 
+in this context.
+Complaints about data protection breaches and the loss of 
+data can be reported to Ströer via external reporting mech-
+anisms or the supervisory authority. In 2021, nine justified 
+complaints were received in connection with breaches of 
+customers’ privacy by Ströer Group companies in Germany, 
+all of them via external reporting mechanisms. In addition, 
+one case of data theft or data loss that is notifiable under the 
+GDPR was identified.
+Data protection training
+Ströer offers a wide range of data protection training tai-
+lored to each target group. Basic training on the GDPR was 
+launched on the JUMP’n’train interactive learning portal 
+in 2020, and is mandatory for all employees of the Ströer 
+Group. Since launch, 3,173 training sessions have been run. 
+Further online and classroom-based sessions on the topic of 
+data protection are on offer, and new hires receive relevant 
+training as part of the onboarding process. Additionally, 37 
+sessions and 296 hours of training were carried out for new 
+DPCs in 2021.
+
+44
+Governance: Acting in a way that builds trust
+8.5 Compliance
+[102-16, 102-17] Compliance is of great importance to the 
+general partner and the Supervisory Board of Ströer SE & Co. 
+KGaA. Compliance involves adhering to legal requirements, 
+obligations undertaken voluntarily, and internal company 
+policies. Given its importance to the Company, it is directly 
+overseen by Ströer’s CFO.
+In particular, compliance involves combating corruption and 
+bribery, both of which contravene all national and interna-
+tional legal frameworks. Ströer explicitly condemns all such 
+actions, including facilitation payments, both in relation to 
+holders of public office and in dealings with business part-
+ners and customers.
+Compliance management
+The head of the GRC corporate unit is appointed Chief Com-
+pliance Officer by the Board of Management of the general 
+partner. Under the decentralized structure, he or she is sup-
+ported by additional compliance officers within the clusters. 
+The Chief Compliance Officer reports directly to the CFO of 
+the general partner on an ongoing basis, and at regular in-
+tervals to the Audit Committee of the Supervisory Board of 
+Ströer SE & Co. KGaA. He or she monitors adherence to the 
+compliance-relevant processes within the Ströer Group, and 
+supports and advises employees and the Board of Manage-
+ment on compliance matters.
+The Chief Compliance Officer oversees the implementation 
+of Ströer’s compliance management system and is respon-
+sible for continually updating and adapting it. All essential 
+tasks, measures, and guidelines relating to compliance are 
+organized in the CMS, which includes prevention, detec-
+tion, and action components. It has a clear focus on pre-
+vention and thus avoiding compliance violations occurring 
+in the first place. The Chief Compliance Officer is also re-
+sponsible for carrying out legal assessments of non-com-
+pliance reports received and coordinating the investigation 
+into these. 
+Promoting a compliance culture and ethical behavior at Ströer
+Prevent
+Compliance risk management
+Identify
+React
+• 	 Compliance guidelines
+• 	 Compliance training
+• 	 Compliance advice
+• 	 Compliance risk analysis
+• 	 Whistleblowing system
+• 	 Ad hoc audits
+• 	 Implementing risk-mitigation 
+measures
+Ströer's compliance management system (CMS)
+Compliance reporting
+Compliance communication
+
+45
+Governance: Acting in a way that builds trust
+He or she is supported in this by the Compliance function, 
+which is based in the GRC corporate unit. Compliance devel-
+ops guidelines that apply across the Group and is responsible 
+for delivering training initiatives. 
+[102-25] [205-2] The 
+www
+ Code of Conduct is the main com-
+pliance guideline for all Ströer employees. The Code of 
+Conduct provides a binding framework across the Group 
+for lawful and ethical conduct within the Company and in 
+dealings with business partners and customers. The Code 
+of Conduct applies across the Ströer Group, including the 
+Board of Management. It provides guidance on antitrust law 
+and anti-corruption, and covers data protection, conflicts of 
+interest, insider dealing, and the protection of intellectual 
+property. The code also covers receiving or giving gifts and 
+inducements, and contains information on the external and 
+internal channels available to employees to report potential 
+misconduct. The Code of Conduct is regularly reviewed, up-
+dated, and adapted to changes in the legal framework.
+Compliance hotline  
+[102-33, 102-34] Ströer encourages all employees and third 
+parties, such as business partners or customers, to discuss 
+their compliance-related concerns openly and report any po-
+tential misconduct as soon as possible to the compliance or-
+ganization. A compliance email address has been set up for 
+confidentially reporting potential infringements of the Ströer 
+Code of Conduct or of legal regulations. The mailbox is man-
+aged by the Chief Compliance Officer. Potential misconduct 
+can also be reported in person or by telephone.
+In this context, the Board of Management of the general 
+partner has imposed a special confidentiality obligation on 
+the Chief Compliance Officer in all cases, including vis-à-vis 
+the Board of Management itself. The aim is to promote an 
+open compliance culture within Ströer that does not involve 
+the risk of suffering any disadvantage. 
+As a rule, employees who have general compliance-related 
+queries can contact the Chief Compliance Officer, the Com-
+pliance function, and the compliance officers in each area 
+of the business. This ensures that any matters that require 
+clarification are identified and resolved as early as possible.
+Compliance incidents
+[419-1] [406-1] [408-1] [409-1] [411-1] 
+[205-3]
+2020
+2021
+Notifications of compliance violations
+5
+1
+of which corruption/bribery
+–
+–
+of which antitrust law
+–
+–
+of which conflicts of interest
+–
+–
+of which human rights violations*
+–
+–
+of which other**
+5
+1
+not pursued as unsubstantiated
+0
+1
+* 	 In 2021, Ströer was not aware, either through its own investigations or 
+through third-party tip-offs, of any cases in which a risk of child, forced, 
+or compulsory labor was evident. Ströer was not aware of any cases of 
+human rights violations in 2021 or in the prior periods, neither in the 
+Group itself nor in the context of its supplier relationships. Ströer is not 
+active in any regions in which the rights of indigenous people could be 
+violated. 
+** 	Ströer was not aware of any incidents of discrimination within the 
+Company or at its suppliers. Ströer was also not aware of any cases 
+in which the Company’s products and services were alleged to have 
+negatively affected users’ health and safety.
+[205-3] There was one compliance-related report in 2021. 
+Following review, no further action was taken. No incidenc-
+es of corruption or bribery were identified within the Ströer 
+Group in 2020 and 2021. 
+An electronic whistleblowing system will be added to the 
+existing whistleblowing channels (email and telephone) in 
+the first half of 2022. Going forward, it will allow employees 
+and third parties, such as customers and suppliers, to easily 
+report their concerns, ask compliance-related questions, and 
+report compliance violations via an encrypted channel. The 
+system will be available in numerous languages and accessi-
+ble online or by phone. The launch of this compliance hotline 
+will be supported by a comprehensive communication cam-
+paign and a training plan.
+Compliance training  
+[205-2] In early 2020, the Ströer Group launched an online 
+training course entitled ‘Compliance – in general and in the 
+Ströer Group’ on JUMP’n’train. It provides an introduction 
+to the topic and covers the implementation of compliance 
+at Ströer. The course is mandatory for all employees of the 
+Ströer Group. So far, over 4,000 employees in risk-relevant 
+functions have successfully taken part in the training. 
+The training plan for 2022 will educate Ströer employees 
+across the Company in a range of compliance-related top-
+ics, including compliance basics, anti-corruption, and whis-
+tleblowing, while raising awareness of these matters. The 
+training initiative is set to be continued on a wide range of 
+topics in the years ahead.
+
+46
+Governance: Acting in a way that builds trust
+8.6 Other areas of GRC
+Internal audit
+[102-30] Internal audit is a process-independent function 
+and an integral element of corporate governance at Ströer. 
+The head of the internal audit function reports directly to the 
+CFO of the general partner, and is free to liaise directly with 
+the chair of the Ströer SE & Co. KGaA’s Audit Committee.
+When selecting the objects to include in its risk-oriented au-
+dit planning, the internal audit function at Ströer SE & Co. 
+KGaA takes into account operational and financial criteria, 
+the internal control environment in the relevant functions or 
+areas of business, and compliance-related matters and re-
+ports.
+In audits with an operational or financial focus, the internal 
+audit function always checks conformity with the control 
+environment embedded in the processes and with the appli-
+cable compliance requirements. The internal audit function 
+also checks specific areas of compliance and carries out an 
+independent review of the relevant corporate governance 
+sub-systems.
+Internal audit in the Ströer Group
+2020
+2021
+Audits in total
+11
+8
+of which focused on compliance
+3
+1
+of which focused on IT security/data 
+protection
+4
+2
+of which focused on the ICS
+2
+–
+of which focused on risk management
+2
+1
+Due to ongoing COVID-19 restrictions, audit activity was 
+broadly limited to remote audits in 2021. The head of GRC 
+regularly reports on the audits to the Board of Management 
+of the general partner and the Audit Committee of the Su-
+pervisory Board of Ströer SE & Co. KGaA. The results of the 
+audits are also contained in the annual internal audit report 
+to the Board of Management and the Audit Committee of 
+the Supervisory Board.
+Risk management
+[102-11, 102-30] The Board of Management of the general 
+partner is responsible for risk management at Ströer SE & Co. 
+KGaA, which forms an integral part of corporate governance 
+and of the Ströer Group’s planning and control processes. 
+The Board of Management is supported in this by the GRC 
+corporate unit, which provides the necessary guidelines and 
+policies as a basis for the operational and organization-
+al structure of risk management. The GRC corporate unit, 
+assisted by the cluster risk officer, is responsible for man-
+aging, monitoring, and reporting risk across the Group and 
+provides training to ensure that the process is implemented 
+consistently and in accordance with central policies.  
+Opportunity and risk management at the Ströer Group is 
+designed in such a way that the opportunities and risks rele-
+vant to the individual segments, clusters, and companies of 
+the Group are fully documented. This includes opportunities 
+and risks in the areas of environmental, social, and corpo-
+rate governance (ESG), which are continually monitored and 
+managed. In 2021, none of these were classed as material for 
+the purposes of risk management.
+Further information on the risk management process, the 
+latest risk situation, and material opportunities and risks is 
+available in the 
+www
+ ‘Opportunities and risks’ chapter in the 
+latest Annual Report of Ströer SE & Co. KGaA.
+8.7 Political relationships
+Political lobbying
+[102-13] The representation of society’s interests vis-à-vis 
+policymakers and the general public is one of the funda-
+mental characteristics of democracy. Part of this is being 
+transparent about lobbying in the policymaking and deci-
+sion-making process.
+[415-1] Ströer maintains a constructive dialogue with poli-
+cymakers and expresses its positions via its memberships in 
+industry associations, in particular. The focus in this respect 
+is on Germany. Ströer is firmly committed to ethical politi-
+cal lobbying. It is a matter of course and an integral part of 
+Ströer’s compliance management system that lobbyists ad-
+here to applicable legal provisions and act within the rules. 
+To preserve its neutrality, Ströer does not donate to political 
+parties.
+
+47
+Governance: Acting in a way that builds trust
+Tax strategy
+[207-1] Compliance with national and international tax law 
+is a fundamental principle that underpins sustainable corpo-
+rate governance at Ströer. The Company’s tax strategy aims 
+to ensure that tax matters at home and abroad are managed 
+in line with the law. The most important region in terms of 
+tax is Germany, where the Company generates around 90% 
+of its total revenue. Ströer is aware of its social responsibility 
+in Germany and of the role that tax plays in terms of infra-
+structure, education, and supporting the common good. It 
+pays any monies due in line with the principles laid down in 
+tax law. Internationally, Ströer follows the same standards 
+and targets, pays taxes according to the value created, and 
+complies with all applicable laws.
+[207-2] Overall responsibility for managing and monitoring 
+tax positions, and for ensuring compliance across the Group 
+with legal and international provisions, lies with the Board of 
+Management of the general partner. The head of Corporate 
+Tax and the Finance department maintain an active dialogue 
+with the Chief Financial Officer (CFO) about all material 
+tax-related topics and risks, and their impact on the Group’s 
+financial figures. The Corporate Tax department is firmly in-
+tegrated into day-to-day business, in particular by provid-
+ing guidelines and opinions on individual matters aimed at 
+achieving legal certainty in relation to taxation.
+[207-4] In accordance with its legal obligations, Ströer com-
+plies with national and international disclosure requirements 
+(country-by-country reporting under OECD guidelines, re-
+porting on international equity investments) in a timely 
+manner and maintains a transparent and constructive rela-
+tionship with the tax authorities and public bodies.
+Commercial aspects are the most important consideration 
+for Ströer when choosing new locations. At no time in 2021 
+did Ströer consider a move to a low-tax country, and general-
+ly the Company does not pursue aggressive tax models or at-
+tempt to shift profits. The provision of internal cross-border 
+services is limited to transactions between individual groups 
+of subsidiaries.
+Further information on the amount of tax Ströer has paid is 
+available in the 2021 annual report of Ströer SE & Co. KGaA.
+
+48
+Formal sustainability communication
+9 | FORMAL SUSTAINABILITY COMMUNICATION 
+9.1 About this report
+Contents and structure
+Ströer is committed to transparency toward its stakeholders. 
+This sustainability report is Ströer’s third successive stand-
+alone publication on the Group’s sustainability performance. 
+It complements the information contained in the 2021 an-
+nual report of Ströer SE & Co. KGaA and in Ströer’s separate 
+combined Group non-financial report under the German CSR 
+Directive Implementation Act (CSR-RUG) (section 289b-e 
+and section 315b–c of the German Commercial Code (HGB)).
+[102-46] The focal points of the sustainability report were 
+determined by means of a materiality analysis, with further 
+topics added based on aspects of strategy and transparency. 
+[102-54] This report was produced in accordance with the 
+criteria of the Global Reporting Initiative (GRI), 2016 edi-
+tion (Core). The relevant GRI Content Index is presented in 
+ chapter 9.2. The report also contains notes on the crite-
+ria of the Sustainability Accounting Standards Board (SASB) 
+and the Task Force on Climate-Related Financial Disclosures 
+(TCFD). In addition, the text contains notes on the relevant 
+GRI criteria and the SASB or TCFD. These can be identified by 
+the square brackets. In the future, the transparency of this 
+publication will be further enhanced in line with nationally 
+and internationally recognized reporting standards.
+[102-52] The Ströer sustainability report is published annu-
+ally in German and English. [102-50] The reporting period is 
+the 2021 calendar year. [102-51] The report on the prior pe-
+riod was published in August 2021 [102-45] The information 
+contained in this report covers all Group companies listed as 
+fully consolidated entities in the 2021 annual report of Ströer 
+SE & Co. KGaA. Any deviations from this reporting scope or 
+time frame have been highlighted. [102-56] The content of 
+this sustainability report has not been audited by an inde-
+pendent external party.
+Data
+[102-48, 102-49] With every successive publication, the 
+scope of reporting has been expanded and improved in 
+terms of quality and quantity. The sustainability data con-
+tained herein is collected in the relevant areas of the Group 
+and the business, and reported to sustainability manage-
+ment. In 2020, the calculation of the corporate carbon foot-
+print (CCF) included all Group companies and employees for 
+the first time, and all sources of emissions and the total of 
+related greenhouse gas emissions (scope 1 to 3) and signifi-
+cant consumption were presented in this report. Accordingly, 
+the values for 2019 to 2021 have been incorporated to allow 
+for a comparison over a period of three years. This provides 
+a clearer and more detailed sustainability profile across the 
+Group. However, it also means that not all environmental 
+KPIs published can be compared like-for-like with the figures 
+in previous reports.
+The calculation of the CCF in 2021 was based on the in-
+ternationally recognized standards of the Greenhouse Gas 
+Protocol. Where necessary, projections were made based on 
+primary data, and average values or data from 2020 used if 
+the methodology permitted. It is also important to note that, 
+as a rule, there are some considerable delays to the invoicing 
+of service charges by landlords. As a result, the figures for 
+all office space used by Ströer in 2021 were calculated based 
+on the service charges and related consumption up to May 
+2022, and on data from 2020 taken as reference. The conver-
+sion of the consumption data calculated by Ströer into CO2e 
+emissions was carried out by a service provider using recog-
+nized conversion factors. These included, among others, the 
+latest country-specific emissions factors of the International 
+Energy Agency (IEA). The illustrative calculation of the sav-
+ings made by switching to green electricity ( 
+ chapter 5.2) 
+is based on emissions factors from the average values for 
+green and gray electricity in Germany and Europe.
+Forward-looking statements
+This sustainability report contains forward-looking state-
+ments that entail risks and uncertainties. The actual business 
+performance and results of Ströer SE & Co. KGaA and of the 
+Group may differ significantly from the assumptions made in 
+this sustainability report. This report does not constitute an 
+offer to sell or an invitation to submit an offer to purchase 
+securities of Ströer SE & Co. KGaA. There is no obligation to 
+update the statements made in this report.
+
+49
+Formal sustainability communication
+9.2 GRI content index
+Indicator
+Description
+Page
+GRI 102: General disclosures 2016
+Organizational profile
+102-1
+Name of the organization
+4
+102-2
+Activities, brands, products, and services
+4, 26 et seq., 
+AR* 12 et seq.
+102-3
+Location of headquarters
+4
+102-4
+Location of operations
+4, AR 93 et seq.
+102-5
+Ownership and legal form
+35 et seq.
+102-6
+Markets served
+4
+102-7
+Scale of the organization
+4, AR 3, AR 14 et seq.
+102-8
+Information on employees and other workers
+18, 19 et seq.
+102-9
+Supply chain
+32
+102-10
+Significant changes to the organization and its supply chain
+4, AR 14 et seq., 
+AR 105 et seq.
+102-11
+Precautionary Principle or approach
+46
+102-12
+External initiatives
+5, 21, 29, 34
+102-13
+Membership of associations
+8, 31, 46
+Strategy
+102-14
+Statement from senior decision-maker
+1 et seq., 3
+102-15
+Key impacts, risks, and opportunities
+3, 5 et seq., 9 et seq.
+Ethics and integrity
+102-16
+Values, principles, standards, and norms of behavior
+5, 44 et seq.
+102-17
+Mechanisms for advice and concerns about ethics
+44 et seq.
+Governance
+102-18
+Governance structure
+36 et seq.
+102-19
+Delegating authority
+36 et seq.
+102-20
+Executive-level responsibility for economic, environmental, and social topics
+11, 36 et seq.
+102-21
+Consulting stakeholders on economic, environmental, and social topics
+36 et seq.
+102-22
+Composition of the highest governance body and its committees
+36 et seq.
+102-23
+Chair of the highest governance body
+37 et seq.
+102-24
+Nominating and selecting the highest governance body
+36 et seq.
+102-25
+Conflicts of interest
+45
+102-27
+Collective knowledge of highest governance body
+39
+102-30
+Effectiveness of risk management processes
+41 et seq., 46, 
+AR 52 et seq.
+102-31
+Review of economic, environmental, and social topics
+37
+102-32
+Highest governance body’s role in sustainability reporting
+11
+102-33
+Communicating critical concerns
+45
+102-34
+Nature and total number of critical concerns
+45
+102-35
+Remuneration policies
+35 et seq., 39, 
+RR** 1 et seq.
+102-36
+Process for determining remuneration
+35 et seq., 39, 
+RR 4 et seq.
+102-37
+Stakeholders‘ involvement in remuneration
+36, 39, RR 6
+Stakeholder engagement
+102-40
+List of stakeholder groups
+8
+102-41
+Collective bargaining agreements
+23
+102-42
+Identifying and selecting stakeholders
+8
+102-43
+Approach to stakeholder engagement
+8, 21
+102-44
+Key topics and concerns raised
+8, 21
+
+50
+Formal sustainability communication
+Indicator
+Description
+Page
+Reporting practice
+102-45
+Entities included in the consolidated financial statements
+48, AR 93 et seq.
+102-46
+Defining report content and topic boundaries
+5 et seq., 48
+102-47
+List of material topics
+5 et seq.
+102-48
+Restatements of information
+11, 48
+102-49
+Changes in reporting
+48
+102-50
+Reporting period
+48
+102-51
+Date of most recent report
+48
+102-52
+Reporting cycle
+48
+102-53
+Contact point for questions regarding the report
+53
+102-54
+Claims of reporting in accordance with the GRI Standards
+48
+102-55
+GRI content index
+49 et seq.
+102-56
+External assurance
+48
+GRI 103: Management approach 2016
+103-1
+Explanation of the material topic and its boundary
+1 et seq., 3, 
+5 et seq., 7
+103-2
+Management approach and its components
+5 et seq., 7
+103-3
+Evaluation of the management approach
+7, 11
+GRI 201: Economic performance 2016
+201-2
+Financial implications due to climate change
+14
+GRI 203: Indirect economic impacts 2016
+203-1
+Infrastructure investments and services supported
+26 et seq.
+GRI 204: Procurement practices 2016
+204-1
+Proportion of spending on local suppliers
+32
+GRI 205: Anti-corruption 2016
+205-2
+Communication and training
+45 et seq.
+205-3
+Confirmed incidents
+45
+GRI 207: Tax 2019
+207-1
+Approach to tax
+47
+207-2
+Tax governance, control, and risk management
+47
+207-4
+Country-by-country reporting
+47
+GRI 301: Materials 2016
+301-1
+Materials used
+17
+301-2
+Recycled input materials used
+17
+GRI 302: Energy 2016
+302-1
+Energy consumption within the organization
+15,16
+302-2
+Energy consumption outside of the organization
+15, 16
+302-3
+Energy intensity
+15
+302-4
+Reduction of energy consumption
+15, 16
+302-5
+Reductions in energy requirements of products and services
+15, 16
+GRI 305: Emissions 2016
+305-1
+Direct (Scope 1) GHG emissions
+13
+305-2
+Energy indirect (Scope 2) GHG emissions
+13
+305-3
+Other indirect (Scope 3) GHG emissions
+13
+305-4
+GHG emissions intensity
+13
+305-5
+Reduction of GHG emissions
+13
+305-6
+Emissions of ozone-depleting substances (ODS)
+13
+305-7
+NOx, SOx, and other significant air emissions
+13
+GRI 306: Effluents and waste 2016
+306-1
+Water discharge
+17
+306-2
+Waste by type and disposal method
+17
+306-3
+Significant spills
+17
+306-4
+Transport of hazardous waste
+17
+306-5
+Water bodies affected by water discharges and/or runoff
+17
+
+51
+Formal sustainability communication
+Indicator
+Description
+Page
+GRI 307: Environmental compliance 2016
+307-1
+Non-compliance with environmental laws and regulations
+12
+GRI 308: Supplier environmental assessment 2016
+308-1
+New suppliers that were screened
+32 et seq.
+GRI 401: Employment 2016
+401-1
+New employee hires and employee turnover
+19, 22
+401-2
+Benefits provided to full-time employees that are not provided to temporary or part-time 
+employees
+23, 25
+GRI 402: Labor/management relations 2016
+402-1
+Minimum notice periods regarding operational changes
+19, 24
+GRI 403: Occupational health and safety 2018
+403-1
+Occupational health and safety management system
+18, 24 et seq.
+403-2
+Hazard identification, risk assessment, and incident investigation
+24 et seq.
+403-3
+Occupational health services
+25
+403-4
+Worker participation, consultation, and communication
+1, 25
+403-5
+Worker training
+25
+403-6
+Promotion of worker health
+25
+403-8
+Workers covered by an occupational health and safety management system
+18, 24 et seq.
+403-9
+Work-related injuries
+24
+GRI 404: Training and education 2016
+404-1
+Average hours of training per year per employee
+22
+404-2
+Programs for upgrading employee skills and transition assistance programs
+22 et seq.
+GRI 405: Diversity and equal opportunity 2016
+405-1
+Diversity of governance bodies and employees
+21 et seq.
+GRI 406: Non-discrimination 2016
+406-1
+Incidents of discrimination and corrective actions taken
+23, 45
+GRI 407: Freedom of association and collective bargaining 2016
+407-1
+Operations and suppliers in which the right to freedom of association and collective bargaining 
+may be at risk
+23, 32, 34
+GRI 408: Child labor 2016
+408-1
+Operations and suppliers at significant risk for incidents of child labor
+45
+GRI 409: Forced or compulsory labor 2016
+409-1
+Operations and suppliers at significant risk for incidents of forced or compulsory labor
+45
+GRI 411: Rights of indigenous peoples 2016
+411-1
+Incidents of violations involving rights of indigenous peoples
+45
+GRI 412: Human rights assessment 2016
+412-2
+Employee training on human rights policies or procedures
+24
+GRI 414: Supplier social assessment 2016
+414-1
+New suppliers that were screened
+33
+414-2
+Negative social impacts int the supply chain and actions taken
+33
+GRI 415: Public policy 2016
+415-1
+Political contributions
+46
+GRI 416: Customer health and safety 2016
+416-1
+Assessment of the health and safety impacts of product and service categories
+30 et seq.
+GRI 418: Customer privacy 2016
+418-1
+Substantiated complaints
+43
+GRI 419: Socioeconomic compliance 2016
+419-1
+Non-compliance with laws and regulations in the social and economic area
+45
+* 	 Annual Report 2021 of Ströer SE & Co. KGaA
+** 	Remuneration Report 2021 of Ströer SE & Co. KGaA
+
+52
+Formal sustainability communication
+9.3 Further notes
+Task Force on Climate-Related Financial Disclosures (TCFD)
+Area
+Indicator
+Page
+Strategy
+Disclose the actual and potential impacts of climate-related risks and opportunities on the 
+organization’s businesses, strategy, and financial planning 
+14, 46
+Risk 
+management
+Disclose how the organization identifies, assesses, and manages climate-related risks
+14, 46
+Metrics and 
+targets
+Disclose the metrics and targets used to assess and manage relevant climate-related risks
+12 et seq.
+Sustainability Accounting Standards Board (SASB) for the marketing and advertising sector
+Area
+Indicator
+Page
+Data 
+protection
+Discuss guidelines and practices in relation to behavioral advertising and consumer protection
+30 et seq., 43 et seq.
+
+53
+Contacts and editorial information
+Publisher
+Ströer SE & Co. KGaA
+Ströer-Allee 1 . 50999 Cologne . Germany
+Phone: +49 (0)2236 . 96 45-0
+Fax: +49 (0)2236 . 96 45-299
+Email: info@stroeer.de
+Cologne local court
+HRB 86922
+VAT identification no.: DE811763883
+Sustainability contact
+Investor Relations & Credit Relations
+Ströer-Allee 1 . 50999 Cologne . Germany
+Phone: +49(0)2236 . 96 45-324
+Fax: +49 (0)2236 . 96 45-6324
+Email: ir@stroeer.de | cloehrke@stroeer.de 
+Editing and project management
+Sustainability management, Ströer SE & Co. KGaA
+GFD – Gesellschaft für Finanzkommunikation mbH,
+Frankfurt am Main . Germany
+Design and layout
+Ligaturas GmbH – Reportdesign . Hamburg . Germany
+Photos
+Ströer archive
+Freepik.com
+
+Ströer SE & Co. KGaA
+Ströer-Allee 1 . 50999 Cologne . Germany
+Phone +49 (0) 2236 . 96 45-0
+Fax +49 (0) 2236 . 96 45-299
+www.stroeer.com

@@ -1,0 +1,1848 @@
+The Complete Source for Sensing Solutions
+A N N U A L R E P O R T 2 0 1 5
+Y e a r e n d e d M a r c h 2 0 , 2 0 1 5
+
+C O R P O R A T E P R O F I L E
+Keyence Corporation has steadily grown since 1974 to
+become a leading company in factory automation. It
+accomplished this by delivering the quality sensors that
+automation needs. Today, Keyence serves 200,000
+customers in some 100 countries around the world, 
+where its name stands for innovation and excellence.
+Sensors, found in millions of applications, provide the
+positioning information essential for factory automation.
+There could be no automation of assembly lines without
+sensors. Keyence has consistently aided the automation
+revolution by developing superior sensor solutions.
+Contents
+1. Financial Highlights...................................................... P.1
+2. To Our Shareholders ..................................................... P.2
+3. New Product Highlights ............................................... P.4
+4. Independent Auditor's Report ....................................... P.6
+5. Consolidated Balance Sheet ......................................... P.7
+6. Consolidated Statement of Income ............................... P.8
+7. Consolidated Statement of Comprehensive Income .... P.9
+8. Consolidated Statement of Changes in Equity .............. P.10
+9. Consolidated Statement of Cash Flows ........................ P.11
+10. Notes to Consolidated Financial Statements ................ P.12
+11. Board of Directors......................................................... P.19
+Audit and Supervisory Board ....................................... P.19
+Corporate Data ............................................................. P.19
+Directory ...................................................................... P.19
+12. World Network ............................................................. P.20
+
+KEYENCE CORPORATION AND SUBSIDIARIES
+FINANCIAL HIGHLIGHTS
+1.Financial Highlights / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12
+YEARS ENDED MARCH 20
+1. All dollar figures herein refer to U.S. dollars. Dollar amounts are translated from Japanese yen, for convenience only,  at ¥121= US$1, the approximate exchange rate on March 20, 2015.
+2. Refer to Notes 12 and 14 in the notes to consolidated financial statements.
+Note
+Yen in millions
+350,000
+340,000
+330,000
+320,000
+310,000
+300,000
+290,000
+280,000
+270,000
+260,000
+250,000
+240,000
+230,000
+220,000
+210,000
+200,000
+190,000
+180,000
+170,000
+160,000
+150,000
+140,000
+130,000
+120,000
+110,000
+100,000
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+’01
+’02
+’03
+’04
+’05
+’06
+’07
+’08
+’09
+’10
+’11
+’12
+’13
+’14
+’15
+Net Sales
+Operating Income
+Net Income
+Millions of Yen
+Thousands of U.S. Dollars
+2015
+2014
+2015
+Net Sales 
+ ¥334,034 
+ ¥265,010 
+ $2,760,618 
+Operating Income 
+175,719 
+130,689 
+1,452,223 
+Net Income 
+121,063 
+85,904 
+1,000,524 
+Amounts Per Common Share (in yen and U.S. dollars) 
+Net Income 
+1,996.41 
+1,416.56 
+16.50 
+Cash dividends applicable to the year
+200.00 
+60.00 
+1.65 
+Total Assets 
+996,688 
+862,176 
+8,237,096 
+1
+
+TO OUR SHAREHOLDERS
+ 1 / 2.To Our Shareholders / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12
+Business results
+Despite the impact of falling oil prices and European debt problems, the world 
+economy in fiscal year 2015 saw a gradual recovery in developed countries, led by 
+the United States. On the other hand, overall growth in emerging markets continues 
+to lack momentum. Domestically, the underlying gradual recovery continued with 
+strong investment motivation, including for capital investments in the manufacturing 
+sector.
+Under these economic conditions, the KEYENCE Group worked to enhance planning 
+and development and strengthen sales capabilities toward sustaining mid- to long-
+term growth.
+In the product development field, we have developed new products that include 
+a 3D laser scanning confocal microscope, a 3-axis hybrid laser marker, and an 
+ultracompact vision sensor. In the sales field, we made efforts to increase our human 
+resources and expand our overseas sales offices.
+As a result of these activities, in this consolidated fiscal year, we recorded sales of 
+JPY 334,034 million, operating income of JPY 175,719 million, income before taxes 
+of JPY 186,347 million, and net income of JPY 121,063 million.
+2
+
+TO OUR SHAREHOLDERS
+ 1 / 2.To Our Shareholders / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12
+Performance by region
+1) Japan
+In Japan, business confidence is favorable overall with recovering corporate earnings 
+and a gradual upward trend in capital investment. Under these conditions, we worked 
+to release new products and enhance our sales capabilities, resulting in sales of 
+JPY165,113 million.
+2) Overseas
+In overseas markets, while growth in China and elsewhere slowed, the economic 
+recovery continued in the United States and other developed nations. Under these 
+economic conditions, we worked to enhance our sales capabilities by expanding the 
+number of our sales offices and increasing staff numbers, resulting in sales of JPY 
+168,921 million.
+As regards the global economy, a range of issues including trends in emerging 
+economies and the outcome of the Eurozone debt crisis will remain a cause for 
+concern into the future, but the modest recovery is expected to continue, particularly 
+in developed countries.
+The KEYENCE Group will continue to focus on developing new products and 
+expanding its sales capabilities. With global competition expected to intensify over the 
+long term, it is essential for manufacturing industries to streamline operations, pursue 
+energy efficiency, improve quality, and invest more in research and development. This 
+is where we think there is huge potential for us to expand our operations as a group. 
+To realize this potential, we will focus on applying the powers that we have cultivated 
+over the years to achieve growth.
+Akinori Yamamoto
+President
+June 2015
+3
+
+NEW PRODUCT HIGHLIGHTS
+ 1 / 2 / 3.New Product Highlights / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12
+3D Laser Scanning Confocal Microscope
+This laser microscope makes high-resolution observations possible 
+by offering automatic measurement of any shape or material 
+surface condition with the highest accuracy in the industry.
+Measurement and analysis accuracy has been greatly improved by 
+combining KEYENCE’s own laser application technology, optical 
+design technology, and image analysis technology.
+This microscope can also be used for evaluating and analyzing 
+prototypes and other similar work at research and development 
+facilities, leading to improved work efficiency.
+Autofocus 1D and 2D Code Reader
+This 2D code reader ensures readability of 2D codes printed on 
+metals, resins and the like, a task often difficult for conventional 
+readers.
+In addition to offering the world’s first automatic polarization 
+control function, this high-performance code reader also has built-
+in autofocus and automatic tuning functions that ensure anyone 
+can use it with ease.
+This reader’s IP65 enclosure rating also makes it capable of 
+handling a variety of on-site environments.
+4
+
+NEW PRODUCT HIGHLIGHTS
+ 1 / 2 / 3.New Product Highlights / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12
+3-Axis Hybrid Laser Marker
+KEYENCE’s high-peak, high-output hybrid laser marker offers 
+the sharp marking quality of a YVO4 laser coupled with the high-
+speed marking of a fiber laser.
+Equipped with a newly developed laser oscillator, this laser marker 
+offers the ability to create attractive markings quickly on both resin 
+and metal. Also, with its built-in 2D code reader, users can achieve 
+all required tasks with just one device, from marking to reading. 
+This laser marker can significantly help users meet their growing 
+traceability demands.
+Ultracompact Vision Sensor
+With its ultracompact head, the smallest in its class, this vision 
+sensor can be installed anywhere.
+Its automatic focus mechanism and digital zoom function ensure 
+stable detection, and its built-in “easy navigation” function means 
+setup takes only one minute.
+Helping to solve problems and improve quality on production lines 
+by preventing defects and improving yield, this vision sensor can 
+bring significant benefits for higher production efficiency.
+5
+
+INDEPENDENT AUDITOR'S REPORT
+ 1 / 2 / 3 / 4.Independent Auditor's Report / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12
+To the Board of Directors of Keyence Corporation:
+We have audited the accompanying consolidated balance sheet of Keyence Corporation and its consolidated 
+subsidiaries as of March 20, 2015, and the related consolidated statements of income, comprehensive income, 
+changes in equity, and cash flows for the year then ended, and a summary of significant accounting policies and 
+other explanatory information, all expressed in Japanese yen.
+Management's Responsibility for the Consolidated Financial Statements
+Management is responsible for the preparation and fair presentation of these consolidated financial statements in 
+accordance with accounting principles generally accepted in Japan, and for such internal control as management 
+determines is necessary to enable the preparation of consolidated financial statements that are free from material 
+misstatement, whether due to fraud or error.
+Auditor's Responsibility
+Our responsibility is to express an opinion on these consolidated financial statements based on our audit. We 
+conducted our audit in accordance with auditing standards generally accepted in Japan. Those standards require 
+that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial 
+statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the 
+consolidated financial statements. The procedures selected depend on the auditor's judgement, including 
+the assessment of the risks of material misstatement of the consolidated financial statements, whether due to 
+fraud or error. In making those risk assessments, the auditor considers internal control relevant to the entity's 
+preparation and fair presentation of the consolidated financial statements in order to design audit procedures that 
+are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the 
+entity's internal control. An audit also includes evaluating the appropriateness of accounting policies used and the 
+reasonableness of accounting estimates made by management, as well as evaluating the overall presentation of the 
+consolidated financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit 
+opinion.
+Opinion
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the 
+consolidated financial position of Keyence Corporation and its consolidated subsidiaries as of March 20, 2015, 
+and the consolidated results of their operations and their cash flows for the year then ended in accordance with 
+accounting principles generally accepted in Japan.
+Convenience Translation
+Our audit also comprehended the translation of Japanese yen amounts into U.S. dollar amounts and, in our 
+opinion, such translation has been made in accordance with the basis stated in Note 3 to the consolidated financial 
+statements. Such U.S. dollar amounts are presented solely for the convenience of readers outside Japan.
+June 12, 2015
+Deloitte Touche Tohmatsu LLC
+Yodoyabashi Mitsui Building
+4-1-1, Imabashi, Chuo-ku
+Osaka-shi, Osaka 541-0042
+Japan
+Tel:  +81 (6) 4560 6000
+Fax: +81 (6) 4560 6001
+www.deloitte.com/jp
+Member of
+Deloitte Touche Tohmatsu  Limited
+6
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED BALANCE SHEET
+ 1 / 2 / 3 / 4 / 5.Consolidated Balance Sheet / 6 / 7 / 8 / 9 / 10 / 11 / 12
+MARCH 20, 2015
+Millions of Yen
+Thousands of U.S. Dollars (Note 3)
+ASSETS:
+2015 
+2014 
+2015 
+CURRENT ASSETS:
+Cash and cash equivalents (Note 10)
+¥29,681 
+¥26,530 
+$245,303 
+Time deposits (Note 10)
+72,996 
+54,159 
+603,280 
+Marketable securities (Notes 4 and 10)
+537,278 
+400,994 
+4,440,316 
+Notes and accounts receivable (Note 10)
+98,864 
+80,787 
+817,058 
+Allowance for doubtful receivables
+(278)
+(277)
+(2,305)
+Inventories (Note 5)
+20,616 
+17,886 
+170,385 
+Deferred tax assets (Note 9)
+11,002 
+8,433 
+90,933 
+Other
+2,470 
+2,064 
+20,418 
+Total current assets
+772,632 
+590,579 
+6,385,390 
+PROPERTY, PLANT, AND EQUIPMENT:
+Land
+6,689 
+6,689 
+55,282 
+Buildings and structures
+18,668 
+18,428 
+154,286 
+Furniture and fixtures
+24,210 
+22,457 
+200,090 
+Other
+2,000 
+1,896 
+16,529 
+Total property, plant and equipment
+51,568 
+49,471 
+426,189 
+Accumulated depreciation
+(34,673)
+(32,177)
+(286,555)
+Net property, plant and equipment
+16,895 
+17,293 
+139,633 
+INVESTMENTS AND OTHER ASSETS:
+Investments in associated companies (Note 10)
+11,316 
+10,083 
+93,523 
+Investment securities (Notes 4 and 10)
+166,940 
+219,221 
+1,379,669 
+Funds in trust (Notes 4 and 10)
+25,719 
+21,911 
+212,555 
+Deferred tax assets  (Note 9)
+154 
+184 
+1,274 
+Other
+3,030 
+2,903 
+25,049 
+Total investments and other assets
+207,160 
+254,303 
+1,712,071 
+TOTAL 
+¥996,688 
+¥862,176 
+$8,237,096
+LIABILITIES AND EQUITY:
+2015 
+2014 
+2015
+CURRENT LIABILITIES:
+Notes and accounts payable (Note 10)
+¥6,553 
+¥6,422 
+$54,164 
+Income taxes payable (Note 10)
+40,754 
+31,951 
+336,814 
+Accrued bonuses
+6,433 
+5,423 
+53,173 
+Other
+12,914
+8,733 
+106,731 
+Total current liabilities
+66,657 
+52,530 
+550,884 
+LONG-TERM LIABILITIES:
+Other
+6,655 
+5,441 
+55,008 
+Total long-term liabilities
+6,655 
+5,441 
+55,008 
+EQUITY (Notes 8 and 12):
+Common stock, authorized, 150,000,000 shares; issued, 60,801,921 shares 
+in 2015 and 60,801,921 shares in 2014
+30,637 
+30,637 
+253,202 
+Capital surplus
+30,531 
+30,531 
+252,326 
+Retained earnings
+851,775 
+738,595 
+7,039,465 
+Treasury stock at cost, 162,443 shares in 2015 and 160,178 shares in 2014
+(3,066)
+(2,955)
+(25,345)
+Accumulated other comprehensive income
+Net unrealized gain on available-for-sale securities
+5,642 
+4,505 
+46,634 
+Foreign currency translation adjustments
+7,869 
+2,890 
+65,037 
+Defined retirement benefit plan
+(14)
+ 
+(116)
+Total equity
+923,375 
+804,204 
+7,631,203 
+TOTAL 
+¥996,688 
+¥862,176 
+$8,237,096 
+See notes to consolidated financial statements.
+7
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED STATEMENT OF INCOME
+ 1 / 2 / 3 / 4 / 5 / 6.Consolidated Statement of Income / 7 / 8 / 9 / 10 / 11 / 12
+YEAR ENDED MARCH 20, 2015
+Millions of Yen Thousands of U.S. Dollars (Note 3)
+2015
+2014
+2015
+NET SALES
+¥334,034 
+¥265,010 
+$2,760,618 
+COSTS AND EXPENSES:
+Cost of sales
+67,615 
+59,082 
+558,806 
+Selling, general, and administrative
+80,581 
+65,324 
+665,963 
+Research and development
+10,118 
+9,913 
+83,624 
+Total costs and expenses
+158,315 
+134,320 
+1,308,394 
+OPERATING INCOME
+175,719 
+130,689 
+1,452,223 
+OTHER INCOME (EXPENSES):
+Interest and dividend income
+4,933 
+1,059 
+40,770 
+Foreign exchange gain (loss)
+3,208 
+1,439 
+26,520 
+Equity in earnings of associated companies
+1,264 
+1,253 
+10,451 
+Gain (Loss) from funds in trust
+2,375 
+2,533 
+19,630 
+Loss on disposal of property and equipment
+(94)
+(62)
+(779)
+Loss on impairment of long lived assets (Note 6)
+(691)
+Other - net
+(1,059)
+(170)
+(8,753)
+Other income (expenses) -net
+10,628 
+5,361 
+87,840 
+INCOME BEFORE INCOME TAXES 
+186,347 
+136,051 
+1,540,064 
+INCOME TAXES (Note 9):
+Current
+67,079 
+52,344 
+554,377 
+Deferred
+(1,795)
+(2,197)
+(14,837)
+Total income tax
+65,284 
+50,146 
+539,539 
+NET INCOME
+¥121,063 
+¥85,904 
+$1,000,524 
+Yen
+U.S. Dollars
+2015
+2014
+2015
+Net income
+¥1,996.41 
+¥1,416.56 
+$16.50 
+Cash dividends applicable to the year
+200.00 
+60.00 
+1.65 
+See notes to consolidated financial statements.
+AMOUNTS PER COMMON SHARE (Notes 12 and 14)
+8
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+ 1 / 2 / 3 / 4 / 5 / 6 / 7.Consolidated Statement of Comprehensive Income / 8 / 9 / 10 / 11 / 12
+YEAR ENDED MARCH 20, 2015
+Millions of Yen Thousands of U.S. Dollars (Note3)
+2015 
+2014 
+2015 
+NET INCOME
+¥121,063 
+¥85,904 
+$1,000,524 
+OTHER COMPREHENSIVE INCOME (Note 11):
+Unrealized gain on available-for-sale securities
+1,136 
+1,243 
+9,389 
+Foreign currency translation adjustments
+5,001 
+3,511 
+41,332 
+Share of other comprehensive income in associated companies
+(35)
+(54)
+(289)
+Total other comprehensive income
+6,102 
+4,700 
+50,432 
+COMPREHENSIVE INCOME
+¥127,165 
+¥90,605 
+$1,050,957 
+TOTAL COMPREHENSIVE INCOME ATTRIBUTABLE TO
+Owners of the parent
+¥127,165 
+¥90,605 
+$1,050,957 
+Minority interests
+—
+—
+—
+See notes to consolidation financial statements.
+9
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8.Consolidated Statement of Changes In Equity / 9 / 10 / 11 / 12
+YEAR ENDED MARCH 20, 2015
+Millions of Yen
+Accumulated other 
+comprehensive income 
+Outstanding number 
+of shares of common 
+stock
+Common 
+stock 
+Capital 
+surplus 
+Retained 
+earnings 
+Treasury 
+stock 
+Net unrealized gain 
+on available-
+for-sale securities
+Foreign currency 
+translation 
+adjustment 
+Defined retirement 
+benefit plan 
+Total 
+Equity
+BALANCE, MARCH 21, 2013
+60,644,722 
+¥30,637 
+¥30,531 
+¥657,239 
+(¥2,845)
+¥3,258 
+(¥563)
+ 
+¥718,256 
+Net income
+85,904 
+85,904 
+Cash dividends, ¥60.00 per share
+(4,548)
+(4,548)
+Repurchase of treasury stock
+(2,983)
+(109)
+(109)
+Disposal of treasury stock
+4 
+0 
+0 
+0 
+Net change in the year
+1,246 
+3,454 
+4,700 
+BALANCE, MARCH 20, 2014
+60,641,743 
+30,637 
+30,531 
+738,595 
+(2,955)
+4,505 
+2,890 
+ 
+804,204 
+Net income
+121,063 
+121,063 
+Cash dividends, ¥200.00 per share
+(7,883)
+(7,883)
+Repurchase of treasury stock
+(2,280)
+(112)
+(112)
+Disposal of treasury stock
+15 
+0 
+0 
+0 
+Net change in the year
+1,137 
+4,978 
+(14)
+6,102 
+BALANCE, MARCH 20, 2015
+60,639,478 
+¥30,637 
+¥30,531 
+¥851,775 
+(¥3,066)
+¥5,642 
+¥7,869 
+(¥14)
+¥923,375 
+	
+Thousands of U.S. Dollars (Note 3)
+Accumulated other
+comprehensive income
+Common stock
+Capital surplus
+Retained 
+earnings
+Treasury stock
+Net unrealized gain 
+on available-
+for-sale securities
+Foreign currency 
+translation 
+adjustment
+Defined retirement 
+benefit plan
+Total
+Equity
+BALANCE, MARCH 20, 2014
+$253,202 
+$252,323 $6,104,092 
+($24,421)
+$37,233 
+$23,889 
+ 
+$6,646,319 
+Net income
+1,000,524 
+1,000,524 
+Cash dividends, $1.65 per share
+(65,151)
+(65,151)
+Repurchase of treasury stock
+(926)
+(926)
+Disposal of treasury stock
+2 
+2 
+4 
+Net change in the year
+9,401 
+41,148 
+(116)
+50,432 
+BALANCE, MARCH 20, 2015
+$253,202 
+$252,326 $7,039,465 
+($25,345)
+$46,634 
+$65,037 
+($116)
+$7,631,203 
+See notes to consolidated financial statements.
+10
+
+KEYENCE CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CASH FLOWS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9.Consolidated Statement of Cash Flows / 10 / 11 / 12
+YEAR ENDED MARCH 20, 2015
+See notes to consolidated financial statements.
+Millions of Yen Thousands of U.S. Dollars (Note 3)
+2015
+2014
+2015
+OPERATING ACTIVITIES:
+Income before income taxes
+¥186,347 
+¥136,051 
+$1,540,064 
+Adjustments for:
+Income taxes paid
+(58,343)
+(35,779)
+(482,177)
+Depreciation and amortization
+3,592 
+3,427 
+29,691 
+Equity in earnings of associated companies
+(1,264)
+(1,253)
+(10,451)
+Impairment loss
+691 
+Changes in assets and liabilities:
+Decrease (Increase) in notes and accounts receivable
+(15,398)
+(10,119)
+(127,263)
+Decrease (Increase) in inventories
+(1,718)
+(1,071)
+(14,201)
+Decrease (Increase)  in interest and dividend receivable
+1,106 
+1,550 
+9,143 
+Increase (Decrease) in notes and accounts payable
+130 
+2,796 
+1,074 
+Increase (Decrease)  in accrued bonuses
+898 
+706 
+7,422 
+Other - net
+(1,039) 
+(3,837)
+(8,588) 
+Total adjustments
+(72,037)
+(42,888)
+(595,350)
+Net cash provided by operating activities
+114,310 
+93,162 
+944,714 
+INVESTING ACTIVITIES:
+Net decrease (increase) in time deposits
+(16,759)
+39,811 
+(138,508)
+Capital expenditures
+(3,011)
+(3,348)
+(24,892)
+Net increase in marketable and investment securities and other
+(84,565)
+(120,736)
+(698,887)
+Proceeds from purchase of investments in subsidiaries resulting in change in 
+scope of consolidation
+(3)
+(28)
+Other - net
+(10)
+58 
+(86)
+Net cash used in investing activities
+(104,350)
+(84,215)
+(862,403)
+FINANCING ACTIVITIES:
+Cash dividends paid
+(7,883)
+(4,548)
+(65,151)
+Net increase in treasury stock
+(111)
+(108)
+(921)
+Net cash used in financing activities
+(7,994)
+(4,657)
+(66,073)
+EFFECT OF FOREIGN CURRENCY TRANSLATION ADJUSTMENTS 
+ON CASH AND CASH EQUIVALENTS
+1,186 
+1,449 
+9,809 
+NET INCREASE IN CASH AND CASH EQUIVALENTS
+3,151 
+5,739 
+26,047 
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR
+26,530 
+20,790 
+219,256 
+CASH AND CASH EQUIVALENTS, END OF YEAR
+¥29,681 
+¥26,530 
+$245,303 
+11
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+1.	BASIS OF PRESENTATION OF CONSOLIDATED FINANCIAL STATEMENTS
+The accompanying consolidated financial statements have been prepared in accordance with the provisions set forth in the Japanese Financial Instruments and 
+Exchange Act and its related accounting regulations and in accordance with accounting  principles generally accepted in Japan (“Japanese GAAP”), which are 
+different in certain respects as to the application and disclosure requirements of International Financial Reporting Standards. In preparing these consolidated financial 
+statements, certain reclassifications and rearrangements have been made to the consolidated financial statements issued domestically in order to present them in a 
+form which is more familiar to readers outside Japan. In addition, certain reclassifications have been made in the 2014 consolidated financial statements to conform 
+to the classifications used in 2015. Amounts less than one million yen and one thousand U.S. dollars are rounded down, except for per share data.  Therefore, total or 
+subtotal amounts may not correspond with the aggregation of such account balances.
+2.	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+a.	Consolidation — The consolidated financial statements include the accounts of Keyence Corporation (the “Company”) and its 27 significant (all in 2014) 
+subsidiaries (together, the “Group”). Under the control and influence concepts, those companies in which the Company, directly or indirectly, is able to exercise 
+control over operations are fully consolidated, and those companies over which the Group has the ability to exercise significant influence are accounted for by 
+the equity method. All significant intercompany balances and transactions have been eliminated in consolidation. All material unrealized profit included in assets 
+resulting from intercompany transactions is eliminated.
+b.	Cash Equivalents — Cash equivalents are short-term investments that are readily convertible into cash and that are exposed to insignificant risk of changes 
+in value. Cash equivalents include time deposits, all of which mature or become due within three months of the date of acquisition.
+c.	Inventories — Inventories of the Company and its domestic subsidiaries are principally stated at the lower of cost, determined by the average cost method or 
+net selling value. Inventories of foreign subsidiaries are principally stated at the lower of cost, determined by the average method or market.
+d.	Marketable and Investment Securities — All of the Group’s securities are classified as available-for-sale securities and are reported at fair value, with 
+unrealized gains and losses, net of applicable taxes, reported in a separate component of equity. Nonmarketable available-for-sale securities are stated at cost 
+determined by the moving-average method. For other-than-temporary declines in fair value, investment securities are reduced to net realizable value by a charge 
+to income.
+e.	Allowance for Doubtful Receivables — The Company and its domestic subsidiaries have provided an allowance for doubtful receivables stated in an 
+amount considered to be appropriate based on the Group’s past credit loss experience and an evaluation of potential losses in the receivables outstanding. 
+Foreign subsidiaries have provided an allowance for doubtful receivables at the estimated amount of probable bad debts.
+f.	 Property, Plant and Equipment — Property, plant and equipment are stated at cost. Depreciation of property, plant and equipment of the Company and 
+its domestic subsidiaries is principally computed by the declining-balance method at rates based on the estimated useful lives of the assets. Depreciation of 
+property, plant and equipment of foreign subsidiaries is principally computed by the straight-line method at rates based on the estimated useful lives of the 
+assets.
+g.	Long-Lived Assets — The Group reviews its long-lived assets for impairment whenever events or changes in circumstance indicate the carrying amount of 
+an asset or asset group may not be recoverable.  An impairment loss would be recognized if the carrying amount of an asset or asset group exceeds the sum of 
+the undiscounted future cash flows expected to result from the continued use and eventual disposition of the asset or asset group. The impairment loss would 
+be measured as the amount by which the carrying amount of the asset exceeds its recoverable amount, which is the higher of the discounted cash flows from 
+the continued use and eventual disposition of the asset or the net selling price at disposition.
+h.	Foreign Currency Transactions — All short-term and long-term monetary receivables and payables denominated in foreign currencies are translated into 
+Japanese yen at the exchange rates at the balance sheet date. The foreign exchange gains and losses from translation are recognized in the consolidated 
+statement of income to the extent that they are not hedged by forward exchange contracts.
+i.	 Foreign Currency Financial Statements — The balance sheet accounts of foreign subsidiaries and associated companies are translated into Japanese yen 
+at the current exchange rates as of the balance sheet date, except for equity, which is translated at the historical rates. Differences arising from such translation 
+are shown as “Foreign currency translation adjustments” under accumulated other comprehensive income in a separate component of equity. Revenue and 
+expense accounts of consolidated foreign subsidiaries are translated into Japanese yen at the average exchange rate.
+j.	 Income Taxes — The provision for income taxes is computed based on the pretax income included in the consolidated statement of income. The asset and 
+liability approach is used to recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the carrying 
+amounts and the tax basis of assets and liabilities. Deferred taxes are measured by applying currently enacted income tax rates to the temporary differences.
+k.	Research and Development Costs —  Research and development costs are charged to income as incurred.
+l.	 Per Share Information — Basic net income per share is computed by dividing net income available to common shareholders by the weighted-average 
+number of common shares outstanding for the period, retroactively adjusted for stock splits. The Company did not have securities or contingent stock 
+agreements that could potentially dilute net income per common share in the year ended March 20, 2015.
+12
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+m.	 Leases — In March 2007, the Accounting Standards Board of Japan (the "ASBJ") issued ASBJ Statement No. 13, “Accounting Standard for Lease 
+Transactions,” which revised the previous accounting standard for lease transactions issued in June 1993.  The revised accounting standard for lease 
+transactions is effective for fisical years beginning on or after April 1, 2008, with early adoption permitted for fiscal years beginning on or after April 1, 2007. 
+Under the previous accounting standard, finance leases that were deemed to transfer ownership of the leased property to the lessee were to be capitalized. 
+However, other finance leases were permitted to be accounted for as operating lease transactions if certain “as if capitalized” information is disclosed in the 
+note to the lessee’s financial statements. The revised accounting standard requires that all finance lease transactions should be capitalized by recognizing 
+lease assets and lease obligations in the balance sheet. In addition, the revised accounting standard permits leases that existed at the transition date and do 
+not transfer ownership of the leased property to the lessee to be accounted for as operating lease transactions. The Company applied the revised accounting 
+standard effective March 21, 2009. All other leases are accounted for as operating leases.
+n.	Unification of Accounting Policies Applied to Foreign Subsidiaries and Associated Companies for the Consolidated Financial Statements — In May 
+2006, the ASBJ issued ASBJ Practical Issues Task Force (PITF) No. 18, “Practical Solution on Unification of Accounting Policies Applied to Foreign Subsidiaries 
+for the Consolidated Financial Statements.” PITF No. 18 prescribes: (1) the accounting policies and procedures applied to a parent company and its subsidiaries 
+for similar transactions and events under similar circumstances should in principle be unified for the preparation of the consolidated financial statements; (2) 
+financial statements prepared by foreign subsidiaries in accordance with either International Financial Reporting Standards or  generally accepted accounting 
+principles in the United States of America tentatively may be used for the consolidation process; (3) however, the following items should be adjusted in the 
+consolidation process so that net income is accounted for in accordance with Japanese GAAP,  unless they are not material: (a) amortization of goodwill; (b) 
+scheduled amortization of actuarial gain or loss of pensions that has been directly recorded in equity; (c) expensing capitalized development costs of R&D; (d) 
+cancellation of the fair value model of accounting for property, plant and equipment and investment properties and incorporation of the cost model of accounting; 
+and (e) exclusion of minority interests from net income, if contained in net income.
+	
+In March 2008, the ASBJ issued ASBJ Statement No. 16 (Revised 2008), “Revised Accounting Standard for Equity Method of Accounting for Investments.”  The 
+new standard requires adjustments to be made to conform the associate’s accounting policies for similar transactions and events under similar circumstances 
+to those of the parent company when the associate’s financial statements are used in applying the equity method unless it is impracticable to determine 
+adjustments. In addition, financial statements prepared by foreign associated companies in accordance with either International Financial Reporting Standards or 
+generally accepted accounting principles in the United States of America tentatively may be used in applying the equity method if the following items are adjusted 
+so that net income is accounted for in accordance with Japanese GAAP, unless they are not material: (a) amortization of goodwill; (b) scheduled amortization of 
+actuarial gain or loss of pensions that has been directly recorded in equity; (c) expensing capitalized development costs of R&D; (d) cancellation of the fair value 
+model of accounting for property, plant and equipment and investment properties and the incorporation of the cost model of accounting ; and (e) exclusion of 
+minority interests from net income, if contained in net income. 
+o.	Accounting Changes and Error Corrections — In December 2009, the ASBJ issued ASBJ Statement No. 24, “Accounting Standard for Accounting 
+Changes and Error Corrections” and ASBJ Guidance No. 24, “Guidance on Accounting Standard for Accounting Changes and Error Corrections.”  Accounting 
+treatments under this standard and guidance are as follows:
+1)	Changes in Accounting Policies
+When a new accounting policy is applied following revision of an accounting standard, the new policy is applied retrospectively, unless the revised 
+accounting standard includes specific transitional provisions, in which case the entity shall comply with the specific transitional provisions.
+2)	Changes in Presentation
+When the presentation of financial statements is changed, prior-period financial statements are reclassified in accordance with the new presentation. 
+3)		Changes in Accounting Estimates
+A change in an accounting estimate is accounted for in the period of the change if the change affects that period only, and is accounted for prospectively if 
+the change affects both the period of the change and future periods.
+4)		Corrections of Prior-Period Errors
+When an error in prior-period financial statements is discovered, those statements are restated.
+3.	TRANSLATIONS INTO U.S. DOLLARS
+The consolidated financial statements are stated in Japanese yen, the currency of the country in which the Company is incorporated and operates. The translations of 
+Japanese yen amounts into U.S. dollar amounts are included solely for the convenience of readers outside Japan and have been made at the rate of ¥121 to $1, the 
+approximate rate of exchange at March 20, 2015. Such translations should not be construed as representations that the Japanese yen amounts could be converted 
+into U.S. dollars at that or any other rate.
+13
+
+KEYENCE CORPORATION AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+4.	MARKETABLE AND INVESTMENT SECURITIES
+Marketable and investment securities, and securities held as funds in trust as of March 20, 2015 and 2014, consisted of the following:
+Millions of Yen
+Thousands of 
+U.S. Dollars
+2015
+2014
+2015
+Current:
+Government and corporate bonds
+¥390,295 
+¥303,353 $3,225,582 
+Negotiable certificate of deposits 
+146,982 
+97,641 
+1,214,733 
+Total
+¥537,278 
+¥400,994 $4,440,316 
+Millions of Yen
+Thousands of 
+U.S. Dollars
+2015
+2014
+2015
+Non-current:
+Equity securities
+¥3,289 
+¥2,486 
+$27,188 
+Government and corporate bonds
+145,693
+201,431
+1,204,078 
+Trust fund investments and other
+43,675
+37,214
+360,957 
+Total
+¥192,659 
+¥241,132 $1,592,225
+The carrying amounts and aggregate fair values of marketable and investment securities, and securities held as funds in trust at March 20, 2015 and 2014, were as 
+follows:
+Millions of Yen
+2015
+Securities classified as:
+Cost
+Unrealized 
+Gains
+Unrealized 
+Losses
+Fair value
+Available-for-sale:
+Equity securities
+¥772 
+¥2,517 
+¥0 
+¥3,289 
+Government and corporate bonds
+ 535,687 
+ 312 
+ 11 
+ 535,989 
+Trust fund investments and other
+ 184,733 
+ 5,925 
+ - 
+ 190,658 
+Millions of Yen
+2014
+Securities classified as:
+Cost
+Unrealized 
+Gains
+Unrealized 
+Losses
+Fair value
+Available-for-sale:
+Equity securities
+¥772 
+¥1,725 
+¥11 
+¥2,486 
+Government and corporate bonds
+ 504,554 
+ 235 
+ 4 
+ 504,784 
+Trust fund investments and other
+ 129,815 
+ 5,040 
+ - 
+ 134,855 
+Thousands of U.S. Dollars
+2015
+Securities classified as:
+Cost
+Unrealized 
+Gains
+Unrealized 
+Losses
+Fair value
+Available-for-sale:
+Equity securities
+$6,384 
+$20,805
+$0 
+$27,188 
+Government and corporate bonds
+ 4,427,171 
+ 2,584 
+ 95  4,429,661 
+Trust fund investments and other
+ 1,526,722 
+ 48,968 
+ -  1,575,691 
+5.	INVENTORIES
+Inventories at March 20, 2015 and 2014, consisted of the following:
+Millions of Yen
+Thousands of U.S. Dollars
+2015
+2014
+2015
+Finished products
+ ¥11,875 
+ ¥9,510 
+ $98,146 
+Work in process
+3,903
+3,839 
+32,260 
+Raw materials
+4,837
+4,536
+39,978 
+Total
+ ¥20,616 
+ ¥17,886 
+ $170,385 
+Location
+Use
+Type of assets
+Loss on impairment of fixed assets (millions of yen)
+Otsu-shi
+Training facility
+Buildings and land
+¥691 
+6.	IMPAIRMENT LOSS
+The Group recognized losses on impairment of fixed assets for the year ended March 20, 2014.
+The Group bases the grouping for assessing impairment losses on an individual asset. The Company made the decision to close these facilities. As a result, the book 
+values of the above assets were written down to their recoverable amounts. The recoverable amount of the land was measured at the net realizable amount based on 
+its roadside land price. The recoverable amount of the bulidings for which no future use has been planned were measured as zero.
+7.	EMPLOYEES' RETIREMENT BENEFITS
+The company and certain subsidiaries have prepayment retirement benefits and defined contribution pension plans. The net periodic benefit costs for the years ended 
+March 20, 2015 and 2014, were as follows:
+Millions of Yen
+Thousands of U.S. Dollars
+2015
+2014
+2015
+Contribution to defined contribution pension plans and prepayment retirement benefits
+¥1,022
+ ¥910 
+ $8,448 
+14
+
+KEYENCE CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+8.	EQUITY
+Japanese companies are subject to the Companies Act of Japan (the “Companies Act”). The significant provisions in the Companies Act that affect financial and 
+accounting matters are summarized below:
+a.	Dividends—Under the Companies Act, companies can pay dividends at any time during the fiscal year in addition to the year-end dividend upon resolution at 
+the shareholders' meeting. For companies that meet certain criteria, including (1) having a Board of Directors, (2) having independent auditors, (3) having an Audit 
+Supervisory Board, and (4) having a term of service for the directors prescribed as one year rather than two years of normal term per its articles of incorporation, 
+the Board of Directors may declare dividends (except for dividends-in-kind) at any time during the fiscal year.  
+The Companies Act permits companies to distribute dividends in kind (noncash assets) to shareholders subject to a certain limitations and additional 
+requirements. 
+Semiannual interim dividends may also be paid once a year upon resolution by the Board of Directors if the articles of incorporation of the company so stipulate.  
+The Companies Act provides certain limitations on the amounts available for dividends or the purchase of treasury stock. The limitation is defined as the amount 
+available for distribution to the shareholders, but the amount of net assets after dividends must be maintained at no less than ¥ 3 million.
+b.	Increases / Decreases and Transfer of Common Stock, Reserve, and Surplus—The Companies Act requires that an amount equal to 10% of dividends 
+must be appropriated as a legal reserve (a component of retained earnings) or as additional paid-in capital (a component of capital surplus) depending on 
+the equity account charged upon the payment of such dividends until the aggregate amount of legal reserve and additional paid-in capital equals 25% of the 
+common stock.  Under the Companies Act, the total amount of additional paid-in capital and legal reserve may be reversed without limitation. The Companies 
+Act also provides that common stock, legal reserve, additional paid-in capital, other capital surplus, and retained earnings can be transferred among the 
+accounts under certain conditions upon the resolution of the shareholders.
+c.	Treasury Stock and Treasury Stock Acquisition Rights—The Companies Act also provides for companies to purchase treasury stock and dispose of 
+such treasury stock by resolution of the Board of Directors.  The amount of treasury stock purchased cannot exceed the amount available for distribution to 
+the shareholders which is determined by specific formula. Under the Companies Act, stock acquisition rights, which were previously presented as a liability, are 
+now presented as a separate component of equity. The Companies Act also provides that companies can purchase both treasury stock acquisition rights and 
+treasury stock.  Such treasury stock acquisition rights are presented as a separate component of equity or deducted directly from stock acquisition rights.
+9.	INCOME TAXES
+The Company and its domestic subsidiaries are subject to Japanese national and local income taxes which, in the aggregate, resulted in normal effective statutory tax 
+rates of approximately 35.5% and 37.9% for the years ended March 20, 2015 and 2014, respectively.
+The tax effects of significant temporary differences and tax loss carryforwards which resulted in deferred tax assets and liabilities at March 20, 2015 and 2014, are as 
+follows:  
+Millions of Yen
+Thousands of U.S. Dollars
+2015 
+2014 
+2015 
+Deferred tax assets:
+Accrued bonuses
+¥1,949 
+¥1,771 
+$16,115 
+Inventories
+4,969 
+3,552 
+41,071 
+Accrued enterprise tax
+3,041 
+2,225 
+25,135 
+Other
+1,770 
+1,653 
+14,632 
+Deferred tax assets
+11,731 
+9,202 
+96,954 
+Deferred tax liabilities:
+Undistributed earnings
+(3,192)
+(2,544)
+(26,387)
+Funds in trust
+(1,772)
+(1,664)
+(14,646)
+Investment securities
+(1,321)
+(794)
+(10,923)
+Other
+(136)
+(106)
+(1,132)
+Deferred tax liabilities
+(6,423)
+(5,110)
+(53,089)
+Net deferred tax assets (liabilities)
+¥5,307 
+¥4,092 
+$43,865 
+There is no significant difference between the normal effective statutory tax rates and the actual effective tax rates reflected in the accompanying consolidated 
+statements of income for the years ended March 20, 2015 and 2014.
+New tax reform laws enacted in 2014 in Japan changed the normal effective statutory tax rate for the fiscal year beginning on or after March 21,2015, from 
+approximately 37.9% to 35.5%.
+New tax reform laws enacted in 2015 in Japan changed the normal effective statutory tax rate for the fiscal year beginning on or after June 21,2015, from 
+approximately 35.5% to 33.0%, and for the fiscal year beginning on or after March 21,2017, from approximately 35.5% to 32.2%.
+The effect of these changes was immaterial.
+15
+
+KEYENCE CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+I.	 Fair value of financial instruments
+Millions of Yen
+Thousands of U.S.Dollars
+2015
+2015
+Carrying amount
+Fair value
+Unrealized gain (loss)
+Carrying amount
+Fair value
+Unrealized gain (loss)
+Assets:
+Cash and cash equivalents and time deposits
+¥102,678 
+¥102,678 
+$848,584 
+$848,584 
+Notes and accounts receivable
+98,864 
+98,864 
+817,058 
+817,058 
+Marketable securities and investment securities 
+and investment in associated company
+715,527 
+724,259 
+¥8,731 
+5,913,453 
+5,985,615 
+$72,162 
+Funds in trust
+25,719 
+25,719 
+212,555 
+212,555 
+Assets
+¥942,789 
+¥951,521 
+¥8,731 
+$7,791,652 
+$7,863,814 
+$72,162 
+Liabilities:
+Notes and accounts payable
+¥6,553 
+¥6,553 
+$54,164 
+$54,164 
+Income taxes payable
+40,754 
+40,754 
+336,814 
+336,814 
+Liabilities
+¥47,308 
+¥47,308 
+$390,979 
+$390,979 
+Millions of Yen
+2014
+Carrying amount
+Fair value
+Unrealized gain (loss)
+Assets:
+Cash and cash equivalents and time deposits
+¥80,689 
+¥80,689 
+Notes and accounts receivable
+80,787 
+80,787 
+Marketable securities and investment securities 
+and investment in associated company
+630,294 
+642,093 
+¥11,798 
+Funds in trust
+21,911 
+21,911 
+Assets
+¥813,682 
+¥825,480 
+¥11,798 
+Liabilities:
+Notes and accounts payable
+¥6,422 
+¥6,422 
+Income taxes payable
+31,951 
+31,951 
+Liabilities
+¥38,373
+¥38,373 
+10.	FINANCIAL INSTRUMENTS AND RELATED DISCLOSURES
+a.	Group policy for financial instruments — The Group invests in financial instruments, and in low-risk financial assets, including bonds.
+b.	Nature of financial instruments, extent of risks arising from financial instruments and risk management for financial instrument— Notes and 
+accounts receivables are exposed to customer credit risk. In order to reduce the risk, the Group monitors the financial status and transaction history, and 
+detects the default risk of customers in the early stage. Since marketable securities, investment securities and funds in trusts are mainly composed of high 
+credit-rated bonds, the credit risk associated with the investments is not considered to be significant. However, since they are exposed to the risk of market 
+price fluctuations, the Group monitors the market value and reviews the validity of the continued possession on a regular basis. Notes and accounts payable and 
+income taxes payable are all due within less than one year.
+c.	Fair values of financial instruments — Fair values of financial instruments are based on quoted price in active markets. If quoted price is not available, other 
+rational valuation techniques are used instead. 
+i.	 Cash and cash equivalents, time deposits, notes and accounts receivable, notes and accounts payable, and income taxes payable — The carrying 
+values of cash and cash equivalents, notes and accounts receivable, notes and accounts payable, and income taxes payable are used as the fair values 
+because of their short maturities. 
+ii.	 Marketable securites, investment securities, investment in associated company, and funds in trust — The fair values of marketable securities,  investment 
+securities, investment in associated company, and funds in trust are measured at the quoted market price of the stock exchange for the equity instruments, 
+and at the quoted price obtained from the financial institution for certain debt instruments. The negotiable certificate of deposits are by the acquisition price 
+concerned because current price approximates with the acquisition price, since they are settled in a short period of time. The information  of the fair value 
+for the marketable securities, investment securities, funds in trust by classification, and negotiable certificate of deposits is included in Note 4.
+II.	 Carrying amount of financial instruments whose fair value cannot be reliably determined
+Millions of Yen Thousands of U.S. Dollars 
+2015
+2014
+2015
+Investments in equity instruments that do not have a quoted market price in an active market
+¥6 
+¥5 
+$55 
+16
+
+KEYENCE CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+d.	Maturity analysis for financial assets and securities with contractual maturities
+Millions of Yen
+Thousands of U.S.Dollars 
+2015
+2015
+Due in one year or less
+Due after one year 
+through five years
+Due in one year or less
+Due after one year 
+through five years
+Cash and cash equivalents and time deposits
+¥102,678 
+$848,584 
+Notes and accounts receivables
+98,864 
+817,058 
+Marketable securities and investment securities-available-for-sale 
+securities with contractual maturities
+390,000
+¥145,000 
+3,223,140 
+$1,198,347 
+Negotiable certificate of deposits
+146,982
+1,214,733 
+TOTAL
+¥738,525 
+¥145,000 
+$6,103,517 
+$1,198,347 
+Millions of Yen
+2014
+Due in one year or less
+Due after one year 
+through five years
+Cash and cash equivalents and time deposits
+¥80,689 
+Notes and accounts receivables
+80,787 
+Marketable securities and investment securities-available-for-sale 
+securities with contractual maturities
+303,000 
+¥200,000 
+Negotiable certificate of deposits
+97,641
+TOTAL
+¥562,118 
+¥200,000 
+11.	COMPREHENSIVE INCOME
+The components of other comprehensive income for the years ended March 20, 2015 and 2014, were as follows:
+Millions of Yen
+Thousands of U.S.Dollars
+2015 
+2014 
+2015 
+Unrealized gain (loss) on available-for-sale securities
+Gains arising during the year
+¥4,134 
+¥4,450 
+$34,169 
+Reclassification adjustments to profit or loss
+(2,375)
+(2,533)
+(19,630)
+Amount before income tax effect
+1,759
+1,917 
+14,538
+Income tax effect
+(622)
+(673)
+(5,148)
+Total
+¥1,136 
+¥1,243 
+$9,389 
+Foreign currency translation adjustments
+Adjustments arising during the year
+¥5,001 
+¥3,511 
+$41,332 
+Share of other comprehensive income in associates
+Gains arising during the year
+(¥35)
+(¥54)
+($289)
+Total other comprehensive income
+¥6,102 
+¥4,700 
+$50,432 
+12.	AMOUNT PER COMMON SHARE
+The computation of net income per common share is based on the weighted-average number of common shares outstanding. The average number of common 
+shares used in the computations was 60,640,631 and 60,643,076 shares for 2015 and 2014, respectively. Cash dividends per common share represent amounts 
+applicable to the respective periods, including dividends to be paid after the end of the period. 
+17
+
+KEYENCE CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10.Notes to Consolidated Financial Statements / 11 / 12
+YEAR ENDED MARCH 20, 2015
+13.	SEGMENT INFORMATION
+Under ASBJ Statement No. 17, “Accounting Standard for Segment Information Disclosures,” and ASBJ Guidance No. 20, “Guidance on Accounting Standard 
+for Segment Information Disclosures,” an entity is required to report financial and descriptive information about its reportable segments. Reportable segments are 
+operating segments or aggregations of operating segments that meet specified criteria. Operating segments are components of an entity about which separate 
+financial information is available and such information is evaluated regularly by the chief operating decision maker in deciding how to allocate resources and 
+in assessing performance. Generally, segment information is required to be reported on the same basis as is used internally for evaluating operating segment 
+performance and deciding how to allocate resources to operating segments. 
+I.	 Reportable Segments 
+Information about reportable segments is not disclosed because the Company has one operating segment.
+II.	 Related Information 
+•	 Information by product and service
+As the sales of one product group accounts for more than 90% of the Group's total consolidated sales, the disclosure for  the years ended March 20, 2015 and 
+2014, has been ommited.
+•	 Information by geographical area
+•	 Information on principal customers
+There is no customer, whose sales exceed 10% of the total consolidated sales for the years ended March 20, 2015 and 2014.
+14.	SUBSEQUENT EVENT
+At the Shareholder's General Meeting held on June 12, 2015, the shareholders approved payment of ¥100.00 ($0.83) per share, for a total of ¥6,063 million ($50,115 
+thousand), to shareholders of record on March 20, 2015.
+Millions of Yen
+Thousands of U.S. Dollars
+Revenue
+2015 
+2014
+2015 
+Japan
+¥165,113 
+¥145,956 
+$1,364,572 
+Overseas
+America
+65,134 
+39,905 
+538,302 
+Other
+103,786 
+79,148 
+857,743 
+Total
+168,921 
+119,053 
+1,396,046 
+TOTAL
+¥334,034 
+¥265,010 
+$2,760,618 
+Millions of Yen
+Thousands of U.S. Dollars
+Property, plant and equipment
+2015 
+2014
+2015 
+Japan
+¥14,527 
+¥15,169 
+$120,064 
+Overseas
+2,367
+2,123 
+19,568 
+TOTAL
+¥16,895
+¥17,293
+$139,633 
+18
+
+BOARD OF DIRECTORS/AUDIT AND SUPERVISORY BOARD/CORPORATE DATA/DIRECTORY
+ 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11.Board Of Directors/Audit and Supervisory Board/Corporate Data/Directory / 12
+As of March 20, 2015
+As of March 20, 2015
+DIRECTORY
+KEYENCE CORPORATION
+Osaka, Japan	
+Tel: +81-6-6379-1111
+KEYENCE CORPORATION OF AMERICA
+Chicago, U.S.A.	
+Tel: +1-201-930-0100
+New Jersey, U.S.A.	
+Tel: +1-201-930-0100
+KEYENCE CANADA INC.
+Toronto, Canada	
+Tel: +1-905-366-7655
+KEYENCE MEXICO S.A. DE C.V.
+Mexico City, Mexico	
+Tel: +52-55-8850-0100
+KEYENCE BRASIL COMERCIO DE
+PRODUTOS ELETRONICOS LTDA.
+São Paulo, Brasil	
+Tel: +55-11-3045-4011
+KEYENCE DEUTSCHLAND GmbH
+Frankfurt, Germany	
+Tel: +49-6102-3689-0
+KEYENCE INTERNATIONAL (BELGIUM) NV/SA
+Mechelen, Belgium	
+Tel: +32-15-281-222
+KEYENCE (UK) LIMITED
+Milton Keynes, U.K.	
+Tel: +44-1908-696-900
+KEYENCE FRANCE SAS
+Paris, France	
+Tel: +33-1-56-37-78-00
+KEYENCE ITALIA S.p.A.
+Milano, Italy	
+Tel: +39-02-6688220
+KEYENCE (CHINA) CO., LTD.
+Shanghai, China	
+Tel: +86-21-6875-7500
+KEYENCE (HONG KONG) CO., LTD.
+Kowloon, Hong Kong	
+Tel: +852-3104-1010
+KEYENCE TAIWAN CO., LTD.
+Taipei, Taiwan	
+Tel: +886-2-2718-8700
+KOREA KEYENCE CO., LTD.
+Seoul, Korea	
+Tel: +82-31-789-4300
+KEYENCE SINGAPORE PTE LTD.
+Singapore	
+Tel: +65-6392-1011
+KEYENCE INDIA PVT. LTD.
+Chennai, India	
+Tel: +91-44-4963-0900
+PT. KEYENCE INDONESIA
+Jakarta, Indonesia	
+Tel: +62-21-2966-0120
+KEYENCE VIETNAM CO., LTD.
+Hanoi, Vietnam	
+Tel: +84-4-3760-6214
+KEYENCE (MALAYSIA) SDN BHD
+Kuala Lumpur, Malaysia	
+Tel: +60-3-2092-2211
+KEYENCE (THAILAND) CO., LTD.
+Bangkok, Thailand	
+Tel: +66-2-369-2777
+AFFILIATES:
+CORPORATE DATA
+Established:
+March 1972 
+Incorporated:
+May 1974
+Capital:
+30,637 million yen
+Number of Employees:
+4,444 (consolidated)
+Common Stock:
+150,000,000 shares Authorized 
+60,801,921 shares Issued
+Number of Shareholders:
+4,663
+Stock Listing:
+Tokyo Stock Exchange, Inc.
+Share Registrar:
+Mitsubishi UFJ Trust and Banking Corporation 
+1-4-5 Marunouchi, Chiyoda-ku, Tokyo, 
+100-8212, JAPAN
+BOARD OF DIRECTORS 
+As of June 12, 2015
+Takemitsu Takizaki
+Honorary Chairman and Director
+Akinori Yamamoto
+President and Representative Director
+Akira Kanzawa
+Director
+Tsuyoshi Kimura
+Director
+Masayuki Konishi
+Director
+Keiichi Kimura
+Director
+Masayuki Miki
+Director
+Jumpei Yamada
+Director
+Masato Fujimoto
+Outside Director
+AUDIT & SUPERVISORY BOARD 
+As of June 12, 2015
+Hiroaki Kitayama
+Outside Auditor
+Keizo Kosaka
+Outside Auditor
+Koichi Ogawa
+Outside Auditor
+19
+
+WORLD NETWORK
+1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12.World Network
+KEYENCE
+(UK)
+LIMITED
+KEYENCE CORPORATION
+OF AMERICA
+KEYENCE SINGAPORE PTE LTD.
+KEYENCE 
+(MALAYSIA) 
+SDN BHD 
+KEYENCE INDIA PVT. LTD.
+KEYENCE (THAILAND)
+CO., LTD.
+KEYENCE
+DEUTSCHLAND GmbH
+KEYENCE TAIWAN
+CO., LTD.
+KOREA KEYENCE CO., LTD.
+KEYENCE 
+FRANCE SAS
+KEYENCE
+CORPORATION
+KEYENCE (HONG KONG) CO., LTD.
+KEYENCE (CHINA) 
+CO., LTD.
+KEYENCE 
+ITALIA 
+S.p.A.
+KEYENCE CANADA INC.
+KEYENCE MEXICO
+S.A. DE C.V.
+KEYENCE BRASIL
+KEYENCE 
+INTERNATIONAL 
+(BELGIUM) 
+NV/SA
+PT. KEYENCE INDONESIA 
+MAP_Line_WORLDWIDE_1114
+Distributor
+KEYENCE Corporate Ofﬁces
+KEYENCE VIETNAM CO., LTD.
+The Americas
+Europe
+Asia
+KEYENCE CORPORATION OF AMERICA
+Chicago
+New Jersey
+Atlanta
+Austin
+Birmingham
+Boston
+Charlotte
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Grand Rapids
+Greenville
+Indianapolis
+Kansas City
+Knoxville
+Little Rock
+Los Angeles
+Louisville
+Milwaukee
+Minneapolis
+Nashville
+Northern California
+Pittsburgh
+Philadelphia
+Portland
+Raleigh
+Richmond
+Rochester
+Seattle
+St. Louis
+Tampa
+KEYENCE DEUTSCHLAND GmbH
+Frankfurt
+Berlin
+Essen
+Hamburg
+Hannover
+Jena
+Karlsruhe
+Köln
+Leipzig
+Mannheim
+Montabaur
+München
+Nürnberg
+Stuttgart
+KEYENCE (HONG KONG) CO., LTD.
+Hong Kong
+KEYENCE TAIWAN CO., LTD.
+Taipei
+Hsinchu
+Kaohsiung
+Taichung
+KOREA KEYENCE CO., LTD.
+Seoul
+Busan
+Cheonan
+Daegu
+KEYENCE SINGAPORE PTE LTD.
+Singapore
+KEYENCE INDIA PVT. LTD.
+Chennai
+Delhi
+Bangalore
+Pune
+PT. KEYENCE INDONESIA
+Jakarta
+KEYENCE VIETNAM CO., LTD.
+Hanoi
+Ho Chi Minh
+KEYENCE (MALAYSIA) SDN BHD
+Kuala Lumpur Penang
+KEYENCE (THAILAND) CO., LTD.
+Bangkok
+Lamphun
+Rayong
+KEYENCE MEXICO S.A. DE C.V.
+Mexico City
+Ciudad Juárez
+Leon
+Monterrey
+Tijuana
+KEYENCE BRASIL COMERCIO DE PRODUTOS 
+ELETRONICOS LTDA.
+São Paulo
+KEYENCE INTERNATIONAL 
+(BELGIUM) NV/SA
+Mechelen
+AUSTRIA
+CZECH REPUBLIC
+HUNGARY
+NETHERLANDS
+POLAND
+ROMANIA
+SLOVAKIA
+SLOVENIA
+SWITZERLAND
+KEYENCE (UK) LIMITED
+Milton Keynes
+Birmingham
+London
+Newcastle
+Ireland
+KEYENCE FRANCE SAS
+Paris
+Belfort
+Bordeaux
+Lille
+Lyon
+Nantes
+KEYENCE ITALIA S.p.A.
+Milano
+Bologna
+Pescara
+Torino
+Treviso
+KEYENCE CANADA INC.
+Toronto
+Montreal
+Windsor
+KEYENCE (CHINA) CO., LTD.
+Shanghai
+Beijing
+Chengdu
+Dalian
+Guangzhou
+Hangzhou
+Nanjing
+Qingdao
+Shenzhen East
+Shenzhen West Suzhou
+Tianjin
+Wuhan
+Wuxi
+20
+
+www.keyence.com
+KEYENCE CORPORATION
+1-3-14, Higashinakajima, Higashiyodogawa-ku, Osaka, 533-8555, Japan
+TEL: +81-6-6379-1111  FAX: +81-6-6379-2222
+1065-1 100-175

@@ -1,0 +1,118 @@
+
+--- PAGE 11 ---
+Page 11 of 28
+Izhar et al. Discover Sustainability           (2026) 7:864 
+sampled corporate reports. Based on the relevance of these measures to each SDG and 
+its designated sub-targets, we then classified these measures under each SDG. To ensure 
+reliability, multiple coders performed this classification to produce an agreed-upon 
+categorization.
+3.4.2  Breadth of SDG engagement
+The study preferred using manual coding similar to other comparable studies such as 
+[16, 43] as some of the reports were in image format which are resistant to software anal­
+ysis. The study used sentence as well as image as recording units as it is customary for 
+companies to use iconography to report SDGs to enhance the visual appeal of the cor­
+porate reports. The reports were analyzed with respect to the presence of all or some of 
+the given words or corresponding icons: Sustainable development goal(s), SDG(s), SDG 
+followed by the number with or without space (e.g. SDG 13 or SDG13), title of each of 
+the SDG (e.g. “Zero Hunger”) or specified icon designated for each of the SDG. A similar 
+scheme of words has been used by Galeazzo et al. [23] for generating codes to estimate 
+breadth of SDG engagement. A complete coding sheet is given in appendix Table 4.
+Following this a priori coding sheet, two authors separately performed the coding pro­
+cess simultaneously and periodically came together to check intercoder reliability and to 
+remove discrepancies until a consensus-based scoring was achieved across the sample.
+Since 12 companies in the sample have used the term SDG without mentioning any 
+specific SDG, we have created a separate category for “SDG in general” in addition to 
+17 categories for specific SDGs. We analyzed the corporate reports to identify these cat­
+egories, coding them as 1 if a relevant term or icon appears in the report (regardless of 
+its frequency) and 0 otherwise. Then, the codes are used to find breadth of SDG engage­
+ment i.e. the number of sampled firms that are committed to each SDG. Scores closer to 
+98 indicate a high level of SDG engagement, while scores closer to 0 indicate a low level. 
+The formula is:
+	
+display -eq-Equ 1
+
+(1)
+where inline-eq-IEq1 denotes specific firms and inline-eq-IEq2 denotes specific SDG.
+3.4.3  Depth of SDG engagement
+To assess the depth of SDG engagement, the study used a scale from 0 to 5 based on 
+targets, actions, and measurement of the outcomes the companies have taken during the 
+observed period. Hummel (2019), Ionașcu et al. [28], and PwC (2018), Nechita et al. [43] 
+have implemented comparable scoring methodology. The scoring criteria is provided in 
+Table 1.
+Table 1  Scoring criteria
+Description
+Scores
+0
+1
+2
+2
+3
+4
+5
+5
+No SDG information
+✓
+Qualitative target
+✓
+✓
+✓
+✓
+Quantitative target
+✓
+✓
+✓
+SDG-related actions
+✓
+Qualitative measurement of the outcome
+✓
+✓
+Quantitative measurement of the outcome
+✓
+✓
+
+--- PAGE 16 ---
+Page 16 of 28
+Izhar et al. Discover Sustainability           (2026) 7:864 
+it in general without referring to any specific SDG. Interestingly, less than half of the 
+sample mentioned any SDG. Six SDGs exhibiting the highest level of breadth include 
+SDG5(29), SDG8(27), SDG12(27), SDG13(27), SDG7(26), and SDG6(25). Six SDGs 
+with the lowest breadth include SDG14(9), SDG15(11), SDG17(12), SDG11(14), and 
+SDG16(15). Furthermore, the SDGs that are categorized in the intermediate range 
+include SDG9 (24), SDG3 (24), SDG4 (22), SDG1 (18), SDG10 (17), and SDG2 (17). It is 
+interesting to note that recent comparable studies (such as [16, 23, 28, 46]) have yielded 
+similar findings.
+For example, Galeazzo et al. [23] reported SDG8, SDG12, SDG13, and SDG7 among 
+the SDGs that have attracted most attention by the 100 most sustainable firms globally. 
+The study also placed SDG14 and SDG15 among the least addressed SDGs. Nylund et 
+al. [46] classified SDG5, SDG8, SDG12, and SDG13 as strategic or proactive under a 
+responsible research and innovation framework. They also positioned SDG4, SDG1, and 
+SDG10 in the reactive category analogous to the intermediate range in our study. More­
+over, [28] identified SDG8, SDG12, SDG13, and SDG7 among the most prioritized SDGs 
+and SDG14, SDG15, and SDG16 among the least prioritized goals. Furthermore, Cosma 
+et al. [16] also found SDG8, SDG13, SDG5 and SDG7 among the six most addressed 
+SDGs and SDG14, SDG15, and SDG17 among the least addressed SDGs.
+In addition to the global prioritization of some of the SDGs previously discussed, the 
+PSX’s focus on six goals, namely SDG5, SDG6, SDG7, SDG8, SDG9 and SDG12, and its 
+emphasis on minimum reporting requirements for listed companies also provide a plau­
+sible explanation for the findings. Except for SDG 9, which has an intermediate breadth 
+of engagement, other five SDGs have the highest breadth of engagement.
+4.3  Depth of SDG engagement
+KSE-100 companies exhibit low depth of SDG engagement (Fig. 5). 62 companies have 
+no targets, actions, or measurement of outcome related to the SDGs, indicating zero 
+depth of engagement. In some instances, the companies mention SDG in their reports 
+without taking further steps. The symbolic engagement is substantiated by recent related 
+work including Perryman et al. [49] and Heras-Saizarbitoria et al. [26].
+The SDG-wise depth scores remained low in all cases. Specifically, SDGs with score 3 
+or above include SDG7(3.60) followed by SDG10 (3.25), SDG13 (3.09), SDG11 (3.07) and 
+SDG4, SDG3, and SDG2. The SDGs with score less than 3 include SDG14 (1.83), SDG1 
+(2.00), SDG15 (2.00), SDG17 (2.00), SDG16 (2.30), SDG9 (2.58), SDG5 (2.90), SDG12, 
+SDG6, and SDG8 with scores of 2.95 each. It is noteworthy that these results align with 
+recent similar studies such as [28, 43, 49].
+Given the acute energy shortages and price hikes in Pakistan, which have halted cor­
+porate operations and dented their economic contribution, we expected their emphasis 
+on SDG7. To make energy supply more affordable and accessible and reduce their reli­
+ance on oil and gas for energy, companies are shifting towards alternate energy sources, 
+mainly solar, wind, and hydropower. The corporate emphasis on SDG10 is quite prom­
+ising, as the country is long grappled with inequalities in income and access to funda­
+mental rights and services, particularly among women, persons with disabilities, and 
+marginalized communities. Since environmental activists have consistently underscored 

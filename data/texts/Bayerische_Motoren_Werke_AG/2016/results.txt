@@ -1,0 +1,4372 @@
+FINANCIAL STATEMENTS 
+OF BMW AG
+Financial Year 2016
+
+BMW AG IN FIGURES
+2016
+2015
+Change in %
+Revenues 1
+€ million
+75,350
+ 72,384
+ 4.1
+Export ratio
+%
+82.4
+ 83.0
+ 
+Production
+Automobiles 2
+Units
+2,359,756
+ 2,279,503
+3.5
+Motorcycles
+Units
+145,555
+ 151,004
+3.6
+Sales volume
+Automobiles 2
+Units
+2,355,726
+ 2,275,367
+3.5
+Motorcycles
+Units
+147,290
+ 144,291
+2.1
+Capital expenditure
+€ million
+2,346
+ 2,748
+14.6
+Depreciation, amortisation and impairment losses
+€ million
+2,233
+ 2,072
+7.8
+Workforce at end of year
+ 
+ 85,754
+ 84,860
+1.1
+Tangible, intangible and investment assets
+€ million
+ 14,711
+ 14,6193
+0.6
+Current assets, prepayments and  
+surplus of pension and similar plan assets over liabilities
+€ million
+ 21,588
+ 20,358
+6.0
+Subscribed capital
+€ million
+ 657
+ 657
+Reserves
+€ million
+11,165
+ 10,168
+9.8
+Equity
+€ million
+14,122
+ 12,927
+9.2
+as % of tangible, intangible and investment assets
+%
+96.0
+ 88.4
+ 
+Balance sheet total
+€ million
+36,299
+ 34,977
+3.8
+Cost of materials
+€ million
+53,862
+ 52,128
+3.3
+Personnel costs
+€ million
+8,340
+ 7,576
+10.1
+Taxes
+€ million
+1,327
+ 1,831
+27.5
+Net profit
+€ million
+3,277
+ 2,741
+19.6
+Dividend
+€ million
+2,3004
+ 2,102
+9.4
+per share of common stock with a par value of € 1 each
+€
+3.504
+ 3.20
+ 
+per share of preferred stock with a par value of € 1 each
+€
+3.524
+ 3.22
+ 
+1	German Accounting Directive Implementation Act (BilRUG) applied with effect from the beginning of the financial year 2016. Comparative figures for 2015 not adjusted.
+2	Including supplies of series parts to BMW Brilliance Automotive Ltd., Shenyang.
+3	 Including property, plant and equipment transferred in conjunction with the merger of BMW Forschung und Technik GmbH, Munich.
+4	Proposed by the Board of Management.
+2
+Financial 
+Statements of 
+BMW AG
+BMW AG in Figures
+Financial Statements
+
+FINANCIAL STATEMENTS 
+Publication
+The BMW AG Financial Statements and Management 
+Report for the financial year 2016 will be submitted to 
+the operator of the electronic version of the German 
+Federal Gazette and can be obtained via the Company 
+Register website. The Management Report of BMW AG 
+is combined with the Group Management Report and 
+published in the BMW Group Annual Report 2016. 
+The Annual Financial Statements and the Manage-
+ment Report of BMW AG are also available on the 
+BMW Group’s website at  www.bmwgroup.com / ir.
+3
+
+BALANCE SHEET AT 31 DEZEMBER
+in € million
+Notes
+2016*
+2015
+Assets
+Intangible assets
+1
+310
+ 353
+Property, plant and equipment
+2
+11,163
+ 11,016
+Investments
+3
+3,238
+ 3,250
+Tangible, intangible and investment assets
+14,711
+14,619
+Inventories
+4
+4,260
+ 4,267
+Trade receivables
+5
+667
+ 628
+Receivables from subsidiaries
+5
+6,001
+ 6,229
+Other receivables and other assets
+5
+2,525
+ 1,820
+Marketable securities
+6
+3,846
+ 3,911
+Cash and cash equivalents
+7
+2,676
+ 2,478
+Current assets
+19,975
+19,333
+Prepayments
+ 
+ 430
+ 303
+Surplus of pension and similar plan assets over liabilities
+8
+1,183
+ 722
+Total assets
+36,299
+34,977
+Equity and liabilities
+ 
+  
+  
+Subscribed capital
+9
+657
+ 657
+Capital reserves
+9
+2,127
+ 2,107
+Revenue reserves
+10
+9,038
+ 8,061
+Unappropriated profit available for distribution
+ 
+2,300
+ 2,102
+Equity
+14,122
+12,927
+Registered profit-sharing certificates
+11
+ 30
+ 30
+Pension provisions
+ 
+ 93
+ 82
+Other provisions
+ 
+7,606
+ 7,617
+Provisions
+12
+7,699
+7,699
+Liabilities to banks
+ 
+995
+ 1,343
+Trade payables
+ 
+5,030
+ 4,500
+Liabilities to subsidiaries
+ 
+5,951
+ 6,690
+Other liabilities
+ 
+406
+ 239
+Liabilities
+13
+12,382
+12,772
+Deferred income
+14
+2,066
+ 1,549
+Total equity and liabilities
+36,299
+34,977
+*	German Accounting Directive Implementation Act (BilRUG) applied with effect from the beginning of the financial year 2016. Comparative figures for 2015 have not been adjusted.
+4
+Financial 
+Statements of 
+BMW AG
+Balance Sheet at 
+31 Dezember
+Income Statement
+
+in € million
+Notes
+2016*
+2015
+Revenues
+15
+75,350
+ 72,384
+Cost of sales
+16
+– 60,946
+– 57,764
+Gross profit
+14,404
+14,620
+Selling expenses
+ 
+– 3,635
+– 3,427
+Administrative expenses
+ 
+– 2,504
+– 2,610
+Research and development expenses
+ 
+– 4,504
+– 4,758
+Other operating income 
+and expenses
+17 
+18
+– 137
+ 184
+Result on investments
+19
+1,015
+ 1,606
+Financial result
+20
+– 35
+– 1,043
+Income taxes
+21
+– 1,308
+– 1,782
+Profit after income tax
+3,296
+2,790
+Other taxes
+ 
+– 19
+– 49
+Net profit
+3,277
+2,741
+Transfer to revenue reserves
+22
+– 977
+– 639
+Unappropriated profit available for distribution
+23
+2,300
+2,102
+*	German Accounting Directive Implementation Act (BilRUG) applied with effect from the beginning of the financial year 2016. Comparative figures for 2015 have not been adjusted.
+INCOME STATEMENT
+5
+
+NOTES TO  
+THE FINANCIAL 
+STATEMENTS
+BASIS OF PREPARATION
+The financial statements of BMW AG have been drawn 
+up in accordance with the accounting provisions con-
+tained in the German Commercial Code (HGB) and 
+legislation applicable to stock corporations. Figures 
+are presented in millions of euro (euro million) unless 
+otherwise stated. BMW AG, which has its legal seat 
+in Munich, is registered in the Commercial Register 
+of the District Court of Munich under the number 
+HRB 42243.
+The German Accounting Directive Implementation 
+Act (BilRUG) was applied for the first time with effect 
+from the beginning of the 2016 financial year and 
+impacts the financial statements primarily as a result 
+of the extended definition of revenues. Comparative 
+figures have not been adjusted where this gave rise to 
+changes in the presentation of items in the balance 
+sheet or income statement. 
+As a consequence of the extended definition of rev-
+enues stipulated in BilRUG, some income statement 
+line items in the financial statements for the financial 
+year 2016 are only comparable to a limited extent with 
+the amounts reported for the previous financial year. 
+In order to make the figures comparable, revenues 
+reported for the financial year 2015 must be increased 
+by € 964 million to € 73,348 million and other operating 
+income reduced by the same amount. Similarly, cost of 
+sales must be increased by € 724 million to € 58,488 mil-
+lion, costs by function reduced by € 694 million and 
+other taxes reduced by € 30 million.
+6
+Financial 
+Statements of 
+BMW AG
+Notes
+Basis of Preparation
+Accounting policies
+
+ACCOUNTING POLICIES
+In order to improve clarity, individual items are 
+aggregated in the balance sheet and income state-
+ment and presented separately in the notes to the 
+financial statements. 
+Purchased intangible assets are valued at acquisition 
+cost and amortised over their estimated useful lives 
+using the straight-line method. Internally generated 
+intangible assets are not capitalised.
+Property, plant and equipment are stated at acqui-
+sition or at manufacturing cost, less accumulated 
+scheduled depreciation and impairment losses. 
+Impairment losses are recorded when the decline 
+in value of an asset is considered to be of a lasting 
+nature. If the reasons for impairment no longer exist, 
+impairment losses previously recorded are reversed, 
+at a maximum up to their amortised cost. Proper-
+ty, plant and equipment are generally depreciated 
+straight-line. The reducing balance method is still also 
+applied in specific cases, whereby a switch is made to 
+straight-line depreciation as soon as this gives rise to 
+a higher depreciation expense. Items acquired during 
+the year are depreciated on a time-apportioned basis. 
+Assets with an acquisition or manufacturing cost of 
+up to € 150 are recognised directly as an expense in 
+the year of purchase / construction. Assets with an 
+acquisition or manufacturing cost of between € 150 
+and € 1,000 are depreciated using the straight-line 
+method over a period of five years.
+Factory and office buildings and distribution facilities 
+which form an inseparable part of such buildings 
+are depreciated over eight to 40 years, residential 
+buildings over 25 to 50 years, technical plant and 
+machinery as a general rule over four to 21 years and 
+other facilities, factory and office equipment mainly 
+over five years. For machinery used in multiple-­
+shift operations, depreciation rates are increased to 
+account for the additional utilisation.
+Investments in subsidiaries and participations are 
+stated at cost or, if lower, at their fair value. If the 
+reasons for impairment no longer exist, impairment 
+losses previously recorded are reversed, at a maxi-
+mum up to the level of original cost. Loans which 
+bear no or a below-market rate of interest are dis-
+counted to their present value.
+Structured financial instruments are accounted for 
+as a single asset, measured at the lower of their fair 
+value or amortised cost.
+The composition of and changes in long-lived assets 
+are shown in the Analysis of Changes in Tangible, 
+Intangible and Investment Assets.
+Inventories of raw materials, supplies and goods 
+for resale are stated at the lower of cost and net 
+realisable value. Direct material and production 
+costs and an appropriate proportion of materials 
+and production overheads (including depreciation 
+of plant and equipment relating to production) are 
+taken into account in the measurement of unfinished 
+and finished goods and leased-out products. With 
+effect from the financial year 2016, manufacturing 
+cost no longer includes a proportion of produc-
+tion-related administrative costs, voluntary social 
+costs and company pension costs. Write-downs are 
+made to cover risks arising from slow-moving items 
+or reduced saleability. 
+Receivables and other assets are stated at the lower 
+of their nominal value or net realisable value. 
+Investments in marketable securities are measured 
+at cost or, if lower, at their fair value at the end of 
+the reporting period. Fair value corresponds to the 
+market price.
+In order to meet obligations relating to pensions and 
+pre-retirement part-time work arrangements, certain 
+assets are managed on a trustee basis by BMW Trust 
+e. V., Munich, in conjunction with Contractual Trust 
+Arrangements (CTA). These assets are measured at 
+their fair value, based on the market values of the 
+correcponding fund management companies at the 
+end of the reporting period. Designated plan assets 
+are offset against the related obligations. A provision 
+is recognised when obligations exceed assets. When 
+assets exceed obligations, the surplus is reported in 
+the balance sheet in the line item “Surplus of pension 
+and similar plan assets over liabilities”.
+7
+
+Pension obligations are measured in accordance with 
+the projected unit credit method. With effect from 
+the financial year 2016, they are discounted using 
+the average market interest rate for the past financial 
+ten years, which corresponds to the remaining term 
+of the obligations. The calculation is based on an 
+independent actuarial valuation which takes into 
+account all relevant biometric factors. The difference 
+in the carrying amount of the provision based on 
+using the average market interest rate for the past 
+ten financial years and that for the past seven finan-
+cial years is disclosed in the notes to the financial 
+statements. The provisions for long-service awards 
+and pre-retirement part-time work arrangements are 
+also measured using the projected unit credit method. 
+Income and expenses arising on assets offset against 
+liabilities, from the unwinding of discounting and 
+from changes in the discount rate are presented as 
+part of the financial result. 
+Other provisions are recognised to take account 
+of all identified risks. Provisions are measured at 
+their expected settlement amount. In the case of 
+non-current provisions, amounts are discounted 
+using the average market interest rate – calculated 
+and published by the Deutsche Bundesbank – which 
+corresponds to the remaining term of the provision. 
+The measurement of provisions for warranty obliga-
+tions (statutory, contractual and voluntary) involves 
+estimations. These provisions are recognised when 
+the risks and rewards of ownership of the goods are 
+transferred to the dealership or the retail customer. 
+In order to determine the level of the provision, var-
+ious factors are taken into consideration, including 
+current estimations based on past experience with 
+the nature and amount of claims relating to vehicles 
+delivered. In addition, the future level of potential 
+repair costs for materials and labour as well as price 
+increases per product are taken into account. Pro-
+visions for warranties are adjusted regularly to take 
+account of new circumstances. The impact of any 
+changes recognised is in the income statement. Spe-
+cific and expected warranty-related obligations for 
+vehicles delivered, such as vehicle recall actions, are 
+also included in provisions for warranties. Expect-
+ed reimbursement claims are estimated and offset 
+against the provisions for warranties.
+As part of its sales operations, BMW AG assumes 
+residual value obligations arising at the level of 
+BMW Group Financial Services entities in connec-
+tion with the remarketing of vehicles and recognises 
+provisions accordingly. For the purpose of meas-
+uring the provisions, contractually agreed residual 
+values are compared with expected residual values 
+on a contract-by-contract basis. The computation 
+of expected residual values also takes account of 
+publicly available assessments of independent fore-
+casting institutes as well as in-house forecasts. 
+Liabilities are stated at their expected settlement 
+amount at the balance sheet date.
+Foreign currency receivables and payables are trans-
+lated using the mid-spot exchange rate applicable at 
+transaction date. Gains arising on the translation of 
+period-end items are only recognised for receivables 
+and payables with a remaining term of one year 
+or less. Unrealised losses resulting from changes 
+in exchange rates are recognised by restating the 
+foreign currency amount in the balance sheet to the 
+closing rate. Financial assets and financial liabili-
+ties denominated in a foreign currency are mostly 
+hedged, in which case they are translated using the 
+relevant hedge rate.
+The Company uses derivative financial instruments 
+to hedge interest rate, currency and commodity price 
+risks arising in conjunction with operating activities 
+and the resulting financing requirements. 
+Where there is a direct hedging relationship, the 
+derivative financial instrument and the hedged item 
+are accounted for as a valuation unit. 
+BMW AG invoices a number of its sales subsidiaries 
+based outside the eurozone in the relevant local cur-
+rency. The resulting currency exposures are hedged 
+by derivative currency instruments and, together 
+with the hedged items, accounted for as valuation 
+units. The hedged items relate to highly probable 
+forecast transactions, for which portfolio hedges 
+are designated out of the foreign currency invoices 
+issued to the sales subsidiaries. The “Valuation Freeze 
+Method” (Einfrierungsmethode) is applied until the 
+foreign currency receivables arise, at which stage the 
+“Booking through method” (Durchbuchungsmeth-
+ode) is applied. In the case of a late designation, the 
+forward currency contracts are treated as stand-alone 
+derivatives until the date of designation. 
+Micro hedges are designated for currency and inter-
+est rate derivatives used to hedge financial assets, 
+financial liabilities and back-to-back derivative finan-
+cial instruments. Portfolio hedges are designated for 
+commodity derivatives. BMW AG has elected to apply 
+the “Valuation Freeze Method” (Einfrierungsmeth-
+ode) for these hedging relationships.
+8
+Financial 
+Statements of 
+BMW AG
+Notes
+Accounting policies
+
+Since the principal features of the transactions 
+included in a valuation unit are matched, changes 
+in fair values or cash flows generally offset each other. 
+Hedging is in place for the whole term of the hedged 
+item. Effectiveness is ensured as a general rule by 
+the use of a critical term match. The effectiveness of 
+the portfolio hedge relating to foreign-currency-de-
+nominated sales to sales subsidiaries is measured on 
+the basis of regression analysis. The Dollar-Offset 
+method is used to calculate the absolute amounts 
+attributable to non-validity and ineffectiveness.
+If there is no hedging relationship, or if the hedging 
+relationship is deemed to be insufficient, pending 
+losses are recognised with income statement effect. 
+Deferred income relates to amounts received before 
+the balance sheet date, which represent income for a 
+specific period after the end of the reporting period. 
+This also includes revenues billed for services which 
+are rendered after the end of the reporting period. 
+Revenues from sales with multiple components are 
+analysed into the various performance components 
+on the basis of fair values which can be determined 
+objectively and reliably. The portion of revenues 
+relating to services not performed by the end of the 
+reporting period is presented as deferred income.
+Deferred taxes are calculated for temporary differ-
+ences between the tax base and accounting carrying 
+amounts of assets, liabilities and deferred / prepaid 
+items. Deferred tax assets and liabilities are measured 
+using a combined income tax rate of 30.7 % relevant 
+for the BMW AG tax group. This combined rate covers 
+corporation tax, municipal trade tax and solidarity 
+surcharge. In the case of temporary differences aris-
+ing on assets, liabilities and deferred / prepaid items 
+of partnership entities, in which BMW AG partici-
+pates in the capacity of a shareholder, deferred taxes 
+are measured on the basis of an income tax rate of 
+15.83 % which covers corporation tax and solidarity 
+surcharge. In the year under report, the BMW AG 
+tax group has a surplus of deferred tax assets over 
+deferred tax liabilities, mainly as a result of tempo-
+rary differences between the tax base and accounting 
+carrying amounts of provisions for pensions and 
+similar obligations (before offset against designated 
+plan assets), other provisions and property, plant 
+and equipment. BMW AG, as head of the German 
+tax group, has elected not to recognise the surplus 
+amount of deferred tax assets. 
+The share-based remuneration programmes for Board 
+of Management members and senior heads of depart-
+ment entitle BMW AG to elect whether to settle its 
+commitments in cash or with shares of BMW AG 
+common stock. Following the decision to settle in 
+cash, the two share-based programmes are accounted 
+for as cash-settled share-based transactions. Share-
+based programmes expected to be settled in cash 
+are revalued to their fair value at each balance sheet 
+date between the grant date and the settlement 
+date and on the settlement date itself. The expense 
+for such programmes is recognised in the income 
+statement (as personnel expense) over the vesting 
+period of the options and in the balance sheet as a 
+provision. Further information regarding the two 
+share-based programmes is provided in  note 39 to 
+the BMW Group Financial Statements 2016.
+ see 
+note 39
+9
+
+Acquisition or manufacturing costs
+in € million
+1. 1. 2016 
+Additions
+Reclassi­
+fications
+Disposals
+31. 12. 2016 
+Intangible assets
+767
+87
+ –
+53
+801
+Land, titles to land, buildings,  
+including buildings on third party land
+5,861
+139
+39
+12
+6,027
+Plant and machinery
+24,719
+1,284
+577
+803
+25,777
+Other facilities, factory and office equipment
+1,430
+141
+16
+121
+1,466
+Advance payments made and construction in progress
+1,119
+695
+– 632
+2
+1,180
+Property, plant and equipment
+33,129
+2,259
+–
+938
+34,450
+Investments in subsidiaries
+2,999
+25
+–
+ 7
+3,017
+Participations
+592
+33
+–
+–
+625
+Non-current marketable securities
+28
+–
+–
+–
+28
+Other non-current loans receivable
+3
+–
+–
+–
+3
+Investments
+3,622
+58
+ –
+7
+3,673
+Tangible, intangible and investment assets
+37,518
+2,404
+ –
+998
+38,924
+ANALYSIS OF CHANGES IN 
+TANGIBLE, INTANGIBLE 
+AND INVESTMENT ASSETS 
+10
+Financial 
+Statements of 
+BMW AG
+Notes
+Analysis of Changes 
+in Tangible, 
+­Intangible and 
+­Investment Assets
+
+Depreciation, amortisation and impairment losses
+Carrying amount
+1. 1. 2016 
+Current year
+Disposals
+31. 12. 2016 
+31. 12. 2016 
+31. 12. 2015
+414
+130
+53
+491
+310
+353
+Intangible assets
+2,540
+151
+11
+2,680
+3,347
+3,321
+Land, titles to land, buildings, 
+including buildings on third party land
+18,488
+1,825
+798
+19,515
+6,262
+6,231
+Plant and machinery
+1,085
+127
+120
+1,092
+374
+345
+Other facilities, factory and office equipment
+–
+–
+–
+–
+1,180
+1,119
+Advance payments made and construction in progress
+22,113
+2,103
+929
+23,287
+11,163
+11,016
+Property, plant and equipment
+–
+–
+–
+–
+3,017
+2,999
+Investments in subsidiaries
+368
+64
+–
+432
+193
+224
+Participations
+3
+–
+1
+2
+26
+25
+Non-current marketable securities
+1
+–
+–
+1
+2
+2
+Other non-current loans receivable
+372
+64
+1
+435
+3,238
+3,250
+Investments
+22,899
+2,297
+983
+24,213
+14,711
+14,619
+Tangible, intangible and investment assets
+11
+
+NOTES TO THE BALANCE 
+SHEET
+01  
+Intangible assets
+Intangible assets comprise mainly purchased software, 
+franchises and licenses. Scheduled amortisation in 
+the year under report totalled € 130 million € (2015: 
+€ 125 million). Advance payments for intangible assets 
+amounted to € 12 million (2015: € 12 million).
+02  
+Property, plant and equipment
+Additions to property, plant and equipment relate 
+primarily to infrastructure improvements and product-­
+related investments in plant and machinery. Sched-
+uled depreciation in the year under report totalled 
+€ 2,103 million (2015: € 1,947 million).
+03  
+Financial assets 
+BMW AG holds an investment in SGL Carbon SE, 
+Wiesbaden. An impairment loss of € 64 million (2015: 
+€ 16 million) was recognised on this investment by 
+writing down the carrying amount to its lower market 
+value at the end of the reporting period.
+04  
+Inventories
+in € million
+31. 12. 2016
+31. 12. 2015
+Raw materials and supplies
+765
+ 736
+Work in progress, unbilled contracts
+383
+ 369
+Finished goods and goods for resale
+3,112
+ 3,162
+Inventories
+4,260
+4,267
+05  
+Receivables and other assets
+in € million
+31. 12. 2016
+31. 12. 2015
+Trade receivables
+667
+ 628
+Receivables from subsidiaries
+6,001
+ 6,229
+thereof due later than one year
+ 20 
+40
+Other receivables and other assets
+ 
+Receivables from other companies in 
+which an investment is held
+1,065
+ 706
+Other assets
+1,460
+ 1,114
+thereof due later than one year
+92
+44
+2,525
+1,820
+Receivables and other assets
+9,193
+8,677
+Receivables from subsidiaries relate to trade receiv-
+ables.
+Other assets include primarily tax receivables and 
+receivables in conjunction with securities repurchase 
+agreements. 
+Unless stated otherwise, receivables and other assets 
+are due within one year.
+12
+Financial 
+Statements of 
+BMW AG
+Notes
+Notes to the Balance 
+Sheet
+
+06  
+Marketable securities
+Marketable securities relate primarily to one special 
+investment fund and to money market funds. 
+BMW AG holds all of the shares of the special invest-
+ment fund. The fund is not subject to any restrictions 
+in terms of the daily redemption amount. The acquisi-
+tion cost of the shares in the special investment fund 
+amounted to € 3,553 million (2015: € 3,552 million). 
+A profit distribution amounting to € 20 million (2015: 
+€ 29 million) was received during the financial year 
+2016.
+The following table shows the acquisition cost and fair 
+value of investments held by the special investment 
+fund at 31 December 2016: 
+Acquisition cost
+Fair value
+in € million
+31. 12. 2016 
+31. 12. 2015
+31. 12. 2016 
+31. 12. 2015
+Fixed-income securities
+3,297
+ 3,415
+3,314
+ 3,424
+Shares
+729
+ 576
+734
+ 561
+Receivables and payables
+30
+ 41
+30
+ 41
+Other marketable securities
+52
+ 27
+52
+ 27
+Cash and cash equivalents
+5
+ 3
+5
+ 3
+Derivative instruments
+–
+–
+– 2
+ 2
+Special investment fund
+4,113
+4,062
+4,133
+4,058
+13
+
+07  
+Cash and cash equivalents
+Cash and cash equivalents comprise cash at bank, 
+of which € 33 million (2015: € 10 million) relates to 
+amounts held by subsidiaries, and to cash on hand.
+08  
+Surplus of pension and similar plan assets over 
+liabilities
+Assets held to secure obligations relating to pensions 
+and pre-retirement part-time work arrangements 
+are offset against the related liabilities. The assets 
+concerned comprise mainly holdings in investment 
+fund assets. 
+The surplus arising on the offset of assets and liabili-
+ties can be analysed as follows:
+in € million
+31. 12. 2016
+31. 12. 2015
+For pre-retirement part-time working 
+arrangements
+fair value of designated plan assets 
+351
+343
+obligations for settlement arrears
+327
+323
+24
+20
+For pension obligations
+1,159
+702
+Surplus of pension and similar plan 
+assets over liabilities
+1,183
+722
+The acquisition cost of the designated plan assets 
+for pre-retirement part-time work arrangements 
+amounted to €287 million (2015: €284 million). A 
+reconciliation of the surplus of €1,159 million (2015: 
+€702 million) arising on the offset of assets and lia-
+bilities relating to pension obligations is shown in 
+ note 12.
+09  
+Subscribed capital and capital reserves
+in € million
+31. 12. 2016
+31. 12. 2015
+Subscribed capital
+657
+ 657
+Capital reserves
+2,127
+ 2,107
+BMW AG’s issued share capital of € 657 million com-
+prises 601,995,196 shares of common stock, each with 
+a par value of € 1, and 55,114,404 shares of non-voting 
+preferred stock, each with a par value of € 1. Preferred 
+stock bears an additional dividend of € 0.02 per share. 
+All of the Company’s stock is issued to bearer.
+305,029 shares of preferred stock were issued to 
+employees at a reduced price of € 44.14 per share in 
+conjunction with an Employee Share Programme. 
+These shares are entitled to receive dividends with 
+effect from the financial year 2017. 29 shares of pre-
+ferred stock were bought back via the stock exchange 
+in conjunction with the Company’s Employee Share 
+Programme.
+Issued share capital increased by € 0.3 million as a 
+result of the issue to employees of 305,000 shares 
+of non-voting preferred stock. After servicing the 
+Employee Share Programme for 2015 and 2016, the 
+Authorised Capital of BMW AG therefore amounted 
+to € 4.2 million at the end of the reporting period. The 
+Company is authorised to issue shares of non-voting 
+preferred stock amounting to nominal € 5.0 million 
+prior to 14 May 2019. The share premium of € 20.1 mil-
+lion arising on this share capital increase was trans-
+ferred to capital reserves.
+ see  
+note 12
+14
+Financial 
+Statements of 
+BMW AG
+Notes
+Notes to the Balance 
+Sheet
+
+10 
+ 
+Revenue reserves
+in € million
+31. 12. 2016
+31. 12. 2015
+Statutory reserves 
+1
+ 1
+Other revenue reserves
+Balance brought forward 
+8,060
+ 7,421
+Transfer from net profit 
+977
+ 639
+9,037
+8,060
+Revenue reserves
+9,038
+8,061
+The amount available for distribution at 31 Decem-
+ber 2016 was € 2,646 million (2015: € 1,379 million). 
+This figure arises in conjunction with fair value gains 
+amounting to € 1,683 million (2015: € 1,379 million) 
+on assets held to service obligations for pensions and 
+pre-retirement part-time work arrangements on the 
+one hand and the difference of € 963 million (2015: 
+€- million) in the carrying amount of the pension 
+provision based on using the relevant average market 
+interest rate for the past ten rather than seven financial 
+years on the other. 
+11 
+ 
+Registered profit-sharing certificates
+Up to 1989, employees were entitled to subscribe to 
+registered profit-sharing certificates in conjunction 
+with a wealth accumulation programme for employ-
+ees. This was replaced by the current programme 
+to subscribe to preferred stock. A total of 616,335 
+registered profit-sharing certificates remained in 
+place at 31 December 2016 (2015: 627,475 registered 
+profit-sharing certificates).
+12 
+ 
+Provisions
+in € million
+31. 12. 2016
+31. 12. 2015
+Pension provisions
+93
+ 82
+Tax provisions
+384
+ 602
+Other provisions
+7,222
+ 7,015
+Provisions 
+7,699
+7,699
+BMW AG provides pension benefits to its employees in 
+various forms. BMW AG’s pension obligations include 
+defined benefit obligations, for which benefits are 
+determined either by multiplying a fixed amount by 
+the number of years of service or on the basis of an 
+employee’s final salary. The defined benefit plans 
+concerned have been closed to new entrants. 
+These defined benefit plans were amended during the 
+financial year 2016. In future, 12 monthly pension 
+payments will be paid each year to plan beneficiaries, 
+with a guaranteed 1 % increase on pension entitle-
+ments awarded since 1999.
+Furthermore, an additional pension plan is also in 
+place – covered by trust assets – which pays defined 
+benefit amounts that are predominantly dependent on 
+the contributions made by the Company, the invest-
+ment income earned and a guaranteed minimum rate 
+of interest.
+Under the motto “THE NEXT 100 YEARS”, almost all of 
+the workforce received a special bonus in conjunction 
+with the BMW AG’s centenary anniversary. For the 
+most part, the special centenary bonus was allocated 
+as a starting contribution to the defined contribution 
+entitlement with a guaranteed minimum rate of return.
+15
+
+BMW AG also offers employees the option of partici­
+pating in a voluntary Deferred Remuneration Retire-
+ment Plan. The measurement of pension obligations 
+is based, as in previous years, on the assumptions set 
+out in the biometric tables of Prof. Dr. Klaus Heubeck 
+(2005 G). In addition, the following assumptions are 
+applied:
+in %
+31. 12. 2016
+31. 12. 2015
+Discount rate 
+4.01
+ 3.89
+Future salary increases 
+2.89
+ 2.60
+Future pension increases 
+1.78
+ 1.60
+The discount rate used to discount pension obligations 
+corresponds to the average market interest rate for the 
+past ten financial years for an assumed maturity term of 
+15 years, as calculated and published by the Deutsche 
+Bundesbank. The difference in the carrying amount of 
+the pension provision as a result of an average market 
+interest rate for ten rather than seven years is disclosed 
+in  note 10. 
+Pension provisions amounting to € 93 million (2015: 
+€ 82 million) can be analysed as follows:
+in € million
+31. 12. 2016
+31. 12. 2015
+Fair value of assets held to cover pension 
+obligations 
+8,556
+7,781
+Present value of defined benefit 
+­obligations 
+7,490
+7,161
+Surplus of pension and similar plan assets 
+over liabilities 
+1,159
+702
+Pension provisions
+93
+82
+If the fair value of the designated plan assets exceeds 
+the pension obligations, the surplus amount is 
+reported in the line item “Surplus of pension and 
+similar plan assets over liabilities” (see  note 8). The 
+acquisition cost of the designated plan assets relatimg 
+to pension obligations amounted to € 6,937 million 
+(2015: € 6,461 million).
+Expenses resulting from the reversal of the discount-
+ing of pension obligations, the effect of changes in 
+the discount rate applied, as well as income and 
+expenses resulting from the measurement of assets 
+offset against liabilities, are reported as part of the 
+financial result (
+ note 20). All other components of 
+pension expense are included in the income statement 
+under costs by function. 
+Tax provisions comprise mainly expected income tax 
+payments relating to the financial year 2016 and prior 
+years as well as ancillary tax-related expenses.
+Other provisions comprise mainly obligations for per-
+sonnel-related expenses, warranties, selling activities, 
+litigation and liability risks as well as risks relating to 
+commodity and currency contracts.
+ see  
+note 10
+ see 
+note 8
+ see 
+note 20
+16
+Financial 
+Statements of 
+BMW AG
+Notes
+Notes to the Balance 
+Sheet
+
+13 
+ 
+Liabilities
+   31.12.2016    (31.12.2015)
+Total
+thereof with a remaining term of
+in € million
+up to one year
+1 to 5 years
+more than 
+5 years
+Liabilities to banks
+995
+159
+836
+–
+(1,343)
+(466)
+(877)
+–
+Trade payables
+5,030
+5,030
+–
+–
+(4,500)
+(4,422)
+(78)
+–
+Liabilities to subsidiaries
+5,951
+5,951
+–
+–
+(6,690)
+(6,390)
+–
+(300)
+Other liabilities
+Advance payments received on orders
+30
+30
+–
+–
+(33)
+(33)
+–
+–
+Payables to entities in which a participation is held
+5
+5
+–
+–
+(17)
+(17)
+–
+–
+Liabilities to BMW Unterstützungsverein e. V.
+3
+–
+–
+3
+(3)
+–
+–
+(3)
+Sundry other liabilities
+368
+254
+114
+–
+(186)
+(176)
+(10)
+–
+thereof for social security
+51
+51
+–
+–
+(48)
+(48)
+–
+–
+thereof for taxes
+13
+13
+–
+–
+(14)
+(14)
+–
+–
+406
+289
+114
+3
+(239)
+( 226)
+(10)
+(3)
+Liabilities
+12,382
+11,429
+950
+3
+(12,772)
+(11,504)
+(965)
+(303)
+Liabilities to subsidiaries relate to financing and 
+trading. 
+Liabilities to subsidiaries with a remaining term of 
+more than five years amounting to € 300 million were 
+repaid before their due date.
+14 
+ 
+Deferred income
+Deferred income includes revenue received for 
+services to be performed in future accounting peri-
+ods, including € 1,998 million (2015: € 1,511 million) 
+deferred for work still to be performed in conjunction 
+with service and maintenance contracts. 
+17
+
+NOTES TO THE INCOME 
+STATEMENT
+The German Accounting Directive Implementation 
+Act (BilRUG) was applied for the first time with effect 
+from the beginning of the financial year 2016, and 
+impacts the financial statements primarily as a result 
+of the extended definition of revenues. Comparative 
+figures have not been adjusted where this gave rise 
+to changes in the presentation of items in the income 
+statement. Further information is provided in the sec-
+tion “Basis of Preparation of the Financial Statements”.
+15 
+ 
+Revenues
+in € million
+2016
+2015*
+Automobiles
+63,248
+ 62,293
+Motorcycles
+1,411
+ 1,335
+Other revenues
+10,691
+ 8,756
+Revenues
+75,350
+72,384
+Information by region
+Germany
+13,293
+12,283
+China
+12,429
+9,435
+USA
+12,321
+16,585
+Rest of Europe
+23,974
+21,963
+Rest of Asia
+8,081
+6,899
+Rest of the Americas
+2,780
+2,569
+Other regions
+2,472
+2,650
+Revenues
+75,350
+72,384
+*	Adjustments to prior year figures result from changes in the regional make-up. 
+With effect from the financial year 2016, revenues 
+from sales in the USA and China markets are dis-
+closed separately. Revenues generated in Great Britain 
+amounting to € 7,011 million (2015: € 6,853 million) are 
+included in the line item “Rest of Europe”. The line 
+item “Rest of the Americas” comprises the markets in 
+North America, Central America and South America, 
+adjusted for the USA. The markets in Africa, Australia 
+and Oceania are aggregated in the line item “Other 
+regions”.
+16 
+ 
+Cost of sales
+Cost of sales comprises mainly production costs of 
+materials, bought-in goods and services, personnel 
+expenses, depreciation and amortisation of assets, 
+production-related rent and leasing expenses and 
+warranty expenses. Warranty expenses include an 
+allocation of € 605 million to the warranty provision 
+in connection with various issues, including airbags 
+supplied by the Takata group of companies and the 
+ISOFIX attachment system used for child car seats. 
+With effect from the financial year 2016, manufactur-
+ing cost for inventory valuation purposes no longer 
+includes a proportion of production-related admin-
+istrative costs, voluntary social costs and company 
+pension costs, giving rise to a one-off expense of 
+€ 108 million.
+17 
+ 
+Other operating income
+Other operating income totalling € 1,812 million (2015: 
+€ 3,640 million) include mainly realised exchange 
+gains, income from the reversal of provisions and 
+other sundry items. 
+With effect from the financial year 2016, realised gains 
+and losses arising on valuation units created for back-
+to-back derivative financial instruments entered into 
+with subsidiaries and banks, are presented on a net 
+basis in order to improve income statement presenta-
+tion. In order to make the figures comparable, other 
+operating income reported for the financial year 2015 
+must be reduced by € 1,040 million to € 2,600 million.
+Other operating income relating to prior periods 
+amounted to € 175 million (2015: € 171 million). Gains 
+resulting from measurement of foreign currency items 
+using closing exchange rates totalled € 72 million 
+(2015: € 47 million).
+18
+Financial 
+Statements of 
+BMW AG
+Notes
+Notes to the Income 
+Statement
+
+18 
+  
+Other operating expenses
+Other operating expenses amounted to € 1,949 mil-
+lion (2015: € 3,456 million) and included in particular 
+realised exchange losses, allocations to provisions 
+and expenses incurred for premiums on options. An 
+expense of € 60 million (2015: € 214 million) arose 
+in the year under report from the measurement of 
+foreign currency items at closing exchange rates.
+As a result of the change to a net presentation, as 
+described in 
+ note 17, other operating expenses 
+reported for the financial year 2015 must be reduced 
+by € 1,040 million to € 2,416 million to make them 
+comparable year-on-year.
+19 
+ 
+Result on investments
+in € million
+2016
+2015
+Income from investments
+–
+ 1
+Income from profit and loss transfer 
+agreements
+1,016
+ 1,606
+Expense of assuming losses under profit 
+and loss transfer agreements
+– 1
+– 1
+Result on investments
+1,015
+1,606
+The decrease in income from profit and loss transfer 
+agreements results primarily from lower amounts 
+transferred by BMW Bank GmbH, Munich, and BMW 
+INTEC Beteiligungs GmbH, Munich.
+20  
+Financial result
+in € million
+2016
+2015
+Other interest and similar income
+420
+ 229
+thereof from subsidiaries
+42
+124
+thereof financial income arising on 
+pension and long-term personnel-re-
+lated provisions
+276
+–
+Reversals of impairment losses on 
+non-current financial assets and current 
+marketable securities
+1
+– 
+Impairment losses on non-current  
+financial assets and current marketable 
+securities
+– 64
+– 16
+Interest and similar expenses
+– 392
+– 1,256
+thereof to subsidiaries 
+–168
+–137
+thereof financial expense from unwind-
+ing the discounting of pension and 
+long-term personnel-related provisions
+–
+– 855
+thereof expense from unwinding the 
+discounting of liabilities and other 
+­provisions
+–133
+– 159
+Financial result
+– 35
+– 1,043
+Financial income (2015: financial expense) for pension 
+and long-term personnel expense-related provisions 
+results from netting the following items:
+in € million 
+2016
+2015
+Income from fund assets offset against liabilities
+438
+ 98
+Expense from unwinding discounted pension and long-term personnel expense-related provisions and  
+effect of changes in the discount factor
+– 162
+– 953
+Financial income / expense from pension and long-term personnel-related provisions
+276
+– 855
+ see  
+note 17
+19
+
+21  
+Income taxes
+The expense for income taxes relates primarily to 
+current tax for the financial year 2016.
+22  
+Transfer to revenue reserves
+An amount of € 977 million was transferred from net 
+profit for the year to other revenue reserves.
+23  
+Unappropriated profit available for distribution
+A proposal will be made that the unappropriated profit 
+of € 2,299,912,186.00 for the financial year 2016 be 
+utilised as follows: 
+Payment of a dividend of € 3.52 per share of non-voting 
+preferred stock, each with a par value of € 1, on the 
+stock entitled to receive a dividend (54,809,375 shares 
+of preferred stock), amounting to € 192,929,000.00. 
+Payment of a dividend of € 3.50 per share of common 
+stock, each with a par value of € 1, on the stock entitled 
+to receive a dividend (601,995,196 shares of common 
+stock), amounting to € 2,106,983,186.00.
+20
+Financial 
+Statements of 
+BMW AG
+Notes
+Notes to the Income 
+Statement
+Other Disclosures
+
+OTHER DISCLOSURES
+24  
+Cost of materials
+in € million
+2016
+2015
+Cost of raw materials and goods for resale
+51,908
+ 49,963
+Cost of purchased services
+1,954
+ 2,165
+Cost of materials
+53,862
+52,128
+25  
+Personnel expense
+in € million
+2016
+2015
+Wages and salaries
+7,072
+ 6,538
+Social security, pension and welfare costs
+1,268
+ 1,038
+thereof pension costs
+321 
+169
+Personnel expense
+8,340
+7,576
+Average workforce during the year
+2016
+2015
+Head office and Munich plant
+34,828
+33,351
+Dingolfing plant
+18,409
+18,343
+Regensburg plant
+9,286
+9,133
+Leipzig plant
+4,753
+4,666
+Landshut plant
+3,885
+3,796
+Berlin plant
+2,859
+2,746
+Branches
+5,291
+5,219
+79,311
+77,254
+Apprentices and students gaining work 
+experience
+6,106
+6,038
+85,417
+83,292
+26  
+Fee expense of the external auditor
+The total fee of the external auditor is disclosed in the 
+notes to the Group Financial Statements.
+27  
+Contingent liabilities
+in € million
+31. 12. 2016
+31. 12. 2015
+Guarantees for bonds under the 
+AMTN / EMTN programme
+34,775
+ 36,637 
+thereof in favour of subsidiaries
+34,775 
+36,637
+Guarantees for commercial paper
+3,658
+ 5,554 
+thereof in favour of subsidiaries
+3,658 
+5,554
+Guarantees for other debt capital 
+­transactions
+11,919
+ 5,601 
+thereof in favour of subsidiaries
+11,919 
+5,601
+Other
+1,250
+ 1,193 
+of which to subsidiaries
+1,155 
+1,073
+Contingent liabilities
+51,602
+48,985
+Based on the information available to BMW AG at the 
+date of the preparation of the financial statements 
+regarding the financial condition of the principal 
+debtors, BMW AG considers that the obligations 
+underlying the contingent liabilities shown above can 
+be fulfilled by the relevant principal debtors. BMW AG 
+therefore considers it unlikely that it will be called 
+upon in conjunction with these contingent liabilities.
+BMW AG is liable for the full extent and amount of 
+customer deposits taken in by the subsidiary, BMW 
+Bank GmbH, Munich, instead of the Deposit Protec-
+tion Fund of the Association of German Banks (Ein-
+lagensicherungsfonds des Bundesverbands deutscher 
+Banken e. V.), of which BMW Bank GmbH is a member. 
+The maximum liability per customer is capped at 20 % 
+of the relevant equity of BMW Bank GmbH.
+The Dutch entities BMW International Holding B. V., 
+The Hague, and Alphabet Nederland B. V., Breda, apply 
+the exemption provision contained in Article 2:403 of 
+the Civil Code of the Netherlands. BMW AG assumes 
+joint and several liability to these entities for all obli-
+gations arising out of legal transactions.
+21
+
+28  
+Other financial commitments and off-balance-
+sheet transactions
+Other financial commitments totalled € 2,578 million 
+(2015: € 2,546 million) and comprise mainly obliga-
+tions arising from rental, leasing and maintenance 
+contracts. 
+The total amount of these obligations can be analysed 
+by maturity as follows:
+in € million
+31. 12. 2016
+31.12.2015
+due within one year
+752
+742
+due between one and five years
+801
+790
+due later than five years
+1,025
+1,014
+Other financial obligations
+2,578
+2,546
+Of these amounts, € 954 million (2015: € 995 million) 
+relate to subsidiaries.
+Purchase commitments for capital expenditure are at 
+a normal level for the business. 
+As part of BMW AG’s refinancing activities, some 
+receivables have been sold to other BMW Group enti-
+ties and sale-and-lease-back transactions entered into 
+in previous years. No significant risks and rewards 
+remain with BMW AG in conjunction with these 
+transactions.
+29  
+Related party transactions
+Transactions with related parties are all conducted on 
+an arm’s length basis.
+22
+Financial 
+Statements of 
+BMW AG
+Notes
+Other Disclosures
+
+30  
+Derivative financial instruments
+Nominal volume
+Fair values
+in € million
+31. 12. 2016 
+31. 12. 2015
+31. 12. 2016 
+31. 12. 2015
+Currency-related contracts
+Forward currency contracts
+52,931
+ 43,437
+522
+– 588
+thereof positive fair values
+–
+–
+1,730
+ 565
+thereof negative fair values
+–
+–
+– 1,208
+– 1,153
+Currency options
+–
+ 4,001
+–
+ 16
+thereof positive fair values
+–
+–
+–
+ 74
+thereof negative fair values
+–
+–
+–
+– 58
+Cross currency swaps
+–
+ 41
+–
+ 2
+thereof positive fair values
+–
+–
+–
+ 3
+thereof negative fair values
+–
+–
+–
+– 1
+52,931
+47,479
+522
+– 570
+Interest rate-related instruments
+Interest swaps
+2,506
+ 4,622
+–
+–
+thereof positive fair values
+–
+–
+1
+ 3
+thereof negative fair values
+–
+–
+– 1
+– 3
+Purchasing-related instruments
+Commodity derivatives
+3,590
+ 4,244
+– 303
+– 1,057
+thereof positive fair values
+–
+–
+147
+ 5
+thereof negative fair values
+–
+–
+– 450
+– 1,062
+Provisions of € 299 million (2015: € 648 million) were 
+recognised to cover negative fair values and fair value 
+changes in derivative instruments as well as for the 
+negative impact of the ineffective portion of valuation 
+units. In addition, the fair values of forward currency 
+contracts relating to sales companies are included in 
+“Other assets” (positive amount of € 110 million) and in 
+“Other liabilities” (negative amount of € 238 million).
+The nominal amounts of derivative financial instru-
+ments correspond to the purchase or sale amounts or 
+to the contracted amounts of hedged items. The fair 
+values of currency and interest-rate-related instru-
+ments shown are measured on the basis of market 
+information available at the balance sheet date or 
+using appropriate measurement techniques e. g. the 
+discounted cash flow method. Options are measured 
+on the basis of quoted prices or option price models 
+using appropriate market data.
+The fair values of commodity hedging contracts are 
+determined on the basis of current reference prices, as 
+adjusted for forward premium and discount amounts. 
+The fair values of derivative financial instruments 
+derived for the relevant nominal values do not take 
+account of any offsetting change in the fair value of 
+the hedged items.
+Amounts are discounted at 31 December 2016 on the 
+basis of the following interest rates:
+in %
+EUR
+USD
+GBP
+JPY
+CNY
+Interest rate for six months
+– 0.23
+1.21
+0.60
+– 0.20
+2.94
+Interest rate for one year
+– 0.20
+1.18
+0.55
+0.02
+3.77
+Interest rate for five years
+0.08
+1.98
+0.87
+0.08
+4.44
+Interest rate for ten years
+0.67
+2.37
+1.25
+0.23
+4.85
+23
+
+31  
+Valuation units
+The Company is exposed to exchange rate, commod-
+ity price and interest rate risks from underlying and 
+forecast transactions. These risks are hedged for the 
+most part by derivative financial instruments and 
+aggregated in valuation units. 
+At 31 December 2016 BMW AG held currency deriva-
+tive instruments with terms of up to 44 months (2015: 
+55 months). These currency derivatives are used to 
+hedge the exchange rates relating to highly probable 
+forecast foreign currency trade receivables and foreign 
+currency financial assets. Derivative financial instru-
+ments also include back-to-back contracts entered 
+into with subsidiaries and banks. 
+Hedges for future purchases of commodities relate 
+to highly probable forecast transactions. Changes 
+in prices of these raw materials have an impact on 
+BMW AG’s production costs. Hedging strategies have 
+therefore been put in place for raw materials manage-
+ment purposes, based on forecast purchase volumes. 
+Commodity derivative instruments with terms of up 
+to 58 months were in place at the end of the reporting 
+period (2015: 58 months).
+In addition, BMW AG held interest-rate derivative 
+instruments at 31 December 2016 with terms of up 
+to 87 months (2015: 99 months), including back-to-
+back derivative financial instruments entered into 
+with subsidiaries and banks. Fixed-interest financial 
+instruments are used as a hedge against interest-rate 
+risks.
+Volume hedged
+Amount of risk hedged
+in € million
+31. 12. 2016 
+31. 12. 2015
+31. 12. 2016 
+31. 12. 2015
+Currency risk hedges
+Assets
+–
+40
+–
+1
+Forecast transactions
+40,581
+32,505
+1,002
+897
+Executory contracts
+– 101
+– 174
+127
+176
+Interest rate hedges
+ 
+ 
+ 
+ 
+Assets
+30
+30
+–
+–
+Liabilities
+110
+–
+–
+–
+Executory contracts
+– 5
+– 10
+1
+3
+Commodity hedges
+ 
+ 
+ 
+ 
+Forecast transactions
+2,381
+2,642
+341
+620
+The amounts disclosed for the “volume hedged” relate 
+to the carrying amounts of hedged assets, the nominal 
+amount of forecast transactions and the fair value of 
+hedged contracts over the period of the valuation unit. 
+The figures disclosed for the amount of risk hedged 
+refer to the non-recognition of a provision for onerous 
+contracts with negative fair values on the one hand 
+and the non-recognition of write-downs on option 
+premiums recognised as assets on the other.
+24
+Financial 
+Statements of 
+BMW AG
+Notes
+Other Disclosures
+
+32  
+Total remuneration of the Board of Management 
+and the Supervisory Board
+Subject to the approval of the proposed dividend at 
+the Annual General Meeting of Shareholders, the 
+remuneration of current members of the Board of 
+Management for the financial year 2016 amounts to 
+€ 37.6 million (2015: € 35.5 million). This comprised 
+fixed components of € 7.8 million (2015: € 7.7 million), 
+variable components of € 29.0 million (2015: € 27.1 mil-
+lion) and a share-based compensation component 
+totalling € 0.8 million (2015: € 0.7 million).
+The grant of the share-based remuneration component 
+related to 8,964 shares of BMW AG common stock and 
+a corresponding cash-based settlement, measured at 
+the relevant market share price prevailing on grant 
+date.
+The remuneration of former members of the Board 
+of Management and their dependants amounted to 
+€ 6.5 million (2015: € 8.0 million).
+Pension obligations to former members of the Board of 
+Management and their dependants are fully covered 
+by pension provisions amounting to € 67.7 million 
+(2015: € 64.1 million). 
+The compensation of the members of the Supervi-
+sory Board for the financial year 2016 amounted to 
+€ 5.4 million (2015: € 5.1 million). This comprised fixed 
+components of € 2.0 million (2015: € 2.0 million) and 
+variable components of € 3.4 million (2015: € 3.1 mil-
+lion). 
+The compensation systems for members of the Super-
+visory Board do not include any stock options, value 
+appreciation rights comparable to stock options or any 
+other stock-based compensation components. Apart 
+from vehicle lease contracts entered into on customary 
+conditions, no advances and loans were granted by the 
+Company to members of the Board of Management 
+and the Supervisory Board, nor were any contingent 
+liabilities entered into on their behalf. 
+Further details about the remuneration system of 
+current members of the Board of Management and 
+of the Supervisory Board can be found in the Com-
+pensation Report included in the BMW Group Annual 
+Report 2016. The Compensation Report is part of the 
+Combined Management Report.
+33  
+Disclosures pursuant to § 160 (1) no. 8 of the 
+German Stock Corporation Act (AktG)
+A number of shareholdings in the Company exist at 
+the end of the financial year, which have been notified 
+in accordance with § 21 (1) of the German Securities 
+Trading Act (WpHG) and published (as shown below) 
+in accordance with § 26 (1) WpHG with the objective 
+of Europe-wide distribution. 
+Stefan Quandt has informed us that his voting rights in 
+BMW AG on 22 September 2016 amounted to 17.64 % 
+(previously 34.19 %), corresponding to 106,165,053 
+voting rights. 17.44 % (corresponding to 104,979,435 
+voting rights) are attributable to Mr. Quandt pursuant 
+to § 22 WpHG via AQTON SE. 
+Susanne Klatten has informed us that her voting rights in 
+BMW AG on 22 September 2016 amounted to 12.75 % 
+(previously 29.30 %), corresponding to 76,748,039 
+voting rights. 12.55 % (corresponding to 75,562,421 
+voting rights) are attributable to Ms. Klatten pursuant 
+to § 22 WpHG via Susanne Klatten Beteiligungs GmbH. 
+BlackRock, Inc., Wilmington, DE, USA, has informed us 
+that its voting rights in BMW AG on 18 November 2016 
+amounted to 3.08 % (previously 3.01 %), corresponding 
+to 18,516,129 voting rights. All of these shares are 
+attributable indirectly to BlackRock, Inc. in accord-
+ance with § 22 WpHG.
+The voting power percentages disclosed above may 
+have changed subsequent to the dates stated, if these 
+changes were not required to be reported to the 
+Company. Due to the fact that the Company’s shares 
+are issued to bearer, the Company is generally only 
+aware of changes in shareholdings if such changes are 
+subject to mandatory notification rules. 
+Voluntary notifications at 31 December 2016 relating 
+to investments that exceed 10 % of the voting rights 
+at the end of the reporting period are disclosed in the 
+Management Report.
+34  
+Events after the end of the reporting period
+No events have occurred since the end of the reporting 
+period which could have a major impact on the results of 
+operations, financial position or nets assets of BMW AG.
+35  
+Declaration with respect to the Corporate 
+Governance Code
+The Declaration with respect to the Corporate Gov-
+ernance Code pursuant to § 161 AktG is reproduced 
+in the Annual Report 2016 of the BMW Group and is 
+available to shareholders on the BMW Group’s website 
+at  www.bmwgroup.com / ir.
+25
+
+LIST OF INVESTMENTS AT 
+31 DECEMBER 2016
+36  
+List of investments at 31 December 2016
+The List of Investments of BMW AG pursuant to § 285 
+and § 313 HGB is presented below. Figures for equity 
+and earnings are not disclosed if they are of “minor 
+significance” for the results of operations, financial 
+position and net assets of BMW AG pursuant to § 286 
+(3) sentence 1 no. 1 HGB or if financial statements 
+for a company are not yet available. It is also shown 
+in the list which subsidiaries apply the exemptions 
+available in § 264 (3) and § 264 b HGB with regard 
+to the publication of annual financial statements 
+and the drawing up of a management report and / or 
+notes to the financial statements (footnotes 5 and 6). 
+The Group Financial Statements of BMW AG serve 
+as exempting consolidated financial statements for 
+these companies.
+BMW AG’s subsidiary at 31 December 2016
+ 
+Companies
+Equity 
+in € million
+Profit / loss 
+in € million
+Capital invest-
+ment in %
+Domestic 1
+BMW Beteiligungs GmbH & Co. KG, Munich 6
+5,794
+– 5
+100
+BMW INTEC Beteiligungs GmbH, Munich 3, 6
+ 
+3,558
+–
+100
+BMW Bank GmbH, Munich 3
+ 
+1,988
+–
+100
+BMW Finanz Verwaltungs GmbH, Munich 
+ 
+325
+– 1
+100
+BMW Verwaltungs GmbH, Munich 3, 6
+ 
+153
+–
+100
+BMW Hams Hall Motoren GmbH, Munich 4, 5, 6
+ 
+–
+–
+100
+BMW M GmbH Gesellschaft für individuelle Automobile, Munich 3, 5, 6
+ 
+–
+–
+100
+MITEC Mikroelektronik Mikrotechnik Informatik GmbH, Munich 4, 6
+ 
+–
+–
+100
+Alphabet International GmbH, Munich 4, 5, 6
+ 
+–
+–
+100
+Alphabet Fuhrparkmanagement GmbH, Munich 4
+ 
+–
+–
+100
+Rolls-Royce Motor Cars GmbH, Munich 4, 5, 6
+ 
+–
+–
+100
+BMW Vermögensverwaltungs GmbH, Munich 
+ 
+–
+–
+100
+BMW Fahrzeugtechnik GmbH, Eisenach 3, 5, 6
+ 
+–
+–
+100
+BMW Anlagen Verwaltungs GmbH, Munich 3, 6
+ 
+–
+–
+100
+BMW Vertriebszentren Verwaltungs GmbH, Munich 
+ 
+–
+–
+100
+Parkhaus Oberwiesenfeld GmbH, Munich 
+ 
+–
+–
+100
+Bürohaus Petuelring GmbH, Munich 
+ 
+–
+–
+100
+LARGUS Grundstücks-Verwaltungsgesellschaft mbH, Munich 
+ 
+–
+–
+100
+Bavaria Wirtschaftsagentur GmbH, Munich 3, 5, 6
+ 
+–
+–
+100
+BAVARIA-LLOYD Reisebüro GmbH, Munich 
+ 
+–
+–
+51
+Foreign 2
+Europe 13
+BMW Holding B. V., The Hague 
+14,696
+1,180
+100
+BMW International Holding B. V., Rijswijk 11
+ 
+7,898
+–
+100
+BMW Österreich Holding GmbH, Steyr 
+ 
+2,502
+267
+100
+BMW Malta Ltd., Floriana 
+ 
+1,541
+73
+100
+BMW Malta Finance Ltd., Floriana 
+ 
+1,366
+48
+100
+BMW Motoren GmbH, Steyr 
+ 
+948
+179
+100
+BMW Financial Services (GB) Ltd., Farnborough 
+ 
+881
+282
+100
+BMW España Finance S. L., Madrid 
+ 
+775
+14
+100
+BMW (UK) Holdings Ltd., Farnborough 
+ 
+749
+460
+100
+BMW (UK) Manufacturing Ltd., Farnborough 
+723
+136
+100
+26
+Financial 
+Statements of 
+BMW AG
+Notes
+List of Investments 
+at 31 December 
+2016
+
+BMW (Schweiz) AG, Dielsdorf 
+ 
+719
+49
+100
+BMW Coordination Center V. o. F., Bornem 
+ 
+592
+–
+100
+BMW France, Montigny-le-Bretonneux 
+ 
+374
+39
+100
+BMW Finance S. N. C., Guyancourt 
+ 
+364
+40
+100
+BMW Italia S. p. A., San Donato Milanese 
+ 
+345
+35
+100
+BMW Iberica S. A., Madrid 
+ 
+302
+24
+100
+BMW Belgium Luxembourg S. A. / N. V., Bornem 
+ 
+277
+21
+100
+BMW (UK) Ltd., Farnborough 
+ 
+213
+65
+100
+ALPHABET (GB) Ltd., Farnborough 
+ 
+202
+36
+100
+BMW Financial Services Scandinavia AB, Sollentuna 
+ 
+180
+12
+100
+Rolls-Royce Motor Cars Ltd., Farnborough 
+ 
+136
+16
+100
+Alphabet Nederland B. V., Breda 11
+ 
+135
+59
+100
+BMW Finance N. V., The Hague 
+ 
+134
+8
+100
+BMW Austria Leasing GmbH, Salzburg 
+ 
+123
+7
+100
+BMW Russland Trading OOO, Moscow 
+ 
+119
+94
+100
+Alphabet Belgium Long Term Rental NV, Aartselaar 
+ 
+112
+21
+100
+BMW International Investment B. V., ’s-Gravenhage 
+ 
+104
+156
+100
+BMW Austria Bank GmbH, Salzburg 
+ 
+103
+6
+100
+APD Industries plc, Farnborough 
+ 
+–
+–
+100
+BMW Financial Services Belgium S. A. / N. V., Bornem 
+ 
+–
+–
+100
+BMW Austria Ges. m. b. H., Salzburg 
+ 
+–
+–
+100
+Alphabet UK Ltd., Glasgow 
+ 
+–
+–
+100
+Bavaria Reinsurance Malta Ltd., Floriana 
+ 
+–
+–
+100
+BMW Vertriebs GmbH, Salzburg 
+ 
+–
+–
+100
+BMW Bank OOO, Moscow 
+ 
+–
+–
+100
+BMW Finanzdienstleistungen (Schweiz) AG, Dielsdorf 
+ 
+–
+–
+100
+Swindon Pressings Ltd., Farnborough 
+ 
+–
+–
+100
+BMW Sverige AB, Stockholm 
+ 
+–
+–
+100
+BMW Financial Services (Ireland) DAC, Dublin 
+ 
+–
+–
+100
+BMW Norge AS, Fornebu 
+ 
+–
+–
+100
+Alphabet España Fleet Management S. A. U., Madrid 
+ 
+–
+–
+100
+BMW Services Ltd., Farnborough 
+ 
+–
+–
+100
+BMW Financial Services B. V., Rijswijk 
+ 
+–
+–
+100
+Alphabet France Fleet Management S. N. C., Rueil-Malmaison 
+ 
+–
+–
+100
+Alphabet France SAS, Rueil-Malmaison 
+ 
+–
+–
+100
+BMW Retail Nederland B. V., Delft 
+ 
+–
+–
+100
+BMW Hellas Trade of Cars A. E., Kifissia 
+ 
+–
+–
+100
+BMW Financial Services Denmark A / S, Copenhagen 
+ 
+–
+–
+100
+Alphabet Austria Fuhrparkmanagement GmbH, Salzburg 
+ 
+–
+–
+100
+Alphabet Polska Fleet Management Sp. z o. o., Warsaw 
+ 
+–
+–
+100
+Alphabet Fuhrparkmanagement (Schweiz) AG, Dielsdorf 
+ 
+–
+–
+100
+BMW Portugal Lda., Porto Salvo 
+ 
+–
+–
+100
+Alphabet Italia Fleet Management S. p. A., Rome 
+ 
+–
+–
+100
+BMW Amsterdam B. V., Amsterdam 
+ 
+–
+–
+100
+BMW Renting (Portugal) Lda., Porto Salvo 
+ 
+–
+–
+100
+BMW Automotive (Ireland) Ltd., Dublin 
+ 
+–
+–
+100
+Park Lane Ltd., Farnborough 
+ 
+–
+–
+100
+BMW Services Belgium N. V., Bornem 
+ 
+–
+–
+100
+BMW Roma S. r. l., Rome 
+ 
+–
+–
+100
+BMW Financial Services Polska Sp. z o. o., Warsaw 12
+ 
+–
+–
+100
+BMW Distribution S. A. S., Montigny-le-Bretonneux 
+ 
+–
+–
+100
+BMW Danmark A / S, Copenhagen 
+ 
+–
+–
+100
+BMW Nederland B. V., Rijswijk 
+ 
+–
+–
+100
+27
+
+BMW Den Haag B. V., The Hague 
+–
+–
+100
+Oy BMW Suomi AB, Helsinki 
+ 
+–
+–
+100
+BMW Madrid S. L., Madrid 
+ 
+–
+–
+100
+BMW Milano S. r. l., San Donato Milanese
+ 
+–
+–
+100
+Alphabet Luxembourg S. A., Leudelange 
+ 
+–
+–
+100
+Société Nouvelle WATT Automobiles SARL, Rueil-Malmaison 
+ 
+–
+–
+100
+BMW (UK) Investments Ltd., Farnborough 
+ 
+–
+–
+100
+BMW (UK) Capital plc, Farnborough 
+ 
+–
+–
+100
+Riley Motors Ltd., Farnborough 
+ 
+–
+–
+100
+BMW Central Pension Trustees Ltd., Farnborough 
+ 
+–
+–
+100
+Triumph Motor Company Ltd., Farnborough 
+ 
+–
+–
+100
+BLMC Ltd., Farnborough 
+ 
+–
+–
+100
+The Americas
+BMW (US) Holding Corp., Wilmington, Delaware 
+2,339
+667
+100
+BMW Bank of North America, Inc., Salt Lake City, Utah 
+ 
+1,545
+148
+100
+BMW Manufacturing Co., LLC, Wilmington, Delaware 
+ 
+1,429
+289
+100
+Financial Services Vehicle Trust, Wilmington, Delaware 
+ 
+1,007
+– 49
+100
+BMW of North America, LLC, Wilmington, Delaware 
+ 
+558
+353
+100
+BMW US Capital, LLC, Wilmington, Delaware 
+ 
+332
+59
+100
+BMW Financial Services NA, LLC, Wilmington, Delaware 
+ 
+315
+555
+100
+BMW SLP, S. A. de C. V., Villa de Reyes 12 
+ 
+197
+– 31
+100
+BMW do Brasil Ltda., São Paulo 
+ 
+–
+–
+100
+BMW Financeira S. A. Credito, Financiamento e Investimento, São Paulo 
+ 
+–
+–
+100
+BMW de Mexico, S. A. de C. V., Mexico D. F. 
+ 
+–
+–
+100
+BMW de Argentina S. A., Buenos Aires 
+ 
+–
+–
+100
+BMW Financial Services de Mexico S. A. de C. V. SOFOM, Mexico City 
+ 
+–
+–
+100
+BMW Manufacturing Indústria de Motos da Amazônia Ltda., Manaus 12
+ 
+–
+–
+100
+BMW Leasing do Brasil, S. A., São Paulo 
+ 
+–
+–
+100
+BMW Insurance Agency, Inc., Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Leasing de Mexico S. A. de C. V., Mexico City 
+ 
+–
+–
+100
+BMW Acquisitions Ltda., São Paulo 
+ 
+–
+–
+100
+Rolls-Royce Motor Cars NA, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Consolidation Services Co., LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+SB Acquisitions, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Extended Service Corporation, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Auto Leasing, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Facility Partners, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW FS Securities LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW FS Funding Corp., Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Manufacturing LP, Woodcliff Lake, New Jersey 
+ 
+–
+–
+100
+BMW FS Receivables Corp, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Receivables 2 Inc., Richmond Hill, Ontario 
+ 
+–
+–
+100
+BMW Receivables Limited Partnership, Richmond Hill, Ontario 
+ 
+–
+–
+100
+BMW Receivables 1 Inc., Richmond Hill, Ontario 
+ 
+–
+–
+100
+BMW of Manhattan, Inc., Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Canada Inc., Richmond Hill, Ontario 
+ 
+–
+–
+100
+28
+Financial 
+Statements of 
+BMW AG
+Notes
+List of Investments 
+at 31 December 
+2016
+
+Africa
+ 
+ 
+ 
+ 
+BMW (South Africa) (Pty) Ltd., Pretoria 
+ 
+682
+63
+100
+BMW Financial Services (South Africa) (Pty) Ltd., Midrand 
+ 
+177
+5
+100
+Asia
+BMW Automotive Finance (China) Co., Ltd., Beijing 
+987
+154
+58
+BMW China Automotive Trading Ltd., Beijing 
+ 
+535
+160
+100
+BMW Japan Finance Corp., Chiba 
+ 
+384
+66
+100
+BMW Financial Services Korea Co., Ltd., Seoul 
+ 
+320
+54
+100
+BMW Japan Corp., Tokyo 
+ 
+310
+151
+100
+BMW Korea Co., Ltd., Seoul 
+ 
+196
+20
+100
+BMW (Thailand) Co., Ltd., Bangkok 
+ 
+108
+83
+100
+BMW India Financial Services Private Ltd., Gurgaon 
+ 
+107
+7
+100
+BMW Manufacturing (Thailand) Co., Ltd., Rayong 
+ 
+–
+–
+100
+BMW Malaysia Sdn Bhd, Kuala Lumpur 
+ 
+–
+–
+51
+BMW Asia Pte. Ltd., Singapore 
+ 
+–
+–
+100
+BMW India Private Ltd., Gurgaon 
+ 
+–
+–
+100
+BMW Leasing (Thailand) Co., Ltd., Bangkok 
+ 
+–
+–
+74
+BMW China Services Ltd., Beijing 
+ 
+–
+–
+100
+PT BMW Indonesia, Jakarta 
+ 
+–
+–
+100
+BMW Asia Technology Centre Sdn Bhd, Kuala Lumpur 
+ 
+–
+–
+100
+BMW Asia Pacific Capital Pte Ltd., Singapore
+ 
+–
+–
+100
+BMW Credit (Malaysia) Sdn Bhd, Kuala Lumpur 
+ 
+–
+–
+100
+BMW Tokyo Corp., Tokyo 
+ 
+–
+–
+100
+BMW Lease (Malaysia) Sdn Bhd, Kuala Lumpur 
+ 
+–
+–
+100
+BMW Holding Malaysia Sdn Bhd, Kuala Lumpur 
+ 
+–
+–
+100
+BMW Osaka Corp., Osaka 
+ 
+–
+–
+100
+Oceania
+BMW Australia Finance Ltd., Mulgrave 
+394
+– 12
+100
+BMW Australia Ltd., Melbourne 
+ 
+194
+20
+100
+BMW Financial Services New Zealand Ltd., Auckland 
+ 
+–
+–
+100
+BMW New Zealand Ltd., Auckland 
+ 
+–
+–
+100
+BMW Sydney Pty. Ltd., Sydney 
+ 
+–
+–
+100
+BMW Melbourne Pty. Ltd., Melbourne 
+ 
+–
+– 
+100
+29
+
+BMW AG’s non-consolidated companies at 31 December 2016
+ 
+Companies
+Equity 
+in € million
+Profit / loss 
+in € million
+Capital invest-
+ment in %
+DOMESTIC 7
+Alphabet Fleetservices GmbH, Munich 
+–
+–
+100
+Automag GmbH, Munich 
+ 
+–
+–
+100
+Bavaria Betriebs-Gastronomie GmbH, Munich 4
+ 
+–
+–
+100
+BMW Car IT GmbH, Munich 4
+ 
+–
+–
+100
+ParkNow GmbH, Munich 
+ 
+–
+–
+100
+PM Parking Ventures GmbH, Munich 
+ 
+–
+–
+100
+Foreign 7
+Europe
+Alphabet Insurance Services Polska Sp. z o. o., Warsaw 
+ 
+ 
+100
+BMW (GB) Ltd., Farnborough 
+ 
+–
+–
+100
+BMW (P + A) Ltd., Farnborough 
+ 
+–
+–
+100
+BMW (UK) Pensions Services Ltd., Hams Hall 
+ 
+–
+–
+100
+BMW Car Club Ltd., Farnborough 
+ 
+–
+–
+100
+BMW Drivers Club Ltd., Farnborough 
+ 
+–
+–
+100
+BMW Group Benefit Trust Ltd., Farnborough 
+ 
+–
+–
+100
+BMW i Ventures B. V., ’s-Gravenhage 
+ 
+–
+–
+100
+BMW Motorsport Ltd., Farnborough 
+ 
+–
+–
+100
+Cobalt Holdings Ltd., Basingstoke 
+ 
+–
+–
+100
+Cobalt Telephone Technologies Ltd., Basingstoke 
+ 
+–
+–
+100
+Content4all BV, Amsterdam 
+ 
+–
+–
+100
+John Cooper Garages Ltd., Farnborough 
+ 
+–
+–
+100
+John Cooper Works Ltd., Farnborough 
+ 
+–
+–
+100
+OOO BMW Leasing, Moscow
+ 
+–
+–
+100
+Park-line Aqua B. V., ’s-Gravenhage 
+ 
+–
+–
+100
+Park-line B. V., ’s-Gravenhage 
+ 
+–
+–
+100
+Park-line Holding B. V., ’s-Gravenhage 
+ 
+–
+–
+100
+Park-Mobile (UK) Limited, Basingstoke
+ 
+–
+–
+100
+Parkmobile Belgium BvBa, Antwerpen 
+ 
+–
+–
+100
+Parkmobile Benelux B. V., Amsterdam 
+ 
+–
+–
+100
+Parkmobile France SAS, Versailles 
+ 
+–
+–
+100
+Parkmobile Group BV, Amsterdam 
+ 
+–
+–
+100
+Parkmobile Group Holding BV, Amsterdam 
+ 
+–
+–
+100
+Parkmobile Hellas SA, Athens 
+ 
+–
+–
+60
+Parkmobile Licenses B. V., Amsterdam 
+ 
+–
+–
+100
+Parkmobile Limited, Basingstoke 
+ 
+–
+–
+100
+Parkmobile Software BV, Amsterdam 
+ 
+–
+–
+100
+Parkmobile Suisse SA, Bulle 
+ 
+–
+–
+100
+U. T. E. Alphabet España-Bujarkay, Sevilla 
+ 
+–
+–
+90
+30
+Financial 
+Statements of 
+BMW AG
+Notes
+List of Investments 
+at 31 December 
+2016
+
+The Americas
+217-07 Northern Boulevard Corporation, Wilmington, Delaware 
+–
+–
+100
+BMW Experience Centre Inc., Richmond Hill, Ontario 
+ 
+–
+–
+100
+BMW i Ventures, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Leasing de Argentina S. A., Buenos Aires 
+ 
+–
+–
+100
+BMW Operations Corp., Wilmington, Delaware 
+ 
+–
+–
+100
+BMW Technology Corporation, Wilmington, Delaware 
+ 
+–
+–
+100
+Designworks / USA, Inc., Newbury Park, California 
+ 
+–
+–
+100
+MINI Business Innovation, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+ReachNow, LLC, Wilmington, Delaware 
+ 
+–
+–
+100
+Toluca Planta de Automoviles, S. A. de C. V., Mexico City 
+ 
+–
+–
+100
+Africa
+BMW Automobile Distributors (Pty) Ltd., Midrand
+–
+–
+100
+BPF Midrand Property Holdings (Pty) Ltd., Midrand
+ 
+–
+–
+100
+Multisource Properties (Pty) Ltd., Midrand
+ 
+–
+–
+100
+Asia
+BMW Finance (United Arab Emirates) Ltd., Dubai 
+–
+–
+100
+BMW Financial Services Hong Kong Limited, Hong Kong 
+–
+–
+51
+BMW Financial Services Singapore Pte Ltd., Singapore 
+–
+–
+100
+BMW India Leasing Pvt. Ltd., Gurgaon 
+–
+–
+100
+BMW Insurance Services Korea Co. Ltd., Seoul 
+–
+–
+100
+BMW Philippines Corp., Manila 
+–
+–
+70
+Herald International Financial Leasing Co., Ltd., Tianjin 
+–
+–
+100
+THEPSATRI Co., Ltd., Bangkok 9
+–
+–
+49
+31
+
+BMW AG’s associated companies, joint ventures and joint operations at 31 December 2016
+ 
+Companies
+Equity 
+in € million
+Profit / loss 
+in € million
+Capital invest-
+ment in %
+Joint ventures – equity accounted
+DOMESTIC
+DriveNow GmbH & Co. KG, Munich 8
+38
+– 2
+50
+DriveNow Verwaltungs GmbH, Munich 8
+–
+–
+50
+FOREIGN
+BMW Brilliance Automotive Ltd., Shenyang 8
+4,678
+1,061
+50
+Associated companies – equity accounted
+FOREIGN
+THERE Holding B. V., Amsterdam 8
+2,003
+–
+33
+Joint operations – proportionately-consolidated entities
+DOMESTIC
+SGL Automotive Carbon Fibers GmbH & Co. KG, Munich 8
+43
+10
+49
+SGL Automotive Carbon Fibers Verwaltungs GmbH, Munich 8
+–
+–
+49
+FOREIGN
+SGL Automotive Carbon Fibers, LLC, Dover, Delaware 8
+44
+2
+49
+Not equity accounted or proportionately-consolidated entities
+DOMESTIC 1
+Encory GmbH, Unterschleißheim 
+ 
+–
+–
+50
+Digital Energy Solutions GmbH & Co. KG, Munich 
+ 
+–
+–
+50
+The Retail Performance Company GmbH, Munich 
+ 
+–
+–
+50
+Abgaszentrum der Automobilindustrie GbR, Weissach 
+ 
+–
+–
+25
+PDB – Partnership for Dummy Technology and Biomechanics GbR, Gaimersheim 
+ 
+–
+–
+20
+FOREIGN 1
+BMW Albatha Leasing LLC, Dubai 
+ 
+–
+–
+40
+BMW Albatha Finance PSC, Dubai 
+ 
+–
+–
+40
+BMW AVTOTOR Holding B. V., Amsterdam 
+ 
+–
+–
+50
+Stadspasparkeren B. V., Deurne 
+ 
+–
+–
+30
+IP Mobile N. V., Brussels
+ 
+–
+–
+25
+Parkmobile International Holding BV, Utrecht 10
+ 
+–
+–
+18
+Mini Urban X Accelerator SPV, LLC, Wilmington, Delaware 
+ 
+–
+–
+46
+Bavarian & Co. Ltd., Incheon 
+ 
+– 
+– 
+20
+32
+Financial 
+Statements of 
+BMW AG
+Notes
+List of Investments 
+at 31 December 
+2016
+
+BMW AG’s participations at 31 December 2016
+ 
+Companies
+Equity 
+in € million
+Profit / loss 
+in € million
+Capital invest-
+ment in %
+DOMESTIC 7
+Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, Kaiserslautern 
+-
+-
+4.6
+GSB Sonderabfall-Entsorgung Bayern GmbH, Baar-Ebenhausen 
+ 
+-
+-
+3.1
+Hubject GmbH, Berlin 
+ 
+-
+-
+16.7
+IVM Industrie-Verband Motorrad GmbH & Co. Dienstleistungs KG, Essen 
+ 
+-
+-
+18.9
+Joblinge gemeinnützige AG Berlin, Berlin 
+ 
+-
+-
+9.8
+Joblinge gemeinnützige AG Leipzig, Leipzig 
+ 
+-
+-
+16.7
+Joblinge gemeinnützige AG München, Munich 
+ 
+-
+-
+6.2
+RA Rohstoffallianz GmbH i. L., Berlin 
+ 
+-
+-
+10.5
+Racer Benchmark Group GmbH, Landsberg am Lech 
+ 
+-
+-
+9.1
+SGL Carbon SE, Wiesbaden 
+ 
+-
+-
+18.3
+FOREIGN 7
+Chargemaster Plc., Luton 
+ 
+-
+-
+1.5
+Gios Holding B. V., Oss 
+ 
+-
+-
+12.0
+JustPark Parking Limited, London 
+ 
+-
+-
+6.7
+Parkopedia Ltd., Birmingham
+ 
+-
+-
+10.6
+Carbon, Inc., Wilmington, Delaware 
+ 
+-
+-
+1.1
+ChargePoint, Inc., Wilmington, Delaware 
+ 
+-
+-
+3.6
+Desktop Metal, Inc., Wilmington, Delaware 
+ 
+-
+-
+0.3
+Life360, Inc., Dover, Delaware 
+ 
+-
+-
+3.3
+Nauto, Inc., Dover, Delaware 
+ 
+- 
+-
+1.1
+Rever Moto, Inc., Wilmington, Delaware 
+ 
+-
+-
+16.9
+RideCell, Inc., Wilmington, Delaware 
+ 
+-
+-
+18.6
+Scoop Technologies, Inc., Wilmington, Delaware
+ 
+-
+-
+9.1
+Srividya Tech, Inc., Wilmington, Delaware 
+ 
+-
+-
+11.8
+striVB Labs., Inc., Camden, Delaware 
+ 
+-
+-
+1.7
+Turo, Inc., Dover, Delaware 
+ 
+-
+-
+0.9
+Zendrive, Inc., Dover, Delaware 
+ 
+-
+-
+2.7
+ZIRX Technologies, Inc., Dover, Delaware 
+ 
+- 
+-
+2.6
+Moovit App Global Ltd., St. Ness Ziona 
+ 
+- 
+- 
+1.2
+1	 The amounts shown for the German subsidiaries correspond to the annual financial statements drawn up in accordance with German accounting requirements (HGB).
+2	The amounts shown for the foreign subsidiaries correspond to the annual financial statements drawn up in accordance with uniform IFRS rules. Equity and earnings not denominated in euro are translated into 
+euro using the closing exchange rate at the balance sheet date.
+3	Profit and Loss Transfer Agreement with BMW AG.
+4	Profit and Loss Transfer Agreement with a subsidiary of BMW AG.
+5	Exemption from drawing up a management report applied in accordance with § 264 (3) and § 264 b HGB.
+6	Exemption from publication of financial statements applied in accordance with § 264 (3) and § 264 b HGB.
+7	These entities are neither consolidated nor accounted for using the equity method due to their overall immateriality for the Group Financial Statements.
+8	The amounts shown for entities accounted for using the equity method and for proportionately consolidated entities correspond to the annual financial statements drawn up in accordance with uniform IFRS 
+rules. Equity not denominated in euro is translated into euro using the closing exchange rate at the balance sheet date, earnings are translated using the average rate.
+9	Including power to appoint representative bodies.
+10	Significant influence.
+11	Exemption pursuant to Article 2:403 of the Civil Code of the Netherlands applied.
+12	First-time consolidation.
+13	First-time consolidation in the financial year 2016: BMW Leasing (GB) Ltd., Farnborough.
+33
+
+MEMBERS OF THE  
+BOARD OF MANAGEMENT
+Harald Krüger (*1965)
+Chairman
+Milagros Caiña Carreiro-Andree (*1962)
+Human Resources, Industrial Relations Director
+Dr.-Ing. Klaus Draeger (*1956)
+Purchasing and Supplier Network
+(until 30 September 2016)
+Mandates
+	 TÜV SÜD AG (since 15 July 2016)
+Markus Duesmann (*1969)
+Purchasing and Supplier Network
+(since 1 October 2016)
+Mandates
+	 BMW Motoren GmbH (until 7 November 2016)
+Dr. Friedrich Eichiner (*1955)
+Finance
+(until 31 December 2016)
+Mandates
+	 Allianz Deutschland AG (until 30 June 2016)
+	 Allianz SE (since 4 May 2016) 
+	 FESTO Aktiengesellschaft
+	 BMW Brilliance Automotive Ltd.  
+(Deputy Chairman, until 1 January 2017) 
+	 FESTO Management Aktiengesellschaft
+Klaus Fröhlich (*1960)
+Development
+Mandates
+	 HERE International B. V. 
+Dr. Nicolas Peter (*1962)
+Finance
+(since 1 January 2017)
+Mandates
+	 BMW Brilliance Automotive Ltd.  
+(Deputy Chairman, since 1 January 2017)
+Dr. Ian Robertson (HonDSc) (*1958)
+Sales and Marketing BMW,  
+Sales Channels BMW Group
+Mandates
+	 Weybourne Limited (since 3 January 2017)
+	 Weybourne Group Limited (since 25 February 2016)
+	 Weybourne Investments Holdings  
+(since 25 February 2016)
+	 Weybourne Management Limited 
+(since 25 February 2016)
+Peter Schwarzenbauer (*1959)
+MINI, Motorrad, Rolls-Royce, 
+Aftersales BMW Group
+Mandates
+	 Rolls-Royce Motor Cars Limited (Chairman)
+Oliver Zipse (*1964)
+Production 
+Mandates
+	 BMW (South Africa) (Pty) Ltd. (Chairman)
+	 BMW Motoren GmbH (Chairman)
+General Counsel:
+Dr. Jürgen Reul
+  Membership of other statutory supervisory boards.
+  Membership of equivalent national or foreign boards of business enterprises.
+  Other mandates.
+34
+Financial 
+Statements of 
+BMW AG
+Notes
+Members of the  
+Board of  
+Management
+Members of the 
+­Supervisory Board
+
+MEMBERS OF THE 
+­SUPERVISORY BOARD
+Dr.-Ing. Dr.-Ing. E. h. Norbert Reithofer (*1956)
+Member since 2015
+Chairman
+Former Chairman of the Board of  
+Management of BMW AG
+Mandates
+	 Siemens Aktiengesellschaft
+	 Henkel AG & Co. KGaA (Shareholders’ Committee)
+Manfred Schoch 1 (*1955)
+Member since 1988
+Deputy Chairman
+Chairman of the European  
+and General Works Council  
+Industrial Engineer
+Stefan Quandt (*1966)
+Member since 1997
+Deputy Chairman
+Entrepreneur
+Mandates
+	 DELTON AG (Chairman)
+	 AQTON SE (Chairman)
+	 Entrust Datacard Corp.
+Stefan Schmid 1 (*1965)
+Member since 2007
+Deputy Chairman
+Chairman of the Works Council, Dingolfing
+Dr. jur. Karl-Ludwig Kley (*1951)
+Member since 2008
+Deputy Chairman
+Chairman of the ­Supervisory Board of the E.ON SE 
+(since 8 June 2016) 
+Mandates
+	 E.ON SE (Chairman, since 8 June 2016)
+	 Bertelsmann Management SE (until 9 May 2016)
+	 Bertelsmann SE & Co. KGaA (until 9 May 2016)
+	 Deutsche Lufthansa Aktiengesellschaft
+	 Verizon Communications Inc. 
+Christiane Benner 2 (*1968)
+Member since 2014
+Second Chairman of IG Metall
+Mandates
+	 Robert Bosch GmbH
+Franz Haniel (*1955)
+Member since 2004
+Entrepreneur
+Mandates
+	 DELTON AG (Deputy Chairman)
+	 Franz Haniel & Cie. GmbH (Chairman)
+	 Heraeus Holding GmbH
+	 TBG Limited
+Ralf Hattler 3 (*1968)
+Member since 1 January 2017 
+Head of Indirect Purchasing
+Prof. Dr. rer. nat. Dr. h. c. Reinhard Hüttl (*1957)
+Member since 2008
+Chairman of the Executive Board  
+of Helmholtz-Zentrum Potsdam  
+Deutsches GeoForschungsZentrum - GFZ
+University Professor
+	
+1 Employee representatives (company employees).
+	
+2 Employee representatives (union representatives).
+	
+3 Employee representatives (members of senior management).
+  Membership of other statutory supervisory boards.
+  Membership of equivalent national or foreign boards of business enterprises.
+  Other mandates.
+35
+
+Dr. h. c. Robert W. Lane (*1949)
+Member since 2009
+Former Chairman and Chief Executive Officer of 
+Deere & Company 
+Mandates
+	 General Electric Company
+Horst Lischka 2 (*1963)
+Member since 2009
+General Representative of IG Metall Munich
+Mandates
+	 KraussMaffei Group GmbH
+	 MAN Truck & Bus AG
+	 Städtisches Klinikum München GmbH
+Willibald Löw 1 (*1956)
+Member since 1999
+Chairman of the Works Council, Landshut
+Simone Menne (*1960)
+Member since 2015
+Member of Management of Boehringer
+Ingelheim Gruppe, Finance
+(since 1 September 2016)
+Mandates
+	 Delvag Luftfahrtversicherungs-AG (Chairman)  
+(until 31 August 2016) 
+	 Deutsche Post AG
+	 LSG Lufthansa Service Holding AG (Chairman) 
+(until 31 December 2016)
+	 Lufthansa Cargo AG 
+(until 31 December 2016)
+	 Lufthansa Technik AG 
+(until 31 December 2016)
+	 FWB Frankfurter Wertpapierbörse  
+(Exchange Council) 
+(until 31 August 2016)
+	 Miles & More GmbH (Chairman Advisory Board) 
+(until 31 August 2016)
+Prof. Dr. rer. nat. Dr.-Ing. E. h.  
+Henning Kagermann (*1947)
+Member since 2010
+President of acatech – Deutsche Akademie  
+der Technikwissenschaften e. V.
+Mandates
+	 Deutsche Bank AG
+	 Deutsche Post AG
+	 Münchener Rückversicherungs-Gesellschaft 
+Aktiengesellschaft in München
+Susanne Klatten (*1962)
+Member since 1997
+Entrepreneur
+Mandates
+	 ALTANA AG (Deputy Chairman)
+	 SGL Carbon SE (Chairman)
+	 UnternehmerTUM GmbH (Chairman)
+Prof. Dr. rer. pol. Renate Köcher (*1952)
+Member since 2008
+Director of Institut für Demoskopie  
+Allensbach Gesellschaft zum Studium der  
+öffentlichen Meinung mbH
+Mandates
+	 Allianz SE (until 3 May 2017)
+	 Infineon Technologies AG
+	 Nestlé Deutschland AG
+	 Robert Bosch GmbH
+Ulrich Kranz 3 (*1958)
+Member from 2014 to 31 December 2016
+Head of Product Line BMW i
+	
+1 Employee representatives (company employees).
+	
+2 Employee representatives (union representatives).
+	
+3 Employee representatives (members of senior management).
+  Membership of other statutory supervisory boards.
+  Membership of equivalent national or foreign boards of business enterprises.
+  Other mandates.
+36
+Financial 
+Statements of 
+BMW AG
+Notes
+Members of the  
+­Supervisory Board
+
+Dr. Dominique Mohabeer 1 (*1963)
+Member since 2012
+Member of the Works Council, Munich
+Brigitte Rödig 1 (*1963)
+Member since 2013
+Member of the Works Council, Dingolfing
+Jürgen Wechsler 2 (*1955)
+Member since 2011
+Regional Head of IG Metall Bavaria
+Mandates
+	 Schaeffler AG (Deputy Chairman) 
+	 Siemens Healthcare GmbH (Deputy Chairman)
+Werner Zierer 1 (*1959)
+Member since 2001
+Chairman of the Works Council, Regensburg
+37
+
+Munich, 14 February 2017
+Bayerische Motoren Werke
+Aktiengesellschaft
+The Board of Management
+Harald Krüger
+Milagros Caiña Carreiro-Andree	
+Markus Duesmann
+Klaus Fröhlich	
+Dr. Nicolas Peter
+Dr. Ian Robertson (HonDSc)	
+Peter Schwarzenbauer
+Oliver Zipse
+38
+Financial 
+Statements of 
+BMW AG
+Notes
+Responsibility  
+­Statement by the  
+Company’s Legal  
+Representatives
+
+BMW AG  
+RESPONSIBILITY 
+­STATEMENT BY THE  
+COMPANY’S LEGAL  
+REPRESENTATIVES
+Responsibility Statement by the Legal 
+Representatives of the Company pursuant to § 264 
+(2) sentence 3 and § 289 (1) sentence 5 HGB
+“To the best of our knowledge, and in accordance 
+with the applicable reporting principles, the Annual 
+Financial Statements of Bayerische Motoren Werke 
+Aktiengesellschaft give a true and fair view of the 
+assets, liabilities, financial position and results 
+of operations of the Company in accordance with 
+German accounting principles, and the Management 
+Report includes a fair review of the development 
+and performance of the business and the position 
+of the Company, together with a description of 
+the principal opportunities and risks associated 
+with the expected development of the Company.” 
+Munich, 14 February 2017
+Bayerische Motoren Werke
+Aktiengesellschaft
+The Board of Management
+Harald Krüger
+Milagros Caiña Carreiro-Andree	
+Markus Duesmann
+Klaus Fröhlich	
+Dr. Nicolas Peter
+Dr. Ian Robertson (HonDSc)	
+Peter Schwarzenbauer
+Oliver Zipse
+39
+
+AUDITOR’S REPORT
+Auditor’s Report
+We have audited the annual financial statements, 
+comprising the balance sheet, the income statement 
+and the notes to the financial statements, together 
+with the bookkeeping system, and its report on the 
+position of the Company and the Group of the Bay-
+erische Motoren Werke Aktiengesellschaft for the 
+business year from 1 January to 31 December 2016. 
+The maintenance of the books and records and the 
+preparation of the annual financial statements and 
+management report in accordance with German 
+commercial law are the responsibility of the Compa-
+ny’s management. Our responsibility is to express an 
+opinion on the annual financial statements, together 
+with the bookkeeping system, and the management 
+report based on our audit.
+We conducted our audit of the annual financial 
+statements in accordance with § 317 HGB [“Han-
+delsgesetzbuch”: “German Commercial Code”] and 
+German generally accepted standards for the audit 
+of financial statements promulgated by the Institut 
+der Wirtschaftsprüfer [Institute of Public Auditors 
+in Germany] (IDW). Those standards require that 
+we plan and perform the audit such that misstate-
+ments materially affecting the presentation of the net 
+assets, financial position and results of operations in 
+the annual financial statements in accordance with 
+German principles of proper accounting and in the 
+management report are detected with reasonable 
+assurance. Knowledge of the business activities and 
+the economic and legal environment of the Company 
+and expectations as to possible misstatements are 
+taken into account in the determination of audit pro-
+cedures. The effectiveness of the accounting-related 
+internal control system and the evidence supporting 
+the disclosures in the books and records, the annual 
+financial statements and the management report are 
+examined primarily on a test basis within the frame-
+work of the audit. The audit includes assessing the 
+accounting principles used and significant estimates 
+made by management, as well as evaluating the overall 
+presentation of the annual financial statements and 
+management report. We believe that our audit pro-
+vides a reasonable basis for our opinion. 
+Our audit has not led to any reservations.
+In our opinion, based on the findings of our audit, 
+the annual financial statements comply with the legal 
+requirements and give a true and fair view of the net 
+assets, financial position and results of operations of 
+the Company in accordance with German principles 
+of proper accounting. The management report is con-
+sistent with the annual financial statements, complies 
+with the German statutory requirements, and as a 
+whole provides a suitable view of the Company’s 
+position and suitably presents the opportunities and 
+risks of future development.
+Munich, 24 February 2017
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+Sailer	
+Feege 
+Wirtschaftsprüfer	
+Wirtschaftsprüfer
+40
+Financial 
+Statements of 
+BMW AG
+Auditor’s Report
+Financial Calendar
+
+FINANCIAL CALENDAR
+2017
+21 March 2017
+Annual Accounts Press Conference 
+22 March 2017
+Analyst and Investor Conference
+4 May 2017
+Quarterly Report to 31 March 2017
+11 May 2017
+Annual General Meeting
+3 August 2017
+Quarterly Report to 30 June 2017
+7 November 2017
+Quarterly Report to 30 September 2017
+2018
+21 March 2018
+Annual Report 2017
+21 March 2018
+Annual Accounts Press Conference 
+22 March 2018
+Analyst and Investor Conference 
+4 May 2018
+Quarterly Report to 31 March 2018 
+17 May 2018
+Annual General Meeting 
+2 August 2018
+Quarterly Report to 30 June 2018
+7 November 2018
+Quarterly Report to 30 September 2018
+41
+
+2016
+2015
+2014
+2013
+Revenues 1
+€ million
+75,350 
+72,384 
+66,599 
+60,474
+Change
+%
+4.1 
+8.7 
+10.1 
+2.8
+Export ratio
+%
+82.4 
+83.0 
+81.7 
+81.5
+Production
+  
+  
+  
+ 
+Automobiles 2
+Units
+2,359,756 
+2,279,503 
+2,165,566 
+2,006,366
+Motorcycles 3
+Units
+145,555 
+151,004 
+133,615 
+110,127
+Sales volume
+  
+  
+  
+ 
+Automobiles 2
+Units
+2,355,726 
+2,275,367 
+2,166,772 
+1,995,903
+Motorcycles 3
+Units
+147,290 
+144,291 
+133,635 
+110,039
+Capital expenditure
+€ million
+2,346 
+2,748 
+3,150 
+3,203
+Depreciation, amortisation and impairment losses
+€ million
+2,233 
+2,072 
+1,890 
+1,732
+Workforce at the end of the year 4
+ 
+85,754 
+84,860 
+80,675 
+77,110
+Tangible, intangible and investment assets 5
+€ million
+14,711 
+14,619 
+13,945 
+12,833
+Current assets, prepayments and  
+surplus of designated plan assets over liabilities
+€ million
+21,588 
+20,358 
+20,291 
+20,932
+Subscribed capital
+€ million
+657 
+657 
+656 
+656
+Reserves
+€ million
+11,165 
+10,168 
+9,506 
+8,166
+Equity
+€ million
+14,122 
+12,927 
+12,066 
+10,529
+as % of tangible, intangible and investment assets
+%
+96.0 
+88.4 
+86.5 
+82.0
+Balance sheet total
+€ million
+36,299 
+34,977 
+34,236 
+33,765
+Cost of materials
+€ million
+53,862 
+52,128 
+47,008 
+43,402
+Personnel costs 4
+€ million
+8,340 
+7,576 
+6,786 
+6,419
+Income taxes
+€ million
+1,327 
+1,831 
+1,934 
+1,674
+Net profit
+€ million
+3,277 
+2,741 
+3,229 
+2,289
+Dividend
+€ million
+2,3006
+2,102 
+1,904 
+1,707
+per share of common stock with a par value of € 1 each
+€
+3.506
+3.20 
+2.90 
+2.60
+per share of preferred stock with a par value of € 1 each
+€
+3.526
+3.22 
+2.92 
+2.62
+1	Financial Reporting Implementation Act (BilRUG) applied with effect from the beginning of the financial year 2016. Comparative figures for 2015 not adjusted.
+2	Including supplies of series parts to BMW Brilliance Automotive Ltd., Shenyang.
+3	From 2006 up to 2008 including BMW G 650 X assembly by Piaggio S. p. A., Pontedera.
+4	From 2009 onward including personnel seconded from other group entities.
+5	From 2010 onward including property, plant and equipment transferred in conjunction with the merger of BMW Ingenieur-Zentrum GmbH + Co oHG, Dingolfing. 
+From 2011 onward including property, plant and equipment transferred in conjunction with the merger of BMW Maschinenfabrik Spandau GmbH, Berlin. 
+From 2013 onward including tangible and intangible assets transferred in conjunction with the merger of BMW Peugeot Citroën Electrification GmbH, Munich. 
+From 2015 onward including property, plant and equipment transferred in conjunction with the merger of BMW Forschung und Technik GmbH, Munich. 
+6	Proposed by the Board of Management.
+BMW AG  
+10-YEAR COMPARISON
+42
+Financial 
+Statements of 
+BMW AG
+BMW AG  
+Ten-year Comparison
+
+2012
+2011
+2010
+2009
+2008
+2007
+58,805 
+55,007 
+45,773 
+37,980 
+44,313 
+48,310
+Revenues1
+6.9 
+20.2 
+20.5 
+14.3 
+8.3 
+13.9
+Change
+79.6 
+77.3 
+76.7 
+73.8 
+75.6 
+76.1
+Export ratio
+  
+  
+  
+  
+  
+ 
+Production
+1,861,826 
+1,738,160 
+1,481,253 
+1,258,417 
+1,439,918 
+1,541,503
+Automobiles 2
+113,811 
+110,360 
+99,236 
+82,631 
+104,220 
+104,396
+Motorcycles 3
+  
+  
+  
+  
+  
+ 
+Sales volume
+1,868,158 
+1,723,637 
+1,460,923 
+1,231,893 
+1,446,055 
+1,551,490
+Automobiles 2
+110,857 
+110,145 
+97,586 
+86,451 
+103,077 
+104,076
+Motorcycles 3
+2,776 
+2,032 
+1,582 
+1,667 
+2,064 
+1,670
+Capital expenditure
+1,613 
+1,578 
+1,540 
+1,505 
+1,569 
+1,791
+Depreciation, amortisation and impairment losses
+74,571 
+71,630 
+69,518 
+70,223 
+71,596 
+76,064
+Workforce at the end of the year4
+11,078 
+9,663 
+8,273 
+6,984 
+6,643 
+9,909
+Tangible, intangible and investment assets5
+20,887 
+17,845 
+16,073 
+17,663 
+16,673 
+12,707
+Current assets, prepayments and 
+surplus of designated plan assets over liabilities
+656 
+655 
+655 
+655 
+654 
+654
+Subscribed capital
+7,568 
+6,059 
+5,581 
+4,502 
+4,487 
+4,300
+Reserves
+9,864 
+8,222 
+7,088 
+5,354 
+5,338 
+5,648
+Equity
+89.0 
+85.1 
+85.7 
+76.7 
+80.4 
+57.0
+as % of tangible, intangible and investment assets
+31,965 
+27,508 
+24,346 
+24,647 
+23,316 
+22,616
+Balance sheet total
+42,178 
+39,324 
+32,875 
+28,300 
+34,044 
+36,638
+Cost of materials
+6,030 
+5,758 
+5,428 
+5,850 
+5,125 
+4,797
+Personnel costs4
+1,666 
+2,096 
+1,106 
+403 
+11 
+131
+Income taxes
+3,131 
+1,970 
+1,506 
+202 
+384 
+1,184
+Net profit
+1,640 
+1,508 
+852 
+197 
+197 
+694
+Dividend
+2.50 
+2.30 
+1.30 
+0.30 
+0.30 
+1.06
+per share of common stock with a par value of € 1 each
+2.52 
+2.32 
+1.32 
+0.32 
+0.32 
+1.08
+per share of preferred stock with a par value of € 1 each
+43
+
+CONTACTS
+Business and Finance Press
+Telephone	
++ 49 89 382-2 45 44
+	
++ 49 89 382-2 41 18
+Fax	
++ 49 89 382-2 44 18
+E-mail	
+presse@bmwgroup.com
+Investor Relations
+Telephone	
++ 49 89 382-3 16 84
+	
++ 49 89 382-2 53 87
+Fax	
++ 49 89 382-1 46 61
+E-mail	
+ir@bmwgroup.com
+The BMW Group on the Internet
+Further information about the BMW Group is 
+­available online at  www.bmwgroup.com.
+Investor Relations information is available directly 
+at  www.bmwgroup.com / ir. 
+Information about the various BMW Group brands 
+is available at  www.bmw.com,  www.mini.com
+and  www.rolls-roycemotorcars.com.
+Published by
+Bayerische Motoren Werke
+Aktiengesellschaft
+80788 Munich
+Germany
+Telephone + 49 89 382-0
