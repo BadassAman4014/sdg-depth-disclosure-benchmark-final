@@ -14,6 +14,7 @@ import os
 import sys
 import logging
 from pathlib import Path
+import re
 import pymupdf
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
@@ -23,24 +24,63 @@ REPORTS_DIR = Path("reports")
 OUTPUT_DIR  = Path("data/texts")
 MIN_TEXT_LEN = 500  # skip PDFs that yield less than this many chars (likely scanned/corrupt)
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler("data/extract_text.log", mode="w", encoding="utf-8"),
-        logging.StreamHandler(),
-    ],
-)
-log = logging.getLogger(__name__)
+CAESAR_WORDS_3 = {
+    "WKH": "THE", "DQG": "AND", "IRU": "FOR", "DOO": "ALL", "WR": "TO",
+    "RI": "OF", "LQ": "IN", "LV": "IS", "WKDW": "THAT", "WKLV": "THIS",
+    "ZLWK": "WITH", "DV": "AS", "RQ": "ON", "DW": "AT", "IURP": "FROM",
+    "KDYH": "HAVE", "EHHQ": "BEEN", "FRPSDQ\\": "COMPANY", "GLUHFWRUV": "DIRECTORS",
+    "HPSOR\\HHV": "EMPLOYEES", "FRPSOLDQFH": "COMPLIANCE", "GLUHFWLYH": "DIRECTIVE"
+}
 
+def _decode_caesar_char_3(c: str) -> str:
+    o = ord(c)
+    if ord('A') <= o <= ord('Z'):
+        return chr((o - ord('A') - 3) % 26 + ord('A'))
+    elif ord('a') <= o <= ord('z'):
+        return chr((o - ord('a') - 3) % 26 + ord('a'))
+    elif c == '\\':
+        return 'Y'
+    elif c == '[':
+        return 'X'
+    elif c == ']':
+        return 'Z'
+    return c
+
+def _decode_caesar_word_3(word: str) -> str:
+    return "".join(_decode_caesar_char_3(c) for c in word.replace("ɝ", "ffi").replace("ȴ", "fi"))
+
+def sanitize_page_text(raw: str) -> str:
+    # 1. Clean control chars, null bytes, and common ligatures
+    t = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]', ' ', raw)
+    t = t.replace("ɝ", "ffi").replace("ȴ", "fi").replace("\xad", "")
+    
+    # 2. Check for +3 Caesar shift (fonts lacking /ToUnicode CMaps)
+    tokens = re.findall(r'[A-Za-z\\\[\]]+', t)
+    caesar_hits = sum(1 for tok in tokens if tok.upper() in CAESAR_WORDS_3 or tok in CAESAR_WORDS_3)
+    if caesar_hits >= 2 or (len(tokens) > 5 and caesar_hits / len(tokens) > 0.15):
+        t = re.sub(r'[A-Za-z\\\[\]]+', lambda m: _decode_caesar_word_3(m.group(0)), t)
+    else:
+        for bad_w, good_w in CAESAR_WORDS_3.items():
+            t = re.sub(r'(?<![A-Za-z])' + re.escape(bad_w) + r'(?![A-Za-z])', good_w, t, flags=re.IGNORECASE)
+            
+    # 3. Heal mid-word justification gaps
+    t = re.sub(r'\b(sys)\s{2,}(tem)\b', r'\1\2', t, flags=re.I)
+    t = re.sub(r'\b(ap)\s{2,}(proach)\b', r'\1\2', t, flags=re.I)
+    t = re.sub(r'\b(compli)\s{2,}(ance)\b', r'\1\2', t, flags=re.I)
+    t = re.sub(r'\b(busi)\s{2,}(ness)\b', r'\1\2', t, flags=re.I)
+    t = re.sub(r'\b(require)\s{2,}(ments)\b', r'\1\2', t, flags=re.I)
+    t = re.sub(r'\b(employ)\s{2,}(ees)\b', r'\1\2', t, flags=re.I)
+    return t
 
 def extract_text_from_pdf(pdf_path: Path) -> str:
-    """Extract all text from a PDF using PyMuPDF."""
-    text = ""
+    """Extract and sanitize text from a PDF using PyMuPDF."""
+    text_blocks = []
     with pymupdf.open(str(pdf_path)) as doc:
         for page in doc:
-            text += "\n" + page.get_text()
-    return text.strip()
+            page_text = page.get_text("text")
+            if page_text:
+                text_blocks.append(sanitize_page_text(page_text))
+    return "\n".join(text_blocks).strip()
 
 
 def process_one_worker(item: tuple) -> dict:

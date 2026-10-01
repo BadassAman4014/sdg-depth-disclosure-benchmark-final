@@ -87,27 +87,102 @@ def pack_sentences_greedy_strict(sentences: list[str], max_tokens: int) -> list[
     return chunks
 
 
-# ── Text cleaning (from AI-For-Sustainability) ────────────────────────────────
+# ── Text cleaning & Gibberish Elimination ─────────────────────────────────────
+
+MOJIBAKE_MAP = {
+    "├ñ": "ä", "├╢": "ö", "├╝": "ü", "├ƒ": "ß",
+    "├ä": "Ä", "├Ц": "Ö", "├Ь": "Ü",
+    "Ã¤": "ä", "Ã¶": "ö", "Ã¼": "ü", "ÃŸ": "ß",
+    "Ã„": "Ä", "Ã–": "Ö", "Ãœ": "Ü"
+}
+
+CAESAR_WORDS_3 = {
+    "WKH": "THE", "DQG": "AND", "IRU": "FOR", "DOO": "ALL", "WR": "TO",
+    "RI": "OF", "LQ": "IN", "LV": "IS", "WKDW": "THAT", "WKLV": "THIS",
+    "ZLWK": "WITH", "DV": "AS", "RQ": "ON", "DW": "AT", "IURP": "FROM",
+    "KDYH": "HAVE", "EHHQ": "BEEN", "FRPSDQ\\": "COMPANY", "GLUHFWRUV": "DIRECTORS",
+    "HPSOR\\HHV": "EMPLOYEES", "FRPSOLDQFH": "COMPLIANCE", "GLUHFWLYH": "DIRECTIVE"
+}
+
+def _decode_caesar_char_3(c: str) -> str:
+    o = ord(c)
+    if ord('A') <= o <= ord('Z'):
+        return chr((o - ord('A') - 3) % 26 + ord('A'))
+    elif ord('a') <= o <= ord('z'):
+        return chr((o - ord('a') - 3) % 26 + ord('a'))
+    elif c == '\\':
+        return 'Y'
+    elif c == '[':
+        return 'X'
+    elif c == ']':
+        return 'Z'
+    return c
+
+def _decode_caesar_word_3(word: str) -> str:
+    return "".join(_decode_caesar_char_3(c) for c in word.replace("ɝ", "ffi").replace("ȴ", "fi"))
+
+def is_table_debris(text: str) -> bool:
+    """Filter out financial tables with no narrative sentences."""
+    lines = [l.strip() for l in text.split("\n") if l.strip()]
+    if not lines:
+        return True
+    unit_lines = sum(1 for l in lines if re.match(r'^(€k|€m|kEUR|TEUR|\$m|€|\$|%|in €k|in %)$', l, re.I))
+    if unit_lines >= 3:
+        return True
+    words = re.findall(r'[A-Za-zÄÖÜäöüß]{2,}', text)
+    numbers = re.findall(r'\b\d+([.,]\d+)?\b', text)
+    if len(words) < 15 and len(numbers) > len(words):
+        return True
+    accounting_noise = ["Book value", "Cost of acquisition", "Measurement according to IAS", "Trade accounts receivable"]
+    if sum(1 for term in accounting_noise if term.lower() in text.lower()) >= 2 and len(words) < 40:
+        return True
+    return False
 
 def clean_pdf_text(raw_text: str) -> str:
-    """Clean common PDF artifacts."""
+    """Clean common PDF artifacts, Caesar shifts, and Mojibake."""
     text = raw_text.replace("\r\n", "\n").replace("\r", "\n")
-    text = re.sub(r"Page\s+\d+", "", text)       # drop "Page 12"
-    text = re.sub(r"-\n", "", text)              # de-hyphenate
-    text = re.sub(r"\n([a-z])", r" \1", text)    # join broken lines mid-sentence
-    text = re.sub(r"\n\s*\n+", "\n\n", text)     # collapse extra blank lines
-    text = re.sub(r"[ \t]+", " ", text)          # collapse spaces
-    text = text.replace("\u00ad", "").replace("\u2009", "").strip()
-    return text
+    
+    # Mojibake
+    for bad, good in MOJIBAKE_MAP.items():
+        if bad in text:
+            text = text.replace(bad, good)
+            
+    # Control chars & ligatures
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]', ' ', text)
+    text = text.replace("ɝ", "ffi").replace("ȴ", "fi").replace("\u00ad", "").replace("\u2009", " ")
+    
+    # Caesar shift (+3)
+    tokens = re.findall(r'[A-Za-z\\\[\]]+', text)
+    caesar_hits = sum(1 for tok in tokens if tok.upper() in CAESAR_WORDS_3 or tok in CAESAR_WORDS_3)
+    if caesar_hits >= 2 or (len(tokens) > 5 and caesar_hits / len(tokens) > 0.15):
+        text = re.sub(r'[A-Za-z\\\[\]]+', lambda m: _decode_caesar_word_3(m.group(0)), text)
+    else:
+        for bad_w, good_w in CAESAR_WORDS_3.items():
+            text = re.sub(r'(?<![A-Za-z])' + re.escape(bad_w) + r'(?![A-Za-z])', good_w, text, flags=re.IGNORECASE)
+
+    # De-hyphenate and line structure
+    text = re.sub(r"Page\s+\d+", "", text)
+    text = re.sub(r"-\n", "", text)
+    text = re.sub(r"\n([a-z])", r" \1", text)
+    text = re.sub(r"\n\s*\n+", "\n\n", text)
+    
+    # Heal mid-word splits
+    text = re.sub(r'\b(sys)\s{2,}(tem)\b', r'\1\2', text, flags=re.I)
+    text = re.sub(r'\b(ap)\s{2,}(proach)\b', r'\1\2', text, flags=re.I)
+    text = re.sub(r'\b(compli)\s{2,}(ance)\b', r'\1\2', text, flags=re.I)
+    text = re.sub(r'\b(busi)\s{2,}(ness)\b', r'\1\2', text, flags=re.I)
+    text = re.sub(r'\b(require)\s{2,}(ments)\b', r'\1\2', text, flags=re.I)
+    text = re.sub(r'\b(employ)\s{2,}(ees)\b', r'\1\2', text, flags=re.I)
+    text = re.sub(r"[ \t]+", " ", text)
+    return text.strip()
 
 
 def split_text_into_passages(raw_text: str) -> list[str]:
-    """Clean text, tokenize sentences, and pack into <=512 token passages."""
+    """Clean text, tokenize sentences, and pack into <=512 token passages, filtering table noise."""
     cleaned = clean_pdf_text(raw_text)
     try:
         sentences = [s.strip() for s in nltk.sent_tokenize(cleaned) if s.strip()]
     except Exception:
-        # Fallback simple regex split
         sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', cleaned) if s.strip()]
 
     if not sentences:
@@ -115,8 +190,8 @@ def split_text_into_passages(raw_text: str) -> list[str]:
 
     chunks = pack_sentences_greedy_strict(sentences, MAX_CHUNK_TOKENS)
 
-    # Filter out tiny noise chunks (<10 tokens)
-    valid_chunks = [c for c in chunks if count_tokens(c) >= MIN_CHUNK_TOKENS]
+    # Filter out tiny noise chunks (<10 tokens) and non-narrative accounting table debris
+    valid_chunks = [c for c in chunks if count_tokens(c) >= MIN_CHUNK_TOKENS and not is_table_debris(c)]
     return valid_chunks
 
 

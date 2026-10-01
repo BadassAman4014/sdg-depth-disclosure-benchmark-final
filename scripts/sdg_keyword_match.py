@@ -46,9 +46,13 @@ log = logging.getLogger(__name__)
 # ── Keyword loading & compilation ─────────────────────────────────────────────
 
 def load_keywords(path: Path) -> dict[str, list[str]]:
-    """Load keyword JSON: {category: [pattern_str, ...]}."""
-    with open(path, encoding="utf-8-sig") as f:
-        return json.load(f)
+    """Load keyword JSON: {category: [pattern_str, ...]} with Mojibake auto-healing."""
+    with open(path, encoding="utf-8-sig", errors="replace") as f:
+        content = f.read()
+    for bad, good in [("├ñ", "ä"), ("├╢", "ö"), ("├╝", "ü"), ("├ƒ", "ß"), ("├ä", "Ä"), ("├Ц", "Ö"), ("├Ь", "Ü"),
+                      ("Ã¤", "ä"), ("Ã¶", "ö"), ("Ã¼", "ü"), ("ÃŸ", "ß")]:
+        content = content.replace(bad, good)
+    return json.loads(content)
 
 
 def _is_alnum(c: str) -> bool:
